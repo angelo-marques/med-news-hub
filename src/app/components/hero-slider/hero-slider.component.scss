@@ -1,0 +1,11 @@
+.hero-slider {
+  min-height: 480px;
+}
+
+.slide-container {
+  transition: opacity 0.3s ease;
+
+  &.transitioning {
+    opacity: 0;
+  }
+}

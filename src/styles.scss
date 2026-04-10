@@ -1,0 +1,184 @@
+@use '@angular/material' as mat;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// Angular Material M3 theme (Angular Material 17+)
+html {
+  @include mat.theme((
+    color: (
+      theme-type: light,
+      primary: mat.$azure-palette,
+      tertiary: mat.$green-palette,
+    ),
+    typography: Inter,
+    density: 0,
+  ));
+}
+
+html.dark {
+  @include mat.theme((
+    color: (
+      theme-type: dark,
+      primary: mat.$azure-palette,
+      tertiary: mat.$green-palette,
+    ),
+    density: 0,
+  ));
+}
+
+:root {
+  --bg-primary: #F5F5F5;
+  --bg-secondary: #FFFFFF;
+  --bg-card: linear-gradient(135deg, #E3F2FD, #BBDEFB);
+  --bg-highlight: #C8E6C9;
+  --text-primary: #212121;
+  --text-secondary: #616161;
+  --link-color: #1976D2;
+  --btn-color: #4CAF50;
+  --btn-hover: #388E3C;
+  --header-bg: #FFFFFF;
+  --header-shadow: 0 2px 8px rgba(0,0,0,0.12);
+  --sidebar-bg: #FAFAFA;
+  --border-color: #E0E0E0;
+  --card-shadow: 0 2px 12px rgba(25,118,210,0.15);
+  --hero-gradient: linear-gradient(135deg, #1976D2 0%, #0D47A1 50%, #1B5E20 100%);
+  --tag-bg: #E3F2FD;
+  --tag-color: #1565C0;
+  --success-color: #4CAF50;
+  --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.dark {
+  --bg-primary: #121212;
+  --bg-secondary: #1E1E1E;
+  --bg-card: linear-gradient(135deg, #0D2137, #1A3A5C);
+  --bg-highlight: #1B3A2E;
+  --text-primary: #E8E8E8;
+  --text-secondary: #B0B0B0;
+  --link-color: #64B5F6;
+  --btn-color: #4CAF50;
+  --btn-hover: #66BB6A;
+  --header-bg: #1E1E1E;
+  --header-shadow: 0 2px 8px rgba(0,0,0,0.4);
+  --sidebar-bg: #1A1A1A;
+  --border-color: #333333;
+  --card-shadow: 0 2px 12px rgba(0,0,0,0.4);
+  --hero-gradient: linear-gradient(135deg, #0D47A1 0%, #01579B 50%, #1B5E20 100%);
+  --tag-bg: #0D2137;
+  --tag-color: #64B5F6;
+}
+
+* { box-sizing: border-box; }
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Inter', system-ui, sans-serif;
+  transition: var(--transition);
+  margin: 0;
+  padding: 0;
+}
+
+// Newspaper-style typography
+h1, h2, h3 { font-family: 'Georgia', serif; }
+a { color: var(--link-color); text-decoration: none; transition: var(--transition); }
+a:hover { text-decoration: underline; opacity: 0.85; }
+
+// Custom scrollbar
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-primary); }
+::-webkit-scrollbar-thumb { background: var(--link-color); border-radius: 3px; }
+
+// Utility classes
+.vex-card {
+  background: var(--bg-card);
+  border-radius: 12px;
+  box-shadow: var(--card-shadow);
+  border: 1px solid var(--border-color);
+  transition: var(--transition);
+  &:hover { transform: translateY(-4px); box-shadow: 0 8px 24px rgba(25,118,210,0.25); }
+}
+
+.vex-tag {
+  background: var(--tag-bg);
+  color: var(--tag-color);
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.vex-btn {
+  background: var(--btn-color);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition);
+  &:hover { background: var(--btn-hover); transform: translateY(-1px); }
+}
+
+// Loading skeleton
+.skeleton {
+  background: linear-gradient(90deg, var(--border-color) 25%, var(--bg-secondary) 50%, var(--border-color) 75%);
+  background-size: 200% 100%;
+  animation: skeleton-loading 1.5s infinite;
+  border-radius: 4px;
+}
+@keyframes skeleton-loading {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+// Fade in animation
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(8px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+// Line clamp utilities
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+// Material overrides for theming
+.mat-mdc-raised-button.mat-primary {
+  --mdc-protected-button-container-color: var(--link-color);
+}
+
+// Prose styles for article body
+.prose-vexlyn {
+  line-height: 1.8;
+
+  p {
+    margin-bottom: 1.25rem;
+    color: var(--text-primary);
+  }
+
+  strong {
+    font-weight: 700;
+    color: var(--text-primary);
+  }
+}
