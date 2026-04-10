@@ -1,0 +1,84 @@
+name: Fetch and Update Medical Articles
+
+on:
+  schedule:
+    # Run 3x daily: 6am, 2pm, 10pm UTC
+    - cron: '0 6 * * *'
+    - cron: '0 14 * * *'
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+    inputs:
+      force_ai:
+        description: 'Force AI reprocessing of existing articles'
+        required: false
+        default: 'false'
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-articles:
+    name: Fetch Articles from Medical Sources
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install script dependencies
+        run: |
+          cd scripts
+          npm install --no-package-lock 2>/dev/null || npm install axios 2>/dev/null || echo "Using built-in fetch"
+          cd ..
+
+      - name: Run article fetch script
+        run: node scripts/fetch-articles.js
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          HF_API_KEY: ${{ secrets.HF_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          AIMLAPI_KEY: ${{ secrets.AIMLAPI_KEY }}
+          IDEOGRAM_API_KEY: ${{ secrets.IDEOGRAM_API_KEY }}
+          REPLICATE_API_KEY: ${{ secrets.REPLICATE_API_KEY }}
+          FORCE_AI: ${{ inputs.force_ai || 'false' }}
+          NODE_ENV: production
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet src/assets/data/articles.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit updated articles
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/assets/data/articles.json
+          ARTICLE_COUNT=$(node -e "const a=require('./src/assets/data/articles.json'); console.log(a.length)")
+          git commit -m "chore: auto-update articles.json [$ARTICLE_COUNT artigos] $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: Log no changes
+        if: steps.check_changes.outputs.changed != 'true'
+        run: echo "No new articles found. articles.json unchanged."
+
+      - name: Trigger deploy workflow
+        if: steps.check_changes.outputs.changed == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'deploy.yml',
+              ref: 'main'
+            });
