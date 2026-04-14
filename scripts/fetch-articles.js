@@ -17,8 +17,9 @@ const path = require('path');
 const CONFIG = {
   articlesPath: path.join(__dirname, '../src/assets/data/articles.json'),
   retryQueuePath: path.join(__dirname, '../scripts/.retry-queue.json'),
-  maxNewArticlesPerRun: 20,
-  maxArticlesTotal: 100,
+  maxNewArticlesPerRun: 60,
+  maxArticlesTotal: 200,
+  resultsPerTerm: 4,
   forceAI: process.env.FORCE_AI === 'true',
   apiKeys: {
     gemini:      process.env.GEMINI_API_KEY      || '',  // Google AI Studio
@@ -28,14 +29,40 @@ const CONFIG = {
     openAI:      process.env.OPENAI_API_KEY      || '',  // OpenAI (fallback pago)
   },
   pubmedSearchTerms: [
-    'cancer immunotherapy 2025',
-    'Alzheimer disease treatment 2025',
-    'CRISPR gene therapy 2025',
-    'cardiovascular disease prevention 2025',
-    'diabetes GLP-1 treatment 2025',
-    'neurological disorders biomarkers 2025',
+    // Oncologia
+    'cancer immunotherapy clinical trial 2025',
+    'tumor microenvironment cancer treatment 2025',
+    'CAR-T cell therapy leukemia 2025',
+    // Cardiologia
+    'cardiovascular disease prevention randomized trial 2025',
+    'heart failure biomarkers treatment 2025',
+    'atrial fibrillation ablation outcomes 2025',
+    // Neurologia
+    'Alzheimer disease treatment biomarkers 2025',
+    'Parkinson disease neuroprotection 2025',
+    'stroke thrombectomy outcomes 2025',
+    // Genômica
+    'CRISPR gene therapy clinical trial 2025',
+    'genomic medicine precision oncology 2025',
+    // Endocrinologia
+    'GLP-1 receptor agonist diabetes obesity 2025',
+    'insulin resistance metabolic syndrome 2025',
+    // Infectologia
     'infectious disease vaccine efficacy 2025',
-    'mental health intervention randomized trial 2025',
+    'antimicrobial resistance treatment 2025',
+    'sepsis biomarkers outcomes 2025',
+    // Imunologia
+    'autoimmune disease biologics treatment 2025',
+    'vaccine immunogenicity clinical trial 2025',
+    // Saúde Mental
+    'depression treatment randomized controlled trial 2025',
+    'anxiety disorder cognitive behavioral therapy 2025',
+    // Farmacologia
+    'drug repurposing clinical trial 2025',
+    'pharmacokinetics novel therapeutics 2025',
+    // Pediatria
+    'pediatric oncology treatment outcomes 2025',
+    'childhood obesity intervention 2025',
   ],
 };
 
@@ -451,7 +478,7 @@ async function main() {
     if (fetchedCount >= CONFIG.maxNewArticlesPerRun) break;
 
     console.log(`\nSearching: "${term}"`);
-    const pmids = await searchPubMed(term, 3);
+    const pmids = await searchPubMed(term, CONFIG.resultsPerTerm);
     console.log(`  Found ${pmids.length} PMIDs: ${pmids.join(', ')}`);
 
     for (const pmid of pmids) {
