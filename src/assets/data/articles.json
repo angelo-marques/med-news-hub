@@ -1,5 +1,812 @@
 [
   {
+    "id": "pubmed-41474172",
+    "pmid": "41474172",
+    "doi": "10.1080/08916934.2025.2596700",
+    "title": "Exploring the key functions of T cells and the regulation of the immune microenvironment in prostate cancer using single-cell RNA sequencing and bulk RNA sequencing.",
+    "titlePt": "Exploring the key functions of T cells and the regulation of the immune microenvironment in prostate cancer using single-cell RNA sequencing and bulk RNA sequencing.",
+    "abstract": "The incidence of prostate cancer continues to increase, making it the second most common malignant tumor among men worldwide. Immunotherapy has emerged as a key therapeutic strategy for treating tumors. Numerous studies have established that the efficacy of tumor immunotherapy is closely associated with the tumor microenvironment and T cell subsets. However, the specific functions of certain T cell subsets in prostate cancer remain incompletely characterized. Therefore, this study aimed to systematically investigate the distribution patterns of T cell subsets within the tumor microenvironment of prostate cancer patients and their correlations with clinicopathological parameters. Therefore, we investigated the impact of T cells on the tumor microenvironment of prostate cancer at the single-cell level. We employed a variety of analytical methods to reveal the functions of T cells, including cell interaction analysis, time-series analysis, enrichment analysis, immune infiltration analysis",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41474172",
+    "authors": [
+      {
+        "name": "Zhidu Wang",
+        "affiliation": "2nd Inpatient Area of Urology Department, China-Japan Union Hospital of Jilin University, Changchun, China."
+      },
+      {
+        "name": "Yan Xing",
+        "affiliation": "2nd Inpatient Area of Urology Department, China-Japan Union Hospital of Jilin University, Changchun, China."
+      },
+      {
+        "name": "Dongmei Shang",
+        "affiliation": "Department of Outpatient and Emergency, China-Japan Union Hospital of Jilin University, Changchun, China."
+      },
+      {
+        "name": "Xuefei Jin",
+        "affiliation": "2nd Inpatient Area of Urology Department, China-Japan Union Hospital of Jilin University, Changchun, China."
+      }
+    ],
+    "journal": "Autoimmunity",
+    "publishedDate": "2025-12-31",
+    "fetchedDate": "2026-04-14",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "immunotherapy",
+      "rna",
+      "sequencing"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41459935",
+    "pmid": "41459935",
+    "doi": "10.1080/2162402X.2025.2608439",
+    "title": "A dual diacylglycerol kinase (DGK) alpha/zeta inhibitor augments the activity of human tumor infiltrating lymphocytes in in vivo and ex vivo models.",
+    "titlePt": "A dual diacylglycerol kinase (DGK) alpha/zeta inhibitor augments the activity of human tumor infiltrating lymphocytes in in vivo and ex vivo models.",
+    "abstract": "Endogenous or adoptively transferred tumor-infiltrating lymphocytes (TILs) often lose their functional capacity due to the activation of intrinsic inhibitory pathways, which then limits their ability to control tumor growth. In this study, we examined the effects of blocking a key intracellular inhibitory enzyme, diacylglycerol kinase (DGK) in human T cells, using a novel inhibitor (DGKi) called INCB165451 that blocks both DGK&#x3b1; and DGK&#x3b6;, the two primary DGK isoenzymes that negatively regulate T cells through the diacylglycerol (DAG) signaling pathway. We first evaluated the effects of the DGKi in enhancing the efficacy of adoptive human T cell transfer in a non-small cell lung cancer (NSCLC) mouse model and found that the DGKi significantly potentiated anti-tumor efficacy through multiple mechanisms, including increased intratumoral T cell infiltration, upregulation of genes associated with inflammatory responses, and reduction of TIL hypofunction, as evidenced by enhanced ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41459935",
+    "authors": [
+      {
+        "name": "Phurin Areesawangkit",
+        "affiliation": "Center for Cellular Immunology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA."
+      },
+      {
+        "name": "Karen Pei-Yi Fong",
+        "affiliation": "Division of Pulmonary and Critical Care Medicine, Department of Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA."
+      },
+      {
+        "name": "Emma Niemeyer",
+        "affiliation": "Center for Cellular Immunology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA."
+      },
+      {
+        "name": "Yan Li",
+        "affiliation": "Division of Pulmonary and Critical Care Medicine, Department of Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA."
+      }
+    ],
+    "journal": "Oncoimmunology",
+    "publishedDate": "2025-12-29",
+    "fetchedDate": "2026-04-14",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41431358",
+    "pmid": "41431358",
+    "doi": "10.1080/15384047.2025.2600701",
+    "title": "PI3K&#x3b3; inhibition drives M1 macrophage differentiation and synergizes with PD-L1 blockade to improve survival in poorly immunogenic head and neck squamous cell carcinoma.",
+    "titlePt": "PI3K&#x3b3; inhibition drives M1 macrophage differentiation and synergizes with PD-L1 blockade to improve survival in poorly immunogenic head and neck squamous cell carcinoma.",
+    "abstract": "Head and neck squamous cell carcinoma (HNSCC) is the sixth most common cancer globally with high mortality rates, highlighting the urgent need for novel therapeutic strategies. We investigated the efficacy of combining phosphoinositide 3-kinase gamma (PI3K&#x3b3;) inhibition with programmed death-ligand 1 (PD-L1) blockade in a poorly immunogenic HNSCC model. Mouse bone marrow-derived macrophages (BMDMs) were differentiated and polarized in the presence or absence of the PI3K&#x3b3; inhibitor IPI-549 or culture supernatants from MOC2 cells treated with or without IPI-549. MOC2 cells were orthotopically injected into C57BL/6 mice, and treated with anti-PD-L1, IPI-549, combined anti-PD-L1 and IPI-549 or vehicle control. Tumor burden, survival, and immunological responses were evaluated. Dual inhibition of PI3K&#x3b3; (using IPI-549) and PD-L1 demonstrated nearly significant reduction in primary tumor burden and significantly increased survival compared to single or control treatments. PI3",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41431358",
+    "authors": [
+      {
+        "name": "Pete P Jordanides",
+        "affiliation": "Department of Pathology, Pelotonia Institute for Immuno-Oncology, The Ohio State University Comprehensive Cancer Center, College of Medicine, The Ohio State University Wexner Medical Center, Columbus, OH, USA."
+      },
+      {
+        "name": "Sushmitha Jagadeesha",
+        "affiliation": "Department of Pathology, Pelotonia Institute for Immuno-Oncology, The Ohio State University Comprehensive Cancer Center, College of Medicine, The Ohio State University Wexner Medical Center, Columbus, OH, USA."
+      },
+      {
+        "name": "Puja Upadhaya",
+        "affiliation": "Department of Pathology, Pelotonia Institute for Immuno-Oncology, The Ohio State University Comprehensive Cancer Center, College of Medicine, The Ohio State University Wexner Medical Center, Columbus, OH, USA."
+      },
+      {
+        "name": "Nathan M Ryan",
+        "affiliation": "Department of Pathology, Pelotonia Institute for Immuno-Oncology, The Ohio State University Comprehensive Cancer Center, College of Medicine, The Ohio State University Wexner Medical Center, Columbus, OH, USA."
+      }
+    ],
+    "journal": "Cancer biology &amp; therapy",
+    "publishedDate": "2025-12-23",
+    "fetchedDate": "2026-04-14",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "carcinoma",
+      "rna",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41396689",
+    "pmid": "41396689",
+    "doi": "10.1080/13510002.2025.2592413",
+    "title": "Unraveling the potential of gasotransmitters as neurogenic and neuroprotective molecules: focus on Alzheimer's and Parkinson's diseases.",
+    "titlePt": "Unraveling the potential of gasotransmitters as neurogenic and neuroprotective molecules: focus on Alzheimer's and Parkinson's diseases.",
+    "abstract": "Alzheimer's disease and Parkinson's disease are the two most prevalent neurodegenerative disorders worldwide, both characterized by progressive neuronal loss. Despite distinct pathophysiological features, they share cellular dysfunctions such as abnormal protein aggregation, oxidative stress, and neuroinflammation, research into which might be beneficial for developing novel therapeutic strategies that could tackle both conditions. This review highlights the emerging role of the gasotransmitters nitric oxide, carbon monoxide and hydrogen sulfide as modulators of adult neurogenesis and neuroprotection in Alzheimer's disease and Parkinson's disease. We have gathered recent evidence demonstrating that these endogenous gases exert anti-inflammatory, antioxidant, and anti-apoptotic effects, and, critically, promote neurogenesis - suggesting a dual neuroprotective and neuroregenerative therapeutic potential. The unique physicochemical features of these gasotransmitters, including their abili",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41396689",
+    "authors": [
+      {
+        "name": "S&#xf3;nia Sim&#xe3;o",
+        "affiliation": "Algarve Biomedical Center Research Institute (ABC-Ri), University of Algarve, Faro, Portugal."
+      },
+      {
+        "name": "Daniela F Santos",
+        "affiliation": "Algarve Biomedical Center (ABC), University of Algarve, Faro, Portugal."
+      },
+      {
+        "name": "Mariana Teixeira",
+        "affiliation": "Faculty of Medicine and Biomedical Sciences (FMCB), University of Algarve, Faro, Portugal."
+      },
+      {
+        "name": "Rafaela R Agostinho",
+        "affiliation": "ABC Collaborative Laboratory - Integrated Ageing and Rejuvenation Solutions (ABC CoLAB), University of Algarve, Faro, Portugal."
+      }
+    ],
+    "journal": "Redox report : communications in free radical research",
+    "publishedDate": "2025-12-15",
+    "fetchedDate": "2026-04-14",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "parkinson",
+      "gene",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41959743",
+    "pmid": "41959743",
+    "doi": "10.1016/j.gendis.2025.101858",
+    "title": "ACSL4 in Alzheimer's disease: Pathogenetic mechanisms and potential therapeutic targets.",
+    "titlePt": "ACSL4 in Alzheimer's disease: Pathogenetic mechanisms and potential therapeutic targets.",
+    "abstract": "Iron metabolism plays a vital role in maintaining physiological homeostasis, and its dysregulation is implicated in a range of pathological consequences and illnesses, including Alzheimer's disease (AD). Prior studies have demonstrated that Tau protein and amyloid precursor protein are involved in iron homeostasis disorder. Ferroptosis, an iron-dependent form of regulated cell death, has emerged as a key contributor to AD pathogenesis and a promising therapeutic target. Acyl-CoA synthetase long-chain family 4 (ACSL4) is a lipid metabolizing enzyme that enhances ferroptosis sensitivity by promoting the incorporation of oxidizable polyunsaturated fatty acids into membrane phospholipids. Beyond ferroptosis, ACSL4 also plays crucial roles in neuroinflammation and oxidative stress, which are implicated in AD progression. Therefore, targeting ACSL4 is fantastic and has a lot of promise for treating AD. Nevertheless, the precise mechanisms through which ACSL4 contributes to AD pathology have ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41959743",
+    "authors": [
+      {
+        "name": "Yu Guo",
+        "affiliation": "Department of Neurology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei 430030, China."
+      },
+      {
+        "name": "Qingqing Jiang",
+        "affiliation": "School of Nursing, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei 430030, China."
+      },
+      {
+        "name": "Zhongya Gu",
+        "affiliation": "Department of Neurology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei 430030, China."
+      },
+      {
+        "name": "Huan Cao",
+        "affiliation": "Department of Neurology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei 430030, China."
+      }
+    ],
+    "journal": "Genes &amp; diseases",
+    "publishedDate": "2026-04-10",
+    "fetchedDate": "2026-04-14",
+    "category": "Genômica",
+    "tags": [
+      "alzheimer",
+      "genetic",
+      "gene",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41959735",
+    "pmid": "41959735",
+    "doi": "10.1016/j.gendis.2025.101891",
+    "title": "Receptor-mediated endocytosis by Megalin: Exploring its role in ligand interaction and disease mechanisms.",
+    "titlePt": "Receptor-mediated endocytosis by Megalin: Exploring its role in ligand interaction and disease mechanisms.",
+    "abstract": "This review comprehensively summarizes the interaction mechanisms between Megalin and several key ligands, including calcium ions, gentamicin, ApoE, ANKRA2, FVIII, TTR, STC1, RAP, and MMP-9, focusing on the specific amino acid binding sites involved. The analysis highlights the structural basis of these interactions and their clinical relevance, particularly concerning diseases such as nephrotoxicity, Alzheimer's disease, metabolic disorders, and renal pathologies. This review comprehensively summarizes the specific binding sites of Megalin with its ligands and explores the mechanisms, including protein reabsorption, blood coagulation, and neuroprotection, by integrating the results of animal studies and human clinical studies. This review proposes a theoretical framework for designing therapeutic strategies that target the binding sites of Megalin with its ligands. Gene editing technology and monoclonal antibody therapy aim to regulate Megalin receptor-ligand interactions to achieve t",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41959735",
+    "authors": [
+      {
+        "name": "Xian Zhang",
+        "affiliation": "Department of Neurology in Affiliated Zhongda Hospital and Jiangsu Provincial Medical Key Discipline, School of Medicine, Research Institute of Neuropsychiatry, Key Laboratory of Developmental Genes and Human Disease of Ministry of Education, Southeast University, Nanjing, Jiangsu 210096, China."
+      },
+      {
+        "name": "Zhijun Zhang",
+        "affiliation": "Shenzhen Key Laboratory of Precision Diagnosis and Treatment of Depression, Department of Mental Health and Public Health in Faculty of Life and Health Sciences of Shenzhen University of Advanced Technology, The Brain Cognition and Brain Disease Institute of Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen, Guangdong 518055, China."
+      }
+    ],
+    "journal": "Genes &amp; diseases",
+    "publishedDate": "2026-04-10",
+    "fetchedDate": "2026-04-14",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "gene",
+      "therapeutic",
+      "antibody",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41543272",
+    "pmid": "41543272",
+    "doi": "10.1080/10717544.2026.2614125",
+    "title": "Non-Viral CRISPR carriers: transient delivery with lasting effects.",
+    "titlePt": "Non-Viral CRISPR carriers: transient delivery with lasting effects.",
+    "abstract": "CRISPR-Cas9 has revolutionized the field of genome editing. While conventional gene supplementation therapies and the market of related gene therapy products are dominated by viral vectors, non-viral delivery strategies are increasingly being explored for in vivo CRISPR applications. Given the permanent nature of genome editing, prolonged expression of the CRISPR machinery is not required, and transient delivery nevertheless can achieve lasting therapeutic effects. In contrast, short-term availability of genome editing components is rather considered advantageous to reduce the risk of off-target effects in a 'hit-and-run' fashion. In this article, we provide a systematic survey of the current clinical trial landscape with focus on in vivo CRISPR therapies and discuss utilized delivery strategies. As of December 2025, 136 CRISPR trials are ongoing, including 36 based on in vivo delivery of CRISPR components which show a clear shift towards non-viral vectors. The article describes the cl",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41543272",
+    "authors": [
+      {
+        "name": "Maria Lummerstorfer",
+        "affiliation": "Department of Pharmaceutical Sciences, University of Vienna, Vienna, Austria."
+      },
+      {
+        "name": "Ulrich L&#xe4;chelt",
+        "affiliation": "Vienna Doctoral School of Pharmaceutical, Nutritional and Sport Sciences, University of Vienna, Vienna, Austria."
+      }
+    ],
+    "journal": "Drug delivery",
+    "publishedDate": "2026-01-16",
+    "fetchedDate": "2026-04-14",
+    "category": "Genômica",
+    "tags": [
+      "viral",
+      "crispr",
+      "gene",
+      "clinical trial",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41953727",
+    "pmid": "41953727",
+    "doi": "10.1016/j.gendis.2025.101977",
+    "title": "MYH9: Structure, functions, and therapeutic implications in cancer and genetic disorders.",
+    "titlePt": "MYH9: Structure, functions, and therapeutic implications in cancer and genetic disorders.",
+    "abstract": "The myosin heavy chain 9 (MYH9) gene encodes non-muscle myosin heavy chain IIA (NMIIA), a vital protein involved in fundamental cellular activities, including movement, cell division, and signal transmission. Mutations in MYH9 were initially linked to autosomal dominant disorders collectively termed MYH9-related diseases (MYH9-RD). In recent years, MYH9 has gained significant attention for its pivotal roles in various cancers. However, despite extensive research, its exact contributions to cancer progression remain incompletely understood. Targeting MYH9 through approaches such as non-coding RNAs, small molecules, or gene therapy presents a promising avenue for advancing cancer treatment. Additionally, the dual role of MYH9 in MYH9-RD and cancer raises the intriguing question: are individuals with MYH9 mutations predisposed to or protected from cancer? This review aims to present the structure, functional significance, and clinical associations of MYH9, with an emphasis on its contribu",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41953727",
+    "authors": [
+      {
+        "name": "Shayan Emami",
+        "affiliation": "Department of Medical Genetics, School of Medicine, Babol University of Medical Sciences, Babol 4774547176, Iran."
+      },
+      {
+        "name": "Amirreza Mazloomi",
+        "affiliation": "Department of Medical Genetics, School of Medicine, Babol University of Medical Sciences, Babol 4774547176, Iran."
+      },
+      {
+        "name": "Fatemeh Ziadloo",
+        "affiliation": "Department of Medical Genetics, School of Medicine, Babol University of Medical Sciences, Babol 4774547176, Iran."
+      },
+      {
+        "name": "Shaghayegh Hosseinzadeh",
+        "affiliation": "Department of Medical Genetics, School of Medicine, Babol University of Medical Sciences, Babol 4774547176, Iran."
+      }
+    ],
+    "journal": "Genes &amp; diseases",
+    "publishedDate": "2026-04-09",
+    "fetchedDate": "2026-04-14",
+    "category": "Genômica",
+    "tags": [
+      "cancer",
+      "genetic",
+      "gene",
+      "rna",
+      "mutation"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41438771",
+    "pmid": "41438771",
+    "doi": "10.1016/j.synbio.2025.11.008",
+    "title": "Programmable large-cargo integration: Overcoming size constraints for next-generation gene therapy.",
+    "titlePt": "Programmable large-cargo integration: Overcoming size constraints for next-generation gene therapy.",
+    "abstract": "The emergence of base and prime editors-genome editing tools that avoid double-strand breaks (DSBs)-has enabled precise point mutations, insertions, inversions, deletions, and substitutions, which accelerates the development of single-intervention therapies and advances individualized genomic medicine. However, their limited efficiency in inserting large DNA fragments has restricted applications for correcting diverse pathogenic mutations within a single gene. In this review, we explore three recently developed strategies for efficient large DNA cargo insertion (&gt;1&#xa0;kb): CRISPR-associated Tn7-like transposases (CASTs), PE-integrase systems, and R2 retrotransposon fusions (nCas9-R2). We examine the applications of these systems in both bacterial and mammalian contexts and discuss their respective advantages and current limitations. Finally, we address persistent challenges and propose potential directions to guide future research.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41438771",
+    "authors": [
+      {
+        "name": "Lifang Yu",
+        "affiliation": "School of Chemistry and Chemical Engineering, Huangshan University, Huangshan, 245041, PR China."
+      },
+      {
+        "name": "Mario Andrea Marchisio",
+        "affiliation": "School of Life and Health Science, Northeastern University, Shenyang, 110169, PR China."
+      }
+    ],
+    "journal": "Synthetic and systems biotechnology",
+    "publishedDate": "2025-12-24",
+    "fetchedDate": "2026-04-14",
+    "category": "Genômica",
+    "tags": [
+      "bacterial",
+      "genomic",
+      "crispr",
+      "gene",
+      "dna"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41640014",
+    "pmid": "41640014",
+    "doi": "10.1080/10641963.2026.2625124",
+    "title": "Presenting non-insulin-based indices of insulin resistance relevant to pre-hypertension: A systematic review and meta-analysis.",
+    "titlePt": "Presenting non-insulin-based indices of insulin resistance relevant to pre-hypertension: A systematic review and meta-analysis.",
+    "abstract": "Using reliable, simple, and cost-effective tools to identify pre-hypertension (pre-HTN) early is crucial for reducing the risk of cardiovascular disease (CVD). This systematic review and meta-analysis aimed to assess the association between the risk of pre-HTN and non-insulin-based indices. A comprehensive literature search was conducted across electronic databases, including PubMed, Web of Science, and Scopus, until January 2025. Cross-sectional studies investigating the relationship between pre-HTN and IR indices were included. Two investigators independently performed study screening, data extraction, and quality assessment. A random-effects model was used to pool effect sizes, with odds ratios (ORs) as the primary measure of effect. Overall, 15 studies met the inclusion criteria for this systematic review, and 14 were included in the meta-analysis. All were cross-sectional or employed a cross-sectional approach. The results of the random effects model showed that IR indices, includ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41640014",
+    "authors": [
+      {
+        "name": "Maryam Farahmand",
+        "affiliation": "Reproductive Endocrinology Research Center, Research Institute for Endocrine Molecular Biology, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran."
+      },
+      {
+        "name": "Sima Nazarpour",
+        "affiliation": "Department of Midwifery, VaP.C., Islamic Azad University, Varamin, Iran."
+      },
+      {
+        "name": "Hanieh Malmir",
+        "affiliation": "Nutrition and Endocrine Research Center, Research Institute for Endocrine Disorders, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran."
+      },
+      {
+        "name": "Somayeh Hosseinpour-Niazi",
+        "affiliation": "Nutrition and Endocrine Research Center, Research Institute for Endocrine Disorders, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran."
+      }
+    ],
+    "journal": "Clinical and experimental hypertension (New York, N.Y. : 1993)",
+    "publishedDate": "2026-02-05",
+    "fetchedDate": "2026-04-14",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "hypertension",
+      "insulin"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41819984",
+    "pmid": "41819984",
+    "doi": "10.1080/14767058.2026.2640251",
+    "title": "The preventive effects of different interventions on gestational hypertension: incidence and network meta-analysis.",
+    "titlePt": "The preventive effects of different interventions on gestational hypertension: incidence and network meta-analysis.",
+    "abstract": "A network meta-analysis based on randomized controlled trials was conducted to investigate the effects of different interventions in preventing gestational hypertension (GHT). A comprehensive search of English databases was performed from database inception to March 1st, 2025 to identify randomized controlled trials (RCTs) evaluating different interventions for the prevention GHT. The methodological quality and risk of bias for the included trials were appraised according to the Cochrane Handbook tool. A network meta-analysis was conducted using Stata version 15.1 software, and pooled effect estimates were expressed as the odds ratio (OR) with 95% confidence interval (CI). A total of 50 randomized controlled trials involving 57,836 pregnant women were included in the network meta-analysis. For all included trials, 12 interventions were evaluated, resulting in 66 direct pairwise comparisons. The network meta-analysis demonstrated that compared with Placebo, Aspirin (OR = 0.68, 95% CI [0",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41819984",
+    "authors": [
+      {
+        "name": "Yu Wu",
+        "affiliation": "The First Clinical Medical College, Lanzhou University, Lanzhou, Gansu, China."
+      },
+      {
+        "name": "Kangle Guo",
+        "affiliation": "Department of Obstetrics and Gynecology, the First Hospital of Lanzhou University, Key Laboratory of Gynecologic Oncology of Gansu Province, Lanzhou, Gansu, China."
+      },
+      {
+        "name": "Yongxiu Yang",
+        "affiliation": "Evidence-Based Medicine Center, School of Basic Medical Sciences, Lanzhou University, Lanzhou, China."
+      },
+      {
+        "name": "Kehu Yang",
+        "affiliation": "Evidence-based Social Sciences Research Center, School of Public Health, Lanzhou University, Lanzhou, China."
+      }
+    ],
+    "journal": "The journal of maternal-fetal &amp; neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+    "publishedDate": "2026-03-12",
+    "fetchedDate": "2026-04-14",
+    "category": "Cardiologia",
+    "tags": [
+      "hypertension"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41732846",
+    "pmid": "41732846",
+    "doi": "10.1080/07853890.2026.2634484",
+    "title": "Ezetimibe alone for over 75 years old as a primary prevention to decrease cardiovascular events.",
+    "titlePt": "Ezetimibe alone for over 75 years old as a primary prevention to decrease cardiovascular events.",
+    "abstract": "The EWTOPIA 75 (Ezetimibe Lipid-Lowering Trial on Prevention of Atherosclerotic Cardiovascular Disease in 75 or Older) study supports the reduction in the risk of atherosclerotic cardiovascular disease (ASCVD) events with ezetimibe without statin therapy in persons aged &#x2265;75&#x2009;years without a history of coronary artery disease. This evidence has also been incorporated into the 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. What might then be the potential explanations for the observed benefit of ezetimibe to prevent ASCVD in the EWTOPIA 75 study? First, cholesterol absorption efficiency generally increases with age. Therefore, cholesterol absorption-lowering medications, such as ezetimibe, are particularly beneficial in individuals aged 75&#x2009;years and older, in whom low cholesterol absorption has been associated with fewer recurrent ASCVD events. It is also worth noting that ezetimibe may be more effective than a particular stat",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41732846",
+    "authors": [
+      {
+        "name": "Alpo Vuorio",
+        "affiliation": "Mehil&#xe4;inen, Aviapolis Health Center, Vantaa, Finland."
+      },
+      {
+        "name": "Petri T Kovanen",
+        "affiliation": "Department of Forensic Medicine, University of Helsinki, Helsinki, Finland."
+      },
+      {
+        "name": "Timo Strandberg",
+        "affiliation": "Wihuri Research Institute, Helsinki, Finland."
+      }
+    ],
+    "journal": "Annals of medicine",
+    "publishedDate": "2026-02-24",
+    "fetchedDate": "2026-04-14",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "coronary",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41275875",
+    "pmid": "41275875",
+    "doi": "10.1016/S0140-6736(25)02165-8",
+    "title": "Orforglipron, an oral small-molecule GLP-1 receptor agonist, for the treatment of obesity in people with type 2 diabetes (ATTAIN-2): a phase 3, double-blind, randomised, multicentre, placebo-controlled trial.",
+    "titlePt": "Orforglipron, an oral small-molecule GLP-1 receptor agonist, for the treatment of obesity in people with type 2 diabetes (ATTAIN-2): a phase 3, double-blind, randomised, multicentre, placebo-controlled trial.",
+    "abstract": "Obesity is a chronic disease that significantly contributes to type 2 diabetes and its complications. We aimed to evaluate orforglipron, an oral small-molecule (non-peptide) GLP-1 receptor agonist, for obesity treatment in adults with type 2 diabetes. This 72-week, phase 3, double-blind, placebo-controlled trial was conducted across 136 sites in ten countries. Participants with a BMI of 27 kg/m2 or higher and glycated haemoglobin (HbA1c) of 7-10% (53-86 mmol/mol) were randomly assigned (1:1:1:2) to once-daily orforglipron 6 mg, 12 mg, 36 mg, or placebo. The primary endpoint was the mean percent change in bodyweight from baseline to week 72. The treatment regimen estimand (using data from all randomly assigned participants, regardless of intercurrent events) was the primary estimand, with the efficacy estimand considered supportive. Safety was assessed in all patients who received at least one dose of study drug. This trial was registered at ClinicalTrials.gov (NCT05872620) and is compl",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41275875",
+    "authors": [
+      {
+        "name": "Deborah B Horn",
+        "affiliation": "Department of Surgery, University of Texas McGovern Medical School, and Center for Obesity Medicine and Metabolic Performance, Houston, TX, USA. Electronic address: deborah.b.horn@uth.tmc.edu."
+      },
+      {
+        "name": "Donna H Ryan",
+        "affiliation": "Pennington Biomedical Research Center, Baton Rouge, LA, USA."
+      },
+      {
+        "name": "Sanja Giljanovic Kis",
+        "affiliation": "Eli Lilly and Company, Indianapolis, IN, USA."
+      },
+      {
+        "name": "Breno Alves",
+        "affiliation": "Centro Paulista De Investiga&#xe7;&#xe3;o Cl&#xed;nica (Cepic), S&#xe3;o Paulo, Brazil."
+      }
+    ],
+    "journal": "Lancet (London, England)",
+    "publishedDate": "2025-12-20",
+    "fetchedDate": "2026-04-14",
+    "category": "Endocrinologia",
+    "tags": [
+      "drug",
+      "diabetes",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41867418",
+    "pmid": "41867418",
+    "doi": "10.1007/s40200-026-01916-5",
+    "title": "Managing metabolic risks in coronary artery disease: A scoping review of recent clinical and therapeutic evidence.",
+    "titlePt": "Managing metabolic risks in coronary artery disease: A scoping review of recent clinical and therapeutic evidence.",
+    "abstract": "Coronary artery disease (CAD) remains the leading global cause of mortality, with metabolic abnormalities such as diabetes, dyslipidemia, hypertension, and obesity significantly driving its progression. Recent studies have focused on the integration of metabolic risk management with cardiovascular care to improve outcomes. This scoping review aimed to synthesize the latest evidence (2024-2025) on the management of metabolic risk factors in CAD, highlighting emerging biomarkers, therapeutic strategies, and research gaps. A systematic literature search was conducted across PubMed, Scopus, Web of Science, and Google Scholar. Twenty-one studies meeting predefined eligibility criteria were included. Data were extracted and thematically analyzed according to the PRISMA-ScR framework. Included studies emphasized the synergistic impact of diabetes, dyslipidemia, and hypertension on CAD outcomes. Pharmacologic interventions such as SGLT2 inhibitors, GLP-1 receptor agonists, pemafibrate, and Rho",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41867418",
+    "authors": [
+      {
+        "name": "Sai Shashank Gudla",
+        "affiliation": "Godavari Global University, Rajahmundry, A.P 533296 India.https://ror.org/018nk4a27grid.460836.f"
+      },
+      {
+        "name": "Siva Krishna Adithya Bhumireddy",
+        "affiliation": "GIET School of Pharmacy, Rajahmundry, A.P 533296 India.https://ror.org/049skhf47grid.411381.e0000 0001 0728 2694"
+      },
+      {
+        "name": "Anil Kumar Vadaga",
+        "affiliation": "Godavari Global University, Rajahmundry, A.P 533296 India.https://ror.org/018nk4a27grid.460836.f"
+      },
+      {
+        "name": "Meher Satyavani Nandula",
+        "affiliation": "GIET School of Pharmacy, Rajahmundry, A.P 533296 India.https://ror.org/049skhf47grid.411381.e0000 0001 0728 2694"
+      }
+    ],
+    "journal": "Journal of diabetes and metabolic disorders",
+    "publishedDate": "2026-03-23",
+    "fetchedDate": "2026-04-14",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "coronary",
+      "hypertension",
+      "therapeutic",
+      "diabetes"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41743894",
+    "pmid": "41743894",
+    "doi": "10.1007/s40200-026-01887-7",
+    "title": "Enteroendocrine hormones and gut microbiota in obesity: a systematic review from mechanistic insight to precision metabolic care.",
+    "titlePt": "Enteroendocrine hormones and gut microbiota in obesity: a systematic review from mechanistic insight to precision metabolic care.",
+    "abstract": "This systematic review aims to synthesize current evidence on enteroendocrine cell alterations in obesity, elucidate the mechanisms by which gut microbial taxa and metabolites regulate gut hormone release, and assess therapeutic innovations targeting the microbiota-enteroendocrine axis for precision metabolic care. A systematic search of PubMed, Web of Science, Scopus, and Embase was conducted from January 2015 to July 2025 following Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 guidelines. Studies examining enteroendocrine cell function, gut microbiota composition, and their metabolic interactions in human obesity, animal models, and cellular systems were included. Data were extracted on gut hormone levels, microbial community structure, short-chain fatty acid production, and therapeutic interventions. Quality assessment was performed using the Cochrane Risk of Bias tool for randomized controlled trials and Newcastle-Ottawa Scale for observational studies. Mi",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41743894",
+    "authors": [
+      {
+        "name": "Navodi Sandamini Jayathilaka",
+        "affiliation": "Department of Pharmacy &amp; Pharmaceutical Science, Faculty of Allied Health Science, University of Sri Jayewardenepura, Gangodawila, Nugegoda, Sri Lanka.https://ror.org/02rm76t37grid.267198.30000 0001 1091 4496"
+      },
+      {
+        "name": "Krishanthi Jayamini Wijekoon",
+        "affiliation": "Faculty of Science, University of Colombo, Colombo, Sri Lanka.https://ror.org/02phn5242grid.8065.b0000 0001 2182 8067"
+      },
+      {
+        "name": "Singappulige Dona Dilmi Sachinthani",
+        "affiliation": "Department of Biomedical Science, Faculty of Health Sciences, KIU University, Colombo, Sri Lanka."
+      },
+      {
+        "name": "Arunodya Vishwanthi Weththasinghe",
+        "affiliation": "Department of Biomedical Science, Faculty of Health Sciences, KIU University, Colombo, Sri Lanka."
+      }
+    ],
+    "journal": "Journal of diabetes and metabolic disorders",
+    "publishedDate": "2026-02-26",
+    "fetchedDate": "2026-04-14",
+    "category": "Endocrinologia",
+    "tags": [
+      "therapeutic",
+      "endocrine",
+      "hormone",
+      "metabolic",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41454664",
+    "pmid": "41454664",
+    "doi": "10.1080/19490976.2025.2606487",
+    "title": "Targeting the microbiome in pediatric migraine: gastrointestinal manifestations and the therapeutic role of Bifidobacterium longum.",
+    "titlePt": "Targeting the microbiome in pediatric migraine: gastrointestinal manifestations and the therapeutic role of Bifidobacterium longum.",
+    "abstract": "Migraine is a disabling neurological disorder that often begins in childhood or adolescence and is frequently accompanied by gastrointestinal (GI) symptoms. However, the microbiota signatures and gut-brain interactions underlying pediatric migraine, particularly in the presence of GI disorder, remain poorly defined. This study aimed to explore the clinical and microbial features of pediatric migraine, as well as the therapeutic potential of probiotics.We prospectively enrolled 126 pediatric migraine patients (ages 6-19) with or without GI disorder and 50 age-matched healthy controls. Fecal microbiota was profiled using 16S rRNA sequencing. Patients with migraine were stratified based on Rome IV-defined GI disorders and evaluated for headache characteristics, PedMIDAS scores (disability assessment), plasma calcitonin gene related peptide (CGRP, thought as a key biomarker of migraine), cytokines, and fecal calprotectin. Probiotic effects were tested in both young (3-4 weeks) and adult ca",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41454664",
+    "authors": [
+      {
+        "name": "Pi-Chuan Fan",
+        "affiliation": "Division of Neurology, Departments of Pediatrics, National Taiwan University Hospital, Taipei, Taiwan."
+      },
+      {
+        "name": "Huey-Huey Chua",
+        "affiliation": "Departments of Pediatrics, College of Medicine, National Taiwan University, Taipei, Taiwan."
+      },
+      {
+        "name": "Chia-Ray Lin",
+        "affiliation": "Division of Gastroenterology, Departments of Pediatrics, National Taiwan University Hospital, Taipei, Taiwan."
+      },
+      {
+        "name": "Tzu-Hsuan Lai",
+        "affiliation": "Division of Gastroenterology, Departments of Pediatrics, National Taiwan University Hospital, Taipei, Taiwan."
+      }
+    ],
+    "journal": "Gut microbes",
+    "publishedDate": "2025-12-27",
+    "fetchedDate": "2026-04-14",
+    "category": "Genômica",
+    "tags": [
+      "brain",
+      "gene",
+      "rna",
+      "sequencing",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41527423",
+    "pmid": "41527423",
+    "doi": "10.1080/07853890.2026.2612820",
+    "title": "Comparison of the predictive performance of systemic immune-inflammation index and neutrophil-to-lymphocyte ratio for three-month poor functional outcome in ischemic stroke: a systematic review and meta-analysis.",
+    "titlePt": "Comparison of the predictive performance of systemic immune-inflammation index and neutrophil-to-lymphocyte ratio for three-month poor functional outcome in ischemic stroke: a systematic review and meta-analysis.",
+    "abstract": "Ischemic stroke (IS) is a leading cause of global mortality and disability. Early and accurate prognosis is crucial for patient management. The neutrophil-to-lymphocyte ratio (NLR) and systemic immune-inflammation index (SII) are emerging inflammatory biomarkers; however, their relative predictive value for three-month poor functional outcome (modified Rankin Scale [mRS]&#x2009;&gt;&#x2009;2) remains uncertain. We systematically searched PubMed, Embase, Web of Science, and the Cochrane Library up to 20 July 2025, adhering to PRISMA guidelines. Observational studies reporting the association of SII or NLR with three-month poor outcome were included. Study quality was evaluated using the Newcastle-Ottawa Scale. Area under the curve (AUC), odds ratios (OR), and standardized mean differences (SMD) were pooled using random-effects models in Stata 16.0. Twenty-one studies involving 7520 IS patients were analysed. NLR demonstrated marginally superior discriminative ability compared to SII (AU",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41527423",
+    "authors": [
+      {
+        "name": "Xuan Ma",
+        "affiliation": "The Second Clinical Medical School, Lanzhou University, Lanzhou, Gansu, PR China."
+      },
+      {
+        "name": "Yinjuan Zhou",
+        "affiliation": "Department of Neurology, Lanzhou University Second Hospital, Lanzhou, Gansu, PR China."
+      },
+      {
+        "name": "Zhenhua Li",
+        "affiliation": "The Second Clinical Medical School, Lanzhou University, Lanzhou, Gansu, PR China."
+      },
+      {
+        "name": "Guoming Mao",
+        "affiliation": "Department of Neurology, Lanzhou University Second Hospital, Lanzhou, Gansu, PR China."
+      }
+    ],
+    "journal": "Annals of medicine",
+    "publishedDate": "2026-01-13",
+    "fetchedDate": "2026-04-14",
+    "category": "Neurologia",
+    "tags": [
+      "stroke",
+      "immune"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41362222",
+    "pmid": "41362222",
+    "doi": "10.1080/15384101.2025.2600440",
+    "title": "MicroRNAs in chemotherapy-induced peripheral neuropathy: mechanisms and therapies.",
+    "titlePt": "MicroRNAs in chemotherapy-induced peripheral neuropathy: mechanisms and therapies.",
+    "abstract": "Chemotherapy-induced peripheral neuropathy (CIPN) is a significant adverse effect of cancer therapies that profoundly disrupts the quality of life for patients. CIPN is characterized by sensory symptoms such as pain, tingling, and numbness, typically distributed in a \"glove and stocking\" pattern. Its underlying mechanisms remain incompletely understood, involving complex processes such as heightened neuronal excitability, alterations in ion channel function, neuroinflammation, and glial cell activation. MicroRNAs (miRNAs), small non-coding RNA molecules, play a pivotal role in regulating these processes by modulating gene expression and cellular functions. Emerging evidence suggests that specific miRNAs, including miR-30b-5p, miR-155, miR-124, and miR-21, are involved in regulating pathways that contribute to CIPN-related pain. These miRNAs influence the function of ion channels, glial cell activation, and neuroinflammation. MiRNAs hold significant promise as biomarkers for the early d",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41362222",
+    "authors": [
+      {
+        "name": "Sepide Javankiani",
+        "affiliation": "School of Medicine, Tehran University of Medical Sciences, Tehran, Iran."
+      },
+      {
+        "name": "Faeze Dehghani",
+        "affiliation": "Faculty of Medicine, University of Plymouth, Plymouth, UK."
+      },
+      {
+        "name": "Foroozan Yarahmadi",
+        "affiliation": "School of Medicine, Tehran University of Medical Sciences, Tehran, Iran."
+      },
+      {
+        "name": "Arian Jahandideh",
+        "affiliation": "School of Medicine, Tehran University of Medical Sciences, Tehran, Iran."
+      }
+    ],
+    "journal": "Cell cycle (Georgetown, Tex.)",
+    "publishedDate": "2026-02-17",
+    "fetchedDate": "2026-04-14",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "chemotherapy",
+      "gene",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41802941",
+    "pmid": "41802941",
+    "doi": "10.1080/21645515.2026.2641328",
+    "title": "Human papillomavirus awareness and vaccination willingness among male community residents in Beijing based on the Health Belief Model.",
+    "titlePt": "Human papillomavirus awareness and vaccination willingness among male community residents in Beijing based on the Health Belief Model.",
+    "abstract": "Following the January 2025 approval of the first male HPV vaccine in the Chinese mainland, we investigated vaccination willingness and its influencing factors among community-dwelling men. We conducted a cross-sectional study in Beijing, recruiting 480 community-based male residents and 399 men who have sex with men (MSM). Participants completed a questionnaire assessing HPV knowledge and the Health Belief Model (HBM) constructs. Multivariable logistic regression was performed to identify determinants of willingness. We found a high level of vaccination willingness, which was notably higher among MSM (90.73%) than the community-recruited male population (87.29%). Critically, willingness surpassed awareness, indicating significant latent demand despite low overall HPV knowledge. HBM analysis showed that perceived benefits promoted willingness in both groups, while self-efficacy of prevention paradoxically acted as an inhibitor. MSM reported higher perceived susceptibility and benefits, ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41802941",
+    "authors": [
+      {
+        "name": "Yan Xing",
+        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
+      },
+      {
+        "name": "Rujing Shi",
+        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
+      },
+      {
+        "name": "Yulian Li",
+        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
+      },
+      {
+        "name": "Run Cai",
+        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
+      }
+    ],
+    "journal": "Human vaccines &amp; immunotherapeutics",
+    "publishedDate": "2026-03-09",
+    "fetchedDate": "2026-04-14",
+    "category": "Imunologia",
+    "tags": [
+      "vaccine"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false
+  },
+  {
+    "id": "pubmed-41816931",
+    "pmid": "41816931",
+    "doi": "10.1080/14760584.2026.2645378",
+    "title": "Vaccine effectiveness against medically attended, laboratory-confirmed influenza in the I-MOVE primary care network in Europe, VEBIS project, 2024/25.",
+    "titlePt": "Vaccine effectiveness against medically attended, laboratory-confirmed influenza in the I-MOVE primary care network in Europe, VEBIS project, 2024/25.",
+    "abstract": "We conducted a multicenter test-negative study to estimate vaccine effectiveness (VE) against medically attended, laboratory-confirmed influenza in primary care, Europe, 2024/25. Specimens were collected from patients with acute respiratory infection. All or a random sample of viruses were sequenced. VE was (1-odds ratio)&#x2009;&#xd7;&#x2009;100, adjusted for confounders. We included 7275 cases and 17,516 controls (weeks 40-2024-18-2025). The overall VE was 46% (95% CI: 40-52), lowest in adults&#x2009;&#x2265;65&#x2009;years at 28% (95% CI: 12-42). VE against influenza A(H1N1)pdm09 was 30% (95% CI: 19-40); ranging 16-34% by age and vaccination target group. Most (88%) circulating clades were 5a.2a, distinct from the vaccine clade. VE was 28% (95% CI: 7-45) against 5a.2a (C.1.9), and 6% (95% CI: -62-45) against the vaccine-matched clade 5a.2a.1 (D). VE against influenza A(H3N2) was 38% (95% CI: 26-49); ranging 20-66% by age and target group. Circulating viruses belonged to the vaccine ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41816931",
+    "authors": [
+      {
+        "name": "H&#xe9;lo&#xef;se Lucaccioni",
+        "affiliation": "Epidemiology Department, Epiconcept, Paris, France."
+      },
+      {
+        "name": "Francisco Pozo",
+        "affiliation": "National Centre for Microbiology, Institute of Health Carlos III, Madrid, Spain."
+      },
+      {
+        "name": "Gloria P&#xe9;rez-Gimeno",
+        "affiliation": "Consortium for Biomedical Research in Epidemiology and Public Health (CIBERESP), Institute of Health Carlos III, Madrid, Spain."
+      },
+      {
+        "name": "Ralf D&#xfc;rrwald",
+        "affiliation": "Consortium for Biomedical Research in Epidemiology and Public Health (CIBERESP), Institute of Health Carlos III, Madrid, Spain."
+      }
+    ],
+    "journal": "Expert review of vaccines",
+    "publishedDate": "2026-03-17",
+    "fetchedDate": "2026-04-14",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "vaccine"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false
+  },
+  {
     "id": "art-001",
     "pmid": "38956234",
     "doi": "10.1056/NEJMoa2400891",
@@ -12,15 +819,30 @@
     "source": "NEJM",
     "sourceUrl": "https://www.nejm.org/doi/10.1056/NEJMoa2400891",
     "authors": [
-      { "name": "Sara M. Tolaney", "affiliation": "Dana-Farber Cancer Institute, Boston, MA" },
-      { "name": "Hope S. Rugo", "affiliation": "University of California San Francisco" },
-      { "name": "Javier Cortés", "affiliation": "International Breast Cancer Center, Barcelona" }
+      {
+        "name": "Sara M. Tolaney",
+        "affiliation": "Dana-Farber Cancer Institute, Boston, MA"
+      },
+      {
+        "name": "Hope S. Rugo",
+        "affiliation": "University of California San Francisco"
+      },
+      {
+        "name": "Javier Cortés",
+        "affiliation": "International Breast Cancer Center, Barcelona"
+      }
     ],
     "journal": "New England Journal of Medicine",
     "publishedDate": "2025-03-15",
     "fetchedDate": "2026-04-09",
     "category": "Oncologia",
-    "tags": ["imunoterapia", "pembrolizumabe", "câncer de mama", "triplo-negativo", "PD-L1"],
+    "tags": [
+      "imunoterapia",
+      "pembrolizumabe",
+      "câncer de mama",
+      "triplo-negativo",
+      "PD-L1"
+    ],
     "isHighlight": true,
     "readTime": 8,
     "citationCount": 312,
@@ -39,15 +861,30 @@
     "source": "Lancet",
     "sourceUrl": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00234-7",
     "authors": [
-      { "name": "Christopher H. van Dyck", "affiliation": "Yale School of Medicine, New Haven, CT" },
-      { "name": "Chad J. Swanson", "affiliation": "Eisai Inc., Nutley, NJ" },
-      { "name": "Ai Li", "affiliation": "Eisai Inc., Nutley, NJ" }
+      {
+        "name": "Christopher H. van Dyck",
+        "affiliation": "Yale School of Medicine, New Haven, CT"
+      },
+      {
+        "name": "Chad J. Swanson",
+        "affiliation": "Eisai Inc., Nutley, NJ"
+      },
+      {
+        "name": "Ai Li",
+        "affiliation": "Eisai Inc., Nutley, NJ"
+      }
     ],
     "journal": "The Lancet",
     "publishedDate": "2025-02-08",
     "fetchedDate": "2026-04-09",
     "category": "Neurologia",
-    "tags": ["Alzheimer", "lecanemabe", "amiloide", "demência", "neurologia"],
+    "tags": [
+      "Alzheimer",
+      "lecanemabe",
+      "amiloide",
+      "demência",
+      "neurologia"
+    ],
     "isHighlight": true,
     "readTime": 10,
     "citationCount": 489,
@@ -66,15 +903,30 @@
     "source": "BMJ",
     "sourceUrl": "https://www.bmj.com/content/388/bmj-2024-079234",
     "authors": [
-      { "name": "Emma Cowling", "affiliation": "University College London, UK" },
-      { "name": "Jonathan Mant", "affiliation": "University of Cambridge, UK" },
-      { "name": "Amitava Banerjee", "affiliation": "University College London, UK" }
+      {
+        "name": "Emma Cowling",
+        "affiliation": "University College London, UK"
+      },
+      {
+        "name": "Jonathan Mant",
+        "affiliation": "University of Cambridge, UK"
+      },
+      {
+        "name": "Amitava Banerjee",
+        "affiliation": "University College London, UK"
+      }
     ],
     "journal": "The BMJ",
     "publishedDate": "2025-01-22",
     "fetchedDate": "2026-04-09",
     "category": "Infectologia",
-    "tags": ["COVID-19", "long COVID", "cardiovascular", "neurológico", "coorte"],
+    "tags": [
+      "COVID-19",
+      "long COVID",
+      "cardiovascular",
+      "neurológico",
+      "coorte"
+    ],
     "isHighlight": true,
     "readTime": 9,
     "citationCount": 267,
@@ -93,15 +945,30 @@
     "source": "JAMA",
     "sourceUrl": "https://jamanetwork.com/journals/jama/fullarticle/2025.1847",
     "authors": [
-      { "name": "Kazem Rahimi", "affiliation": "University of Oxford, UK" },
-      { "name": "Milad Nazarzadeh", "affiliation": "University of Oxford, UK" },
-      { "name": "Dexter Canoy", "affiliation": "University of Oxford, UK" }
+      {
+        "name": "Kazem Rahimi",
+        "affiliation": "University of Oxford, UK"
+      },
+      {
+        "name": "Milad Nazarzadeh",
+        "affiliation": "University of Oxford, UK"
+      },
+      {
+        "name": "Dexter Canoy",
+        "affiliation": "University of Oxford, UK"
+      }
     ],
     "journal": "JAMA",
     "publishedDate": "2025-04-01",
     "fetchedDate": "2026-04-09",
     "category": "Cardiologia",
-    "tags": ["hipertensão", "pressão arterial", "cardiovascular", "meta-análise", "AVC"],
+    "tags": [
+      "hipertensão",
+      "pressão arterial",
+      "cardiovascular",
+      "meta-análise",
+      "AVC"
+    ],
     "isHighlight": true,
     "readTime": 7,
     "citationCount": 198,
@@ -120,15 +987,30 @@
     "source": "PMC",
     "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10234567",
     "authors": [
-      { "name": "David R. Liu", "affiliation": "Broad Institute of MIT and Harvard, Cambridge, MA" },
-      { "name": "Stuart H. Orkin", "affiliation": "Boston Children's Hospital, Harvard Medical School" },
-      { "name": "Vijay G. Sankaran", "affiliation": "Boston Children's Hospital, Harvard Medical School" }
+      {
+        "name": "David R. Liu",
+        "affiliation": "Broad Institute of MIT and Harvard, Cambridge, MA"
+      },
+      {
+        "name": "Stuart H. Orkin",
+        "affiliation": "Boston Children's Hospital, Harvard Medical School"
+      },
+      {
+        "name": "Vijay G. Sankaran",
+        "affiliation": "Boston Children's Hospital, Harvard Medical School"
+      }
     ],
     "journal": "Nature",
     "publishedDate": "2025-03-28",
     "fetchedDate": "2026-04-09",
     "category": "Genômica",
-    "tags": ["CRISPR", "edição gênica", "anemia falciforme", "nanopartículas", "hemoglobina fetal"],
+    "tags": [
+      "CRISPR",
+      "edição gênica",
+      "anemia falciforme",
+      "nanopartículas",
+      "hemoglobina fetal"
+    ],
     "isHighlight": true,
     "readTime": 11,
     "citationCount": 143,
@@ -147,15 +1029,30 @@
     "source": "PubMed",
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/38389012",
     "authors": [
-      { "name": "John F. Cryan", "affiliation": "University College Cork, Ireland" },
-      { "name": "Ted Dinan", "affiliation": "University College Cork, Ireland" },
-      { "name": "Emeran Mayer", "affiliation": "University of California Los Angeles, CA" }
+      {
+        "name": "John F. Cryan",
+        "affiliation": "University College Cork, Ireland"
+      },
+      {
+        "name": "Ted Dinan",
+        "affiliation": "University College Cork, Ireland"
+      },
+      {
+        "name": "Emeran Mayer",
+        "affiliation": "University of California Los Angeles, CA"
+      }
     ],
     "journal": "Nature Medicine",
     "publishedDate": "2025-02-14",
     "fetchedDate": "2026-04-09",
     "category": "Saúde Mental",
-    "tags": ["microbiota", "depressão", "antidepressivos", "probióticos", "eixo intestino-cérebro"],
+    "tags": [
+      "microbiota",
+      "depressão",
+      "antidepressivos",
+      "probióticos",
+      "eixo intestino-cérebro"
+    ],
     "isHighlight": false,
     "readTime": 8,
     "citationCount": 87,
@@ -174,14 +1071,26 @@
     "source": "Cochrane",
     "sourceUrl": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015234.pub2",
     "authors": [
-      { "name": "Kirsten Mehlig", "affiliation": "University of Gothenburg, Sweden" },
-      { "name": "Lauren B. Shomaker", "affiliation": "Colorado State University, CO" }
+      {
+        "name": "Kirsten Mehlig",
+        "affiliation": "University of Gothenburg, Sweden"
+      },
+      {
+        "name": "Lauren B. Shomaker",
+        "affiliation": "Colorado State University, CO"
+      }
     ],
     "journal": "Cochrane Database of Systematic Reviews",
     "publishedDate": "2025-01-30",
     "fetchedDate": "2026-04-09",
     "category": "Pediatria",
-    "tags": ["obesidade infantil", "semaglutida", "GLP-1", "pediatria", "IMC"],
+    "tags": [
+      "obesidade infantil",
+      "semaglutida",
+      "GLP-1",
+      "pediatria",
+      "IMC"
+    ],
     "isHighlight": false,
     "readTime": 9,
     "citationCount": 134,
@@ -200,15 +1109,30 @@
     "source": "NEJM",
     "sourceUrl": "https://www.nejm.org/doi/10.1056/NEJMoa2501234",
     "authors": [
-      { "name": "Hertzel C. Gerstein", "affiliation": "McMaster University, Hamilton, Canada" },
-      { "name": "Juan Pablo Frías", "affiliation": "National Research Institute, Los Angeles, CA" },
-      { "name": "Julio Rosenstock", "affiliation": "Dallas Diabetes Research Center, TX" }
+      {
+        "name": "Hertzel C. Gerstein",
+        "affiliation": "McMaster University, Hamilton, Canada"
+      },
+      {
+        "name": "Juan Pablo Frías",
+        "affiliation": "National Research Institute, Los Angeles, CA"
+      },
+      {
+        "name": "Julio Rosenstock",
+        "affiliation": "Dallas Diabetes Research Center, TX"
+      }
     ],
     "journal": "New England Journal of Medicine",
     "publishedDate": "2025-03-05",
     "fetchedDate": "2026-04-09",
     "category": "Endocrinologia",
-    "tags": ["tirzepatida", "diabetes tipo 2", "insulina", "cardiovascular", "GLP-1/GIP"],
+    "tags": [
+      "tirzepatida",
+      "diabetes tipo 2",
+      "insulina",
+      "cardiovascular",
+      "GLP-1/GIP"
+    ],
     "isHighlight": false,
     "readTime": 10,
     "citationCount": 221,
@@ -227,14 +1151,26 @@
     "source": "Scopus",
     "sourceUrl": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85183456789",
     "authors": [
-      { "name": "Brendan Elsworth", "affiliation": "Wellcome Sanger Institute, Cambridge, UK" },
-      { "name": "Adriana Heguy", "affiliation": "NYU Langone Health, New York, NY" }
+      {
+        "name": "Brendan Elsworth",
+        "affiliation": "Wellcome Sanger Institute, Cambridge, UK"
+      },
+      {
+        "name": "Adriana Heguy",
+        "affiliation": "NYU Langone Health, New York, NY"
+      }
     ],
     "journal": "Cell",
     "publishedDate": "2025-02-20",
     "fetchedDate": "2026-04-09",
     "category": "Infectologia",
-    "tags": ["sepse", "proteômica", "biomarcadores", "mortalidade", "célula única"],
+    "tags": [
+      "sepse",
+      "proteômica",
+      "biomarcadores",
+      "mortalidade",
+      "célula única"
+    ],
     "isHighlight": false,
     "readTime": 12,
     "citationCount": 56,
@@ -253,15 +1189,30 @@
     "source": "Lancet",
     "sourceUrl": "https://www.thelancet.com/journals/laneur/article/PIIS0140-6736(25)00412-6",
     "authors": [
-      { "name": "Perdita Barran", "affiliation": "University of Manchester, UK" },
-      { "name": "Joy Milne", "affiliation": "Perth, Scotland" },
-      { "name": "Tilo Kunath", "affiliation": "University of Edinburgh, UK" }
+      {
+        "name": "Perdita Barran",
+        "affiliation": "University of Manchester, UK"
+      },
+      {
+        "name": "Joy Milne",
+        "affiliation": "Perth, Scotland"
+      },
+      {
+        "name": "Tilo Kunath",
+        "affiliation": "University of Edinburgh, UK"
+      }
     ],
     "journal": "The Lancet Neurology",
     "publishedDate": "2025-01-15",
     "fetchedDate": "2026-04-09",
     "category": "Neurologia",
-    "tags": ["Parkinson", "diagnóstico precoce", "sebo", "biomarcadores", "metabolômica"],
+    "tags": [
+      "Parkinson",
+      "diagnóstico precoce",
+      "sebo",
+      "biomarcadores",
+      "metabolômica"
+    ],
     "isHighlight": false,
     "readTime": 7,
     "citationCount": 178,
@@ -280,14 +1231,26 @@
     "source": "Embase",
     "sourceUrl": "https://www.embase.com/record/2025-123456",
     "authors": [
-      { "name": "Eric A. Klein", "affiliation": "Cleveland Clinic, Cleveland, OH" },
-      { "name": "Anne-Renee Hartman", "affiliation": "GRAIL Inc., Menlo Park, CA" }
+      {
+        "name": "Eric A. Klein",
+        "affiliation": "Cleveland Clinic, Cleveland, OH"
+      },
+      {
+        "name": "Anne-Renee Hartman",
+        "affiliation": "GRAIL Inc., Menlo Park, CA"
+      }
     ],
     "journal": "Cancer Discovery",
     "publishedDate": "2025-02-28",
     "fetchedDate": "2026-04-09",
     "category": "Genômica",
-    "tags": ["biópsia líquida", "ctDNA", "detecção precoce", "metilação", "pan-cancer"],
+    "tags": [
+      "biópsia líquida",
+      "ctDNA",
+      "detecção precoce",
+      "metilação",
+      "pan-cancer"
+    ],
     "isHighlight": false,
     "readTime": 9,
     "citationCount": 92,
@@ -306,14 +1269,26 @@
     "source": "Cochrane",
     "sourceUrl": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013791.pub3",
     "authors": [
-      { "name": "Jefferson T. Smith", "affiliation": "Cochrane Vaccines Field, London, UK" },
-      { "name": "Lubna A. Al-Ansary", "affiliation": "King Abdullah International Medical Research Center, Riyadh" }
+      {
+        "name": "Jefferson T. Smith",
+        "affiliation": "Cochrane Vaccines Field, London, UK"
+      },
+      {
+        "name": "Lubna A. Al-Ansary",
+        "affiliation": "King Abdullah International Medical Research Center, Riyadh"
+      }
     ],
     "journal": "Cochrane Database of Systematic Reviews",
     "publishedDate": "2025-03-10",
     "fetchedDate": "2026-04-09",
     "category": "Imunologia",
-    "tags": ["vacina mRNA", "COVID-19", "eficácia vacinal", "subvariantes", "imunidade"],
+    "tags": [
+      "vacina mRNA",
+      "COVID-19",
+      "eficácia vacinal",
+      "subvariantes",
+      "imunidade"
+    ],
     "isHighlight": false,
     "readTime": 8,
     "citationCount": 115,
@@ -332,15 +1307,30 @@
     "source": "BMJ",
     "sourceUrl": "https://heart.bmj.com/content/early/2025/heartjnl-2025-321456",
     "authors": [
-      { "name": "Zachi I. Attia", "affiliation": "Mayo Clinic, Rochester, MN" },
-      { "name": "Paul A. Friedman", "affiliation": "Mayo Clinic, Rochester, MN" },
-      { "name": "Francisco Lopez-Jimenez", "affiliation": "Mayo Clinic, Rochester, MN" }
+      {
+        "name": "Zachi I. Attia",
+        "affiliation": "Mayo Clinic, Rochester, MN"
+      },
+      {
+        "name": "Paul A. Friedman",
+        "affiliation": "Mayo Clinic, Rochester, MN"
+      },
+      {
+        "name": "Francisco Lopez-Jimenez",
+        "affiliation": "Mayo Clinic, Rochester, MN"
+      }
     ],
     "journal": "Heart",
     "publishedDate": "2025-02-05",
     "fetchedDate": "2026-04-09",
     "category": "Cardiologia",
-    "tags": ["inteligência artificial", "ECG", "insuficiência cardíaca", "deep learning", "diagnóstico precoce"],
+    "tags": [
+      "inteligência artificial",
+      "ECG",
+      "insuficiência cardíaca",
+      "deep learning",
+      "diagnóstico precoce"
+    ],
     "isHighlight": false,
     "readTime": 8,
     "citationCount": 203,
@@ -359,15 +1349,30 @@
     "source": "JAMA",
     "sourceUrl": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2025.0234",
     "authors": [
-      { "name": "John C. Fortney", "affiliation": "University of Washington, Seattle, WA" },
-      { "name": "Lisa B. Dixon", "affiliation": "Columbia University Irving Medical Center, NY" },
-      { "name": "Enrico Castillo", "affiliation": "Kaiser Permanente, San Diego, CA" }
+      {
+        "name": "John C. Fortney",
+        "affiliation": "University of Washington, Seattle, WA"
+      },
+      {
+        "name": "Lisa B. Dixon",
+        "affiliation": "Columbia University Irving Medical Center, NY"
+      },
+      {
+        "name": "Enrico Castillo",
+        "affiliation": "Kaiser Permanente, San Diego, CA"
+      }
     ],
     "journal": "JAMA Psychiatry",
     "publishedDate": "2025-01-08",
     "fetchedDate": "2026-04-09",
     "category": "Saúde Mental",
-    "tags": ["telepsiquiatria", "depressão", "ansiedade", "telemedicina", "saúde mental digital"],
+    "tags": [
+      "telepsiquiatria",
+      "depressão",
+      "ansiedade",
+      "telemedicina",
+      "saúde mental digital"
+    ],
     "isHighlight": false,
     "readTime": 6,
     "citationCount": 76,
