@@ -33,7 +33,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          # Sem cache: o script não tem package-lock.json próprio
 
       # O script usa apenas módulos nativos do Node.js (https, fs, path)
       # Não precisa de npm install
