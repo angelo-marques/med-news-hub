@@ -33,10 +33,24 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      # Descobre o nome do repositório para definir o base-href correto
+      # Ex: angelo-marques/med-news-hub → base-href = /med-news-hub/
       - name: Build production
-        run: npm run build:prod
+        run: |
+          REPO_NAME=$(echo "$GITHUB_REPOSITORY" | cut -d'/' -f2)
+          echo "Building with base-href: /${REPO_NAME}/"
+          npx ng build --configuration production --base-href "/${REPO_NAME}/"
         env:
           NODE_OPTIONS: '--max-old-space-size=4096'
+
+      # Copia index.html → 404.html para que o roteamento SPA funcione
+      # GitHub Pages retorna 404.html em rotas desconhecidas; o Angular assume o controle
+      - name: Create 404.html for SPA routing
+        run: cp dist/med-news-hub/browser/index.html dist/med-news-hub/browser/404.html
+
+      # Impede o GitHub de processar os arquivos com Jekyll
+      - name: Disable Jekyll processing
+        run: touch dist/med-news-hub/browser/.nojekyll
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

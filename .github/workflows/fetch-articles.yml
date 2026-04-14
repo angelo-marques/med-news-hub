@@ -2,20 +2,21 @@ name: Fetch and Update Medical Articles
 
 on:
   schedule:
-    # Run 3x daily: 6am, 2pm, 10pm UTC
+    # 3x ao dia: 6h, 14h, 22h UTC
     - cron: '0 6 * * *'
     - cron: '0 14 * * *'
     - cron: '0 22 * * *'
   workflow_dispatch:
     inputs:
       force_ai:
-        description: 'Force AI reprocessing of existing articles'
+        description: 'Forçar reprocessamento de IA nos artigos existentes'
         required: false
         default: 'false'
         type: boolean
 
 permissions:
   contents: write
+  actions: write   # necessário para disparar o deploy workflow
 
 jobs:
   fetch-articles:
@@ -32,14 +33,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
+          # Sem cache: o script não tem package-lock.json próprio
 
-      - name: Install script dependencies
-        run: |
-          cd scripts
-          npm install --no-package-lock 2>/dev/null || npm install axios 2>/dev/null || echo "Using built-in fetch"
-          cd ..
-
+      # O script usa apenas módulos nativos do Node.js (https, fs, path)
+      # Não precisa de npm install
       - name: Run article fetch script
         run: node scripts/fetch-articles.js
         env:
@@ -49,12 +46,16 @@ jobs:
           GROQ_API_KEY:        ${{ secrets.GROQ_API_KEY }}
           OPENAI_API_KEY:      ${{ secrets.OPENAI_API_KEY }}
           FORCE_AI:            ${{ inputs.force_ai || 'false' }}
-          NODE_ENV: production
+          NODE_ENV:            production
 
       - name: Check for changes
         id: check_changes
         run: |
-          git diff --quiet src/assets/data/articles.json || echo "changed=true" >> $GITHUB_OUTPUT
+          if git diff --quiet src/assets/data/articles.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit updated articles
         if: steps.check_changes.outputs.changed == 'true'
@@ -66,18 +67,20 @@ jobs:
           git commit -m "chore: auto-update articles.json [$ARTICLE_COUNT artigos] $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
 
-      - name: Log no changes
+      - name: No changes found
         if: steps.check_changes.outputs.changed != 'true'
-        run: echo "No new articles found. articles.json unchanged."
+        run: echo "Nenhum artigo novo. articles.json não foi alterado."
 
+      # Dispara o deploy somente se articles.json foi atualizado
       - name: Trigger deploy workflow
         if: steps.check_changes.outputs.changed == 'true'
         uses: actions/github-script@v7
         with:
           script: |
-            github.rest.actions.createWorkflowDispatch({
+            await github.rest.actions.createWorkflowDispatch({
               owner: context.repo.owner,
               repo: context.repo.repo,
               workflow_id: 'deploy.yml',
               ref: 'main'
             });
+            console.log('Deploy workflow triggered.');
