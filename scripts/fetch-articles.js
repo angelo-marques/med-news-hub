@@ -21,10 +21,11 @@ const CONFIG = {
   maxArticlesTotal: 100,
   forceAI: process.env.FORCE_AI === 'true',
   apiKeys: {
-    gemini: process.env.GEMINI_API_KEY || '',
-    huggingFace: process.env.HF_API_KEY || '',
-    openRouter: process.env.OPENROUTER_API_KEY || '',
-    aimlapi: process.env.AIMLAPI_KEY || '',
+    gemini:      process.env.GEMINI_API_KEY      || '',  // Google AI Studio
+    openRouter:  process.env.OPENROUTER_API_KEY  || '',  // OpenRouter free models
+    siliconFlow: process.env.SILICONFLOW_API_KEY || '',  // SiliconFlow free tier
+    groq:        process.env.GROQ_API_KEY        || '',  // Groq (ultra-rápido, free)
+    openAI:      process.env.OPENAI_API_KEY      || '',  // OpenAI (fallback pago)
   },
   pubmedSearchTerms: [
     'cancer immunotherapy 2025',
@@ -228,8 +229,9 @@ Abstract: ${article.abstract || 'Pesquisa médica recente com descobertas signif
 Responda APENAS com o resumo jornalístico em português, sem comentários adicionais.`;
 }
 
+/** Google AI Studio – Gemini 2.0 Flash */
 async function generateWithGemini(prompt, apiKey) {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
   const body = {
     contents: [{ parts: [{ text: prompt }] }],
     generationConfig: { temperature: 0.7, maxOutputTokens: 1500 },
@@ -242,11 +244,13 @@ async function generateWithGemini(prompt, apiKey) {
   return result?.candidates?.[0]?.content?.parts?.[0]?.text || '';
 }
 
+/** OpenRouter – DeepSeek R1 free / Llama 3.3 70B free */
 async function generateWithOpenRouter(prompt, apiKey) {
   const body = {
-    model: 'mistralai/mistral-7b-instruct:free',
+    model: 'deepseek/deepseek-r1:free',
     messages: [{ role: 'user', content: prompt }],
     max_tokens: 1500,
+    temperature: 0.7,
   };
   const result = await httpRequest('https://openrouter.ai/api/v1/chat/completions', {
     method: 'POST',
@@ -256,18 +260,20 @@ async function generateWithOpenRouter(prompt, apiKey) {
       'HTTP-Referer': 'https://vexlyn.news',
       'X-Title': 'Vexlyn News',
     },
-    timeout: 25000,
+    timeout: 30000,
   }, body);
   return result?.choices?.[0]?.message?.content || '';
 }
 
-async function generateWithAIMLAPI(prompt, apiKey) {
+/** SiliconFlow – Qwen2.5-72B (free tier) */
+async function generateWithSiliconFlow(prompt, apiKey) {
   const body = {
-    model: 'google/gemma-3-27b-it',
+    model: 'Qwen/Qwen2.5-72B-Instruct',
     messages: [{ role: 'user', content: prompt }],
     max_tokens: 1500,
+    temperature: 0.7,
   };
-  const result = await httpRequest('https://api.aimlapi.com/v1/chat/completions', {
+  const result = await httpRequest('https://api.siliconflow.cn/v1/chat/completions', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
@@ -278,27 +284,55 @@ async function generateWithAIMLAPI(prompt, apiKey) {
   return result?.choices?.[0]?.message?.content || '';
 }
 
-async function generateWithHuggingFace(prompt, apiKey) {
-  const result = await httpRequest('https://api-inference.huggingface.co/models/facebook/bart-large-cnn', {
+/** Groq – llama-3.3-70b-versatile (free, extremamente rápido) */
+async function generateWithGroq(prompt, apiKey) {
+  const body = {
+    model: 'llama-3.3-70b-versatile',
+    messages: [{ role: 'user', content: prompt }],
+    max_tokens: 1500,
+    temperature: 0.7,
+  };
+  const result = await httpRequest('https://api.groq.com/openai/v1/chat/completions', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
       'Authorization': `Bearer ${apiKey}`,
     },
-    timeout: 40000,
-  }, { inputs: prompt.substring(0, 1024), parameters: { max_length: 500, min_length: 150 } });
-  return Array.isArray(result) ? (result[0]?.summary_text || '') : '';
+    timeout: 15000,
+  }, body);
+  return result?.choices?.[0]?.message?.content || '';
+}
+
+/** OpenAI – gpt-4o-mini (fallback pago) */
+async function generateWithOpenAI(prompt, apiKey) {
+  const body = {
+    model: 'gpt-4o-mini',
+    messages: [{ role: 'user', content: prompt }],
+    max_tokens: 1500,
+    temperature: 0.7,
+  };
+  const result = await httpRequest('https://api.openai.com/v1/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${apiKey}`,
+    },
+    timeout: 20000,
+  }, body);
+  return result?.choices?.[0]?.message?.content || '';
 }
 
 async function generateSummary(article) {
   const prompt = buildPrompt(article);
   const keys = CONFIG.apiKeys;
 
+  // Cascata: Gemini → Groq → OpenRouter → SiliconFlow → OpenAI
   const providers = [
-    { name: 'Gemini', fn: () => generateWithGemini(prompt, keys.gemini), key: keys.gemini },
-    { name: 'OpenRouter', fn: () => generateWithOpenRouter(prompt, keys.openRouter), key: keys.openRouter },
-    { name: 'AIMLAPI', fn: () => generateWithAIMLAPI(prompt, keys.aimlapi), key: keys.aimlapi },
-    { name: 'HuggingFace', fn: () => generateWithHuggingFace(prompt, keys.huggingFace), key: keys.huggingFace },
+    { name: 'Gemini',      fn: () => generateWithGemini(prompt, keys.gemini),           key: keys.gemini      },
+    { name: 'Groq',        fn: () => generateWithGroq(prompt, keys.groq),               key: keys.groq        },
+    { name: 'OpenRouter',  fn: () => generateWithOpenRouter(prompt, keys.openRouter),   key: keys.openRouter  },
+    { name: 'SiliconFlow', fn: () => generateWithSiliconFlow(prompt, keys.siliconFlow), key: keys.siliconFlow },
+    { name: 'OpenAI',      fn: () => generateWithOpenAI(prompt, keys.openAI),           key: keys.openAI      },
   ];
 
   for (const provider of providers) {
@@ -378,7 +412,8 @@ function saveArticles(articles) {
 async function main() {
   console.log('=== Vexlyn News – Article Fetch Script ===');
   console.log(`Started: ${new Date().toISOString()}`);
-  console.log(`AI keys available: Gemini=${!!CONFIG.apiKeys.gemini}, HF=${!!CONFIG.apiKeys.huggingFace}, OpenRouter=${!!CONFIG.apiKeys.openRouter}, AIMLAPI=${!!CONFIG.apiKeys.aimlapi}`);
+  const k = CONFIG.apiKeys;
+  console.log(`AI keys: Gemini=${!!k.gemini}, Groq=${!!k.groq}, OpenRouter=${!!k.openRouter}, SiliconFlow=${!!k.siliconFlow}, OpenAI=${!!k.openAI}`);
 
   const existingArticles = loadExistingArticles();
   console.log(`Existing articles: ${existingArticles.length}`);

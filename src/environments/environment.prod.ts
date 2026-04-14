@@ -2,21 +2,31 @@ export const environment = {
   production: true,
   appName: 'Vexlyn News',
   apiKeys: {
-    gemini: '',        // Set via GEMINI_API_KEY env var
-    huggingFace: '',   // Set via HF_API_KEY
-    openRouter: '',    // Set via OPENROUTER_API_KEY
-    aimlapi: '',       // Set via AIMLAPI_KEY
-    ideogram: '',      // Set via IDEOGRAM_API_KEY
-    replicate: '',     // Set via REPLICATE_API_KEY
+    gemini: '',       // GEMINI_API_KEY
+    openRouter: '',   // OPENROUTER_API_KEY
+    siliconFlow: '',  // SILICONFLOW_API_KEY
+    groq: '',         // GROQ_API_KEY
+    openAI: '',       // OPENAI_API_KEY
   },
   apis: {
     pubmed: 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils',
-    gemini: 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent',
-    huggingFaceSummarize: 'https://api-inference.huggingface.co/models/facebook/bart-large-cnn',
-    huggingFaceImage: 'https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell',
+    gemini: 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent',
     openRouter: 'https://openrouter.ai/api/v1/chat/completions',
-    aimlapi: 'https://api.aimlapi.com/v1/chat/completions',
-    ideogram: 'https://api.ideogram.ai/generate',
-    replicate: 'https://api.replicate.com/v1/predictions',
+    siliconFlow: 'https://api.siliconflow.cn/v1/chat/completions',
+    siliconFlowImage: 'https://api.siliconflow.cn/v1/images/generations',
+    groq: 'https://api.groq.com/openai/v1/chat/completions',
+    openAI: 'https://api.openai.com/v1/chat/completions',
+    openAIImage: 'https://api.openai.com/v1/images/generations',
+  },
+  models: {
+    gemini: 'gemini-2.0-flash',
+    openRouter: 'deepseek/deepseek-r1:free',
+    openRouterAlt: 'meta-llama/llama-3.3-70b-instruct:free',
+    siliconFlow: 'Qwen/Qwen2.5-72B-Instruct',
+    siliconFlowAlt: 'deepseek-ai/DeepSeek-V3',
+    siliconFlowImage: 'black-forest-labs/FLUX.1-schnell',
+    groq: 'llama-3.3-70b-versatile',
+    openAI: 'gpt-4o-mini',
+    openAIImage: 'dall-e-3',
   }
 };
