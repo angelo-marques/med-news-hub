@@ -67,24 +67,28 @@
             <p class="text-sm mt-1" style="color: var(--text-secondary);">Tente ajustar sua busca ou limpar os filtros.</p>
           </div>
         } @else {
+          <!-- @defer sem on viewport: evita restrição de elemento raiz único no placeholder -->
           <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6">
-            @defer (on viewport) {
+            @defer {
               @for (article of latestArticles(); track article.id) {
                 <div class="h-full">
                   <app-article-card [article]="article" />
                 </div>
               }
             } @placeholder {
-              @for (i of [1,2,3,4,5,6]; track i) {
-                <div class="rounded-xl overflow-hidden" style="background: var(--bg-secondary); border: 1px solid var(--border-color);">
-                  <div class="skeleton" style="height: 180px;"></div>
-                  <div class="p-4 space-y-3">
-                    <div class="skeleton" style="height: 16px; width: 75%;"></div>
-                    <div class="skeleton" style="height: 16px; width: 100%;"></div>
-                    <div class="skeleton" style="height: 16px; width: 50%;"></div>
+              <!-- placeholder: único elemento raiz (div com os skeletons dentro) -->
+              <div class="contents">
+                @for (i of [1,2,3,4,5,6]; track i) {
+                  <div class="rounded-xl overflow-hidden" style="background: var(--bg-secondary); border: 1px solid var(--border-color);">
+                    <div class="skeleton" style="height: 180px;"></div>
+                    <div class="p-4 space-y-3">
+                      <div class="skeleton" style="height: 16px; width: 75%;"></div>
+                      <div class="skeleton" style="height: 16px; width: 100%;"></div>
+                      <div class="skeleton" style="height: 16px; width: 50%;"></div>
+                    </div>
                   </div>
-                </div>
-              }
+                }
+              </div>
             }
           </div>
         }
