@@ -33,7 +33,7 @@
               Pesquisas Recentes
             </h2>
             <p class="text-sm mt-1" style="color: var(--text-secondary);">
-              {{articleService.filteredArticles().length}} artigos encontrados
+              {{articleService.filteredArticles().length}} artigos processados por IA
               @if (articleService.searchQuery()) {
                 para "<em>{{articleService.searchQuery()}}</em>"
               }
@@ -63,8 +63,8 @@
         } @else if (latestArticles().length === 0) {
           <div class="rounded-xl p-8 text-center" style="background: var(--bg-secondary); border: 1px solid var(--border-color);">
             <mat-icon style="font-size: 48px; color: var(--text-secondary);">article</mat-icon>
-            <p class="mt-2" style="color: var(--text-secondary);">Nenhum artigo encontrado com os filtros atuais.</p>
-            <p class="text-sm mt-1" style="color: var(--text-secondary);">Tente ajustar sua busca ou limpar os filtros.</p>
+            <p class="mt-2" style="color: var(--text-secondary);">Nenhum artigo processado por IA foi encontrado com os filtros atuais.</p>
+            <p class="text-sm mt-1" style="color: var(--text-secondary);">Tente ajustar sua busca ou aguarde o próximo ciclo automático.</p>
           </div>
         } @else {
           <!-- @defer sem on viewport: evita restrição de elemento raiz único no placeholder -->

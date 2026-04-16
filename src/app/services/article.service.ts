@@ -6,6 +6,7 @@ import { Article, ArticleCategory, ArticleSource } from '../models/article.model
 @Injectable({ providedIn: 'root' })
 export class ArticleService {
   private readonly http = inject(HttpClient);
+  private readonly minSummaryLength = 120;
 
   readonly articles = signal<Article[]>([]);
   readonly loading = signal(false);
@@ -37,7 +38,7 @@ export class ArticleService {
   });
 
   readonly highlightedArticles = computed(() =>
-    this.articles().filter(a => a.isHighlight).slice(0, 5)
+    this.pickHighlightedArticles(this.articles())
   );
 
   readonly paginatedArticles = computed(() => {
@@ -64,7 +65,7 @@ export class ArticleService {
         return of([]);
       })
     ).subscribe(articles => {
-      this.articles.set(articles);
+      this.articles.set(articles.filter(a => this.isReadyForDisplay(a)));
       this.loading.set(false);
     });
   }
@@ -99,5 +100,20 @@ export class ArticleService {
 
   prevPage(): void {
     if (this.currentPage() > 1) this.currentPage.update(p => p - 1);
+  }
+
+  private isReadyForDisplay(article: Article): boolean {
+    return !!article.aiProcessed && !!article.journalisticSummary && article.journalisticSummary.trim().length >= this.minSummaryLength;
+  }
+
+  private pickHighlightedArticles(articles: Article[]): Article[] {
+    const explicitHighlights = articles.filter(a => a.isHighlight);
+    if (explicitHighlights.length > 0) {
+      return explicitHighlights.slice(0, 5);
+    }
+
+    return [...articles]
+      .sort((a, b) => new Date(b.publishedDate).getTime() - new Date(a.publishedDate).getTime())
+      .slice(0, 5);
   }
 }
