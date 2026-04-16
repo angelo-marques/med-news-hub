@@ -76,6 +76,11 @@ jobs:
           GROQ_API_KEY:        ${{ secrets.GROQ_API_KEY }}
           OPENAI_API_KEY:      ${{ secrets.OPENAI_API_KEY }}
           FORCE_AI:            ${{ inputs.force_ai || 'false' }}
+          MAX_NEW_ARTICLES_PER_RUN: '80'
+          MAX_BACKFILL_PER_RUN: '120'
+          MAX_RETRY_PER_RUN: '80'
+          MAX_ARTICLES_TOTAL: '300'
+          RESULTS_PER_TERM: '5'
           NODE_ENV:            production
 
       - name: Check for changes in articles.json

@@ -17,9 +17,11 @@ const path = require('path');
 const CONFIG = {
   articlesPath: path.join(__dirname, '../src/assets/data/articles.json'),
   retryQueuePath: path.join(__dirname, '../scripts/.retry-queue.json'),
-  maxNewArticlesPerRun: 60,
-  maxArticlesTotal: 200,
-  resultsPerTerm: 4,
+  maxNewArticlesPerRun: Number(process.env.MAX_NEW_ARTICLES_PER_RUN || 60),
+  maxArticlesTotal: Number(process.env.MAX_ARTICLES_TOTAL || 200),
+  maxRetryPerRun: Number(process.env.MAX_RETRY_PER_RUN || 40),
+  maxBackfillPerRun: Number(process.env.MAX_BACKFILL_PER_RUN || 80),
+  resultsPerTerm: Number(process.env.RESULTS_PER_TERM || 4),
   forceAI: process.env.FORCE_AI === 'true',
   apiKeys: {
     gemini:      process.env.GEMINI_API_KEY      || '',  // Google AI Studio
@@ -428,8 +430,17 @@ function loadExistingArticles() {
 }
 
 function saveArticles(articles) {
+  const sorted = [...articles].sort((a, b) => new Date(b.publishedDate).getTime() - new Date(a.publishedDate).getTime());
+  const highlightIds = new Set(
+    sorted
+      .filter(a => a.aiProcessed && a.journalisticSummary && a.journalisticSummary.length > 100)
+      .slice(0, 5)
+      .map(a => a.id)
+  );
+
+  const normalized = sorted.map(article => ({ ...article, isHighlight: highlightIds.has(article.id) }));
   // Trim to max allowed
-  const trimmed = articles.slice(0, CONFIG.maxArticlesTotal);
+  const trimmed = normalized.slice(0, CONFIG.maxArticlesTotal);
   fs.writeFileSync(CONFIG.articlesPath, JSON.stringify(trimmed, null, 2));
   console.log(`Saved ${trimmed.length} articles to articles.json`);
 }
@@ -452,7 +463,8 @@ async function main() {
   // ── Step 1: Retry pending AI summaries ──
   if (retryQueue.length > 0) {
     console.log(`\nProcessing retry queue (${retryQueue.length} items)...`);
-    for (const articleId of retryQueue.slice(0, 5)) {
+    const retryLimit = CONFIG.forceAI ? Math.max(CONFIG.maxRetryPerRun, CONFIG.maxBackfillPerRun) : CONFIG.maxRetryPerRun;
+    for (const articleId of retryQueue.slice(0, retryLimit)) {
       const article = existingArticles.find(a => a.id === articleId);
       if (article && !article.aiProcessed) {
         console.log(`Retrying AI for: ${article.title.substring(0, 60)}...`);
@@ -460,7 +472,10 @@ async function main() {
         if (summary) {
           article.journalisticSummary = summary;
           article.aiProcessed = true;
+          article.aiProcessingError = undefined;
           retryQueue.splice(retryQueue.indexOf(articleId), 1);
+        } else {
+          article.aiProcessingError = 'All AI providers failed';
         }
         await sleep(1000);
       } else {
@@ -468,6 +483,30 @@ async function main() {
       }
     }
     saveRetryQueue(retryQueue);
+  }
+
+  // ── Step 1b: Backfill existing unprocessed articles (when FORCE_AI=true) ──
+  if (CONFIG.forceAI) {
+    const backlog = existingArticles.filter(a => !a.aiProcessed).slice(0, CONFIG.maxBackfillPerRun);
+    if (backlog.length > 0) {
+      console.log(`\nFORCE_AI enabled: reprocessing backlog (${backlog.length} articles)...`);
+      for (const article of backlog) {
+        console.log(`Backfill AI for: ${article.title.substring(0, 60)}...`);
+        const summary = await generateSummary(article);
+        if (summary) {
+          article.journalisticSummary = summary;
+          article.aiProcessed = true;
+          article.aiProcessingError = undefined;
+          const idx = retryQueue.indexOf(article.id);
+          if (idx >= 0) retryQueue.splice(idx, 1);
+        } else {
+          article.aiProcessingError = 'All AI providers failed';
+          if (!retryQueue.includes(article.id)) retryQueue.push(article.id);
+        }
+        await sleep(900);
+      }
+      saveRetryQueue(retryQueue);
+    }
   }
 
   // ── Step 2: Fetch new articles ──
@@ -500,7 +539,9 @@ async function main() {
       if (summary) {
         article.journalisticSummary = summary;
         article.aiProcessed = true;
+        article.aiProcessingError = undefined;
       } else {
+        article.aiProcessingError = 'All AI providers failed';
         retryQueue.push(article.id);
       }
 
