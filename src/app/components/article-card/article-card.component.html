@@ -53,7 +53,7 @@
     <!-- Summary snippet -->
     @if (article.journalisticSummary) {
       <p class="text-sm leading-relaxed line-clamp-3" style="color: var(--text-secondary);">
-        {{article.journalisticSummary.substring(0, 180)}}...
+        {{summaryPreview(article.journalisticSummary)}}
       </p>
     }
 

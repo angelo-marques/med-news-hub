@@ -49,7 +49,7 @@ export class ArticleDetailComponent implements OnInit {
     this.generatingSummary.set(true);
     this.aiService.generateJournalisticSummary(article).subscribe({
       next: (summary) => {
-        this.article.update(a => a ? { ...a, journalisticSummary: summary, aiProcessed: true } : a);
+        this.article.update(a => a ? { ...a, journalisticSummary: summary, aiProcessed: true, aiProvider: 'Runtime fallback' } : a);
         this.generatingSummary.set(false);
       },
       error: () => this.generatingSummary.set(false)
@@ -66,7 +66,14 @@ export class ArticleDetailComponent implements OnInit {
   }
 
   protected formatSummary(summary: string): string[] {
-    return summary.split('\n').filter(p => p.trim().length > 0);
+    return summary
+      .split('\n')
+      .map(p => this.removeSectionLabel(p).trim())
+      .filter(p => p.length > 0);
+  }
+
+  private removeSectionLabel(value: string): string {
+    return value.replace(/^(t[ií]tulo|title|lead|contexto cient[ií]fico|scientific context|resultados principais|key results|impacto cl[ií]nico|clinical impact|limita[cç][oõ]es do estudo|study limitations|pr[oó]ximos passos|next steps)\s*:\s*/i, '');
   }
 
   protected getSourceColor(source: string): string {
