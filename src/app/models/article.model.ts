@@ -28,6 +28,7 @@ export interface Article {
   readTime?: number;               // Estimated minutes
   citationCount?: number;
   aiProcessed: boolean;
+  aiProvider?: string;             // AI provider used to generate summary
   aiProcessingError?: string;
 }
 

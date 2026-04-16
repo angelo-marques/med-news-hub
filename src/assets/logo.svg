@@ -1,64 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" fill="none">
   <defs>
-    <linearGradient id="blueStroke" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="crossBlue" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0E5A91"/>
-      <stop offset="100%" stop-color="#1F4D8C"/>
+      <stop offset="100%" stop-color="#1B4F8A"/>
     </linearGradient>
   </defs>
 
-  <!-- Cross outline -->
-  <path
-    d="M460 36
-       C460 20 472 8 488 8
-       L592 8
-       C608 8 620 20 620 36
-       L620 120
-       C620 136 632 148 648 148
-       L732 148
-       C748 148 760 160 760 176
-       L760 280
-       C760 296 748 308 732 308
-       L648 308
-       C632 308 620 320 620 336
-       L620 420
-       C620 436 608 448 592 448
-       L488 448
-       C472 448 460 436 460 420
-       L460 336
-       C460 320 448 308 432 308
-       L348 308
-       C332 308 320 296 320 280
-       L320 176
-       C320 160 332 148 348 148
-       L432 148
-       C448 148 460 136 460 120
-       Z"
-    transform="translate(-120,-18) scale(1,0.95)"
-    stroke="url(#blueStroke)"
-    stroke-width="18"
-    stroke-linejoin="round"
-  />
+  <!-- Medical cross -->
+  <rect x="88" y="12" width="124" height="296" rx="34" stroke="url(#crossBlue)" stroke-width="18"/>
+  <rect x="0" y="100" width="300" height="124" rx="34" stroke="url(#crossBlue)" stroke-width="18"/>
 
   <!-- DNA top -->
-  <path d="M600 36 C585 78 640 102 640 150 C640 196 590 220 575 260" stroke="#0E5A91" stroke-width="14" stroke-linecap="round"/>
-  <path d="M680 36 C695 78 640 102 640 150 C640 196 690 220 705 260" stroke="#62C281" stroke-width="14" stroke-linecap="round"/>
-  <line x1="612" y1="72" x2="668" y2="72" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
-  <line x1="610" y1="108" x2="670" y2="108" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
-  <line x1="612" y1="144" x2="668" y2="144" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
-  <line x1="610" y1="180" x2="670" y2="180" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
-  <line x1="612" y1="216" x2="668" y2="216" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
+  <path d="M132 18 C116 56 176 84 176 128 C176 172 124 196 108 232" stroke="#0E5A91" stroke-width="12" stroke-linecap="round"/>
+  <path d="M168 18 C184 56 124 84 124 128 C124 172 176 196 192 232" stroke="#62C281" stroke-width="12" stroke-linecap="round"/>
+  <line x1="134" y1="52" x2="166" y2="52" stroke="#0E5A91" stroke-width="7" stroke-linecap="round"/>
+  <line x1="132" y1="84" x2="168" y2="84" stroke="#0E5A91" stroke-width="7" stroke-linecap="round"/>
+  <line x1="134" y1="116" x2="166" y2="116" stroke="#0E5A91" stroke-width="7" stroke-linecap="round"/>
+  <line x1="132" y1="148" x2="168" y2="148" stroke="#0E5A91" stroke-width="7" stroke-linecap="round"/>
+  <line x1="134" y1="180" x2="166" y2="180" stroke="#0E5A91" stroke-width="7" stroke-linecap="round"/>
 
   <!-- DNA bottom -->
-  <path d="M600 386 C585 344 640 320 640 272 C640 226 590 202 575 162" stroke="#62C281" stroke-width="14" stroke-linecap="round"/>
-  <path d="M680 386 C695 344 640 320 640 272 C640 226 690 202 705 162" stroke="#0E5A91" stroke-width="14" stroke-linecap="round"/>
-  <line x1="612" y1="350" x2="668" y2="350" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
-  <line x1="610" y1="314" x2="670" y2="314" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
-  <line x1="612" y1="278" x2="668" y2="278" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
-  <line x1="610" y1="242" x2="670" y2="242" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
-  <line x1="612" y1="206" x2="668" y2="206" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
+  <path d="M132 302 C116 264 176 236 176 192 C176 148 124 124 108 88" stroke="#62C281" stroke-width="12" stroke-linecap="round"/>
+  <path d="M168 302 C184 264 124 236 124 192 C124 148 176 124 192 88" stroke="#0E5A91" stroke-width="12" stroke-linecap="round"/>
+  <line x1="134" y1="268" x2="166" y2="268" stroke="#0E5A91" stroke-width="7" stroke-linecap="round"/>
+  <line x1="132" y1="236" x2="168" y2="236" stroke="#0E5A91" stroke-width="7" stroke-linecap="round"/>
+  <line x1="134" y1="204" x2="166" y2="204" stroke="#0E5A91" stroke-width="7" stroke-linecap="round"/>
 
-  <!-- Brand -->
-  <text x="640" y="238" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="700" fill="#05090C">
+  <!-- Wordmark -->
+  <text x="350" y="208" font-family="Arial, Helvetica, sans-serif" font-size="128" font-weight="700" fill="#05090C">
     Vexlyn News
   </text>
 </svg>

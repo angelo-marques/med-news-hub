@@ -57,6 +57,11 @@
       </p>
     }
 
+    <p class="text-xs flex items-center gap-1" style="color: var(--text-secondary);">
+      <mat-icon style="font-size: 12px; width: 12px; height: 12px;">smart_toy</mat-icon>
+      IA: <strong>{{article.aiProvider || 'Pipeline IA'}}</strong>
+    </p>
+
     <!-- Tags -->
     <div class="flex flex-wrap gap-1.5">
       @for (tag of article.tags.slice(0, 3); track tag) {
@@ -86,12 +91,6 @@
           <span class="flex items-center gap-1" [matTooltip]="'Citações'">
             <mat-icon style="font-size: 14px; width: 14px; height: 14px;">format_quote</mat-icon>
             {{article.citationCount}}
-          </span>
-        }
-        @if (!article.aiProcessed) {
-          <span class="flex items-center gap-1" style="color: #F59E0B;">
-            <mat-icon style="font-size: 14px; width: 14px; height: 14px;">pending</mat-icon>
-            IA pendente
           </span>
         }
       </div>
