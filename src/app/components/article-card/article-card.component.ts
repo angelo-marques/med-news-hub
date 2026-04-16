@@ -37,4 +37,12 @@ export class ArticleCardComponent {
     };
     return colors[source] || '#1976D2';
   }
+
+  protected summaryPreview(summary: string): string {
+    const cleaned = summary
+      .replace(/^(t[ií]tulo|title|lead)\s*:\s*/i, '')
+      .replace(/\n+/g, ' ')
+      .trim();
+    return cleaned.length > 180 ? `${cleaned.substring(0, 180)}...` : cleaned;
+  }
 }

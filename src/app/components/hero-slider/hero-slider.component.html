@@ -31,7 +31,7 @@
 
             @if (slide.journalisticSummary) {
               <p class="text-base leading-relaxed opacity-90 line-clamp-3">
-                {{slide.journalisticSummary.substring(0, 220)}}...
+                {{summaryPreview(slide.journalisticSummary)}}
               </p>
             }
 

@@ -65,7 +65,8 @@ export class ArticleService {
         return of([]);
       })
     ).subscribe(articles => {
-      this.articles.set(articles.filter(a => this.isReadyForDisplay(a)));
+      const filtered = articles.filter(a => this.isReadyForDisplay(a));
+      this.articles.set(this.dedupeArticles(filtered));
       this.loading.set(false);
     });
   }
@@ -115,5 +116,30 @@ export class ArticleService {
     return [...articles]
       .sort((a, b) => new Date(b.publishedDate).getTime() - new Date(a.publishedDate).getTime())
       .slice(0, 5);
+  }
+
+  private dedupeArticles(articles: Article[]): Article[] {
+    const unique = new Map<string, Article>();
+    for (const article of articles) {
+      const normalizedTitle = article.title.toLowerCase().trim();
+      const key = article.pmid
+        ? `pmid:${article.pmid}`
+        : article.doi
+          ? `doi:${article.doi.toLowerCase()}`
+          : `title:${normalizedTitle}`;
+
+      if (!unique.has(key)) {
+        unique.set(key, article);
+        continue;
+      }
+
+      const current = unique.get(key)!;
+      const currentScore = (current.aiProcessed ? 2 : 0) + (current.journalisticSummary ? 1 : 0);
+      const incomingScore = (article.aiProcessed ? 2 : 0) + (article.journalisticSummary ? 1 : 0);
+      if (incomingScore > currentScore) {
+        unique.set(key, article);
+      }
+    }
+    return Array.from(unique.values());
   }
 }

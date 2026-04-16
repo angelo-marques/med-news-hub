@@ -28,6 +28,10 @@ const CONFIG = {
     openRouter:  process.env.OPENROUTER_API_KEY  || '',  // OpenRouter free models
     siliconFlow: process.env.SILICONFLOW_API_KEY || '',  // SiliconFlow free tier
     groq:        process.env.GROQ_API_KEY        || '',  // Groq (ultra-rápido, free)
+    together:    process.env.TOGETHER_API_KEY    || '',  // Together AI
+    deepSeek:    process.env.DEEPSEEK_API_KEY    || '',  // DeepSeek API
+    mistral:     process.env.MISTRAL_API_KEY     || '',  // Mistral API
+    anthropic:   process.env.ANTHROPIC_API_KEY   || '',  // Anthropic Claude
     openAI:      process.env.OPENAI_API_KEY      || '',  // OpenAI (fallback pago)
   },
   pubmedSearchTerms: [
@@ -243,40 +247,23 @@ function extractTags(text) {
 function buildPrompt(article) {
   return `Atue como redator científico profissional e editor de health-tech.
 
-Produza um texto editorial de alto nível, com rigor técnico, clareza para público leigo qualificado e tom jornalístico confiável.
+Produza um resumo jornalístico técnico e profissional com duas versões:
+- Primeiro em português brasileiro.
+- Depois em inglês.
 
-Formato obrigatório da resposta:
+Regras obrigatórias:
+1) Não use rótulos de seção como "TÍTULO:", "LEAD:", "TITLE:" ou similares.
+2) Entregue texto fluido em parágrafos, com abertura forte, contexto científico, achados principais, impacto clínico, limitações e próximos passos.
+3) Não invente dados. Se faltar informação, indique de forma objetiva que não foi informado no resumo original.
+4) Evite tom promocional e clickbait.
 
-VERSÃO PT-BR
-TÍTULO:
-LEAD:
-CONTEXTO CIENTÍFICO:
-RESULTADOS PRINCIPAIS:
-IMPACTO CLÍNICO:
-LIMITAÇÕES DO ESTUDO:
-PRÓXIMOS PASSOS:
-
-ENGLISH VERSION
-TITLE:
-LEAD:
-SCIENTIFIC CONTEXT:
-KEY RESULTS:
-CLINICAL IMPACT:
-STUDY LIMITATIONS:
-NEXT STEPS:
-
-Regras editoriais:
-1) Não invente dados; use apenas informações plausíveis do paper.
-2) Evite exagero e linguagem promocional.
-3) Use linguagem objetiva e profissional.
-4) Se faltar algum dado, sinalize com “não informado no resumo original”.
-
-Fonte:
-${article.source} – DOI: ${article.doi || 'N/A'}
+Dados do estudo:
+Fonte: ${article.source}
+DOI: ${article.doi || 'N/A'}
 Paper: "${article.title}"
 Abstract: ${article.abstract || 'Pesquisa médica recente com descobertas significativas.'}
 
-Responda apenas com o conteúdo final, sem meta-comentários.`;
+Retorne somente o texto final em PT-BR seguido da versão em inglês.`;
 }
 
 /** Google AI Studio – Gemini 2.0 Flash */
@@ -353,6 +340,83 @@ async function generateWithGroq(prompt, apiKey) {
   return result?.choices?.[0]?.message?.content || '';
 }
 
+/** Together AI – openai compatible endpoint */
+async function generateWithTogether(prompt, apiKey) {
+  const body = {
+    model: process.env.TOGETHER_MODEL || 'meta-llama/Llama-3.3-70B-Instruct-Turbo-Free',
+    messages: [{ role: 'user', content: prompt }],
+    max_tokens: 1500,
+    temperature: 0.6,
+  };
+  const result = await httpRequest('https://api.together.xyz/v1/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${apiKey}`,
+    },
+    timeout: 25000,
+  }, body);
+  return result?.choices?.[0]?.message?.content || '';
+}
+
+/** DeepSeek – official API (openai compatible) */
+async function generateWithDeepSeek(prompt, apiKey) {
+  const body = {
+    model: process.env.DEEPSEEK_MODEL || 'deepseek-chat',
+    messages: [{ role: 'user', content: prompt }],
+    max_tokens: 1500,
+    temperature: 0.6,
+  };
+  const result = await httpRequest('https://api.deepseek.com/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${apiKey}`,
+    },
+    timeout: 25000,
+  }, body);
+  return result?.choices?.[0]?.message?.content || '';
+}
+
+/** Mistral – official API (openai compatible) */
+async function generateWithMistral(prompt, apiKey) {
+  const body = {
+    model: process.env.MISTRAL_MODEL || 'mistral-small-latest',
+    messages: [{ role: 'user', content: prompt }],
+    max_tokens: 1500,
+    temperature: 0.6,
+  };
+  const result = await httpRequest('https://api.mistral.ai/v1/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${apiKey}`,
+    },
+    timeout: 25000,
+  }, body);
+  return result?.choices?.[0]?.message?.content || '';
+}
+
+/** Anthropic Claude */
+async function generateWithAnthropic(prompt, apiKey) {
+  const body = {
+    model: process.env.ANTHROPIC_MODEL || 'claude-3-5-haiku-latest',
+    max_tokens: 1500,
+    temperature: 0.5,
+    messages: [{ role: 'user', content: prompt }],
+  };
+  const result = await httpRequest('https://api.anthropic.com/v1/messages', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'x-api-key': apiKey,
+      'anthropic-version': '2023-06-01',
+    },
+    timeout: 30000,
+  }, body);
+  return result?.content?.[0]?.text || '';
+}
+
 /** OpenAI – gpt-4o-mini (fallback pago) */
 async function generateWithOpenAI(prompt, apiKey) {
   const body = {
@@ -382,7 +446,11 @@ async function generateSummary(article) {
     { name: 'Gemini',      fn: () => generateWithGemini(prompt, keys.gemini),           key: keys.gemini      },
     { name: 'Groq',        fn: () => generateWithGroq(prompt, keys.groq),               key: keys.groq        },
     { name: 'OpenRouter',  fn: () => generateWithOpenRouter(prompt, keys.openRouter),   key: keys.openRouter  },
+    { name: 'Together',    fn: () => generateWithTogether(prompt, keys.together),       key: keys.together    },
+    { name: 'DeepSeek',    fn: () => generateWithDeepSeek(prompt, keys.deepSeek),       key: keys.deepSeek    },
+    { name: 'Mistral',     fn: () => generateWithMistral(prompt, keys.mistral),         key: keys.mistral     },
     { name: 'SiliconFlow', fn: () => generateWithSiliconFlow(prompt, keys.siliconFlow), key: keys.siliconFlow },
+    { name: 'Anthropic',   fn: () => generateWithAnthropic(prompt, keys.anthropic),     key: keys.anthropic   },
     { name: 'OpenAI',      fn: () => generateWithOpenAI(prompt, keys.openAI),           key: keys.openAI      },
   ];
 
@@ -458,7 +526,8 @@ function loadExistingArticles() {
 }
 
 function saveArticles(articles) {
-  const sorted = [...articles].sort((a, b) => new Date(b.publishedDate).getTime() - new Date(a.publishedDate).getTime());
+  const unique = dedupeArticles(articles);
+  const sorted = [...unique].sort((a, b) => new Date(b.publishedDate).getTime() - new Date(a.publishedDate).getTime());
   const highlightIds = new Set(
     sorted
       .filter(a => a.aiProcessed && a.journalisticSummary && a.journalisticSummary.length > 100)
@@ -477,13 +546,38 @@ function saveArticles(articles) {
   console.log(`Saved ${trimmed.length} articles to articles.json`);
 }
 
+function dedupeArticles(articles) {
+  const keep = new Map();
+  for (const article of articles) {
+    const normalizedTitle = (article.title || '').toLowerCase().trim();
+    const key = article.pmid
+      ? `pmid:${article.pmid}`
+      : article.doi
+        ? `doi:${article.doi.toLowerCase()}`
+        : normalizedTitle
+          ? `title:${normalizedTitle}`
+          : `id:${article.id}`;
+    if (!keep.has(key)) {
+      keep.set(key, article);
+      continue;
+    }
+    const current = keep.get(key);
+    const currentScore = (current.aiProcessed ? 2 : 0) + (current.journalisticSummary ? 1 : 0);
+    const incomingScore = (article.aiProcessed ? 2 : 0) + (article.journalisticSummary ? 1 : 0);
+    if (incomingScore > currentScore) {
+      keep.set(key, article);
+    }
+  }
+  return Array.from(keep.values());
+}
+
 // ─── Main ─────────────────────────────────────────────────────────────────────
 
 async function main() {
   console.log('=== Vexlyn News – Article Fetch Script ===');
   console.log(`Started: ${new Date().toISOString()}`);
   const k = CONFIG.apiKeys;
-  console.log(`AI keys: Gemini=${!!k.gemini}, Groq=${!!k.groq}, OpenRouter=${!!k.openRouter}, SiliconFlow=${!!k.siliconFlow}, OpenAI=${!!k.openAI}`);
+  console.log(`AI keys: Gemini=${!!k.gemini}, Groq=${!!k.groq}, OpenRouter=${!!k.openRouter}, Together=${!!k.together}, DeepSeek=${!!k.deepSeek}, Mistral=${!!k.mistral}, SiliconFlow=${!!k.siliconFlow}, Anthropic=${!!k.anthropic}, OpenAI=${!!k.openAI}`);
 
   const existingArticles = loadExistingArticles();
   console.log(`Existing articles: ${existingArticles.length}`);

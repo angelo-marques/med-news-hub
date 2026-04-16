@@ -73,4 +73,12 @@ export class HeroSliderComponent implements OnInit, OnDestroy {
   protected formatDate(date: string): string {
     return new Date(date).toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' });
   }
+
+  protected summaryPreview(summary: string): string {
+    const cleaned = summary
+      .replace(/^(t[ií]tulo|title|lead)\s*:\s*/i, '')
+      .replace(/\n+/g, ' ')
+      .trim();
+    return cleaned.length > 220 ? `${cleaned.substring(0, 220)}...` : cleaned;
+  }
 }

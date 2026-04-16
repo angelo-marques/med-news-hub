@@ -1,0 +1,62 @@
+name: Hourly Articles Ingestion
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # every hour (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hourly-articles-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  fetch-hourly:
+    name: Fetch New Articles (Hourly)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run hourly fetch
+        run: node scripts/fetch-articles.js
+        env:
+          GEMINI_API_KEY:      ${{ secrets.GEMINI_API_KEY }}
+          OPENROUTER_API_KEY:  ${{ secrets.OPENROUTER_API_KEY }}
+          SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
+          GROQ_API_KEY:        ${{ secrets.GROQ_API_KEY }}
+          TOGETHER_API_KEY:    ${{ secrets.TOGETHER_API_KEY }}
+          DEEPSEEK_API_KEY:    ${{ secrets.DEEPSEEK_API_KEY }}
+          MISTRAL_API_KEY:     ${{ secrets.MISTRAL_API_KEY }}
+          ANTHROPIC_API_KEY:   ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY:      ${{ secrets.OPENAI_API_KEY }}
+          FORCE_AI:            'false'
+          MAX_NEW_ARTICLES_PER_RUN: '40'
+          MAX_BACKFILL_PER_RUN: '40'
+          MAX_RETRY_PER_RUN: '40'
+          MAX_ARTICLES_TOTAL: '300'
+          RESULTS_PER_TERM: '4'
+          NODE_ENV:            production
+
+      - name: Commit articles update (if changed)
+        run: |
+          if git diff --quiet src/assets/data/articles.json; then
+            echo "No changes in articles.json"
+            exit 0
+          fi
+
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "github-actions[bot]"
+          git add src/assets/data/articles.json
+          git commit -m "chore: hourly update articles.json $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
