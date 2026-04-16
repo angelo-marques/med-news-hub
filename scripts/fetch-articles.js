@@ -210,6 +210,7 @@ function parsePubMedXML(xml, pmid) {
     readTime: Math.floor(Math.random() * 8) + 4,
     citationCount: undefined,
     aiProcessed: false,
+    aiProvider: undefined,
   };
 }
 
@@ -240,22 +241,42 @@ function extractTags(text) {
 // ─── AI Summary Generation ────────────────────────────────────────────────────
 
 function buildPrompt(article) {
-  return `Você é um jornalista científico especializado em pesquisa médica. Crie um resumo jornalístico em português brasileiro no seguinte formato:
+  return `Atue como redator científico profissional e editor de health-tech.
 
-TÍTULO: [Título impactante e acessível ao público geral]
+Produza um texto editorial de alto nível, com rigor técnico, clareza para público leigo qualificado e tom jornalístico confiável.
 
-LEAD: [1-2 frases com a descoberta principal e seu impacto na saúde humana]
+Formato obrigatório da resposta:
 
-CORPO: [3-4 parágrafos com: metodologia do estudo, principais descobertas com dados numéricos reais, citação fictícia plausível de pesquisador, contexto científico]
+VERSÃO PT-BR
+TÍTULO:
+LEAD:
+CONTEXTO CIENTÍFICO:
+RESULTADOS PRINCIPAIS:
+IMPACTO CLÍNICO:
+LIMITAÇÕES DO ESTUDO:
+PRÓXIMOS PASSOS:
 
-IMPLICAÇÕES: [O que isso significa para pacientes e médicos? Próximos passos]
+ENGLISH VERSION
+TITLE:
+LEAD:
+SCIENTIFIC CONTEXT:
+KEY RESULTS:
+CLINICAL IMPACT:
+STUDY LIMITATIONS:
+NEXT STEPS:
 
-FONTE: [${article.source} – DOI: ${article.doi || 'N/A'}]
+Regras editoriais:
+1) Não invente dados; use apenas informações plausíveis do paper.
+2) Evite exagero e linguagem promocional.
+3) Use linguagem objetiva e profissional.
+4) Se faltar algum dado, sinalize com “não informado no resumo original”.
 
-Baseado no paper: "${article.title}"
+Fonte:
+${article.source} – DOI: ${article.doi || 'N/A'}
+Paper: "${article.title}"
 Abstract: ${article.abstract || 'Pesquisa médica recente com descobertas significativas.'}
 
-Responda APENAS com o resumo jornalístico em português, sem comentários adicionais.`;
+Responda apenas com o conteúdo final, sem meta-comentários.`;
 }
 
 /** Google AI Studio – Gemini 2.0 Flash */
@@ -354,6 +375,7 @@ async function generateWithOpenAI(prompt, apiKey) {
 async function generateSummary(article) {
   const prompt = buildPrompt(article);
   const keys = CONFIG.apiKeys;
+  const providerFailures = [];
 
   // Cascata: Gemini → Groq → OpenRouter → SiliconFlow → OpenAI
   const providers = [
@@ -371,16 +393,22 @@ async function generateSummary(article) {
       const result = await provider.fn();
       if (result && result.length > 100) {
         console.log(`  ✓ Summary generated via ${provider.name}`);
-        return result;
+        return { summary: result, provider: provider.name, error: null };
       }
+      providerFailures.push(`${provider.name}: resposta curta/inválida`);
     } catch (err) {
       console.warn(`  ${provider.name} failed: ${err.message}`);
+      providerFailures.push(`${provider.name}: ${err.message}`);
     }
     await sleep(500);
   }
 
   console.warn('  All AI providers failed – saving without summary.');
-  return null;
+  return {
+    summary: null,
+    provider: null,
+    error: providerFailures.length > 0 ? providerFailures.join(' | ') : 'Nenhum provedor com chave configurada',
+  };
 }
 
 // ─── Retry queue ──────────────────────────────────────────────────────────────
@@ -438,7 +466,11 @@ function saveArticles(articles) {
       .map(a => a.id)
   );
 
-  const normalized = sorted.map(article => ({ ...article, isHighlight: highlightIds.has(article.id) }));
+  const normalized = sorted.map(article => ({
+    ...article,
+    isHighlight: highlightIds.has(article.id),
+    aiProvider: article.aiProcessed ? (article.aiProvider || 'Legacy/nao-rastreado') : article.aiProvider,
+  }));
   // Trim to max allowed
   const trimmed = normalized.slice(0, CONFIG.maxArticlesTotal);
   fs.writeFileSync(CONFIG.articlesPath, JSON.stringify(trimmed, null, 2));
@@ -468,14 +500,15 @@ async function main() {
       const article = existingArticles.find(a => a.id === articleId);
       if (article && !article.aiProcessed) {
         console.log(`Retrying AI for: ${article.title.substring(0, 60)}...`);
-        const summary = await generateSummary(article);
-        if (summary) {
-          article.journalisticSummary = summary;
+        const summaryResult = await generateSummary(article);
+        if (summaryResult.summary) {
+          article.journalisticSummary = summaryResult.summary;
           article.aiProcessed = true;
+          article.aiProvider = summaryResult.provider || undefined;
           article.aiProcessingError = undefined;
           retryQueue.splice(retryQueue.indexOf(articleId), 1);
         } else {
-          article.aiProcessingError = 'All AI providers failed';
+          article.aiProcessingError = summaryResult.error || 'All AI providers failed';
         }
         await sleep(1000);
       } else {
@@ -492,15 +525,16 @@ async function main() {
       console.log(`\nFORCE_AI enabled: reprocessing backlog (${backlog.length} articles)...`);
       for (const article of backlog) {
         console.log(`Backfill AI for: ${article.title.substring(0, 60)}...`);
-        const summary = await generateSummary(article);
-        if (summary) {
-          article.journalisticSummary = summary;
+        const summaryResult = await generateSummary(article);
+        if (summaryResult.summary) {
+          article.journalisticSummary = summaryResult.summary;
           article.aiProcessed = true;
+          article.aiProvider = summaryResult.provider || undefined;
           article.aiProcessingError = undefined;
           const idx = retryQueue.indexOf(article.id);
           if (idx >= 0) retryQueue.splice(idx, 1);
         } else {
-          article.aiProcessingError = 'All AI providers failed';
+          article.aiProcessingError = summaryResult.error || 'All AI providers failed';
           if (!retryQueue.includes(article.id)) retryQueue.push(article.id);
         }
         await sleep(900);
@@ -535,13 +569,14 @@ async function main() {
       console.log(`  New article: "${article.title.substring(0, 60)}..."`);
 
       // Try AI summary
-      const summary = await generateSummary(article);
-      if (summary) {
-        article.journalisticSummary = summary;
+      const summaryResult = await generateSummary(article);
+      if (summaryResult.summary) {
+        article.journalisticSummary = summaryResult.summary;
         article.aiProcessed = true;
+        article.aiProvider = summaryResult.provider || undefined;
         article.aiProcessingError = undefined;
       } else {
-        article.aiProcessingError = 'All AI providers failed';
+        article.aiProcessingError = summaryResult.error || 'All AI providers failed';
         retryQueue.push(article.id);
       }
 

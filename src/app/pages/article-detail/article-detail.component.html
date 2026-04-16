@@ -67,6 +67,10 @@
             {{a.citationCount}} citações
           </span>
         }
+        <span class="flex items-center gap-1">
+          <mat-icon style="font-size: 16px; width: 16px; height: 16px;">smart_toy</mat-icon>
+          IA do texto: {{a.aiProvider || 'Pipeline IA'}}
+        </span>
       </div>
     </header>
 
@@ -85,7 +89,7 @@
       <div class="flex items-center gap-2 mb-4 pb-4" style="border-bottom: 1px solid var(--border-color);">
         <mat-icon style="color: var(--btn-color);">auto_awesome</mat-icon>
         <h2 class="font-bold text-lg m-0" style="color: var(--text-primary);">Resumo Jornalístico</h2>
-        <span class="text-xs px-2 py-0.5 rounded-full ml-auto" style="background: var(--bg-highlight); color: #1B5E20;">Gerado por IA</span>
+        <span class="text-xs px-2 py-0.5 rounded-full ml-auto" style="background: var(--bg-highlight); color: #1B5E20;">Gerado por {{a.aiProvider || 'IA'}}</span>
       </div>
 
       @if (generatingSummary()) {
