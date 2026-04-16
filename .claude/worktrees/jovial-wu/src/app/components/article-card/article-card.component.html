@@ -1,0 +1,110 @@
+<article class="vex-card h-full flex flex-col overflow-hidden" [attr.aria-labelledby]="'article-title-' + article.id">
+  <!-- Image -->
+  <div class="relative overflow-hidden" style="height: 180px;">
+    @if (article.imageUrl && !article.imagePlaceholder) {
+      <img
+        [src]="article.imageUrl"
+        [alt]="article.titlePt"
+        class="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
+        loading="lazy"
+      >
+    } @else {
+      <div class="w-full h-full flex flex-col items-center justify-center gap-2" style="background: var(--bg-card);">
+        <mat-icon style="font-size: 48px; width: 48px; height: 48px; color: var(--link-color); opacity: 0.5;">biotech</mat-icon>
+        <span class="text-xs font-semibold" style="color: var(--text-secondary);">{{article.source}}</span>
+      </div>
+    }
+
+    <!-- Source badge -->
+    <span
+      class="absolute top-3 left-3 text-white text-xs font-bold px-2.5 py-1 rounded-full shadow-sm"
+      [style.background]="getSourceColor(article.source)"
+    >
+      {{article.source}}
+    </span>
+
+    @if (article.isHighlight) {
+      <span class="absolute top-3 right-3 text-white text-xs font-bold px-2.5 py-1 rounded-full" style="background: #FF6F00;">
+        &#9733; Destaque
+      </span>
+    }
+  </div>
+
+  <!-- Content -->
+  <div class="flex-1 flex flex-col p-4 gap-3">
+    <!-- Meta -->
+    <div class="flex items-center justify-between text-xs" style="color: var(--text-secondary);">
+      <span class="vex-tag">{{article.category}}</span>
+      <span class="flex items-center gap-1">
+        <mat-icon style="font-size: 12px; width: 12px; height: 12px;">calendar_today</mat-icon>
+        {{formatDate(article.publishedDate)}}
+      </span>
+    </div>
+
+    <!-- Title -->
+    <h3
+      [id]="'article-title-' + article.id"
+      class="font-bold text-base leading-snug line-clamp-3"
+      style="font-family: Georgia, serif; color: var(--text-primary);"
+    >
+      {{article.titlePt}}
+    </h3>
+
+    <!-- Summary snippet -->
+    @if (article.journalisticSummary) {
+      <p class="text-sm leading-relaxed line-clamp-3" style="color: var(--text-secondary);">
+        {{article.journalisticSummary.substring(0, 180)}}...
+      </p>
+    }
+
+    <p class="text-xs flex items-center gap-1" style="color: var(--text-secondary);">
+      <mat-icon style="font-size: 12px; width: 12px; height: 12px;">smart_toy</mat-icon>
+      Texto IA: <strong>{{article.aiProvider || 'Pipeline IA'}}</strong>
+    </p>
+
+    <!-- Tags -->
+    <div class="flex flex-wrap gap-1.5">
+      @for (tag of article.tags.slice(0, 3); track tag) {
+        <span class="text-xs px-2 py-0.5 rounded-full" style="background: var(--tag-bg); color: var(--tag-color);">{{tag}}</span>
+      }
+    </div>
+
+    <!-- Authors -->
+    <p class="text-xs" style="color: var(--text-secondary);">
+      <mat-icon style="font-size: 12px; width: 12px; height: 12px; vertical-align: middle;">person</mat-icon>
+      {{article.authors.slice(0, 2).map(a => a.name).join(', ')}}
+      @if (article.authors.length > 2) {
+        <em> et al.</em>
+      }
+    </p>
+
+    <!-- Footer actions -->
+    <div class="mt-auto pt-3 flex items-center justify-between" style="border-top: 1px solid var(--border-color);">
+      <div class="flex items-center gap-3 text-xs" style="color: var(--text-secondary);">
+        @if (article.readTime) {
+          <span class="flex items-center gap-1">
+            <mat-icon style="font-size: 14px; width: 14px; height: 14px;">schedule</mat-icon>
+            {{article.readTime}} min
+          </span>
+        }
+        @if (article.citationCount) {
+          <span class="flex items-center gap-1" [matTooltip]="'Citações'">
+            <mat-icon style="font-size: 14px; width: 14px; height: 14px;">format_quote</mat-icon>
+            {{article.citationCount}}
+          </span>
+        }
+      </div>
+
+      <a
+        [routerLink]="['/artigos', article.id]"
+        mat-raised-button
+        class="text-xs no-underline"
+        style="background: var(--btn-color); color: white;"
+        aria-label="Ler artigo completo"
+      >
+        Ler mais
+        <mat-icon iconPositionEnd style="font-size: 16px;">arrow_forward</mat-icon>
+      </a>
+    </div>
+  </div>
+</article>

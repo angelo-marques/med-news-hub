@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \"const a = require\\('./src/assets/data/articles.json'\\); console.log\\('Articles count:', a.length\\); console.log\\('Highlights:', a.filter\\(x=>x.isHighlight\\).length\\); console.log\\('With AI summary:', a.filter\\(x=>x.aiProcessed\\).length\\); console.log\\('Sources:', [...new Set\\(a.map\\(x=>x.source\\)\\)]\\)\")",
+      "Bash(node -e \"const a = require\\('./src/assets/data/articles.json'\\); console.log\\('Articles:', a.length\\); console.log\\('Highlights:', a.filter\\(x=>x.isHighlight\\).length\\); console.log\\('AI processed:', a.filter\\(x=>x.aiProcessed\\).length\\); console.log\\('Sources:', [...new Set\\(a.map\\(x=>x.source\\)\\)]\\)\")",
+      "Bash(echo \"exit:$?\")",
+      "Bash(git commit -m ':*)",
+      "Bash(git push:*)",
+      "Bash(gh pr create --title 'feat: Vexlyn News – Portal Angular 21 de Pesquisas Médicas' --body ':*)",
+      "Bash(where gh:*)",
+      "Bash(git add:*)",
+      "Bash(git -C /c/AppNewMedicina/med-news-hub/.claude/worktrees/jovial-wu status)",
+      "Bash(git -C /c/AppNewMedicina/med-news-hub/.claude/worktrees/jovial-wu add .github/workflows/deploy.yml .github/workflows/fetch-articles.yml)",
+      "Bash(git -C /c/AppNewMedicina/med-news-hub/.claude/worktrees/jovial-wu commit -m ':*)",
+      "Bash(git -C /c/AppNewMedicina/med-news-hub/.claude/worktrees/jovial-wu push)",
+      "WebFetch(domain:angelo-marques.github.io)",
+      "Bash(git -C /c/AppNewMedicina/med-news-hub/.claude/worktrees/jovial-wu add .github/workflows/deploy.yml)",
+      "Bash(git -C /c/AppNewMedicina/med-news-hub/.claude/worktrees/jovial-wu add .github/workflows/)",
+      "Bash(node scripts/fetch-articles.js)",
+      "Bash(git -C /c/AppNewMedicina/med-news-hub/.claude/worktrees/jovial-wu add src/assets/data/articles.json)",
+      "Bash(node -e ':*)",
+      "Bash(git -C /c/AppNewMedicina/med-news-hub/.claude/worktrees/jovial-wu add src/assets/data/articles.json scripts/fetch-articles.js)",
+      "Bash(git -C /c/AppNewMedicina/med-news-hub/.claude/worktrees/jovial-wu add package.json .github/workflows/vexlyn.yml)",
+      "Bash(git -C /c/AppNewMedicina/med-news-hub/.claude/worktrees/jovial-wu add src/app/pages/home/home.component.html src/app/components/sidebar/sidebar.component.ts)",
+      "Bash(git -C /c/AppNewMedicina/med-news-hub/.claude/worktrees/jovial-wu remote show origin)",
+      "Bash(git -C /c/AppNewMedicina/med-news-hub/.claude/worktrees/jovial-wu branch -r)",
+      "Bash(git -C /c/AppNewMedicina/med-news-hub/.claude/worktrees/jovial-wu push origin claude/jovial-wu:main)",
+      "Bash(git -C /c/AppNewMedicina/med-news-hub/.claude/worktrees/jovial-wu fetch origin main)",
+      "Bash(git -C /c/AppNewMedicina/med-news-hub/.claude/worktrees/jovial-wu log --oneline origin/main)",
+      "Bash(git -C /c/AppNewMedicina/med-news-hub/.claude/worktrees/jovial-wu fetch --all)",
+      "Bash(gh pr create --title 'chore: novo logo Vexlyn News' --body ':*)",
+      "Bash(winget list:*)",
+      "Bash('/c/Program Files/GitHub CLI/gh.exe' pr create --title 'chore: novo logo Vexlyn News' --body ':*)"
+    ]
+  }
+}
