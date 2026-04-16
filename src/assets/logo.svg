@@ -1,40 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" fill="none">
   <defs>
-    <linearGradient id="crossGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#1B4F8A"/>
-      <stop offset="100%" stop-color="#0D3468"/>
-    </linearGradient>
-    <linearGradient id="helixBlue" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#3B82C4"/>
-      <stop offset="100%" stop-color="#2563A8"/>
+    <linearGradient id="blueStroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0E5A91"/>
+      <stop offset="100%" stop-color="#1F4D8C"/>
     </linearGradient>
   </defs>
 
-  <!-- Medical cross background shape -->
-  <rect x="70" y="10" width="60" height="170" rx="12" fill="url(#crossGrad)"/>
-  <rect x="10" y="70" width="180" height="60" rx="12" fill="url(#crossGrad)"/>
+  <!-- Cross outline -->
+  <path
+    d="M460 36
+       C460 20 472 8 488 8
+       L592 8
+       C608 8 620 20 620 36
+       L620 120
+       C620 136 632 148 648 148
+       L732 148
+       C748 148 760 160 760 176
+       L760 280
+       C760 296 748 308 732 308
+       L648 308
+       C632 308 620 320 620 336
+       L620 420
+       C620 436 608 448 592 448
+       L488 448
+       C472 448 460 436 460 420
+       L460 336
+       C460 320 448 308 432 308
+       L348 308
+       C332 308 320 296 320 280
+       L320 176
+       C320 160 332 148 348 148
+       L432 148
+       C448 148 460 136 460 120
+       Z"
+    transform="translate(-120,-18) scale(1,0.95)"
+    stroke="url(#blueStroke)"
+    stroke-width="18"
+    stroke-linejoin="round"
+  />
 
-  <!-- DNA helix left strand (blue) -->
-  <path d="M52 30 C46 50, 54 70, 48 90 C42 110, 50 130, 44 150 C38 165, 46 175, 52 178"
-        stroke="#3B82C4" stroke-width="3.5" fill="none" stroke-linecap="round"/>
-  <!-- DNA helix right strand (green) -->
-  <path d="M148 30 C154 50, 146 70, 152 90 C158 110, 150 130, 156 150 C162 165, 154 175, 148 178"
-        stroke="#5BAD6F" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <!-- DNA top -->
+  <path d="M600 36 C585 78 640 102 640 150 C640 196 590 220 575 260" stroke="#0E5A91" stroke-width="14" stroke-linecap="round"/>
+  <path d="M680 36 C695 78 640 102 640 150 C640 196 690 220 705 260" stroke="#62C281" stroke-width="14" stroke-linecap="round"/>
+  <line x1="612" y1="72" x2="668" y2="72" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
+  <line x1="610" y1="108" x2="670" y2="108" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
+  <line x1="612" y1="144" x2="668" y2="144" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
+  <line x1="610" y1="180" x2="670" y2="180" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
+  <line x1="612" y1="216" x2="668" y2="216" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
 
-  <!-- Horizontal rungs of DNA -->
-  <line x1="52" y1="48"  x2="148" y2="48"  stroke="#7CB8E8" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
-  <line x1="49" y1="72"  x2="151" y2="72"  stroke="#7CB8E8" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
-  <line x1="48" y1="96"  x2="152" y2="96"  stroke="#7CB8E8" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
-  <line x1="49" y1="120" x2="151" y2="120" stroke="#7CB8E8" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
-  <line x1="52" y1="144" x2="148" y2="144" stroke="#7CB8E8" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
-  <line x1="52" y1="168" x2="148" y2="168" stroke="#7CB8E8" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <!-- DNA bottom -->
+  <path d="M600 386 C585 344 640 320 640 272 C640 226 590 202 575 162" stroke="#62C281" stroke-width="14" stroke-linecap="round"/>
+  <path d="M680 386 C695 344 640 320 640 272 C640 226 690 202 705 162" stroke="#0E5A91" stroke-width="14" stroke-linecap="round"/>
+  <line x1="612" y1="350" x2="668" y2="350" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
+  <line x1="610" y1="314" x2="670" y2="314" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
+  <line x1="612" y1="278" x2="668" y2="278" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
+  <line x1="610" y1="242" x2="670" y2="242" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
+  <line x1="612" y1="206" x2="668" y2="206" stroke="#0E5A91" stroke-width="8" stroke-linecap="round"/>
 
-  <!-- White cross highlight overlay -->
-  <rect x="88" y="28" width="24" height="134" rx="6" fill="white" opacity="0.12"/>
-  <rect x="28" y="88" width="144" height="24" rx="6" fill="white" opacity="0.12"/>
-
-  <!-- "Vexlyn News" text -->
-  <text x="100" y="208" font-family="Georgia, 'Times New Roman', serif"
-        font-size="20" font-weight="700" fill="#1B4F8A"
-        text-anchor="middle" letter-spacing="1">Vexlyn News</text>
+  <!-- Brand -->
+  <text x="640" y="238" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="700" fill="#05090C">
+    Vexlyn News
+  </text>
 </svg>

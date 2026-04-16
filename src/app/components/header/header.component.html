@@ -3,14 +3,15 @@
     <div class="flex items-center justify-between h-16">
 
       <!-- Logo -->
-      <a routerLink="/home" class="flex items-center gap-3 no-underline" aria-label="Vexlyn News - Página inicial">
-        <div class="w-10 h-10 rounded-full flex items-center justify-center text-white font-bold text-lg" style="background: var(--hero-gradient);">
-          <mat-icon style="font-size: 20px; width: 20px; height: 20px;">biotech</mat-icon>
-        </div>
-        <div class="hidden sm:block">
-          <span class="font-bold text-xl" style="color: var(--link-color); font-family: Georgia, serif;">Vexlyn</span>
-          <span class="font-bold text-xl" style="color: var(--text-primary); font-family: Georgia, serif;"> News</span>
-          <div class="text-xs" style="color: var(--text-secondary); letter-spacing: 1px; text-transform: uppercase;">Portal de Pesquisas Médicas</div>
+      <a routerLink="/home" class="flex items-center gap-3 no-underline min-w-0" aria-label="Vexlyn News - Página inicial">
+        <img
+          src="assets/logo.svg"
+          alt="Vexlyn News"
+          class="h-10 sm:h-12 w-auto object-contain"
+          loading="eager"
+        >
+        <div class="hidden md:block text-xs uppercase tracking-wide truncate" style="color: var(--text-secondary);">
+          Portal de Pesquisas Médicas
         </div>
       </a>
 
