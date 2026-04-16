@@ -1,0 +1,158 @@
+<aside class="space-y-6" role="complementary" aria-label="Barra lateral – Filtros e fontes">
+
+  <!-- Search -->
+  <div class="rounded-xl p-4" style="background: var(--bg-secondary); border: 1px solid var(--border-color);">
+    <h3 class="font-bold text-sm mb-3 flex items-center gap-2" style="color: var(--text-primary);">
+      <mat-icon style="font-size: 18px; color: var(--link-color);">search</mat-icon>
+      Busca Inteligente
+    </h3>
+    <div class="relative">
+      <input
+        type="search"
+        placeholder="Buscar artigos..."
+        class="w-full px-3 py-2 rounded-lg text-sm outline-none"
+        style="background: var(--bg-primary); border: 1.5px solid var(--border-color); color: var(--text-primary);"
+        [value]="searchInput()"
+        (input)="onSearch($any($event.target).value)"
+        aria-label="Campo de busca de artigos"
+      >
+    </div>
+    @if (articleService.searchQuery() || articleService.selectedCategory() || articleService.selectedSource()) {
+      <button
+        class="mt-2 text-xs flex items-center gap-1 cursor-pointer"
+        style="color: var(--link-color); background: none; border: none; padding: 0;"
+        (click)="clearFilters()"
+      >
+        <mat-icon style="font-size: 14px; width: 14px; height: 14px;">clear</mat-icon>
+        Limpar filtros
+      </button>
+    }
+  </div>
+
+  <!-- Categories -->
+  <div class="rounded-xl p-4" style="background: var(--bg-secondary); border: 1px solid var(--border-color);">
+    <h3 class="font-bold text-sm mb-3 flex items-center gap-2" style="color: var(--text-primary);">
+      <mat-icon style="font-size: 18px; color: var(--link-color);">category</mat-icon>
+      Especialidades
+    </h3>
+    <div class="flex flex-wrap gap-2">
+      @for (cat of categories; track cat) {
+        <button
+          (click)="selectCategory(articleService.selectedCategory() === cat ? null : cat)"
+          class="text-xs px-2.5 py-1 rounded-full cursor-pointer transition-all font-medium border-none"
+          [style.background]="articleService.selectedCategory() === cat ? 'var(--link-color)' : 'var(--tag-bg)'"
+          [style.color]="articleService.selectedCategory() === cat ? 'white' : 'var(--tag-color)'"
+          [attr.aria-pressed]="articleService.selectedCategory() === cat"
+        >{{cat}}</button>
+      }
+    </div>
+  </div>
+
+  <!-- Sources -->
+  <div class="rounded-xl p-4" style="background: var(--bg-secondary); border: 1px solid var(--border-color);">
+    <h3 class="font-bold text-sm mb-3 flex items-center gap-2" style="color: var(--text-primary);">
+      <mat-icon style="font-size: 18px; color: var(--link-color);">source</mat-icon>
+      Fontes Científicas
+    </h3>
+    <div class="space-y-2">
+      @for (source of sources; track source.id) {
+        <div
+          class="flex items-center justify-between p-2 rounded-lg transition-all cursor-pointer"
+          [style.background]="articleService.selectedSource() === source.id ? source.color + '20' : 'transparent'"
+          (click)="selectSource(articleService.selectedSource() === source.id ? null : source.id)"
+          [attr.aria-pressed]="articleService.selectedSource() === source.id"
+          role="button"
+          [attr.aria-label]="'Filtrar por ' + source.name"
+          style="hover:opacity-80"
+        >
+          <div class="flex items-center gap-2">
+            <div class="w-2.5 h-2.5 rounded-full flex-shrink-0" [style.background]="source.color"></div>
+            <span class="text-sm font-medium" style="color: var(--text-primary);">{{source.name}}</span>
+          </div>
+          <a
+            [href]="source.url"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="no-underline"
+            style="opacity: 0.6;"
+            (click)="$event.stopPropagation()"
+            [attr.aria-label]="'Visitar ' + source.name"
+          >
+            <mat-icon style="font-size: 14px; width: 14px; height: 14px; color: var(--link-color);">open_in_new</mat-icon>
+          </a>
+        </div>
+      }
+    </div>
+  </div>
+
+  <!-- Stats -->
+  <div class="rounded-xl p-4" style="background: var(--bg-highlight); border: 1px solid var(--border-color);">
+    <h3 class="font-bold text-sm mb-3 flex items-center gap-2" style="color: #1B5E20;">
+      <mat-icon style="font-size: 18px; color: #388E3C;">analytics</mat-icon>
+      Estatísticas
+    </h3>
+    <div class="space-y-2 text-sm" style="color: #2E7D32;">
+      <div class="flex justify-between">
+        <span>Total com IA:</span>
+        <strong>{{articleService.articles().length}}</strong>
+      </div>
+      <div class="flex justify-between">
+        <span>Exibindo:</span>
+        <strong>{{articleService.filteredArticles().length}}</strong>
+      </div>
+      <div class="flex justify-between">
+        <span>Resumos IA:</span>
+        <strong>{{aiProcessedCount()}}</strong>
+      </div>
+    </div>
+  </div>
+
+  <!-- AI Observability -->
+  <div class="rounded-xl p-4" style="background: var(--bg-secondary); border: 1px solid var(--border-color);">
+    <h3 class="font-bold text-sm mb-3 flex items-center gap-2" style="color: var(--text-primary);">
+      <mat-icon style="font-size: 18px; color: var(--link-color);">monitoring</mat-icon>
+      Observabilidade IA
+    </h3>
+
+    <div class="space-y-2 text-xs mb-3" style="color: var(--text-secondary);">
+      <div class="flex justify-between">
+        <span>Status:</span>
+        <strong style="color: var(--text-primary);">{{observabilityHealth()}}</strong>
+      </div>
+      <div class="flex justify-between">
+        <span>Requisições:</span>
+        <strong style="color: var(--text-primary);">{{observability().totalSummaryRequests}}</strong>
+      </div>
+      <div class="flex justify-between">
+        <span>Falhas:</span>
+        <strong style="color: #B71C1C;">{{observability().failedSummaries}}</strong>
+      </div>
+      <div class="flex justify-between">
+        <span>Última execução:</span>
+        <strong style="color: var(--text-primary);">{{formatObsDate(observability().lastRunFinishedAt)}}</strong>
+      </div>
+    </div>
+
+    @if (providerRows().length > 0) {
+      <div class="space-y-2">
+        @for (provider of providerRows(); track provider.name) {
+          <div class="rounded-lg p-2" style="background: var(--bg-primary); border: 1px solid var(--border-color);">
+            <div class="flex justify-between items-center text-xs">
+              <strong style="color: var(--text-primary);">{{provider.name}}</strong>
+              <span style="color: #B71C1C;">{{provider.failures}} falhas</span>
+            </div>
+            <p class="mt-1 text-xs" style="color: var(--text-secondary);">
+              Tentativas: {{provider.attempts}} · Sucessos: {{provider.successes}}
+            </p>
+            @if (provider.lastError) {
+              <p class="mt-1 text-xs" style="color: #A0522D;">Último erro: {{provider.lastError}}</p>
+            }
+          </div>
+        }
+      </div>
+    } @else {
+      <p class="text-xs" style="color: var(--text-secondary);">Observabilidade disponível após a próxima execução do pipeline.</p>
+    }
+  </div>
+
+</aside>

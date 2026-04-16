@@ -1,0 +1,191 @@
+<div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8 animate-fade-in">
+  @if (articleMissing()) {
+    <div class="text-center py-24">
+      <mat-icon style="font-size: 48px; width: 48px; height: 48px; color: var(--text-secondary);">article</mat-icon>
+      <p class="mt-4" style="color: var(--text-secondary);">Este artigo não está disponível. Apenas conteúdos processados por IA são exibidos.</p>
+      <a routerLink="/artigos" mat-raised-button class="mt-4 no-underline" style="background: var(--btn-color); color: white;">
+        Voltar para artigos
+      </a>
+    </div>
+  } @else if (!article()) {
+    <div class="text-center py-24">
+      <mat-spinner diameter="48" class="mx-auto"></mat-spinner>
+      <p class="mt-4" style="color: var(--text-secondary);">Carregando artigo...</p>
+    </div>
+  } @else {
+    @let a = article()!;
+
+    <!-- Breadcrumb -->
+    <nav class="flex items-center gap-2 text-sm mb-6 flex-wrap" aria-label="Breadcrumb" style="color: var(--text-secondary);">
+      <a routerLink="/home" style="color: var(--link-color);">Home</a>
+      <mat-icon style="font-size: 16px; width: 16px; height: 16px;">chevron_right</mat-icon>
+      <a routerLink="/artigos" style="color: var(--link-color);">Artigos</a>
+      <mat-icon style="font-size: 16px; width: 16px; height: 16px;">chevron_right</mat-icon>
+      <span class="truncate max-w-xs">{{a.titlePt | slice:0:50}}...</span>
+    </nav>
+
+    <!-- Header -->
+    <header class="mb-8">
+      <div class="flex flex-wrap gap-2 mb-4">
+        <span
+          class="vex-tag font-bold"
+          [style.background]="getSourceColor(a.source)"
+          style="color: white;"
+        >{{a.source}}</span>
+        <span class="vex-tag">{{a.category}}</span>
+        @for (tag of a.tags; track tag) {
+          <span class="vex-tag">{{tag}}</span>
+        }
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl font-bold leading-tight mb-4" style="font-family: Georgia, serif; color: var(--text-primary);">
+        {{a.titlePt}}
+      </h1>
+
+      @if (a.title !== a.titlePt) {
+        <p class="text-base italic mb-4" style="color: var(--text-secondary);">
+          <em>Título original: {{a.title}}</em>
+        </p>
+      }
+
+      <div class="flex flex-wrap gap-4 text-sm" style="color: var(--text-secondary);">
+        <span class="flex items-center gap-1">
+          <mat-icon style="font-size: 16px; width: 16px; height: 16px;">person</mat-icon>
+          {{a.authors.map(au => au.name).join(', ')}}
+        </span>
+        <span class="flex items-center gap-1">
+          <mat-icon style="font-size: 16px; width: 16px; height: 16px;">calendar_today</mat-icon>
+          {{formatDate(a.publishedDate)}}
+        </span>
+        @if (a.readTime) {
+          <span class="flex items-center gap-1">
+            <mat-icon style="font-size: 16px; width: 16px; height: 16px;">schedule</mat-icon>
+            {{a.readTime}} min de leitura
+          </span>
+        }
+        @if (a.journal) {
+          <span class="flex items-center gap-1">
+            <mat-icon style="font-size: 16px; width: 16px; height: 16px;">menu_book</mat-icon>
+            {{a.journal}}
+          </span>
+        }
+        @if (a.citationCount) {
+          <span class="flex items-center gap-1">
+            <mat-icon style="font-size: 16px; width: 16px; height: 16px;">format_quote</mat-icon>
+            {{a.citationCount}} citações
+          </span>
+        }
+        <span class="flex items-center gap-1">
+          <mat-icon style="font-size: 16px; width: 16px; height: 16px;">smart_toy</mat-icon>
+          IA do texto: {{a.aiProvider || 'Pipeline IA'}}
+        </span>
+      </div>
+    </header>
+
+    <!-- Hero image -->
+    @if (a.imageUrl) {
+      <figure class="mb-8 rounded-2xl overflow-hidden shadow-lg">
+        <img [src]="a.imageUrl" [alt]="a.titlePt" class="w-full object-cover" style="max-height: 400px;" loading="eager">
+        <figcaption class="text-xs text-center p-2" style="color: var(--text-secondary); background: var(--bg-secondary);">
+          Imagem gerada por IA – {{a.source}}: {{a.category}}
+        </figcaption>
+      </figure>
+    }
+
+    <!-- AI Summary -->
+    <div class="prose-vexlyn mb-8 rounded-2xl p-6 sm:p-8" style="background: var(--bg-secondary); border: 1px solid var(--border-color);">
+      <div class="flex items-center gap-2 mb-4 pb-4" style="border-bottom: 1px solid var(--border-color);">
+        <mat-icon style="color: var(--btn-color);">auto_awesome</mat-icon>
+        <h2 class="font-bold text-lg m-0" style="color: var(--text-primary);">Resumo Jornalístico</h2>
+        <span class="text-xs px-2 py-0.5 rounded-full ml-auto" style="background: var(--bg-highlight); color: #1B5E20;">Gerado por {{a.aiProvider || 'IA'}}</span>
+      </div>
+
+      @if (a.journalisticSummary) {
+        <div class="space-y-4">
+          @for (paragraph of formatSummary(a.journalisticSummary); track $index) {
+            <p class="leading-relaxed" style="color: var(--text-primary); font-size: 1rem; line-height: 1.75;">{{paragraph}}</p>
+          }
+        </div>
+      } @else {
+        <div class="text-center py-8">
+          <mat-icon style="font-size: 48px; width: 48px; height: 48px; color: var(--text-secondary);">pending</mat-icon>
+          <p class="mt-2" style="color: var(--text-secondary);">Resumo em processamento. Configure as chaves de API para ativação.</p>
+        </div>
+      }
+    </div>
+
+    <!-- Original Abstract -->
+    @if (a.abstract) {
+      <div class="mb-8 rounded-xl p-6" style="background: var(--tag-bg); border-left: 4px solid var(--link-color);">
+        <h3 class="font-bold mb-3 flex items-center gap-2" style="color: var(--text-primary);">
+          <mat-icon style="color: var(--link-color);">description</mat-icon>
+          Abstract Original (Inglês)
+        </h3>
+        <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">{{a.abstract}}</p>
+      </div>
+    }
+
+    <!-- Authors details -->
+    @if (a.authors.some(au => au.affiliation)) {
+      <div class="mb-8 rounded-xl p-6" style="background: var(--bg-secondary); border: 1px solid var(--border-color);">
+        <h3 class="font-bold mb-4 flex items-center gap-2" style="color: var(--text-primary);">
+          <mat-icon style="color: var(--link-color);">group</mat-icon>
+          Autores
+        </h3>
+        <div class="space-y-2">
+          @for (author of a.authors; track author.name) {
+            <div class="flex flex-col sm:flex-row sm:items-center gap-1">
+              <span class="font-medium text-sm" style="color: var(--text-primary);">{{author.name}}</span>
+              @if (author.affiliation) {
+                <span class="text-xs" style="color: var(--text-secondary);">– {{author.affiliation}}</span>
+              }
+            </div>
+          }
+        </div>
+      </div>
+    }
+
+    <!-- Citation & Links -->
+    <div class="rounded-xl p-6" style="background: var(--bg-secondary); border: 1px solid var(--border-color);">
+      <h3 class="font-bold mb-4" style="color: var(--text-primary);">Citação e Links</h3>
+      <div class="space-y-3">
+        @if (a.doi) {
+          <div class="flex items-center gap-2 text-sm flex-wrap">
+            <span class="font-semibold" style="color: var(--text-secondary);">DOI:</span>
+            <code class="px-2 py-0.5 rounded text-xs" style="background: var(--bg-primary); color: var(--text-primary);">{{a.doi}}</code>
+          </div>
+        }
+        @if (a.pmid) {
+          <div class="flex items-center gap-2 text-sm flex-wrap">
+            <span class="font-semibold" style="color: var(--text-secondary);">PMID:</span>
+            <code class="px-2 py-0.5 rounded text-xs" style="background: var(--bg-primary); color: var(--text-primary);">{{a.pmid}}</code>
+          </div>
+        }
+        @if (a.journal) {
+          <div class="flex items-center gap-2 text-sm flex-wrap">
+            <span class="font-semibold" style="color: var(--text-secondary);">Revista:</span>
+            <span style="color: var(--text-primary);">{{a.journal}}</span>
+          </div>
+        }
+        <div class="flex flex-wrap gap-3 mt-4">
+          <a
+            [href]="a.sourceUrl"
+            target="_blank"
+            rel="noopener noreferrer"
+            mat-raised-button
+            [style.background]="getSourceColor(a.source)"
+            style="color: white;"
+            class="no-underline"
+          >
+            <mat-icon>open_in_new</mat-icon>
+            Ver artigo em {{a.source}}
+          </a>
+          <a routerLink="/artigos" mat-stroked-button class="no-underline">
+            <mat-icon>arrow_back</mat-icon>
+            Voltar aos artigos
+          </a>
+        </div>
+      </div>
+    </div>
+  }
+</div>
