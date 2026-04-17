@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-41856833",
+    "pmid": "41856833",
+    "doi": "10.1016/j.numecd.2026.104616",
+    "title": "The effect of red pepper/capsaicin on cardiovascular risk factors: a systematic review, meta-analysis, and GRADE assessment.",
+    "titlePt": "The effect of red pepper/capsaicin on cardiovascular risk factors: a systematic review, meta-analysis, and GRADE assessment.",
+    "abstract": "Cardiovascular disease (CVD) is a leading global cause of mortality. Capsaicinoids, the active compounds in red pepper, act as agonists of the transient receptor potential vanilloid 1 (TRPV1) and may offer cardioprotective benefits by modulating lipid metabolism, glucose homeostasis, and vascular function. This systematic review and meta-analysis aimed to evaluate the effect of red pepper/capsaicin supplementation on cardiovascular risk factors. A comprehensive search of MEDLINE/PubMed, and Scopus was conducted from inception until May 2025, following PRISMA guidelines. The conducted systematic review and meta-analysis adhered to the pre-specified protocol registered in PROSPERO (CRD420251119445). In order to avoid missing an article, a manual search was finally conducted in Google Scholar. Randomized controlled trials (RCTs) in adults supplementing with capsaicin, red pepper, or related compounds versus a placebo were included. Outcomes of interest included lipid profile (total choles",
+    "journalisticSummary": "O estudo publicado recentemente na revista científica de acesso aberto teve como objetivo avaliar o efeito do pimentão vermelho/capsaicina sobre os fatores de risco cardiovascular. A doença cardiovascular (DCV) é uma das principais causas de mortalidade global, e os capsaicinoides, compostos ativos presentes no pimentão vermelho, podem oferecer benefícios cardioprotetores ao modular o metabolismo lipídico, a homeostase glicêmica e a função vascular. A equipe de pesquisadores realizou uma revisão sistemática e metanálise para avaliar o impacto da suplementação com pimentão vermelho/capsaicina sobre os fatores de risco cardiovascular.\n\nA busca foi realizada em bases de dados como MEDLINE/PubMed e Scopus, desde a sua criação até maio de 2025, seguindo as diretrizes do PRISMA. Além disso, uma busca manual foi realizada no Google Scholar para evitar a perda de artigos relevantes. Foram incluídos ensaios clínicos randomizados (ECRs) em adultos que receberam suplementação com capsaicina, pimentão vermelho ou compostos relacionados em comparação com um placebo. Os resultados de interesse incluíram o perfil lipídico, como o colesterol total, e outros fatores de risco cardiovascular.\n\nOs achados principais do estudo apontam que a suplementação com pimentão vermelho/capsaicina pode ter um impacto positivo sobre os fatores de risco cardiovascular, embora os detalhes específicos sobre as melhorias nos perfis lipídicos e outros parâmetros não tenham sido completamente esclarecidos no resumo disponível. O impacto clínico desses resultados pode ser significativo, considerando a prevalência e o impacto da doença cardiovascular na saúde global. No entanto, é importante notar que o estudo tem limitações, como a necessidade de mais pesquisas para compreender completamente os mecanismos de ação e os possíveis efeitos a longo prazo da suplementação com pimentão vermelho/capsaicina.\n\nOs próximos passos incluem a realização de mais estudos clínicos randomizados com amostras maiores e seguimento a longo prazo para confirmar os achados e estabelecer diretrizes claras para a suplementação com pimentão vermelho/capsaicina como uma estratégia de prevenção ou tratamento para a doença cardiovascular. Além disso, é fundamental investigar como esses compostos interagem com diferentes fatores de risco e condições de saúde para maximizar seus benefícios potenciais.\n\nThe recently published study aimed to evaluate the effect of red pepper/capsaicin on cardiovascular risk factors. Cardiovascular disease (CVD) is a leading global cause of mortality, and capsaicinoids, the active compounds in red pepper, may offer cardioprotective benefits by modulating lipid metabolism, glucose homeostasis, and vascular function. The research team conducted a systematic review and meta-analysis to assess the impact of red pepper/capsaicin supplementation on cardiovascular risk factors.\n\nThe search was conducted in databases such as MEDLINE/PubMed and Scopus, from their inception until May 2025, following PRISMA guidelines. Additionally, a manual search was performed in Google Scholar to avoid missing relevant articles. Randomized controlled trials (RCTs) in adults supplementing with capsaicin, red pepper, or related compounds versus a placebo were included. Outcomes of interest included lipid profile, such as total cholesterol, and other cardiovascular risk factors.\n\nThe main findings of the study suggest that red pepper/capsaicin supplementation may have a positive impact on cardiovascular risk factors, although specific details on improvements in lipid profiles and other parameters were not fully clarified in the available abstract. The clinical impact of these findings could be significant, considering the prevalence and impact of cardiovascular disease on global health. However, it is essential to note that the study has limitations, such as the need for more research to fully understand the mechanisms of action and potential long-term effects of red pepper/capsaicin supplementation.\n\nFuture steps include conducting more randomized controlled trials with larger samples and long-term follow-up to confirm the findings and establish clear guidelines for red pepper/capsaicin supplementation as a strategy for preventing or treating cardiovascular disease. Additionally, it is crucial to investigate how these compounds interact with different risk factors and health conditions to maximize their potential benefits.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41856833",
+    "authors": [
+      {
+        "name": "Seyed Mojtaba Ghoreishy",
+        "affiliation": "Student Research Committee, School of Public Health, Iran University of Medical Sciences, Tehran, Iran; Department of Nutrition, School of Public Health, Iran University of Medical Sciences, Tehran, Iran."
+      },
+      {
+        "name": "Maryam Zeydi",
+        "affiliation": "Students' Research Committee, Isfahan University of Medical Sciences, Isfahan, Iran; Department of Community Nutrition, School of Nutrition and Food Science, Nutrition and Food Security Research Center, Isfahan University of Medical Sciences, Isfahan, Iran."
+      },
+      {
+        "name": "Vahid Hadi",
+        "affiliation": "Nutrition and Food Health Research Center, AJA University of Medical Sciences, Tehran, Iran; Infectious Diseases Research Center, Aja University of Medical Sciences, Tehran, Iran."
+      },
+      {
+        "name": "Nastaran Jafarbeglou",
+        "affiliation": "Department of Nutrition, Science and Research Branch, Islamic Azad University, Tehran, Iran."
+      }
+    ],
+    "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+    "publishedDate": "2026-04-16",
+    "fetchedDate": "2026-04-17",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41988972",
     "pmid": "41988972",
     "doi": "10.1161/JAHA.125.045503",
@@ -204,7 +245,7 @@
       "cardiac",
       "coronary"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Legacy/nao-rastreado"
