@@ -1,5 +1,90 @@
 [
   {
+    "id": "pubmed-41994578",
+    "pmid": "41994578",
+    "doi": "10.3389/fnins.2026.1813133",
+    "title": "Therapeutic potential of neuroprotective plant extracts in Parkinson's disease.",
+    "titlePt": "Therapeutic potential of neuroprotective plant extracts in Parkinson's disease.",
+    "abstract": "This review aims to summarize the application and mechanisms of plant extracts with neuroprotective effects in Parkinson's disease (PD), emphasizing their therapeutic potential in PD management. Parkinson's disease is a widespread neurodegenerative disorder, predominantly affecting middle-aged and elderly populations. Characterized by varied etiologies, clinical presentations, and complex pathogenesis, its hallmark symptoms include tremor and bradykinesia. Despite the availability of limited pharmacological treatments, current approaches primarily focus on symptom management rather than modifying disease progression. Recent research have increasingly investigates the use of neuroprotective plant extracts, which have shown demonstrating promising therapeutic effects, garnering significant attention in the field. A systematic review was conducted on preclinical and clinical studies published from 2000 to 2025, sourced from PubMed, ScienceDirect, Google Scholar, and China National Knowled",
+    "journalisticSummary": "A doença de Parkinson (DP) é um distúrbio neurodegenerativo amplamente disseminado que afeta principalmente populações de meia-idade e idosos. Caracterizada por etiologias variadas, apresentações clínicas e patogênese complexa, seus sintomas mais marcantes incluem tremores e bradicinesia. Apesar da disponibilidade de tratamentos farmacológicos limitados, as abordagens atuais se concentram principalmente no gerenciamento de sintomas, em vez de modificar a progressão da doença. Recentemente, a pesquisa tem investigado cada vez mais o uso de extratos de plantas com efeitos neuroprotetores, que demonstraram efeitos terapêuticos promissores, atraindo considerável atenção no campo. Um estudo sistemático foi realizado sobre estudos pré-clínicos e clínicos publicados de 2000 a 2025, extraídos do PubMed, ScienceDirect, Google Scholar e China National Knowledge. Os resultados sugereem que esses extratos possuem potencial terapêutico significativo no tratamento da DP, embora mais pesquisas sejam necessárias para explorar sua eficácia e segurança a longo prazo. Além disso, não foram fornecidos detalhes sobre as limitações específicas do estudo e os próximos passos para a implementação desses extratos em práticas clínicas.\n\nA doença de Parkinson continua sendo um desafio para a medicina moderna, e a busca por novas abordagens terapêuticas é crucial. Com a crescente evidência sobre os benefícios dos extratos de plantas com efeitos neuroprotetores, é fundamental que mais estudos sejam realizados para validar sua eficácia e garantir sua segurança para uso clínico. Isso pode levar a novas opções terapêuticas para os pacientes com doença de Parkinson, melhorando significativamente sua qualidade de vida.\n\nThe Parkinson's disease (PD) is a widespread neurodegenerative disorder that predominantly affects middle-aged and elderly populations. Characterized by varied etiologies, clinical presentations, and complex pathogenesis, its hallmark symptoms include tremor and bradykinesia. Despite the availability of limited pharmacological treatments, current approaches primarily focus on symptom management rather than modifying disease progression. Recently, research has increasingly investigated the use of neuroprotective plant extracts, which have demonstrated promising therapeutic effects, garnering significant attention in the field. A systematic review was conducted on preclinical and clinical studies published from 2000 to 2025, sourced from PubMed, ScienceDirect, Google Scholar, and China National Knowledge. The results suggest that these extracts possess significant therapeutic potential in the treatment of PD, although more research is needed to explore their long-term efficacy and safety. Additionally, specific details about the study's limitations and next steps for implementing these extracts in clinical practices were not provided.\n\nParkinson's disease remains a challenge for modern medicine, and the search for new therapeutic approaches is crucial. With the growing evidence of the benefits of neuroprotective plant extracts, it is essential that more studies are conducted to validate their efficacy and ensure their safety for clinical use. This may lead to new therapeutic options for patients with Parkinson's disease, significantly improving their quality of life.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41994578",
+    "authors": [
+      {
+        "name": "Shifang Luo",
+        "affiliation": "Yunnan Key Laboratory of Dai and Yi Medicines, Yunnan University of Chinese Medicine, Kunming, Yunnan, China."
+      },
+      {
+        "name": "Linao Zhang",
+        "affiliation": "College of Chinese Medicine, Yunnan University of Chinese Medicine, Kunming, Yunnan, China."
+      },
+      {
+        "name": "Xue Wu",
+        "affiliation": "College of Chinese Medicine, Yunnan University of Chinese Medicine, Kunming, Yunnan, China."
+      },
+      {
+        "name": "Jiying Wang",
+        "affiliation": "Yunnan Key Laboratory of Dai and Yi Medicines, Yunnan University of Chinese Medicine, Kunming, Yunnan, China."
+      }
+    ],
+    "journal": "Frontiers in neuroscience",
+    "publishedDate": "2026-04-17",
+    "fetchedDate": "2026-04-17",
+    "category": "Neurologia",
+    "tags": [
+      "parkinson",
+      "gene",
+      "therapeutic"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-41249547",
+    "pmid": "41249547",
+    "doi": "10.1007/s00330-025-12122-x",
+    "title": "Comparing performance of seven fine-tuned open-source large language models in summarizing and predicting outcome-relevant information from mechanical thrombectomy reports in patients with acute ischemic stroke.",
+    "titlePt": "Comparing performance of seven fine-tuned open-source large language models in summarizing and predicting outcome-relevant information from mechanical thrombectomy reports in patients with acute ischemic stroke.",
+    "abstract": "This study evaluates seven open-source Large Language Models (LLMs) in summarizing radiology reports of acute ischemic stroke patients treated with mechanical thrombectomy and predicting angiography-based outcome measures relevant to post-thrombectomy reperfusion. 2000 mechanical thrombectomy reports (findings and summarizing impression section as gold standard) were split into training set (N&#x2009;=&#x2009;1900) for model fine-tuning and test set (N&#x2009;=&#x2009;100). A two-step evaluation was performed: (1) Quantitative analyses of seven LLMs with metrics ROUGE-1, -2, -L, METEOR, BERTScore (F1) and BLEU comparing LLM-generated summaries against gold-standard impressions. (2) Qualitative manual evaluation of the four best-performing models by two radiologists, assessing correctness and completeness across key parameters: outcome-relevant scores, vessel information, occlusion side, number of passes, relevant additional information, hallucinations, and grammar quality. Statistical ",
+    "journalisticSummary": "Um estudo recente publicado no PubMed avaliou o desempenho de sete modelos de linguagem grandes (LLMs) de código aberto para resumir e prever informações relevantes sobre o resultado de procedimentos de trombectomia mecânica em pacientes com acidente vascular cerebral isquêmico agudo. Os pesquisadores utilizaram 2000 relatórios de trombectomia mecânica, divididos em um conjunto de treinamento com 1900 relatórios e um conjunto de teste com 100 relatórios. Os modelos foram avaliados quantitativamente por meio de métricas como ROUGE-1, -2, -L, METEOR, BERTScore (F1) e BLEU, comparando os resumos gerados pelos LLMs com as impressões padrão-ouro. Em seguida, os quatro modelos com melhor desempenho foram avaliados qualitativamente por dois radiologistas, que avaliaram a correção e a completude dos resumos em parâmetros-chave, como escores relevantes para o resultado, informações sobre vasos, lado de oclusão, número de passes, informações adicionais relevantes, alucinações e qualidade gramatical.\n\nOs resultados do estudo não foram especificados no resumo original, portanto, não é possível fornecer informações detalhadas sobre o desempenho dos modelos ou as implicações clínicas. No entanto, é importante notar que a capacidade de resumir e prever informações relevantes sobre o resultado de procedimentos médicos pode ter um impacto significativo na tomada de decisões clínicas e na melhoria dos resultados dos pacientes. Além disso, a avaliação de modelos de linguagem grandes de código aberto pode contribuir para a desenvolvimento de soluções mais acessíveis e eficazes para a análise de relatórios médicos.\n\nOs próximos passos para este estudo poderiam incluir a expansão do conjunto de dados para incluir mais relatórios de trombectomia mecânica, a avaliação de outros modelos de linguagem grandes e a integração dos resultados com sistemas de registro eletrônico de saúde para melhorar a tomada de decisões clínicas.\n\nUm estudo recente publicado no PubMed também não forneceu informações sobre as limitações do estudo, portanto, é importante considerar que a generalização dos resultados pode ser limitada pela qualidade e pela representatividade do conjunto de dados utilizado.\n\nA pesquisa em modelos de linguagem grandes para a análise de relatórios médicos é um campo em constante evolução, e estudos como este contribuem para o desenvolvimento de soluções mais eficazes e acessíveis para a melhoria dos resultados dos pacientes.\n\n---\n\nA recent study published on PubMed evaluated the performance of seven open-source large language models (LLMs) in summarizing and predicting outcome-relevant information from mechanical thrombectomy reports in patients with acute ischemic stroke. The researchers used 2000 mechanical thrombectomy reports, split into a training set with 1900 reports and a test set with 100 reports. The models were evaluated quantitatively using metrics such as ROUGE-1, -2, -L, METEOR, BERTScore (F1), and BLEU, comparing the LLM-generated summaries against the gold-standard impressions. Then, the four best-performing models were evaluated qualitatively by two radiologists, who assessed the correctness and completeness of the summaries across key parameters, such as outcome-relevant scores, vessel information, occlusion side, number of passes, relevant additional information, hallucinations, and grammar quality.\n\nThe study's results were not specified in the original abstract, therefore, it is not possible to provide detailed information about the models' performance or the clinical implications. However, it is essential to note that the ability to summarize and predict relevant information about the outcome of medical procedures can have a significant impact on clinical decision-making and patient outcomes. Additionally, evaluating open-source large language models can contribute to the development of more accessible and effective solutions for analyzing medical reports.\n\nThe next steps for this study could include expanding the dataset to include more mechanical thrombectomy reports, evaluating other large language models, and integrating the results with electronic health record systems to improve clinical decision-making.\n\nThe study also did not provide information about its limitations, therefore, it is crucial to consider that the generalization of the results may be limited by the quality and representativeness of the dataset used.\n\nResearch on large language models for analyzing medical reports is a rapidly evolving field, and studies like this contribute to the development of more effective and accessible solutions for improving patient outcomes.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41249547",
+    "authors": [
+      {
+        "name": "Semil Eminovic",
+        "affiliation": "Department of Radiology, Charit&#xe9; - Universit&#xe4;tsmedizin Berlin, Humboldt-Universit&#xe4;t zu Berlin, Freie Universit&#xe4;t Berlin, Berlin Institute of Health, Berlin, Germany. semil.eminovic@charite.de."
+      },
+      {
+        "name": "Maximilian Lindholz",
+        "affiliation": "Department of Radiology, Charit&#xe9; - Universit&#xe4;tsmedizin Berlin, Humboldt-Universit&#xe4;t zu Berlin, Freie Universit&#xe4;t Berlin, Berlin Institute of Health, Berlin, Germany."
+      },
+      {
+        "name": "Andrea Dell'Orco",
+        "affiliation": "Berlin Institute of Health at Charit&#xe9; - Universit&#xe4;tsmedizin Berlin, Berlin, Germany."
+      },
+      {
+        "name": "Aymen Meddeb",
+        "affiliation": "Department of Neuroradiology, Charit&#xe9; - Universit&#xe4;tsmedizin Berlin, Humboldt-Universit&#xe4;t zu Berlin, Freie Universit&#xe4;t Berlin, Berlin Institute of Health, Berlin, Germany."
+      }
+    ],
+    "journal": "European radiology",
+    "publishedDate": "2026-04-17",
+    "fetchedDate": "2026-04-17",
+    "category": "Neurologia",
+    "tags": [
+      "stroke",
+      "gene"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41856833",
     "pmid": "41856833",
     "doi": "10.1016/j.numecd.2026.104616",
@@ -161,7 +246,7 @@
       "heart",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Legacy/nao-rastreado"
@@ -203,7 +288,7 @@
       "cardiac",
       "heart"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Legacy/nao-rastreado"
