@@ -2371,6 +2371,47 @@
     "aiProcessed": false
   },
   {
+    "id": "pubmed-40769959",
+    "pmid": "40769959",
+    "doi": "10.1177/08919887251366637",
+    "title": "The Effects of Deep TMS on QEEG Measures in Co-Occurring Major Depressive Disorder and Early-Stage Alzheimer's Disease: A Pilot Study.",
+    "titlePt": "The Effects of Deep TMS on QEEG Measures in Co-Occurring Major Depressive Disorder and Early-Stage Alzheimer's Disease: A Pilot Study.",
+    "abstract": "Major Depressive Disorder (MDD) and Alzheimer's disease (AD) represent two of the most prevalent diseases worldwide. Notably, it is estimated that 30%-50% of individuals with AD have co-occurring MDD and there are overlapping symptoms across numerous domains. In this pilot study, a Deep TMS protocol (targeting the left frontal and bilateral temporal regions) was delivered for 36 sessions to patients with co-occurring MDD and early-stage AD (N = 12). All participants received the treatment and there was no control condition. The treatment yielded a response rate of 83.33% (defined by a &#x2265;50% reduction in depressive symptoms on the Patient Health Questionnaire-9 [PHQ-9]) and a remission rate of 50.00% (PHQ-9 score of 4 or less following treatment). Further, participants displayed reductions in left prefrontal and right temporal delta power using QEEG analysis pre- and -post treatment. Alpha coherence was also enhanced in key areas. The observed shift in neurophysiological measures ",
+    "journalisticSummary": "Um estudo recente publicado no PubMed investigou os efeitos da Terapia de Estimulação Magnética Transcraniana Profunda (Deep TMS) em pacientes com Transtorno Depressivo Maior (TDM) e Doen��a de Alzheimer em estágio inicial. Essas duas condições representam algumas das doenças mais prevalentes worldwide, com uma estimativa de que 30%-50% dos indivíduos com Doença de Alzheimer também apresentem TDM, compartilhando sintomas em várias áreas. O estudo, que contou com a participação de 12 pacientes, utilizou um protocolo de Deep TMS direcionado às regiões frontal esquerda e temporal bilateral durante 36 sessões. Todos os participantes receberam o tratamento, e não houve um grupo de controle. Os resultados mostraram uma taxa de resposta de 83,33% (definida como uma redução de pelo menos 50% nos sintomas depressivos medidos pelo Questionário de Saúde do Paciente-9 [PHQ-9]) e uma taxa de remissão de 50,00% (escore PHQ-9 de 4 ou menos após o tratamento). Além disso, os participantes apresentaram reduções no poder delta pré-frontal esquerdo e temporal direito, além de aumento na coerência alfa em áreas-chave, conforme análise por eletroencefalografia quantitativa (QEEG) antes e após o tratamento. Embora os achados sejam promissores, é importante notar que o estudo teve um tamanho de amostra pequeno e não incluiu um grupo de controle, o que limita a generalização dos resultados. Futuros estudos devem investigar mais a fundo os efeitos da Deep TMS nessa população e explorar seus possíveis benefícios clínicos.\n\nA recent study published in PubMed investigated the effects of Deep Transcranial Magnetic Stimulation (Deep TMS) on patients with co-occurring Major Depressive Disorder (MDD) and early-stage Alzheimer's disease. These two conditions represent some of the most prevalent diseases worldwide, with an estimated 30%-50% of individuals with Alzheimer's disease also having MDD, with overlapping symptoms across numerous domains. The study, which included 12 patients, used a Deep TMS protocol targeting the left frontal and bilateral temporal regions over 36 sessions. All participants received the treatment, and there was no control condition. The results showed a response rate of 83.33% (defined as a ≥50% reduction in depressive symptoms on the Patient Health Questionnaire-9 [PHQ-9]) and a remission rate of 50.00% (PHQ-9 score of 4 or less following treatment). Furthermore, participants displayed reductions in left prefrontal and right temporal delta power, as well as enhanced alpha coherence in key areas, according to quantitative electroencephalography (QEEG) analysis before and after treatment. While the findings are promising, it is essential to note that the study had a small sample size and lacked a control group, which limits the generalizability of the results. Future studies should further investigate the effects of Deep TMS in this population and explore its potential clinical benefits.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40769959",
+    "authors": [
+      {
+        "name": "Nathaniel A Shanok",
+        "affiliation": "Delray Center for Brain Science, Delray Beach, FL, USA."
+      },
+      {
+        "name": "Brittany Derbin",
+        "affiliation": "Department of Psychology, Florida Atlantic University, Boca Raton, FL, USA.1782"
+      },
+      {
+        "name": "Sabrina Muzac",
+        "affiliation": "Delray Center for Brain Science, Delray Beach, FL, USA."
+      },
+      {
+        "name": "Enis Cabeza",
+        "affiliation": "Delray Center for Brain Science, Delray Beach, FL, USA."
+      }
+    ],
+    "journal": "Journal of geriatric psychiatry and neurology",
+    "publishedDate": "2026-03-27",
+    "fetchedDate": "2026-04-18",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-40803669",
     "pmid": "40803669",
     "doi": "10.1177/08919887251366634",
