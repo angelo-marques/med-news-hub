@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-41987063",
+    "pmid": "41987063",
+    "doi": "10.1186/s12872-026-05777-x",
+    "title": "From heart to kidney: FGF23, SuPAR, and NAG as early biomarkers of cardiorenal syndrome in acute heart failure.",
+    "titlePt": "From heart to kidney: FGF23, SuPAR, and NAG as early biomarkers of cardiorenal syndrome in acute heart failure.",
+    "abstract": "Acute heart failure (AHF) often occurs concurrently with renal impairment, forming the clinical entity known as cardiorenal syndrome. Conventional biomarkers frequently do not identify early renal impairment in patients with AHF. The present study aimed to assess the clinical applicability of fibroblast growth factor-23 (FGF23), soluble urokinase plasminogen activator receptor (SuPAR), and N-acetyl-&#x3b2;-D-glucosaminidase (NAG) as potential biomarkers for the discrimination of kidney disease in the setting of AHF. This prospective observational pilot study&#x2002;was performed from 2024 to 2025 in the critical care units of Mansoura University. In total, 80 subjects were included and classified into four groups: healthy controls&#x2002;(n&#x2009;=&#x2009;20), renal disease group (n&#x2009;=&#x2009;20), AHF patients (n&#x2009;=&#x2009;20), and patients with combined AHF and renal dysfunction (n&#x2009;=&#x2009;20). Patients&#x2019; clinical, demographic, and&#x2002;laboratory data wer",
+    "journalisticSummary": "A insuficiência cardíaca aguda (ICA) frequentemente ocorre junto com a disfunção renal, formando a entidade clínica conhecida como síndrome cardiorenal. Biomarcadores convencionais muitas vezes não identificam a disfunção renal precoce em pacientes com ICA. Um estudo recente publicado no PubMed buscou avaliar a aplicabilidade clínica do fator de crescimento de fibroblastos-23 (FGF23), do receptor de plasminogênio ativador de uroquinase solúvel (SuPAR) e da N-acetil-β-D-glicosaminidase (NAG) como potenciais biomarcadores para a discriminação da doença renal no contexto da ICA. Este estudo prospectivo observacional foi realizado de 2024 a 2025 nas unidades de cuidados críticos da Universidade de Mansoura, incluindo 80 indivíduos classificados em quatro grupos: controles saudáveis, grupo de doença renal, pacientes com ICA e pacientes com ICA e disfunção renal combinadas. Os dados clínicos, demográficos e laboratoriais dos pacientes foram coletados e analisados. Embora os resultados específicos não tenham sido detalhados no resumo, o estudo visou explorar a utilidade desses biomarcadores na identificação precoce da doença renal em pacientes com ICA, o que pode ter implicações significativas no manejo clínico e no prognóstico desses pacientes. A identificação de biomarcadores precoces pode permitir intervenções mais direcionadas e melhorar os resultados dos pacientes. No entanto, não foram fornecidos detalhes sobre os achados principais, o impacto clínico ou as limitações do estudo, o que sugere a necessidade de uma análise mais aprofundada do artigo completo para uma compreensão mais completa dos resultados e implicações.\n\nA acute heart failure (AHF) often occurs concurrently with renal impairment, forming the clinical entity known as cardiorenal syndrome. Conventional biomarkers frequently do not identify early renal impairment in patients with AHF. A recent study published on PubMed sought to assess the clinical applicability of fibroblast growth factor-23 (FGF23), soluble urokinase plasminogen activator receptor (SuPAR), and N-acetyl-β-D-glucosaminidase (NAG) as potential biomarkers for the discrimination of kidney disease in the setting of AHF. This prospective observational pilot study was performed from 2024 to 2025 in the critical care units of Mansoura University, including 80 subjects classified into four groups: healthy controls, renal disease group, AHF patients, and patients with combined AHF and renal dysfunction. Although specific results were not detailed in the abstract, the study aimed to explore the utility of these biomarkers in early identification of kidney disease in patients with AHF, which may have significant implications in the clinical management and prognosis of these patients. The identification of early biomarkers may allow for more targeted interventions and improved patient outcomes. However, details on the main findings, clinical impact, or study limitations were not provided, suggesting the need for a more in-depth analysis of the full article for a comprehensive understanding of the results and implications.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41987063",
+    "authors": [
+      {
+        "name": "Islam M El-Desouki",
+        "affiliation": "Biochemistry Division, Chemistry Department, Faculty of Science, Mansoura university, Mansoura, 35516, Egypt."
+      },
+      {
+        "name": "Nevin A Salah",
+        "affiliation": "Biochemistry Division, Chemistry Department, Faculty of Science, Mansoura university, Mansoura, 35516, Egypt."
+      },
+      {
+        "name": "Hanaa M M Abdel Aziz",
+        "affiliation": "Cardiovascular Medicine Department, Faculty of Medicine, Mansoura University, Mansoura, 35516, Egypt."
+      },
+      {
+        "name": "Omali Y El-Khawaga",
+        "affiliation": "Biochemistry Division, Chemistry Department, Faculty of Science, Mansoura university, Mansoura, 35516, Egypt. elkhawaga70s@mans.edu.eg."
+      }
+    ],
+    "journal": "BMC cardiovascular disorders",
+    "publishedDate": "2026-04-17",
+    "fetchedDate": "2026-04-18",
+    "category": "Cardiologia",
+    "tags": [
+      "heart"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41994578",
     "pmid": "41994578",
     "doi": "10.3389/fnins.2026.1813133",
@@ -206,7 +247,7 @@
       "genetic",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
