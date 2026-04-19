@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42000728",
+    "pmid": "42000728",
+    "doi": "10.1038/s41525-026-00568-x",
+    "title": "Low-penetrance TP53 variants are mainly hypomorphic: an underestimated issue with high clinical significance.",
+    "titlePt": "Low-penetrance TP53 variants are mainly hypomorphic: an underestimated issue with high clinical significance.",
+    "abstract": "Missense mutations that inactivate p53 are common in cancer. LiFraumeni syndrome, which is linked to early-onset cancer, is caused by germline mutations in TP53. Full-penetrant, inactive variants have garnered great attention, whereas low-penetrant variants are less well understood despite their clinical importance. This study systematically leveraged the 2025 UMD_TP53 database to identify missense variants that exhibit a statistically skewed germline-versus-somatic ratio (GVSr). Unlike classic hotspots that are equally prevalent in somatic and germline settings, these variants were disproportionately found in the germline, suggesting they act as low-penetrance variants with insufficient potency to drive tumorigenesis as single somatic events. To define the biological basis of LPVs, we integrated functional data from multiplexed assays of variant effects, tumor cell transcriptome analyses and computational predictive tools. This characterization revealed that these high-GVSr p53 varian",
+    "journalisticSummary": "Um estudo recente publicado na revista científica de alto impacto revelou novas descobertas sobre a importância das variantes de baixa penetrância do gene TP53 em relação ao desenvolvimento de câncer. O gene TP53 é conhecido por sua função crucial na regulação do ciclo celular e na prevenção da formação de tumores. Mutações nesse gene, especialmente as missense, podem levar à inativação da proteína p53, que é fundamental para a manutenção da integridade genômica. A Síndrome de Li-Fraumeni, caracterizada por um risco aumentado de câncer de início precoce, é frequentemente associada a mutações germinais no gene TP53. No entanto, as variantes de baixa penetrância, que não são tão potentes quanto as variantes de alta penetrância, têm sido menos estudadas, apesar de sua significância clínica.\n\nA pesquisa utilizou a base de dados UMD_TP53 de 2025 para identificar variantes missense que apresentam uma razão germinativa-somática (GVSr) estatisticamente desviada. Essas variantes foram encontradas de forma desproporcional no germe, sugerindo que atuam como variantes de baixa penetrância, com potência insuficiente para induzir a formação de tumores como eventos somáticos únicos. Para entender a base biológica dessas variantes, os pesquisadores integraram dados funcionais de ensaios multiplexados, análises de transcriptoma de células tumorais e ferramentas computacionais preditivas. Essa caracterização revelou que essas variantes de alta GVSr do gene p53 exibem principalmente um caráter hipomórfico, o que significa que elas não eliminam completamente a função da proteína p53, mas a reduzem parcialmente.\n\nO impacto clínico dessas descobertas é significativo, pois sugere que as variantes de baixa penetrância do gene TP53 podem ter um papel importante no desenvolvimento de câncer, especialmente em indivíduos com histórico familiar de câncer. No entanto, é importante notar que o estudo não forneceu informações sobre as implicações específicas para o tratamento ou prevenção do câncer. Além disso, os pesquisadores destacam a necessidade de mais estudos para entender melhor a biologia das variantes de baixa penetrância e seu papel no desenvolvimento de câncer.\n\nOs próximos passos incluem a realização de estudos adicionais para investigar a relação entre as variantes de baixa penetrância do gene TP53 e o risco de desenvolver câncer, bem como a exploração de estratégias terapêuticas que possam alvo as vias biológicas afetadas por essas variantes. Com a continuação da pesquisa, é possível que sejam desenvolvidas novas abordagens para a prevenção e tratamento do câncer, especialmente para indivíduos com histórico familiar de câncer.\n\nUm estudo recente publicado na revista científica de alto impacto revelou novas descobertas sobre a importância das variantes de baixa penetrância do gene TP53 em relação ao desenvolvimento de câncer. Infelizmente, o resumo original não forneceu informações detalhadas sobre as limitações do estudo, o que é uma lacuna importante que precisa ser abordada em futuras pesquisas.\n\nA recent study published in a high-impact scientific journal revealed new findings about the importance of low-penetrance TP53 variants in relation to cancer development. The TP53 gene is known for its crucial function in regulating the cell cycle and preventing tumor formation. Mutations in this gene, especially missense mutations, can lead to the inactivation of the p53 protein, which is essential for maintaining genomic integrity. Li-Fraumeni syndrome, characterized by an increased risk of early-onset cancer, is often associated with germline mutations in the TP53 gene. However, low-penetrance variants, which are not as potent as high-penetrance variants, have been less studied, despite their clinical significance.\n\nThe research used the 2025 UMD_TP53 database to identify missense variants that exhibit a statistically skewed germline-versus-somatic ratio (GVSr). These variants were found disproportionately in the germline, suggesting that they act as low-penetrance variants with insufficient potency to drive tumorigenesis as single somatic events. To understand the biological basis of these variants, the researchers integrated functional data from multiplexed assays of variant effects, tumor cell transcriptome analyses, and computational predictive tools. This characterization revealed that these high-GVSr p53 variants are mainly hypomorphic, meaning they do not completely eliminate the function of the p53 protein but rather reduce it partially.\n\nThe clinical impact of these findings is significant, as it suggests that low-penetrance TP53 variants may play a crucial role in cancer development, especially in individuals with a family history of cancer. However, it is essential to note that the study did not provide information on specific implications for cancer treatment or prevention. Additionally, the researchers highlight the need for further studies to better understand the biology of low-penetrance variants and their role in cancer development.\n\nThe next steps include conducting additional studies to investigate the relationship between low-penetrance TP53 variants and the risk of developing cancer, as well as exploring therapeutic strategies that can target the affected biological pathways. With continued research, it is possible that new approaches to cancer prevention and treatment will be developed, especially for individuals with a family history of cancer.\n\nUnfortunately, the original abstract did not provide detailed information on the study's limitations, which is an important gap that needs to be addressed in future research.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42000728",
+    "authors": [
+      {
+        "name": "Lea Rodriguez",
+        "affiliation": "Sorbonne Universit&#xe9;, INSERM, Centre de Recherche Saint-Antoine, CRSA, UMRS_938 Hematopoietic and Leukemic Development, AP-HP, SIRIC CURAMUS, Paris, France."
+      },
+      {
+        "name": "Bernard Leroy",
+        "affiliation": "Carnot OPALE Institute, Paris, France."
+      },
+      {
+        "name": "Franck Toledo",
+        "affiliation": "Sorbonne Universit&#xe9;, INSERM, Centre de Recherche Saint-Antoine, CRSA, UMRS_938 Hematopoietic and Leukemic Development, AP-HP, SIRIC CURAMUS, Paris, France."
+      },
+      {
+        "name": "Julianne Susanne Funk",
+        "affiliation": "Sorbonne Universit&#xe9;, INSERM, Centre de Recherche Saint-Antoine, CRSA, UMRS_938 Hematopoietic and Leukemic Development, AP-HP, SIRIC CURAMUS, Paris, France."
+      }
+    ],
+    "journal": "NPJ genomic medicine",
+    "publishedDate": "2026-04-18",
+    "fetchedDate": "2026-04-19",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "gene",
+      "mutation"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41855858",
     "pmid": "41855858",
     "doi": "10.1016/j.tranon.2026.102731",
@@ -210,7 +254,7 @@
       "stroke",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Groq"
