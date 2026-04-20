@@ -1,5 +1,91 @@
 [
   {
+    "id": "pubmed-42004225",
+    "pmid": "42004225",
+    "doi": "10.1016/j.gendis.2025.101950",
+    "title": "Immune checkpoint B7x promotes immune evasion and resistance to PD-1/PD-L1 blockade in bladder cancer.",
+    "titlePt": "Immune checkpoint B7x promotes immune evasion and resistance to PD-1/PD-L1 blockade in bladder cancer.",
+    "abstract": "Cancer cells adopt multiple strategies to avoid detection and destruction by the immune system, including exploiting immune checkpoint pathways. B7x (B7-H4, B7S1, or VTCN1), a member of the B7/CD28 family, is frequently expressed in advanced bladder cancer, yet its role in bladder cancer progression and resistance to therapy remains poorly understood. Resistance to PD-1/PD-L1 immune checkpoint blockade immunotherapy significantly limits durable responses, with only 20%-25% of patients with muscle-invasive bladder cancer (MIBC) achieving long-term benefits. Here, we demonstrated that B7x mRNA and protein expression were associated with poor survival outcomes in MIBC patients and mouse models of bladder cancer, respectively. Stable expression of B7x in immune-competent bladder cancer mouse models resulted in enhanced tumor growth and splenomegaly, driven by the exclusion and suppression of tumor-infiltrating antitumor immune cells and the enrichment of pro-tumor and immunosuppressive cel",
+    "journalisticSummary": "Estudos recentes sobre o papel do checkpoint imunológico B7x no câncer de bexiga têm trazido novas perspectivas sobre como as células cancerígenas evadem o sistema imunológico. O câncer de bexiga, especialmente em estágios avançados, apresenta mecanismos complexos para evitar a detecção e destruição pelas células imunológicas, incluindo a exploração de vias de checkpoints imunológicos. A proteína B7x, membro da família B7/CD28, é frequentemente expressa em câncer de bexiga avançado, mas seu papel na progressão da doença e na resistência à terapia ainda não é bem compreendido. A resistência à imunoterapia que bloqueia os checkpoints PD-1/PD-L1 é um grande desafio, pois apenas 20% a 25% dos pacientes com câncer de bexiga invasivo muscular (MIBC) alcançam benefícios de longo prazo.\n\nPesquisas demonstraram que a expressão de mRNA e proteína B7x está associada a resultados de sobrevivência pobres em pacientes com MIBC e modelos murinos de câncer de bexiga, respectivamente. Além disso, a expressão estável de B7x em modelos de câncer de bexiga murinos imunocompetentes resultou em crescimento tumoral aumentado e esplenomegalia, impulsionados pela exclusão e supressão de células imunológicas antitumorais infiltrantes no tumor e pelo enriquecimento de células pró-tumor e imunossupressoras. Esses achados sugerem que B7x desempenha um papel crítico na evasão imunológica e resistência à terapia de bloqueio de PD-1/PD-L1 no câncer de bexiga.\n\nO impacto clínico desses achados é significativo, pois a compreensão dos mecanismos subjacentes à resistência à imunoterapia pode levar ao desenvolvimento de estratégias terapêuticas mais eficazes. No entanto, é importante notar que os estudos ainda enfrentam limitações, incluindo a necessidade de mais pesquisas para elucidar completamente os papéis de B7x e outras vias de checkpoints imunológicos no câncer de bexiga. Próximos passos incluem a investigação de como B7x interage com outras moléculas e vias imunológicas, bem como o desenvolvimento de terapias direcionadas que possam superar a resistência à imunoterapia atual.\n\nRecent studies on the role of the immune checkpoint B7x in bladder cancer have brought new insights into how cancer cells evade the immune system. Bladder cancer, especially in advanced stages, presents complex mechanisms to avoid detection and destruction by immune cells, including the exploitation of immune checkpoint pathways. The B7x protein, a member of the B7/CD28 family, is frequently expressed in advanced bladder cancer, but its role in disease progression and resistance to therapy remains poorly understood. Resistance to PD-1/PD-L1 immune checkpoint blockade immunotherapy is a significant challenge, as only 20-25% of patients with muscle-invasive bladder cancer (MIBC) achieve long-term benefits.\n\nResearch has demonstrated that B7x mRNA and protein expression are associated with poor survival outcomes in MIBC patients and mouse models of bladder cancer, respectively. Furthermore, stable expression of B7x in immune-competent bladder cancer mouse models resulted in enhanced tumor growth and splenomegaly, driven by the exclusion and suppression of tumor-infiltrating antitumor immune cells and the enrichment of pro-tumor and immunosuppressive cells. These findings suggest that B7x plays a critical role in immune evasion and resistance to PD-1/PD-L1 blockade therapy in bladder cancer.\n\nThe clinical impact of these findings is significant, as understanding the underlying mechanisms of resistance to immunotherapy can lead to the development of more effective therapeutic strategies. However, it is essential to note that studies still face limitations, including the need for further research to fully elucidate the roles of B7x and other immune checkpoint pathways in bladder cancer. Next steps include investigating how B7x interacts with other immunological molecules and pathways, as well as developing targeted therapies that can overcome resistance to current immunotherapy.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42004225",
+    "authors": [
+      {
+        "name": "Marc C Pulanco",
+        "affiliation": "Department of Microbiology and Immunology, Albert Einstein College of Medicine, New York 10461, USA."
+      },
+      {
+        "name": "Xiang Yu Zheng",
+        "affiliation": "Marilyn and Stanley M. Katz Institute for Immunotherapy for Cancer and Inflammatory Disorders, Albert Einstein College of Medicine, New York 10461, USA."
+      },
+      {
+        "name": "Alexander Sankin",
+        "affiliation": "Marilyn and Stanley M. Katz Institute for Immunotherapy for Cancer and Inflammatory Disorders, Albert Einstein College of Medicine, New York 10461, USA."
+      },
+      {
+        "name": "Deyou Zheng",
+        "affiliation": "Department of Genetics, Albert Einstein College of Medicine, New York 10461, USA."
+      }
+    ],
+    "journal": "Genes &amp; diseases",
+    "publishedDate": "2026-04-20",
+    "fetchedDate": "2026-04-20",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "immunotherapy",
+      "rna",
+      "immune"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-42002243",
+    "pmid": "42002243",
+    "doi": "10.1016/j.jstrokecerebrovasdis.2026.108637",
+    "title": "Global inequities and strategies for expanding access to reperfusion therapies in acute ischemic stroke: A focus on low- and middle-income countries.",
+    "titlePt": "Global inequities and strategies for expanding access to reperfusion therapies in acute ischemic stroke: A focus on low- and middle-income countries.",
+    "abstract": "Acute ischemic stroke is a leading cause of mortality and long-term disability worldwide, disproportionately affecting low- and middle-income countries (LMICs). While intravenous thrombolysis (IVT) and mechanical thrombectomy (MT) improve outcomes in high-income countries (HICs), access remains severely limited in resource-constrained regions. This review examines global disparities in reperfusion therapy and highlights strategies to expand access in LMICs. A narrative review was conducted of literature published between 1995 and 2025 across PubMed, Scopus, Web of Science, and Google Scholar. Search terms included acute ischemic stroke, IVT, MT, stroke systems of care, HICs, LMICs, telemedicine, hub-and-spoke models, and workforce capacity. Eligible sources comprised randomized trials, systematic reviews, multicenter cohort studies, registry analyses, and policy reports addressing access, infrastructure, referral networks, and implementation strategies. Evidence was synthesized narrati",
+    "journalisticSummary": "O acidente vascular cerebral isquêmico agudo é uma das principais causas de mortalidade e incapacidade a longo prazo em todo o mundo, afetando desproporcionalmente os países de baixa e média renda. Embora a trombólise intravenosa (IVT) e a trombectomia mecânica (MT) melhorem os resultados nos países de alta renda, o acesso a esses tratamentos permanece severamente limitado em regiões com recursos escassos. Um estudo recente publicado no PubMed examina as disparidades globais na terapia de reperfusão e destaca estratégias para expandir o acesso nos países de baixa e média renda.\n\nA revisão narrativa foi realizada com base em literatura publicada entre 1995 e 2025, abrangendo bases de dados como PubMed, Scopus, Web of Science e Google Scholar. Os termos de busca incluíram acidente vascular cerebral isquêmico agudo, IVT, MT, sistemas de cuidados de acidente vascular cerebral, países de alta renda, países de baixa e média renda, telemedicina, modelos de hub-and-spoke e capacidade de força de trabalho. As fontes elegíveis incluíram ensaios clínicos randomizados, revisões sistemáticas, estudos de coorte multicêntricos, análises de registros e relatórios de políticas que abordavam acesso, infraestrutura, redes de referência e estratégias de implementação.\n\nOs achados principais do estudo não foram informados no resumo original, mas é sabido que a expansão do acesso à terapia de reperfusão em países de baixa e média renda é crucial para reduzir a carga global do acidente vascular cerebral isquêmico agudo. O impacto clínico dessa expansão pode ser significativo, melhorando os resultados dos pacientes e reduzindo a mortalidade e a incapacidade. No entanto, as limitações do estudo, como a falta de dados específicos sobre os países de baixa e média renda, devem ser consideradas. Os próximos passos incluem a implementação de estratégias para expandir o acesso à terapia de reperfusão, como a telemedicina e os modelos de hub-and-spoke, e a realização de mais pesquisas sobre as necessidades específicas dos países de baixa e média renda.\n\nAcute ischemic stroke is a leading cause of mortality and long-term disability worldwide, disproportionately affecting low- and middle-income countries. While intravenous thrombolysis (IVT) and mechanical thrombectomy (MT) improve outcomes in high-income countries, access remains severely limited in resource-constrained regions. A recent study published on PubMed examines global disparities in reperfusion therapy and highlights strategies to expand access in low- and middle-income countries.\n\nThe narrative review was conducted based on literature published between 1995 and 2025, covering databases such as PubMed, Scopus, Web of Science, and Google Scholar. Search terms included acute ischemic stroke, IVT, MT, stroke systems of care, high-income countries, low- and middle-income countries, telemedicine, hub-and-spoke models, and workforce capacity. Eligible sources comprised randomized trials, systematic reviews, multicenter cohort studies, registry analyses, and policy reports addressing access, infrastructure, referral networks, and implementation strategies.\n\nThe main findings of the study were not reported in the original abstract, but it is known that expanding access to reperfusion therapy in low- and middle-income countries is crucial to reduce the global burden of acute ischemic stroke. The clinical impact of this expansion can be significant, improving patient outcomes and reducing mortality and disability. However, the limitations of the study, such as the lack of specific data on low- and middle-income countries, must be considered. The next steps include implementing strategies to expand access to reperfusion therapy, such as telemedicine and hub-and-spoke models, and conducting more research on the specific needs of low- and middle-income countries.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42002243",
+    "authors": [
+      {
+        "name": "Franck Katembo Sikakulya",
+        "affiliation": "Neurosurgery Division, Faculty of Medicine, Universit&#xe9; Catholique du Graben, Butembo, DR Congo; Department of Surgery, Division of Neurosurgery, Mbarara Regional Referral Hospital, Mbarara, Uganda. Electronic address: francksikakulya@gmail.com."
+      },
+      {
+        "name": "Larrey Kasereka Kamabu",
+        "affiliation": "Neurosurgery Division, Faculty of Medicine, Universit&#xe9; Catholique du Graben, Butembo, DR Congo; Neurological Surgery, New Deal Sarl Hospital, International Clinic for Advanced Medicine in Kivu (CIMAK), Goma, Democratic Republic of the Congo."
+      },
+      {
+        "name": "Baanitse Munihire Jeannot",
+        "affiliation": "Department of General Surgery, Faculty of Clinical Medicine and Dentistry, Kampala International University Western Campus, Uganda."
+      },
+      {
+        "name": "Amir Abdallah Mbonde",
+        "affiliation": "Department of Neurology, Medical College of Georgia, Augusta University, Augusta, Georgia, USA."
+      }
+    ],
+    "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+    "publishedDate": "2026-04-19",
+    "fetchedDate": "2026-04-20",
+    "category": "Neurologia",
+    "tags": [
+      "stroke"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42000728",
     "pmid": "42000728",
     "doi": "10.1038/s41525-026-00568-x",
@@ -169,7 +255,7 @@
     "tags": [
       "heart"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -212,7 +298,7 @@
       "gene",
       "therapeutic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Groq"
