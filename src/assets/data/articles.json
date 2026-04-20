@@ -45,6 +45,48 @@
     "aiProvider": "Groq"
   },
   {
+    "id": "pubmed-42002223",
+    "pmid": "42002223",
+    "doi": "10.1016/j.ihj.2026.04.006",
+    "title": "Frailty and Advanced Age in Atrial Fibrillation: Implications for Treatment Strategies and Clinical Outcomes - A Systematic Review.",
+    "titlePt": "Frailty and Advanced Age in Atrial Fibrillation: Implications for Treatment Strategies and Clinical Outcomes - A Systematic Review.",
+    "abstract": "Atrial fibrillation (AF) is common among frail older adults and poses complex management challenges due to reduced physiological reserve and heightened vulnerability to adverse outcomes. This systematic review (2015-2025) examined influence of frailty and advanced age on AF management and outcomes, focusing on anticoagulation, interventional therapies and quality of life. Eligible cohort studies, trials, meta-analyses assessed outcomes including mortality, stroke, major bleeding, functional decline, recurrence, healthcare costs and quality of life with frailty measured using validated tools like Clinical Frailty Scale. Frail patients had a two- to threefold higher mortality risk and 40-50% greater incidence of stroke and major bleeding than non-frail peers. Low-dose NOACs reduced stroke in frail octogenarians but bleeding risk persisted. Rate control therapy improved symptoms yet increased hypotension risk. Catheter ablation showed lower success and more complications. Severe frailty a",
+    "journalisticSummary": "A fibrilação atrial (FA) é uma condição comum entre idosos frágeis e representa um desafio complexo de gestão devido à reserva fisiológica reduzida e à vulnerabilidade aumentada a resultados adversos. Um estudo sistemático recente, publicado na literatura científica, examinou a influência da fragilidade e da idade avançada no manejo e nos resultados da FA, com foco em anticoagulação, terapias intervencionais e qualidade de vida. Os resultados mostraram que pacientes frágeis têm um risco de mortalidade duas a três vezes maior e uma incidência 40-50% maior de acidente vascular cerebral e sangramento grave em comparação com seus pares não frágeis. O uso de anticoagulantes orais de baixa dose reduziu o risco de acidente vascular cerebral em octogenários frágeis, mas o risco de sangramento persistiu. A terapia de controle de frequência melhorou os sintomas, mas aumentou o risco de hipotensão. A ablação por cateter mostrou menor sucesso e mais complicações. A fragilidade severa foi um fator importante na determinação dos resultados clínicos. Embora os resultados sejam preocupantes, eles destacam a necessidade de abordagens personalizadas e cuidadosas no manejo da FA em pacientes idosos frágeis. Não foram fornecidos detalhes sobre as próximas etapas ou recomendações específicas para a prática clínica, o que sugere a necessidade de mais pesquisas para melhorar a compreensão e o tratamento dessa população vulnerável.\n\nAtrial fibrillation (AF) is a common condition among frail older adults and poses complex management challenges due to reduced physiological reserve and heightened vulnerability to adverse outcomes. A recent systematic review, published in the scientific literature, examined the influence of frailty and advanced age on AF management and outcomes, focusing on anticoagulation, interventional therapies, and quality of life. The results showed that frail patients have a two- to threefold higher mortality risk and a 40-50% greater incidence of stroke and major bleeding compared to their non-frail peers. The use of low-dose novel oral anticoagulants (NOACs) reduced the risk of stroke in frail octogenarians, but the bleeding risk persisted. Rate control therapy improved symptoms but increased the risk of hypotension. Catheter ablation showed lower success and more complications. Severe frailty was a significant factor in determining clinical outcomes. Although the findings are concerning, they highlight the need for personalized and cautious approaches in the management of AF in frail older adults. No details were provided on next steps or specific recommendations for clinical practice, suggesting the need for further research to improve understanding and treatment of this vulnerable population.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42002223",
+    "authors": [
+      {
+        "name": "Akash Batta",
+        "affiliation": "Department of Cardiology, Dayanand Medical College and Hospital (DMCH), Ludhiana, 141001, INDIA. Electronic address: akashbatta02@gmail.com."
+      },
+      {
+        "name": "Razieh Parizad",
+        "affiliation": "Cardiovascular Research Center, Tabriz University of Medical Sciences, Tabriz, Iran."
+      },
+      {
+        "name": "Juniali Hatwal",
+        "affiliation": "Department of Internal Medicine, Batta Hospital, Ludhiana, Punjab, India. 141001."
+      },
+      {
+        "name": "Ankur Mittal",
+        "affiliation": "Department of Cardiology, Advanced Cardiac Center, Post Graduate Institute of, Medical Education &amp; Research (PGIMER), Chandigarh-160012, INDIA."
+      }
+    ],
+    "journal": "Indian heart journal",
+    "publishedDate": "2026-04-19",
+    "fetchedDate": "2026-04-20",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial",
+      "stroke"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42002243",
     "pmid": "42002243",
     "doi": "10.1016/j.jstrokecerebrovasdis.2026.108637",
@@ -214,7 +256,7 @@
       "dna",
       "drug"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
