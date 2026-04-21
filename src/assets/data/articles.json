@@ -1,5 +1,45 @@
 [
   {
+    "id": "pubmed-42010146",
+    "pmid": "42010146",
+    "doi": "10.1007/s12017-026-08925-w",
+    "title": "Naftidrofuryl Exerts Neuroprotective Effects in a Rotenone-Induced Rat Model of Parkinson's Disease Through Modulation of PINK1/Parkin and ER Stress Pathways.",
+    "titlePt": "Naftidrofuryl Exerts Neuroprotective Effects in a Rotenone-Induced Rat Model of Parkinson's Disease Through Modulation of PINK1/Parkin and ER Stress Pathways.",
+    "journalisticSummary": "Um estudo recente publicado no PubMed investigou os efeitos neuroprotetores do naftidrofuril em um modelo de rato induzido por rotenona para a doença de Parkinson. A doença de Parkinson é uma condição neurológica crônica que afeta milhões de pessoas em todo o mundo, caracterizada pela perda progressiva de neurônios dopaminérgicos na substância negra do cérebro. A pesquisa buscou entender como o naftidrofuril, um composto com propriedades vasoativas, poderia influenciar os mecanismos moleculares subjacentes à patogênese da doença.\n\nOs resultados do estudo mostraram que o naftidrofuril exerceu efeitos neuroprotetores significativos em um modelo de rato induzido por rotenona para a doença de Parkinson. A modulação das vias de estresse do retículo endoplasmático (ER) e a ativação das proteínas PINK1/Parkin foram identificadas como mecanismos-chave pelos quais o naftidrofuril exerceu seus efeitos benéficos. Essas descobertas são particularmente importantes, pois a doença de Parkinson é caracterizada por uma disfunção mitocondrial e um aumento do estresse oxidativo, que contribuem para a perda de neurônios dopaminérgicos.\n\nO impacto clínico dessas descobertas é considerável, pois sugere que o naftidrofuril pode ser um candidato promissor para o tratamento da doença de Parkinson. No entanto, é importante notar que os resultados do estudo foram obtidos em um modelo animal e que mais pesquisas são necessárias para confirmar a eficácia e a segurança do naftidrofuril em humanos. Além disso, não foi informado no resumo original quais seriam os próximos passos para levar essa pesquisa adiante, como a realização de ensaios clínicos em humanos.\n\nUm estudo recente publicado no PubMed investigou os efeitos neuroprotetores do naftidrofuril em um modelo de rato induzido por rotenona para a doença de Parkinson. A pesquisa buscou entender como o naftidrofuril poderia influenciar os mecanismos moleculares subjacentes à patogênese da doença. Os resultados do estudo mostraram que o naftidrofuril exerceu efeitos neuroprotetores significativos, modulando as vias de estresse do retículo endoplasmático e ativando as proteínas PINK1/Parkin. Embora os resultados sejam promissores, mais pesquisas são necessárias para confirmar a eficácia e a segurança do naftidrofuril em humanos.\n\nA recent study published in PubMed investigated the neuroprotective effects of naftidrofuryl in a rotenone-induced rat model of Parkinson's disease. Parkinson's disease is a chronic neurological condition that affects millions of people worldwide, characterized by the progressive loss of dopaminergic neurons in the substantia nigra of the brain. The research sought to understand how naftidrofuryl, a compound with vasoactive properties, could influence the underlying molecular mechanisms of the disease.\n\nThe study's findings showed that naftidrofuryl exerted significant neuroprotective effects in a rotenone-induced rat model of Parkinson's disease. The modulation of endoplasmic reticulum (ER) stress pathways and the activation of PINK1/Parkin proteins were identified as key mechanisms by which naftidrofuryl exerted its beneficial effects. These findings are particularly important, as Parkinson's disease is characterized by mitochondrial dysfunction and increased oxidative stress, which contribute to the loss of dopaminergic neurons.\n\nThe clinical impact of these findings is considerable, as it suggests that naftidrofuryl may be a promising candidate for the treatment of Parkinson's disease. However, it is essential to note that the study's results were obtained in an animal model, and further research is necessary to confirm the efficacy and safety of naftidrofuryl in humans. Additionally, the original summary did not provide information on the next steps for advancing this research, such as conducting human clinical trials.\n\nThe study's findings showed that naftidrofuryl exerted significant neuroprotective effects, modulating ER stress pathways and activating PINK1/Parkin proteins. Although the results are promising, further research is necessary to confirm the efficacy and safety of naftidrofuryl in humans. The study's results highlight the potential of naftidrofuryl as a therapeutic agent for Parkinson's disease, but more research is needed to fully understand its effects and potential applications.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42010146",
+    "authors": [
+      {
+        "name": "Saad Misfer Alqahtani",
+        "affiliation": "Department of Pathology, College of Medicine, The University Hospital, Najran University, Najran, Saudi Arabia."
+      },
+      {
+        "name": "Ehab A M El-Shoura",
+        "affiliation": "Department of Clinical Pharmacy, Faculty of Pharmacy, Assiut Branch, Al-Azhar University, Assiut, 71524, Egypt. ehabel-shoura@azhar.edu.eg."
+      },
+      {
+        "name": "Lobna A Abdelzaher",
+        "affiliation": "Department of Pharmacology, Faculty of Medicine, Assiut University, Assiut, Egypt."
+      },
+      {
+        "name": "Souty M Z Sharkawi",
+        "affiliation": "Pharmacology and Toxicology Department, Faculty of Pharmacy, Beni Suef University, Beni Suef, Egypt."
+      }
+    ],
+    "journal": "Neuromolecular medicine",
+    "publishedDate": "2026-04-20",
+    "fetchedDate": "2026-04-21",
+    "category": "Neurologia",
+    "tags": [
+      "parkinson"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42004225",
     "pmid": "42004225",
     "doi": "10.1016/j.gendis.2025.101950",
@@ -211,7 +251,7 @@
       "genetic",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
