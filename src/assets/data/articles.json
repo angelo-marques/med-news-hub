@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42014197",
+    "pmid": "42014197",
+    "doi": "10.1136/jnis-2026-024964",
+    "title": "Emergent carotid stenting during stroke endovascular treatment using the CARESTO heal stent: a multicenter experience.",
+    "titlePt": "Emergent carotid stenting during stroke endovascular treatment using the CARESTO heal stent: a multicenter experience.",
+    "abstract": "Acute ischemic stroke due to tandem or cervical internal carotid artery (ICA) lesions is increasingly encountered, and the optimal carotid stent platform for emergent intervention remains uncertain. The aim of this study was to evaluate the technical feasibility, safety, and early outcomes of the CARESTO heal stent (Acandis GmbH, Pforzheim, Germany), the first coated carotid stent, in patients with acute ischemic stroke and extracranial ICA lesions undergoing endovascular treatment. We retrospectively analyzed consecutive patients with acute ischemic stroke and tandem occlusion, dissection, or acute-on-chronic extracranial ICA stenosis who underwent mechanical thrombectomy with concomitant CARESTO implantation at four centers between June 2024 and June 2025. Clinical, imaging, and procedural data were collected, and outcomes were summarized descriptively. Ninety-two patients (mean age 63.2 years) were treated. CARESTO deployment in the cervical ICA was technically successful in all cas",
+    "journalisticSummary": "O tratamento endovascular de acidentes vasculares cerebrais isquêmicos agudos (AVC) devido a lesões em tandem ou na artéria carótida interna cervical (ICA) é cada vez mais comum, e a plataforma de stent carotídeo ideal para intervenção emergencial ainda é incerta. Um estudo recente publicado no Journal of NeuroInterventional Surgery avaliou a viabilidade técnica, segurança e resultados precoces do stent CARESTO heal, o primeiro stent carotídeo revestido, em pacientes com AVC isquêmico agudo e lesões na ICA extracraniana submetidos a tratamento endovascular. Os pesquisadores analisaram retrospectivamente 92 pacientes consecutivos com AVC isquêmico agudo e oclusão em tandem, dissecção ou estenose crônica aguda na ICA extracraniana que foram submetidos a trombectomia mecânica com implantação concomitante do stent CARESTO em quatro centros entre junho de 2024 e junho de 2025. A implantação do stent CARESTO na ICA cervical foi tecnicamente bem-sucedida em todos os casos, com resultados clínicos e de imagem coletados e resumidos descritivamente. Embora os achados sugiram que o stent CARESTO heal pode ser uma opção viável para o tratamento de lesões carotídeas em pacientes com AVC isquêmico agudo, as limitações do estudo, incluindo a natureza retrospectiva e a falta de um grupo de controle, devem ser consideradas. Próximos passos incluem estudos prospectivos randomizados para avaliar a eficácia e segurança a longo prazo do stent CARESTO heal nesse contexto.\n\nThe treatment of acute ischemic strokes due to tandem or cervical internal carotid artery (ICA) lesions is increasingly common, and the optimal carotid stent platform for emergency intervention remains uncertain. A recent study published in the Journal of NeuroInterventional Surgery evaluated the technical feasibility, safety, and early outcomes of the CARESTO heal stent, the first coated carotid stent, in patients with acute ischemic stroke and extracranial ICA lesions undergoing endovascular treatment. The researchers retrospectively analyzed 92 consecutive patients with acute ischemic stroke and tandem occlusion, dissection, or acute-on-chronic extracranial ICA stenosis who underwent mechanical thrombectomy with concomitant CARESTO implantation at four centers between June 2024 and June 2025. The deployment of the CARESTO stent in the cervical ICA was technically successful in all cases, with clinical, imaging, and procedural data collected and summarized descriptively. While the findings suggest that the CARESTO heal stent may be a viable option for the treatment of carotid lesions in patients with acute ischemic stroke, the study's limitations, including its retrospective nature and lack of a control group, should be considered. Next steps include prospective randomized trials to evaluate the long-term efficacy and safety of the CARESTO heal stent in this context.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42014197",
+    "authors": [
+      {
+        "name": "Gabriel Broocks",
+        "affiliation": "Department of Neuroradiology, University Campus Helios Kliniken Schwerin, MSH Medical School Hamburg University of Applied Sciences and Medical University, Hamburg, Germany gabriel.broocks@medicalschool-hamburg.de."
+      },
+      {
+        "name": "Mohammad Almohammad",
+        "affiliation": "Department of Neuroradiology, University of Marburg, Marburg, Germany."
+      },
+      {
+        "name": "Karsten Alfke",
+        "affiliation": "Department of Neuroradiology, University Campus Helios Kliniken Schwerin, MSH Medical School Hamburg University of Applied Sciences and Medical University, Hamburg, Germany."
+      },
+      {
+        "name": "Daniel Pielenz",
+        "affiliation": "Neuroradiology, HELIOS Hospital Erfurt, Erfurt, Germany."
+      }
+    ],
+    "journal": "Journal of neurointerventional surgery",
+    "publishedDate": "2026-04-21",
+    "fetchedDate": "2026-04-22",
+    "category": "Neurologia",
+    "tags": [
+      "stroke",
+      "rna"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41887340",
     "pmid": "41887340",
     "doi": "10.1016/j.ctim.2026.103365",
@@ -206,7 +248,7 @@
       "atrial",
       "stroke"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
