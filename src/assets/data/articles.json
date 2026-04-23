@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-41686423",
+    "pmid": "41686423",
+    "doi": "10.1007/s40256-026-00788-7",
+    "title": "Cimlanod, a Second-Generation Nitroxyl Donor, in Heart Failure with Reduced Ejection Fraction: A Meta-Analysis of Hemodynamic Efficacy and Safety Profile.",
+    "titlePt": "Cimlanod, a Second-Generation Nitroxyl Donor, in Heart Failure with Reduced Ejection Fraction: A Meta-Analysis of Hemodynamic Efficacy and Safety Profile.",
+    "abstract": "Heart failure (HF), a leading cause of morbidity and mortality worldwide, continues to pose a therapeutic challenge. Nitroxyl (HNO) donors, such as Cimlanod (BMS-986231 or CXL-1427), are emerging as promising agents owing to their unique vasodilatory, inotropic, and lusitropic properties. This meta-analysis assesses the safety, tolerability, and hemodynamic effects of Cimlanod, in patients with heart failure with reduced ejection fraction (HFrEF). This study consists of four studies, including 459 patients (278 receiving Cimlanod and 181 receiving placebo). The mean age was 63.9&#xa0;years, 85% were male, and common comorbidities included hypertension (77%) and diabetes (45.7%). Outcomes were evaluated using risk ratios (RR) for binary end points and mean differences (MD) for continuous variables, with 95% confidence intervals (CI) and I2 for heterogeneity. Study quality followed Cochrane methods. Primary outcomes included cardiovascular mortality, hemodynamic measures, and severe adve",
+    "journalisticSummary": "A insuficiência cardíaca (IC) continua a ser uma das principais causas de morbidade e mortalidade em todo o mundo, representando um desafio terapêutico significativo. Os doadores de nitroxila (HNO), como o Cimlanod (BMS-986231 ou CXL-1427), vêm se destacando como agentes promissores devido às suas propriedades vasodilatadoras, inotrópicas e lusitrópicas únicas. Uma meta-análise recente avaliou a segurança, tolerabilidade e efeitos hemodinâmicos do Cimlanod em pacientes com insuficiência cardíaca com fração de ejeção reduzida (ICFER). Essa análise foi baseada em quatro estudos, que incluíram 459 pacientes, sendo 278 tratados com Cimlanod e 181 com placebo. A idade média dos participantes foi de 63,9 anos, com predomínio do sexo masculino (85%) e comorbidades comuns, como hipertensão (77%) e diabetes (45,7%). As avaliações dos resultados utilizaram razões de risco (RR) para pontos finais binários e diferenças médias (MD) para variáveis contínuas, com intervalos de confiança (IC) de 95% e I2 para heterogeneidade, seguindo os métodos de qualidade de estudo da Cochrane. Os principais resultados incluíram mortalidade cardiovascular, medidas hemodinâmicas e eventos adversos graves. Os achados principais não foram especificados no resumo original, portanto, não é possível relatar detalhes sobre os resultados específicos. É importante notar que a meta-análise destaca a necessidade de mais pesquisas para entender completamente o papel do Cimlanod no tratamento da ICFER, considerando as limitações dos estudos incluídos e a heterogeneidade dos resultados. Os próximos passos incluiriam a realização de estudos clínicos mais amplos e bem desenhados para avaliar a eficácia e segurança a longo prazo do Cimlanod nesse contexto.\n\nHeart failure (HF) continues to be a leading cause of morbidity and mortality worldwide, posing a significant therapeutic challenge. Nitroxyl (HNO) donors, such as Cimlanod (BMS-986231 or CXL-1427), have emerged as promising agents due to their unique vasodilatory, inotropic, and lusitropic properties. A recent meta-analysis assessed the safety, tolerability, and hemodynamic effects of Cimlanod in patients with heart failure with reduced ejection fraction (HFrEF). This analysis was based on four studies, which included 459 patients, with 278 receiving Cimlanod and 181 receiving placebo. The mean age of the participants was 63.9 years, with a predominance of males (85%) and common comorbidities, such as hypertension (77%) and diabetes (45.7%). Outcome evaluations used risk ratios (RR) for binary end points and mean differences (MD) for continuous variables, with 95% confidence intervals (CI) and I2 for heterogeneity, following Cochrane study quality methods. Primary outcomes included cardiovascular mortality, hemodynamic measures, and severe adverse events. The main findings were not specified in the original abstract, so it is not possible to report specific results. It is essential to note that the meta-analysis highlights the need for further research to fully understand the role of Cimlanod in treating HFrEF, considering the limitations of the included studies and the heterogeneity of the results. The next steps would include conducting larger, well-designed clinical trials to evaluate the long-term efficacy and safety of Cimlanod in this context.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41686423",
+    "authors": [
+      {
+        "name": "Mrunalini Dandamudi",
+        "affiliation": "Montefiore Einstein Medical Center, 111 E 210th St, Bronx, NY, 10467, USA. mdandamudi@montefiore.org."
+      },
+      {
+        "name": "Vinh Q T Ho",
+        "affiliation": "Faculty of Medicine, University of Debrecen, Debrecen, Hungary."
+      },
+      {
+        "name": "Miguel A Samaniego-Laguna",
+        "affiliation": "Universidad Autonoma Metropolitana, Mexico City, Mexico."
+      },
+      {
+        "name": "Giang Son Arrighini",
+        "affiliation": "Faculty of Medicine and Surgery, University of Bologna, Bologna, Italy."
+      }
+    ],
+    "journal": "American journal of cardiovascular drugs : drugs, devices, and other interventions",
+    "publishedDate": "2026-04-22",
+    "fetchedDate": "2026-04-23",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "heart",
+      "hypertension",
+      "gene",
+      "therapeutic"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42015422",
     "pmid": "42015422",
     "doi": "10.1111/cts.70538",
@@ -201,7 +246,7 @@
       "gene",
       "children"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
