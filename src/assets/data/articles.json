@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-41332227",
+    "pmid": "41332227",
+    "doi": "10.1097/COC.0000000000001262",
+    "title": "Optimizing Natural Killer Cellular Therapy in Acute Myeloid Leukemia.",
+    "titlePt": "Optimizing Natural Killer Cellular Therapy in Acute Myeloid Leukemia.",
+    "abstract": "Acute myeloid leukemia (AML) continues to pose a major hurdle in hematologic oncology, driven by its genetic complexity and tendency to resist standard therapies. Even with progress in treatment-such as high-dose chemotherapy and hematopoietic stem cell transplantation (HSCT)-outcomes remain unsatisfactory for many patients. In recent years, immunotherapy has emerged as an appealing strategy to improve survival by strengthening the body's own anti-leukemia defenses. Natural killer (NK) cells, a critical component of innate immunity, have shown strong potential for directly eliminating AML cells without prior antigen exposure. This review outlines the role of NK cells in AML immune surveillance, mechanisms by which their function becomes impaired in the disease, and the current therapeutic approaches harnessing NK cells in AML management. We also discuss key obstacles and opportunities, including strategies to boost NK cell activity, counter immune escape, and improve treatment durabili",
+    "journalisticSummary": "A leucemia mieloide aguda (LMA) continua a ser um desafio significativo na oncologia hematológica, impulsionada por sua complexidade genética e tendência a resistir às terapias padrão. Mesmo com o progresso no tratamento, como a quimioterapia de alta dose e o transplante de células-tronco hematopoiéticas (TCTH), os resultados permanecem insatisfatórios para muitos pacientes. Nos últimos anos, a imunoterapia tem surgido como uma estratégia atraente para melhorar a sobrevivência, fortalecendo as defesas anti-leucêmicas do próprio corpo. As células matadoras naturais (NK), um componente crítico da imunidade inata, têm mostrado um forte potencial para eliminar diretamente as células de LMA sem exposição prévia ao antígeno. Esta revisão destaca o papel das células NK na vigilância imunológica da LMA, os mecanismos pelos quais sua função se torna prejudicada na doença e as abordagens terapêuticas atuais que utilizam células NK no manejo da LMA. Além disso, discutimos os principais obstáculos e oportunidades, incluindo estratégias para aumentar a atividade das células NK, contrariar a fuga imunológica e melhorar a durabilidade do tratamento. Embora os resultados sejam promissores, ainda há limitações e desafios a serem superados, como a necessidade de mais pesquisas sobre a otimização da terapia com células NK e a identificação de biomarcadores para prever a resposta ao tratamento. Portanto, é essencial continuar investigando e desenvolvendo estratégias inovadoras para melhorar a eficácia e a segurança da terapia com células NK na LMA.\n\nAcute myeloid leukemia (AML) continues to pose a major hurdle in hematologic oncology, driven by its genetic complexity and tendency to resist standard therapies. Even with progress in treatment, such as high-dose chemotherapy and hematopoietic stem cell transplantation (HSCT), outcomes remain unsatisfactory for many patients. In recent years, immunotherapy has emerged as an appealing strategy to improve survival by strengthening the body's own anti-leukemia defenses. Natural killer (NK) cells, a critical component of innate immunity, have shown strong potential for directly eliminating AML cells without prior antigen exposure. This review highlights the role of NK cells in AML immune surveillance, the mechanisms by which their function becomes impaired in the disease, and the current therapeutic approaches harnessing NK cells in AML management. Additionally, we discuss key obstacles and opportunities, including strategies to boost NK cell activity, counter immune escape, and improve treatment durability. Although the results are promising, there are still limitations and challenges to be overcome, such as the need for more research on optimizing NK cell therapy and identifying biomarkers to predict treatment response. Therefore, it is essential to continue investigating and developing innovative strategies to improve the efficacy and safety of NK cell therapy in AML.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41332227",
+    "authors": [
+      {
+        "name": "Binsah George",
+        "affiliation": "Department of Hematology-Oncology, University of Texas Health Science Center at Houston."
+      },
+      {
+        "name": "Manu Pandey",
+        "affiliation": "Department of Hematology-Oncology, University of Oklahoma Health Sciences."
+      },
+      {
+        "name": "Jacob Herstein",
+        "affiliation": "Department of Internal Medicine, University of Texas Health Science Center at Houston."
+      },
+      {
+        "name": "Abhishek Maiti",
+        "affiliation": "Department of Leukemia, University of Texas M.D. Anderson Cancer Center, Houston, TX."
+      }
+    ],
+    "journal": "American journal of clinical oncology",
+    "publishedDate": "2026-04-23",
+    "fetchedDate": "2026-04-23",
+    "category": "Oncologia",
+    "tags": [
+      "oncology",
+      "leukemia",
+      "chemotherapy",
+      "immunotherapy",
+      "genetic"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41549334",
     "pmid": "41549334",
     "doi": "10.1007/s40256-025-00784-3",
@@ -203,7 +248,7 @@
       "stroke",
       "rna"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
