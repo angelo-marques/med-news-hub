@@ -1,5 +1,91 @@
 [
   {
+    "id": "pubmed-42029363",
+    "pmid": "42029363",
+    "doi": "10.1016/j.hrthm.2026.03.1906",
+    "title": "Atrial fibrillation recurrence and outcomes in patients with hypertrophic cardiomyopathy: Insights from a nationwide real-world cohort.",
+    "titlePt": "Atrial fibrillation recurrence and outcomes in patients with hypertrophic cardiomyopathy: Insights from a nationwide real-world cohort.",
+    "abstract": "Atrial fibrillation (AF) is the most common arrhythmia in hypertrophic cardiomyopathy (HCM), associated with morbidity and often refractory to rhythm control. Contemporary data evaluating AF recurrence in HCM remain limited. This study aimed to characterize AF recurrence in HCM vs non-HCM and predictors of recurence. Using the TriNetX Research Network (2015-2025), patients with AF were grouped by the presence or absence of HCM. Within each group, 3 cohorts were defined based on the index event: initial AF diagnosis, first direct-current cardioversion (DCCV), and first catheter ablation. AF recurrence requiring intervention (new antiarrhythmic, DCCV, or ablation) was assessed at 1 year. HCM and non-HCM cohorts were propensity matched 1:1. Multivariable Cox models identified predictors of recurrence in HCM. Among 2,548,991 patients with new-onset AF, 31,248 (1.2%) had HCM. This included an HCM diagnosis in 4687 of 194,224 patients undergoing DCCV (2.4%) and 3529 of 124,567 undergoing abl",
+    "journalisticSummary": "O estudo recente publicado no PubMed, com DOI 10.1016/j.hrthm.2026.03.1906, investigou a recorrência da fibrilação atrial (FA) em pacientes com cardiomiopatia hipertrófica (CH) e sua relação com os resultados clínicos. A FA é a arritmia mais comum em pacientes com CH, afetando significativamente a morbidade e frequentemente resistindo ao controle de ritmo. Embora a FA seja um problema significativo, os dados contemporâneos sobre a recorrência da FA em pacientes com CH são limitados. Este estudo teve como objetivo caracterizar a recorrência da FA em pacientes com CH e sem CH, bem como identificar os preditores de recorrência. \n\nUtilizando a rede de pesquisa TriNetX (2015-2025), os pacientes com FA foram agrupados de acordo com a presença ou ausência de CH. Dentro de cada grupo, três coortes foram definidas com base no evento de índice: diagnóstico inicial de FA, primeira cardioversão com corrente contínua (CCC) e primeira ablação com cateter. A recorrência da FA que exigia intervenção (novo antiarrítmico, CCC ou ablação) foi avaliada em um ano. As coortes de CH e não CH foram pareadas por propensão 1:1. Modelos de Cox multivariáveis identificaram os preditores de recorrência em CH. Dentre 2.548.991 pacientes com FA de início recente, 31.248 (1,2%) apresentavam CH. Isso incluiu um diagnóstico de CH em 4.687 de 194.224 pacientes submetidos à CCC (2,4%) e 3.529 de 124.567 submetidos à ablação.\n\nOs resultados do estudo fornecem insights valiosos sobre a recorrência da FA em pacientes com CH e podem ajudar a guiar as decisões clínicas e o desenvolvimento de estratégias de tratamento personalizadas. No entanto, é importante considerar as limitações do estudo, como a natureza retrospectiva dos dados e a possível presença de viés de seleção. Além disso, mais pesquisas são necessárias para explorar os mecanismos subjacentes à recorrência da FA em CH e para desenvolver abordagens terapêuticas mais eficazes.\n\nThe recent study published in PubMed, with DOI 10.1016/j.hrthm.2026.03.1906, investigated the recurrence of atrial fibrillation (AF) in patients with hypertrophic cardiomyopathy (HCM) and its relationship to clinical outcomes. AF is the most common arrhythmia in HCM patients, significantly affecting morbidity and often refractory to rhythm control. Although AF is a significant problem, contemporary data on AF recurrence in HCM patients are limited. This study aimed to characterize AF recurrence in HCM and non-HCM patients, as well as identify predictors of recurrence.\n\nUsing the TriNetX Research Network (2015-2025), AF patients were grouped by the presence or absence of HCM. Within each group, three cohorts were defined based on the index event: initial AF diagnosis, first direct-current cardioversion (DCCV), and first catheter ablation. AF recurrence requiring intervention (new antiarrhythmic, DCCV, or ablation) was assessed at one year. HCM and non-HCM cohorts were propensity matched 1:1. Multivariable Cox models identified predictors of recurrence in HCM. Among 2,548,991 patients with new-onset AF, 31,248 (1.2%) had HCM. This included an HCM diagnosis in 4,687 of 194,224 patients undergoing DCCV (2.4%) and 3,529 of 124,567 undergoing ablation.\n\nThe study's findings provide valuable insights into AF recurrence in HCM patients and may help guide clinical decisions and the development of personalized treatment strategies. However, it is essential to consider the study's limitations, such as the retrospective nature of the data and potential selection bias. Furthermore, additional research is needed to explore the underlying mechanisms of AF recurrence in HCM and to develop more effective therapeutic approaches.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42029363",
+    "authors": [
+      {
+        "name": "Amro Aglan",
+        "affiliation": "Department of Cardiology, Westchester Medical Center, New York Medical College, Valhalla, New York."
+      },
+      {
+        "name": "Ayman R Fath",
+        "affiliation": "Department of Cardiology, Minneapolis Heart Institute Foundation, Minneapolis Heart Institute, Minneapolis, Minnesota."
+      },
+      {
+        "name": "Jonathan S Silver",
+        "affiliation": "Hypertrophic Cardiomyopathy Center, Lahey Hospital and Medical Center, Burlington, Massachusetts."
+      },
+      {
+        "name": "Paul Harnish",
+        "affiliation": "Hypertrophic Cardiomyopathy Center, Lahey Hospital and Medical Center, Burlington, Massachusetts."
+      }
+    ],
+    "journal": "Heart rhythm",
+    "publishedDate": "2026-04-24",
+    "fetchedDate": "2026-04-24",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-41795035",
+    "pmid": "41795035",
+    "doi": "10.1007/s00125-026-06706-5",
+    "title": "Development and validation of a trans-ancestry polygenic risk score for type 1 diabetes.",
+    "titlePt": "Development and validation of a trans-ancestry polygenic risk score for type 1 diabetes.",
+    "abstract": "The high heritability of type 1 diabetes has enabled the development of polygenic risk scores (PRSs) as disease risk screening tools. PRSs can identify individuals at the highest genetic risk in a population, who can benefit from autoantibody and metabolic surveillance, to avoid ketoacidosis at diagnosis and to access preventive therapies. However, PRSs for type 1 diabetes developed from European data perform less well in non-European ancestries. We aimed to develop a PRS with comparable performance among different ancestries. Using the PRS-CSx method, and data from large European, East Asian, African American and Hispanic type 1 diabetes genome-wide association studies (Ntotal_cases=29,469), we developed a trans-ancestry PRS (TA-PS), combining a non-HLA component incorporating over a million variants with the HLA component of a published European PRS (GRS2x). We tested the performance of the PRS using area under the receiver operating curve (AUROC), sensitivity and specificity in a mu",
+    "journalisticSummary": "O desenvolvimento de escores de risco poligênicos (PRSs) para a diabetes tipo 1 tem sido possível devido à alta hereditariedade da doença. Esses escores podem identificar indivíduos com alto risco genético em uma população, que podem se beneficiar da vigilância de autoanticorpos e metabólica para evitar a cetoacidose no diagnóstico e acessar terapias preventivas. No entanto, os PRSs desenvolvidos a partir de dados europeus apresentam desempenho reduzido em populações não europeias. Um estudo recente teve como objetivo desenvolver um PRS com desempenho comparável entre diferentes ancestralidades. Utilizando o método PRS-CSx e dados de estudos de associação genômica ampla de diabetes tipo 1 de grandes populações europeias, asiáticas orientais, afro-americanas e hispânicas (Ntotal_casos=29.469), os pesquisadores desenvolveram um PRS trans-ancestral (TA-PS), combinando um componente não-HLA que incorpora mais de um milhão de variantes com o componente HLA de um PRS europeu publicado (GRS2x). O desempenho do PRS foi testado utilizando a área sob a curva de operação do receptor (AUROC), sensibilidade e especificidade. Embora os resultados específicos não tenham sido informados, o desenvolvimento de um PRS trans-ancestral pode ter um impacto significativo no diagnóstico e prevenção da diabetes tipo 1 em populações diversificadas. Limitações do estudo incluem a necessidade de mais dados e validação em diferentes populações. Os próximos passos incluem a implantação e avaliação do PRS em contextos clínicos reais.\n\nThe development of polygenic risk scores (PRSs) for type 1 diabetes has been made possible due to the high heritability of the disease. These scores can identify individuals at high genetic risk in a population, who can benefit from autoantibody and metabolic surveillance to avoid ketoacidosis at diagnosis and access preventive therapies. However, PRSs developed from European data perform less well in non-European ancestries. A recent study aimed to develop a PRS with comparable performance among different ancestries. Using the PRS-CSx method and data from large European, East Asian, African American, and Hispanic type 1 diabetes genome-wide association studies (Ntotal_cases=29,469), the researchers developed a trans-ancestry PRS (TA-PS), combining a non-HLA component incorporating over a million variants with the HLA component of a published European PRS (GRS2x). The performance of the PRS was tested using the area under the receiver operating curve (AUROC), sensitivity, and specificity. Although specific results were not reported, the development of a trans-ancestry PRS may have a significant impact on the diagnosis and prevention of type 1 diabetes in diverse populations. Limitations of the study include the need for more data and validation in different populations. Next steps include the implementation and evaluation of the PRS in real-world clinical settings.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41795035",
+    "authors": [
+      {
+        "name": "Basile Jumentier",
+        "affiliation": "Research Center of the Sainte-Justine University Hospital, Universit&#xe9; de Montr&#xe9;al, Montreal, QC, Canada."
+      },
+      {
+        "name": "Hui-Qi Qu",
+        "affiliation": "The Center for Applied Genomics, Children's Hospital of Philadelphia, Philadelphia, PA, USA."
+      },
+      {
+        "name": "Tianyuan Lu",
+        "affiliation": "Department of Population Health Sciences, University of Wisconsin School of Medicine and Public Health, Madison, WI, USA."
+      },
+      {
+        "name": "Kai Liu",
+        "affiliation": "Department of Biostatistics and Medical Informatics, School of Medicine and Public Health, University of Wisconsin-Madison, Madison, WI, USA."
+      }
+    ],
+    "journal": "Diabetologia",
+    "publishedDate": "2026-04-24",
+    "fetchedDate": "2026-04-24",
+    "category": "Genômica",
+    "tags": [
+      "genetic",
+      "gene",
+      "antibody",
+      "diabetes",
+      "metabolic"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42027874",
     "pmid": "42027874",
     "doi": "10.1016/j.athplu.2026.100562",
@@ -163,7 +249,7 @@
       "immunotherapy",
       "genetic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -205,7 +291,7 @@
       "cardiovascular",
       "heart"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
