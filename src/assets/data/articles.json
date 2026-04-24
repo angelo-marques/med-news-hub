@@ -83,6 +83,47 @@
     "aiProvider": "Groq"
   },
   {
+    "id": "pubmed-41936834",
+    "pmid": "41936834",
+    "doi": "10.1016/j.jep.2026.121638",
+    "title": "Efficacy of Wendan Decoction combined with conventional medicine for depression: a systematic review and meta-analysis.",
+    "titlePt": "Efficacy of Wendan Decoction combined with conventional medicine for depression: a systematic review and meta-analysis.",
+    "abstract": "Wendan Decoction is well-known traditional Chinese medicine formula commonly used in China for the treatment of gastrointestinal disorders and mood disorders related to phlegm-dampness and spleen deficiency. In clinical practice, depending on different symptoms, additional herbs may be included, resulting in a modified formula known as modified Wendan Decoction. To evaluate the efficacy of modified Wendan Decoction plus conventional medicine in the treatment of depression. We independently conducted a meta-analysis of studies on the efficacy of modified Wendan Decoction for depression from inception to February 28, 2025, using electronic databases, including PubMed, Embase, Cochrane, Web of Science, Wanfang, VIP and SinoMed. Data from randomized controlled trials were extracted to evaluate treatment outcomes based on depression scales. A total of 402 articles were identified through database searches, and 13 studies, encompassing 1117 patients, were included. The initial pooled analysi",
+    "journalisticSummary": "Estudos recentes têm explorado o potencial terapêutico de combinar medicina tradicional chinesa com tratamentos convencionais para depressão. Um exemplo destacado é o estudo sobre a eficácia da Decocção Wendan modificada, uma fórmula tradicional chinesa, quando combinada com medicina convencional para o tratamento de depressão. A Decocção Wendan é amplamente conhecida por ser utilizada no tratamento de distúrbios gastrointestinais e transtornos de humor relacionados à frieza-umidade e deficiência de baço. Em prática clínica, dependendo dos sintomas apresentados, ervas adicionais podem ser incluídas, resultando em uma fórmula modificada conhecida como Decocção Wendan modificada. \nOs pesquisadores conduziram uma metanálise sistemática de estudos sobre a eficácia da Decocção Wendan modificada, mais medicina convencional, no tratamento de depressão, utilizando dados de ensaios clínicos randomizados disponíveis até 28 de fevereiro de 2025. Foram identificados 402 artigos através de buscas em bases de dados, incluindo PubMed, Embase, Cochrane, Web of Science, Wanfang, VIP e SinoMed, e 13 estudos, abrangendo 1117 pacientes, foram incluídos. \nOs achados principais apontam para a eficácia da combinação da Decocção Wendan modificada com medicina convencional no tratamento de depressão, com base em escalas de depressão. No entanto, os detalhes específicos sobre os resultados e a magnitude do efeito não foram divulgados no resumo disponível. \nO impacto clínico desta abordagem combinada pode ser significativo, especialmente considerando a busca por terapias mais eficazes e personalizadas para depressão. A medicina tradicional chinesa, com sua abordagem holística, pode oferecer benefícios adicionais quando integrada a tratamentos convencionais. \nAs limitações do estudo incluem a necessidade de mais pesquisas para fullyar os mecanismos subjacentes e a variabilidade nos protocolos de tratamento e nas populações estudadas. Além disso, a qualidade dos estudos incluídos e a heterogeneidade entre eles podem influenciar os resultados. \nOs próximos passos incluem a realização de ensaios clínicos mais amplos e bem desenhados para confirmar os achados e explorar a aplicabilidade clínica da Decocção Wendan modificada em diferentes contextos. Isso pode ajudar a estabelecer diretrizes mais claras para a integração segura e eficaz da medicina tradicional chinesa na prática clínica ocidental.\n\nRecent studies have explored the therapeutic potential of combining traditional Chinese medicine with conventional treatments for depression. A notable example is the study on the efficacy of the modified Wendan Decoction, a traditional Chinese formula, when combined with conventional medicine for the treatment of depression. Wendan Decoction is widely known for being used in the treatment of gastrointestinal disorders and mood disorders related to phlegm-dampness and spleen deficiency. In clinical practice, depending on the symptoms presented, additional herbs may be included, resulting in a modified formula known as modified Wendan Decoction.\nResearchers conducted a systematic meta-analysis of studies on the efficacy of modified Wendan Decoction plus conventional medicine in the treatment of depression, using data from randomized controlled trials available up to February 28, 2025. A total of 402 articles were identified through database searches, including PubMed, Embase, Cochrane, Web of Science, Wanfang, VIP, and SinoMed, and 13 studies, encompassing 1117 patients, were included.\nThe main findings point to the efficacy of combining modified Wendan Decoction with conventional medicine in the treatment of depression, based on depression scales. However, specific details about the outcomes and the magnitude of the effect were not disclosed in the available abstract.\nThe clinical impact of this combined approach can be significant, especially considering the search for more effective and personalized therapies for depression. Traditional Chinese medicine, with its holistic approach, may offer additional benefits when integrated with conventional treatments.\nThe limitations of the study include the need for further research to fully elucidate the underlying mechanisms and the variability in treatment protocols and study populations. Additionally, the quality of the included studies and the heterogeneity among them may influence the results.\nThe next steps include conducting larger and well-designed clinical trials to confirm the findings and explore the clinical applicability of modified Wendan Decoction in different contexts. This may help establish clearer guidelines for the safe and effective integration of traditional Chinese medicine into Western clinical practice.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41936834",
+    "authors": [
+      {
+        "name": "Xiaochen Chen",
+        "affiliation": "Clinical Research Institute &amp; School of Public Health, Shanghai Jiao Tong University School of Medicine, Shanghai, 200025, China."
+      },
+      {
+        "name": "Zhuoyang Fan",
+        "affiliation": "Department of Interventional Radiology, Zhongshan Hospital, Fudan University, Shanghai, 200032, China."
+      },
+      {
+        "name": "Yikang Xu",
+        "affiliation": "Shanghai Wenqi Middle School International Department, Shanghai, 200240, China."
+      },
+      {
+        "name": "Wei Xu",
+        "affiliation": "Core Facility of Basic Medical Sciences, Shanghai Jiao Tong University School of Medicine, Shanghai, 200025, China."
+      }
+    ],
+    "journal": "Journal of ethnopharmacology",
+    "publishedDate": "2026-04-23",
+    "fetchedDate": "2026-04-24",
+    "category": "Saúde Mental",
+    "tags": [
+      "depression"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41332227",
     "pmid": "41332227",
     "doi": "10.1097/COC.0000000000001262",
@@ -209,7 +250,7 @@
       "gene",
       "therapeutic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
