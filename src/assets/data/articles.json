@@ -1,5 +1,44 @@
 [
   {
+    "id": "pubmed-40906565",
+    "pmid": "40906565",
+    "doi": "10.1177/08971900251376795",
+    "title": "Glucagon-like Peptide-1 Receptor Agonists and Reproductive Health: Current Evidence and Clinical Implications.",
+    "titlePt": "Glucagon-like Peptide-1 Receptor Agonists and Reproductive Health: Current Evidence and Clinical Implications.",
+    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have experienced rapid growth in recent years as treatments for type 2 diabetes mellitus and obesity. These medications offer promising benefits, including weight loss and improved glycemic control; however, their implications for reproductive health warrant attention. While tirzepatide has been shown to impact absorption of oral contraceptives due to delayed gastric emptying, other GLP-1RAs do not appear to have clinically significant interactions with oral contraception. Fertility outcomes may improve with GLP-1RAs and dual GLP-1/GIP agonists due to weight loss and related metabolic benefits. Despite their widespread use, data on GLP-1RAs in pregnancy and lactation remain limited, leaving significant gaps in guidance for clinicians. This review synthesizes current literature on GLP-1RAs to highlight reproductive health considerations, including their potential impacts on contraception, fertility, pregnancy, and lactation. Greater a",
+    "journalisticSummary": "Os agonistas do receptor de peptídeo semelhante ao glucagon-1 (GLP-1RAs) têm sido cada vez mais utilizados nos últimos anos como tratamentos para diabetes mellitus tipo 2 e obesidade. Esses medicamentos oferecem benefícios promissores, incluindo perda de peso e controle glicêmico melhorado; no entanto, suas implicações para a saúde reprodutiva merecem atenção. Embora a tirzepatida tenha sido mostrada como impactando a absorção de anticoncepcionais orais devido ao atraso no esvaziamento gástrico, outros GLP-1RAs não parecem ter interações clinicamente significativas com a anticoncepção oral. Os resultados de fertilidade podem melhorar com os GLP-1RAs e agonistas duais GLP-1/GIP devido à perda de peso e benefícios metabólicos relacionados. Apesar de seu uso generalizado, os dados sobre GLP-1RAs durante a gravidez e lactação permanecem limitados, deixando lacunas significativas na orientação para os clínicos. Esta revisão sintetiza a literatura atual sobre GLP-1RAs para destacar as considerações de saúde reprodutiva, incluindo seus impactos potenciais sobre contracepção, fertilidade, gravidez e lactação. Além disso, é fundamental que sejam realizados mais estudos para preencher essas lacunas e fornecer orientações mais claras para os profissionais de saúde.\n\nThe glucagon-like peptide-1 receptor agonists (GLP-1RAs) have experienced rapid growth in recent years as treatments for type 2 diabetes mellitus and obesity. These medications offer promising benefits, including weight loss and improved glycemic control; however, their implications for reproductive health warrant attention. While tirzepatide has been shown to impact the absorption of oral contraceptives due to delayed gastric emptying, other GLP-1RAs do not appear to have clinically significant interactions with oral contraception. Fertility outcomes may improve with GLP-1RAs and dual GLP-1/GIP agonists due to weight loss and related metabolic benefits. Despite their widespread use, data on GLP-1RAs in pregnancy and lactation remain limited, leaving significant gaps in guidance for clinicians. This review synthesizes the current literature on GLP-1RAs to highlight reproductive health considerations, including their potential impacts on contraception, fertility, pregnancy, and lactation. Furthermore, it is essential that more studies be conducted to fill these gaps and provide clearer guidance for healthcare professionals.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40906565",
+    "authors": [
+      {
+        "name": "Jordyn Kettner",
+        "affiliation": "Ambulatory Care Clinical Pharmacist, University of Wisconsin Health, Middleton, WI, USA."
+      },
+      {
+        "name": "Elizabeth Donnelly",
+        "affiliation": "PGY2 Ambulatory Care Clinical Pharmacist, William S. Middleton Memorial Veterans Hospital, Madison, WI, USA."
+      },
+      {
+        "name": "Marina L Maes",
+        "affiliation": "Pharmacy Practice and Translational Research Division, School of Pharmacy, University of Wisconsin-Madison, Madison, WI, USA.5228"
+      }
+    ],
+    "journal": "Journal of pharmacy practice",
+    "publishedDate": "2026-04-27",
+    "fetchedDate": "2026-04-27",
+    "category": "Endocrinologia",
+    "tags": [
+      "diabetes",
+      "metabolic",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41482188",
     "pmid": "41482188",
     "doi": "10.1016/j.spinee.2025.12.019",
@@ -205,7 +244,7 @@
     "tags": [
       "atrial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
