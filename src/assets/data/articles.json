@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-41804648",
+    "pmid": "41804648",
+    "doi": "10.1161/STROKEAHA.125.051675",
+    "title": "Outcomes and Safety of Revascularization Approaches for Stroke Related to Isolated Vertebral Artery Occlusions (BRAVO).",
+    "titlePt": "Outcomes and Safety of Revascularization Approaches for Stroke Related to Isolated Vertebral Artery Occlusions (BRAVO).",
+    "abstract": "The best revascularization strategy for acute ischemic stroke from isolated vertebral artery occlusion remains unclear. This retrospective, international, multicenter cohort study included patients from 30 comprehensive stroke centers across Europe (n=23), North America (n=5), and Asia (n=2) between 2016 and 2022. Eligible patients presented with acute ischemic stroke within 24 hours of last seen well and had imaging-confirmed isolated vertebral artery occlusion. Two treatment comparisons were analyzed: intravenous thrombolysis (IVT)-only versus conservative treatment (Cx), and endovascular treatment (EVT)&#xb1;IVT versus medical management (Cx and IVT). The primary outcome was the shift in 3-month modified Rankin Scale (mRS) score; secondary outcomes included early neurological improvement (24-hour-delta National Institutes of Health Stroke Scale score), recanalization, early neurological deterioration of ischemic origin, symptomatic intracerebral hemorrhage, and 3-month mortality. An",
+    "journalisticSummary": "O tratamento de acidente vascular cerebral (AVC) isquêmico agudo relacionado à oclusão isolada da artéria vertebral ainda é um desafio para a comunidade médica. Um estudo retrospectivo, internacional e multicêntrico, publicado recentemente, busca esclarecer a melhor estratégia de revascularização para essa condição. O estudo, intitulado \"Outcomes and Safety of Revascularization Approaches for Stroke Related to Isolated Vertebral Artery Occlusions (BRAVO)\", incluiu pacientes de 30 centros de AVC de alta complexidade em três continentes, entre 2016 e 2022. Os pacientes elegíveis apresentaram AVC isquêmico agudo dentro de 24 horas após o último episódio de bem-estar e tinham confirmação de imagens de oclusão isolada da artéria vertebral.\n\nOs principais achados do estudo incluem a comparação de dois tratamentos: trombólise intravenosa (IVT) apenas versus tratamento conservador (Cx), e tratamento endovascular (EVT) ± IVT versus manejo médico (Cx e IVT). O desfecho primário foi a mudança no escore de Rankin modificado (mRS) após três meses; os desfechos secundários incluíram melhoria neurológica precoce, recanalização, deterioração neurológica precoce de origem isquêmica, hemorragia intracerebral sintomática e mortalidade após três meses. Infelizmente, não foi possível acessar informações detalhadas sobre os resultados, limitações e próximos passos do estudo devido à falta de informações no resumo disponível.\n\nA compreensão das melhores abordagens de revascularização para AVC isquêmico agudo relacionado à oclusão isolada da artéria vertebral é crucial para melhorar os resultados clínicos e reduzir a morbimortalidade associada a essa condição. Estudos como o BRAVO são fundamentais para orientar as decisões clínicas e promover a melhoria contínua da assistência médica.\n\nThe treatment of acute ischemic stroke related to isolated vertebral artery occlusion remains a challenge for the medical community. A recent retrospective, international, multicenter study, titled \"Outcomes and Safety of Revascularization Approaches for Stroke Related to Isolated Vertebral Artery Occlusions (BRAVO)\", aims to clarify the best revascularization strategy for this condition. The study included patients from 30 comprehensive stroke centers across three continents between 2016 and 2022. Eligible patients presented with acute ischemic stroke within 24 hours of last seen well and had imaging-confirmed isolated vertebral artery occlusion.\n\nThe study's main findings include the comparison of two treatments: intravenous thrombolysis (IVT) only versus conservative treatment (Cx), and endovascular treatment (EVT) ± IVT versus medical management (Cx and IVT). The primary outcome was the shift in 3-month modified Rankin Scale (mRS) score; secondary outcomes included early neurological improvement, recanalization, early neurological deterioration of ischemic origin, symptomatic intracerebral hemorrhage, and 3-month mortality. Unfortunately, it was not possible to access detailed information on the study's results, limitations, and next steps due to the lack of information in the available abstract.\n\nUnderstanding the best revascularization approaches for acute ischemic stroke related to isolated vertebral artery occlusion is crucial to improving clinical outcomes and reducing morbidity and mortality associated with this condition. Studies like BRAVO are essential to guiding clinical decisions and promoting continuous improvement in medical care.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41804648",
+    "authors": [
+      {
+        "name": "Alexander Salerno",
+        "affiliation": "Stroke Center, Neurology Service, Department of Clinical Neurosciences, Lausanne University Hospital and University of Lausanne, Switzerland (A.S., D.S., P. Michel)."
+      },
+      {
+        "name": "Vincent Dunet",
+        "affiliation": "Department of Diagnostic and Interventional Radiology, Lausanne University Hospital and University of Lausanne, Switzerland (V.D., B.M., G.S.)."
+      },
+      {
+        "name": "Marek Sykora",
+        "affiliation": "Department of Neurology, St. Johns Hospital, Vienna, Austria (M.S., S.K.)."
+      },
+      {
+        "name": "Philipp Baumgartner",
+        "affiliation": "Department of Neurology, University Hospital of Z&#xfc;rich and University of Zurich, Switzerland (P.B.)."
+      }
+    ],
+    "journal": "Stroke",
+    "publishedDate": "2026-04-27",
+    "fetchedDate": "2026-04-27",
+    "category": "Neurologia",
+    "tags": [
+      "stroke",
+      "rna"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42040606",
     "pmid": "42040606",
     "doi": "10.3389/fmed.2026.1815353",
@@ -183,7 +225,7 @@
       "clinical trial",
       "vaccine"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
