@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-41862384",
+    "pmid": "41862384",
+    "doi": "10.1016/j.disamonth.2026.102099",
+    "title": "Efficacy and safety of Tirzepatide in patients with heart failure with preserved ejection fraction: A systematic review and meta-analysis.",
+    "titlePt": "Efficacy and safety of Tirzepatide in patients with heart failure with preserved ejection fraction: A systematic review and meta-analysis.",
+    "abstract": "Obesity-related heart failure with preserved ejection fraction (HFpEF) is associated with high morbidity and limited therapeutic options. Tirzepatide, a dual agonist of glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptors, has demonstrated reductions in cardiovascular mortality and worsening heart failure events in a recent randomized controlled trial. However, pooled evidence for tirzepatide's cardiovascular and clinical effects in HFpEF remains limited. Moreover, head-to-head comparisons of tirzepatide with semaglutide, another incretin-mimetic therapy shown to be beneficial in HFpEF, are sparse. This meta-analysis aims to systematically analyze the efficacy and safety of tirzepatide in patients with HFpEF. We conducted a systematic review by searching multiple databases up to December 5, 2025 evaluating tirzepatide versus standard therapy and semaglutide for cardiovascular outcomes in patients with obesity-related HFpEF. Statistical analys",
+    "journalisticSummary": "A insuficiência cardíaca com fração de ejeção preservada (HFpEF) relacionada à obesidade é uma condição associada a alta morbidade e limitadas opções terapêuticas. Recentemente, o tirzepatide, um agonista dual do peptídeo insulinotrópico dependente de glicose (GIP) e do peptídeo semelhante ao glucagon-1 (GLP-1), demonstrou reduções na mortalidade cardiovascular e nos eventos de piora da insuficiência cardíaca em um ensaio clínico randomizado controlado. No entanto, a evidência em pooled para os efeitos cardiovasculares e clínicos do tirzepatide em HFpEF ainda é limitada. Além disso, comparações diretas de tirzepatide com semaglutide, outra terapia mimética de incretina que mostrou ser benéfica em HFpEF, são escassas. Este meta-análise teve como objetivo analisar sistematicamente a eficácia e segurança do tirzepatide em pacientes com HFpEF. Os resultados principais do estudo não foram informados no resumo original, limitando a capacidade de discutir os achados detalhadamente. No entanto, a condução de uma meta-análise para avaliar a eficácia e segurança do tirzepatide em comparação com a terapia padrão e semaglutide é um passo importante para entender melhor o papel desse medicamento no tratamento da HFpEF. Os próximos passos incluiriam a publicação completa dos resultados da meta-análise para que a comunidade científica possa avaliar mais a fundo as implicações clínicas do tirzepatide nesse contexto.\n\nA insuficiência cardíaca com fração de ejeção preservada (HFpEF) relacionada �� obesidade é uma condição que afeta significativamente a qualidade de vida dos pacientes e apresenta desafios no tratamento devido às limitadas opções terapêuticas disponíveis. O tirzepatide, com seu mecanismo de ação único, oferece uma perspectiva promissora, mas é essencial que os resultados completos da meta-análise sejam divulgados para uma compreensão mais abrangente de seus benefícios e riscos. \n\nThe obesity-related heart failure with preserved ejection fraction (HFpEF) is a condition associated with high morbidity and limited therapeutic options. Recently, tirzepatide, a dual agonist of glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptors, has demonstrated reductions in cardiovascular mortality and worsening heart failure events in a randomized controlled trial. However, pooled evidence for tirzepatide's cardiovascular and clinical effects in HFpEF remains limited. Moreover, head-to-head comparisons of tirzepatide with semaglutide, another incretin-mimetic therapy shown to be beneficial in HFpEF, are sparse. This meta-analysis aims to systematically analyze the efficacy and safety of tirzepatide in patients with HFpEF. The main findings of the study were not reported in the original abstract, limiting the ability to discuss the results in detail. Nevertheless, conducting a meta-analysis to evaluate the efficacy and safety of tirzepatide compared to standard therapy and semaglutide is a crucial step towards understanding the role of this medication in the treatment of HFpEF. The next steps would include the full publication of the meta-analysis results so that the scientific community can further assess the clinical implications of tirzepatide in this context.\n\nHFpEF related to obesity significantly affects patients' quality of life and poses treatment challenges due to the limited therapeutic options available. Tirzepatide, with its unique mechanism of action, offers a promising perspective, but it is essential that the complete results of the meta-analysis be disclosed for a more comprehensive understanding of its benefits and risks.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41862384",
+    "authors": [
+      {
+        "name": "Sneha Annie Sebastian",
+        "affiliation": "Department of Internal Medicine, Augusta Health, Fishersville, VA, USA. Electronic address: sasebastian@augustahealth.com."
+      },
+      {
+        "name": "Tanesh Ayyalu",
+        "affiliation": "Department of Cardiology, Saint Vincent Hospital, Worcester, MA, USA."
+      },
+      {
+        "name": "Tia Bimal",
+        "affiliation": "Department of Cardiology, Mount Sinai Fuster Heart Hospital, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+      },
+      {
+        "name": "Bhavin Patel",
+        "affiliation": "Department of Cardiology, Cape Fear Valley Health, Fayetteville, NC, USA."
+      }
+    ],
+    "journal": "Disease-a-month : DM",
+    "publishedDate": "2026-04-27",
+    "fetchedDate": "2026-04-28",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "heart",
+      "therapeutic",
+      "insulin",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41804648",
     "pmid": "41804648",
     "doi": "10.1161/STROKEAHA.125.051675",
@@ -183,7 +228,7 @@
       "metabolic",
       "obesity"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
