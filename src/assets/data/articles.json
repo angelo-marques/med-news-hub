@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-42053343",
+    "pmid": "42053343",
+    "doi": "10.1080/21645515.2026.2664323",
+    "title": "Safety of COVID-19 and influenza vaccines in children and adolescents with immunocompromised or autoimmune conditions: Findings from the Canadian National Vaccine Safety (CANVAS) network.",
+    "titlePt": "Safety of COVID-19 and influenza vaccines in children and adolescents with immunocompromised or autoimmune conditions: Findings from the Canadian National Vaccine Safety (CANVAS) network.",
+    "abstract": "Safety data on COVID-19 and influenza vaccination in immunocompromised and/or autoimmune pediatric populations remains limited. This study evaluated post-vaccination health events in this vulnerable population using active surveillance data from the Canadian National Vaccine Safety (CANVAS) Network. A prospective cohort of participants aged 6&#x2009;months to 19&#x2009;y, who self-identified with an autoimmune and/or immunocompromised condition, were followed across several Canadian provinces (2023-2025). Participants were vaccinated with COVID-19 only, seasonal influenza vaccine only, or had both vaccines co-administered and reported new or worsening health events within 7 d post-vaccination; unvaccinated participants reported new or worsening events in the prior week. Health events were defined as events resulting in school/daycare absenteeism, prevention of daily activities, or requiring medical consultation. Symptoms were collected in a structured survey. Associations between vacci",
+    "journalisticSummary": "Um estudo recente publicado no PubMed, com DOI 10.1080/21645515.2026.2664323, investigou a segurança das vacinas contra COVID-19 e influenza em crianças e adolescentes com condições imunocomprometidas ou autoimunes. Essa pesquisa foi realizada pela rede Canadian National Vaccine Safety (CANVAS) e teve como objetivo avaliar os eventos de saúde pós-vacinação nessa população vulnerável. Os participantes, com idades entre 6 meses e 19 anos, que se identificavam com condições autoimunes e/ou imunocomprometidas, foram acompanhados em várias províncias canadenses entre 2023 e 2025. Eles receberam vacinas contra COVID-19, vacinas contra influenza sazonal ou ambas as vacinas administradas concomitantemente e relataram novos ou piores eventos de saúde dentro de 7 dias após a vacinação. Os eventos de saúde foram definidos como aqueles que resultaram em ausência na escola ou no trabalho, prevenção de atividades diárias ou que exigiram consulta médica. Os sintomas foram coletados por meio de um questionário estruturado.\n\nOs achados principais do estudo não foram especificados no resumo, o que limita uma análise detalhada do impacto clínico. No entanto, é fundamental que estudos como esse sejam realizados para entender melhor a segurança das vacinas em populações vulneráveis. As limitações do estudo incluem a falta de informações detalhadas sobre os resultados e a possibilidade de viés de seleção, uma vez que os participantes se autoidentificaram com condições imunocomprometidas ou autoimunes. Os próximos passos deveriam incluir a publicação completa dos resultados, permitindo uma avaliação mais aprofundada dos dados e suas implicações para a prática clínica.\n\nUm aspecto importante a ser considerado é a importância da vigilância ativa na monitoração da segurança das vacinas, especialmente em populações vulneráveis. Estudos como esse reforçam a necessidade de uma abordagem cuidadosa e baseada em evidências para a vacinação em grupos de risco. Além disso, é crucial que os resultados sejam comunicados de forma clara e transparente, tanto para os profissionais de saúde quanto para o público em geral, a fim de promover a confiança nas vacinas e na saúde pública.\n\nEnglish version:\nA recent study published in PubMed, with DOI 10.1080/21645515.2026.2664323, investigated the safety of COVID-19 and influenza vaccines in children and adolescents with immunocompromised or autoimmune conditions. This research was conducted by the Canadian National Vaccine Safety (CANVAS) network and aimed to evaluate post-vaccination health events in this vulnerable population. Participants, aged 6 months to 19 years, who self-identified with autoimmune and/or immunocompromised conditions, were followed across several Canadian provinces between 2023 and 2025. They received COVID-19 vaccines, seasonal influenza vaccines, or both vaccines co-administered and reported new or worsening health events within 7 days after vaccination. Health events were defined as those resulting in school/daycare absenteeism, prevention of daily activities, or requiring medical consultation. Symptoms were collected through a structured survey.\n\nThe main findings of the study were not specified in the abstract, limiting a detailed analysis of the clinical impact. However, it is crucial that studies like this are conducted to better understand the safety of vaccines in vulnerable populations. The limitations of the study include the lack of detailed information about the outcomes and the possibility of selection bias, as participants self-identified with immunocompromised or autoimmune conditions. The next steps should include the full publication of the results, allowing for a more in-depth evaluation of the data and its implications for clinical practice.\n\nAn important aspect to consider is the importance of active surveillance in monitoring vaccine safety, especially in vulnerable populations. Studies like this reinforce the need for a careful and evidence-based approach to vaccination in high-risk groups. Furthermore, it is crucial that the results are communicated clearly and transparently, both to healthcare professionals and the general public, to promote trust in vaccines and public health.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42053343",
+    "authors": [
+      {
+        "name": "Cailey Turner",
+        "affiliation": "Department of Pediatrics, University of Calgary, Calgary, Alberta, Canada."
+      },
+      {
+        "name": "Otto G Vanderkooi",
+        "affiliation": "Department of Pediatrics, University of Calgary, Calgary, Alberta, Canada."
+      },
+      {
+        "name": "James D Kellner",
+        "affiliation": "Department of Pediatrics, University of Calgary, Calgary, Alberta, Canada."
+      },
+      {
+        "name": "Hennady P Shulha",
+        "affiliation": "Vaccine Evaluation Center, BC Children's Hospital Research Institute, Vancouver, British Columbia, Canada."
+      }
+    ],
+    "journal": "Human vaccines &amp; immunotherapeutics",
+    "publishedDate": "2026-04-29",
+    "fetchedDate": "2026-04-29",
+    "category": "Imunologia",
+    "tags": [
+      "covid",
+      "pediatric",
+      "children",
+      "immune",
+      "autoimmune"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41582853",
     "pmid": "41582853",
     "doi": "10.1111/pace.70145",
@@ -201,7 +246,7 @@
       "leukemia",
       "pediatric"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
