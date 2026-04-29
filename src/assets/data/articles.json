@@ -1,5 +1,45 @@
 [
   {
+    "id": "pubmed-41405280",
+    "pmid": "41405280",
+    "doi": "10.1097/MED.0000000000000949",
+    "title": "Beyond weight loss: tirzepatide as a dual GIP/GLP-1 receptor agonist for obstructive sleep apnea.",
+    "titlePt": "Beyond weight loss: tirzepatide as a dual GIP/GLP-1 receptor agonist for obstructive sleep apnea.",
+    "abstract": "This review summarizes emerging evidence on the use of the dual glucose-dependent insulinotropic polypeptide (GIP)/glucagon-like peptide-1 (GLP-1) receptor agonist (RA) tirzepatide in improving obstructive sleep apnea (OSA) outcomes in individuals with obesity. Tirzepatide has demonstrated significant reductions in apnea-hypopnea index (AHI) among patients with OSA and coexisting obesity. It has recently become the first medication approved by the U.S. Food and Drug Administration (FDA) specifically for moderate-to-severe OSA in adults with obesity. In addition to weight loss, tirzepatide has been associated with reduced cardiovascular, hepatic, and renal events, suggesting broader systemic benefits. As a dual GIP/GLP-1 RA, tirzepatide represents a promising therapy for OSA in individuals with obesity, offering benefits of both weight reduction and symptom improvement. Given the high burden and underdiagnosis of OSA, particularly in populations with obesity, it should be considered ear",
+    "journalisticSummary": "A recente aprovação da tirzepatida pela FDA para o tratamento de apneia obstrutiva do sono (AOS) moderada a grave em adultos com obesidade marca um importante avanço na abordagem terapêutica dessa condi��ão. A tirzepatida, um agonista dual do receptor de polipeptídeo insulinotrópico dependente de glicose (GIP) e do receptor de glucagon-like peptide-1 (GLP-1), tem demonstrado reduções significativas no índice de apneia-hipopneia (AHI) em pacientes com AOS e obesidade coexistente. Além da perda de peso, a tirzepatida também tem sido associada a reduções em eventos cardiovasculares, hepáticos e renais, sugerindo benefícios sistêmicos mais amplos. Como um agonista dual GIP/GLP-1, a tirzepatida representa uma terapia promissora para a AOS em indivíduos com obesidade, oferecendo benefícios tanto de redução de peso quanto de melhoria dos sintomas. Dada a alta carga e subdiagnóstico da AOS, particularmente em populações com obesidade, a consideração da tirzepatida como uma opção terapêutica é fundamental. No entanto, é importante notar que a eficácia a longo prazo e os efeitos colaterais potenciais da tirzepatida ainda precisam ser mais amplamente estudados.\n\nA recent approval of tirzepatide by the FDA for the treatment of moderate-to-severe obstructive sleep apnea (OSA) in adults with obesity marks a significant advancement in the therapeutic approach to this condition. Tirzepatide, a dual glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist, has demonstrated significant reductions in apnea-hypopnea index (AHI) among patients with OSA and coexisting obesity. In addition to weight loss, tirzepatide has also been associated with reduced cardiovascular, hepatic, and renal events, suggesting broader systemic benefits. As a dual GIP/GLP-1 receptor agonist, tirzepatide represents a promising therapy for OSA in individuals with obesity, offering benefits of both weight reduction and symptom improvement. Given the high burden and underdiagnosis of OSA, particularly in populations with obesity, consideration of tirzepatide as a therapeutic option is essential. However, it is crucial to note that the long-term efficacy and potential side effects of tirzepatide still need to be more extensively studied.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41405280",
+    "authors": [
+      {
+        "name": "Jairo A Nore&#xf1;a",
+        "affiliation": "Alameda Health System, Oakland, CA."
+      },
+      {
+        "name": "Tugce Akcan",
+        "affiliation": "&#xa0;Division of Endocrinology, Gerontology and Metabolism, Department of Medicine, Stanford University, Stanford, California, USA."
+      },
+      {
+        "name": "Dimpi Desai",
+        "affiliation": "&#xa0;Division of Endocrinology, Gerontology and Metabolism, Department of Medicine, Stanford University, Stanford, California, USA."
+      }
+    ],
+    "journal": "Current opinion in endocrinology, diabetes, and obesity",
+    "publishedDate": "2026-04-29",
+    "fetchedDate": "2026-04-29",
+    "category": "Endocrinologia",
+    "tags": [
+      "cardiovascular",
+      "drug",
+      "insulin",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42053343",
     "pmid": "42053343",
     "doi": "10.1080/21645515.2026.2664323",
@@ -204,7 +244,7 @@
       "stroke",
       "rna"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Groq"
