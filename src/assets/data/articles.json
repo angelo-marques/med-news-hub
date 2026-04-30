@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42054676",
+    "pmid": "42054676",
+    "doi": "10.2196/91037",
+    "title": "Vitamin C Supplementation in Hospitalized Patients With Community-Acquired Pneumonia: Protocol for a Randomized Controlled Trial.",
+    "titlePt": "Vitamin C Supplementation in Hospitalized Patients With Community-Acquired Pneumonia: Protocol for a Randomized Controlled Trial.",
+    "abstract": "Community-acquired pneumonia (CAP) remains a leading cause of hospitalization, morbidity, and mortality worldwide, particularly among older adults with multimorbidity and frailty. Despite advances in antimicrobial therapy, clinical outcomes have improved little, highlighting the need for safe, inexpensive adjunctive treatments. Vitamin C plays a critical role in immune function, redox homeostasis, and endothelial integrity, all disrupted during acute infection. Hypovitaminosis C is common in hospitalized patients with CAP and has been associated with increased disease severity, longer length of stay (LOS), and worse outcomes. However, prior randomized trials of vitamin C have produced inconsistent results, often focusing on critically ill patients with sepsis, using short treatment durations, and discontinuing therapy abruptly. The Vitamin C in Community-Acquired Pneumonia (VitCAP) trial aims to evaluate whether high-dose oral vitamin C administered over an extended period improves cli",
+    "journalisticSummary": "A pneumonia adquirida na comunidade (PAC) continua sendo uma das principais causas de hospitalização, morbidade e mortalidade em todo o mundo, especialmente entre adultos mais velhos com multimorbidade e fragilidade. Apesar dos avanços na terapia antimicrobiana, os resultados clínicos melhoraram pouco, destacando a necessidade de tratamentos adjuntos seguros e acessíveis. A vitamina C desempenha um papel crítico na função imunológica, homeostase redox e integridade endotelial, todos disruptados durante a infecção aguda. A hipovitaminose C é comum em pacientes hospitalizados com PAC e tem sido associada a uma maior gravidade da doença, maior tempo de internação e piores resultados. No entanto, ensaios clínicos randomizados anteriores com vitamina C produziram resultados inconsistentes, muitas vezes se concentrando em pacientes criticamente doentes com sepse, usando durações de tratamento curto e descontinuando a terapia abruptamente. O estudo Vitamina C na Pneumonia Adquirida na Comunidade (VitCAP) tem como objetivo avaliar se a vitamina C em alta dosagem, administrada por via oral durante um período prolongado, melhora os resultados clínicos em pacientes hospitalizados com PAC. Os achados principais deste estudo ainda não foram divulgados, pois o artigo apresentado é um protocolo de estudo. O impacto clínico potencial dessa pesquisa é significativo, pois pode oferecer uma abordagem terapêutica adjuvante simples e acessível para melhorar os resultados em pacientes com PAC. No entanto, é importante aguardar os resultados do estudo para entender melhor os efeitos da suplementação de vitamina C nesses pacientes.\n\nA pneumonia adquirida na comunidade permanece como uma das principais causas de hospitalização, morbidade e mortalidade em todo o mundo, especialmente entre adultos mais velhos com multimorbidade e fragilidade. Apesar dos avanços na terapia antimicrobiana, os resultados clínicos melhoraram pouco, destacando a necessidade de tratamentos adjuntos seguros e acessíveis. A vitamina C desempenha um papel crítico na função imunológica, homeostase redox e integridade endotelial, todos disruptados durante a infecção aguda. A hipovitaminose C é comum em pacientes hospitalizados com PAC e tem sido associada a uma maior gravidade da doença, maior tempo de internação e piores resultados. No entanto, ensaios clínicos randomizados anteriores com vitamina C produziram resultados inconsistentes, muitas vezes se concentrando em pacientes criticamente doentes com sepse, usando durações de tratamento curto e descontinuando a terapia abruptamente. O estudo Vitamina C na Pneumonia Adquirida na Comunidade (VitCAP) tem como objetivo avaliar se a vitamina C em alta dosagem, administrada por via oral durante um período prolongado, melhora os resultados clínicos em pacientes hospitalizados com PAC. \n\nCommunity-acquired pneumonia (CAP) remains a leading cause of hospitalization, morbidity, and mortality worldwide, particularly among older adults with multimorbidity and frailty. Despite advances in antimicrobial therapy, clinical outcomes have improved little, highlighting the need for safe, inexpensive adjunctive treatments. Vitamin C plays a critical role in immune function, redox homeostasis, and endothelial integrity, all disrupted during acute infection. Hypovitaminosis C is common in hospitalized patients with CAP and has been associated with increased disease severity, longer length of stay (LOS), and worse outcomes. However, prior randomized trials of vitamin C have produced inconsistent results, often focusing on critically ill patients with sepsis, using short treatment durations, and discontinuing therapy abruptly. The Vitamin C in Community-Acquired Pneumonia (VitCAP) trial aims to evaluate whether high-dose oral vitamin C administered over an extended period improves clinical outcomes in hospitalized patients with CAP. The main findings of this study have not been released yet, as the presented article is a study protocol. The potential clinical impact of this research is significant, as it may offer a simple and accessible therapeutic approach to improve outcomes in patients with CAP. However, it is essential to wait for the study results to better understand the effects of vitamin C supplementation in these patients. The limitations of the study include the fact that the results have not been published yet, and therefore, it is not possible to draw conclusions about the effectiveness of vitamin C supplementation in patients with CAP. The next steps will be to await the publication of the study results and to evaluate the findings in the context of the current literature on vitamin C supplementation in patients with CAP.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42054676",
+    "authors": [
+      {
+        "name": "Yogesh Sharma",
+        "affiliation": "College of Medicine &amp; Public Health, Flinders University, Adelaide, SA, Australia."
+      },
+      {
+        "name": "Arduino A Mangoni",
+        "affiliation": "Department of Acute and General Medicine, Flinders Medical Centre, Adelaide, SA, Australia."
+      },
+      {
+        "name": "Richard Woodman",
+        "affiliation": "College of Medicine &amp; Public Health, Flinders University, Adelaide, SA, Australia."
+      },
+      {
+        "name": "Huah Shin Ng",
+        "affiliation": "College of Medicine &amp; Public Health, Flinders University, Adelaide, SA, Australia."
+      }
+    ],
+    "journal": "JMIR research protocols",
+    "publishedDate": "2026-04-29",
+    "fetchedDate": "2026-04-30",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "sepsis",
+      "antimicrobial",
+      "immune"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41405280",
     "pmid": "41405280",
     "doi": "10.1097/MED.0000000000000949",
@@ -202,7 +246,7 @@
       "insulin",
       "obesity"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
