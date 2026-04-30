@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-40705347",
+    "pmid": "40705347",
+    "doi": "10.1097/SHK.0000000000002661",
+    "title": "Prognostic Evaluation of Molecular Endotypes in Sepsis: A Multicenter Cohort Study in Brazil.",
+    "titlePt": "Prognostic Evaluation of Molecular Endotypes in Sepsis: A Multicenter Cohort Study in Brazil.",
+    "abstract": "Sepsis heterogeneity affects the identification of high-risk patients. Outcomes in low- and middle-income countries are worse than those in developed nations. This study aimed to assess the prognostic potential of the previously described molecular endotypes, Mars1, Mars2, Mars3, and Mars4, in a Brazilian cohort with sepsis. This prospective, multicenter, observational study identified molecular expression-based endotypes in adults from four intensive care units in Brazil. Patients on their first 24-h diagnosis of sepsis based on the Sepsis 3 criteria were included. Health care workers were included in the control group. Quantitative real-time polymerase chain reaction (qRT-PCR) was used to quantify the transcripted levels of eight genes and determine the four endotypes. The primary endpoint was 28-day mortality with a secondary analysis of diagnostic accuracy. Statistical significance was set at P &#x2009;&lt;&#x2009;0.05. One hundred sixty-eight participants and twenty-five controls ",
+    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a avaliação prognóstica de endótipos moleculares em pacientes com sepse em um contexto brasileiro. A sepse é uma condição clínica complexa e heterogênea que afeta a identificação de pacientes de alto risco, com resultados piores em países de baixa e média renda em comparação com nações desenvolvidas. Os pesquisadores buscaram avaliar o potencial prognóstico de quatro endótipos moleculares previamente descritos - Mars1, Mars2, Mars3 e Mars4 - em uma coorte brasileira com sepse. Este estudo prospectivo, multicêntrico e observacional identificou endótipos baseados na expressão molecular em adultos de quatro unidades de terapia intensiva no Brasil. Foram incluídos pacientes com diagnóstico de sepse nos primeiros 24 horas com base nos critérios de Sepsis 3, além de trabalhadores da saúde como grupo de controle. A técnica de reação em cadeia da polimerase em tempo real quantitativa (qRT-PCR) foi utilizada para quantificar os níveis de transcrição de oito genes e determinar os quatro endótipos. O desfecho primário foi a mortalidade em 28 dias, com uma análise secundária de precisão diagnóstica. A significância estatística foi estabelecida em P < 0,05. Foram incluídos 168 participantes e 25 controles no estudo. Embora os resultados específicos não tenham sido detalhados no resumo, este estudo é importante por abordar a heterogeneidade da sepse e buscar biomarcadores moleculares para melhorar a prognosticação e o tratamento de pacientes em um contexto de recursos limitados. As limitações do estudo, como a amostra relativamente pequena, devem ser consideradas, e futuras pesquisas são necessárias para validar e expandir esses achados.\n\nA recent study published in PubMed investigated the prognostic evaluation of molecular endotypes in sepsis patients within a Brazilian context. Sepsis is a complex and heterogeneous clinical condition that affects the identification of high-risk patients, with worse outcomes in low- and middle-income countries compared to developed nations. Researchers sought to evaluate the prognostic potential of four previously described molecular endotypes - Mars1, Mars2, Mars3, and Mars4 - in a Brazilian sepsis cohort. This prospective, multicenter, observational study identified molecular expression-based endotypes in adults from four intensive care units in Brazil. Patients with sepsis diagnosed within the first 24 hours based on the Sepsis 3 criteria were included, as well as healthcare workers as a control group. Quantitative real-time polymerase chain reaction (qRT-PCR) was used to quantify the transcripted levels of eight genes and determine the four endotypes. The primary endpoint was 28-day mortality, with a secondary analysis of diagnostic accuracy. Statistical significance was set at P < 0.05. The study included 168 participants and 25 controls. Although specific results were not detailed in the abstract, this study is important for addressing sepsis heterogeneity and seeking molecular biomarkers to improve patient prognosis and treatment in a resource-limited setting. The study's limitations, such as the relatively small sample size, should be considered, and future research is necessary to validate and expand these findings.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40705347",
+    "authors": [
+      {
+        "name": "Fernanda do Carmo De Stefani",
+        "affiliation": "Post-graduation program, Federal University of Parana, Parana, Brazil."
+      },
+      {
+        "name": "Ana Carolina de Miranda",
+        "affiliation": "Clinical Hospital, Federal University of Parana, Parana, Brazil."
+      },
+      {
+        "name": "Bruna Cassia Dal Vesco",
+        "affiliation": "Post-graduation program, Federal University of Parana, Parana, Brazil."
+      },
+      {
+        "name": "Dalila Luciola Zanette",
+        "affiliation": "Carlos Chagas Institute, Fiocruz, Parana, Brazil."
+      }
+    ],
+    "journal": "Shock (Augusta, Ga.)",
+    "publishedDate": "2026-04-30",
+    "fetchedDate": "2026-04-30",
+    "category": "Infectologia",
+    "tags": [
+      "sepsis",
+      "gene"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42057665",
     "pmid": "42057665",
     "doi": "10.1080/07853890.2026.2662627",
@@ -197,7 +239,7 @@
       "neural",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
