@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-41213813",
+    "pmid": "41213813",
+    "doi": "10.3174/ajnr.A9095",
+    "title": "Neuroimaging Predictors of Futile Recanalization in Anterior Circulation Stroke: A Systematic Review and Meta-Analysis.",
+    "titlePt": "Neuroimaging Predictors of Futile Recanalization in Anterior Circulation Stroke: A Systematic Review and Meta-Analysis.",
+    "abstract": "Mechanical thrombectomy (MT) has transformed the management of large vessel occlusion stroke; however, a considerable proportion of patients fail to achieve functional recovery despite successful recanalization. This futile recanalization underscores the need to better understand imaging biomarkers that may predict poor outcomes after endovascular therapy. To systematically review and synthesize evidence on neuroimaging biomarkers associated with futile recanalization after MT in acute ischemic stroke. PubMed, Scopus, Web of Science, and EMBASE databases were searched up to March 2025, supplemented by manual reference screening. Eligible studies enrolled adult patients with anterior-circulation stroke who underwent thrombectomy, reported pretreatment neuroimaging findings, and evaluated functional outcomes despite successful reperfusion. Case reports, reviews, abstracts, and nonhuman studies were excluded. Two reviewers independently screened, extracted data, and assessed study quality",
+    "journalisticSummary": "A terapia de trombectomia mecânica (TM) revolucionou o tratamento de acidentes vasculares cerebrais (AVCs) de grande vaso, mas uma proporção considerável de pacientes não consegue alcan��ar recuperação funcional apesar da recanalização bem-sucedida. Isso destaca a necessidade de entender melhor os biomarcadores de imagem que podem prever resultados pobres após a terapia endovascular. Um estudo recente publicado no PubMed realizou uma revisão sistemática e metanálise para sintetizar evidências sobre biomarcadores de neuroimagem associados à recanalização fútil após TM em AVC isquêmico agudo. Os autores pesquisaram as bases de dados PubMed, Scopus, Web of Science e EMBASE até março de 2025, além de uma busca manual de referências. Foram incluídos estudos que avaliaram pacientes adultos com AVC de circulação anterior que foram submetidos à trombectomia, relataram achados de neuroimagem pré-tratamento e avaliaram resultados funcionais apesar da reperfusão bem-sucedida. Os resultados do estudo podem contribuir para a identificação de pacientes com maior risco de recanalização fútil, permitindo que os médicos tomem decisões mais informadas sobre o tratamento. No entanto, não foi informado quais biomarcadores de neuroimagem foram identificados como preditores de recanalização fútil. Além disso, o estudo tem limitações, como a exclusão de estudos que não avaliaram resultados funcionais. Os próximos passos incluem a realização de estudos adicionais para validar os achados e desenvolver estratégias para melhorar os resultados dos pacientes com AVC.\n\nA mechanical thrombectomy (MT) therapy has transformed the management of large vessel occlusion stroke; however, a considerable proportion of patients fail to achieve functional recovery despite successful recanalization. This futile recanalization underscores the need to better understand imaging biomarkers that may predict poor outcomes after endovascular therapy. A recent study published in PubMed conducted a systematic review and meta-analysis to synthesize evidence on neuroimaging biomarkers associated with futile recanalization after MT in acute ischemic stroke. The authors searched the PubMed, Scopus, Web of Science, and EMBASE databases up to March 2025, supplemented by manual reference screening. Studies that evaluated adult patients with anterior-circulation stroke who underwent thrombectomy, reported pretreatment neuroimaging findings, and assessed functional outcomes despite successful reperfusion were included. The study's results may contribute to the identification of patients at higher risk of futile recanalization, allowing physicians to make more informed treatment decisions. However, it was not reported which neuroimaging biomarkers were identified as predictors of futile recanalization. Additionally, the study has limitations, such as the exclusion of studies that did not evaluate functional outcomes. The next steps include conducting additional studies to validate the findings and developing strategies to improve outcomes for patients with stroke.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41213813",
+    "authors": [
+      {
+        "name": "Iman Kiani",
+        "affiliation": "From the Students' Scientific Research Center (I.K.), Tehran University of Medical Sciences, Tehran, Iran."
+      },
+      {
+        "name": "Saeed Mohammadzadeh",
+        "affiliation": "Medical School (I.K., S. Mohammadzadeh, S. Mozaffari, H.M.), Tehran University of Medical Sciences, Tehran, Iran."
+      },
+      {
+        "name": "Sana Mozaffari",
+        "affiliation": "Medical School (I.K., S. Mohammadzadeh, S. Mozaffari, H.M.), Tehran University of Medical Sciences, Tehran, Iran."
+      },
+      {
+        "name": "Hanieh Mahmoudzadeh",
+        "affiliation": "Medical School (I.K., S. Mohammadzadeh, S. Mozaffari, H.M.), Tehran University of Medical Sciences, Tehran, Iran."
+      }
+    ],
+    "journal": "AJNR. American journal of neuroradiology",
+    "publishedDate": "2026-04-30",
+    "fetchedDate": "2026-05-01",
+    "category": "Neurologia",
+    "tags": [
+      "stroke"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-40145958",
     "pmid": "40145958",
     "doi": "10.4103/NRR.NRR-D-24-00941",
@@ -192,7 +233,7 @@
       "gene",
       "mutation"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
