@@ -745,6 +745,51 @@
     "aiProvider": "Groq"
   },
   {
+    "id": "pubmed-41744290",
+    "pmid": "41744290",
+    "doi": "10.1200/JCO-25-02834",
+    "title": "Trial Design and Objectives for Patients With Prostate Cancer: Recommendations From the Prostate Cancer Working Group 4.",
+    "titlePt": "Trial Design and Objectives for Patients With Prostate Cancer: Recommendations From the Prostate Cancer Working Group 4.",
+    "abstract": "The continuous development of new imaging approaches, molecular phenotyping, genetic subtypes, prognosis assessments, and effective therapies across a range of disease states has created a need to redefine terminology and best practices for clinical trial conduct in patients with advanced prostate cancer. We convened an international expert committee of diverse working groups, the Prostate Cancer Working Group 4 (PCWG4), between 2016 and 2025. Our objective was to formulate updated criteria based on emerging evidence and clinical trial data in a biomarker context to provide guidance for clinical trial design, eligibility, and end point assessments for patients with advanced prostate cancer. PCWG4 redefines terminology around the disease state and previous therapies in a patient-centric context and terminology focused on androgen pathway modulation. We consider imaging, with a particular focus on positron emission tomography (PET)-defined disease. New recommendations are provided for di",
+    "journalisticSummary": "O avanço contínuo em abordagens de imagem, fenotipagem molecular, subtipos genéticos, avaliações de prognóstico e terapias eficazes em uma ampla gama de estados da doença criou a necessidade de redefinir a terminologia e as melhores práticas para a realização de ensaios clínicos em pacientes com câncer de próstata avançado. Um comitê internacional de especialistas, o Grupo de Trabalho sobre Câncer de Próstata 4 (PCWG4), foi estabelecido entre 2016 e 2025 com o objetivo de formular critérios atualizados com base em evidências emergentes e dados de ensaios clínicos no contexto de biomarcadores. O objetivo era fornecer orientação para o design de ensaios clínicos, elegibilidade e avaliações de pontos finais para pacientes com câncer de próstata avançado. O PCWG4 redefine a terminologia em torno do estado da doença e das terapias anteriores em um contexto centrado no paciente e na modulação da via de andrógenos, considerando a imagem, com foco particular na doença definida por tomografia por emissão de pósitrons (PET). Novas recomendações são fornecidas para a realização de ensaios clínicos, mas não foram informados detalhes sobre os principais achados ou impacto clínico. As limitações e os próximos passos também não foram especificados no resumo disponível.\n\nThe continuous development of new imaging approaches, molecular phenotyping, genetic subtypes, prognosis assessments, and effective therapies across a range of disease states has created a need to redefine terminology and best practices for clinical trial conduct in patients with advanced prostate cancer. An international expert committee, the Prostate Cancer Working Group 4 (PCWG4), was convened between 2016 and 2025 with the objective of formulating updated criteria based on emerging evidence and clinical trial data in a biomarker context to provide guidance for clinical trial design, eligibility, and end point assessments for patients with advanced prostate cancer. The PCWG4 redefines terminology around the disease state and previous therapies in a patient-centric context and terminology focused on androgen pathway modulation, considering imaging, with a particular focus on positron emission tomography (PET)-defined disease. New recommendations are provided for the conduct of clinical trials, but the main findings or clinical impact were not reported. The limitations and next steps were also not specified in the available abstract.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41744290",
+    "authors": [
+      {
+        "name": "Andrew J Armstrong",
+        "affiliation": "Department of Medicine, Duke Cancer Institute Center for Prostate and Urologic Cancer, Duke University, Durham, NC."
+      },
+      {
+        "name": "Michael J Morris",
+        "affiliation": "Memorial Sloan Kettering Cancer Center, New York, NY."
+      },
+      {
+        "name": "Wassim Abida",
+        "affiliation": "Memorial Sloan Kettering Cancer Center, New York, NY."
+      },
+      {
+        "name": "Rahul R Aggarwal",
+        "affiliation": "San Francisco Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA."
+      }
+    ],
+    "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+    "publishedDate": "2026-04-28",
+    "fetchedDate": "2026-05-01",
+    "category": "Genômica",
+    "tags": [
+      "cancer",
+      "genetic",
+      "gene",
+      "rna",
+      "clinical trial"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41582853",
     "pmid": "41582853",
     "doi": "10.1111/pace.70145",
