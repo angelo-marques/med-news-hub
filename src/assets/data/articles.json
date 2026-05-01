@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42065181",
+    "pmid": "42065181",
+    "doi": "10.1097/MD.0000000000048511",
+    "title": "Impact of preoperative femoral vein ultrasound localization on puncture success and procedural complications during radiofrequency catheter ablation for atrial fibrillation: A multicenter study.",
+    "titlePt": "Impact of preoperative femoral vein ultrasound localization on puncture success and procedural complications during radiofrequency catheter ablation for atrial fibrillation: A multicenter study.",
+    "abstract": "Safe and accurate femoral venous access is fundamental to the success of radiofrequency catheter ablation (RFCA) for atrial fibrillation (AF), particularly under uninterrupted anticoagulation, where vascular injury may lead to amplified bleeding and thrombotic risk. Conventional landmark-based puncture is limited by anatomical variability, whereas ultrasound guidance has shown potential to enhance puncture safety. This multicenter retrospective cohort study included 300 AF patients undergoing RFCA across 3 tertiary hospitals from September 2024 to December 2025 under uninterrupted anticoagulation. Patients were assigned to a preprocedural ultrasound localization group (n&#x2005;=&#x2005;150) or a conventional anatomical landmark group (n&#x2005;=&#x2005;150). Baseline characteristics were compared, and puncture efficiency, intraoperative events, puncture-related complications, operative metrics, postoperative recovery, and additional intervention requirements were evaluated. Multivaria",
+    "journalisticSummary": "A ablação por cateter de radiofrequência (RFCA) é um procedimento comum para o tratamento da fibrilação atrial (FA), e o acesso venoso femoral seguro e preciso é fundamental para o sucesso desse procedimento, especialmente em pacientes sob anticoagulação ininterrupta. Nesse contexto, um estudo multicêntrico retrospectivo avaliou o impacto da localização ultrassonográfica pré-operatória da veia femoral naTaxa de sucesso da punção e nas complicações procedimentais durante a RFCA para FA. O estudo incluiu 300 pacientes com FA que foram submetidos à RFCA em três hospitais terciários entre setembro de 2024 e dezembro de 2025. Os pacientes foram divididos em dois grupos: um grupo com localização ultrassonográfica pré-operatória da veia femoral (n = 150) e outro grupo com punção convencional baseada em marcos anatômicos (n = 150). Os resultados mostraram que a localização ultrassonográfica pré-operatória melhorou a eficiência da punção e reduziu as complicações relacionadas à punção. No entanto, não foram fornecidos detalhes sobre as limitações do estudo e os próximos passos para validar esses achados.\n\nA RFCA é um procedimento complexo que requer habilidades técnicas avançadas e conhecimento anatômico preciso. A localização ultrassonográfica pré-operatória da veia femoral pode ser uma ferramenta valiosa para melhorar a segurança e a eficiência desse procedimento. No entanto, são necessários mais estudos para confirmar esses achados e avaliar a aplicabilidade clínica dessa técnica. Além disso, a falta de informações sobre as limitações do estudo e os próximos passos para validar esses achados é uma limitação importante que deve ser abordada em futuras pesquisas.\n\nThe radiofrequency catheter ablation (RFCA) is a common procedure for treating atrial fibrillation (AF), and safe and accurate femoral venous access is fundamental to the success of this procedure, especially in patients under uninterrupted anticoagulation. In this context, a multicenter retrospective cohort study evaluated the impact of preoperative ultrasound localization of the femoral vein on puncture success and procedural complications during RFCA for AF. The study included 300 AF patients who underwent RFCA at three tertiary hospitals between September 2024 and December 2025. Patients were divided into two groups: a group with preoperative ultrasound localization of the femoral vein (n = 150) and another group with conventional anatomical landmark-based puncture (n = 150). The results showed that preoperative ultrasound localization improved puncture efficiency and reduced puncture-related complications. However, no details were provided on the study's limitations and next steps to validate these findings.\n\nRFCA is a complex procedure that requires advanced technical skills and precise anatomical knowledge. Preoperative ultrasound localization of the femoral vein may be a valuable tool to improve the safety and efficiency of this procedure. However, further studies are needed to confirm these findings and assess the clinical applicability of this technique. Moreover, the lack of information on the study's limitations and next steps to validate these findings is a significant limitation that should be addressed in future research.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42065181",
+    "authors": [
+      {
+        "name": "Xiaobo Liao",
+        "affiliation": "Department of Cardiovascular Medicine, FuLing Hospital Affiliated to Chongqing University, Chongqing City, China."
+      },
+      {
+        "name": "Qiao Xiao",
+        "affiliation": "Department of Cardiovascular Medicine, The Central Hospital of Yueyang, Yueyang City, Hunan Province, China."
+      },
+      {
+        "name": "Xueyuan Guo",
+        "affiliation": "Department of Arrhythmia Center, Beijing Anzhen Hospital, Capital Medical University, Beijing City, China."
+      },
+      {
+        "name": "Yunong Li",
+        "affiliation": "Department of Cardiovascular Medicine, FuLing Hospital Affiliated to Chongqing University, Chongqing City, China."
+      }
+    ],
+    "journal": "Medicine",
+    "publishedDate": "2026-05-01",
+    "fetchedDate": "2026-05-01",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41213813",
     "pmid": "41213813",
     "doi": "10.3174/ajnr.A9095",
@@ -193,7 +234,7 @@
     "tags": [
       "cardiovascular"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
