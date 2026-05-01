@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42065803",
+    "pmid": "42065803",
+    "doi": "10.1007/s13760-026-03039-3",
+    "title": "Exploring the fatigue phenomenon in individuals with Parkinson's disease: an Italian multicenter cross-sectional study.",
+    "titlePt": "Exploring the fatigue phenomenon in individuals with Parkinson's disease: an Italian multicenter cross-sectional study.",
+    "abstract": "Fatigue is a common and disabling non-motor symptom in Parkinson's disease (PD), significantly affecting patients' quality of life. However, it is often underdiagnosed due to its subjective nature and the lack of a clear definition, hindering the development of effective treatments. This study aims to investigate the prevalence of fatigue and its associations with sociodemographic factors, disease severity, levodopa equivalent daily dosage (LEDD) and motor, non-motor, and cognitive symptoms in an Italian cohort of patients with PD. An observational cross-sectional study was carried out in three Italian centers from January to May 2024. One hundred PD patients (H&amp;Y&#x2009;&#x2264;&#x2009;4) were assessed using validated tools: Parkinson Fatigue Scale (PFS), Fatigue Severity Scale, and Modified Fatigue Impact Scale. Motor and non-motor signs and symptoms, cognitive status, and LEDD were analyzed using non-parametric tests and Spearman's correlations. Fatigue prevalence was determined",
+    "journalisticSummary": "A fadiga é um sintoma não motor comum e incapacitante na doença de Parkinson (DP), afetando significativamente a qualidade de vida dos pacientes. No entanto, é frequentemente subdiagnosticada devido à sua natureza subjetiva e à falta de uma definição clara, o que dificulta o desenvolvimento de tratamentos eficazes. Um estudo italiano multicêntrico e transversal buscou investigar a prevalência da fadiga e suas associações com fatores sociodemográficos, gravidade da doença, dose diária equivalente de levodopa (LEDD) e sintomas motores, não motores e cognitivos em uma coorte italiana de pacientes com DP. Foram avaliados 100 pacientes com DP em três centros italianos entre janeiro e maio de 2024, utilizando ferramentas validadas como a Escala de Fadiga de Parkinson (PFS), Escala de Severidade da Fadiga e Escala de Impacto da Fadiga Modificada. Os sinais e sintomas motores e não motores, o status cognitivo e a LEDD foram analisados por meio de testes não paramétricos e correlações de Spearman. A prevalência da fadiga foi determinada, mas não foi informado no resumo original qual foi o resultado exato dessa determinação. Os achados principais incluem a relação entre a fadiga e vários fatores, o que pode ter implicações clínicas importantes para o manejo da DP. Limitações do estudo incluem a natureza transversal, que não permite a inferência de causalidade, e a falta de informações sobre a determinação da prevalência da fadiga. Próximos passos poderiam incluir estudos longitudinais para explorar a evolução da fadiga ao longo do tempo e investigar intervenções específicas para aliviar este sintoma debilitante.\n\nThe fatigue phenomenon is a common and disabling non-motor symptom in Parkinson's disease (PD), significantly affecting patients' quality of life. However, it is often underdiagnosed due to its subjective nature and the lack of a clear definition, hindering the development of effective treatments. An Italian multicenter cross-sectional study aimed to investigate the prevalence of fatigue and its associations with sociodemographic factors, disease severity, levodopa equivalent daily dosage (LEDD), and motor, non-motor, and cognitive symptoms in an Italian cohort of patients with PD. One hundred PD patients were assessed in three Italian centers from January to May 2024, using validated tools: the Parkinson Fatigue Scale (PFS), Fatigue Severity Scale, and Modified Fatigue Impact Scale. Motor and non-motor signs and symptoms, cognitive status, and LEDD were analyzed using non-parametric tests and Spearman's correlations. The prevalence of fatigue was determined, but the exact result of this determination was not reported in the original abstract. The main findings include the relationship between fatigue and various factors, which may have important clinical implications for the management of PD. Limitations of the study include the cross-sectional nature, which does not allow for causal inference, and the lack of information on the determination of fatigue prevalence. Future steps could include longitudinal studies to explore the evolution of fatigue over time and investigate specific interventions to alleviate this debilitating symptom.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42065803",
+    "authors": [
+      {
+        "name": "Elisabetta Sarasso",
+        "affiliation": "Neuroimaging Research Unit, Division of Neuroscience, IRCCS San Raffaele Scientific Institute, Milan, Italy."
+      },
+      {
+        "name": "Elisa Pelosin",
+        "affiliation": "Vita-Salute San Raffaele University, Milan, Italy."
+      },
+      {
+        "name": "Ilaria Ruotolo",
+        "affiliation": "Neurotech Hub, Vita-Salute San Raffaele University, Milan, Italy."
+      },
+      {
+        "name": "Manuela Maieron",
+        "affiliation": "Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics and Maternal Child Health, University of Genoa, Genoa, Italy."
+      }
+    ],
+    "journal": "Acta neurologica Belgica",
+    "publishedDate": "2026-05-01",
+    "fetchedDate": "2026-05-01",
+    "category": "Neurologia",
+    "tags": [
+      "parkinson",
+      "cognitive"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42065181",
     "pmid": "42065181",
     "doi": "10.1097/MD.0000000000048511",
@@ -193,7 +235,7 @@
       "myocardial",
       "hypertension"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
