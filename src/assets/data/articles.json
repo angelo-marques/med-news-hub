@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42084873",
+    "pmid": "42084873",
+    "doi": "10.1001/jamanetworkopen.2026.10702",
+    "title": "Social Risk Factors and Disparities in Advanced Cardiovascular-Kidney-Metabolic Syndrome.",
+    "titlePt": "Social Risk Factors and Disparities in Advanced Cardiovascular-Kidney-Metabolic Syndrome.",
+    "abstract": "Social risk factors contribute to cardiovascular, kidney, and metabolic disease; however, their associations with advanced cardiovascular-kidney-metabolic (CKM) syndrome and variation across demographic subgroups remain unclear. To examine the association between individual social risk factors and advanced CKM syndrome and to assess whether these associations vary by age group, sex, and race and ethnicity. This is a cross-sectional study of adults aged 30 years or older from the National Health and Nutrition Examination Survey 2005 to 2018 cycles. Data analysis was conducted from July to October 2025. Analyses incorporated survey weights to generate nationally representative estimates. Five social risk domains: economic instability, poor neighborhood environment, limited education, limited health care access, and poor social and/or community context. The primary outcome was advanced CKM syndrome (stages 3-4) defined using American Heart Association criteria. Following tests for interac",
+    "journalisticSummary": "Um estudo recente publicado no JAMA Network Open investigou a relação entre fatores de risco sociais e a síndrome cardiovascular-renal-metabólica (CKM) avançada. Os pesquisadores analisaram dados de adultos com 30 anos ou mais, coletados entre 2005 e 2018, e identificaram cinco domínios de risco social: instabilidade econômica, ambiente de bairro pobre, educação limitada, acesso limitado à saúde e contexto social e/ou comunitário pobre. O estudo encontrou uma associação significativa entre esses fatores de risco sociais e a síndrome CKM avançada, definida como estágios 3-4 de acordo com os critérios da American Heart Association. Além disso, as análises sugeriram que essas associações variam por idade, sexo e raça e etnia. Embora o estudo não tenha fornecido informações detalhadas sobre as implicações clínicas específicas, os achados destacam a importância de considerar os fatores de risco sociais no manejo e prevenção da síndrome CKM. Limitações do estudo incluem o design transversal, que não permite inferir causalidade, e a falta de informações sobre as intervenções específicas que poderiam mitigar os efeitos dos fatores de risco sociais. Futuras pesquisas devem explorar essas questões e investigar estratégias para reduzir as desigualdades em saúde relacionadas à síndrome CKM.\n\nA recent study published in JAMA Network Open investigated the relationship between social risk factors and advanced cardiovascular-kidney-metabolic (CKM) syndrome. Researchers analyzed data from adults aged 30 years or older, collected between 2005 and 2018, and identified five social risk domains: economic instability, poor neighborhood environment, limited education, limited healthcare access, and poor social and/or community context. The study found a significant association between these social risk factors and advanced CKM syndrome, defined as stages 3-4 according to the American Heart Association criteria. Furthermore, analyses suggested that these associations vary by age, sex, and race and ethnicity. Although the study did not provide detailed information on specific clinical implications, the findings highlight the importance of considering social risk factors in the management and prevention of CKM syndrome. Limitations of the study include the cross-sectional design, which does not allow for causal inference, and the lack of information on specific interventions that could mitigate the effects of social risk factors. Future research should explore these issues and investigate strategies to reduce health disparities related to CKM syndrome.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42084873",
+    "authors": [
+      {
+        "name": "Obinna Ekwunife",
+        "affiliation": "Division of Population Health, Department of Medicine, Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, Buffalo, New York."
+      },
+      {
+        "name": "Xuemeng Wang",
+        "affiliation": "Division of Population Health, Department of Medicine, Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, Buffalo, New York."
+      },
+      {
+        "name": "Raphael A Fraser",
+        "affiliation": "Division of Population Health, Department of Medicine, Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, Buffalo, New York."
+      },
+      {
+        "name": "Alexander Yunke",
+        "affiliation": "Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, Buffalo, New York."
+      }
+    ],
+    "journal": "JAMA network open",
+    "publishedDate": "2026-05-05",
+    "fetchedDate": "2026-05-05",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "heart",
+      "gene",
+      "metabolic"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42084585",
     "pmid": "42084585",
     "doi": "10.1016/j.annemergmed.2026.03.020",
@@ -208,7 +252,7 @@
       "alzheimer",
       "diabetes"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Groq"
