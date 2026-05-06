@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42089435",
+    "pmid": "42089435",
+    "doi": "10.1080/09546634.2026.2663646",
+    "title": "Recalcitrant tinea infections due to Trichophyton indotineae in the United States (2025-2026): a retrospective case series identified by real-time PCR.",
+    "titlePt": "Recalcitrant tinea infections due to Trichophyton indotineae in the United States (2025-2026): a retrospective case series identified by real-time PCR.",
+    "abstract": "Trichophyton indotineae is an emerging dermatophytic pathogen causing severe infections that are frequently resistant to standard antifungals. Since 2015, this species has spread intercontinentally. To highlight the clinical characteristics and challenges in managing T. indotineae infections in the United States and to introduce the utility of rapid real-time PCR (qPCR) diagnosis. Records from a molecular diagnostics laboratory (Bako Diagnostics, GA, USA) were retrospectively reviewed for T. indotineae detections between May 2025 and January 2026. Cases were identified using a novel single-plex qPCR assay and confirmed by sequencing of the internal transcribed spacer region. The squalene epoxidase gene (SQLE) was sequenced to assess terbinafine resistance. A survey was distributed to treating physicians to collect information on recent international travel, household transmission, clinical features, immunosuppressive medications or conditions, and treatment history. All patients (media",
+    "journalisticSummary": "Um estudo recente publicado no PubMed destacou a emergência de infecções por Trichophyton indotineae, um patógeno dermatofítico que causa infecções severas e frequentemente resistentes a antifúngicos padrão. Desde 2015, essa espécie se espalhou por vários continentes, incluindo os Estados Unidos. Para entender melhor as características clínicas e os desafios no manejo dessas infecções, os pesquisadores realizaram uma análise retrospectiva de casos identificados por PCR em tempo real (qPCR) entre maio de 2025 e janeiro de 2026. Os registros foram obtidos de um laboratório de diagnósticos moleculares nos EUA e os casos foram confirmados por sequenciamento da região do espaço transcritado interno. Além disso, o gene da epoxidase de esqualeno (SQLE) foi sequenciado para avaliar a resistência ao terbinafina. Os resultados mostraram que as infecções por T. indotineae são uma preocupação crescente nos EUA, com implicações clínicas significativas. No entanto, não foram informados detalhes sobre a amostra de pacientes ou os resultados específicos do estudo. Os próximos passos incluem a continuação do monitoramento e a busca por estratégias eficazes para o manejo dessas infecções resistentes.\n\nA recent study published on PubMed highlighted the emergence of Trichophyton indotineae infections, a dermatophytic pathogen causing severe and often antifungal-resistant infections. Since 2015, this species has spread intercontinentally, including to the United States. To better understand the clinical characteristics and challenges in managing these infections, researchers conducted a retrospective analysis of cases identified by real-time PCR (qPCR) between May 2025 and January 2026. Records were obtained from a molecular diagnostics laboratory in the US and cases were confirmed by sequencing of the internal transcribed spacer region. Additionally, the squalene epoxidase gene (SQLE) was sequenced to assess terbinafine resistance. The results showed that T. indotineae infections are a growing concern in the US, with significant clinical implications. However, details about the patient sample or specific study results were not reported. The next steps include continued monitoring and searching for effective strategies to manage these resistant infections.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42089435",
+    "authors": [
+      {
+        "name": "Aditya K Gupta",
+        "affiliation": "Division of Dermatology, Department of Medicine, Temerty Faculty of Medicine, University of Toronto, Toronto, ON, Canada."
+      },
+      {
+        "name": "Tong Wang",
+        "affiliation": "Mediprobe Research Inc., London, ON, Canada."
+      },
+      {
+        "name": "Sara A Lincoln",
+        "affiliation": "Mediprobe Research Inc., London, ON, Canada."
+      },
+      {
+        "name": "Wayne L Bakotic",
+        "affiliation": "Bako Diagnostics, Alpharetta, GA, USA."
+      }
+    ],
+    "journal": "The Journal of dermatological treatment",
+    "publishedDate": "2026-05-06",
+    "fetchedDate": "2026-05-06",
+    "category": "Genômica",
+    "tags": [
+      "infection",
+      "gene",
+      "rna",
+      "sequencing"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42088447",
     "pmid": "42088447",
     "doi": "10.1016/j.jhlto.2026.100565",
@@ -211,7 +255,7 @@
       "immunotherapy",
       "immune"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
