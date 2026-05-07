@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42096239",
+    "pmid": "42096239",
+    "doi": "10.1001/jama.2026.5164",
+    "title": "Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial.",
+    "titlePt": "Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial.",
+    "abstract": "Despite high recanalization rates with endovascular thrombectomy for acute ischemic stroke due to large vessel occlusion, functional outcomes remain suboptimal. The benefit of adjunctive intra-arterial thrombolysis after successful thrombectomy is uncertain. To assess whether adjunctive intra-arterial alteplase after successful thrombectomy improves functional outcomes and cerebral reperfusion. Randomized, open-label trial with blinded outcome assessment conducted at 14 stroke centers in Spain from December 11, 2023, through November 26, 2025. A total of 440 patients with acute ischemic stroke due to large vessel occlusion treated with thrombectomy within 24 hours and achieving an expanded Treatment in Cerebral Ischemia score of 2b50 to 3 were randomized. Thrombectomy plus intra-arterial alteplase (0.225 mg/kg; maximum dose, 20 mg/kg) infused over 15 minutes (n&#x2009;=&#x2009;221) or thrombectomy alone (n&#x2009;=&#x2009;219). The primary outcome was an excellent functional outcome at",
+    "journalisticSummary": "O tratamento de acidente vascular cerebral isquêmico agudo devido à oclusão de vasos sanguíneos grandes ainda apresenta desafios significativos, apesar dos altos índices de recanalização alcançados com a trombectomia endovascular. Os resultados funcionais permanecem subótimos, o que levanta questões sobre a eficácia de terapias adicionais para melhorar os desfechos clínicos. Um estudo recente publicado na revista JAMA, intitulado \"CHOICE-2\", investigou o benefício da trombólise intra-arterial com alteplase após trombectomia bem-sucedida. A pesquisa, conduzida em 14 centros de acidente vascular cerebral na Espanha, randomizou 440 pacientes com acidente vascular cerebral isquêmico agudo devido à oclusão de vasos sanguíneos grandes, que foram tratados com trombectomia dentro de 24 horas e alcançaram um escore de Tratamento em Isquemia Cerebral expandido de 2b50 a 3.\n\nOs pacientes foram randomizados para receber trombectomia mais alteplase intra-arterial (0,225 mg/kg, com dose máxima de 20 mg/kg, infundida por 15 minutos) ou apenas trombectomia. O desfecho primário foi um resultado funcional excelente. No entanto, não foram fornecidos detalhes sobre os resultados específicos do estudo, o que limita a análise do impacto clínico da terapia adjuvante com alteplase. Além disso, as limitações do estudo, como a falta de informações sobre os desfechos secundários e a generalização dos resultados para outras populações, precisam ser consideradas. Os próximos passos incluem a análise detalhada dos dados do estudo CHOICE-2 e a investigação de outras terapias adjuvantes para melhorar os resultados funcionais em pacientes com acidente vascular cerebral isquêmico agudo.\n\nThe treatment of acute ischemic stroke due to large vessel occlusion still presents significant challenges, despite the high recanalization rates achieved with endovascular thrombectomy. Functional outcomes remain suboptimal, raising questions about the effectiveness of additional therapies to improve clinical outcomes. A recent study published in the JAMA journal, titled \"CHOICE-2\", investigated the benefit of intra-arterial thrombolysis with alteplase after successful thrombectomy. The research, conducted at 14 stroke centers in Spain, randomized 440 patients with acute ischemic stroke due to large vessel occlusion, who were treated with thrombectomy within 24 hours and achieved an expanded Treatment in Cerebral Ischemia score of 2b50 to 3.\n\nPatients were randomized to receive thrombectomy plus intra-arterial alteplase (0.225 mg/kg, with a maximum dose of 20 mg/kg, infused over 15 minutes) or thrombectomy alone. The primary outcome was an excellent functional outcome. However, specific details about the study's outcomes were not provided, which limits the analysis of the clinical impact of adjunctive therapy with alteplase. Additionally, the study's limitations, such as the lack of information about secondary outcomes and the generalization of results to other populations, need to be considered. The next steps include a detailed analysis of the CHOICE-2 study data and the investigation of other adjunctive therapies to improve functional outcomes in patients with acute ischemic stroke.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42096239",
+    "authors": [
+      {
+        "name": "Arturo Ren&#xfa;",
+        "affiliation": "Comprehensive Stroke Center, Hospital Clinic of Barcelona, University of Barcelona, Barcelona, Spain."
+      },
+      {
+        "name": "Mar&#xed;a Dolores Fern&#xe1;ndez-Couto",
+        "affiliation": "Institut d'Investigacions Biom&#xe9;diques Agust Pi I Sunyer, Barcelona, Spain."
+      },
+      {
+        "name": "Patricia de la Riva",
+        "affiliation": "Department of Neurology, Complexo Hospitalario Universitario A Coru&#xf1;a, Coru&#xf1;a, Spain."
+      },
+      {
+        "name": "Raquel Delgado-Mederos",
+        "affiliation": "Department of Neurology, Donostia Ospitalea, San Sebasti&#xe1;n, Spain."
+      }
+    ],
+    "journal": "JAMA",
+    "publishedDate": "2026-05-07",
+    "fetchedDate": "2026-05-07",
+    "category": "Neurologia",
+    "tags": [
+      "stroke",
+      "clinical trial"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42092789",
     "pmid": "42092789",
     "doi": "10.1186/s12872-026-05937-z",
@@ -210,7 +252,7 @@
       "children",
       "vaccine"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
