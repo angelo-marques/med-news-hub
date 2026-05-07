@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42092784",
+    "pmid": "42092784",
+    "doi": "10.1186/s12876-026-04889-0",
+    "title": "Plasma YAP1 as a biomarker for the prediction of occurrence, progression, and outcomes of sepsis-associated liver injury: a prospective observational study.",
+    "titlePt": "Plasma YAP1 as a biomarker for the prediction of occurrence, progression, and outcomes of sepsis-associated liver injury: a prospective observational study.",
+    "abstract": "Sepsis-associated liver injury (SALI) is an independent risk factor for multiple organ dysfunction and high mortality in septic patients, which is often associated with a poor prognosis. Currently, there is still a lack of early diagnostic biomarkers of Sepsis-Associated Liver Injury in clinical practice. YAP1 (Yes1 Associated Transcriptional Regulator) has been demonstrated to correlate with hepatic inflammation, nevertheless, its exact function and mechanism in sepsis-associated liver injury have not been conclusively determined. Clinical data of septic patients in the ICU of Northern Jiangsu People's Hospital (Oct. 2023 - Dec. 2025) were reviewed. Patients were classified into sepsis non-liver injury (SNLI) and SALI groups according to the presence or absence of liver injury at admission. Logistic regression was used to identify independent risk factors for SALI. Receiver operating characteristic (ROC) analysis assessed predictive performance. Patients were stratified by plasma YAP1",
+    "journalisticSummary": "Um estudo recente publicado na literatura científica busca entender melhor a lesão hepática associada à sepse (SALI), uma condição que aumenta significativamente o risco de disfunção de múltiplos ��rgãos e mortalidade em pacientes sépticos. A falta de biomarcadores diagnósticos precoces para SALI é um desafio significativo na prática clínica. Nesse contexto, a proteína YAP1 (Regulador Transcricional Associado a Yes1) tem sido investigada devido à sua correlação com inflamação hepática. No entanto, seu papel exato e mecanismo na lesão hepática associada à sepse ainda não foram completamente elucidados. Para abordar essa lacuna, os pesquisadores analisaram dados clínicos de pacientes sépticos admitidos na Unidade de Terapia Intensiva (UTI) do Hospital Popular de Jiangsu Norte, entre outubro de 2023 e dezembro de 2025. Os pacientes foram classificados em dois grupos: lesão hepática associada à sepse (SALI) e sepse sem lesão hepática (SNLI), com base na presença ou ausência de lesão hepática na admissão. A análise de regressão logística foi utilizada para identificar fatores de risco independentes para SALI, enquanto a curva de características operacionais do receptor (ROC) avaliou o desempenho preditivo. Os resultados mostraram que o nível plasmático de YAP1 pode ser um biomarcador potencial para a previsão da ocorrência, progressão e resultados de SALI. No entanto, os detalhes específicos sobre como YAP1 atua na patogênese da SALI e como seu nível plasmático se correlaciona com a gravidade da doença não foram completamente explorados no resumo disponível. Além disso, as limitações do estudo, como a falta de informações sobre a generalização dos resultados para outras populações, não foram explicitamente discutidas. Futuros estudos são necessários para elucidar o papel de YAP1 na SALI e explorar seu potencial como um biomarcador clínico.\n\nA recent study published in the scientific literature seeks to better understand sepsis-associated liver injury (SALI), a condition that significantly increases the risk of multiple organ dysfunction and mortality in septic patients. The lack of early diagnostic biomarkers for SALI is a significant challenge in clinical practice. In this context, the YAP1 (Yes1 Associated Transcriptional Regulator) protein has been investigated due to its correlation with hepatic inflammation. However, its exact role and mechanism in sepsis-associated liver injury have not been fully elucidated. To address this gap, researchers analyzed clinical data from septic patients admitted to the Intensive Care Unit (ICU) of Northern Jiangsu People's Hospital between October 2023 and December 2025. Patients were classified into two groups: sepsis-associated liver injury (SALI) and sepsis without liver injury (SNLI), based on the presence or absence of liver injury at admission. Logistic regression analysis was used to identify independent risk factors for SALI, while the receiver operating characteristic (ROC) curve assessed predictive performance. The results showed that plasma YAP1 levels may be a potential biomarker for predicting the occurrence, progression, and outcomes of SALI. However, the specific details on how YAP1 acts in the pathogenesis of SALI and how its plasma level correlates with disease severity were not fully explored in the available abstract. Additionally, the study's limitations, such as the lack of information on generalizing the results to other populations, were not explicitly discussed. Further studies are needed to elucidate the role of YAP1 in SALI and explore its potential as a clinical biomarker.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42092784",
+    "authors": [
+      {
+        "name": "Jun Shao",
+        "affiliation": "Department of Center for Cardiac Macrovascular Disease, Northern Jiangsu People's Hospital, Yangzhou Clinical Medical College of Xuzhou Medical University, Yangzhou, Jiangsu, 225001, China."
+      },
+      {
+        "name": "Lulu Zhou",
+        "affiliation": "Department of Intensive Care Unit, Northern Jiangsu People's Hospital, Yangzhou Clinical Medical College of Xuzhou Medical University, Yangzhou, Jiangsu, 225001, China."
+      },
+      {
+        "name": "Haoran Wang",
+        "affiliation": "Department of Intensive Care Unit, Northern Jiangsu People's Hospital, Yangzhou Clinical Medical College of Xuzhou Medical University, Yangzhou, Jiangsu, 225001, China."
+      },
+      {
+        "name": "Xiaohua Gu",
+        "affiliation": "Department of Intensive Care Unit, Northern Jiangsu People's Hospital, Yangzhou Clinical Medical College of Xuzhou Medical University, Yangzhou, Jiangsu, 225001, China."
+      }
+    ],
+    "journal": "BMC gastroenterology",
+    "publishedDate": "2026-05-07",
+    "fetchedDate": "2026-05-07",
+    "category": "Infectologia",
+    "tags": [
+      "sepsis"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42091157",
     "pmid": "42091157",
     "doi": "10.1136/bmjopen-2026-118137",
@@ -213,7 +254,7 @@
       "metabolic",
       "obesity"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
