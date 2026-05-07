@@ -1,5 +1,137 @@
 [
   {
+    "id": "pubmed-42092789",
+    "pmid": "42092789",
+    "doi": "10.1186/s12872-026-05937-z",
+    "title": "The prognostic value of left atrial low-voltage areas in atrial fibrillation recurrence after pulmonary vein isolation: a systematic review and meta-analysis.",
+    "titlePt": "The prognostic value of left atrial low-voltage areas in atrial fibrillation recurrence after pulmonary vein isolation: a systematic review and meta-analysis.",
+    "abstract": "To systematically evaluate the role of left atrial low-voltage areas (LVA) as a preoperative risk marker of atrial fibrillation/atrial tachycardia (AF/AT) recurrence following pulmonary vein isolation (PVI) in patients with non-valvular AF. A comprehensive literature search of PubMed, Embase, Web of Science, and the Cochrane Library was conducted up to November 29, 2025, to identify eligible cohort studies assessing AF/AT recurrence outcomes in patients undergoing PVI. Random- or fixed-effects models were used to calculate pooled hazard ratios (HRs) with 95% confidence intervals (CIs). Subgroup and meta-regression analyses were performed to explore the sources of heterogeneity. Study quality was assessed using the Newcastle-Ottawa Scale. A meta-analysis of 15 observational studies (n&#x2009;=&#x2009;3,957) was performed to assess the association between LVA (defined as bipolar voltage&#x2009;&lt;&#x2009;0.5 mV) and post-PVI recurrence of AF/AT. LVA presence was significantly associated",
+    "journalisticSummary": "A presença de áreas de baixa voltagem no átrio esquerdo tem sido estudada como um marcador de risco pré-operatório para a recorrência de fibrilação atrial/taquicardia atrial após a isolamento das veias pulmonares. Um estudo recente publicado no PubMed realizou uma revisão sistemática e metanálise de 15 estudos observacionais que avaliaram a recorrência de fibrilação atrial/taquicardia atrial em pacientes submetidos à isolamento das veias pulmonares. Os resultados mostraram que a presença de áreas de baixa voltagem no átrio esquerdo, definidas como uma voltagem bipolar inferior a 0,5 mV, estava significativamente associada à recorrência de fibrilação atrial/taquicardia atrial após o procedimento. A metanálise, que incluiu 3.957 pacientes, utilizou modelos de efeitos aleatórios ou fixos para calcular as razões de risco pooladas com intervalos de confiança de 95%. Análises de subgrupos e metarregressão foram realizadas para explorar as fontes de heterogeneidade. A qualidade dos estudos foi avaliada utilizando a Escala de Newcastle-Ottawa. Embora os achados sugiram que as áreas de baixa voltagem no átrio esquerdo podem ser um marcador prognóstico útil para a recorrência de fibrilação atrial/taquicardia atrial, os autores destacam a necessidade de mais pesquisas para confirmar esses resultados e explorar as implicações clínicas. Além disso, não foi informado o impacto específico dessas áreas na tomada de decisões clínicas ou nos resultados dos pacientes.\n\nThe presence of low-voltage areas in the left atrium has been studied as a preoperative risk marker for the recurrence of atrial fibrillation/atrial tachycardia after pulmonary vein isolation. A recent study published on PubMed conducted a systematic review and meta-analysis of 15 observational studies that assessed the recurrence of atrial fibrillation/atrial tachycardia in patients undergoing pulmonary vein isolation. The results showed that the presence of low-voltage areas in the left atrium, defined as a bipolar voltage less than 0.5 mV, was significantly associated with the recurrence of atrial fibrillation/atrial tachycardia after the procedure. The meta-analysis, which included 3,957 patients, used random or fixed effects models to calculate pooled hazard ratios with 95% confidence intervals. Subgroup and meta-regression analyses were performed to explore the sources of heterogeneity. Study quality was assessed using the Newcastle-Ottawa Scale. Although the findings suggest that low-voltage areas in the left atrium may be a useful prognostic marker for the recurrence of atrial fibrillation/atrial tachycardia, the authors highlight the need for further research to confirm these results and explore the clinical implications. Additionally, the specific impact of these areas on clinical decision-making or patient outcomes was not reported.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42092789",
+    "authors": [
+      {
+        "name": "Yihui Cao",
+        "affiliation": "Department of Cardiology, Huashan Hospital, Fudan University, No. 12 Wulumuqi Zhong Road, Jing'an District, Shanghai, 200040, China."
+      },
+      {
+        "name": "Nanqing Xiong",
+        "affiliation": "Department of Cardiology, Huashan Hospital, Fudan University, No. 12 Wulumuqi Zhong Road, Jing'an District, Shanghai, 200040, China."
+      },
+      {
+        "name": "Wen Gao",
+        "affiliation": "Department of Cardiology, Huashan Hospital, Fudan University, No. 12 Wulumuqi Zhong Road, Jing'an District, Shanghai, 200040, China."
+      },
+      {
+        "name": "Wentao Gu",
+        "affiliation": "Department of Cardiology, Huashan Hospital, Fudan University, No. 12 Wulumuqi Zhong Road, Jing'an District, Shanghai, 200040, China."
+      }
+    ],
+    "journal": "BMC cardiovascular disorders",
+    "publishedDate": "2026-05-07",
+    "fetchedDate": "2026-05-07",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial",
+      "gene"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-42095034",
+    "pmid": "42095034",
+    "doi": "10.1055/a-2639-5790",
+    "title": "Comprehensive Genomic Profiling of Sinonasal Carcinomas: Identification of Common Mutations and Potential Targets for Therapy.",
+    "titlePt": "Comprehensive Genomic Profiling of Sinonasal Carcinomas: Identification of Common Mutations and Potential Targets for Therapy.",
+    "abstract": "Sinonasal cancers are malignant neoplasms arising from the nasal cavity and paranasal sinuses, including squamous cell carcinoma (SCC), adenocarcinoma, and undifferentiated carcinoma. Due to their rarity, comprehensive genomic data remain limited. Treatments include surgery, radiation, and chemotherapy, with ongoing trials investigating agents like cetuximab, cisplatin, and Tazemetostat. We analyzed sinonasal cancer cases from the American Association for Cancer Research (AACR) Project Genomics Evidence Neoplasia Information Exchange (GENIE) database via cBioPortal (v16.1-public, accessed July 22, 2024). Common gene mutations, correlations, and mutual exclusivities were assessed using statistical analyses with false discovery rate correction. Of 2,595 head and neck cancer samples, 122 (4.7%) were sinonasal carcinoma: 70 (57.4%) SCC, 31 (25.4%) undifferentiated carcinoma, and 21 (17.2%) adenocarcinomas. The most frequent mutations were TP53 (tumor protein 53; 40%), PIK3CA (phosphatidyli",
+    "journalisticSummary": "Os cânceres sinusais são neoplasmas malignos que surgem da cavidade nasal e seios paranasais, incluindo carcinoma de células escamosas (SCC), adenocarcinoma e carcinoma indiferenciado. Devido à sua raridade, os dados genômicos abrangentes ainda são limitados. Os tratamentos incluem cirurgia, radiação e quimioterapia, com ensaios clínicos em andamento investigando agentes como cetuximabe, cisplatina e Tazemetostat. Um estudo recente publicado no PubMed analisou casos de câncer sinusal do banco de dados do Projeto Genomics Evidence Neoplasia Information Exchange (GENIE) da American Association for Cancer Research (AACR) por meio do cBioPortal. Os resultados mostraram que, entre 2.595 amostras de câncer de cabeça e pescoço, 122 (4,7%) eram carcinomas sinusais, sendo 70 (57,4%) SCC, 31 (25,4%) carcinomas indiferenciados e 21 (17,2%) adenocarcinomas. As mutações genéticas mais frequentes encontradas foram TP53 (40%) e PIK3CA. Esses achados podem ter implicações importantes para o desenvolvimento de terapias direcionadas para esses tipos de câncer. No entanto, os autores do estudo destacam que mais pesquisas são necessárias para confirmar esses resultados e explorar suas implicações clínicas. Além disso, não foram fornecidos dados sobre as limitações do estudo, o que pode ser um ponto importante a ser considerado em futuras investigações.\n\nThe sinonasal cancers are malignant neoplasms arising from the nasal cavity and paranasal sinuses, including squamous cell carcinoma (SCC), adenocarcinoma, and undifferentiated carcinoma. Due to their rarity, comprehensive genomic data remain limited. Treatments include surgery, radiation, and chemotherapy, with ongoing trials investigating agents like cetuximab, cisplatin, and Tazemetostat. A recent study published on PubMed analyzed sinonasal cancer cases from the American Association for Cancer Research (AACR) Project Genomics Evidence Neoplasia Information Exchange (GENIE) database via cBioPortal. The results showed that, out of 2,595 head and neck cancer samples, 122 (4.7%) were sinonasal carcinomas, with 70 (57.4%) being SCC, 31 (25.4%) undifferentiated carcinomas, and 21 (17.2%) adenocarcinomas. The most frequent gene mutations found were TP53 (40%) and PIK3CA. These findings may have important implications for the development of targeted therapies for these types of cancer. However, the study's authors highlight that more research is needed to confirm these results and explore their clinical implications. Additionally, no data were provided on the study's limitations, which may be an important point to consider in future investigations.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42095034",
+    "authors": [
+      {
+        "name": "Gabriel Bitar",
+        "affiliation": "School of Medicine, Creighton University, Phoenix, Arizona, United States."
+      },
+      {
+        "name": "Beau Hsia",
+        "affiliation": "School of Medicine, Creighton University, Phoenix, Arizona, United States."
+      },
+      {
+        "name": "Saif Alshaka",
+        "affiliation": "School of Medicine, Creighton University, Phoenix, Arizona, United States."
+      },
+      {
+        "name": "Bastien A Valencia",
+        "affiliation": "Department of Otolaryngology-Head and Neck Surgery, Mayo Clinic Florida, Jacksonville, Florida, United States."
+      }
+    ],
+    "journal": "Journal of neurological surgery. Part B, Skull base",
+    "publishedDate": "2026-05-07",
+    "fetchedDate": "2026-05-07",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "carcinoma",
+      "chemotherapy",
+      "genomic"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-42095028",
+    "pmid": "42095028",
+    "doi": "10.1055/a-2639-5690",
+    "title": "Molecular Profiling of Olfactory Neuroblastoma Using the AACR Project GENIE Database.",
+    "titlePt": "Molecular Profiling of Olfactory Neuroblastoma Using the AACR Project GENIE Database.",
+    "abstract": "Olfactory neuroblastoma (ONB) is a rare head and neck cancer arising from the upper nasal cavity, with limited systemic therapeutic options due to a poor understanding of its genomic landscape. This study aims to utilize a patient-level genomic repository to identify potential therapeutic targets and improve disease modeling in ONB. Retrospective genomic analysis. Data analysis was performed using the American Association for Cancer Research (AACR) Project Genomics Evidence Neoplasia Information Exchange (GENIE) database. Patients with confirmed ONB who have undergone targeted sequencing within GENIE. Data were analyzed for recurrent somatic mutations, along with their clinical and demographic correlations, with significance set at p &#x2009;&lt;&#x2009;0.05. A high prevalence of mutations in TP53 (tumor protein p53) and FRK (fibroblast growth factor receptor kinase) genes was identified. A moderate prevalence of mutations in NOTCH3 (notch receptor 3), SMARCA4 (SWI/SNF related, matrix ",
+    "journalisticSummary": "O olfato neuroblastoma (ONB) é um tipo raro de câncer de cabeça e pescoço que se origina na cavidade nasal superior, com opções terapêuticas sistêmicas limitadas devido à falta de compreensão sobre sua paisagem genômica. Um estudo recente buscou utilizar um repositório genômico de nível de paciente para identificar possíveis alvos terapêuticos e melhorar a modelagem da doença em ONB. A análise genômica retrospectiva foi realizada utilizando o banco de dados do Projeto GENIE da American Association for Cancer Research (AACR). Os dados foram analisados em busca de mutações somáticas recorrentes, juntamente com suas correlações clínicas e demográficas, com significância estatística estabelecida em p < 0,05. Os resultados mostraram uma alta prevalência de mutações nos genes TP53 (proteína p53 do tumor) e FRK (tirosina quinase do receptor de fator de crescimento de fibroblastos). Além disso, foi identificada uma prevalência moderada de mutações nos genes NOTCH3 (receptor notch 3) e SMARCA4 (relacionado à matriz SWI/SNF). Esses achados podem ter implicações clínicas importantes, pois a identificação de mutações específicas pode permitir a utilização de terapias direcionadas. No entanto, o estudo apresenta limitações, como a falta de informações sobre a relação entre as mutações e a resposta ao tratamento. Os próximos passos incluem a realização de estudos adicionais para validar esses resultados e explorar sua aplicação clínica.\n\nThe olfactory neuroblastoma (ONB) is a rare head and neck cancer arising from the upper nasal cavity, with limited systemic therapeutic options due to a poor understanding of its genomic landscape. A recent study sought to utilize a patient-level genomic repository to identify potential therapeutic targets and improve disease modeling in ONB. The retrospective genomic analysis was performed using the American Association for Cancer Research (AACR) Project Genomics Evidence Neoplasia Information Exchange (GENIE) database. The data were analyzed for recurrent somatic mutations, along with their clinical and demographic correlations, with significance set at p < 0.05. The results showed a high prevalence of mutations in the TP53 (tumor protein p53) and FRK (fibroblast growth factor receptor kinase) genes. Additionally, a moderate prevalence of mutations in the NOTCH3 (notch receptor 3) and SMARCA4 (SWI/SNF related, matrix associated) genes was identified. These findings may have important clinical implications, as the identification of specific mutations may allow for the use of targeted therapies. However, the study has limitations, such as the lack of information on the relationship between mutations and treatment response. The next steps include conducting additional studies to validate these results and explore their clinical application.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42095028",
+    "authors": [
+      {
+        "name": "Beau Hsia",
+        "affiliation": "Department of Otolaryngology, Creighton University School of Medicine, Phoenix, Arizona, United States."
+      },
+      {
+        "name": "Roshan Dongre",
+        "affiliation": "School of Engineering Medicine, Texas A&amp;M University, Houston, Texas, United States."
+      },
+      {
+        "name": "Aya Erquizi",
+        "affiliation": "Herbert Wertheim College of Medicine, Florida International University, Miami, Florida, United States."
+      },
+      {
+        "name": "Paula V Guerra-Navarro",
+        "affiliation": "Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, Buffalo, New York, United States."
+      }
+    ],
+    "journal": "Journal of neurological surgery. Part B, Skull base",
+    "publishedDate": "2026-05-07",
+    "fetchedDate": "2026-05-07",
+    "category": "Genômica",
+    "tags": [
+      "cancer",
+      "tumor",
+      "genomic",
+      "gene",
+      "sequencing"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42092784",
     "pmid": "42092784",
     "doi": "10.1186/s12876-026-04889-0",
@@ -123,7 +255,7 @@
       "drug",
       "clinical trial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -165,7 +297,7 @@
       "clinical trial",
       "diabetes"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -209,7 +341,7 @@
       "rna",
       "sequencing"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Groq"
