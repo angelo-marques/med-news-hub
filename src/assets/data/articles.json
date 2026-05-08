@@ -1,5 +1,94 @@
 [
   {
+    "id": "pubmed-42097137",
+    "pmid": "42097137",
+    "doi": "10.1016/j.cell.2026.03.049",
+    "title": "Multi-cohort proteogenomic analyses reveal genetic effects across the proteome and diseasome.",
+    "titlePt": "Multi-cohort proteogenomic analyses reveal genetic effects across the proteome and diseasome.",
+    "abstract": "Understanding the genetic regulation of circulating protein levels can provide new insights into disease mechanisms. Here, we present the largest proteogenomic study to date (n = 78,664 participants across 38 studies), identifying &gt;24,000 protein quantitative trait loci (QTLs) associated with 1,116 proteins, acting near to (n = 5,040) or distant (n = 19,698) from the cognate gene. Using machine learning-guided effector gene assignment, we provide genetic evidence for pathways, cell types, and tissues that modulate circulating protein levels, highlighting N-linked glycosylation as an important regulatory pathway. We demonstrate that genetic instruments of protein production/function (\"cis\") versus modulation (\"trans\") reveal distinct phenotypic insights. We identify proteins as candidates for drug targets and engagement (e.g., plasma furin and cardiovascular diseases) by comparing cis-based genetic evidence with protein-disease associations. Systematic triangulation of trans-protein ",
+    "journalisticSummary": "Um estudo recente publicado na revista Cell apresenta os resultados da maior análise proteogenômica já realizada, envolvendo 78.664 participantes em 38 estudos diferentes. O objetivo principal do estudo foi entender como a regulação genética afeta os níveis de proteínas circulantes no sangue e como isso pode estar relacionado a mecanismos de doenças. Os pesquisadores identificaram mais de 24.000 loci de traços quantitativos de proteínas (QTLs) associados a 1.116 proteínas, que atuam próximos ou distantes do gene cognato. Além disso, o estudo utilizou técnicas de aprendizado de máquina para atribuir genes efetores e fornecer evidências genéticas para vias, tipos de células e tecidos que modulam os níveis de proteínas circulantes.\n\nOs achados principais do estudo incluem a identificação de vias reguladoras importantes, como a glicosilação N-ligada, e a demonstração de que instrumentos genéticos de produção e função de proteínas (\"cis\") versus modulação (\"trans\") revelam insights fenotípicos distintos. Além disso, os pesquisadores identificaram proteínas como candidatas a alvos de drogas e engajamento, como a furina plasmática e suas associações com doenças cardiovasculares. No entanto, o estudo não forneceu informações específicas sobre as limitações e os próximos passos, o que é um aspecto importante para entender a aplicabilidade e a generalização dos resultados.\n\nA compreensão da regulação genética dos níveis de proteínas circulantes pode fornecer novas perspectivas sobre mecanismos de doenças e potenciais alvos terapêuticos. Embora o estudo apresente resultados importantes, é fundamental considerar as limitações e os próximos passos para validar e aplicar esses achados em contextos clínicos. Não foi informado no resumo original quais seriam os próximos passos ou como os resultados seriam aplicados em práticas clínicas.\n\nUm estudo recente publicado na revista Cell apresenta os resultados da maior análise proteogenômica já realizada, envolvendo 78.664 participantes em 38 estudos diferentes. O objetivo principal do estudo foi entender como a regulação genética afeta os níveis de proteínas circulantes no sangue e como isso pode estar relacionado a mecanismos de doenças. Os pesquisadores identificaram mais de 24.000 loci de traços quantitativos de proteínas (QTLs) associados a 1.116 proteínas, que atuam próximos ou distantes do gene cognato. Além disso, o estudo utilizou técnicas de aprendizado de máquina para atribuir genes efetores e fornecer evidências genéticas para vias, tipos de células e tecidos que modulam os níveis de proteínas circulantes.\n\nOs achados principais do estudo incluem a identificação de vias reguladoras importantes, como a glicosilação N-ligada, e a demonstração de que instrumentos genéticos de produção e função de proteínas (\"cis\") versus modulação (\"trans\") revelam insights fenotípicos distintos. Além disso, os pesquisadores identificaram proteínas como candidatas a alvos de drogas e engajamento, como a furina plasmática e suas associações com doenças cardiovasculares. No entanto, o estudo não forneceu informações específicas sobre as limitações e os próximos passos, o que é um aspecto importante para entender a aplicabilidade e a generalização dos resultados.\n\nA compreensão da regulação genética dos níveis de proteínas circulantes pode fornecer novas perspectivas sobre mecanismos de doenças e potenciais alvos terapêuticos. Embora o estudo apresente resultados importantes, é fundamental considerar as limitações e os próximos passos para validar e aplicar esses achados em contextos clínicos. Não foi informado no resumo original quais seriam os próximos passos ou como os resultados seriam aplicados em práticas clínicas.\n\nA recent study published in the journal Cell presents the results of the largest proteogenomic analysis to date, involving 78,664 participants across 38 studies. The primary aim of the study was to understand how genetic regulation affects circulating protein levels in the blood and how this may be related to disease mechanisms. The researchers identified over 24,000 protein quantitative trait loci (QTLs) associated with 1,116 proteins, which act near to or distant from the cognate gene. Furthermore, the study used machine learning-guided effector gene assignment to provide genetic evidence for pathways, cell types, and tissues that modulate circulating protein levels.\n\nThe main findings of the study include the identification of important regulatory pathways, such as N-linked glycosylation, and the demonstration that genetic instruments of protein production and function (\"cis\") versus modulation (\"trans\") reveal distinct phenotypic insights. Additionally, the researchers identified proteins as candidates for drug targets and engagement, such as plasma furin and its associations with cardiovascular diseases. However, the study did not provide specific information about the limitations and next steps, which is an important aspect for understanding the applicability and generalization of the results.\n\nUnderstanding the genetic regulation of circulating protein levels can provide new insights into disease mechanisms and potential therapeutic targets. Although the study presents important findings, it is essential to consider the limitations and next steps to validate and apply these results in clinical contexts. The original summary did not provide information on what the next steps would be or how the results would be applied in clinical practice.\n\nThe study's results have significant implications for the field of proteogenomics and may lead to the development of new therapeutic strategies. However, further research is needed to fully understand the mechanisms underlying the regulation of circulating protein levels and to translate these findings into clinical applications. The identification of proteins as candidates for drug targets and engagement highlights the potential for proteogenomics to inform the development of new therapies. Overall, the study demonstrates the power of proteogenomics to reveal new insights into disease mechanisms and highlights the importance of continued research in this field.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42097137",
+    "authors": [
+      {
+        "name": "Mine Koprulu",
+        "affiliation": "Precision Healthcare University Research Institute, Queen Mary University of London, London E1 1HH, UK; MRC Epidemiology Unit, School of Clinical Medicine, University of Cambridge, Cambridge CB2 0QQ, UK; Computational Medicine, Berlin Institute of Health at Charit&#xe9; - Universit&#xe4;tsmedizin Berlin, Berlin 10117, Germany. Electronic address: m.koprulu@qmul.ac.uk."
+      },
+      {
+        "name": "Karl Smith-Byrne",
+        "affiliation": "Cancer Epidemiology Unit, Nuffield Department of Population Health, University of Oxford, Oxford OX3 7LF, UK."
+      },
+      {
+        "name": "Brian Richard Ferolito",
+        "affiliation": "Million Veteran Program (MVP) Coordinating Center, Veterans Affairs Healthcare System, Boston, MA 02111, USA."
+      },
+      {
+        "name": "Erin Macdonald-Dunlop",
+        "affiliation": "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm 171 65, Sweden; Pfizer Research and Development, Pfizer, Stockholm 113 63, Sweden; Centre for Global Health Research, Usher Institute, University of Edinburgh, Edinburgh EH16 4UX, UK."
+      }
+    ],
+    "journal": "Cell",
+    "publishedDate": "2026-05-07",
+    "fetchedDate": "2026-05-08",
+    "category": "Genômica",
+    "tags": [
+      "cardiovascular",
+      "genomic",
+      "genetic",
+      "gene",
+      "drug"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-42098850",
+    "pmid": "42098850",
+    "doi": "10.1186/s13195-026-02043-2",
+    "title": "Early syndecan-4 upregulation predicts cognitive and pathological trajectories in Alzheimer disease.",
+    "titlePt": "Early syndecan-4 upregulation predicts cognitive and pathological trajectories in Alzheimer disease.",
+    "abstract": "Brain endothelial dysfunction is an early pathological feature of Alzheimer disease (AD). We here investigate associations of the brain endothelial glycocalyx protein, syndecan-4 (SDC4), with amyloid and tau pathologies and cognitive impairment in a large longitudinal cohort of AD and controls. The study included n&#x2009;=&#x2009;1,041 (n&#x2009;=&#x2009;802 cognitively unimpaired and n&#x2009;=&#x2009;239 cognitively impaired) participants who underwent biological classification using the NIA-AA \"ATN\" framework. Cognitive assessments included the Clinical Dementia Rating&#xae;-sum of boxes and the Knight- Preclinical Alzheimer's Cognitive Composite. Cerebrospinal fluid (CSF) measures of SDC4 and emerging AD biomarkers were obtained using Olink Proteomics. Amyloid-PET (n&#x2009;=&#x2009;719) and tau-PET (n&#x2009;=&#x2009;302) scans were performed in subsets of participants. Partial correlations and linear mixed models, respectively, examined cross-sectional and longitudinal associati",
+    "journalisticSummary": "O estudo recentemente publicado no PubMed, com DOI 10.1186/s13195-026-02043-2, investigou a relação entre a proteína syndecan-4 (SDC4) e a doença de Alzheimer (DA). A disfunção endotelial cerebral é uma característica patológica precoce da DA, e a SDC4 é uma proteína presente na glicocálix dos endotélios cerebrais. A pesquisa envolveu uma grande coorte longitudinal de 1.041 participantes, incluindo 802 indivíduos sem comprometimento cognitivo e 239 com comprometimento cognitivo. Os participantes foram submetidos a uma classificação biológica utilizando o framework \"ATN\" da NIA-AA, e as avaliações cognitivas incluíram a Clinical Dementia Rating-sum of boxes e o Knight- Preclinical Alzheimer's Cognitive Composite. Além disso, foram obtidas medidas do líquido cefalorraquidiano (LCR) de SDC4 e biomarcadores emergentes da DA utilizando a plataforma Olink Proteomics. Escaneamentos de PET de amiloides (n = 719) e tau (n = 302) foram realizados em subconjuntos de participantes. Os resultados mostraram que a regulação precoce da SDC4 está associada às trajetórias cognitivas e patológicas na DA. No entanto, os detalhes específicos sobre os modelos estatísticos utilizados e os resultados longitudinais não foram informados no resumo original. Em resumo, este estudo sugere que a SDC4 pode ser um biomarcador importante para a previsão do curso da DA, mas são necessários mais estudos para confirmar esses achados e explorar suas implicações clínicas.\n\nA recent study published on PubMed, with DOI 10.1186/s13195-026-02043-2, investigated the relationship between syndecan-4 (SDC4) protein and Alzheimer's disease (AD). Cerebral endothelial dysfunction is an early pathological feature of AD, and SDC4 is a protein present in the glycocalyx of cerebral endothelial cells. The research involved a large longitudinal cohort of 1,041 participants, including 802 cognitively unimpaired individuals and 239 cognitively impaired individuals. The participants underwent biological classification using the NIA-AA \"ATN\" framework, and cognitive assessments included the Clinical Dementia Rating-sum of boxes and the Knight- Preclinical Alzheimer's Cognitive Composite. Additionally, cerebrospinal fluid (CSF) measures of SDC4 and emerging AD biomarkers were obtained using Olink Proteomics. Amyloid-PET (n = 719) and tau-PET (n = 302) scans were performed in subsets of participants. The results showed that early upregulation of SDC4 is associated with cognitive and pathological trajectories in AD. However, specific details about the statistical models used and the longitudinal results were not provided in the original abstract. In summary, this study suggests that SDC4 may be an important biomarker for predicting the course of AD, but further studies are needed to confirm these findings and explore their clinical implications.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42098850",
+    "authors": [
+      {
+        "name": "Rawan Tarawneh",
+        "affiliation": "Department of Neurology, Saint Louis University, St Louis, 1008 S Spring Ave, MO, 63110, USA. Rawan.Tarawneh@health.slu.edu."
+      },
+      {
+        "name": "Krista L Moulder",
+        "affiliation": "Department of Neurology, Washington University in St Louis, St Louis, MO, 63110, USA."
+      },
+      {
+        "name": "Danai G Topouza",
+        "affiliation": "Knight Washington University Alzheimer Disease Research Center, Washington University in St Louis, St Louis, MO, 63110, USA."
+      },
+      {
+        "name": "Amrita Kar",
+        "affiliation": "Olink Proteomics, Part of Thermo-Fisher Scientific, Boston, MA, 02453, USA."
+      }
+    ],
+    "journal": "Alzheimer's research &amp; therapy",
+    "publishedDate": "2026-05-07",
+    "fetchedDate": "2026-05-08",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "alzheimer",
+      "dementia",
+      "cognitive"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42097870",
     "pmid": "42097870",
     "doi": "10.1136/jnis-2026-025055",
@@ -158,7 +247,7 @@
       "atrial",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -203,7 +292,7 @@
       "chemotherapy",
       "genomic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
