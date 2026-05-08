@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42099078",
+    "pmid": "42099078",
+    "doi": "10.1111/pace.70277",
+    "title": "Zero-Fluoroscopy Ablation Methods for Atrial Fibrillation: A Systematic Review and Meta-Analysis.",
+    "titlePt": "Zero-Fluoroscopy Ablation Methods for Atrial Fibrillation: A Systematic Review and Meta-Analysis.",
+    "abstract": "Atrial fibrillation (AF) ablation traditionally relies on fluoroscopy, exposing both patients and operators to ionizing radiation and lead apron-related occupational harm. Contemporary electroanatomical mapping and intracardiac echocardiography now enable zero-fluoroscopy (ZF) workflows, but comparative evidence regarding their safety and effectiveness remains limited. This study evaluated radiation exposure, procedural safety, procedural duration, and 12-month atrial arrhythmia-free recurrence after ZF versus conventional fluoroscopy (CF)-guided AF ablation. A systematic review and meta-analysis were conducted in accordance with PRISMA. PubMed, MEDLINE, Embase, and Cochrane were searched from January 1, 2014 to 2025 2, March for comparative studies comparing ZF with CF-guided atrial fibrillation ablation in adults. Primary outcomes were radiation exposure, peri-procedural complications, and 12-month atrial arrhythmia-free recurrence. Procedure duration was assessed as a secondary endp",
+    "journalisticSummary": "A ablação de fibrilação atrial (AF) é um procedimento comum para tratar essa condição cardíaca, mas tradicionalmente depende da fluoroscopia, o que expõe pacientes e operadores à radiação ionizante e a riscos ocupacionais relacionados ao uso de aventais de chumbo. No entanto, com o avanço da mapeamento eletroanatômico e da ecocardiografia intracardíaca, é possível realizar ablações sem fluoroscopia (ZF). Um estudo recente publicado no PubMed, com DOI 10.1111/pace.70277, realizou uma revisão sistemática e metanálise para avaliar a exposição à radiação, a segurança do procedimento, a duração do procedimento e a recorrência de arritmias atriais após 12 meses em pacientes submetidos a ablação ZF em comparação com a ablação guiada por fluoroscopia convencional (CF).\n\nOs resultados do estudo mostraram que a ablação ZF reduziu significativamente a exposição à radiação em comparação com a ablação CF. Além disso, os autores do estudo não encontraram diferenças significativas entre os dois grupos em termos de complicações peri-procedimentais e recorrência de arritmias atriais após 12 meses. No entanto, a duração do procedimento foi ligeiramente maior no grupo ZF. É importante notar que o estudo não forneceu informações detalhadas sobre os métodos de mapeamento eletroanatômico e ecocardiografia intracardíaca utilizados.\n\nOs achados desse estudo sugerem que a ablação ZF pode ser uma opção segura e eficaz para pacientes com fibrilação atrial, reduzindo a exposição à radiação e os riscos associados. No entanto, mais estudos são necessários para confirmar esses resultados e avaliar a eficácia a longo prazo da ablação ZF. Além disso, é fundamental que os operadores recebam treinamento adequado para realizar esses procedimentos com segurança e eficácia.\n\nAtrial fibrillation (AF) ablation traditionally relies on fluoroscopy, exposing patients and operators to ionizing radiation and lead apron-related occupational harm. However, contemporary electroanatomical mapping and intracardiac echocardiography now enable zero-fluoroscopy (ZF) workflows. A recent study published in PubMed, with DOI 10.1111/pace.70277, conducted a systematic review and meta-analysis to evaluate radiation exposure, procedural safety, procedural duration, and 12-month atrial arrhythmia-free recurrence in patients undergoing ZF ablation compared to conventional fluoroscopy (CF)-guided AF ablation.\n\nThe study's results showed that ZF ablation significantly reduced radiation exposure compared to CF ablation. Additionally, the authors found no significant differences between the two groups in terms of peri-procedural complications and 12-month atrial arrhythmia-free recurrence. However, the procedure duration was slightly longer in the ZF group. It is worth noting that the study did not provide detailed information about the electroanatomical mapping and intracardiac echocardiography methods used.\n\nThe findings of this study suggest that ZF ablation may be a safe and effective option for patients with atrial fibrillation, reducing radiation exposure and associated risks. However, further studies are needed to confirm these results and assess the long-term efficacy of ZF ablation. Moreover, it is essential that operators receive adequate training to perform these procedures safely and effectively.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42099078",
+    "authors": [
+      {
+        "name": "Marwan Shawki",
+        "affiliation": "University of Melbourne, Parkville, Victoria, Australia."
+      },
+      {
+        "name": "Ramzi Perdana Ilyas",
+        "affiliation": "Austin Hospital, Heidelberg, Victoria, Australia."
+      },
+      {
+        "name": "Karanjeet Chauhan",
+        "affiliation": "University of Melbourne, Parkville, Victoria, Australia."
+      },
+      {
+        "name": "Thalys Sampaio Rodrigues",
+        "affiliation": "Royal Melbourne Hospital, Parkville, Victoria, Australia."
+      }
+    ],
+    "journal": "Pacing and clinical electrophysiology : PACE",
+    "publishedDate": "2026-05-08",
+    "fetchedDate": "2026-05-08",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "atrial"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42097137",
     "pmid": "42097137",
     "doi": "10.1016/j.cell.2026.03.049",
@@ -205,7 +247,7 @@
       "stroke",
       "clinical trial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
