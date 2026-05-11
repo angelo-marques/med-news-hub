@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42111430",
+    "pmid": "42111430",
+    "doi": "10.1002/lio2.70405",
+    "title": "Demographic Factors in Pharyngoesophageal Segment Size: A Scoping Review.",
+    "titlePt": "Demographic Factors in Pharyngoesophageal Segment Size: A Scoping Review.",
+    "abstract": "The Pharyngoesophageal Segment (PES) is situated at the junction of the pharynx and esophagus, regulating the passage of bolus from the pharynx into the esophagus during swallowing and preventing aspiration into the airway. Decreased opening of this sphincter can result in significant swallow impairment. Knowledge of normal PES size can be critical for diagnostic purposes and treatment planning. This systematic review seeks to aggregate the evidence correlating PES size with demographic factors, including age, sex, and obesity status. A search performed on PubMed, Embase, Cochrane, and Ovid included literature published before August 18, 2025. Inclusion criteria were healthy adult populations (including cadavers). Publications investigating only animal, pediatric, or pathologic populations or that did not include demographic comparisons were excluded. A total of 5815 studies were retrieved, and 679 subjects across 10 studies met the inclusion criteria. Diverse parameters were measured,",
+    "journalisticSummary": "Um recente estudo publicado no PubMed busca entender como fatores demográficos influenciam o tamanho do segmento faringoesofágico (PES), uma região crítica na junção da faringe e do esôfago que regula a passagem de alimento durante a deglutição e previne a aspiração nas vias aéreas. A compreensão do tamanho normal do PES é fundamental para fins diagnósticos e planejamento de tratamento, especialmente porque uma abertura reduzida deste esfíncter pode resultar em significativas alterações na deglutição. Este estudo sistemático busca agregar evidências sobre a correlação entre o tamanho do PES e fatores demográficos como idade, sexo e status de obesidade. A busca por literatura foi realizada em bases de dados como PubMed, Embase, Cochrane e Ovid, considerando publicações até 18 de agosto de 2025. Foram incluídos estudos com populações adultas saudáveis, incluindo cadáveres, enquanto estudos com populações animais, pediátricas ou patológicas, ou que não realizaram comparações demográficas, foram excluídos. Ao todo, 5815 estudos foram recuperados, e 679 participantes de 10 estudos atenderam aos critérios de inclusão. Embora o estudo tenha encontrado diversas medidas, não foi informado no resumo original quais foram os principais achados ou como esses fatores demográficos influenciam o tamanho do PES. Além disso, não foram discutidas as limitações do estudo ou os próximos passos para investigar essa questão. No entanto, a compreensão da relação entre o tamanho do PES e fatores demográficos pode ter implicações clínicas significativas para o diagnóstico e tratamento de distúrbios da deglutição.\n\nA recent study published in PubMed seeks to understand how demographic factors influence the size of the pharyngoesophageal segment (PES), a critical region at the junction of the pharynx and esophagus that regulates the passage of food during swallowing and prevents aspiration into the airway. Understanding the normal size of the PES is crucial for diagnostic purposes and treatment planning, particularly since a reduced opening of this sphincter can result in significant swallowing impairment. This systematic review aims to aggregate evidence on the correlation between PES size and demographic factors such as age, sex, and obesity status. The literature search was conducted in databases such as PubMed, Embase, Cochrane, and Ovid, considering publications up to August 18, 2025. Studies with healthy adult populations, including cadavers, were included, while studies with animal, pediatric, or pathologic populations, or those that did not perform demographic comparisons, were excluded. A total of 5815 studies were retrieved, and 679 participants from 10 studies met the inclusion criteria. Although the study found various measures, the main findings or how these demographic factors influence PES size were not reported in the original abstract. Additionally, the study's limitations and next steps to investigate this issue were not discussed. However, understanding the relationship between PES size and demographic factors may have significant clinical implications for the diagnosis and treatment of swallowing disorders.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42111430",
+    "authors": [
+      {
+        "name": "Cade R McGarvey",
+        "affiliation": "University of Toledo College of Medicine and Life Sciences Toledo Ohio USA."
+      },
+      {
+        "name": "Akhil Katragadda",
+        "affiliation": "The Ohio State University College of Medicine Columbus Ohio USA."
+      },
+      {
+        "name": "Aarshvi Bhatt",
+        "affiliation": "University of Toledo College of Medicine and Life Sciences Toledo Ohio USA."
+      },
+      {
+        "name": "Travis Jebackumar",
+        "affiliation": "Columbia School of Medicine University of South Carolina Columbia South Carolina USA."
+      }
+    ],
+    "journal": "Laryngoscope investigative otolaryngology",
+    "publishedDate": "2026-05-11",
+    "fetchedDate": "2026-05-11",
+    "category": "Pediatria",
+    "tags": [
+      "pediatric",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42107263",
     "pmid": "42107263",
     "doi": "10.1016/j.jocn.2026.112069",
@@ -202,7 +244,7 @@
       "childhood",
       "vaccine"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
