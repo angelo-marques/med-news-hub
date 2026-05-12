@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-41852039",
+    "pmid": "41852039",
+    "doi": "10.1177/15578518261429025",
+    "title": "Association of Vaspin rs2236242 with Metabolic Syndrome: A Meta-Analysis of Case-Control Studies.",
+    "titlePt": "Association of Vaspin rs2236242 with Metabolic Syndrome: A Meta-Analysis of Case-Control Studies.",
+    "abstract": "Metabolic syndrome (MetS) is a multifactorial condition characterized by central obesity, insulin resistance, dyslipidemia, and hypertension, all of which increase the risk of cardiovascular disease and type 2 diabetes mellitus. Genetic variants affecting adipokine signaling, such as polymorphisms in the vaspin gene (SERPINA12), have gained attention due to their potential role in modulating metabolic traits. Among these, the single nucleotide polymorphism rs2236242 (T&gt;A) has shown conflicting associations with MetS across populations. This study presents the first comprehensive meta-analysis investigating the association between rs2236242 polymorphism and MetS susceptibility. We searched PubMed, Google Scholar, Scopus, and Web of Science for relevant articles published up to 12 December 2025. Data were extracted, and summary estimates of the association between vaspin rs2236242 and MetS were assessed. Odds ratios (ORs) and confidence intervals (CIs) were used to measure the effect.",
+    "journalisticSummary": "A síndrome metabólica (MetS) é uma condição multifatorial caracterizada por obesidade central, resistência à insulina, dislipidemia e hipertensão, todos os quais aumentam o risco de doença cardiovascular e diabetes mellitus tipo 2. Variantes genéticas que afetam a sinalização de adipocinas, como polimorfismos no gene vaspin (SERPINA12), têm ganhado atenção devido ao seu potencial papel na modulação de características metabólicas. Entre essas, o polimorfismo de nucleotídeo único rs2236242 (T>A) tem mostrado associações conflitantes com a MetS em diferentes populações. Este estudo apresenta a primeira meta-análise abrangente que investiga a associação entre o polimorfismo rs2236242 e a suscetibilidade à MetS. Os autores realizaram uma busca em PubMed, Google Scholar, Scopus e Web of Science por artigos relevantes publicados até 12 de dezembro de 2025. Os dados foram extraídos e as estimativas resumidas da associação entre o polimorfismo rs2236242 e a MetS foram avaliadas. As razões de odds (ORs) e intervalos de confiança (ICs) foram usados para medir o efeito. No entanto, não foi informado no resumo original os resultados específicos da meta-análise, incluindo os valores de ORs e ICs. Além disso, também não foi mencionado o impacto clínico e as limitações do estudo. Portanto, é necessário consultar o artigo completo para obter mais informações sobre os achados e implicações do estudo.\n\nA síndrome metabólica é um desafio significativo para a saúde pública, e a compreensão dos fatores genéticos que contribuem para sua desenvolvimento é crucial para o desenvolvimento de estratégias de prevenção e tratamento eficazes. Embora este estudo tenha contribuído para a compreensão da associação entre o polimorfismo rs2236242 e a MetS, mais pesquisas são necessárias para confirmar os resultados e explorar as implicações clínicas. Além disso, é fundamental considerar as limitações do estudo, incluindo a heterogeneidade das populações estudadas e a possibilidade de viés de publicação.\n\nThe metabolic syndrome (MetS) is a multifactorial condition characterized by central obesity, insulin resistance, dyslipidemia, and hypertension, all of which increase the risk of cardiovascular disease and type 2 diabetes mellitus. Genetic variants affecting adipokine signaling, such as polymorphisms in the vaspin gene (SERPINA12), have gained attention due to their potential role in modulating metabolic traits. Among these, the single nucleotide polymorphism rs2236242 (T>A) has shown conflicting associations with MetS across populations. This study presents the first comprehensive meta-analysis investigating the association between rs2236242 polymorphism and MetS susceptibility. The authors conducted a search in PubMed, Google Scholar, Scopus, and Web of Science for relevant articles published up to December 12, 2025. Data were extracted, and summary estimates of the association between rs2236242 and MetS were assessed. Odds ratios (ORs) and confidence intervals (CIs) were used to measure the effect. However, the specific results of the meta-analysis, including ORs and CIs, were not reported in the original abstract. Additionally, the clinical impact and limitations of the study were not mentioned. Therefore, it is necessary to consult the full article to obtain more information on the findings and implications of the study.\n\nThe metabolic syndrome is a significant public health challenge, and understanding the genetic factors that contribute to its development is crucial for the development of effective prevention and treatment strategies. While this study has contributed to the understanding of the association between rs2236242 polymorphism and MetS, further research is needed to confirm the results and explore the clinical implications. Moreover, it is essential to consider the limitations of the study, including the heterogeneity of the studied populations and the possibility of publication bias.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41852039",
+    "authors": [
+      {
+        "name": "Wei-Yue Lim",
+        "affiliation": "Department of Pharmacology, Faculty of Medicine, Universiti Malaya, Kuala Lumpur, Malaysia."
+      },
+      {
+        "name": "Amira Elina Amirul",
+        "affiliation": "Department of Medicine, Faculty of Medicine, Universiti Malaya, Kuala Lumpur, Malaysia."
+      },
+      {
+        "name": "Yuh-Fen Pung",
+        "affiliation": "Division of Biomedical Science, School of Pharmacy, University of Nottingham Malaysia, Semenyih, Selangor, Malaysia."
+      },
+      {
+        "name": "Rosmawati Mohamed",
+        "affiliation": "Faculty of Medicine, Universiti Kebangsaan Malaysia, Kuala Lumpur, Malaysia."
+      }
+    ],
+    "journal": "Metabolic syndrome and related disorders",
+    "publishedDate": "2026-05-12",
+    "fetchedDate": "2026-05-12",
+    "category": "Endocrinologia",
+    "tags": [
+      "cardiovascular",
+      "hypertension",
+      "genetic",
+      "gene",
+      "diabetes"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42116820",
     "pmid": "42116820",
     "doi": "10.1097/MOP.0000000000001569",
@@ -192,7 +237,7 @@
       "cardiac",
       "rna"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
