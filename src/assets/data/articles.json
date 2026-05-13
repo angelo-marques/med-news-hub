@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed-41148525",
+    "pmid": "41148525",
+    "doi": "10.1007/s10557-025-07802-1",
+    "title": "Metabolic Syndrome and Breast Cancer Risk: an Age-Dependent Paradox?",
+    "titlePt": "Metabolic Syndrome and Breast Cancer Risk: an Age-Dependent Paradox?",
+    "abstract": "The study by Kimoto et al. investigated the relationship between metabolic syndrome (MetS) and breast cancer incidence in a large Japanese cohort exceeding one million women, revealing an unexpected age-dependent pattern. Both pre-MetS and MetS were associated with a lower incidence of breast cancer, particularly in women younger than 50 years, whereas this association attenuated or reversed after 60 years of age. In our correspondence, we discuss potential biological and methodological explanations for this paradox. We highlight the importance of heterogeneity in MetS definitions (Japanese vs. modified ATP III), the role of menopausal status beyond chronological age, and possible confounding by screening behavior and competing cardiovascular mortality. While the authors' interpretation involving anovulatory cycles and adipose-derived estrogen provides a plausible mechanistic framework, we emphasize the need for analyses stratified by actual menopausal status, repeated measures of MetS",
+    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a relação entre a síndrome metabólica (MetS) e o risco de câncer de mama em uma grande coorte de mulheres japonesas, totalizando mais de um milhão de participantes. Os resultados mostraram um padrão inesperado relacionado à idade, onde tanto a pré-síndrome metabólica quanto a síndrome metabólica estavam associadas a uma menor incidência de câncer de mama, especialmente em mulheres com menos de 50 anos. No entanto, essa associação se atenuou ou reverteu após os 60 anos de idade. Os autores discutem explicações biológicas e metodológicas para esse paradoxo, destacando a importância da heterogeneidade nas definições de MetS, o papel do status menopáusico além da idade cronológica e possíveis fatores de confusão, como comportamento de rastreamento e mortalidade cardiovascular. Embora a interpretação dos autores envolvendo ciclos anovulatórios e estrogênio derivado de adipócitos forneça um quadro mecanístico plausível, é enfatizada a necessidade de análises estratificadas por status menopáusico real e medidas repetidas de MetS. Além disso, não foram fornecidos detalhes sobre os próximos passos ou implicações clínicas específicas decorrentes desse estudo, o que sugere a necessidade de mais pesquisas para esclarecer essas questões.\n\nA recent study published on PubMed investigated the relationship between metabolic syndrome (MetS) and breast cancer incidence in a large Japanese cohort exceeding one million women, revealing an unexpected age-dependent pattern. Both pre-MetS and MetS were associated with a lower incidence of breast cancer, particularly in women younger than 50 years, whereas this association attenuated or reversed after 60 years of age. The authors discuss potential biological and methodological explanations for this paradox, highlighting the importance of heterogeneity in MetS definitions, the role of menopausal status beyond chronological age, and possible confounding by screening behavior and competing cardiovascular mortality. While the authors' interpretation involving anovulatory cycles and adipose-derived estrogen provides a plausible mechanistic framework, it is emphasized that there is a need for analyses stratified by actual menopausal status and repeated measures of MetS. Furthermore, details on next steps or specific clinical implications arising from this study were not provided, suggesting the need for further research to clarify these issues.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41148525",
+    "authors": [
+      {
+        "name": "Deniz Esin Tekcan Sanli",
+        "affiliation": "Department of Radiology, Faculty of Medicine, Gaziantep University , &#x15e;ehitkamil, Gaziantep, Turkey. tekcandenizesin@gmail.com."
+      },
+      {
+        "name": "Ahmet Necati Sanli",
+        "affiliation": "Department of General Surgery, Abdulkadir Yuksel State Hospital, Gaziantep, Turkey."
+      }
+    ],
+    "journal": "Cardiovascular drugs and therapy",
+    "publishedDate": "2026-05-13",
+    "fetchedDate": "2026-05-13",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "cardiovascular",
+      "gene",
+      "metabolic"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41108451",
     "pmid": "41108451",
     "doi": "10.1007/s10557-025-07790-2",
@@ -206,7 +242,7 @@
     "tags": [
       "stroke"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
