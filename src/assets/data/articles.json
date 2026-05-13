@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42124866",
+    "pmid": "42124866",
+    "doi": "10.1016/j.acepjo.2026.100415",
+    "title": "Prehospital Use of Lights and Sirens in Stroke Is Associated With Faster Door-to-CT Times but Not Door-to-Thrombolysis or Door-to-Endovascular Therapy Times.",
+    "titlePt": "Prehospital Use of Lights and Sirens in Stroke Is Associated With Faster Door-to-CT Times but Not Door-to-Thrombolysis or Door-to-Endovascular Therapy Times.",
+    "abstract": "Lights and sirens (L&amp;S) during Emergency Medical Services (EMS) transport may shorten transport times and improve outcomes in acute stroke but carry significant roadway risk. This study assesses L&amp;S and in-hospital stroke care, including door-to-CT, door-to-intravenous thrombolysis (IVT), door-to-endovascular thrombectomy (EVT), and discharge disposition. This retrospective cohort study analyzed data from 2020 to 2022, including adult patients identified by EMS as having suspected stroke and who had a final diagnosis of stroke or transient ischemic attack. Data were collected from the IMPACT network (70 EMS agencies, 30 hospitals, 2 states). Multivariable regression modeled the association between L&amp;S and door-to-CT, door-to-IVT, and door-to-EVT times, controlling for confounders. Logistic regression modeled the association between L&amp;S and discharge disposition, adjusting for confounders and in-hospital intervention. Of 3,161 patients, 75.4% (n = 2384) were transported ",
+    "journalisticSummary": "O uso de luzes e sirenes durante o transporte de pacientes com suspeita de acidente vascular cerebral (AVC) pode reduzir os tempos de transporte e melhorar os resultados clínicos, mas tamb��m aumenta o risco de acidentes de trânsito. Um estudo recente publicado na literatura científica avaliou a relação entre o uso de luzes e sirenes e os tempos de atendimento hospitalar, incluindo o tempo de porta a tomografia computadorizada (CT), tempo de porta a trombólise intravenosa (IVT) e tempo de porta a trombectomia endovascular (EVT). Os pesquisadores analisaram dados de 3.161 pacientes adultos com suspeita de AVC atendidos por 70 agências de serviços médicos de emergência e 30 hospitais em dois estados, entre 2020 e 2022. Os resultados mostraram que o uso de luzes e sirenes esteve associado a tempos de porta a CT mais rápidos, mas não afetou significativamente os tempos de porta a IVT ou EVT. Além disso, o estudo não encontrou diferenças significativas na destinação ao alta hospitalar entre os pacientes transportados com ou sem luzes e sirenes. Embora os achados sugiram que o uso de luzes e sirenes possa ter benefícios no atendimento pré-hospitalar, é importante considerar as limitações do estudo, incluindo a natureza retrospectiva e a falta de informações sobre os motivos específicos para o uso de luzes e sirenes em cada caso. Mais pesquisas são necessárias para entender melhor a relação entre o uso de luzes e sirenes e os resultados clínicos em pacientes com AVC.\n\nThe use of lights and sirens during the transportation of patients with suspected stroke may reduce transport times and improve clinical outcomes, but it also increases the risk of traffic accidents. A recent study published in the scientific literature evaluated the relationship between the use of lights and sirens and hospital care times, including door-to-CT, door-to-intravenous thrombolysis (IVT), and door-to-endovascular thrombectomy (EVT) times. The researchers analyzed data from 3,161 adult patients with suspected stroke who were treated by 70 emergency medical services agencies and 30 hospitals in two states between 2020 and 2022. The results showed that the use of lights and sirens was associated with faster door-to-CT times, but did not significantly affect door-to-IVT or door-to-EVT times. Additionally, the study did not find significant differences in hospital discharge disposition between patients transported with or without lights and sirens. Although the findings suggest that the use of lights and sirens may have benefits in prehospital care, it is essential to consider the study's limitations, including its retrospective nature and the lack of information on the specific reasons for using lights and sirens in each case. Further research is needed to better understand the relationship between the use of lights and sirens and clinical outcomes in stroke patients.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42124866",
+    "authors": [
+      {
+        "name": "Courtney D Wham",
+        "affiliation": "Department of Emergency Medicine, University of Colorado School of Medicine, Aurora, Colorado, USA."
+      },
+      {
+        "name": "Daria Nicke",
+        "affiliation": "Department of Emergency Medicine, University of Colorado School of Medicine, Aurora, Colorado, USA."
+      },
+      {
+        "name": "Ian S Espinoza",
+        "affiliation": "Department of Emergency Medicine, University of Colorado School of Medicine, Aurora, Colorado, USA."
+      },
+      {
+        "name": "Logan Murphy",
+        "affiliation": "Paramedic Division, Denver Health Medical Center, Denver, Colorado, USA."
+      }
+    ],
+    "journal": "Journal of the American College of Emergency Physicians open",
+    "publishedDate": "2026-05-13",
+    "fetchedDate": "2026-05-13",
+    "category": "Neurologia",
+    "tags": [
+      "stroke"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41905568",
     "pmid": "41905568",
     "doi": "10.1016/j.critrevonc.2026.105306",
@@ -199,7 +240,7 @@
       "cardiac",
       "pediatric"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
