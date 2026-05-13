@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-41999556",
+    "pmid": "41999556",
+    "doi": "10.1007/s40122-026-00837-8",
+    "title": "Impact of Selumetinib on Long-Term Pain Medication Utilization in Pediatric Patients: A Retrospective US Claims Database Study.",
+    "titlePt": "Impact of Selumetinib on Long-Term Pain Medication Utilization in Pediatric Patients: A Retrospective US Claims Database Study.",
+    "abstract": "Neurofibromatosis type 1 (NF1) is a heterogeneous, multisystem genetic condition associated with diverse clinical manifestations, including nerve sheath tumors called plexiform neurofibroma (PN), which can be extremely painful. Both chronic pain and regular pain medication use are associated with low overall quality of life in pediatric patients with NF1-PN. Previous short-term, real-world data demonstrate that selumetinib treatment reduces prescription pain medication utilization; however, there are no published long-term real-world data. This was a retrospective analysis of pediatric and young adult patients receiving selumetinib. Patients receiving selumetinib were investigated using a US retrospective claims database and were identified with relevant national drug codes. Patients were followed from selumetinib initiation to the end of available follow-up data (&#x2264;&#x2009;3&#xa0;years). Patients had&#x2009;&#x2265;&#x2009;3 selumetinib prescriptions filled, were aged 2-21&#xa0;",
+    "journalisticSummary": "O estudo recente publicado no PubMed investigou o impacto do selumetinib na utilização de medicamentos para dor a longo prazo em pacientes pediátricos com neurofibromatose tipo 1 (NF1) e plexiforme neurofibroma (PN). A NF1 é uma condição genética heterogênea que pode causar tumores nos nervos, levando a dores intensas e afetando a qualidade de vida dos pacientes. Embora existam dados de curto prazo que demonstrem a redução da utilização de medicamentos para dor com o tratamento com selumetinib, não havia estudos de longo prazo publicados até o momento. A análise retrospectiva utilizou um banco de dados de reclamações dos EUA e identificou pacientes pediátricos e jovens adultos que receberam selumetinib, com idade entre 2 e 21 anos, e que tiveram pelo menos três prescrições de selumetinib preenchidas. Os pacientes foram acompanhados por um período de até três anos após o início do tratamento.\n\nOs achados principais do estudo não foram informados no resumo original, portanto, não é possível fornecer detalhes sobre os resultados específicos. No entanto, o estudo visa fornecer insights valiosos sobre o impacto do selumetinib na utilização de medicamentos para dor a longo prazo em pacientes pediátricos com NF1-PN. A compreensão desses resultados pode ter implicações clínicas significativas, uma vez que a gestão eficaz da dor é fundamental para melhorar a qualidade de vida desses pacientes. Além disso, o estudo pode ajudar a informar decisões de tratamento e políticas de saúde para pacientes com NF1-PN. Limitaç��es do estudo, como a natureza retrospectiva da análise e a dependência de dados de reclamações, devem ser consideradas ao interpretar os resultados. Próximos passos podem incluir a realização de estudos prospectivos para confirmar os achados e explorar mais a fundo as implicações clínicas do selumetinib no tratamento de pacientes com NF1-PN.\n\nThe recent study published on PubMed investigated the impact of selumetinib on long-term pain medication utilization in pediatric patients with neurofibromatosis type 1 (NF1) and plexiform neurofibroma (PN). NF1 is a heterogeneous genetic condition that can cause nerve tumors, leading to intense pain and affecting patients' quality of life. Although there are short-term data demonstrating reduced pain medication utilization with selumetinib treatment, there were no published long-term real-world data until now. The retrospective analysis used a US claims database and identified pediatric and young adult patients who received selumetinib, aged 2-21 years, and had at least three selumetinib prescriptions filled. Patients were followed for a period of up to three years after treatment initiation.\n\nThe main findings of the study were not reported in the original abstract, therefore, it is not possible to provide specific details about the results. However, the study aims to provide valuable insights into the impact of selumetinib on long-term pain medication utilization in pediatric patients with NF1-PN. Understanding these results can have significant clinical implications, as effective pain management is crucial for improving the quality of life of these patients. Additionally, the study may help inform treatment decisions and healthcare policies for patients with NF1-PN. Limitations of the study, such as the retrospective nature of the analysis and reliance on claims data, should be considered when interpreting the results. Next steps may include conducting prospective studies to confirm the findings and further explore the clinical implications of selumetinib in treating patients with NF1-PN.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41999556",
+    "authors": [
+      {
+        "name": "Genevieve Lyons",
+        "affiliation": "US Health Economics and Outcomes Research, AstraZeneca Rare Disease, Alexion Pharmaceuticals, Inc., 121 Seaport Blvd, Boston, MA, 02210, USA. genevieve.lyons@alexion.com."
+      },
+      {
+        "name": "Theresa Dettling",
+        "affiliation": "US Health Economics and Outcomes Research, AstraZeneca Rare Disease, Alexion Pharmaceuticals, Inc., 121 Seaport Blvd, Boston, MA, 02210, USA."
+      },
+      {
+        "name": "Alyssa Bowling",
+        "affiliation": "Global Medical Affairs, Alexion, AstraZeneca Rare Disease, Boston, MA, USA."
+      },
+      {
+        "name": "Ashwin Anand",
+        "affiliation": "Real World Evidence, Forian Inc., Newton, PA, USA."
+      }
+    ],
+    "journal": "Pain and therapy",
+    "publishedDate": "2026-05-13",
+    "fetchedDate": "2026-05-13",
+    "category": "Genômica",
+    "tags": [
+      "tumor",
+      "genetic",
+      "gene",
+      "drug",
+      "pediatric"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42124866",
     "pmid": "42124866",
     "doi": "10.1016/j.acepjo.2026.100415",
@@ -210,7 +255,7 @@
       "gene",
       "diabetes"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
