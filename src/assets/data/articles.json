@@ -1,5 +1,94 @@
 [
   {
+    "id": "pubmed-42127933",
+    "pmid": "42127933",
+    "doi": "10.1016/S1474-4422(26)00123-7",
+    "title": "Identification of genetic modifiers of autosomal dominant Alzheimer's disease: a genome-wide association study.",
+    "titlePt": "Identification of genetic modifiers of autosomal dominant Alzheimer's disease: a genome-wide association study.",
+    "abstract": "Individuals with autosomal dominant Alzheimer's disease (ADAD) arising from mutations in PSEN1, PSEN2, or APP exhibit variability in clinical presentation. Genetic studies of ADAD have shaped our understanding of the disease, and the discovery of genetic modifiers can inform therapeutic interventions and improve patient outcomes. We aimed to discover new genetic modifiers in individuals with mutations in the three ADAD genes. In this genome-wide association study, we analysed data from participants in three study cohorts (the Knight Alzheimer Disease Research Center [Knight-ADRC], the Dominantly Inherited Alzheimer Network [DIAN] observational study, and the Alzheimer Disease Sequencing Project [ADSP] R4). We did whole-genome sequencing on 101 unrelated, non-Hispanic, White, symptomatic participants with ADAD mutations and 5050 asymptomatic, unrelated control participants. Sensitivity analyses included related participants (148 cases and 5813 controls). We assessed the molecular mechan",
+    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a identificação de modificadores genéticos da doença de Alzheimer autossômica dominante (ADAD), uma forma rara e agressiva da doença que afeta indivíduos com mutações nos genes PSEN1, PSEN2 ou APP. A pesquisa, que utilizou dados de três estudos de coorte, teve como objetivo descobrir novos modificadores genéticos que possam influenciar a apresentação clínica e o curso da doença. Os autores realizaram um estudo de associação genômica ampla em 101 participantes sintomáticos com mutações em ADAD e 5050 participantes controle assintomáticos, além de análises de sensibilidade que incluíram participantes relacionados.\n\nOs achados principais do estudo não foram informados no resumo original, o que limita a compreensão do impacto clínico e das implicações terapêuticas das descobertas. No entanto, a identificação de modificadores genéticos pode ser fundamental para o desenvolvimento de intervenções terapêuticas personalizadas e melhorias nos resultados dos pacientes com ADAD. É importante notar que o estudo teve algumas limitações, incluindo a análise de dados de uma população específica (não hispânica e branca), o que pode afetar a generalização dos resultados para outras populações.\n\nOs próximos passos para a pesquisa sobre ADAD incluem a replicação dos achados em estudos independentes e a investigação de como os modificadores genéticos identificados podem ser utilizados para desenvolver terapias personalizadas. Além disso, é fundamental continuar a investigar a biologia molecular subjacente à ADAD para melhorar a compreensão da doença e desenvolver estratégias eficazes para prevenção e tratamento.\n\nUm estudo recente publicado no PubMed investigou a identificação de modificadores genéticos da doença de Alzheimer autossômica dominante (ADAD), uma forma rara e agressiva da doença que afeta indivíduos com mutações nos genes PSEN1, PSEN2 ou APP. A pesquisa, que utilizou dados de três estudos de coorte, teve como objetivo descobrir novos modificadores genéticos que possam influenciar a apresentação clínica e o curso da doença. Os autores realizaram um estudo de associação genômica ampla em 101 participantes sintomáticos com mutações em ADAD e 5050 participantes controle assintomáticos, além de análises de sensibilidade que incluíram participantes relacionados.\n\nA recent study published on PubMed investigated the identification of genetic modifiers of autosomal dominant Alzheimer's disease (ADAD), a rare and aggressive form of the disease that affects individuals with mutations in the PSEN1, PSEN2, or APP genes. The research, which utilized data from three cohort studies, aimed to discover new genetic modifiers that may influence the clinical presentation and course of the disease. The authors conducted a genome-wide association study in 101 symptomatic participants with ADAD mutations and 5050 asymptomatic control participants, in addition to sensitivity analyses that included related participants.\n\nThe main findings of the study were not reported in the original abstract, which limits the understanding of the clinical impact and therapeutic implications of the discoveries. However, the identification of genetic modifiers may be crucial for the development of personalized therapeutic interventions and improvements in patient outcomes. It is essential to note that the study had some limitations, including the analysis of data from a specific population (non-Hispanic and white), which may affect the generalization of the results to other populations.\n\nThe next steps for ADAD research include replicating the findings in independent studies and investigating how the identified genetic modifiers can be used to develop personalized therapies. Additionally, it is crucial to continue investigating the underlying molecular biology of ADAD to improve the understanding of the disease and develop effective prevention and treatment strategies.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42127933",
+    "authors": [
+      {
+        "name": "Maulikkumar Patel",
+        "affiliation": "Department of Psychiatry, Washington University School of Medicine, St Louis, MO, USA; Neurogenomics and Informatics Center, Washington University School of Medicine, St Louis, MO, USA."
+      },
+      {
+        "name": "Wei Feng",
+        "affiliation": "Department of Genetics, Washington University School of Medicine, St Louis, MO, USA."
+      },
+      {
+        "name": "Nicole S Mckay",
+        "affiliation": "Department of Radiology, Washington University School of Medicine, St Louis, MO, USA."
+      },
+      {
+        "name": "Peter R Millar",
+        "affiliation": "Department of Neurology, Washington University School of Medicine, St Louis, MO, USA."
+      }
+    ],
+    "journal": "The Lancet. Neurology",
+    "publishedDate": "2026-05-13",
+    "fetchedDate": "2026-05-14",
+    "category": "Genômica",
+    "tags": [
+      "alzheimer",
+      "genetic",
+      "gene",
+      "sequencing",
+      "mutation"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-42009260",
+    "pmid": "42009260",
+    "doi": "10.1016/j.diabres.2026.113273",
+    "title": "Comparative effectiveness of tirzepatide versus GLP-1 receptor agonists on cardiovascular-kidney-metabolic stage progression: a real-world cohort study.",
+    "titlePt": "Comparative effectiveness of tirzepatide versus GLP-1 receptor agonists on cardiovascular-kidney-metabolic stage progression: a real-world cohort study.",
+    "abstract": "Cardiovascular-kidney-metabolic (CKM) syndrome represents a progressive disease continuum linking metabolic risk factors with cardiovascular and kidney disease. Patients in early CKM stages (stages 1-2) represent a critical therapeutic window; however, comparative evidence on pharmacologic strategies to prevent progression to advanced CKM stages remains limited. Tirzepatide, a dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist, has demonstrated superior metabolic efficacy compared with conventional GLP-1 receptor agonists (GLP-1 RAs), but its impact on CKM stage progression in real-world practice is unknown. We conducted a retrospective cohort study using the TriNetX US Collaborative Network (January 2022-September 2025). Adults with CKM stage 1 or 2 who newly initiated tirzepatide or another GLP-1 RA were identified. A new-user design with 1:1 propensity score matching was applied to balance demographic characteristics, comorbidities, medica",
+    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a eficácia comparativa do tirzepatide em relação aos agonistas do receptor de GLP-1 (GLP-1 RAs) na prevenção da progressão da doença cardiovascular-metabólica-renal (CKM) em pacientes com estágios iniciais da doença. A síndrome CKM é um continuum de doenças progressivas que liga fatores de risco metabólicos com doenças cardiovasculares e renais. Pacientes nos estágios iniciais da CKM (estágios 1-2) representam uma janela terapêutica crítica, no entanto, evidências comparativas sobre estratégias farmacológicas para prevenir a progressão para estágios avançados da CKM ainda são limitadas. O tirzepatide, um agente dual que ativa os receptores de polipeptídeo insulinotrópico dependente de glicose e GLP-1, demonstrou eficácia metabólica superior em comparação com os agonistas convencionais de GLP-1 RAs, mas seu impacto na progressão da CKM na prática clínica real ainda é desconhecido.\n\nO estudo, conduzido entre janeiro de 2022 e setembro de 2025, utilizou uma abordagem de cohorte retrospectiva com pacientes adultos com CKM estágios 1 ou 2 que iniciaram o tratamento com tirzepatide ou outro GLP-1 RA. Foi aplicado um design de novo usuário com pareamento de escore de propensão 1:1 para equilibrar características demográficas, comorbidades e medicamentos concomitantes. Embora os resultados específicos não tenham sido informados no resumo original, este estudo visa contribuir para a compreensão da eficácia comparativa do tirzepatide em relação aos GLP-1 RAs na prevenção da progressão da CKM. Limitações do estudo, como a natureza retrospectiva e a possibilidade de viés de seleção, devem ser consideradas. Próximos passos incluem a análise detalhada dos resultados e a investigação de implicações clínicas para a gestão da CKM.\n\nUm estudo recente publicado no PubMed investigou a eficácia do tirzepatide comparada a agonistas do receptor de GLP-1 (GLP-1 RAs) em pacientes com estágios iniciais da doença CKM, representando uma importante contribuição para a compreensão da gestão clínica da CKM. No entanto, mais pesquisas são necessárias para esclarecer os benefícios e limitações do tirzepatide na prevenção da progressão da CKM.\n\nA recent study published in PubMed investigated the comparative effectiveness of tirzepatide versus GLP-1 receptor agonists (GLP-1 RAs) in preventing the progression of cardiovascular-kidney-metabolic (CKM) disease in patients with early stages of the disease. The CKM syndrome is a progressive disease continuum linking metabolic risk factors with cardiovascular and kidney disease. Patients in early CKM stages (stages 1-2) represent a critical therapeutic window; however, comparative evidence on pharmacologic strategies to prevent progression to advanced CKM stages remains limited. Tirzepatide, a dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist, has demonstrated superior metabolic efficacy compared with conventional GLP-1 RAs, but its impact on CKM stage progression in real-world practice is unknown.\n\nThe study, conducted between January 2022 and September 2025, used a retrospective cohort approach with adult patients with CKM stages 1 or 2 who newly initiated tirzepatide or another GLP-1 RA. A new-user design with 1:1 propensity score matching was applied to balance demographic characteristics, comorbidities, and concomitant medications. Although specific results were not reported in the original abstract, this study aims to contribute to the understanding of the comparative effectiveness of tirzepatide versus GLP-1 RAs in preventing CKM progression. Limitations of the study, such as its retrospective nature and potential selection bias, should be considered. Next steps include detailed analysis of the results and investigation of clinical implications for CKM management.\n\nThis study represents an important contribution to the understanding of clinical management of CKM, and further research is needed to clarify the benefits and limitations of tirzepatide in preventing CKM progression. The findings of this study may have significant implications for the treatment of patients with early stages of CKM, and future studies should aim to confirm and expand upon these results.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42009260",
+    "authors": [
+      {
+        "name": "Jheng-Yan Wu",
+        "affiliation": "Department of Nutrition, Chi Mei Medical Center, Tainan, Taiwan; Department of Public Health, College of Medicine, National Cheng Kung University, Tainan, Taiwan. Electronic address: andy10271@gmail.com."
+      },
+      {
+        "name": "Keng-Wei Lee",
+        "affiliation": "Division of Cardiology, Department of Internal Medicine, Chi Mei Medical Center, Chiali, Tainan, Taiwan. Electronic address: pogolerich@yahoo.com.tw."
+      },
+      {
+        "name": "Sheng-Chi Huang",
+        "affiliation": "Department of Medical Education, Chi Mei Medical Center, Tainan, Taiwan. Electronic address: hshengchi2000@gmail.com."
+      },
+      {
+        "name": "Hsuan-Yuan Chang",
+        "affiliation": "Division of Hepatogastroenterology, Department of Internal Medicine, Chi Mei Medical Centre, Tainan, Taiwan. Electronic address: tnfsh801107@gmail.com."
+      }
+    ],
+    "journal": "Diabetes research and clinical practice",
+    "publishedDate": "2026-05-13",
+    "fetchedDate": "2026-05-14",
+    "category": "Endocrinologia",
+    "tags": [
+      "cardiovascular",
+      "therapeutic",
+      "insulin",
+      "metabolic"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41148525",
     "pmid": "41148525",
     "doi": "10.1007/s10557-025-07802-1",
@@ -156,7 +245,7 @@
       "clinical trial",
       "therapeutic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -201,7 +290,7 @@
       "drug",
       "pediatric"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
