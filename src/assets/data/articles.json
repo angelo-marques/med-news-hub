@@ -1,5 +1,91 @@
 [
   {
+    "id": "pubmed-42149320",
+    "pmid": "42149320",
+    "doi": "10.1007/s10840-026-02286-x",
+    "title": "Same-day discharge versus overnight stay after catheter ablation for atrial fibrillation: a systematic review and meta-analysis.",
+    "titlePt": "Same-day discharge versus overnight stay after catheter ablation for atrial fibrillation: a systematic review and meta-analysis.",
+    "abstract": "The safety of same day discharge after atrial fibrillation ablation remains uncertain because prior evidence relied mainly on heterogeneous observational studies with limited control of confounding. This systematic review and meta-analysis compared structured same day discharge with overnight stay. We searched MEDLINE, Embase, Web of Science, Scopus, CENTRAL, Epistemonikos and LILACS from 1994 to May 2025 for randomized and nonrandomized controlled studies of adults undergoing atrial fibrillation ablation with pulmonary vein isolation. Comparisons were protocolized same day discharge versus overnight hospitalization. Outcomes were all-cause mortality, short term (30-day) unplanned medical contact (readmissions or emergency visits), and procedural complications. Random-effects models generated pooled odds ratios (ORs) with 95% confidence intervals. Nineteen studies (26,335 patients) met inclusion criteria, including two randomized trials and seventeen non-randomized studies. Same day di",
+    "journalisticSummary": "A segurança da alta hospitalar no mesmo dia após ablação de fibrilação atrial ainda é um tema de debate, pois as evidências anteriores se baseavam principalmente em estudos observacionais heterogêneos com controle limitado de fatores de confusão. Um estudo recente publicado no PubMed, com DOI 10.1007/s10840-026-02286-x, realizou uma revisão sistemática e metanálise para comparar a alta hospitalar no mesmo dia com a internação noturna após ablação de fibrilação atrial. Os autores buscaram estudos randomizados e não randomizados controlados em bancos de dados como MEDLINE, Embase, Web of Science, Scopus, CENTRAL, Epistemonikos e LILACS, de 1994 a maio de 2025, que avaliassem adultos submetidos à ablação de fibrilação atrial com isolamento de veias pulmonares. As comparações foram feitas entre a alta hospitalar no mesmo dia e a internação noturna, com desfechos como mortalidade por todas as causas, contato médico não planejado a curto prazo (30 dias) e complicações procedimentais.\n\nOs resultados mostraram que 19 estudos, incluindo 26.335 pacientes, atenderam aos critérios de inclusão, sendo dois estudos randomizados e 17 não randomizados. A análise utilizou modelos de efeitos aleatórios para gerar razões de odds (ORs) com intervalos de confiança de 95%. Infelizmente, não foi possível acessar os detalhes completos dos achados principais, como as razões de odds e os intervalos de confiança, pois essa informação não foi fornecida no resumo original. No entanto, é importante destacar que o impacto clínico dessa pesquisa pode ser significativo, pois a alta hospitalar no mesmo dia pode reduzir os custos e melhorar a experiência do paciente, desde que seja segura e eficaz. As limitações do estudo incluem a heterogeneidade dos estudos incluídos e a falta de controle de fatores de confusão em alguns estudos. Os próximos passos incluem a realização de estudos adicionais para confirmar os achados e avaliar a segurança e eficácia a longo prazo da alta hospitalar no mesmo dia após ablação de fibrilação atrial.\n\nA segurança da alta hospitalar no mesmo dia após ablação de fibrilação atrial é um tema importante que requer mais pesquisas para esclarecer as incertezas atuais. Com a continuação das investigações, é possível que os resultados obtenham uma maior clareza e contribuam para a melhoria da assistência aos pacientes com fibrilação atrial.\n\nThe safety of same-day discharge after atrial fibrillation ablation remains uncertain, as prior evidence relied mainly on heterogeneous observational studies with limited control of confounding factors. A recent study published on PubMed, with DOI 10.1007/s10840-026-02286-x, conducted a systematic review and meta-analysis to compare same-day discharge with overnight hospitalization after atrial fibrillation ablation. The authors searched for randomized and non-randomized controlled studies in databases such as MEDLINE, Embase, Web of Science, Scopus, CENTRAL, Epistemonikos, and LILACS, from 1994 to May 2025, that evaluated adults undergoing atrial fibrillation ablation with pulmonary vein isolation. Comparisons were made between same-day discharge and overnight hospitalization, with outcomes including all-cause mortality, short-term (30-day) unplanned medical contact, and procedural complications.\n\nThe results showed that 19 studies, including 26,335 patients, met the inclusion criteria, with two randomized trials and 17 non-randomized studies. Unfortunately, it was not possible to access the complete details of the main findings, such as the odds ratios and confidence intervals, as this information was not provided in the original abstract. However, it is essential to highlight that the clinical impact of this research may be significant, as same-day discharge can reduce costs and improve patient experience, as long as it is safe and effective. The limitations of the study include the heterogeneity of the included studies and the lack of control of confounding factors in some studies. The next steps include conducting additional studies to confirm the findings and evaluate the long-term safety and efficacy of same-day discharge after atrial fibrillation ablation.\n\nThe safety of same-day discharge after atrial fibrillation ablation is an important topic that requires further research to clarify the current uncertainties. With continued investigation, it is possible that the results will become clearer and contribute to improved patient care for those with atrial fibrillation.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42149320",
+    "authors": [
+      {
+        "name": "Mart&#xed;n Rebolledo Del Toro",
+        "affiliation": "Division of Electrophysiology, Hospital Universitario San Ignacio, Bogota, Colombia. rebolledom@javeriana.edu.co."
+      },
+      {
+        "name": "Maria Alejandra Robledo Gomez",
+        "affiliation": "Department of Internal Medicine, Pontificia Universidad Javeriana, Bogota, Colombia. rebolledom@javeriana.edu.co."
+      },
+      {
+        "name": "Oscar Mauricio Mu&#xf1;oz-Velandia",
+        "affiliation": "Department of Internal Medicine, Pontificia Universidad Javeriana, Bogota, Colombia."
+      },
+      {
+        "name": "Juan Felipe Betancourt Rodriguez",
+        "affiliation": "Department of Internal Medicine, Pontificia Universidad Javeriana, Bogota, Colombia."
+      }
+    ],
+    "journal": "Journal of interventional cardiac electrophysiology : an international journal of arrhythmias and pacing",
+    "publishedDate": "2026-05-18",
+    "fetchedDate": "2026-05-18",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial",
+      "gene"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-41467439",
+    "pmid": "41467439",
+    "doi": "10.4103/NRR.NRR-D-25-00927",
+    "title": "Microbiota-gut-brain axis and bile acids-driven neuromodulation.",
+    "titlePt": "Microbiota-gut-brain axis and bile acids-driven neuromodulation.",
+    "abstract": "Bile acids emerge as multifunctional signaling molecules with dual hepatic and microbial origins, acting through farnesoid X receptor and Takeda G protein-coupled receptor 5 to influence inflammation and metabolism. Their dysregulation is consistently observed across various neurodegenerative diseases. The microbiota-gut-brain axis is a pivotal conduit for bile acids-driven neuromodulation, while sex-specific bile acid profiles and signaling pathways introduce critical biological heterogeneity. Emerging translational evidence indicates the promise of bile acids as biomarkers and therapeutic targets, yet highlights the critical hurdles that need to be addressed to realize precision interventions. Our core findings are: (1) Bile acids are far more than mere metabolic byproducts. They orchestrate core pathological processes such as neuroinflammation and energy metabolism. Their functions, whether neuroprotective or neurotoxic, are highly context-dependent, varying with cell type and disea",
+    "journalisticSummary": "Recentemente, um estudo publicado no PubMed destacou a importância do eixo microbiota-intestino-cerebro e a modulação neurológica mediada por ácidos biliares. Esses compostos, anteriormente considerados apenas como subprodutos do metabolismo, surgem como moléculas sinalizadoras multifuncionais com origens hepáticas e microbianas, atuando através do receptor X de farnesoid e do receptor acoplado à proteína G 5 de Takeda para influenciar a inflamação e o metabolismo. A disfunção desses ácidos biliares é consistentemente observada em diversas doenças neurodegenerativas. O eixo microbiota-intestino-cerebro é um conector crítico para a modulação neurológica mediada por ácidos biliares, enquanto perfis e vias de sinalização específicos de sexo introduzem heterogeneidade biológica crítica. Evidências translacionais emergentes indicam o potencial dos ácidos biliares como biomarcadores e alvos terapêuticos, mas também destacam os obstáculos críticos que precisam ser superados para alcançar intervenções precisas. Os principais achados do estudo são que os ácidos biliares orquestram processos patológicos centrais, como neuroinflamação e metabolismo de energia, e que suas funções, seja neuroprotetoras ou neurotóxicas, dependem fortemente do contexto, variando com o tipo de célula e a doença. No entanto, não foram fornecidos detalhes sobre os próximos passos específicos para superar os obstáculos e alcançar intervenções precisas, o que é essencial para avançar nessa área de pesquisa.\n\nRecently, a study published in PubMed highlighted the importance of the microbiota-gut-brain axis and bile acid-driven neuromodulation. These compounds, previously considered only as metabolic byproducts, emerge as multifunctional signaling molecules with dual hepatic and microbial origins, acting through the farnesoid X receptor and Takeda G protein-coupled receptor 5 to influence inflammation and metabolism. The dysregulation of these bile acids is consistently observed across various neurodegenerative diseases. The microbiota-gut-brain axis is a pivotal conduit for bile acid-driven neuromodulation, while sex-specific bile acid profiles and signaling pathways introduce critical biological heterogeneity. Emerging translational evidence indicates the promise of bile acids as biomarkers and therapeutic targets, but also highlights the critical hurdles that need to be addressed to realize precision interventions. The core findings of the study are that bile acids orchestrate core pathological processes such as neuroinflammation and energy metabolism, and that their functions, whether neuroprotective or neurotoxic, are highly context-dependent, varying with cell type and disease. However, no specific details were provided on the next steps to overcome the hurdles and achieve precise interventions, which is essential to advance in this area of research.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41467439",
+    "authors": [
+      {
+        "name": "Taiwei Dong",
+        "affiliation": "Department of Neurology, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang Province, China."
+      },
+      {
+        "name": "Tianyi Zhang",
+        "affiliation": "Department of Neurology, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang Province, China."
+      },
+      {
+        "name": "Huanhuan Wang",
+        "affiliation": "School of Basic Medical Sciences, Hangzhou Normal University, Hangzhou, Zhejiang Province, China."
+      },
+      {
+        "name": "Jing Zhang",
+        "affiliation": "Department of Pathology, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang Province, China."
+      }
+    ],
+    "journal": "Neural regeneration research",
+    "publishedDate": "2026-05-18",
+    "fetchedDate": "2026-05-18",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "gene",
+      "therapeutic",
+      "metabolic"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42144689",
     "pmid": "42144689",
     "doi": "10.1002/ccd.70656",
@@ -162,7 +248,7 @@
       "gene",
       "rna"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -204,7 +290,7 @@
       "gene",
       "metabolic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
