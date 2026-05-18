@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-42144689",
+    "pmid": "42144689",
+    "doi": "10.1002/ccd.70656",
+    "title": "Renal Denervation in Cardiovascular Diseases: Mechanisms, Evidence, and Expanding Applications.",
+    "titlePt": "Renal Denervation in Cardiovascular Diseases: Mechanisms, Evidence, and Expanding Applications.",
+    "abstract": "Renal denervation (RDN) is a minimally invasive technique that disrupts renal sympathetic nerve activity, reducing sympathetic overdrive implicated in hypertension and other cardiovascular disorders. After early enthusiasm waned following SYMPLICITY HTN-3, subsequent rigorously designed trials re-established its efficacy. This review summarizes mechanistic insights, clinical evidence, and emerging applications of RDN. Data from randomized trials, meta-analyses, registries, and translational studies were evaluated to assess their safety, efficacy, and broader therapeutic potential. Recent trials (SPYRAL HTN-OFF MED, RADIANCE HTN-TRIO, RADIANCE II) show consistent and durable systolic blood pressure reductions of approximately 5-10&#x2009;mmHg with excellent safety. Beyond resistant hypertension, preliminary studies suggest benefits in heart failure (HFrEF and HFpEF), atrial fibrillation when combined with pulmonary vein isolation, chronic kidney disease, and metabolic syndrome. Mechanis",
+    "journalisticSummary": "A desativação renal (RDN) é uma técnica minimamente invasiva que interrompe a atividade nervosa simpática renal, reduzindo o excesso de atividade simpática implicada na hipertensão e em outros distúrbios cardiovasculares. Após o entusiasmo inicial ter diminuído após o estudo SYMPLICITY HTN-3, ensaios clínicos subsequentes e rigorosamente projetados reestabeleceram sua eficácia. Este resumo visa sintetizar as perspectivas mecanísticas, as evidências clínicas e as aplicações emergentes da RDN. Foram avaliados dados de ensaios clínicos randomizados, meta-análises, registros e estudos de tradução para avaliar sua segurança, eficácia e potencial terapêutico mais amplo. Ensaios clínicos recentes (SPYRAL HTN-OFF MED, RADIANCE HTN-TRIO, RADIANCE II) mostram reduções consistentes e duradouras da pressão arterial sistólica de aproximadamente 5-10 mmHg, com excelente segurança. Além da hipertensão resistente, estudos preliminares sugerem benefícios na insuficiência cardíaca (HFrEF e HFpEF), fibrilação atrial quando combinada com isolamento da veia pulmonar, doença renal crônica e síndrome metabólica. No entanto, não foi especificado no resumo original quais são os próximos passos para a implementação e expansão da RDN em diferentes contextos clínicos.\n\nA desativação renal é uma técnica promissora que pode ser útil em uma variedade de condições cardiovasculares. No entanto, é necessário mais pesquisa para entender melhor seus mecanismos e aplicações. Limitações do estudo incluem a falta de informação sobre os próximos passos para a implementação da RDN. Mais estudos são necessários para confirmar os achados e explorar novas aplicações para a desativação renal.\n\nThe renal denervation (RDN) is a minimally invasive technique that disrupts renal sympathetic nerve activity, reducing sympathetic overdrive implicated in hypertension and other cardiovascular disorders. After the initial enthusiasm waned following the SYMPLICITY HTN-3 study, subsequent rigorously designed trials re-established its efficacy. This review aims to synthesize the mechanistic insights, clinical evidence, and emerging applications of RDN. Data from randomized trials, meta-analyses, registries, and translational studies were evaluated to assess their safety, efficacy, and broader therapeutic potential. Recent trials (SPYRAL HTN-OFF MED, RADIANCE HTN-TRIO, RADIANCE II) show consistent and durable systolic blood pressure reductions of approximately 5-10 mmHg, with excellent safety. Beyond resistant hypertension, preliminary studies suggest benefits in heart failure (HFrEF and HFpEF), atrial fibrillation when combined with pulmonary vein isolation, chronic kidney disease, and metabolic syndrome. However, the original abstract did not specify the next steps for the implementation and expansion of RDN in different clinical contexts.\n\nRDN is a promising technique that may be useful in a variety of cardiovascular conditions. However, further research is needed to better understand its mechanisms and applications. Limitations of the study include the lack of information on the next steps for RDN implementation. More studies are needed to confirm the findings and explore new applications for renal denervation.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42144689",
+    "authors": [
+      {
+        "name": "Ameer Awashra",
+        "affiliation": "Department of Medicine, An Najah National University, Nablus, Palestine."
+      },
+      {
+        "name": "Haroun Neiroukh",
+        "affiliation": "Department of Medicine, An Najah National University, Nablus, Palestine."
+      },
+      {
+        "name": "Lubna Alnatour",
+        "affiliation": "School of Medicine, The University of Jordan, Amman, Jordan."
+      },
+      {
+        "name": "Nada S Jibril",
+        "affiliation": "Faculty of Medicine, Menoufia University, Menoufia, Egypt."
+      }
+    ],
+    "journal": "Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography &amp; Interventions",
+    "publishedDate": "2026-05-18",
+    "fetchedDate": "2026-05-18",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "heart",
+      "atrial",
+      "hypertension",
+      "therapeutic"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41763907",
     "pmid": "41763907",
     "doi": "10.1016/j.vasdi.2026.02.007",
@@ -203,7 +248,7 @@
       "pediatric",
       "children"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
