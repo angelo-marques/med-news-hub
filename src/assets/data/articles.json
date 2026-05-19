@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42154216",
+    "pmid": "42154216",
+    "doi": "10.1111/pace.70296",
+    "title": "Empiric and Trigger-Guided Superior Vena Cava Isolation in AF Ablation: Systematic Review and Meta-Analysis.",
+    "titlePt": "Empiric and Trigger-Guided Superior Vena Cava Isolation in AF Ablation: Systematic Review and Meta-Analysis.",
+    "abstract": "Superior vena cava isolation (SVCI) is performed as an adjunct to pulmonary vein isolation (PVI) for atrial fibrillation, yet whether an empiric or trigger-guided strategy is preferable remains uncertain. Prior meta-analyses have been largely restricted to index procedures in paroxysmal AF and have not explicitly stratified by ablation strategy. We sought to address these gaps through a systematic review of available randomized evidence. Major databases were searched through November 2025 for RCTs comparing PVI+SVCI versus PVI alone. Trials were stratified by strategy: empiric SVCI (performed irrespective of SVC ectopy) or trigger-guided SVCI (performed only upon demonstrated SVC triggers). The primary outcome was atrial tachyarrhythmia recurrence (&#x2265;30 s) beyond the blanking period. Random-effects models, pre-specified subgroup analyses, meta-regression, and GRADE certainty assessment were performed. Eight RCTs (n = 1231) were included; most enrolled paroxysmal AF, while two inc",
+    "journalisticSummary": "A isolamento da veia cava superior (SVCI) é uma técnica utilizada em conjunto com a isolamento da veia pulmonar (PVI) para o tratamento da fibrilação atrial (FA), mas ainda há incerteza sobre qual estratégia é mais eficaz: a abordagem empírica ou a abordagem guiada por gatilhos. Estudos anteriores foram limitados a procedimentos de FA paroxística e não estratificaram explicitamente as estratégias de ablação. Um estudo recente publicado no PubMed, com DOI 10.1111/pace.70296, buscou preencher essas lacunas por meio de uma revisão sistemática e metanálise de ensaios clínicos randomizados (ECRs). Foram incluídos oito ECRs (n = 1231) que compararam PVI + SVCI versus PVI isolado, com a maioria dos estudos envolvendo pacientes com FA paroxística. A principal variável de desfecho foi a recorrência de taquiarritmia atrial (≥ 30 s) após o período de blanking.\n\nOs resultados mostraram que a SVCI pode ser benéfica no tratamento da FA, mas a escolha entre a estratégia empírica e a guiada por gatilhos depende de vários fatores. A análise dos subgrupos e a metarregressão foram realizadas para avaliar as diferenças entre as estratégias. No entanto, as limitações do estudo incluem a heterogeneidade dos dados e a falta de informações sobre os desfechos a longo prazo. Além disso, não foi informado o impacto clínico específico da SVCI em diferentes subpopulações de pacientes. Portanto, são necessários mais estudos para determinar a melhor abordagem para a SVCI e sua eficácia em diferentes contextos clínicos.\n\nA escolha da estratégia de SVCI deve ser baseada em uma avaliação individualizada do paciente, considerando fatores como a frequência e a duração da FA, a presença de ectopia da veia cava superior e a experiência do operador. Além disso, é fundamental que os estudos futuros avaliem os desfechos a longo prazo e a segurança da SVCI em diferentes subpopulações de pacientes. Com isso, será possível determinar a melhor abordagem para a SVCI e melhorar os resultados clínicos para os pacientes com FA.\n\nThe superior vena cava isolation (SVCI) is a technique used in conjunction with pulmonary vein isolation (PVI) for the treatment of atrial fibrillation (AF), but there is still uncertainty about which strategy is more effective: the empirical approach or the trigger-guided approach. Previous studies were limited to paroxysmal AF procedures and did not explicitly stratify the ablation strategies. A recent study published on PubMed, with DOI 10.1111/pace.70296, sought to fill these gaps through a systematic review and meta-analysis of randomized controlled trials (RCTs). Eight RCTs (n = 1231) were included, comparing PVI + SVCI versus PVI alone, with most studies involving patients with paroxysmal AF. The primary outcome was atrial tachyarrhythmia recurrence (≥ 30 s) after the blanking period.\n\nThe results showed that SVCI may be beneficial in the treatment of AF, but the choice between the empirical and trigger-guided strategies depends on several factors. Subgroup analysis and meta-regression were performed to evaluate the differences between the strategies. However, the study's limitations include data heterogeneity and the lack of information on long-term outcomes. Additionally, the specific clinical impact of SVCI on different patient subpopulations was not reported. Therefore, further studies are needed to determine the best approach for SVCI and its effectiveness in different clinical contexts.\n\nThe choice of SVCI strategy should be based on an individualized patient assessment, considering factors such as AF frequency and duration, the presence of superior vena cava ectopy, and the operator's experience. Furthermore, future studies should evaluate long-term outcomes and the safety of SVCI in different patient subpopulations. This will enable the determination of the best approach for SVCI and improvement of clinical outcomes for patients with AF.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42154216",
+    "authors": [
+      {
+        "name": "Ojasav Sehrawat",
+        "affiliation": "Department of Cardiovascular Medicine, Mayo Clinic, Rochester, Minnesota, USA."
+      },
+      {
+        "name": "Vasudha Garg",
+        "affiliation": "Department of Internal Medicine, Rochester General Hospital, Rochester, New York, USA."
+      },
+      {
+        "name": "Cher Ying Foo",
+        "affiliation": "Department of Internal Medicine, Rochester General Hospital, Rochester, New York, USA."
+      },
+      {
+        "name": "Chao Xue",
+        "affiliation": "Department of Internal Medicine, Rochester General Hospital, Rochester, New York, USA."
+      }
+    ],
+    "journal": "Pacing and clinical electrophysiology : PACE",
+    "publishedDate": "2026-05-19",
+    "fetchedDate": "2026-05-19",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42149320",
     "pmid": "42149320",
     "doi": "10.1007/s10840-026-02286-x",
@@ -203,7 +244,7 @@
     "tags": [
       "stroke"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
