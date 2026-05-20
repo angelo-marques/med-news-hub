@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-41482136",
+    "pmid": "41482136",
+    "doi": "10.1016/j.survophthal.2025.12.007",
+    "title": "Glucagon-like peptide-1 receptor agonists: What ophthalmologists need to know.",
+    "titlePt": "Glucagon-like peptide-1 receptor agonists: What ophthalmologists need to know.",
+    "abstract": "Initially designed for the treatment of type-2 diabetes, glucagon-like peptide-1 receptor agonists (GLP-1RA) are multifaceted agents with promising neuroprotective and anti-inflammatory properties. The majority of the research exploring the relationship between GLP-1RA use and ophthalmic disease comes from large database studies or secondary-analysis of randomized controlled trials investigating GLP-1RAs in cardiovascular disease and obesity. Current evidence regarding the impact of GLP-1 receptor agonists on ophthalmic diseases remains inconsistent, with studies reporting both protective and detrimental effects. For example, there are conflicting findings of an effect on diabetic retinopathy and non-arteritic anterior ischemic optic neuropathy, as well as age-related macular degeneration, with GLP-1RA use. In contrast, GLP-1RAs have more consistently demonstrated a protective effect against idiopathic intracranial hypertension, glaucoma and dry-eye disease. Importantly, the majority o",
+    "journalisticSummary": "Os agonistas do receptor de peptídeo semelhante ao glucagon-1 (GLP-1RA) foram inicialmente projetados para o tratamento do diabetes tipo 2, mas demonstraram ser agentes multifacetados com promissoras propriedades neuroprotetoras e anti-inflamatórias. A maioria das pesquisas que exploram a relação entre o uso de GLP-1RA e doenças oculares provém de estudos de grandes bases de dados ou de análises secundárias de ensaios clínicos randomizados que investigam GLP-1RA em doenças cardiovasculares e obesidade. Atualmente, as evidências sobre o impacto dos agonistas do receptor de GLP-1 em doenças oculares permanecem inconsistentes, com estudos relatando tanto efeitos protetores quanto prejudiciais. Por exemplo, há achados conflitantes sobre o efeito na retinopatia diabética e na neuropatia óptica isquêmica anterior não arterítica, bem como na degeneração macular relacionada à idade, com o uso de GLP-1RA. Em contraste, os GLP-1RA demonstraram consistentemente um efeito protetor contra a hipertensão intracraniana idiopática, glaucoma e doença do olho seco. Importante destacar que a maioria dos estudos sugere que os GLP-1RA podem ter um papel benéfico em algumas doenças oculares, mas mais pesquisas são necessárias para esclarecer os mecanismos e os efeitos a longo prazo.\n\nThe glucagon-like peptide-1 receptor agonists (GLP-1RA) were initially designed for the treatment of type-2 diabetes, but have demonstrated to be multifaceted agents with promising neuroprotective and anti-inflammatory properties. Most of the research exploring the relationship between GLP-1RA use and ophthalmic disease comes from large database studies or secondary analysis of randomized controlled trials investigating GLP-1RA in cardiovascular disease and obesity. Current evidence regarding the impact of GLP-1 receptor agonists on ophthalmic diseases remains inconsistent, with studies reporting both protective and detrimental effects. For example, there are conflicting findings of an effect on diabetic retinopathy and non-arteritic anterior ischemic optic neuropathy, as well as age-related macular degeneration, with GLP-1RA use. In contrast, GLP-1RA have more consistently demonstrated a protective effect against idiopathic intracranial hypertension, glaucoma, and dry-eye disease. Importantly, most studies suggest that GLP-1RA may have a beneficial role in some ophthalmic diseases, but further research is needed to clarify the mechanisms and long-term effects.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41482136",
+    "authors": [
+      {
+        "name": "Suraj Bala",
+        "affiliation": "Cole Eye Institute, Cleveland Clinic, Cleveland, OH, United States; Hackensack Meridian School of Medicine, Nutley, NJ, United States."
+      },
+      {
+        "name": "Kevin C Allan",
+        "affiliation": "Cole Eye Institute, Cleveland Clinic, Cleveland, OH, United States."
+      },
+      {
+        "name": "Nicole L Decker",
+        "affiliation": "Cole Eye Institute, Cleveland Clinic, Cleveland, OH, United States."
+      },
+      {
+        "name": "Nadia J Abbass",
+        "affiliation": "Cole Eye Institute, Cleveland Clinic, Cleveland, OH, United States."
+      }
+    ],
+    "journal": "Survey of ophthalmology",
+    "publishedDate": "2026-05-19",
+    "fetchedDate": "2026-05-20",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "hypertension",
+      "gene",
+      "diabetes",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42154216",
     "pmid": "42154216",
     "doi": "10.1111/pace.70296",
@@ -203,7 +248,7 @@
     "tags": [
       "cardiovascular"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
