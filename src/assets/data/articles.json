@@ -1,5 +1,91 @@
 [
   {
+    "id": "pubmed-42163304",
+    "pmid": "42163304",
+    "doi": "10.1186/s13045-026-01806-6",
+    "title": "Standard-of-care ciltacabtagene autoleucel in earlier versus later lines of therapy for relapsed or refractory multiple myeloma: a nationwide registry analysis.",
+    "titlePt": "Standard-of-care ciltacabtagene autoleucel in earlier versus later lines of therapy for relapsed or refractory multiple myeloma: a nationwide registry analysis.",
+    "abstract": "Ciltacabtagene autoleucel (cilta-cel) is a BCMA-directed chimeric antigen receptor (CAR) T-cell therapy approved for relapsed or refractory multiple myeloma (RRMM). Following the CARTITUDE-1 results in heavily pretreated patients, the randomized phase 3 CARTITUDE-4 trial demonstrated superior progression-free survival (PFS) and overall survival for cilta-cel compared with standard of care in lenalidomide-refractory patients after one to three prior lines, leading to label expansion in 2024. However, real-world data characterizing outcomes in this earlier-line indication are lacking. We analyzed all patients with RRMM receiving standard-of-care cilta-cel between 2022 and 2025 from the German Registry for Stem Cell Transplantation and Cellular Therapy. Patients were stratified by prior lines of therapy into an Early group (1-3 prior lines) and a Late group (&gt;&#x2009;3 prior lines). The primary endpoint was PFS. Secondary endpoints included overall response rate, response conversion, a",
+    "journalisticSummary": "O tratamento com ciltacabtagene autoleucel (cilta-cel), uma terapia de células T do receptor de antígeno quimérico (CAR) direcionada ao BCMA, tem sido cada vez mais reconhecido como uma op��ão eficaz para pacientes com mieloma múltiplo recidivado ou refratário (RRMM). Com base nos resultados do estudo CARTITUDE-1 em pacientes fortemente pré-tratados, o estudo randomizado de fase 3 CARTITUDE-4 demonstrou uma sobrevida livre de progressão (PFS) e sobrevida geral superiores para cilta-cel em comparação com o tratamento padrão em pacientes refratários a lenalidomida após uma a três linhas de tratamento anteriores. Isso levou à expansão da indicação em 2024. No entanto, dados do mundo real que caracterizem os resultados nessa indicação de linha anterior são escassos. Um estudo recente analisou todos os pacientes com RRMM que receberam cilta-cel como tratamento padrão entre 2022 e 2025, a partir do Registro Alemão para Transplante de Células-Tronco e Terapia Celular. Os pacientes foram estratificados por linhas de tratamento anteriores em um grupo Precoce (1-3 linhas anteriores) e um grupo Tardio (mais de 3 linhas anteriores). O endpoint primário foi a sobrevida livre de progressão (PFS), enquanto as taxas de resposta geral, conversão de resposta e outros parâmetros foram avaliados como endpoints secundários. Embora o estudo forneça insights valiosos sobre o uso de cilta-cel em diferentes estágios do tratamento, não foram informados detalhes sobre as limitações específicas e os próximos passos para a pesquisa, o que sugere a necessidade de mais investigações para otimizar a aplicação clínica dessa terapia inovadora.\n\nThe treatment with ciltacabtagene autoleucel (cilta-cel), a BCMA-directed chimeric antigen receptor (CAR) T-cell therapy, has increasingly been recognized as an effective option for patients with relapsed or refractory multiple myeloma (RRMM). Based on the results of the CARTITUDE-1 study in heavily pretreated patients, the randomized phase 3 CARTITUDE-4 trial demonstrated superior progression-free survival (PFS) and overall survival for cilta-cel compared to standard of care in lenalidomide-refractory patients after one to three prior lines, leading to label expansion in 2024. However, real-world data characterizing outcomes in this earlier-line indication are lacking. A recent study analyzed all patients with RRMM who received cilta-cel as standard-of-care between 2022 and 2025, from the German Registry for Stem Cell Transplantation and Cellular Therapy. Patients were stratified by prior lines of therapy into an Early group (1-3 prior lines) and a Late group (more than 3 prior lines). The primary endpoint was PFS, while overall response rate, response conversion, and other parameters were evaluated as secondary endpoints. Although the study provides valuable insights into the use of cilta-cel at different stages of treatment, specific limitations and next steps for research were not reported, suggesting the need for further investigations to optimize the clinical application of this innovative therapy.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42163304",
+    "authors": [
+      {
+        "name": "Nico Gagelmann",
+        "affiliation": "University Medical Center Hamburg-Eppendorf, Hamburg, Germany."
+      },
+      {
+        "name": "Hermann Einsele",
+        "affiliation": "Universit&#xe4;tsklinikum W&#xfc;rzburg, W&#xfc;rzburg, Germany."
+      },
+      {
+        "name": "Sarah Flossdorf",
+        "affiliation": "Universit&#xe4;tsklinikum Essen, Essen, Germany."
+      },
+      {
+        "name": "Samih Smaili",
+        "affiliation": "German Registry for Hematopoietic Stem Cell Transplantation and Cell Therapy, Ulm, Germany."
+      }
+    ],
+    "journal": "Journal of hematology &amp; oncology",
+    "publishedDate": "2026-05-21",
+    "fetchedDate": "2026-05-21",
+    "category": "Genômica",
+    "tags": [
+      "gene"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-42159375",
+    "pmid": "42159375",
+    "doi": "10.1097/CCM.0000000000007135",
+    "title": "External Validation, Molecular Signatures, and Therapeutic Relevance of Pediatric Sepsis-Associated Acute Kidney Injury Subphenotypes.",
+    "titlePt": "External Validation, Molecular Signatures, and Therapeutic Relevance of Pediatric Sepsis-Associated Acute Kidney Injury Subphenotypes.",
+    "abstract": "Sepsis-associated acute kidney injury (SAKI) is a heterogeneous condition that lacks disease-modifying treatments, and precision medicine approaches are needed. We previously derived two reproducible pediatric SAKI subphenotypes (pSAKI-1 and pSAKI-2) from readily available clinical data. We aimed to externally validate the prognostic relevance of these subphenotypes, evaluate their molecular signatures, and assess for heterogeneity of treatment effect (HTE) across subphenotypes with sepsis therapies. Secondary analysis of an ongoing multicenter, prospective, observational study of children. Ten PICUs in the United States from January 2002 to February 2025. Patients 1 week to 18 years old with early (day 1-2) SAKI. None. Among 871 patients, 665 (76%) were assigned pSAKI-1 and 206 (24%) to pSAKI-2. On day 1-2, the pSAKI-2 cohort had greater severity of illness, including higher acute kidney injury stage and vasoactive burden, lower platelet counts, and higher lactate values and Internati",
+    "journalisticSummary": "Um estudo recente publicado no PubMed buscou validar externamente a relevância prognóstica de dois subfenótipos de lesão renal aguda associada à sepse (SAKI) em pacientes pediátricos, denominados pSAKI-1 e pSAKI-2. Esses subfenótipos foram derivados a partir de dados clínicos facilmente disponíveis, com o objetivo de fornecer uma abordagem de medicina personalizada para essa condição heterogênea, que carece de tratamentos que modifiquem a doença. A validação externa foi realizada por meio de uma análise secundária de um estudo multicêntrico, prospectivo e observacional em curso, envolvendo 10 unidades de cuidados intensivos pediátricos (PICUs) nos Estados Unidos, entre janeiro de 2002 e fevereiro de 2025. Os pacientes incluídos tinham idades entre 1 semana e 18 anos e apresentavam lesão renal aguda associada à sepse nos primeiros dias de internação.\n\nOs resultados mostraram que, entre 871 pacientes, 665 (76%) foram classificados como pSAKI-1 e 206 (24%) como pSAKI-2. Os pacientes com pSAKI-2 apresentaram maior gravidade da doença, incluindo estágios mais avançados de lesão renal aguda, maior carga de medicamentos vasoativos, contagens de plaquetas mais baixas e valores mais altos de lactato. Essas diferenças sugerem que os subfenótipos pSAKI-1 e pSAKI-2 possam ter implicações distintas para o tratamento e o prognóstico. No entanto, não foram fornecidos detalhes sobre as implicações terapêuticas específicas ou os próximos passos para a investigação desses subfenótipos. Limitações do estudo incluem a natureza observacional, o que pode introduzir viés e limitar a capacidade de inferir causalidade. Além disso, a falta de informações sobre os resultados a longo prazo e a eficácia de tratamentos específicos para cada subfenótipo é uma lacuna importante que necessita de investigação adicional.\n\nUm estudo recém-publicado no PubMed procurou validar externamente a relevância prognóstica de dois subfenótipos de lesão renal aguda associada à sepse (SAKI) em pacientes pediátricos, denominados pSAKI-1 e pSAKI-2, e não foi informado no resumo original sobre os detalhes específicos das implicações terapêuticas ou os próximos passos.\n\nA pesquisa sobre os subfenótipos de SAKI em pacientes pediátricos é crucial para o desenvolvimento de tratamentos mais personalizados e eficazes. No entanto, são necessários mais estudos para compreender melhor as implicações clínicas desses subfenótipos e como eles podem ser utilizados para melhorar os resultados dos pacientes.\n\nA versão em inglês:\n\nA recent study published in PubMed sought to externally validate the prognostic relevance of two subphenotypes of sepsis-associated acute kidney injury (SAKI) in pediatric patients, termed pSAKI-1 and pSAKI-2. These subphenotypes were derived from readily available clinical data, with the goal of providing a precision medicine approach to this heterogeneous condition, which lacks disease-modifying treatments. The external validation was performed through a secondary analysis of an ongoing multicenter, prospective, observational study, involving 10 pediatric intensive care units (PICUs) in the United States, between January 2002 and February 2025. The patients included were between 1 week and 18 years old and had early (day 1-2) SAKI.\n\nThe results showed that among 871 patients, 665 (76%) were classified as pSAKI-1 and 206 (24%) as pSAKI-2. The patients with pSAKI-2 had greater severity of illness, including more advanced stages of acute kidney injury, higher vasoactive burden, lower platelet counts, and higher lactate values. These differences suggest that the pSAKI-1 and pSAKI-2 subphenotypes may have distinct implications for treatment and prognosis. However, details about specific therapeutic implications or next steps for investigating these subphenotypes were not provided. Limitations of the study include its observational nature, which may introduce bias and limit the ability to infer causality. Additionally, the lack of information about long-term outcomes and the efficacy of specific treatments for each subphenotype is a significant gap that requires further investigation.\n\nResearch on SAKI subphenotypes in pediatric patients is crucial for the development of more personalized and effective treatments. However, further studies are needed to better understand the clinical implications of these subphenotypes and how they can be used to improve patient outcomes. The study's findings highlight the importance of continued research in this area to improve our understanding of SAKI and to develop targeted therapies that can improve patient outcomes.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42159375",
+    "authors": [
+      {
+        "name": "Natalja L Stanski",
+        "affiliation": "Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH."
+      },
+      {
+        "name": "Bin Zhang",
+        "affiliation": "Division of Critical Care Medicine, Cincinnati Children's Hospital Medical Center, Cincinnati, OH."
+      },
+      {
+        "name": "Jiarong Ouyang",
+        "affiliation": "Division of Biostatistics and Epidemiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH."
+      },
+      {
+        "name": "Stephen W Standage",
+        "affiliation": "Division of Biostatistics and Epidemiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH."
+      }
+    ],
+    "journal": "Critical care medicine",
+    "publishedDate": "2026-05-20",
+    "fetchedDate": "2026-05-21",
+    "category": "Genômica",
+    "tags": [
+      "sepsis",
+      "gene",
+      "rna",
+      "therapeutic",
+      "pediatric"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-40985363",
     "pmid": "40985363",
     "doi": "10.1080/16506073.2025.2564817",
@@ -160,7 +246,7 @@
       "heart",
       "covid"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -205,7 +291,7 @@
       "therapeutic",
       "antibody"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
