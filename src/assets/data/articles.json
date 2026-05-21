@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-41414917",
+    "pmid": "41414917",
+    "doi": "10.1002/ncp.70082",
+    "title": "Low calf circumference is associated with higher plasma N-terminal pro-B-type natriuretic peptide in hospitalized heart failure patients: A retrospective study.",
+    "titlePt": "Low calf circumference is associated with higher plasma N-terminal pro-B-type natriuretic peptide in hospitalized heart failure patients: A retrospective study.",
+    "abstract": "Heart failure (HF) affects millions of persons worldwide, with malnutrition and sarcopenia as prevalent complications. Both are characterized by low muscle mass (MM), which can be estimated using Body mass index (BMI)-adjusted calf circumference (CC). Although CC is a simple and practical surrogate for MM, it is not routinely included in standard nutrition screening tools, despite recommendations from the Global Leadership Initiative on Malnutrition. In patients with HF, low MM has been linked to elevated N-terminal pro-B-type natriuretic peptide (NT-proBNP) levels, a marker of cardiac stress. Including CC in nutrition screening may improve detection of malnourished patients. This study aimed to assess the association between BMI-adjusted CC and NT-proBNP levels in hospitalized patients with HF. This retrospectively conducted cross-sectional study included 202 patients with HF across different ejection fraction categories. Data on demographics, anthropometry, and biochemical markers we",
+    "journalisticSummary": "A insuficiência cardíaca (IC) é uma condição que afeta milhões de pessoas em todo o mundo, com desnutrição e sarcopenia como complicações comuns. Ambas estão caracterizadas por baixa massa muscular (MM), que pode ser estimada utilizando o índice de massa corporal (IMC) ajustado para a circunferência da panturrilha (CC). Embora a CC seja um substituto simples e prático para a MM, ela não é incluída rotineiramente nas ferramentas padrão de triagem nutricional, apesar de recomendações da Iniciativa Global de Liderança em Desnutrição. Em pacientes com IC, baixa MM foi associada a níveis elevados de peptídeo natriurético tipo B (NT-proBNP), um marcador de estresse cardíaco. A inclusão da CC na triagem nutricional pode melhorar a detecção de pacientes desnutridos.\n\nUm estudo retrospectivo recente, publicado no PubMed, investigou a associação entre a CC ajustada para IMC e os níveis de NT-proBNP em pacientes hospitalizados com IC. O estudo incluiu 202 pacientes com IC de diferentes categorias de fração de ejeção. Os resultados mostraram que a CC ajustada para IMC está associada a níveis mais altos de NT-proBNP, o que sugere que a inclusão da CC na triagem nutricional pode ser útil para identificar pacientes com IC que estão em risco de desnutrição e sarcopenia.\n\nOs achados deste estudo têm implicações clínicas importantes, pois a detecção precoce e o tratamento da desnutrição e da sarcopenia podem melhorar os resultados dos pacientes com IC. No entanto, é importante notar que o estudo teve limitações, incluindo a natureza retrospectiva da análise e a falta de informações sobre a composição corporal dos pacientes. Além disso, não foi informado se os pacientes incluídos no estudo tinham outras condições médicas que pudessem afetar os resultados.\n\nEm resumo, o estudo sugere que a CC ajustada para IMC é um marcador útil para identificar pacientes com IC que estão em risco de desnutrição e sarcopenia. Futuros estudos devem investigar a utilidade da CC como ferramenta de triagem nutricional em pacientes com IC e explorar as implicações clínicas da detecção precoce e do tratamento da desnutrição e da sarcopenia nesses pacientes.\n\nHeart failure (HF) affects millions of people worldwide, with malnutrition and sarcopenia as prevalent complications. Both are characterized by low muscle mass (MM), which can be estimated using body mass index (BMI)-adjusted calf circumference (CC). Although CC is a simple and practical surrogate for MM, it is not routinely included in standard nutrition screening tools, despite recommendations from the Global Leadership Initiative on Malnutrition. In patients with HF, low MM has been linked to elevated N-terminal pro-B-type natriuretic peptide (NT-proBNP) levels, a marker of cardiac stress. Including CC in nutrition screening may improve detection of malnourished patients.\n\nA recent retrospective study, published in PubMed, investigated the association between BMI-adjusted CC and NT-proBNP levels in hospitalized patients with HF. The study included 202 patients with HF across different ejection fraction categories. The results showed that BMI-adjusted CC is associated with higher NT-proBNP levels, suggesting that including CC in nutrition screening may be useful for identifying patients with HF who are at risk of malnutrition and sarcopenia.\n\nThe findings of this study have important clinical implications, as early detection and treatment of malnutrition and sarcopenia may improve outcomes for patients with HF. However, it is essential to note that the study had limitations, including the retrospective nature of the analysis and the lack of information on the patients' body composition. Additionally, it was not reported whether the patients included in the study had other medical conditions that could affect the results.\n\nIn summary, the study suggests that BMI-adjusted CC is a useful marker for identifying patients with HF who are at risk of malnutrition and sarcopenia. Future studies should investigate the utility of CC as a nutrition screening tool in patients with HF and explore the clinical implications of early detection and treatment of malnutrition and sarcopenia in these patients.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41414917",
+    "authors": [
+      {
+        "name": "Jacob Jonatan Cruz-S&#xe1;nchez",
+        "affiliation": "Division of Surgical and Medical Specialties, Instituto Nacional de Cardiolog&#xed;a Ignacio Ch&#xe1;vez, Mexico City, Mexico."
+      },
+      {
+        "name": "Francisco Javier Gonz&#xe1;lez-Ruiz",
+        "affiliation": "Postgraduate and Research Studies Section, Superior School of Medicine, Instituto Polit&#xe9;cnico Nacional, Mexico City, Mexico."
+      },
+      {
+        "name": "Carla Gabriela Aguilar-Rodr&#xed;guez",
+        "affiliation": "Department of Cardiovascular Critical Care, Instituto Nacional de Cardiolog&#xed;a Ignacio Ch&#xe1;vez, Mexico City, Mexico."
+      },
+      {
+        "name": "Mario Gabriel Acosta-Osuna",
+        "affiliation": "Division of Surgical and Medical Specialties, Instituto Nacional de Cardiolog&#xed;a Ignacio Ch&#xe1;vez, Mexico City, Mexico."
+      }
+    ],
+    "journal": "Nutrition in clinical practice : official publication of the American Society for Parenteral and Enteral Nutrition",
+    "publishedDate": "2026-05-21",
+    "fetchedDate": "2026-05-21",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "heart"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42163304",
     "pmid": "42163304",
     "doi": "10.1186/s13045-026-01806-6",
@@ -208,7 +250,7 @@
       "clinical trial",
       "obesity"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
