@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-40975678",
+    "pmid": "40975678",
+    "doi": "10.1016/j.bulcan.2025.07.016",
+    "title": "[Choice of bridging therapy prior to reinjection of autologous CAR-T cells in patients aged 0-25&#xa0;years treated for B-ALL (SFGM-TC)].",
+    "titlePt": "[Choice of bridging therapy prior to reinjection of autologous CAR-T cells in patients aged 0-25&#xa0;years treated for B-ALL (SFGM-TC)].",
+    "abstract": "CAR-T-cells represent a major change in the field of relapsed/refractory B-cell acute lymphoblastic leukemia treatment in children, adolescents and young adults. However, despite a high early response rate of more than 90%, almost half of patients relapse after CAR-T-cells treatment. Several clinical and biological factors predicting success and failure of CAR-T-cells have been identified thanks to real life studies. Bridging period between leukapheresis and CAR-T-cells reinfusion is considered as a key stone to allow CAR-T-cells procedure in optimal condition. No prospective study and few retrospective studies are available describing this period. Consequently, there is currently no available guidelines. This article aims to describe the objectives and risks of the bridge, and to define recommendations of treatment in each situation of relapsed or refractory B-ALL, Ph+/ABL-like B-ALL and in case of CNS disease or non-CNS extra medullary disease, precising the specific place of immunot",
+    "journalisticSummary": "O tratamento com células CAR-T representa uma mudança significativa no campo da leucemia linfoblástica aguda de células B recorrente ou refratária em crianças, adolescentes e jovens adultos. No entanto, apesar de uma taxa de resposta inicial alta de mais de 90%, quase metade dos pacientes sofre recaída após o tratamento com células CAR-T. Vários fatores clínicos e biológicos que preveem o sucesso e o fracasso das células CAR-T foram identificados graças a estudos de vida real. O período de ponte entre a leucoaférese e a reinfusão de células CAR-T é considerado fundamental para permitir o procedimento de células CAR-T em condições ótimas. No entanto, não há estudos prospectivos e poucos estudos retrospectivos disponíveis que descrevam esse período, o que resulta na falta de diretrizes atuais. Este artigo visa descrever os objetivos e riscos da ponte e definir recomendações de tratamento em cada situação de leucemia linfoblástica aguda de células B recorrente ou refratária, incluindo casos de doença no sistema nervoso central ou doença extramedular não-CNS. Infelizmente, não foram fornecidos detalhes sobre os resultados específicos do estudo ou as recomendações de tratamento, o que limita a capacidade de fornecer uma análise mais aprofundada. Futuros estudos devem se concentrar em fornecer diretrizes claras e baseadas em evidências para o período de ponte e o tratamento com células CAR-T.\n\nThe treatment with CAR-T cells represents a significant change in the field of relapsed or refractory B-cell acute lymphoblastic leukemia in children, adolescents, and young adults. However, despite a high initial response rate of over 90%, almost half of the patients relapse after CAR-T cell treatment. Several clinical and biological factors that predict the success and failure of CAR-T cells have been identified thanks to real-life studies. The bridging period between leukapheresis and CAR-T cell reinfusion is considered crucial to allow the CAR-T cell procedure in optimal conditions. However, there are no prospective studies and few retrospective studies available that describe this period, resulting in a lack of current guidelines. This article aims to describe the objectives and risks of the bridge and define treatment recommendations in each situation of relapsed or refractory B-cell acute lymphoblastic leukemia, including cases of central nervous system disease or non-CNS extramedullary disease. Unfortunately, no specific details about the study's outcomes or treatment recommendations were provided, which limits the ability to provide a more in-depth analysis. Future studies should focus on providing clear, evidence-based guidelines for the bridging period and CAR-T cell treatment.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40975678",
+    "authors": [
+      {
+        "name": "C&#xe9;cile Pochon",
+        "affiliation": "Service d'onco-h&#xe9;matologie p&#xe9;diatrique, CHRU de Nancy, Vand&#x153;uvre-l&#xe8;s-Nancy, France; Laboratoire IMOPA, universit&#xe9; de Lorraine, Vand&#x153;uvre-l&#xe8;s-Nancy, France."
+      },
+      {
+        "name": "Florence Rabian",
+        "affiliation": "Service d'h&#xe9;matologie adolescents et jeunes adultes, h&#xf4;pital Saint-Louis, AP-HP, universit&#xe9; de Paris Cit&#xe9;, Paris, France."
+      },
+      {
+        "name": "Eolia Brissot",
+        "affiliation": "Service d'h&#xe9;matologie clinique et th&#xe9;rapie cellulaire, h&#xf4;pital Tenon, Paris, France."
+      },
+      {
+        "name": "Paul Chauvet",
+        "affiliation": "Maladies du sang, CHU de Lille, universit&#xe9; de Lille, 59000 Lille, France."
+      }
+    ],
+    "journal": "Bulletin du cancer",
+    "publishedDate": "2026-05-21",
+    "fetchedDate": "2026-05-22",
+    "category": "Oncologia",
+    "tags": [
+      "leukemia",
+      "children"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41414917",
     "pmid": "41414917",
     "doi": "10.1002/ncp.70082",
@@ -207,7 +249,7 @@
       "mental health",
       "psychological"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
