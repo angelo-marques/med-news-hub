@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-42138278",
+    "pmid": "42138278",
+    "doi": "10.1097/COC.0000000000001274",
+    "title": "Outcomes With Immunotherapy in Hormone Receptor-Positive Breast Cancer: A Systematic Review and Meta-Analysis.",
+    "titlePt": "Outcomes With Immunotherapy in Hormone Receptor-Positive Breast Cancer: A Systematic Review and Meta-Analysis.",
+    "abstract": "Hormone receptor-positive (HR+)/human epidermal growth factor receptor 2-negative (HER2-) breast cancer has historically shown limited response to immunotherapy. We conducted a systematic review and meta-analysis to evaluate the efficacy and safety of immunotherapy in this patient population. A systematic search of PubMed, Embase, MEDLINE, ClinicalTrials.gov, and Cochrane Library was conducted through May 2025, following PRISMA guidelines. Eligible studies included clinical trials assessing immunotherapy, either alone or in combination, in HR+/HER2- breast cancer, reporting clinical outcomes. Meta-analyses were performed using random-effects models, with pooled risk ratios (RRs) and event rates. Heterogeneity was assessed using I &#xb2; statistics. A total of 11 randomized controlled trials involving 7480 patients (3742 immunotherapy, 3738 control) were included. Immunotherapy did not significantly improve overall response rate (RR: 1.20; 95% CI: 0.92-1.55) or partial response rate (RR",
+    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a eficácia da imunoterapia no tratamento do câncer de mama receptor hormonal positivo (RH+) e receptor de fator de crescimento epidermal humano 2 negativo (HER2-). Historicamente, essa subpopulação de pacientes tem apresentado resposta limitada à imunoterapia. Para avaliar a eficácia e segurança da imunoterapia nesse grupo, os pesquisadores realizaram uma revisão sistemática e metanálise de estudos clínicos que avaliaram a imunoterapia, tanto isolada quanto em combinação, no tratamento do RH+/HER2- câncer de mama.\n\nA busca sistemática foi realizada em bases de dados como PubMed, Embase, MEDLINE, ClinicalTrials.gov e Cochrane Library, até maio de 2025, seguindo as diretrizes do PRISMA. Foram incluídos 11 ensaios clínicos randomizados que envolveram 7480 pacientes, sendo 3742 submetidos à imunoterapia e 3738 ao tratamento controle. As metanálises foram realizadas usando modelos de efeitos aleatórios, com razões de risco (RR) e taxas de eventos combinadas. A heterogeneidade foi avaliada usando estatísticas I². Os resultados mostraram que a imunoterapia não melhorou significativamente a taxa de resposta geral (RR: 1,20; IC 95%: 0,92-1,55) ou a taxa de resposta parcial.\n\nOs achados desse estudo sugerem que a imunoterapia pode não ser uma opção eficaz para o tratamento do RH+/HER2- câncer de mama. No entanto, é importante notar que os resultados devem ser interpretados com cautela, considerando as limitações do estudo, como a heterogeneidade dos estudos incluídos e a falta de informações sobre subgrupos de pacientes. Além disso, a imunoterapia é um campo em constante evolução, e novos estudos podem proporcionar informações adicionais sobre a eficácia e segurança da imunoterapia nesse grupo de pacientes. Portanto, são necessários mais estudos para determinar o papel da imunoterapia no tratamento do RH+/HER2- câncer de mama.\n\n\nA recent study published in PubMed investigated the efficacy of immunotherapy in the treatment of hormone receptor-positive (HR+) and human epidermal growth factor receptor 2-negative (HER2-) breast cancer. Historically, this patient subgroup has shown limited response to immunotherapy. To evaluate the efficacy and safety of immunotherapy in this group, researchers conducted a systematic review and meta-analysis of clinical trials that assessed immunotherapy, both alone and in combination, in HR+/HER2- breast cancer.\n\nThe systematic search was performed in databases such as PubMed, Embase, MEDLINE, ClinicalTrials.gov, and Cochrane Library, up to May 2025, following PRISMA guidelines. Eleven randomized controlled trials involving 7480 patients were included, with 3742 receiving immunotherapy and 3738 receiving control treatment. Meta-analyses were performed using random-effects models, with pooled risk ratios (RR) and event rates. Heterogeneity was assessed using I² statistics. The results showed that immunotherapy did not significantly improve overall response rate (RR: 1.20; 95% CI: 0.92-1.55) or partial response rate.\n\nThe findings of this study suggest that immunotherapy may not be an effective option for the treatment of HR+/HER2- breast cancer. However, it is essential to note that the results should be interpreted with caution, considering the limitations of the study, such as the heterogeneity of the included studies and the lack of information on patient subgroups. Additionally, immunotherapy is a rapidly evolving field, and new studies may provide further information on the efficacy and safety of immunotherapy in this patient group. Therefore, more studies are needed to determine the role of immunotherapy in the treatment of HR+/HER2- breast cancer.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42138278",
+    "authors": [
+      {
+        "name": "Moazzam Shahzad",
+        "affiliation": "H. Lee Moffitt Cancer Center, Tampa, FL."
+      },
+      {
+        "name": "Muhammad K Amin",
+        "affiliation": "University of Kansas Medical Center, Kansas City, KS."
+      },
+      {
+        "name": "Amir Kasaeian",
+        "affiliation": "Liver and Pancreatobiliary Diseases Research Center, Digestive Diseases Research Institute."
+      },
+      {
+        "name": "Syed M Tariq",
+        "affiliation": "White River Medical Center, Batesville, AR."
+      }
+    ],
+    "journal": "American journal of clinical oncology",
+    "publishedDate": "2026-05-22",
+    "fetchedDate": "2026-05-23",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "immunotherapy",
+      "gene",
+      "clinical trial",
+      "hormone"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-40975678",
     "pmid": "40975678",
     "doi": "10.1016/j.bulcan.2025.07.016",
@@ -207,7 +252,7 @@
       "gene",
       "anxiety"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
