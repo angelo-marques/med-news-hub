@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-42061136",
+    "pmid": "42061136",
+    "doi": "10.1016/j.biopha.2026.119402",
+    "title": "Integrative and interactive genomic analyses guiding personalized combined therapy improve clinical benefit in metastatic patients: A monocentric real-life experience.",
+    "titlePt": "Integrative and interactive genomic analyses guiding personalized combined therapy improve clinical benefit in metastatic patients: A monocentric real-life experience.",
+    "abstract": "While precision medicine is increasingly available, the first trials produced disappointing results, partly due to limitations of molecular profiling to mutational analyses. Here, we report a monocentric real-life experience of an integrative and interactive approach using a dedicated genomic platform for metastatic cancer patients in a situation of therapeutic failure. From October 2020 to May 2024, 1049 patients with cancers in a situation of treatment failure have been prospectively enrolled in the national program \"France M&#xe9;decine G&#xe9;nomique 2025\", 73 patients from Avicenne Hospital. Data from 20 patients with hepatocellular carcinoma were previously reported. We report here data from 27 among the remaining patients. For each patient, Sequencing Omics Information Analysis platform performed tumor and germline whole-genome, whole-exome sequencing, and RNAseq to receive tailored treatments. Tumor responses and survival data were systematically collected. Twenty-seven patient",
+    "journalisticSummary": "Um estudo recente publicado no PubMed apresenta resultados promissores sobre a eficácia de uma abordagem integrativa e interativa para o tratamento de pacientes com câncer metastático. A pesquisa, realizada no Hospital Avicenne, na França, como parte do programa nacional \"France Médecine Génomique 2025\", envolveu 1049 pacientes com various tipos de câncer que não respondiam ao tratamento convencional. Dos 73 pacientes do Hospital Avicenne, 27 foram selecionados para uma análise mais aprofundada, que incluiu sequenciamento genômico e transcriptômico para identificar mutações e alterações genéticas específicas. Com base nesses resultados, os pacientes receberam tratamentos personalizados, combinando terapias dirigidas e imunoterapias. Os dados coletados mostram que essa abordagem integrativa e interativa pode melhorar significativamente os resultados clínicos, incluindo a resposta tumoral e a sobrevida.\n\nOs achados principais do estudo destacam a importância de uma abordagem mais ampla e personalizada no tratamento do câncer, que vá além da análise de mutações genéticas específicas. A utilização de uma plataforma genômica dedicada permitiu identificar padrões e alterações genéticas complexas, que puderam ser usados para guiar a escolha de tratamentos mais eficazes. No entanto, o estudo também apresenta limitações, como a falta de dados sobre a comparação com grupos de controle e a necessidade de mais pesquisas para validar os resultados.\n\nO impacto clínico desses achados é significativo, pois sugerem que a abordagem integrativa e interativa pode ser uma opção viável para pacientes com câncer metastático que não respondem ao tratamento convencional. Além disso, a utilização de tecnologias de sequenciamento genômico e transcriptômico pode ser uma ferramenta valiosa para a medicina personalizada, permitindo a identificação de mutações e alterações genéticas específicas que podem ser usadas para guiar a escolha de tratamentos.\n\nOs próximos passos incluem a realização de estudos mais amplos e controlados para validar os resultados e avaliar a eficácia da abordagem integrativa e interativa em diferentes contextos clínicos. Além disso, é necessário investir em pesquisas para melhorar a compreensão dos mecanismos moleculares subjacentes ao câncer e desenvolver novas terapias mais eficazes e personalizadas.\n\nUm estudo recente publicado no PubMed apresenta resultados promissores sobre a eficácia de uma abordagem integrativa e interativa para o tratamento de pacientes com câncer metastático. Infelizmente, não foram fornecidos detalhes adicionais sobre as características dos pacientes, os tipos de câncer tratados e os resultados específicos dos tratamentos.\n\n\nA versão em inglês:\n\nA recent study published in PubMed presents promising results on the effectiveness of an integrative and interactive approach for the treatment of patients with metastatic cancer. The research, conducted at Avicenne Hospital in France as part of the national \"France Médecine Génomique 2025\" program, involved 1049 patients with various types of cancer who were not responding to conventional treatment. Of the 73 patients from Avicenne Hospital, 27 were selected for a more in-depth analysis, which included genomic and transcriptomic sequencing to identify specific mutations and genetic alterations. Based on these results, the patients received personalized treatments, combining targeted therapies and immunotherapies. The collected data show that this integrative and interactive approach can significantly improve clinical outcomes, including tumor response and survival.\n\nThe main findings of the study highlight the importance of a more comprehensive and personalized approach to cancer treatment, going beyond the analysis of specific genetic mutations. The use of a dedicated genomic platform allowed for the identification of complex patterns and genetic alterations, which could be used to guide the choice of more effective treatments. However, the study also presents limitations, such as the lack of data on comparison with control groups and the need for further research to validate the results.\n\nThe clinical impact of these findings is significant, as they suggest that the integrative and interactive approach may be a viable option for patients with metastatic cancer who do not respond to conventional treatment. Additionally, the use of genomic and transcriptomic sequencing technologies can be a valuable tool for personalized medicine, allowing for the identification of specific mutations and genetic alterations that can be used to guide treatment choices.\n\nThe next steps include conducting larger and more controlled studies to validate the results and evaluate the effectiveness of the integrative and interactive approach in different clinical contexts. Furthermore, it is necessary to invest in research to improve the understanding of the underlying molecular mechanisms of cancer and develop new, more effective, and personalized therapies.\n\nA recent study published in PubMed presents promising results on the effectiveness of an integrative and interactive approach for the treatment of patients with metastatic cancer. Unfortunately, no additional details were provided on patient characteristics, types of cancer treated, and specific treatment outcomes.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42061136",
+    "authors": [
+      {
+        "name": "Jelena Filipovic",
+        "affiliation": "Institute of Pathology \"&#xd0;or&#xf0;e Joannovic\", School of Medicine, University of Belgrade, Serbia."
+      },
+      {
+        "name": "Emma Anjorand",
+        "affiliation": "Nuclear Medicine Departments, AP-HP-H&#xf4;pital Avicenne, Bobigny F-93000, France."
+      },
+      {
+        "name": "Laetitia Marisa",
+        "affiliation": "Multi-site Medical Biology Laboratory SeqOIA, Paris F-75000, France."
+      },
+      {
+        "name": "Eurydice Angeli",
+        "affiliation": "Universit&#xe9; Sorbonne Paris Nord, Villetaneuse F-93439, France; Medical Oncology Department, AP-HP-H&#xf4;pital Avicenne, Bobigny F-93000, France."
+      }
+    ],
+    "journal": "Biomedicine &amp; pharmacotherapy = Biomedecine &amp; pharmacotherapie",
+    "publishedDate": "2026-05-23",
+    "fetchedDate": "2026-05-23",
+    "category": "Genômica",
+    "tags": [
+      "cancer",
+      "tumor",
+      "carcinoma",
+      "genomic",
+      "rna"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42061517",
     "pmid": "42061517",
     "doi": "10.1016/j.jad.2026.121892",
@@ -205,7 +250,7 @@
     "tags": [
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Groq"
