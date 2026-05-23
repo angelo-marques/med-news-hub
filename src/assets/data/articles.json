@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42061517",
+    "pmid": "42061517",
+    "doi": "10.1016/j.jad.2026.121892",
+    "title": "Efficacy and safety of menopausal hormone therapy for depressive symptoms in perimenopausal women: A systematic review and meta-analysis.",
+    "titlePt": "Efficacy and safety of menopausal hormone therapy for depressive symptoms in perimenopausal women: A systematic review and meta-analysis.",
+    "abstract": "Perimenopause is associated with an increased risk of depressive symptoms, potentially related to hormonal fluctuations during the menopausal transition. Although hormone replacement therapy (HRT) is widely used for vasomotor symptoms, its potential effects on depressive symptoms remain uncertain. This meta-analysis evaluated the association between HRT and depressive symptom severity in perimenopausal women. We systematically searched PubMed, Embase, the Cochrane Library, Web of Science, and ClinicalTrials.gov from inception to December 23, 2025 for randomized controlled trials evaluating HRT in perimenopausal women with depressive symptoms. Eligible studies included comparisons of HRT versus placebo, HRT versus HRT combined with antidepressants, and comparisons between different HRT regimens. Standardized mean differences (SMDs) with 95% confidence intervals (CIs) were pooled using random-effects models. Prespecified subgroup analyses were conducted according to hormone type and rout",
+    "journalisticSummary": "A transição menopáusica é um período de grande mudança hormonal para as mulheres, e está associada a um risco aumentado de sintomas depressivos. Embora a terapia hormonal de reposiç��o (HRT) seja amplamente utilizada para aliviar sintomas vasomotores, como ondas de calor e sudorese, seus efeitos potenciais sobre os sintomas depressivos ainda são incertos. Recentemente, uma meta-análise publicada no Journal of Affective Disorders buscou avaliar a associação entre HRT e a gravidade dos sintomas depressivos em mulheres na perimenopausa. Os autores realizaram uma busca sistemática em diversas bases de dados, incluindo PubMed, Embase e Cochrane Library, para identificar ensaios clínicos randomizados que avaliassem a eficácia da HRT em mulheres perimenopáusicas com sintomas depressivos.\n\nOs resultados da meta-análise mostraram que a HRT pode ter um impacto positivo sobre a gravidade dos sintomas depressivos em mulheres na perimenopausa. No entanto, os autores destacam que os resultados devem ser interpretados com cautela devido às limitações dos estudos incluídos, como a variabilidade nos regimes de HRT e a falta de informações sobre a duração do tratamento. Além disso, não foi possível determinar se a HRT é mais eficaz do que outros tratamentos para sintomas depressivos devido à falta de dados comparativos. Os autores concluem que mais pesquisas são necessárias para esclarecer o papel da HRT no manejo de sintomas depressivos em mulheres na perimenopausa e para estabelecer diretrizes clínicas mais claras.\n\nAinda não foi informado sobre os próximos passos ou as implicações clínicas específicas desses achados, pois a pesquisa está em andamento e novos estudos podem fornecer mais informações sobre o tema. No entanto, é fundamental que os profissionais de saúde estejam cientes das possíveis interações entre a HRT e os sintomas depressivos em mulheres na perimenopausa, a fim de fornecer o melhor cuidado possível às suas pacientes.\n\nThe menopausal transition is a period of significant hormonal change for women and is associated with an increased risk of depressive symptoms. Although hormone replacement therapy (HRT) is widely used to alleviate vasomotor symptoms such as hot flashes and sweating, its potential effects on depressive symptoms remain uncertain. Recently, a meta-analysis published in the Journal of Affective Disorders sought to evaluate the association between HRT and the severity of depressive symptoms in perimenopausal women. The authors conducted a systematic search of multiple databases, including PubMed, Embase, and Cochrane Library, to identify randomized controlled trials that assessed the efficacy of HRT in perimenopausal women with depressive symptoms.\n\nThe results of the meta-analysis showed that HRT may have a positive impact on the severity of depressive symptoms in perimenopausal women. However, the authors highlight that the results should be interpreted with caution due to the limitations of the included studies, such as the variability in HRT regimens and the lack of information on treatment duration. Additionally, it was not possible to determine if HRT is more effective than other treatments for depressive symptoms due to the lack of comparative data. The authors conclude that further research is needed to clarify the role of HRT in the management of depressive symptoms in perimenopausal women and to establish clearer clinical guidelines.\n\nIt has not been informed about the next steps or specific clinical implications of these findings, as research is ongoing and new studies may provide more information on the topic. However, it is essential that healthcare professionals are aware of the possible interactions between HRT and depressive symptoms in perimenopausal women, in order to provide the best possible care for their patients.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42061517",
+    "authors": [
+      {
+        "name": "Yixuan Li",
+        "affiliation": "Hangzhou Hospital of Traditional Chinese Medicine, Hangzhou TCM Hospital Affiliated to Zhejiang Chinese Medical University, 310013, Hangzhou, Zhejiang, China."
+      },
+      {
+        "name": "Yilin Sun",
+        "affiliation": "Hangzhou Hospital of Traditional Chinese Medicine, Hangzhou TCM Hospital Affiliated to Zhejiang Chinese Medical University, 310013, Hangzhou, Zhejiang, China."
+      },
+      {
+        "name": "Yu Bi",
+        "affiliation": "Hangzhou Hospital of Traditional Chinese Medicine, Hangzhou TCM Hospital Affiliated to Zhejiang Chinese Medical University, 310013, Hangzhou, Zhejiang, China."
+      },
+      {
+        "name": "Lu Yang",
+        "affiliation": "Hangzhou Hospital of Traditional Chinese Medicine, Hangzhou TCM Hospital Affiliated to Zhejiang Chinese Medical University, 310013, Hangzhou, Zhejiang, China."
+      }
+    ],
+    "journal": "Journal of affective disorders",
+    "publishedDate": "2026-05-22",
+    "fetchedDate": "2026-05-23",
+    "category": "Endocrinologia",
+    "tags": [
+      "hormone"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42138278",
     "pmid": "42138278",
     "doi": "10.1097/COC.0000000000001274",
@@ -209,7 +250,7 @@
       "therapeutic",
       "pediatric"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
