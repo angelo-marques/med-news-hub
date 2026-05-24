@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42119553",
+    "pmid": "42119553",
+    "doi": "10.1016/j.jpsychires.2026.05.011",
+    "title": "Medicinal plants for obsessive-compulsive disorder: A review of phytotherapeutic approaches.",
+    "titlePt": "Medicinal plants for obsessive-compulsive disorder: A review of phytotherapeutic approaches.",
+    "abstract": "Obsessive-compulsive disorder (OCD) is a chronic psychiatric condition characterized by intrusive thoughts and repetitive behaviors that impair functioning. Although selective serotonin reuptake inhibitors (SSRIs) and cognitive behavioral therapy are first-line treatments, 40-60% of patients achieve only partial remission, with persistent symptoms and adverse effects. This highlights the need for alternative approaches such as phytotherapy, which has shown potential neuroprotective and neurotransmitter-modulating properties. A structured narrative review with a systematic search was conducted across PubMed, Scopus, Web of Science, and Google Scholar up to April 2025. Studies evaluating medicinal plants or phytochemicals in OCD or OCD-like behavior were included. Both preclinical in vivo and human studies were assessed. A total of 26 studies (14 preclinical, 12 clinical) were included and appraised using a multi-domain quality framework and evidence hierarchy. Preclinical studies indica",
+    "journalisticSummary": "O transtorno obsessivo-compulsivo (TOC) é uma condição psiquiátrica crônica caracterizada por pensamentos intrusivos e comportamentos repetitivos que prejudicam o funcionamento. Embora os inibidores seletivos de recaptação de serotonina (ISRS) e a terapia cognitivo-comportamental sejam os principais tratamentos, 40-60% dos pacientes alcançam apenas remissão parcial, com sintomas persistentes e efeitos adversos. Isso destaca a necessidade de abordagens alternativas, como a fitoterapia, que tem mostrado propriedades neuroprotetoras e moduladoras de neurotransmissores. Uma revisão narrativa estruturada com uma busca sistemática foi realizada em PubMed, Scopus, Web of Science e Google Scholar até abril de 2025. Estudos que avaliavam plantas medicinais ou fitoquímicos no TOC ou comportamento semelhante ao TOC foram incluídos. Foram avaliados estudos pré-clínicos in vivo e humanos. Um total de 26 estudos (14 pré-clínicos, 12 clínicos) foi incluído e avaliado usando um quadro de qualidade multi-domínio e hierarquia de evidências. Os estudos pré-clínicos indicaram que as plantas medicinais podem ter efeitos benéficos no TOC, mas os estudos clínicos ainda são limitados e apresentam resultados inconsistentes. Portanto, mais pesquisas são necessárias para confirmar a eficácia e segurança da fitoterapia no tratamento do TOC.\n\nAinda não foram informados detalhes sobre os próximos passos ou as implicações clínicas específicas desses achados, o que sugere a necessidade de mais investigações para explorar o potencial da fitoterapia no tratamento do TOC. Além disso, é fundamental considerar as limitações dos estudos existentes e a necessidade de pesquisas mais robustas e bem desenhadas para avaliar a eficácia e segurança das plantas medicinais no tratamento do TOC.\n\nThe obsessive-compulsive disorder (OCD) is a chronic psychiatric condition characterized by intrusive thoughts and repetitive behaviors that impair functioning. Although selective serotonin reuptake inhibitors (SSRIs) and cognitive behavioral therapy are first-line treatments, 40-60% of patients achieve only partial remission, with persistent symptoms and adverse effects. This highlights the need for alternative approaches such as phytotherapy, which has shown potential neuroprotective and neurotransmitter-modulating properties. A structured narrative review with a systematic search was conducted across PubMed, Scopus, Web of Science, and Google Scholar up to April 2025. Studies evaluating medicinal plants or phytochemicals in OCD or OCD-like behavior were included. Both preclinical in vivo and human studies were assessed. A total of 26 studies (14 preclinical, 12 clinical) were included and appraised using a multi-domain quality framework and evidence hierarchy. Preclinical studies indicated that medicinal plants may have beneficial effects on OCD, but clinical studies are still limited and present inconsistent results. Therefore, more research is needed to confirm the efficacy and safety of phytotherapy in the treatment of OCD.\n\nDetails about the next steps or specific clinical implications of these findings have not been reported, which suggests the need for further investigation to explore the potential of phytotherapy in the treatment of OCD. Additionally, it is crucial to consider the limitations of existing studies and the need for more robust and well-designed research to evaluate the efficacy and safety of medicinal plants in the treatment of OCD.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42119553",
+    "authors": [
+      {
+        "name": "Devaraja Dravida Pandiyan S",
+        "affiliation": "Department of Pharmacology, Sri Ramachandra Faculty of Pharmacy, Sri Ramachandra Institute of Higher Education and Research (DU), Chennai, 600 116, India. Electronic address: u022401083@sriramachandra.edu.in."
+      },
+      {
+        "name": "Srikanth Jeyabalan",
+        "affiliation": "Department of Pharmacology, Sri Ramachandra Faculty of Pharmacy, Sri Ramachandra Institute of Higher Education and Research (DU), Chennai, 600 116, India; Global Research Fellow (GloRE), Universiti Kuala Lumpur, Royal College of Medicine Perak (UniKL RCMP), Faculty of Pharmacy and Health Sciences, No. 3, Jalan Greentown, 30450 Ipoh, Perak, Malaysia. Electronic address: srikanth.j@sriramachandra.edu.in."
+      },
+      {
+        "name": "Vetriselvan Subramaniyan",
+        "affiliation": "Department of Medical Sciences, School of Medical and Life Sciences, Sunway University, Malaysia. Electronic address: vetris@sunway.edu.my."
+      },
+      {
+        "name": "Anbarasan Balu",
+        "affiliation": "Department of Pharmaceutics, Sri Ramachandra Faculty of Pharmacy, Sri Ramachandra Institute of Higher Education and Research (DU), Chennai, 600 116, India. Electronic address: anbarasan.b@sriramachandra.edu.in."
+      }
+    ],
+    "journal": "Journal of psychiatric research",
+    "publishedDate": "2026-05-23",
+    "fetchedDate": "2026-05-24",
+    "category": "Neurologia",
+    "tags": [
+      "cognitive",
+      "rna",
+      "therapeutic",
+      "psychiatric"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42061136",
     "pmid": "42061136",
     "doi": "10.1016/j.biopha.2026.119402",
@@ -209,7 +253,7 @@
       "cardiac",
       "heart"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
