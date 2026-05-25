@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42183111",
+    "pmid": "42183111",
+    "doi": "10.1016/j.xnsj.2026.100882",
+    "title": "Association of glucagon-like peptide-1 receptor agonist use with patient-reported outcomes after lumbar decompression or fusion.",
+    "titlePt": "Association of glucagon-like peptide-1 receptor agonist use with patient-reported outcomes after lumbar decompression or fusion.",
+    "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists are increasingly prescribed for diabetes and obesity, conditions that are common among patients undergoing lumbar surgery. Prior studies suggest comparable or improved complication rates among GLP-1 users; however, the association between GLP-1 use and patient-reported outcome measures (PROMs) following lumbar surgery remains unclear. This retrospective cohort study included patients undergoing lumbar decompression or instrumented posterolateral fusion from 2020 to 2025 at a single institution with 2 surgeons. Included patients completed Patient Reported Outcomes Measurement Information System (PROMIS) Physical Function (PF) surveys preoperatively and at a minimum of 6 months postoperatively. Patients using GLP-1 agonists at surgery were propensity score matched 1:2 to nonusers based on age, sex, body mass index, Charlson Comorbidity Index (CCI), diabetes status, procedure type, and number of operative levels. Primary outcomes included ",
+    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a associação entre o uso de agonistas do receptor de peptídeo semelhante ao glucagon-1 (GLP-1) e os resultados relatados pelos pacientes após decompress��o ou fusão lombar. Esses medicamentos têm sido cada vez mais prescritos para diabetes e obesidade, condições comuns entre pacientes submetidos a cirurgia lombar. Embora estudos anteriores sugiram taxas de complicações comparáveis ou melhoradas entre os usuários de GLP-1, a relação entre o uso de GLP-1 e as medidas de resultados relatados pelos pacientes (PROMs) após a cirurgia lombar ainda não estava clara. Este estudo de coorte retrospectivo incluiu pacientes submetidos a decompressão lombar ou fusão posterolateral instrumentalizada entre 2020 e 2025 em uma instituição com dois cirurgiões. Os pacientes incluídos completaram questionários de Função Física do sistema de Medição de Informações de Resultados Relatados pelos Pacientes (PROMIS) antes e após a cirurgia, com um mínimo de 6 meses de acompanhamento. Os pacientes que usavam agonistas de GLP-1 no momento da cirurgia foram pareados por escore de propensão 1:2 com não usuários com base em idade, sexo, índice de massa corporal, índice de comorbidade de Charlson (CCI), status de diabetes, tipo de procedimento e número de níveis operatórios. Os principais resultados incluíram a avaliação da função física dos pacientes após a cirurgia. Infelizmente, não foi possível obter informações detalhadas sobre os resultados específicos do estudo, pois o resumo não forneceu esses dados. No entanto, é importante ressaltar que o estudo busca contribuir para a compreensão da relação entre o uso de GLP-1 e os resultados dos pacientes submetidos a cirurgia lombar, o que pode ter implicações clínicas significativas no manejo desses pacientes. Limitações do estudo podem incluir o design retrospectivo e a falta de dados sobre possíveis efeitos colaterais ou complicações. Próximos passos incluem a realização de estudos prospectivos para confirmar esses achados e explorar mais a fundo as implicações clínicas do uso de GLP-1 em pacientes submetidos a cirurgia lombar.\n\nA recent study published in PubMed investigated the association between the use of glucagon-like peptide-1 (GLP-1) receptor agonists and patient-reported outcomes after lumbar decompression or fusion. These medications have been increasingly prescribed for diabetes and obesity, conditions common among patients undergoing lumbar surgery. Although prior studies suggest comparable or improved complication rates among GLP-1 users, the relationship between GLP-1 use and patient-reported outcome measures (PROMs) after lumbar surgery remained unclear. This retrospective cohort study included patients undergoing lumbar decompression or instrumented posterolateral fusion from 2020 to 2025 at a single institution with two surgeons. Included patients completed Patient Reported Outcomes Measurement Information System (PROMIS) Physical Function (PF) surveys preoperatively and at a minimum of 6 months postoperatively. Patients using GLP-1 agonists at surgery were propensity score matched 1:2 to nonusers based on age, sex, body mass index, Charlson Comorbidity Index (CCI), diabetes status, procedure type, and number of operative levels. Primary outcomes included the evaluation of patients' physical function after surgery. Unfortunately, it was not possible to obtain detailed information about the specific results of the study, as the abstract did not provide these data. However, it is essential to highlight that the study aims to contribute to the understanding of the relationship between GLP-1 use and patient outcomes after lumbar surgery, which may have significant clinical implications in the management of these patients. Limitations of the study may include the retrospective design and the lack of data on potential side effects or complications. Next steps include conducting prospective studies to confirm these findings and further explore the clinical implications of GLP-1 use in patients undergoing lumbar surgery.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42183111",
+    "authors": [
+      {
+        "name": "Jack Parker",
+        "affiliation": "Luminis Health Anne Arundel Medical Center, 2000 Medical Parkway, Annapolis, MD 21401, United States."
+      },
+      {
+        "name": "Jane Brennan",
+        "affiliation": "Luminis Health Anne Arundel Medical Center, 2000 Medical Parkway, Annapolis, MD 21401, United States."
+      },
+      {
+        "name": "Andrea Johnson",
+        "affiliation": "Luminis Health Anne Arundel Medical Center, 2000 Medical Parkway, Annapolis, MD 21401, United States."
+      },
+      {
+        "name": "Matthew Peterman",
+        "affiliation": "Luminis Health Anne Arundel Medical Center, 2000 Medical Parkway, Annapolis, MD 21401, United States."
+      }
+    ],
+    "journal": "North American Spine Society journal",
+    "publishedDate": "2026-05-25",
+    "fetchedDate": "2026-05-25",
+    "category": "Endocrinologia",
+    "tags": [
+      "diabetes",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42119553",
     "pmid": "42119553",
     "doi": "10.1016/j.jpsychires.2026.05.011",
@@ -211,7 +253,7 @@
       "leukemia",
       "children"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
