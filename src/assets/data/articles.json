@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42202217",
+    "pmid": "42202217",
+    "doi": "10.1080/21645515.2026.2665969",
+    "title": "Evaluation of influenza vaccine effectiveness among older adults in Jiaxing, China, 2022-2025: A test negative design-based study.",
+    "titlePt": "Evaluation of influenza vaccine effectiveness among older adults in Jiaxing, China, 2022-2025: A test negative design-based study.",
+    "abstract": "Influenza imposes a substantial burden on older adults, underscoring the need for annual evaluation of vaccine effectiveness (VE). Using a test-negative case-control design, this study assessed VE among patients aged &#x2265;60&#x2009;y with acute respiratory symptoms in Jiaxing, China, across three influenza seasons (2022-2025). Among 3,214 participants, vaccination provided moderate overall protection against laboratory-confirmed influenza, with adjusted VE of 42.5% (95% CI: 31.2-51.9). Protection was highest in the 2024-2025 season (47.2%) and against influenza A(H1N1) (42.4%). Notably, subgroup analyses revealed significantly higher VE among females, individuals without underlying disease (49.2%), those presenting with high fever (&gt;39&#xb0;C, 44.3%), and within 90&#x2009;d post-vaccination (52.3%). These findings affirm the moderate protective effect of influenza vaccines in the older individuals and strongly support the critical importance of timely annual vaccination ahead of ",
+    "journalisticSummary": "A gripe é uma doença que impõe um grande fardo sobre os idosos, destacando a necessidade de avaliar anualmente a eficácia das vacinas. Um estudo recente publicado no PubMed, com DOI 10.1080/21645515.2026.2665969, avaliou a eficácia da vacina contra a gripe em idosos em Jiaxing, China, entre 2022 e 2025. Utilizando um desenho de caso-controle com teste negativo, o estudo avaliou a eficácia da vacina em pacientes com sintomas respiratórios agudos e idade igual ou superior a 60 anos. Entre 3.214 participantes, a vacinação forneceu proteção moderada contra a gripe laboratorialmente confirmada, com uma eficácia da vacina ajustada de 42,5% (intervalo de confiança de 95%: 31,2-51,9). A proteção foi maior na temporada 2024-2025 (47,2%) e contra a gripe A(H1N1) (42,4%). Análises de subgrupos revelaram que a eficácia da vacina foi significativamente maior em mulheres, indivíduos sem doenças subjacentes (49,2%), aqueles que apresentaram febre alta (>39°C, 44,3%) e dentro de 90 dias após a vacinação (52,3%). Esses achados confirmam o efeito protetor moderado das vacinas contra a gripe em idosos e apoiam fortemente a importância crítica da vacinação anual oportuna.\n\nA influenza é uma doença que não foi informada no resumo original se teve outros fatores que influenciaram a eficácia da vacina. No entanto, os resultados deste estudo sugerem que a vacinação é uma medida importante para prevenir a gripe em idosos. Além disso, os achados destacam a necessidade de mais pesquisas sobre a eficácia da vacina em diferentes populações e contextos. Em resumo, este estudo fornece evidências importantes sobre a eficácia da vacina contra a gripe em idosos e destaca a importância da vacinação anual para prevenir a doença.\n\nThe flu is a disease that imposes a significant burden on the elderly, highlighting the need to evaluate the effectiveness of vaccines annually. A recent study published in PubMed, with DOI 10.1080/21645515.2026.2665969, evaluated the effectiveness of the flu vaccine in the elderly in Jiaxing, China, between 2022 and 2025. Using a test-negative case-control design, the study assessed the effectiveness of the vaccine in patients with acute respiratory symptoms and age 60 or older. Among 3,214 participants, vaccination provided moderate protection against laboratory-confirmed flu, with an adjusted vaccine effectiveness of 42.5% (95% confidence interval: 31.2-51.9). Protection was highest in the 2024-2025 season (47.2%) and against influenza A(H1N1) (42.4%). Subgroup analyses revealed that vaccine effectiveness was significantly higher in females, individuals without underlying disease (49.2%), those presenting with high fever (>39°C, 44.3%), and within 90 days post-vaccination (52.3%). These findings confirm the moderate protective effect of flu vaccines in the elderly and strongly support the critical importance of timely annual vaccination ahead of the flu season.\n\nThe study did not provide information on other factors that may have influenced vaccine effectiveness. However, the results suggest that vaccination is an important measure to prevent the flu in the elderly. Additionally, the findings highlight the need for further research on vaccine effectiveness in different populations and contexts. In summary, this study provides important evidence on the effectiveness of the flu vaccine in the elderly and underscores the importance of annual vaccination to prevent the disease. Further studies are needed to confirm these findings and to identify strategies to improve vaccine effectiveness in this population.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42202217",
+    "authors": [
+      {
+        "name": "Yang Liu",
+        "affiliation": "Department of Infectious Diseases Control and Prevention, Jiaxing Center for Disease Control and Prevention, Jiaxing, Zhejiang, China."
+      },
+      {
+        "name": "Xiaofei Fu",
+        "affiliation": "Department of Infectious Diseases Control and Prevention, Jiaxing Center for Disease Control and Prevention, Jiaxing, Zhejiang, China."
+      },
+      {
+        "name": "Yuanhang Wang",
+        "affiliation": "Department of Infectious Diseases Control and Prevention, Jiaxing Center for Disease Control and Prevention, Jiaxing, Zhejiang, China."
+      },
+      {
+        "name": "Lei Jia",
+        "affiliation": "Department of Infection Control and Public Health, Affiliated Hospital of Jiaxing University (The First Hospital of Jiaxing), Jiaxing, Zhejiang, China."
+      }
+    ],
+    "journal": "Human vaccines &amp; immunotherapeutics",
+    "publishedDate": "2026-05-27",
+    "fetchedDate": "2026-05-27",
+    "category": "Imunologia",
+    "tags": [
+      "vaccine"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42200067",
     "pmid": "42200067",
     "doi": "10.3389/fmed.2026.1833902",
@@ -206,7 +247,7 @@
       "cardiac",
       "atrial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
