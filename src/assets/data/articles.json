@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42200067",
+    "pmid": "42200067",
+    "doi": "10.3389/fmed.2026.1833902",
+    "title": "Hematologic and metabolic indices for predicting 28-day mortality in sepsis patients: a retrospective intensive care cohort study.",
+    "titlePt": "Hematologic and metabolic indices for predicting 28-day mortality in sepsis patients: a retrospective intensive care cohort study.",
+    "abstract": "Sepsis remains a leading cause of mortality in critically ill patients, and early risk stratification is essential for improving clinical outcomes. Recently, hematological and metabolic indices derived from routine laboratory parameters have emerged as potential prognostic biomarkers. This study aimed to evaluate the predictive value of the hemoglobin-to-red cell distribution width ratio (HRR), red cell distribution width-to-albumin ratio (RAR), triglyceride-glucose (TyG) index, and uric acid-to-albumin ratio (UA/Alb) for 28-day mortality in patients with sepsis. This retrospective cohort study included 805 adult patients with sepsis admitted to the intensive care units of two tertiary centers between January 2020 and September 2025. Demographic data, clinical severity scores (qSOFA, SOFA, APACHE II, SAPS II), and laboratory parameters obtained within the first 24&#x202f;h of ICU admission were analyzed. The primary outcome was 28-day all-cause mortality. Receiver operating characteris",
+    "journalisticSummary": "A sepsis continua sendo uma das principais causas de mortalidade em pacientes criticamente doentes, e a estratificação de risco precoce é essencial para melhorar os resultados clínicos. Estudos recentes têm apontado que índices hematológicos e metabólicos derivados de parâmetros laboratoriais de rotina podem ser utilizados como biomarcadores prognósticos. Um estudo retrospectivo realizado em duas unidades de terapia intensiva de centros terciários incluiu 805 pacientes adultos com sepsis admitidos entre janeiro de 2020 e setembro de 2025. Os pesquisadores analisaram dados demográficos, escores de gravidade clínica (qSOFA, SOFA, APACHE II, SAPS II) e parâmetros laboratoriais obtidos nas primeiras 24 horas após a admissão na unidade de terapia intensiva. O objetivo principal do estudo foi avaliar o valor preditivo da razão hemoglobina-largura de distribuição de glóbulos vermelhos (HRR), razão largura de distribuição de glóbulos vermelhos-albumina (RAR), índice triglicerídeos-glicose (TyG) e razão ácido úrico-albumina (UA/Alb) para a mortalidade em 28 dias em pacientes com sepsis. Embora os resultados detalhados do estudo não tenham sido divulgados, a avaliação desses índices pode ser fundamental para identificar pacientes de alto risco e melhorar os resultados clínicos. No entanto, é importante considerar as limitações do estudo, incluindo a natureza retrospectiva e a falta de informações sobre a reprodutibilidade dos resultados em outras populações. Futuros estudos prospectivos são necessários para confirmar os achados e explorar a aplicação clínica prática desses índices.\n\nSepsis remains a leading cause of mortality in critically ill patients, and early risk stratification is essential for improving clinical outcomes. Recent studies have highlighted that hematological and metabolic indices derived from routine laboratory parameters can be used as prognostic biomarkers. A retrospective study conducted in two intensive care units of tertiary centers included 805 adult patients with sepsis admitted between January 2020 and September 2025. The researchers analyzed demographic data, clinical severity scores (qSOFA, SOFA, APACHE II, SAPS II), and laboratory parameters obtained within the first 24 hours after intensive care unit admission. The primary objective of the study was to evaluate the predictive value of the hemoglobin-to-red cell distribution width ratio (HRR), red cell distribution width-to-albumin ratio (RAR), triglyceride-glucose (TyG) index, and uric acid-to-albumin ratio (UA/Alb) for 28-day mortality in patients with sepsis. Although the detailed results of the study were not disclosed, the evaluation of these indices can be crucial for identifying high-risk patients and improving clinical outcomes. However, it is essential to consider the study's limitations, including its retrospective nature and the lack of information on the reproducibility of the results in other populations. Future prospective studies are necessary to confirm the findings and explore the practical clinical application of these indices.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42200067",
+    "authors": [
+      {
+        "name": "Sami Uyar",
+        "affiliation": "Department of Anesthesiology and Reanimation, Beyhekim Training and Research Hospital, Konya, T&#xfc;rkiye."
+      },
+      {
+        "name": "Hatice Eyiol",
+        "affiliation": "Department of Anesthesiology and Reanimation, Beyhekim Training and Research Hospital, Konya, T&#xfc;rkiye."
+      },
+      {
+        "name": "Ahmet Y&#x131;lmaz",
+        "affiliation": "Department of Cardiology, Faculty of Medicine, Karamano&#x11f;lu Mehmetbey University, Karaman, T&#xfc;rkiye."
+      },
+      {
+        "name": "Azmi Eyiol",
+        "affiliation": "Department of Cardiology, Beyhekim Training and Research Hospital, Konya, T&#xfc;rkiye."
+      }
+    ],
+    "journal": "Frontiers in medicine",
+    "publishedDate": "2026-05-27",
+    "fetchedDate": "2026-05-27",
+    "category": "Infectologia",
+    "tags": [
+      "sepsis",
+      "metabolic"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42056311",
     "pmid": "42056311",
     "doi": "10.1007/s00270-026-04433-3",
@@ -209,7 +251,7 @@
       "pediatric",
       "children"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
