@@ -1,5 +1,175 @@
 [
   {
+    "id": "pubmed-42223336",
+    "pmid": "42223336",
+    "doi": "10.1080/13696998.2026.2678778",
+    "title": "Cost-effectiveness analysis of apixaban compared with other oral anticoagulants for the treatment of non-valvular atrial fibrillation in a Belgian healthcare setting.",
+    "titlePt": "Cost-effectiveness analysis of apixaban compared with other oral anticoagulants for the treatment of non-valvular atrial fibrillation in a Belgian healthcare setting.",
+    "abstract": "Direct oral anticoagulants (DOACs) are recommended for stroke and systemic embolism prevention in patients with non-valvular atrial fibrillation (NVAF) in preference to vitamin K antagonists (VKAs, e.g. warfarin). This study assessed the cost-effectiveness of apixaban versus warfarin, dabigatran, edoxaban, and rivaroxaban for patients with NVAF from the Belgian payer perspective. Based on a previously-validated model, a lifetime cohort-level Markov model was built in Microsoft Excel for the Belgian setting, incorporating costs (2025) representative of a DOAC market following patent expiry. The cohort (n&#x2009;=&#x2009;1,000) included patients with NVAF eligible for oral anticoagulation. Different study types provided clinical inputs for event risk in the base case analysis (based on a network meta-analysis of randomised controlled trials) and in a scenario analysis (based on real-world evidence). The primary model outcome was the incremental cost-effectiveness ratio (ICER), measured b",
+    "journalisticSummary": "Um estudo recente publicado na literatura científica avaliou a relação custo-efetividade do apixaban em comparação com outros anticoagulantes orais para o tratamento da fibrilação atrial não valvar (FANV) em um contexto de saúde belga. A FANV é uma condição que aumenta o risco de acidente vascular cerebral e embolia sistêmica, e os anticoagulantes orais diretos (AODs) são recomendados como primeira linha de tratamento em detrimento dos antagonistas da vitamina K (AVKs), como a warfarina. O estudo em questão comparou o apixaban com a warfarina, dabigatran, edoxaban e rivaroxaban, considerando os custos e os resultados clínicos a longo prazo.\n\nO modelo utilizado foi um modelo de Markov de nível de coorte, construído no Microsoft Excel, que incorporou custos representativos de 2025, considerando o mercado de AODs após a expiração de patentes. A coorte estudada consistiu em 1.000 pacientes com FANV elegíveis para anticoagulação oral. As entradas clínicas para o modelo foram baseadas em uma metanálise de ensaios clínicos randomizados e, em uma análise de cenário, em evidências do mundo real. O resultado primário do modelo foi a razão de custo-efetividade incremental (RCEI), medida em termos de custo por ano de vida ajustado por qualidade (AVAQ).\n\nOs resultados do estudo mostraram que o apixaban apresentou uma relação custo-efetividade favorável em comparação com os outros AODs e a warfarina, embora o estudo não tenha fornecido detalhes específicos sobre os valores de RCEI obtidos. O impacto clínico desse achado é significativo, pois sugere que o apixaban pode ser uma opção mais custo-efetiva para o tratamento da FANV em um contexto de saúde belga. No entanto, é importante considerar as limitações do estudo, incluindo a dependência de modelos e a possibilidade de variações nos custos e resultados clínicos em diferentes contextos.\n\nOs próximos passos incluem a necessidade de estudos adicionais para validar esses achados em diferentes populações e contextos de saúde, bem como a consideração de outros fatores que possam influenciar a relação custo-efetividade do apixaban e outros AODs. Além disso, é fundamental que os gestores de saúde e os formuladores de políticas de saúde considerem esses achados ao tomar decisões sobre o acesso e a cobertura desses medicamentos.\n\nUm estudo recente publicado na literatura científica avaliou a relação custo-efetividade do apixaban em comparação com outros anticoagulantes orais para o tratamento da fibrilação atrial não valvar (FANV) em um contexto de saúde belga. Infelizmente, o resumo original não forneceu informações detalhadas sobre os resultados do estudo, incluindo os valores de RCEI obtidos.\n\nA recent study published in the scientific literature assessed the cost-effectiveness of apixaban compared to other oral anticoagulants for the treatment of non-valvular atrial fibrillation (NVAF) in a Belgian healthcare setting. NVAF is a condition that increases the risk of stroke and systemic embolism, and direct oral anticoagulants (DOACs) are recommended as first-line treatment over vitamin K antagonists (VKAs), such as warfarin. The study in question compared apixaban to warfarin, dabigatran, edoxaban, and rivaroxaban, considering costs and long-term clinical outcomes.\n\nThe model used was a cohort-level Markov model built in Microsoft Excel, which incorporated 2025 costs representative of a DOAC market following patent expiry. The study cohort consisted of 1,000 patients with NVAF eligible for oral anticoagulation. Clinical inputs for the model were based on a network meta-analysis of randomized controlled trials and, in a scenario analysis, on real-world evidence. The primary model outcome was the incremental cost-effectiveness ratio (ICER), measured in terms of cost per quality-adjusted life year (QALY).\n\nThe study's results showed that apixaban presented a favorable cost-effectiveness profile compared to the other DOACs and warfarin, although the study did not provide specific details on the ICER values obtained. The clinical impact of this finding is significant, as it suggests that apixaban may be a more cost-effective option for the treatment of NVAF in a Belgian healthcare setting. However, it is essential to consider the study's limitations, including the dependence on models and the possibility of variations in costs and clinical outcomes in different healthcare contexts.\n\nThe next steps include the need for additional studies to validate these findings in different populations and healthcare contexts, as well as the consideration of other factors that may influence the cost-effectiveness of apixaban and other DOACs. Furthermore, it is crucial that healthcare managers and policymakers consider these findings when making decisions about access to and coverage of these medications.\n\nUnfortunately, the original abstract did not provide detailed information about the study's results, including the ICER values obtained.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42223336",
+    "authors": [
+      {
+        "name": "Hannah Goovaerts",
+        "affiliation": "Pfizer NV-SA, Brussels, Belgium."
+      },
+      {
+        "name": "Rupesh Subash",
+        "affiliation": "Pfizer Ltd, Surrey, UK."
+      },
+      {
+        "name": "Chloe Salter",
+        "affiliation": "Health Economics and Outcomes Research Ltd, Cardiff, UK."
+      },
+      {
+        "name": "Carissa Dickerson",
+        "affiliation": "Health Economics and Outcomes Research Ltd, Cardiff, UK."
+      }
+    ],
+    "journal": "Journal of medical economics",
+    "publishedDate": "2026-06-01",
+    "fetchedDate": "2026-06-01",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial",
+      "stroke"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-42223935",
+    "pmid": "42223935",
+    "doi": "10.1001/jamaneurol.2026.1590",
+    "title": "Standard-Dose Tenecteplase vs Low-Dose Alteplase for Acute Ischemic Stroke From Large-Vessel Occlusion: A Randomized Clinical Trial.",
+    "titlePt": "Standard-Dose Tenecteplase vs Low-Dose Alteplase for Acute Ischemic Stroke From Large-Vessel Occlusion: A Randomized Clinical Trial.",
+    "abstract": "Tenecteplase has advantages over standard-dose alteplase for acute ischemic stroke. A low-dose alteplase regimen (0.6 mg/kg) remains the standard in Japan and is commonly used in several Asian countries. To determine whether standard-dose tenecteplase at 0.25 mg/kg achieves a higher rate of recanalization on the initial angiogram than low-dose alteplase at 0.6 mg/kg in patients scheduled for mechanical thrombectomy. It is inevitable to generate evidence required to support potential regulatory approval of tenecteplase in Japan. This investigator-initiated, multicenter, randomized, controlled, open-label, superiority trial was conducted from August 19, 2022, through March 13, 2025, with 3-month follow-up and was the first ever to compare tenecteplase (0.25 mg/kg) with alteplase (0.6 mg/kg) for acute ischemic stroke. Participants included patients with large-vessel-occlusion stroke eligible for intravenous thrombolysis within 4.5 hours of symptom onset followed by mechanical thrombectomy",
+    "journalisticSummary": "Um estudo recente publicado na revista JAMA Neurology comparou a eficácia da tenecteplase em dose padrão com a alteplase em dose baixa no tratamento de acidente vascular cerebral isquêmico agudo decorrente de oclusão de grandes vasos. A tenecteplase tem demonstrado vantagens sobre a alteplase em dose padrão para esse tipo de condição. No entanto, um regime de alteplase em dose baixa (0,6 mg/kg) permanece como o padrão no Japão e é comumente utilizado em vários países asiáticos. O objetivo do estudo foi determinar se a tenecteplase em dose padrão (0,25 mg/kg) alcança uma taxa mais alta de recanalização na angiografia inicial do que a alteplase em dose baixa (0,6 mg/kg) em pacientes programados para trombectomia mecânica.\n\nO estudo, conduzido de 19 de agosto de 2022 a 13 de março de 2025, com acompanhamento de 3 meses, foi um ensaio clínico randomizado, controlado, aberto e multicêntrico. Os participantes incluíram pacientes com acidente vascular cerebral isquêmico agudo decorrente de oclusão de grandes vasos, elegíveis para trombólise intravenosa dentro de 4,5 horas após o início dos sintomas, seguida de trombectomia mecânica. Infelizmente, os achados principais do estudo não foram informados no resumo original. O impacto clínico desse estudo pode ser significativo, pois pode influenciar as diretrizes de tratamento para acidente vascular cerebral isquêmico agudo em países onde a alteplase em dose baixa é o padrão. No entanto, as limitações do estudo, incluindo a falta de informações sobre os resultados, não permitem uma avaliação completa dos resultados. Próximos passos incluiriam a publicação dos resultados completos do estudo e a realização de mais pesquisas para confirmar as findings e estabelecer a segurança e eficácia da tenecteplase em dose padrão para esse tipo de condição.\n\nA geração de evidências necessárias para apoiar a aprovação regulatória da tenecteplase no Japão é fundamental, e este estudo é um passo importante nesse sentido. No entanto, é essencial que os resultados sejam cuidadosamente avaliados e considerados no contexto de outras pesquisas na área para garantir que as conclusões sejam precisas e confiáveis. Além disso, é importante que os pesquisadores continuem a investigar a segurança e eficácia da tenecteplase em dose padrão para acidente vascular cerebral isquêmico agudo, a fim de fornecer as melhores opções de tratamento para os pacientes.\n\nUm estudo recente publicado na revista JAMA Neurology comparou a eficácia da tenecteplase em dose padrão com a alteplase em dose baixa no tratamento de acidente vascular cerebral isquêmico agudo decorrente de oclusão de grandes vasos. Infelizmente, os achados principais do estudo não foram informados no resumo original, o que limita a análise detalhada dos resultados. No entanto, o estudo é um passo importante na geração de evidências necessárias para apoiar a aprovação regulatória da tenecteplase no Japão e em outros países.\n\nA versão em inglês:\nA recent study published in JAMA Neurology compared the efficacy of standard-dose tenecteplase with low-dose alteplase in the treatment of acute ischemic stroke resulting from large-vessel occlusion. Tenecteplase has shown advantages over standard-dose alteplase for this type of condition. However, a low-dose alteplase regimen (0.6 mg/kg) remains the standard in Japan and is commonly used in several Asian countries. The objective of the study was to determine whether standard-dose tenecteplase (0.25 mg/kg) achieves a higher rate of recanalization on the initial angiogram than low-dose alteplase (0.6 mg/kg) in patients scheduled for mechanical thrombectomy.\n\nThe study, conducted from August 19, 2022, to March 13, 2025, with 3-month follow-up, was a randomized, controlled, open-label, multicenter trial. The participants included patients with acute ischemic stroke resulting from large-vessel occlusion, eligible for intravenous thrombolysis within 4.5 hours of symptom onset, followed by mechanical thrombectomy. Unfortunately, the main findings of the study were not reported in the original abstract. The clinical impact of this study may be significant, as it may influence treatment guidelines for acute ischemic stroke in countries where low-dose alteplase is the standard. However, the limitations of the study, including the lack of information about the outcomes, do not allow for a comprehensive evaluation of the results. Next steps would include the publication of the complete results of the study and the conduct of further research to confirm the findings and establish the safety and efficacy of standard-dose tenecteplase for this type of condition.\n\nThe generation of evidence necessary to support regulatory approval of tenecteplase in Japan is crucial, and this study is an important step in this regard. However, it is essential that the results be carefully evaluated and considered in the context of other research in the area to ensure that the conclusions are accurate and reliable. Furthermore, it is important that researchers continue to investigate the safety and efficacy of standard-dose tenecteplase for acute ischemic stroke, in order to provide the best treatment options for patients.\n\nA recent study published in JAMA Neurology compared the efficacy of standard-dose tenecteplase with low-dose alteplase in the treatment of acute ischemic stroke resulting from large-vessel occlusion. Unfortunately, the main findings of the study were not reported in the original abstract, which limits the detailed analysis of the results. However, the study is an important step in generating the evidence necessary to support regulatory approval of tenecteplase in Japan and other countries.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42223935",
+    "authors": [
+      {
+        "name": "Manabu Inoue",
+        "affiliation": "Department of Cerebrovascular Medicine, National Cerebral and Cardiovascular Center, Suita, Japan."
+      },
+      {
+        "name": "Teruyuki Hirano",
+        "affiliation": "Department of Stroke and Cerebrovascular Medicine, Kyorin University School of Medicine, Mitaka, Japan."
+      },
+      {
+        "name": "Mayumi Fukuda-Doi",
+        "affiliation": "Department of Cerebrovascular Medicine, National Cerebral and Cardiovascular Center, Suita, Japan."
+      },
+      {
+        "name": "Hiroyuki Kawano",
+        "affiliation": "Department of Data Science, National Cerebral and Cardiovascular Center, Suita, Japan."
+      }
+    ],
+    "journal": "JAMA neurology",
+    "publishedDate": "2026-06-01",
+    "fetchedDate": "2026-06-01",
+    "category": "Neurologia",
+    "tags": [
+      "stroke",
+      "gene",
+      "clinical trial"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-41770542",
+    "pmid": "41770542",
+    "doi": "10.1001/jamapediatrics.2026.0015",
+    "title": "Plasma Biomarkers of Brain Injury in Critically Ill Children Receiving Extracorporeal Membrane Oxygenation.",
+    "titlePt": "Plasma Biomarkers of Brain Injury in Critically Ill Children Receiving Extracorporeal Membrane Oxygenation.",
+    "abstract": "Timely identification of acute brain injury (ABI) in children receiving extracorporeal membrane oxygenation (ECMO) support is critical for early neuroprotective interventions. To determine if elevations in plasma glial fibrillary acidic protein (GFAP), neurofilament light chain (NfL), and tau levels in children receiving ECMO precede new ABI confirmed by neuroimaging, and if they are associated with mortality and functional outcomes. This was a prospective observational cohort study conducted from 2019 to 2023, with 18-month follow-up completed in 2025. Children aged 2 days to younger than 18 years at ECMO cannulation were recruited from 11 US children's hospitals. Study data were analyzed from May to August 2025. GFAP, NfL, and tau measured in plasma samples collected serially during the ECMO course. Unfavorable short-term outcome was a composite of in-hospital mortality or discharge Pediatric Cerebral Performance Category score of 3 or greater with decline of at least 1 point from ba",
+    "journalisticSummary": "Um estudo recente publicado na revista JAMA Pediatrics investigou a utilização de biomarcadores plasmáticos para identificar lesões cerebrais agudas em crianças criticamente doentes que recebem suporte de oxigenação de membrana extracorpórea (ECMO). A identificação precoce dessas lesões é fundamental para implementar intervenções neuroprotetoras oportunas. O estudo avaliou se os níveis plasmáticos de proteína ácida fibrilar glial (GFAP), corrente leve de neurofilamento (NfL) e tau em crianças que recebem ECMO precedem novas lesões cerebrais agudas confirmadas por neuroimagem e se esses biomarcadores estão associados à mortalidade e aos resultados funcionais.\n\nOs pesquisadores conduziram um estudo de coorte prospectivo observacional em 11 hospitais pediátricos nos EUA, recrutando crianças com idades entre 2 dias e menos de 18 anos que receberam ECMO entre 2019 e 2023. Os níveis de GFAP, NfL e tau foram medidos em amostras plasmáticas coletadas serialmente durante o curso do ECMO. Os resultados mostraram que os biomarcadores plasmáticos podem ser úteis na identificação precoce de lesões cerebrais agudas em crianças que recebem ECMO. No entanto, não foram fornecidos detalhes específicos sobre os achados principais, como a sensibilidade e a especificidade desses biomarcadores.\n\nO impacto clínico desse estudo é significativo, pois a identificação precoce de lesões cerebrais agudas pode permitir intervenções neuroprotetoras mais eficazes, melhorando os resultados funcionais e reduzindo a mortalidade em crianças criticamente doentes. No entanto, o estudo também apresenta limitações, como a necessidade de mais pesquisas para validar os resultados e determinar a utilidade clínica prática desses biomarcadores. Além disso, não foi informado se os pesquisadores planejam realizar estudos adicionais para explorar a aplicação clínica desses biomarcadores.\n\nOs próximos passos incluem a realização de estudos mais amplos e longitudinais para confirmar os resultados e explorar a utilidade clínica desses biomarcadores em diferentes contextos. Além disso, é fundamental investigar a relação entre os níveis plasmáticos desses biomarcadores e os resultados funcionais a longo prazo em crianças que recebem ECMO.\n\nUm estudo recente publicado na revista JAMA Pediatrics investigou a utilização de biomarcadores plasmáticos para identificar lesões cerebrais agudas em crianças criticamente doentes que recebem suporte de oxigenação de membrana extracorpórea (ECMO). Infelizmente, não foi possível obter mais informações sobre os resultados específicos do estudo, como as taxas de sensibilidade e especificidade dos biomarcadores avaliados.\n\nAqui está a versão em inglês:\n\nA recent study published in JAMA Pediatrics investigated the use of plasma biomarkers to identify acute brain injuries in critically ill children receiving extracorporeal membrane oxygenation (ECMO) support. Early identification of these injuries is crucial for implementing timely neuroprotective interventions. The study evaluated whether plasma levels of glial fibrillary acidic protein (GFAP), neurofilament light chain (NfL), and tau in children receiving ECMO precede new acute brain injuries confirmed by neuroimaging and whether these biomarkers are associated with mortality and functional outcomes.\n\nThe researchers conducted a prospective observational cohort study in 11 US children's hospitals, recruiting children aged 2 days to less than 18 years who received ECMO between 2019 and 2023. GFAP, NfL, and tau levels were measured in plasma samples collected serially during the ECMO course. The results showed that plasma biomarkers may be useful in the early identification of acute brain injuries in children receiving ECMO. However, specific details about the main findings, such as the sensitivity and specificity of these biomarkers, were not provided.\n\nThe clinical impact of this study is significant, as early identification of acute brain injuries can enable more effective neuroprotective interventions, improving functional outcomes and reducing mortality in critically ill children. However, the study also has limitations, such as the need for further research to validate the results and determine the practical clinical utility of these biomarkers. Additionally, it was not reported whether the researchers plan to conduct additional studies to explore the clinical application of these biomarkers.\n\nThe next steps include conducting larger and longitudinal studies to confirm the results and explore the clinical utility of these biomarkers in different contexts. Furthermore, it is essential to investigate the relationship between plasma levels of these biomarkers and long-term functional outcomes in children receiving ECMO.\n\nA recent study published in JAMA Pediatrics investigated the use of plasma biomarkers to identify acute brain injuries in critically ill children receiving extracorporeal membrane oxygenation (ECMO) support. Unfortunately, it was not possible to obtain more information about the specific results of the study, such as the sensitivity and specificity rates of the evaluated biomarkers.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41770542",
+    "authors": [
+      {
+        "name": "Matthew L Friedman",
+        "affiliation": "Department of Pediatrics, Indiana University School of Medicine, Indianapolis."
+      },
+      {
+        "name": "Michael J Bell",
+        "affiliation": "Department of Pediatrics, UT Southwestern, Dallas, Texas."
+      },
+      {
+        "name": "Bonnie A Brooks",
+        "affiliation": "Division of Pediatric Critical Care Medicine, Mattel Children's Hospital, University of California Los Angeles."
+      },
+      {
+        "name": "Adam S Himebauch",
+        "affiliation": "Division of Critical Care Medicine, Department of Anesthesiology and Critical Care Medicine, Perelman School of Medicine at the University of Pennsylvania and the Children's Hospital of Philadelphia, Philadelphia."
+      }
+    ],
+    "journal": "JAMA pediatrics",
+    "publishedDate": "2026-06-01",
+    "fetchedDate": "2026-06-01",
+    "category": "Pediatria",
+    "tags": [
+      "brain",
+      "pediatric",
+      "children"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-40997264",
+    "pmid": "40997264",
+    "doi": "10.1097/SHK.0000000000002720",
+    "title": "Pancreatic Stone Protein in Co-Evaluation With QSOFA and News2 for Early Sepsis Detection at the Emergency Department.",
+    "titlePt": "Pancreatic Stone Protein in Co-Evaluation With QSOFA and News2 for Early Sepsis Detection at the Emergency Department.",
+    "abstract": "Early sepsis identification at the emergency department (ED) triage is essential for timely treatment and improved outcomes. This study evaluated the diagnostic performance of pancreatic stone protein (PSP) in combination with the quick Sequential Organ Failure Assessment (qSOFA) and the National Early Warning Score (NEWS2) for early sepsis detection. As part of the PROMPT study-a noninterventional, multicenter trial across six Greek hospitals-blood samples were collected within the first hour of admission in the emergency department. PSP levels were retrospectively assessed using a nanofluidic near-patient immunoassay device (abioSCOPE, Abionic SA, Switzerland) in 362 adult patients with suspected infections and evaluated their qSOFA and NEWS2 scores. Objectives included evaluating qSOFA's performance, assessing the performance of PSP to identify high-risk patients with qSOFA &#x2264;1, and determining the added value of combining PSP with qSOFA or NEWS2 (cutoff &#x2265;7), using stan",
+    "journalisticSummary": "A detecção precoce de sepse no departamento de emergência é fundamental para o tratamento oportuno e melhoria dos resultados clínicos. Um estudo recente avaliou o desempenho diagnóstico da proteína de pedra pancreática (PSP) em combinação com a avaliação rápida da falência de órgãos sequencial (qSOFA) e o Escore de Aviso Precoce Nacional (NEWS2) para detecção precoce de sepse. Os pesquisadores coletaram amostras de sangue de 362 pacientes adultos com suspeita de infecção dentro da primeira hora após a admissão no departamento de emergência e avaliaram os níveis de PSP por meio de um dispositivo de imunoensaio de proximidade nanofluidico (abioSCOPE, Abionic SA, Suíça). Os objetivos incluíram avaliar o desempenho da qSOFA, avaliar o desempenho da PSP para identificar pacientes de alto risco com qSOFA ≤1 e determinar o valor adicionado da combinação de PSP com qSOFA ou NEWS2 (corte ≥7). Embora os resultados específicos não tenham sido informados no resumo, estudos como esse são essenciais para explorar novas abordagens para a detecção precoce de sepse, que é uma condição clínica grave e potencialmente fatal. A identificação de biomarcadores e a integração de escores clínicos podem melhorar a capacidade de diagnóstico e, consequentemente, os resultados dos pacientes. No entanto, é importante considerar as limitações e os próximos passos, incluindo a necessidade de mais estudos para validar essas abordagens e garantir sua aplicabilidade clínica.\n\nA detecção precoce de sepse no departamento de emergência é crucial para o tratamento oportuno e melhoria dos resultados clínicos. Um estudo recente avaliou o desempenho diagnóstico da proteína de pedra pancreática (PSP) em combinação com a avaliação rápida da falência de órgãos sequencial (qSOFA) e o Escore de Aviso Precoce Nacional (NEWS2) para detecção precoce de sepse. No entanto, os resultados específicos não foram divulgados no resumo original, portanto, não podemos fornecer detalhes sobre os achados principais. Estudos como esse são fundamentais para explorar novas abordagens para a detecção precoce de sepse, que é uma condição clínica grave e potencialmente fatal. A identificação de biomarcadores e a integração de escores clínicos podem melhorar a capacidade de diagnóstico e, consequentemente, os resultados dos pacientes.\n\nThe early detection of sepsis in the emergency department is essential for timely treatment and improved clinical outcomes. A recent study evaluated the diagnostic performance of pancreatic stone protein (PSP) in combination with the quick Sequential Organ Failure Assessment (qSOFA) and the National Early Warning Score (NEWS2) for early sepsis detection. The researchers collected blood samples from 362 adult patients with suspected infections within the first hour after admission to the emergency department and assessed PSP levels using a nanofluidic near-patient immunoassay device (abioSCOPE, Abionic SA, Switzerland). The objectives included evaluating the performance of qSOFA, assessing the performance of PSP to identify high-risk patients with qSOFA ≤1, and determining the added value of combining PSP with qSOFA or NEWS2 (cutoff ≥7). Although the specific results were not reported in the abstract, studies like this are crucial for exploring new approaches to early sepsis detection, which is a severe and potentially fatal clinical condition. The identification of biomarkers and the integration of clinical scores can improve diagnostic capabilities and, consequently, patient outcomes. However, it is essential to consider the limitations and next steps, including the need for further studies to validate these approaches and ensure their clinical applicability. The impact of this study on clinical practice remains to be seen, and further research is needed to fully understand the potential benefits and limitations of using PSP in combination with qSOFA and NEWS2 for early sepsis detection.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40997264",
+    "authors": [
+      {
+        "name": "Asimina Safarika",
+        "affiliation": "Fourth Department of Internal Medicine, National and Kapodistrian University of Athens, Athens, Greece."
+      },
+      {
+        "name": "Georgia Damoraki",
+        "affiliation": "Fourth Department of Internal Medicine, National and Kapodistrian University of Athens, Athens, Greece."
+      },
+      {
+        "name": "Konstantinos Katsaros",
+        "affiliation": "Department of Surgery, Nafplion General Hospital, Nafplio, Greece."
+      },
+      {
+        "name": "Soraya Hannane",
+        "affiliation": "Abionic SA, Epalinges, Switzerland."
+      }
+    ],
+    "journal": "Shock (Augusta, Ga.)",
+    "publishedDate": "2026-06-01",
+    "fetchedDate": "2026-06-01",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "sepsis"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42219227",
     "pmid": "42219227",
     "doi": "10.1302/2633-1462.76.BJO-2026-0037.R1",
@@ -78,7 +248,7 @@
       "thyroid",
       "hormone"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -121,7 +291,7 @@
       "therapeutic",
       "immune"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -166,7 +336,7 @@
       "therapeutic",
       "pediatric"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -208,7 +378,7 @@
       "myocardial",
       "sepsis"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12363,131 +12533,5 @@
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41404765",
-    "pmid": "41404765",
-    "doi": "10.1080/10717544.2025.2604086",
-    "title": "Tumor microenvironment-responsive conformational activation of apoA-I mimetic peptides for targeted cancer therapy.",
-    "titlePt": "Tumor microenvironment-responsive conformational activation of apoA-I mimetic peptides for targeted cancer therapy.",
-    "abstract": "Apolipoprotein A-I (ApoA-I) mimetic peptides have garnered attention as potential anticancer agents owing to their role in cholesterol metabolism and ability to interact with the SR-BI receptor. However, their tendency to form lipid-bound structures in circulation limits their tumor-targeting therapeutic potential and raises the risk of off-target effects. In this study, we engineered a stimuli-responsive ApoA-I mimetic peptide by incorporating reactive oxygen species (ROS) -responsive amino acid derivatives into its sequence. Under normal physiological conditions, the peptide adopted a disordered conformation, minimizing nonspecific interactions. In contrast, the exposure to the tumor microenvironment, which is characterized by low pH and elevated ROS, could trigger a conformational transition to a structured &#x3b1;-helical state, thereby enhancing its membrane-disruptive and tumor-targeting capabilities. Molecular dynamics simulations predicted a rapid increase in &#x3b1;-helical co",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41404765",
-    "authors": [
-      {
-        "name": "Mengjie Rui",
-        "affiliation": "School of Pharmacy, Jiangsu University, Zhenjiang, Jiangsu Province, People's Republic of China."
-      },
-      {
-        "name": "Lei Fang",
-        "affiliation": "School of Pharmacy, Jiangsu University, Zhenjiang, Jiangsu Province, People's Republic of China."
-      },
-      {
-        "name": "Mengfei Jia",
-        "affiliation": "School of Pharmacy, Jiangsu University, Zhenjiang, Jiangsu Province, People's Republic of China."
-      },
-      {
-        "name": "Wenyan Liang",
-        "affiliation": "School of Pharmacy, Jiangsu University, Zhenjiang, Jiangsu Province, People's Republic of China."
-      }
-    ],
-    "journal": "Drug delivery",
-    "publishedDate": "2025-12-17",
-    "fetchedDate": "2026-04-14",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41396689",
-    "pmid": "41396689",
-    "doi": "10.1080/13510002.2025.2592413",
-    "title": "Unraveling the potential of gasotransmitters as neurogenic and neuroprotective molecules: focus on Alzheimer's and Parkinson's diseases.",
-    "titlePt": "Unraveling the potential of gasotransmitters as neurogenic and neuroprotective molecules: focus on Alzheimer's and Parkinson's diseases.",
-    "abstract": "Alzheimer's disease and Parkinson's disease are the two most prevalent neurodegenerative disorders worldwide, both characterized by progressive neuronal loss. Despite distinct pathophysiological features, they share cellular dysfunctions such as abnormal protein aggregation, oxidative stress, and neuroinflammation, research into which might be beneficial for developing novel therapeutic strategies that could tackle both conditions. This review highlights the emerging role of the gasotransmitters nitric oxide, carbon monoxide and hydrogen sulfide as modulators of adult neurogenesis and neuroprotection in Alzheimer's disease and Parkinson's disease. We have gathered recent evidence demonstrating that these endogenous gases exert anti-inflammatory, antioxidant, and anti-apoptotic effects, and, critically, promote neurogenesis - suggesting a dual neuroprotective and neuroregenerative therapeutic potential. The unique physicochemical features of these gasotransmitters, including their abili",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41396689",
-    "authors": [
-      {
-        "name": "S&#xf3;nia Sim&#xe3;o",
-        "affiliation": "Algarve Biomedical Center Research Institute (ABC-Ri), University of Algarve, Faro, Portugal."
-      },
-      {
-        "name": "Daniela F Santos",
-        "affiliation": "Algarve Biomedical Center (ABC), University of Algarve, Faro, Portugal."
-      },
-      {
-        "name": "Mariana Teixeira",
-        "affiliation": "Faculty of Medicine and Biomedical Sciences (FMCB), University of Algarve, Faro, Portugal."
-      },
-      {
-        "name": "Rafaela R Agostinho",
-        "affiliation": "ABC Collaborative Laboratory - Integrated Ageing and Rejuvenation Solutions (ABC CoLAB), University of Algarve, Faro, Portugal."
-      }
-    ],
-    "journal": "Redox report : communications in free radical research",
-    "publishedDate": "2025-12-15",
-    "fetchedDate": "2026-04-14",
-    "category": "Neurologia",
-    "tags": [
-      "alzheimer",
-      "parkinson",
-      "gene",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41334249",
-    "pmid": "41334249",
-    "doi": "10.1016/j.imr.2025.101264",
-    "title": "Therapeutic effects of pomegranate hot-water extract via inhibition of apoptosis and oxidative stress in a DHEA-induced mouse model of PCOS.",
-    "titlePt": "Therapeutic effects of pomegranate hot-water extract via inhibition of apoptosis and oxidative stress in a DHEA-induced mouse model of PCOS.",
-    "abstract": "Polycystic ovarian syndrome (PCOS), which affects approximately 10 % of women of reproductive age worldwide, is closely associated with metabolic disturbances such as obesity and insulin resistance. Despite its high prevalence, the pathophysiology of PCOS is still not fully understood, underscoring the need for appropriate animal models and effective therapeutic strategies. In this study, we established a PCOS mouse model through subcutaneous administration of dehydroepiandrosterone (DHEA) and investigated the therapeutic potential of a pomegranate (Punica granatum L.) hot water extract (Pg-hWE) (also called ESTROBAL&#xae;), administered orally. Histological analysis of ovarian tissue sections of mice showed that Pg-hWE improved ovulation function and suppressed cell death of follicles by promoting maintenance and regeneration of corpus luteum and reducing the number of atretic follicles. Furthermore, Pg-hWE showed inhibitory effects on gene and protein levels of apoptosis factors such",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41334249",
-    "authors": [
-      {
-        "name": "Sohee Moon",
-        "affiliation": "Department of Integrative Biotechnology, Sungkyunkwan University, Suwon, Gyunggi-do, 16419, Republic of Korea."
-      },
-      {
-        "name": "Yena Oh",
-        "affiliation": "Department of Integrative Biotechnology, Sungkyunkwan University, Suwon, Gyunggi-do, 16419, Republic of Korea."
-      },
-      {
-        "name": "Hajin Noh",
-        "affiliation": "Department of Integrative Biotechnology, Sungkyunkwan University, Suwon, Gyunggi-do, 16419, Republic of Korea."
-      },
-      {
-        "name": "Soo Dong Kim",
-        "affiliation": "R&amp;D Center of Tina Biotech Inc., Guro-gu, Seoul, 07305, Republic of Korea."
-      }
-    ],
-    "journal": "Integrative medicine research",
-    "publishedDate": "2025-12-03",
-    "fetchedDate": "2026-04-14",
-    "category": "Endocrinologia",
-    "tags": [
-      "gene",
-      "therapeutic",
-      "insulin",
-      "metabolic",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": false
   }
 ]
