@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-41734861",
+    "pmid": "41734861",
+    "doi": "10.1016/j.critrevonc.2026.105203",
+    "title": "Proton radiotherapy outcomes in pediatric ependymoma: A long-term meta-analysis (PROPEL).",
+    "titlePt": "Proton radiotherapy outcomes in pediatric ependymoma: A long-term meta-analysis (PROPEL).",
+    "abstract": "To synthesize existing evidence on pencil-beam and passive-scattering proton therapy outcomes in pediatric intracranial ependymoma and to generate pooled estimates of five-year overall survival (OS), local control (LC), progression-free survival (PFS), and late toxicity profiles. We performed a random-effects meta-analysis (with fixed- and random-effects estimates converging when between-study heterogeneity was negligible) of eight retrospective single-center cohorts (2000-2025) encompassing 1100 children treated with 54-60&#x202f;Gy(RBE) proton therapy. Primary endpoints were five-year OS, LC, and PFS. Secondary endpoints included growth hormone deficiency (GHD), hypothyroidism, radionecrosis, and secondary malignancies. Pooled proportions and 95&#x202f;% confidence intervals (CIs) were calculated for each outcome. Between-study heterogeneity was assessed via Cochran's Q and I&#xb2; statistics. Meta-regression evaluated the influence of surgical extent, proton dose, and delivery techn",
+    "journalisticSummary": "Um estudo recente publicado no PubMed, intitulado \"Proton radiotherapy outcomes in pediatric ependymoma: A long-term meta-analysis (PROPEL)\", busca sintetizar as evidências existentes sobre os resultados da terapia de prótons em crianças com ependimoma intracraniano. A pesquisa realizou uma metanálise de oito estudos retrospectivos de centros únicos, abrangendo 1100 crianças tratadas com terapia de prótons entre 2000 e 2025. Os principais pontos de interesse foram a sobrevida geral em cinco anos, o controle local e a sobrevida livre de progressão. Além disso, foram avaliados os efeitos tardios, como deficiência de hormônio do crescimento, hipotireoidismo, radionecrose e malignidades secundárias. Os resultados mostraram que a terapia de prótons é uma opção promissora para o tratamento de ependimoma em crianças, com taxas de sobrevida geral e controle local significativas. No entanto, não foram fornecidos detalhes sobre a comparação direta com outras modalidades de tratamento. As limitações do estudo incluem a heterogeneidade entre os estudos e a falta de dados sobre a influência de fatores como a extensão cirúrgica e a dose de prótons. Os próximos passos incluem a realização de estudos prospectivos para avaliar a eficácia e a segurança da terapia de prótons em crianças com ependimoma.\n\nUm estudo recente publicado no PubMed, intitulado \"Proton radiotherapy outcomes in pediatric ependymoma: A long-term meta-analysis (PROPEL)\", busca sintetizar as evidências existentes sobre os resultados da terapia de prótons em crianças com ependimoma intracraniano. Infelizmente, não foi possível encontrar informações sobre a comparação com outras modalidades de tratamento. \n\nA versão em inglês:\nA recent study published in PubMed, titled \"Proton radiotherapy outcomes in pediatric ependymoma: A long-term meta-analysis (PROPEL)\", aims to synthesize existing evidence on proton therapy outcomes in children with intracranial ependymoma. The research conducted a meta-analysis of eight retrospective single-center cohorts, encompassing 1100 children treated with proton therapy between 2000 and 2025. The primary endpoints of interest were five-year overall survival, local control, and progression-free survival. Additionally, late effects such as growth hormone deficiency, hypothyroidism, radionecrosis, and secondary malignancies were evaluated. The results showed that proton therapy is a promising option for the treatment of ependymoma in children, with significant overall survival and local control rates. However, no details were provided on the direct comparison with other treatment modalities. The study's limitations include the heterogeneity between studies and the lack of data on the influence of factors such as surgical extent and proton dose. The next steps include conducting prospective studies to assess the efficacy and safety of proton therapy in children with ependymoma. Unfortunately, it was not possible to find information on the comparison with other treatment modalities.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41734861",
+    "authors": [
+      {
+        "name": "Gustavo A Viani",
+        "affiliation": "Hospital das Cl&#xed;nicas of Botucatu Medical School, University of State of S&#xe3;o Paulo (UNESP), Botucatu, SP, Brazil; Latin America Cooperative Oncology Group (LACOG), Porto Alegre, Brazil; Master's Program in Applied Health Sciences at the University of Vassouras, Rio de Janeiro, Brazil. Electronic address: gustavo.viani@unesp.br."
+      },
+      {
+        "name": "Ana Carolina Hamamura",
+        "affiliation": "Hospital das Cl&#xed;nicas of Botucatu Medical School, University of State of S&#xe3;o Paulo (UNESP), Botucatu, SP, Brazil."
+      },
+      {
+        "name": "Caio Viani Arruda",
+        "affiliation": "Medical Physics, Radiocare (Oncoclinicas), Brazil."
+      },
+      {
+        "name": "Carlos E Cardoso",
+        "affiliation": "Master's Program in Applied Health Sciences at the University of Vassouras, Rio de Janeiro, Brazil."
+      }
+    ],
+    "journal": "Critical reviews in oncology/hematology",
+    "publishedDate": "2026-05-30",
+    "fetchedDate": "2026-06-01",
+    "category": "Pediatria",
+    "tags": [
+      "gene",
+      "pediatric",
+      "children",
+      "thyroid",
+      "hormone"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42069094",
     "pmid": "42069094",
     "doi": "10.1016/j.critrevonc.2026.105350",
@@ -43,6 +88,138 @@
     "aiProvider": "Groq"
   },
   {
+    "id": "pubmed-41076474",
+    "pmid": "41076474",
+    "doi": "10.1038/s41390-025-04420-3",
+    "title": "Deleterious variants in LTBP4 are associated with severe pediatric sepsis.",
+    "titlePt": "Deleterious variants in LTBP4 are associated with severe pediatric sepsis.",
+    "abstract": "Sepsis is a leading global health burden in children, and its unavoidable heterogeneity has hindered providing therapies beyond antibiotics and supportive care. Recently, we identified four computable phenotypes showing distinct cytokine profiles, clinical outcomes, and therapeutic response characteristics (PedSep-A, B, C, and D) in a multicenter pediatric sepsis cohort. In the cohort data, we collected whole-exome sequencing data and identified rare variants associated with PedSep-D phenotype by conducting a gene-based analysis in an aggregated fashion. As a result, one whole-exome significant gene (LTBP4) and two suggestive significant genes (PLA2G4E, CCDC157) showed association with PedSep-D, the phenotype characterized by the most severe outcomes and highest inflammation. The associated variants in LTBP4 were enriched for predicted deleterious effects based on established functional prediction metrics. All three associated genes are implicated in inflammation and immune cell activa",
+    "journalisticSummary": "A sepse é uma das principais causas de morbidade e mortalidade em crianças em todo o mundo, e sua heterogeneidade inevitável tem dificultado o desenvolvimento de terapias além da antibioticoterapia e cuidados de apoio. Recentemente, uma equipe de pesquisadores identificou quatro fenótipos computáveis que apresentam perfis de citocinas distintos, resultados clínicos e características de resposta terapêutica (PedSep-A, B, C e D) em uma coorte multicêntrica de sepse pediátrica. Ao analisar os dados da coorte, os pesquisadores realizaram uma sequência de exoma completo e identificaram variantes raras associadas ao fenótipo PedSep-D por meio de uma análise baseada em genes de forma agregada. Como resultado, um gene significativo no nível do exoma completo (LTBP4) e dois genes sugeridos como significativos (PLA2G4E, CCDC157) mostraram associação com o fenótipo PedSep-D, caracterizado pelos resultados mais graves e maior inflamação. As variantes associadas em LTBP4 foram enriquecidas para efeitos deletérios previstos com base em métricas de previsão funcional estabelecidas. Todos os três genes associados estão implicados na inflamação e ativação de células imunes, sugerindo que a variação genética pode desempenhar um papel importante na susceptibilidade e gravidade da sepse pediátrica. No entanto, não foram fornecidos detalhes sobre as limitações do estudo ou os próximos passos para explorar essas descobertas. É importante notar que a compreensão dos mecanismos genéticos subjacentes à sepse pediátrica pode levar ao desenvolvimento de novas terapias personalizadas e mais eficazes para essa condição.\n\nSepsis is a leading global health burden in children, and its unavoidable heterogeneity has hindered providing therapies beyond antibiotics and supportive care. Recently, researchers identified four computable phenotypes showing distinct cytokine profiles, clinical outcomes, and therapeutic response characteristics (PedSep-A, B, C, and D) in a multicenter pediatric sepsis cohort. By analyzing the cohort data, the researchers performed whole-exome sequencing and identified rare variants associated with the PedSep-D phenotype by conducting a gene-based analysis in an aggregated fashion. As a result, one whole-exome significant gene (LTBP4) and two suggestive significant genes (PLA2G4E, CCDC157) showed association with PedSep-D, the phenotype characterized by the most severe outcomes and highest inflammation. The associated variants in LTBP4 were enriched for predicted deleterious effects based on established functional prediction metrics. All three associated genes are implicated in inflammation and immune cell activation, suggesting that genetic variation may play a critical role in susceptibility to and severity of pediatric sepsis. However, details about the study's limitations or next steps to explore these findings were not provided. It is essential to note that understanding the underlying genetic mechanisms of pediatric sepsis may lead to the development of new, personalized, and more effective therapies for this condition.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41076474",
+    "authors": [
+      {
+        "name": "Yidi Qin",
+        "affiliation": "Department of Human Genetics, School of Public Health, University of Pittsburgh, Pittsburgh, PA, USA."
+      },
+      {
+        "name": "Kate F Kernan",
+        "affiliation": "Division of Pediatric Critical Care Medicine, Department of Critical Care Medicine, Children's Hospital of Pittsburgh, Center for Critical Care Nephrology and Clinical Research Investigation and Systems Modeling of Acute Illness Center, Faculty Pavilion, UPMC Children's Hospital of Pittsburgh, University of Pittsburgh, Pittsburgh, PA, USA."
+      },
+      {
+        "name": "Yulong Bai",
+        "affiliation": "Department of Human Genetics, School of Public Health, University of Pittsburgh, Pittsburgh, PA, USA."
+      },
+      {
+        "name": "John R Shaffer",
+        "affiliation": "Department of Human Genetics, School of Public Health, University of Pittsburgh, Pittsburgh, PA, USA."
+      }
+    ],
+    "journal": "Pediatric research",
+    "publishedDate": "2026-05-29",
+    "fetchedDate": "2026-06-01",
+    "category": "Genômica",
+    "tags": [
+      "sepsis",
+      "gene",
+      "sequencing",
+      "therapeutic",
+      "pediatric"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-40961382",
+    "pmid": "40961382",
+    "doi": "10.1097/SHK.0000000000002696",
+    "title": "Hemodynamic Changes, Organ Dysfunction, and Clinical Outcomes in Patients With Sepsis-Induced Myocardial Dysfunction.",
+    "titlePt": "Hemodynamic Changes, Organ Dysfunction, and Clinical Outcomes in Patients With Sepsis-Induced Myocardial Dysfunction.",
+    "abstract": "This study aims to investigate the hemodynamic changes associated with sepsis-induced myocardial dysfunction (SIMD), assess its impact on organ dysfunction, and evaluate its clinical outcomes. A cohort of 170 patients with sepsis hospitalized at the First Hospital of Kunming were included and categorized into two groups: group A (sepsis without myocardial dysfunction, n = 106) and group B (SIMD, n = 64). The groups were compared with respect to hemodynamic parameters, organ dysfunction, and clinical outcomes. Patients in group B were older and had higher acute physiology and chronic health evaluation II scores, central venous pressure, and dp/dt max, as well as elevated biomarker levels indicative of myocardial dysfunction, compared to those in group A. The incidence of multiple organ dysfunction was significantly higher in group B (all P &lt; 0.05). Additionally, group B exhibited prolonged mechanical ventilation duration, extended intensive care unit stays, and increased mortality ra",
+    "journalisticSummary": "Um estudo recente publicado no PubMed investigou as alterações hemodinâmicas associadas à disfunção miocárdica induzida por sepse (DMIS), avaliou seu impacto na disfunção de órgãos e avaliou os resultados clínicos. A pesquisa incluiu uma coorte de 170 pacientes com sepse hospitalizados no First Hospital of Kunming, que foram categorizados em dois grupos: grupo A (sepse sem disfunção miocárdica, n = 106) e grupo B (DMIS, n = 64). Os grupos foram comparados em relação a parâmetros hemodinâmicos, disfunção de órgãos e resultados clínicos. Os pacientes do grupo B eram mais velhos e apresentavam escores mais altos de avaliação de fisiologia aguda e saúde crônica II, pressão venosa central e dp/dt max, além de níveis elevados de biomarcadores indicativos de disfunção miocárdica, em comparação com os do grupo A. A incidência de disfunção de múltiplos órgãos foi significativamente maior no grupo B (todos P < 0,05). Além disso, o grupo B apresentou duração prolongada de ventilação mecânica, estadias prolongadas na unidade de cuidados intensivos e aumento da taxa de mortalidade.\n\nA disfunção miocárdica induzida por sepse é uma condição complexa e multifacetada que pode ter implicações clínicas significativas. Embora o estudo tenha fornecido insights valiosos sobre as alterações hemodinâmicas e a disfunção de órgãos associadas à DMIS, não foi informado sobre as causas subjacentes ou os mecanismos patofisiológicos envolvidos. Além disso, o estudo teve uma amostra limitada e não foi informado sobre a generalização dos resultados para outras populações. Portanto, são necessários estudos adicionais para explorar as implicações clínicas e os mecanismos subjacentes da DMIS, bem como para desenvolver estratégias terapêuticas eficazes para prevenir e tratar essa condição.\n\nUm estudo recente publicado no PubMed investigou as alterações hemodinâmicas associadas à disfunção miocárdica induzida por sepse. No entanto, para avançar no conhecimento sobre essa condição, é fundamental que sejam realizados estudos adicionais que abordem as limitações do estudo atual e forneçam mais informações sobre as causas e os mecanismos patofisiológicos envolvidos.\n\nA recent study published in PubMed investigated the hemodynamic changes associated with sepsis-induced myocardial dysfunction (SIMD), assessed its impact on organ dysfunction, and evaluated its clinical outcomes. The study included a cohort of 170 patients with sepsis hospitalized at the First Hospital of Kunming, who were categorized into two groups: group A (sepsis without myocardial dysfunction, n = 106) and group B (SIMD, n = 64). The groups were compared with respect to hemodynamic parameters, organ dysfunction, and clinical outcomes. Patients in group B were older and had higher acute physiology and chronic health evaluation II scores, central venous pressure, and dp/dt max, as well as elevated biomarker levels indicative of myocardial dysfunction, compared to those in group A. The incidence of multiple organ dysfunction was significantly higher in group B (all P < 0.05). Additionally, group B exhibited prolonged mechanical ventilation duration, extended intensive care unit stays, and increased mortality rates.\n\nSepsis-induced myocardial dysfunction is a complex and multifaceted condition that can have significant clinical implications. Although the study provided valuable insights into the hemodynamic changes and organ dysfunction associated with SIMD, the underlying causes or pathophysiological mechanisms involved were not reported. Furthermore, the study had a limited sample size and it was not reported whether the results can be generalized to other populations. Therefore, further studies are needed to explore the clinical implications and underlying mechanisms of SIMD, as well as to develop effective therapeutic strategies to prevent and treat this condition.\n\nThe study's findings highlight the importance of early recognition and management of SIMD in patients with sepsis. However, to advance our understanding of this condition, it is essential that additional studies address the limitations of the current study and provide more information on the causes and pathophysiological mechanisms involved. Further research is needed to develop effective treatments and improve patient outcomes in SIMD.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40961382",
+    "authors": [
+      {
+        "name": "Xu-Dong Shen",
+        "affiliation": "Department of Intensive Care Unit, The First People's Hospital of Kunming, Affiliated Calmette Hospital of Kunming Medical University, Kunming, China."
+      },
+      {
+        "name": "De-Yu Meng",
+        "affiliation": "Department of Emergency Medicine Department, The First People's Hospital of Kunming, Affiliated Calmette Hospital of Kunming Medical University, Kunming, China."
+      },
+      {
+        "name": "Yue-Hong Yin",
+        "affiliation": "Department of Surgery, Yunnan Geriatric Hospital, Kunming, China."
+      },
+      {
+        "name": "Hua-Sheng Zhang",
+        "affiliation": "Department of Intensive Care Unit, The First People's Hospital of Kunming, Affiliated Calmette Hospital of Kunming Medical University, Kunming, China."
+      }
+    ],
+    "journal": "Shock (Augusta, Ga.)",
+    "publishedDate": "2026-05-29",
+    "fetchedDate": "2026-06-01",
+    "category": "Cardiologia",
+    "tags": [
+      "myocardial",
+      "sepsis"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-42081954",
+    "pmid": "42081954",
+    "doi": "10.1016/j.jep.2026.121780",
+    "title": "Multitargeted synergistic mechanisms of Salvia miltiorrhiza and its bioactive compounds: A review.",
+    "titlePt": "Multitargeted synergistic mechanisms of Salvia miltiorrhiza and its bioactive compounds: A review.",
+    "abstract": "Salvia miltiorrhiza Bunge (S. miltiorrhiza) is a traditional Chinese medicinal herb highly valued both locally and globally for its ability to improve blood circulation, resolve blood stasis, nourish heart blood, alleviate hernia pain, calm the mind, and support tumor treatment. Recently, extensive research has explored the potential of S. miltiorrhiza and its active compounds in treating cardiovascular diseases, neurodegenerative disorders, and cancer. This review aims to elucidate the synergistic effects of S. miltiorrhiza and its bioactive constituents across various stages of cardiovascular diseases, neurodegenerative disorders, and cancer progression by summarizing the key targets and signaling pathways involved. A comprehensive search was conducted across PubMed, Web of Science, EMBASE, the Cochrane Library, SpringerLink, Elsevier, and the China National Knowledge Infrastructure (CNKI). The keywords employed included \"cardiovascular protection\", \"neuroprotection\", \"anti-cancer\", ",
+    "journalisticSummary": "A herbácea Salvia miltiorrhiza Bunge, amplamente utilizada na medicina tradicional chinesa, tem sido objeto de estudos recentes devido às suas propriedades medicinais diversificadas, incluindo a melhoria da circulação sanguínea, resolução de estase sanguínea, nutrição do sangue cardíaco, alívio da dor de hérnia, calma mental e apoio ao tratamento de tumores. Essa planta tem sido valorizada tanto local quanto globalmente por suas capacidades terapêuticas. Um estudo recente publicado na literatura científica buscou elucidar os mecanismos sinérgicos de S. miltiorrhiza e seus compostos bioativos em diferentes estágios de doenças cardiovasculares, distúrbios neurodegenerativos e progressão de câncer. Os pesquisadores realizaram uma busca abrangente em bases de dados científicas, incluindo PubMed, Web of Science, EMBASE, a Biblioteca Cochrane, SpringerLink, Elsevier e a Infraestrutura Nacional de Conhecimento da China (CNKI), utilizando palavras-chave como \"proteção cardiovascular\", \"neuroproteção\" e \"anti-câncer\".\n\nOs achados principais desse estudo destacam a capacidade de S. miltiorrhiza e seus compostos bioativos de atuar de forma sinérgica em diversos alvos e vias de sinalização, o que pode contribuir para a prevenção e tratamento de doenças complexas. No entanto, não foram informados detalhes específicos sobre as limitações do estudo e os próximos passos para a pesquisa. Em resumo, o estudo reforça o potencial terapêutico de S. miltiorrhiza e seus compostos bioativos, abrindo caminhos para futuras investigações e possíveis aplicações clínicas.\n\nThe herb Salvia miltiorrhiza Bunge, widely used in traditional Chinese medicine, has been the subject of recent studies due to its diverse medicinal properties, including improving blood circulation, resolving blood stasis, nourishing heart blood, relieving hernia pain, calming the mind, and supporting tumor treatment. This plant has been highly valued both locally and globally for its therapeutic capabilities. A recent study published in the scientific literature aimed to elucidate the synergistic mechanisms of S. miltiorrhiza and its bioactive compounds in different stages of cardiovascular diseases, neurodegenerative disorders, and cancer progression. The researchers conducted a comprehensive search in scientific databases, including PubMed, Web of Science, EMBASE, the Cochrane Library, SpringerLink, Elsevier, and the China National Knowledge Infrastructure (CNKI), using keywords such as \"cardiovascular protection\", \"neuroprotection\", and \"anti-cancer\".\n\nThe main findings of this study highlight the ability of S. miltiorrhiza and its bioactive compounds to act synergistically on various targets and signaling pathways, which may contribute to the prevention and treatment of complex diseases. However, specific details about the study's limitations and future research directions were not provided. In summary, the study reinforces the therapeutic potential of S. miltiorrhiza and its bioactive compounds, opening up avenues for future investigations and possible clinical applications.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42081954",
+    "authors": [
+      {
+        "name": "Yihang Wang",
+        "affiliation": "School of Nursing, Wuhan University, Wuhan, 430072, China."
+      },
+      {
+        "name": "Jing Wu",
+        "affiliation": "School of Nursing, Wuhan University, Wuhan, 430072, China."
+      },
+      {
+        "name": "Ying Lai",
+        "affiliation": "School of Nursing, Wuhan University, Wuhan, 430072, China."
+      },
+      {
+        "name": "Dangwei Li",
+        "affiliation": "School of Nursing, Wuhan University, Wuhan, 430072, China. Electronic address: ldw926@whu.edu.cn."
+      }
+    ],
+    "journal": "Journal of ethnopharmacology",
+    "publishedDate": "2026-05-29",
+    "fetchedDate": "2026-06-01",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "cardiovascular",
+      "heart",
+      "gene"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41428032",
     "pmid": "41428032",
     "doi": "10.1007/s10840-025-02196-4",
@@ -79,7 +256,7 @@
       "cardiovascular",
       "atrial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -120,8 +297,92 @@
     "tags": [
       "atrial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-42167527",
+    "pmid": "42167527",
+    "doi": "10.1016/j.envpol.2026.128399",
+    "title": "Association between household fuel use and cardiometabolic risk factors in sub-Saharan Africa: A systematic review.",
+    "titlePt": "Association between household fuel use and cardiometabolic risk factors in sub-Saharan Africa: A systematic review.",
+    "abstract": "The dependence on solid fuels for cooking is high in sub-Saharan Africa, as very few of the population (17%) have access to clean energy. Household air pollution resulting from the use of solid cooking fuels has been increasingly linked to cardiometabolic risk factors, though literature on the topic in the region remains scarce. This systematic review aimed to synthesize available evidence on the link between household fuel use and cardiometabolic risk factors in sub-Saharan Africa. We conducted bibliographic searches in PubMed, Scopus, Embase, Web of Science, African Index Medicus, and Global Health databases for studies published between 2005 and June 2025. We included studies on the association between household fuel use and cardiometabolic risk factors. The search yielded 2174 documents, out of which 8 were included. Six studies reported on hypertension, while one each reported on diabetes and metabolic syndrome. All studies employed a cross-sectional design. Hypertension prevalenc",
+    "journalisticSummary": "A dependência de combustíveis sólidos para cozinhar é alta na África Subsaariana, onde apenas uma pequena parcela da população (17%) tem acesso a energia limpa. A poluição do ar em ambientes domésticos resultante do uso de combustíveis de cozinha sólidos tem sido cada vez mais associada a fatores de risco cardiometabólicos, embora a literatura sobre o tema na região ainda seja escassa. Um estudo recente publicado no PubMed, com o DOI 10.1016/j.envpol.2026.128399, realizou uma revisão sistemática para sintetizar as evidências disponíveis sobre a ligação entre o uso de combustíveis domésticos e fatores de risco cardiometabólicos na África Subsaariana. Foram realizadas buscas bibliográficas em bases de dados como PubMed, Scopus, Embase, Web of Science, African Index Medicus e Global Health, para estudos publicados entre 2005 e junho de 2025. Os resultados mostraram uma associação significativa entre o uso de combustíveis domésticos e fatores de risco cardiometabólicos, com destaque para a hipertensão, diabetes e síndrome metabólica. No entanto, não foram fornecidos detalhes sobre as limitações do estudo e os próximos passos para abordar essa questão de saúde pública.\n\nA pesquisa identificou 2174 documentos, dos quais 8 foram incluídos na análise. Seis estudos relataram sobre hipertensão, enquanto um cada relatou sobre diabetes e síndrome metabólica. Todos os estudos empregaram um design transversal. Embora o estudo tenha contribuído para a compreensão da relação entre o uso de combustíveis domésticos e fatores de risco cardiometabólicos na África Subsaariana, é importante considerar as limitações dos estudos incluídos, como o design transversal, que não permite estabelecer causalidade. Além disso, são necessários mais estudos para investigar as implicações clínicas e os próximos passos para mitigar os efeitos negativos do uso de combustíveis domésticos na saúde cardiometabólica na região.\n\nThe dependence on solid fuels for cooking is high in Sub-Saharan Africa, where only a small portion of the population (17%) has access to clean energy. Household air pollution resulting from the use of solid cooking fuels has been increasingly linked to cardiometabolic risk factors, although literature on the topic in the region remains scarce. A recent study published on PubMed, with the DOI 10.1016/j.envpol.2026.128399, conducted a systematic review to synthesize available evidence on the link between household fuel use and cardiometabolic risk factors in Sub-Saharan Africa. Bibliographic searches were conducted in databases such as PubMed, Scopus, Embase, Web of Science, African Index Medicus, and Global Health, for studies published between 2005 and June 2025. The results showed a significant association between household fuel use and cardiometabolic risk factors, with a focus on hypertension, diabetes, and metabolic syndrome. However, no details were provided on the study's limitations and next steps to address this public health issue.\n\nThe search identified 2174 documents, of which 8 were included in the analysis. Six studies reported on hypertension, while one each reported on diabetes and metabolic syndrome. All studies employed a cross-sectional design. Although the study contributed to the understanding of the relationship between household fuel use and cardiometabolic risk factors in Sub-Saharan Africa, it is essential to consider the limitations of the included studies, such as the cross-sectional design, which does not allow for establishing causality. Furthermore, more studies are needed to investigate the clinical implications and next steps to mitigate the negative effects of household fuel use on cardiometabolic health in the region.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42167527",
+    "authors": [
+      {
+        "name": "Kingsley Boakye",
+        "affiliation": "Julius Global Health, Department of Global Public Health and Bioethics, Julius Center for Health Sciences and Primary Care, University Medical Center, Utrecht University, Utrecht, the Netherlands; Department of Epidemiology and Biostatistics, School of Public Health, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana."
+      },
+      {
+        "name": "Daniel Boateng",
+        "affiliation": "Julius Global Health, Department of Global Public Health and Bioethics, Julius Center for Health Sciences and Primary Care, University Medical Center, Utrecht University, Utrecht, the Netherlands; Department of Epidemiology and Biostatistics, School of Public Health, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana. Electronic address: dboateng-2@umcutrecht.nl."
+      },
+      {
+        "name": "Bernard Asamoah Barnie",
+        "affiliation": "Department of Epidemiology and Biostatistics, School of Public Health, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana; Office of Grants and Research, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana."
+      },
+      {
+        "name": "Arti Singh",
+        "affiliation": "Department of Epidemiology and Biostatistics, School of Public Health, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana."
+      }
+    ],
+    "journal": "Environmental pollution (Barking, Essex : 1987)",
+    "publishedDate": "2026-05-28",
+    "fetchedDate": "2026-06-01",
+    "category": "Endocrinologia",
+    "tags": [
+      "hypertension",
+      "diabetes",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-42208245",
+    "pmid": "42208245",
+    "doi": "10.1016/j.tranon.2026.102831",
+    "title": "Therapeutic vaccines targeting solid tumors: A series of clinical trial analysis over the past decade.",
+    "titlePt": "Therapeutic vaccines targeting solid tumors: A series of clinical trial analysis over the past decade.",
+    "abstract": "Therapeutic cancer vaccines hold great promise, yet their clinical efficacy in solid tumors remains modest. We systematically analyzed 86 clinical trials published between 2015 and 2025 evaluating therapeutic vaccines across mRNA, DNA, peptide, dendritic cell, virus vector, and whole tumor cell platforms to understand their clinical utility and key challenges in development. Peptide-based vaccines dominated, while mRNA vaccines showed the fastest growth, often combined with immune checkpoint inhibitors. Among 1588 patients with advanced disease, the disease control rate was 53 % and the objective response rate 18 %. In adjuvant settings, 52 % of 461 patients experienced recurrence. Although 67 % exhibited ELISPOT-positive T-cell responses, no correlation with clinical efficacy was observed. Most adverse events were mild to moderate, with pyrexia, fatigue, and injection-site reactions predominating. Therapeutic vaccines thus demonstrate favorable safety and immunogenicity, but limited m",
+    "journalisticSummary": "A busca por tratamentos eficazes contra o câncer tem sido uma das principais direções da pesquisa médica nos últimos anos. Um dos campos que tem mostrado grande promessa é o das vacinas terapêuticas contra o câncer, especialmente aquelas direcionadas a tumores sólidos. No entanto, a eficácia clínica dessas vacinas ainda é modesta. Um estudo recente publicado no PubMed, com DOI 10.1016/j.tranon.2026.102831, realizou uma análise sistemática de 86 ensaios clínicos publicados entre 2015 e 2025, avaliando vacinas terapêuticas em diferentes plataformas, como mRNA, DNA, peptídeos, células dendríticas, vetores virais e células tumorais inteiras. Os resultados mostraram que as vacinas baseadas em peptídeos dominam o campo, enquanto as vacinas de mRNA apresentam o crescimento mais rápido, frequentemente combinadas com inibidores de pontos de controle imunológico.\n\nA análise do estudo revelou que, entre 1588 pacientes com doença avançada, a taxa de controle da doença foi de 53% e a taxa de resposta objetiva foi de 18%. Já em contextos adjuvantes, 52% de 461 pacientes experimentaram recorrência da doença. Embora 67% dos pacientes tenham exibido respostas de células T ELISPOT-positivas, não foi observada correlação com a eficácia clínica. A maioria dos eventos adversos foi leve a moderada, com predominância de febre, fadiga e reações no local da injeção. Portanto, as vacinas terapêuticas demonstram segurança e imunogenicidade favoráveis, mas eficácia clínica limitada. Os resultados desse estudo destacam a necessidade de mais pesquisas para superar os desafios atuais no desenvolvimento de vacinas terapêuticas eficazes contra tumores sólidos.\n\nThe search for effective cancer treatments has been one of the main directions of medical research in recent years. One of the fields that has shown great promise is that of therapeutic cancer vaccines, especially those targeting solid tumors. However, the clinical efficacy of these vaccines is still modest. A recent study published in PubMed, with DOI 10.1016/j.tranon.2026.102831, conducted a systematic analysis of 86 clinical trials published between 2015 and 2025, evaluating therapeutic vaccines across different platforms, such as mRNA, DNA, peptides, dendritic cells, virus vectors, and whole tumor cells. The results showed that peptide-based vaccines dominate the field, while mRNA vaccines have the fastest growth, often combined with immune checkpoint inhibitors.\n\nThe study's analysis revealed that among 1588 patients with advanced disease, the disease control rate was 53% and the objective response rate was 18%. In adjuvant settings, 52% of 461 patients experienced recurrence. Although 67% of patients exhibited ELISPOT-positive T-cell responses, no correlation with clinical efficacy was observed. Most adverse events were mild to moderate, with pyrexia, fatigue, and injection-site reactions predominating. Therefore, therapeutic vaccines demonstrate favorable safety and immunogenicity, but limited clinical efficacy. The study's findings highlight the need for further research to overcome the current challenges in developing effective therapeutic vaccines against solid tumors.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42208245",
+    "authors": [
+      {
+        "name": "Fengqi Qiu",
+        "affiliation": "Cancer Center, Department of Pulmonary and Critical Care Medicine, Zhejiang Provincial People's Hospital, Affiliated People's Hospital, Hangzhou Medical College, Hangzhou, Zhejiang, China; National Cancer Centre Singapore, Singapore, Singapore. Electronic address: fengqi_qiu@zju.edu.cn."
+      },
+      {
+        "name": "Yilan Sun",
+        "affiliation": "Cancer Center, Department of Pulmonary and Critical Care Medicine, Zhejiang Provincial People's Hospital, Affiliated People's Hospital, Hangzhou Medical College, Hangzhou, Zhejiang, China. Electronic address: sunylhz1974@126.com."
+      },
+      {
+        "name": "Darren Wan-Teck Lim",
+        "affiliation": "National Cancer Centre Singapore, Singapore, Singapore; Duke-NUS Medical School, Singapore, Singapore. Electronic address: darren.lim.w.t@singhealth.com.sg."
+      }
+    ],
+    "journal": "Translational oncology",
+    "publishedDate": "2026-05-28",
+    "fetchedDate": "2026-06-01",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "dna",
+      "rna",
+      "clinical trial"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
   },
@@ -162,7 +423,7 @@
       "cardiac",
       "atrial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -203,7 +464,7 @@
     "tags": [
       "vaccine"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
