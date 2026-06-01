@@ -1,5 +1,44 @@
 [
   {
+    "id": "pubmed-42219227",
+    "pmid": "42219227",
+    "doi": "10.1302/2633-1462.76.BJO-2026-0037.R1",
+    "title": "Complications of PI to PIII hemipelvic resections for intermediate and malignant tumours : a systematic review and meta-analysis.",
+    "titlePt": "Complications of PI to PIII hemipelvic resections for intermediate and malignant tumours : a systematic review and meta-analysis.",
+    "abstract": "Surgical management of intermediate and malignant tumours in the pelvis is complex. Complications are frequent and either related to the surgery itself or to post-surgical failure of the reconstruction technique. This systematic review and meta-analysis aims at analyzing all reported complications following PI to PIII pelvic resections for intermediate and malignant tumours. Based on a systematic literature search on PubMed adhering to the PRISMA guidelines, 1,683 study records were identified, of which we included 90 original studies published until 22 July 2025. Overall complication rates were assessed with random-effects meta-analysis. Differences in complication rates between reconstruction types (i.e. megaprosthetic, mostly biological, none) were evaluated with meta regression analysis. Data on 2,199 patients (1,250 males (57%)) with mainly PI to PIII pelvic resections were analyzed. The most common reconstruction types were custom-made implants (21%; n = 451) and ice-cream cone p",
+    "journalisticSummary": "O manejo cirúrgico de tumores intermédios e malignos na pelve é um desafio complexo devido à alta frequência de complicações, que podem estar relacionadas à própria cirurgia ou ao fracasso pós-cir��rgico das técnicas de reconstrução. Um estudo publicado recentemente na literatura científica busca analisar as complicações relatadas após ressecções pélvicas do tipo PI a PIII para tumores intermédios e malignos. A pesquisa, conduzida por meio de uma revisão sistemática e metanálise, identificou 1.683 estudos potenciais, dos quais 90 foram incluídos na análise, com dados de 2.199 pacientes. Os resultados mostraram que as taxas gerais de complicações foram significativas, com diferenças observadas entre os tipos de reconstrução utilizados, como implantes megaprotéticos, técnicas biológicas e a ausência de reconstrução.\n\nA análise dos dados revelou que as complicações mais comuns estão relacionadas à cirurgia em si e ao fracasso das técnicas de reconstrução. Além disso, os autores do estudo observaram que as taxas de complicações variaram de acordo com o tipo de reconstrução utilizada, o que pode ter implicações clínicas importantes para o tratamento e a gestão de pacientes com tumores pélvicos. No entanto, não foram fornecidos detalhes adicionais sobre as limitações do estudo ou os próximos passos para a investigação, o que pode ser um ponto de interesse para futuras pesquisas. Em resumo, o estudo destaca a importância de considerar as complicações potenciais associadas às ressecções pélvicas e às técnicas de reconstrução no manejo de tumores intermédios e malignos na pelve.\n\nThe surgical management of intermediate and malignant tumors in the pelvis is a complex challenge due to the high frequency of complications, which can be related to the surgery itself or to post-surgical failure of the reconstruction techniques. A recently published study aims to analyze the complications reported after PI to PIII pelvic resections for intermediate and malignant tumors. The research, conducted through a systematic review and meta-analysis, identified 1,683 potential studies, of which 90 were included in the analysis, with data from 2,199 patients. The results showed that the overall complication rates were significant, with differences observed between the types of reconstruction used, such as megaprosthetic implants, biological techniques, and the absence of reconstruction.\n\nThe analysis of the data revealed that the most common complications are related to the surgery itself and to the failure of the reconstruction techniques. Additionally, the study authors observed that the complication rates varied according to the type of reconstruction used, which may have clinically important implications for the treatment and management of patients with pelvic tumors. However, no additional details were provided about the limitations of the study or the next steps for investigation, which may be a point of interest for future research. In summary, the study highlights the importance of considering the potential complications associated with pelvic resections and reconstruction techniques in the management of intermediate and malignant tumors in the pelvis.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42219227",
+    "authors": [
+      {
+        "name": "Maria A Smolle",
+        "affiliation": "Department of Orthopaedics and Trauma, Medical University of Graz, Graz, Austria."
+      },
+      {
+        "name": "Florian A Wenzl",
+        "affiliation": "Center for Molecular Cardiology, University of Zurich, Zurich, Switzerland."
+      },
+      {
+        "name": "Minna K Laitinen",
+        "affiliation": "National Disease Registration and Analysis Service, London, UK."
+      },
+      {
+        "name": "Lee M Jeys",
+        "affiliation": "Department of Cardiovascular Sciences, University of Leicester, Leicester, UK."
+      }
+    ],
+    "journal": "Bone &amp; joint open",
+    "publishedDate": "2026-05-31",
+    "fetchedDate": "2026-06-01",
+    "category": "Farmacologia",
+    "tags": [],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41734861",
     "pmid": "41734861",
     "doi": "10.1016/j.critrevonc.2026.105203",
@@ -214,7 +253,7 @@
       "heart",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
