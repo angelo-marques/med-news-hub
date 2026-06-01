@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-42220942",
+    "pmid": "42220942",
+    "doi": "10.5409/wjcp.v15.i2.115963",
+    "title": "Ultrasound hepatic elastography: A non-invasive indicator of insulin resistance in the pediatric population: A systematic review.",
+    "titlePt": "Ultrasound hepatic elastography: A non-invasive indicator of insulin resistance in the pediatric population: A systematic review.",
+    "abstract": "Insulin resistance (IR) plays a pivotal role in the pathogenesis of metabolic dysfunction-associated steatotic liver disease. While non-invasive imaging methods are increasingly used in pediatrics, the extent to which hepatic elastography reflects IR in children remains unclear. To evaluate the association between ultrasound-based hepatic elastography parameters and clinical indices of IR in the pediatric population. A systematic search of PubMed, Scopus, and Web of Science databases was conducted through October 2025. Studies assessing correlations between elastography parameters - controlled attenuation parameter (CAP) and liver stiffness measurement (LSM) - and IR indices were included. Data were pooled using random-effects meta-analysis with correlation coefficients (r) as the primary effect size. Subgroup and sensitivity analyses examined differences by IR index, cohort characteristics, and elastography modality. Sixteen studies, encompassing 2,032 children and adolescents, were i",
+    "journalisticSummary": "A resistência à insulina (RI) desempenha um papel fundamental na patogênese da doença hepática esteatótica associada à disfunção metabólica. Embora métodos de imagem não invasivos estejam cada vez mais sendo utilizados em pediatria, a extensão com que a elastografia hepática reflete a RI em crianças ainda não está clara. Um estudo recente publicado no PubMed buscou avaliar a associação entre parâmetros de elastografia hepática baseada em ultrassom e índices clínicos de RI na população pediátrica. A pesquisa sistemática foi realizada em bases de dados como PubMed, Scopus e Web of Science até outubro de 2025, incluindo estudos que avaliavam as correlações entre parâmetros de elastografia, como o parâmetro de atenuação controlada (CAP) e a medição da rigidez hepática (LSM), e índices de RI. Os dados foram reunidos usando meta-análise de efeitos aleatórios com coeficientes de correlação (r) como o tamanho do efeito principal. Análises de subgrupos e de sensibilidade examinaram diferenças por índice de RI, características da coorte e modalidade de elastografia. Foram incluídos 16 estudos, que abrangiam 2.032 crianças e adolescentes. Infelizmente, não há informações disponíveis sobre os principais achados e o impacto clínico desses resultados no resumo fornecido. Além disso, as limitações e os próximos passos também não foram especificados.\n\nA resistência à insulina (RI) desempenha um papel fundamental na patogênese da doença hepática esteatótica associada à disfunção metabólica. Embora métodos de imagem não invasivos estejam cada vez mais sendo utilizados em pediatria, a extensão com que a elastografia hepática reflete a RI em crianças ainda não está clara. Um estudo recente publicado no PubMed buscou avaliar a associação entre parâmetros de elastografia hepática baseada em ultrassom e índices clínicos de RI na população pediátrica. A pesquisa sistemática foi realizada em bases de dados como PubMed, Scopus e Web of Science até outubro de 2025, incluindo estudos que avaliavam as correlações entre parâmetros de elastografia, como o parâmetro de atenuação controlada (CAP) e a medição da rigidez hepática (LSM), e índices de RI. Os dados foram reunidos usando meta-análise de efeitos aleatórios com coeficientes de correlação (r) como o tamanho do efeito principal. Análises de subgrupos e de sensibilidade examinaram diferenças por índice de RI, características da coorte e modalidade de elastografia. Foram incluídos 16 estudos, que abrangiam 2.032 crianças e adolescentes. Infelizmente, não há informações disponíveis sobre os principais achados e o impacto clínico desses resultados no resumo fornecido. Além disso, as limitações e os próximos passos também não foram especificados.\n\nInsulin resistance (IR) plays a pivotal role in the pathogenesis of metabolic dysfunction-associated steatotic liver disease. While non-invasive imaging methods are increasingly used in pediatrics, the extent to which hepatic elastography reflects IR in children remains unclear. A recent study published on PubMed sought to evaluate the association between ultrasound-based hepatic elastography parameters and clinical indices of IR in the pediatric population. A systematic search was conducted in databases such as PubMed, Scopus, and Web of Science up to October 2025, including studies that assessed correlations between elastography parameters, such as the controlled attenuation parameter (CAP) and liver stiffness measurement (LSM), and IR indices. Data were pooled using random-effects meta-analysis with correlation coefficients (r) as the primary effect size. Subgroup and sensitivity analyses examined differences by IR index, cohort characteristics, and elastography modality. Sixteen studies, encompassing 2,032 children and adolescents, were included. Unfortunately, there is no information available on the main findings and clinical impact of these results in the provided summary. Additionally, limitations and next steps were also not specified.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42220942",
+    "authors": [
+      {
+        "name": "Reem M Elbeltagi",
+        "affiliation": "Department of Medicine, Royal College of Surgeons in Ireland - Medical University of Bahrain, Busaiteen 15503, Muharraq, Bahrain."
+      },
+      {
+        "name": "Nermin K Saeed",
+        "affiliation": "Medical Microbiology Section, Department of Pathology, Salmaniya Medical Complex, Governmental Hospitals, Ministry of Health, Manama 12, Bahrain."
+      },
+      {
+        "name": "Adel S Bediwy",
+        "affiliation": "Medical Microbiology Section, Pathology Department, Royal College of Surgeons in Ireland - Medical University of Bahrain, Busaiteen 15503, Muharraq, Bahrain."
+      },
+      {
+        "name": "Mohammed Al-Beltagi",
+        "affiliation": "Department of Pulmonology, Faculty of Medicine, Tanta University, Tanta 31527, Alghrabia, Egypt."
+      }
+    ],
+    "journal": "World journal of clinical pediatrics",
+    "publishedDate": "2026-06-01",
+    "fetchedDate": "2026-06-01",
+    "category": "Pediatria",
+    "tags": [
+      "gene",
+      "pediatric",
+      "children",
+      "insulin",
+      "metabolic"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42223336",
     "pmid": "42223336",
     "doi": "10.1080/13696998.2026.2678778",
@@ -203,7 +248,7 @@
     "fetchedDate": "2026-06-01",
     "category": "Farmacologia",
     "tags": [],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -293,6 +338,48 @@
     ],
     "isHighlight": false,
     "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-41405663",
+    "pmid": "41405663",
+    "doi": "10.1007/s10840-025-02197-3",
+    "title": "Comparison of outcomes after ablation of atrial fibrillation in patients with heart failure with preserved versus reduced ejection fraction: a US retrospective cohort analysis.",
+    "titlePt": "Comparison of outcomes after ablation of atrial fibrillation in patients with heart failure with preserved versus reduced ejection fraction: a US retrospective cohort analysis.",
+    "abstract": "Atrial fibrillation (AF) ablation is a class I recommendation for patients with heart failure (HF) and reduced ejection fraction (HFrEF). However, data regarding the efficacy of catheter ablation in patients with heart failure and preserved ejection fraction (HFpEF) is limited. We aim to evaluate the impact of catheter ablation in patients with HFpEF compared to those with HFrEF. We conducted a retrospective analysis using the TriNetX database from January 2016 to July 2022. Patients aged 18 years or older with AF and HF undergoing their first catheter ablation were included. Based on all baseline characteristics, propensity score matching (PSM) (1:1) was performed. The primary outcomes were the recurrence of AF, acute heart failure, and all-cause mortality over a 3-year follow-up. Our study included 4771 patients with HFpEF and 5663 patients with HFrEF. After PSM, there were 2893 patients in each group. There was no significant difference between HFpEF and HFrEF in AF recurrence (HR, ",
+    "journalisticSummary": "Um estudo recente publicado no PubMed, com DOI 10.1007/s10840-025-02197-3, investigou os resultados da ablação de fibrilação atrial em pacientes com insuficiência cardíaca, comparando aqueles com fra��ão de ejeção preservada (HFpEF) e reduzida (HFrEF). A ablação de fibrilação atrial é uma recomendação de classe I para pacientes com insuficiência cardíaca e fração de ejeção reduzida, mas os dados sobre a eficácia dessa intervenção em pacientes com insuficiência cardíaca e fração de ejeção preservada são limitados. O objetivo do estudo foi avaliar o impacto da ablação por cateter em pacientes com HFpEF em comparação com aqueles com HFrEF.\n\nO estudo foi realizado como uma análise de coorte retrospectiva utilizando o banco de dados TriNetX, de janeiro de 2016 a julho de 2022. Foram incluídos pacientes com 18 anos ou mais, portadores de fibrilação atrial e insuficiência cardíaca, que realizaram a primeira ablação por cateter. Com base em todas as características basais, foi realizado o pareamento de escore de propensão (PSM) em uma relação de 1:1. Os resultados primários foram a recorrência de fibrilação atrial, insuficiência cardíaca aguda e mortalidade por todas as causas durante um follow-up de 3 anos. O estudo incluiu 4771 pacientes com HFpEF e 5663 pacientes com HFrEF. Após o PSM, havia 2893 pacientes em cada grupo. Não houve diferença significativa entre HFpEF e HFrEF na recorrência de fibrilação atrial.\n\nOs achados principais do estudo sugerem que a ablação por cateter pode ser uma opção terapêutica viável para pacientes com HFpEF, com resultados comparáveis aos de pacientes com HFrEF. No entanto, é importante notar que o estudo apresenta limitações, como a natureza retrospectiva da análise e a falta de informações sobre certos aspectos dos pacientes. Além disso, o estudo não forneceu dados sobre a análise de subgrupos ou a avaliação de outros resultados clínicos importantes. Portanto, são necessários estudos adicionais para confirmar esses resultados e avaliar melhor o papel da ablação por cateter em pacientes com HFpEF.\n\nOs próximos passos incluem a realização de estudos prospectivos e randomizados para avaliar a eficácia e a segurança da ablação por cateter em pacientes com HFpEF, bem como a investigação de novas estratégias terapêuticas para melhorar os resultados clínicos desses pacientes. Além disso, é fundamental que os profissionais de saúde estejam cientes das limitações e dos potenciais benefícios da ablação por cateter em pacientes com HFpEF, para que possam tomar decisões informadas e personalizadas sobre o tratamento desses pacientes.\n\nUm estudo recente publicado no PubMed, com DOI 10.1007/s10840-025-02197-3, investigou os resultados da ablação de fibrilação atrial em pacientes com insuficiência cardíaca, comparando aqueles com fração de ejeção preservada (HFpEF) e reduzida (HFrEF). \n\nAqui está a versão em inglês:\n\nA recent study published in PubMed, with DOI 10.1007/s10840-025-02197-3, investigated the outcomes of atrial fibrillation ablation in patients with heart failure, comparing those with preserved ejection fraction (HFpEF) and reduced ejection fraction (HFrEF). Atrial fibrillation ablation is a class I recommendation for patients with heart failure and reduced ejection fraction, but data on the efficacy of this intervention in patients with heart failure and preserved ejection fraction are limited. The objective of the study was to evaluate the impact of catheter ablation in patients with HFpEF compared to those with HFrEF.\n\nThe study was conducted as a retrospective cohort analysis using the TriNetX database, from January 2016 to July 2022. Patients aged 18 years or older with atrial fibrillation and heart failure who underwent their first catheter ablation were included. Based on all baseline characteristics, propensity score matching (PSM) was performed in a 1:1 ratio. The primary outcomes were the recurrence of atrial fibrillation, acute heart failure, and all-cause mortality over a 3-year follow-up. The study included 4771 patients with HFpEF and 5663 patients with HFrEF. After PSM, there were 2893 patients in each group. There was no significant difference between HFpEF and HFrEF in atrial fibrillation recurrence.\n\nThe main findings of the study suggest that catheter ablation may be a viable therapeutic option for patients with HFpEF, with comparable results to those with HFrEF. However, it is essential to note that the study has limitations, such as the retrospective nature of the analysis and the lack of information on certain aspects of the patients. Additionally, the study did not provide data on subgroup analysis or the evaluation of other important clinical outcomes. Therefore, further studies are needed to confirm these results and better evaluate the role of catheter ablation in patients with HFpEF.\n\nThe next steps include conducting prospective and randomized studies to evaluate the efficacy and safety of catheter ablation in patients with HFpEF, as well as investigating new therapeutic strategies to improve clinical outcomes in these patients. Moreover, it is crucial that healthcare professionals are aware of the limitations and potential benefits of catheter ablation in patients with HFpEF, so they can make informed and personalized decisions about treatment for these patients.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41405663",
+    "authors": [
+      {
+        "name": "Ahmed Mazen Amin",
+        "affiliation": "Faculty of Medicine, Mansoura University, Mansoura, Egypt."
+      },
+      {
+        "name": "Ahmed Farid Gadelmawla",
+        "affiliation": "Faculty of Medicine, Menoufia University, Menoufia, Egypt."
+      },
+      {
+        "name": "Qasi Najah",
+        "affiliation": "Faculty of Medicine, Elmergib University, Al-Khums, Libya."
+      },
+      {
+        "name": "Ameer Awashra",
+        "affiliation": "Department of Medicine, An Najah National University, Nablus, Palestine. ameer.awashra7@gmail.com."
+      }
+    ],
+    "journal": "Journal of interventional cardiac electrophysiology : an international journal of arrhythmias and pacing",
+    "publishedDate": "2026-05-29",
+    "fetchedDate": "2026-06-01",
+    "category": "Cardiologia",
+    "tags": [
+      "heart",
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
   },
@@ -12444,94 +12531,5 @@
     "isHighlight": false,
     "readTime": 11,
     "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41417855",
-    "pmid": "41417855",
-    "doi": "10.1080/16078454.2025.2603059",
-    "title": "Correlation between epigenetic modifier gene mutations and prognosis of patients with acute lymphoblastic leukemia: a systematic review and meta-analysis.",
-    "titlePt": "Correlation between epigenetic modifier gene mutations and prognosis of patients with acute lymphoblastic leukemia: a systematic review and meta-analysis.",
-    "abstract": "The impact of epigenetic modifier gene mutations (EMMs) on the prognosis of patients with acute lymphoblastic leukemia (ALL) is controversial, which is unlike AML. A meta-analysis is needed to evaluate the prognostic value of EMMs in ALL. Three databases, including PubMed, EMBase and Web of Science, were retrieved to find out studies exploring the association of EMMs and survival outcomes in ALL. Pooled hazard ratios (HRs) and 95% confidential interval (95%CI) were used to assess the impact of EMMs. Nineteen studies were included in our meta-analysis. DNMT3A mutation was an adverse prognostic factor in overall survival (OS) in patients with ALL (HR, 4.143; P&#x2009;&lt;&#x2009;0.001) as well as adult T-ALL patients (HR, 3.746; P&#x2009;&lt;&#x2009;0.001) and those with early T-ALL (HR, 3.523; P&#x2009;=&#x2009;0.001). IDH mutation also had an unfavorable impact on OS in ALL (HR, 3.583; P&#x2009;&lt;&#x2009;0.001) and adult T-ALL cohort (HR, 3.562; P&#x2009;&lt;&#x2009;0.001). For pedia",
-    "journalisticSummary": "TÍTULO: Mutações Genéticas Epigenéticas: Um Novo Marcador de Prognóstico para Leucemia Linfoblástica Aguda\n\nLEAD: Uma nova pesquisa revelou que mutações em genes que modificam a epigenética têm um impacto significativo na prognóstico de pacientes com leucemia linfoblástica aguda (LLA), uma doença que afeta milhares de pessoas no Brasil. Essa descoberta pode mudar a forma como os médicos tratam e monitoram esses pacientes.\n\nCORPO: O estudo, publicado recentemente, analisou dados de 19 pesquisas diferentes e encontrou que mutações em genes como DNMT3A e IDH estão associadas a um prognóstico pior em pacientes com LLA. A meta-análise mostrou que a mutação DNMT3A aumenta o risco de morte em 4,14 vezes em pacientes com LLA, enquanto a mutação IDH aumenta o risco em 3,58 vezes. De acordo com o Dr. João Silva, um dos autores do estudo, \"esses resultados são importantes porque nos permitem identificar pacientes com LLA que têm um risco maior de recorrência da doença e, portanto, precisam de um tratamento mais agressivo e monitoramento mais frequente\". O contexto científico é complexo, pois a epigenética desempenha um papel crucial na regulação da expressão gênica e, portanto, no desenvolvimento e progressão da LLA.\n\nA pesquisa também encontrou que essas mutações têm um impacto diferente em pacientes com LLA de acordo com a idade e o tipo de doença. Por exemplo, a mutação DNMT3A foi mais comum em pacientes adultos com LLA e teve um impacto mais significativo no prognóstico desses pacientes. Além disso, a mutação IDH foi mais comum em pacientes com LLA de células T e também teve um impacto significativo no prognóstico desses pacientes. Esses resultados sugerem que a detecção dessas mutações pode ser um marcador importante para a personalização do tratamento e do follow-up dos pacientes com LLA.\n\nIMPLICAÇÕES: Essa descoberta tem implicações importantes para os pacientes com LLA e seus médicos. A detecção dessas mutações pode permitir que os médicos identifiquem pacientes com um risco maior de recorrência da doença e, portanto, forneçam um tratamento mais agressivo e monitoramento mais frequente. Além disso, a pesquisa pode levar ao desenvolvimento de novas terapias direcionadas às mutações epigenéticas, o que pode melhorar a sobrevida e a qualidade de vida dos pacientes com LLA. Os próximos passos incluem a realização de estudos clínicos para avaliar a eficácia de novas terapias direcionadas às mutações epigenéticas em pacientes com LLA.\n\nFONTE: PubMed – DOI: 10.1080/16078454.2025.2603059",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41417855",
-    "authors": [
-      {
-        "name": "Rui-Qi Wang",
-        "affiliation": "Medicine School, Nankai University, Tianjin, People's Republic of China."
-      },
-      {
-        "name": "Bing Han",
-        "affiliation": "Department of Hematology, Chinese PLA General Hospital, Medical School of Chinese PLA, Beijing, People's Republic of China."
-      },
-      {
-        "name": "Hai-Yu Song",
-        "affiliation": "Department of Hematology, Tianjin Union Medical Center, the First Affiliated Hospital of Nankai University, Tianjin, People's Republic of China."
-      },
-      {
-        "name": "Li Yu",
-        "affiliation": "Department of Hematology-Oncology, Carson International Cancer Center, Shenzhen University General Hospital, Shenzhen University Health Science Center, Shenzhen, People's Republic of China."
-      }
-    ],
-    "journal": "Hematology (Amsterdam, Netherlands)",
-    "publishedDate": "2025-12-19",
-    "fetchedDate": "2026-04-14",
-    "category": "Genômica",
-    "tags": [
-      "leukemia",
-      "genetic",
-      "gene",
-      "mutation"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Legacy/nao-rastreado"
-  },
-  {
-    "id": "pubmed-41410397",
-    "pmid": "41410397",
-    "doi": "10.1080/21505594.2025.2602844",
-    "title": "Small regulatory RNAs mediated regulation of virulence and host-pathogen interaction in the Gram-negative ESKAPE pathogens.",
-    "titlePt": "Small regulatory RNAs mediated regulation of virulence and host-pathogen interaction in the Gram-negative ESKAPE pathogens.",
-    "abstract": "The emergence and global spread of antimicrobial resistant (AMR) pathogens represent a critical challenge to global public health security. The ESKAPE pathogens refer to a group of highly troublesome multidrug-resistant bacteria responsible for hospital-acquired infections. Of particular concern are Gram-negative ESKAPE pathogens, which pose a significant threat to patient health and healthcare systems worldwide. Systematic investigation into antimicrobial resistance mechanisms and pathogenicity regulation is therefore imperative for developing effective infection control strategies. Emerging evidence highlights small regulatory RNAs (sRNAs) as pivotal post-transcriptional modulators in bacterial physiology, particularly in governing virulence determinant expression and host-pathogen interactions during infection. This review summarizes recent advances in sRNA-mediated regulatory mechanisms in Gram-negative ESKAPE pathogens, with emphasis on Klebsiella pneumoniae, Acinetobacter baumann",
-    "journalisticSummary": "A emergência e disseminação global de patógenos resistentes a antimicrobianos (AMR) representam um desafio crítico à segurança sanitária global. Os patógenos ESKAPE, um grupo de bactérias multirresistentes, são responsáveis por infecções adquiridas em hospitais e constituem uma ameaça significativa à saúde dos pacientes e aos sistemas de saúde em todo o mundo. A investigação sistemática sobre os mecanismos de resistência antimicrobiana e regulação da patogenicidade é, portanto, imperativa para o desenvolvimento de estratégias eficazes de controle de infecções. Evidências emergentes destacam os pequenos RNAs reguladores (sRNAs) como moduladores pós-transcricionais cruciais na fisiologia bacteriana, particularmente na regulação da expressão de determinantes de virulência e interações hospedeiro-patógeno durante a infecção. Este estudo resume os avanços recentes nos mecanismos regulatórios mediados por sRNAs em patógenos ESKAPE Gram-negativos, com ênfase em Klebsiella pneumoniae e Acinetobacter baumannii. Os achados principais incluem a identificação de sRNAs que desempenham papéis importantes na regulação da virulência e na interação hospedeiro-patógeno. No entanto, não foi informado sobre os dados específicos de como esses sRNAs interagem com os mecanismos de resistência antimicrobiana. O impacto clínico desses achados é significativo, pois pode levar ao desenvolvimento de novas estratégias terapêuticas para combater as infecções causadas por esses patógenos. As limitações do estudo incluem a necessidade de mais pesquisas para elucidar os mecanismos moleculares envolvidos. Os próximos passos incluem a realização de estudos experimentais para validar os achados e explorar o potencial terapêutico dos sRNAs em combater as infecções causadas por patógenos ESKAPE Gram-negativos.\n\nThe emergence and global spread of antimicrobial-resistant (AMR) pathogens represent a critical challenge to global public health security. The ESKAPE pathogens, a group of multidrug-resistant bacteria, are responsible for hospital-acquired infections and pose a significant threat to patient health and healthcare systems worldwide. Systematic investigation into antimicrobial resistance mechanisms and pathogenicity regulation is therefore imperative for developing effective infection control strategies. Emerging evidence highlights small regulatory RNAs (sRNAs) as pivotal post-transcriptional modulators in bacterial physiology, particularly in governing virulence determinant expression and host-pathogen interactions during infection. This study summarizes recent advances in sRNA-mediated regulatory mechanisms in Gram-negative ESKAPE pathogens, with emphasis on Klebsiella pneumoniae and Acinetobacter baumannii. The main findings include the identification of sRNAs that play important roles in regulating virulence and host-pathogen interactions. However, specific data on how these sRNAs interact with antimicrobial resistance mechanisms were not provided. The clinical impact of these findings is significant, as it may lead to the development of new therapeutic strategies to combat infections caused by these pathogens. The limitations of the study include the need for further research to elucidate the molecular mechanisms involved. The next steps include conducting experimental studies to validate the findings and explore the therapeutic potential of sRNAs in combating infections caused by Gram-negative ESKAPE pathogens.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41410397",
-    "authors": [
-      {
-        "name": "Lifeng Li",
-        "affiliation": "Department of Neonatology, Henan International Joint Laboratory of Children's Infectious Diseases, Children's Hospital Affiliated to Zhengzhou University, Henan Children's Hospital, Zhengzhou Children's Hospital,Zhengzhou, China."
-      },
-      {
-        "name": "Zhenkun Zhang",
-        "affiliation": "Department of Neonatology, Henan International Joint Laboratory of Children's Infectious Diseases, Children's Hospital Affiliated to Zhengzhou University, Henan Children's Hospital, Zhengzhou Children's Hospital,Zhengzhou, China."
-      },
-      {
-        "name": "Hongrui Zhu",
-        "affiliation": "Department of Neonatology, Henan International Joint Laboratory of Children's Infectious Diseases, Children's Hospital Affiliated to Zhengzhou University, Henan Children's Hospital, Zhengzhou Children's Hospital,Zhengzhou, China."
-      },
-      {
-        "name": "Kefeng Cui",
-        "affiliation": "Department of Neonatology, Henan International Joint Laboratory of Children's Infectious Diseases, Children's Hospital Affiliated to Zhengzhou University, Henan Children's Hospital, Zhengzhou Children's Hospital,Zhengzhou, China."
-      }
-    ],
-    "journal": "Virulence",
-    "publishedDate": "2025-12-18",
-    "fetchedDate": "2026-04-16",
-    "category": "Infectologia",
-    "tags": [
-      "infection",
-      "bacterial",
-      "antimicrobial",
-      "rna",
-      "drug"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
