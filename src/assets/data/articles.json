@@ -12409,6 +12409,51 @@
     "aiProcessed": false
   },
   {
+    "id": "pubmed-41454672",
+    "pmid": "41454672",
+    "doi": "10.1080/19490976.2025.2607076",
+    "title": "The role of gut microbiome in aging-associated diseases: where do we stand now and how technology will transform the future.",
+    "titlePt": "The role of gut microbiome in aging-associated diseases: where do we stand now and how technology will transform the future.",
+    "abstract": "The gut microbiome has emerged as a critical regulator of human aging and healthspan, with age-related dysbiosis increasingly implicated in a broad spectrum of aging-associated diseases. This review synthesizes evidence linking gut microbial alterations to infectious diseases, antimicrobial resistance, autoimmune, neurodegenerative, psychiatric, cancer, metabolic, kidney, cardiovascular, bone, and muscular diseases, highlighting shared mechanisms such as chronic inflammation, immune dysregulation, and metabolite imbalance. We further explore how enabling technologies, including functional multi-omics, synthetic biology, artificial intelligence-driven analytics, biobanking, and autologous fecal microbiota transplantation, are revolutionizing microbiome research and the design of interventions. Ethical considerations surrounding microbiome-based therapies are also addressed. To translate these scientific insights into clinical innovations, we formulate the PRIME framework: a five-phase r",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nO envelhecimento populacional global tem impulsionado pesquisas sobre os mecanismos biológicos que influenciam a saúde ao longo da vida, com destaque para o microbioma intestinal como um regulador-chave de processos metabólicos, imunológicos e inflamatórios. Um estudo recentemente publicado no *PubMed* (DOI: 10.1080/19490976.2025.2607076) analisa como a disbiose associada à idade — a alteração na composição e função da microbiota intestinal ao longo dos anos — está ligada a mais de uma dezena de doenças relacionadas ao envelhecimento, desde distúrbios neurodegenerativos até câncer e doenças cardiovasculares. Os autores destacam mecanismos compartilhados entre essas condições, como inflamação crônica, desregulação imunológica e desequilíbrios metabólicos, que atuam como vias comuns subjacentes à progressão de doenças.\n\nA revisão também explora como tecnologias emergentes estão transformando a pesquisa e as intervenções baseadas no microbioma. Ferramentas como multiômica funcional, biologia sintética, inteligência artificial para análise de dados, biobancos e transplante autólogo de microbiota fecal (FMT) são apresentadas como potenciais revolucionárias. Essas inovações não apenas permitem uma compreensão mais precisa dos microrganismos intestinais, mas também abrem caminho para terapias personalizadas. No entanto, os pesquisadores alertam para desafios éticos, especialmente no que diz respeito à manipulação do microbioma em tratamentos clínicos. Para estruturar a translação desses achados em inovações, os autores propõem o *framework* PRIME, um modelo de cinco fases que visa guiar o desenvolvimento de terapias baseadas no microbioma, desde a pesquisa básica até a aplicação clínica.\n\nEmbora o estudo forneça uma visão abrangente dos avanços recentes, ele não detalha resultados específicos de ensaios clínicos ou dados quantitativos de eficácia em doenças específicas. Além disso, a aplicabilidade de tecnologias como a IA e a biologia sintética em larga escala ainda depende de validação em contextos reais. Os próximos passos incluem a integração de dados longitudinais de coortes diversas e o desenvolvimento de protocolos padronizados para intervenções baseadas no microbioma, visando superar barreiras regulatórias e clínicas.\n\n---\n\n**English version**\n\nGlobal aging has intensified research into biological mechanisms influencing healthspan, with the gut microbiome emerging as a key regulator of metabolic, immune, and inflammatory processes. A recent study published in *PubMed* (DOI: 10.1080/19490976.2025.2607076) examines how age-related dysbiosis—alterations in the composition and function of gut microbiota over time—is linked to over a dozen aging-associated diseases, ranging from neurodegenerative disorders to cancer and cardiovascular conditions. The authors identify shared pathways underlying these diseases, including chronic inflammation, immune dysregulation, and metabolic imbalances, which serve as common mechanisms driving disease progression.\n\nThe review also highlights how emerging technologies are reshaping microbiome research and interventions. Tools such as functional multi-omics, synthetic biology, AI-driven data analytics, biobanking, and autologous fecal microbiota transplantation (FMT) are presented as transformative advancements. These innovations not only enable deeper insights into gut microorganisms but also pave the way for personalized therapies. However, the authors caution about ethical challenges, particularly concerning microbiome manipulation in clinical treatments. To structure the translation of these findings into practical applications, they propose the *PRIME framework*, a five-phase model designed to guide the development of microbiome-based therapies from basic research to clinical implementation.\n\nWhile the study provides a comprehensive overview of recent advances, it does not detail specific clinical trial outcomes or quantitative efficacy data in particular diseases. Additionally, the scalability of technologies like AI and synthetic biology in real-world settings remains dependent on further validation. Future steps include integrating longitudinal data from diverse cohorts and developing standardized protocols for microbiome-based interventions to address regulatory and clinical hurdles.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41454672",
+    "authors": [
+      {
+        "name": "Marwh G Aldriwesh",
+        "affiliation": "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia."
+      },
+      {
+        "name": "Raniah S Alotibi",
+        "affiliation": "Infectious Disease Research Department, King Abdullah International Medical Research Center, Riyadh, Saudi Arabia."
+      },
+      {
+        "name": "Nasser Alqurainy",
+        "affiliation": "Ministry of National Guard-Health Affairs, Riyadh, Saudi Arabia."
+      },
+      {
+        "name": "Shatha Alrabiah",
+        "affiliation": "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia."
+      }
+    ],
+    "journal": "Gut microbes",
+    "publishedDate": "2025-12-27",
+    "fetchedDate": "2026-06-03",
+    "category": "Saúde Mental",
+    "tags": [
+      "cancer",
+      "cardiovascular",
+      "antimicrobial",
+      "gene",
+      "psychiatric"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-41411051",
     "pmid": "41411051",
     "doi": "10.1080/08037051.2025.2606499",
@@ -12495,48 +12540,5 @@
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Legacy/nao-rastreado"
-  },
-  {
-    "id": "pubmed-41454667",
-    "pmid": "41454667",
-    "doi": "10.1080/2162402X.2025.2604877",
-    "title": "IL-37/IL-1R8 axis: a novel major mechanism of control at the interface between tumor and immune cells.",
-    "titlePt": "IL-37/IL-1R8 axis: a novel major mechanism of control at the interface between tumor and immune cells.",
-    "abstract": "Interleukin (IL)-37 is one of the \"youngest\" IL-1 family members and one of the few molecules exerting anti-inflammatory activity. Upon inflammasome activation, the cytokine precursor is converted into its mature form, which acts intracellularly as a nuclear transcription factor, impairing the production of pro-inflammatory cytokines, and extracellularly by forming the IL-37/IL-18R&#x3b1;/IL-1R8 complex, favoring IL-1R8 inhibitory signaling with immunosuppressive function. IL-1R8, which is mostly expressed in a number of cell types, negatively regulates both IL-1R/TLR signaling, blocking the NF-kB/JNK pathway and the production of pro-inflammatory cytokines. Owing to its ability to inhibit both innate and adaptive immunity, IL-37 has been reported to control inflammation in many chronic disorders, including cancer. IL-37 impairs the proliferation and migration of tumor cells, mediates anti-angiogenetic mechanisms, and favors immunoregulation in the tumor microenvironment (TME). This re",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41454667",
-    "authors": [
-      {
-        "name": "Nadine Landolina",
-        "affiliation": "Tumor Immunology Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Rome, Italy."
-      },
-      {
-        "name": "Francesca Romana Mariotti",
-        "affiliation": "Tumor Immunology Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Rome, Italy."
-      },
-      {
-        "name": "Enrico Munari",
-        "affiliation": "Department of Pathology and Diagnostics, University and Hospital Trust of Verona, Verona, Italy."
-      },
-      {
-        "name": "Nicola Tumino",
-        "affiliation": "Innate Lymphoid Cells Unit, Bambino Ges&#xf9; Children's Hospital IRCCS, Rome, Italy."
-      }
-    ],
-    "journal": "Oncoimmunology",
-    "publishedDate": "2025-12-27",
-    "fetchedDate": "2026-04-14",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "genetic",
-      "gene",
-      "immune"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": false
   }
 ]
