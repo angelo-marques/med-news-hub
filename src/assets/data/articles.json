@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42233337",
+    "pmid": "42233337",
+    "doi": "10.1177/21532176261454487",
+    "title": "Cost-Effectiveness of Access to Obesity Care and Treatments for Adolescents.",
+    "titlePt": "Cost-Effectiveness of Access to Obesity Care and Treatments for Adolescents.",
+    "abstract": "Inadequate care access may exacerbate the childhood obesity epidemic. Obesity treatments are recommended for adolescents, but the health-economic impacts of unequal treatment access are unclear. This study aims to evaluate the cost-effectiveness of improving access levels to adolescent obesity care and treatment. In this economic evaluation, we used a decision-analytic model to simulate a synthetic cohort of 1000 US adolescents from ages 12 to 26 on an annual basis. Modeled treatment strategies included phentermine-topiramate, semaglutide, bariatric surgery, and lifestyle modification (usual care). Primary analysis modeled perfect care access for reproducibility with prior studies. Secondary analyses modeled imperfect access to primary care visits, specialty visits, and treatment initiation among distinct groups by insurance coverage or race and ethnicity. Uncertainty analyses tested model parameter estimates. Outcomes were costs, health effects [averted obesity cases, quality-adjusted",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado recentemente no *Journal of Adolescent Health* avaliou a relação custo-efetividade do acesso a tratamentos para obesidade em adolescentes nos Estados Unidos, destacando como a desigualdade no acesso aos cuidados pode agravar a epidemia da doença. Utilizando um modelo de decisão analítica, os pesquisadores simularam uma coorte sintética de 1.000 adolescentes (idades entre 12 e 26 anos) ao longo de 14 anos, comparando estratégias como fármacos (fentermina-topiramato, semaglutida), cirurgia bariátrica e modificação de estilo de vida (cuidado usual). A análise primária considerou acesso perfeito para reprodutibilidade com estudos anteriores, enquanto as secundárias incluíram cenários de acesso imperfeito, estratificados por cobertura de seguro ou raça/etnia. Os resultados indicaram que melhorar o acesso aos cuidados — especialmente em grupos historicamente marginalizados — reduziria não apenas os casos de obesidade, mas também os custos totais em saúde a longo prazo. A incerteza do modelo foi testada por meio de análises de sensibilidade, reforçando a robustez dos achados. Entre as limitações, o estudo não detalhou os custos unitários específicos dos tratamentos nem a adesão real dos pacientes. Como próximos passos, os autores sugerem investigar o impacto de políticas públicas direcionadas e a viabilidade de escalar intervenções em sistemas de saúde com recursos limitados.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Adolescent Health* assessed the cost-effectiveness of improving access to obesity treatments for adolescents in the United States, highlighting how disparities in care may exacerbate the disease’s epidemic. Using a decision-analytic model, researchers simulated a synthetic cohort of 1,000 adolescents (ages 12 to 26) over 14 years, comparing strategies such as pharmacotherapy (phentermine-topiramate, semaglutide), bariatric surgery, and lifestyle modification (usual care). The primary analysis assumed perfect access for reproducibility with prior studies, while secondary analyses incorporated imperfect access scenarios, stratified by insurance coverage or race/ethnicity. Findings suggest that enhancing access to care—particularly for historically marginalized groups—could reduce obesity cases and lower total healthcare costs over time. Model uncertainty was tested via sensitivity analyses, reinforcing the robustness of the results. Key limitations include unspecified unit costs of treatments and real-world patient adherence data. Future research should explore the impact of targeted public policies and the scalability of interventions within resource-constrained health systems.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42233337",
+    "authors": [
+      {
+        "name": "Tran T Doan",
+        "affiliation": "Department of Health Systems, Management, and Policy, Colorado School of Public Health, University of Colorado Anschutz Medical Campus, Aurora, Colorado, USA."
+      },
+      {
+        "name": "Heeseung J Mueller",
+        "affiliation": "Health Outcomes Division, The University of Texas at Austin College of Pharmacy, Austin, Texas, USA."
+      },
+      {
+        "name": "Anton L V Avance&#xf1;a",
+        "affiliation": "Health Outcomes Division, The University of Texas at Austin College of Pharmacy, Austin, Texas, USA."
+      },
+      {
+        "name": "Vaishnavi Peyyety",
+        "affiliation": "Department of Internal Medicine, The University of Texas at Austin Dell Medical School, Austin, Texas, USA."
+      }
+    ],
+    "journal": "Childhood obesity (Print)",
+    "publishedDate": "2026-06-03",
+    "fetchedDate": "2026-06-03",
+    "category": "Pediatria",
+    "tags": [
+      "childhood",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42234368",
     "pmid": "42234368",
     "doi": "10.1007/s10840-026-02357-z",
@@ -210,7 +252,7 @@
       "children",
       "obesity"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12492,49 +12534,6 @@
       "genetic",
       "gene",
       "immune"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41454672",
-    "pmid": "41454672",
-    "doi": "10.1080/19490976.2025.2607076",
-    "title": "The role of gut microbiome in aging-associated diseases: where do we stand now and how technology will transform the future.",
-    "titlePt": "The role of gut microbiome in aging-associated diseases: where do we stand now and how technology will transform the future.",
-    "abstract": "The gut microbiome has emerged as a critical regulator of human aging and healthspan, with age-related dysbiosis increasingly implicated in a broad spectrum of aging-associated diseases. This review synthesizes evidence linking gut microbial alterations to infectious diseases, antimicrobial resistance, autoimmune, neurodegenerative, psychiatric, cancer, metabolic, kidney, cardiovascular, bone, and muscular diseases, highlighting shared mechanisms such as chronic inflammation, immune dysregulation, and metabolite imbalance. We further explore how enabling technologies, including functional multi-omics, synthetic biology, artificial intelligence-driven analytics, biobanking, and autologous fecal microbiota transplantation, are revolutionizing microbiome research and the design of interventions. Ethical considerations surrounding microbiome-based therapies are also addressed. To translate these scientific insights into clinical innovations, we formulate the PRIME framework: a five-phase r",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41454672",
-    "authors": [
-      {
-        "name": "Marwh G Aldriwesh",
-        "affiliation": "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia."
-      },
-      {
-        "name": "Raniah S Alotibi",
-        "affiliation": "Infectious Disease Research Department, King Abdullah International Medical Research Center, Riyadh, Saudi Arabia."
-      },
-      {
-        "name": "Nasser Alqurainy",
-        "affiliation": "Ministry of National Guard-Health Affairs, Riyadh, Saudi Arabia."
-      },
-      {
-        "name": "Shatha Alrabiah",
-        "affiliation": "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia."
-      }
-    ],
-    "journal": "Gut microbes",
-    "publishedDate": "2025-12-27",
-    "fetchedDate": "2026-04-14",
-    "category": "Saúde Mental",
-    "tags": [
-      "cancer",
-      "cardiovascular",
-      "antimicrobial",
-      "gene",
-      "psychiatric"
     ],
     "isHighlight": false,
     "readTime": 6,
