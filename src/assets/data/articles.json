@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-41178353",
+    "pmid": "41178353",
+    "doi": "10.1093/brain/awaf413",
+    "title": "Estimating the time course of biomarker changes in Alzheimer's disease.",
+    "titlePt": "Estimating the time course of biomarker changes in Alzheimer's disease.",
+    "abstract": "Recent advancements in biomarkers have transformed Alzheimer's disease (AD) diagnosis from being purely symptom-based to include biological criteria. With new treatments targeting the core biology of Alzheimer's disease, understanding the timeline of biological changes is crucial as the disease progresses over decades. Longitudinal data from amyloid-beta (A&#x3b2;) PET and cognitive tests [Mini-Mental State Examination (MMSE) and Alzheimer's Disease Assessment Scale-Cognitive Subscale (ADAS-cog)] from the Alzheimer's Disease Neuroimaging Initiative (n = 1448) and BioFINDER (n = 2088) were used to stage patients against an estimated continuous disease timeline (predicted time since A&#x3b2;-PET positivity). The estimated timeline was validated by comparing correlations with unseen biomarkers and cognitive measures against alternative staging approaches. Trajectories for plasma, CSF, MRI and PET biomarkers, measuring A&#x3b2;, tau and neurodegeneration, were mapped along this Alzheimer's",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo estudo publicado na *Brain* mapeou a progressão temporal de biomarcadores associados ao Alzheimer, oferecendo insights cruciais para o diagnóstico precoce e o desenvolvimento de terapias direcionadas. Pesquisadores analisaram dados longitudinais de dois grandes consórcios — o *Alzheimer’s Disease Neuroimaging Initiative* (ADNI, n=1.448) e o *BioFINDER* (n=2.088) — combinando exames de PET para detecção de placas de amiloide-beta (Aβ), testes cognitivos (como o *Mini-Mental State Examination* e a *Alzheimer’s Disease Assessment Scale-Cognitive Subscale*) e outros biomarcadores sanguíneos, liquóricos e de imagem (RM e PET). O objetivo foi estimar uma linha do tempo contínua da doença, calculando o tempo decorrido desde a positividade do PET para Aβ até a manifestação de alterações em outros marcadores biológicos e cognitivos.\n\nOs resultados revelaram que as alterações em biomarcadores seguem uma ordem previsível: a deposição de Aβ precede em anos as mudanças em tau e neurodegeneração, enquanto a disfunção cognitiva surge mais tardiamente. A abordagem proposta, validada por correlações com biomarcadores não vistos durante o treinamento, superou métodos convencionais de estadiamento, como a classificação por estágios clínicos. Essa modelagem contínua permite uma estratificação mais precisa dos pacientes, especialmente em fases assintomáticas ou prodrômicas, quando intervenções terapêuticas podem ser mais eficazes.\n\nApesar do avanço, o estudo apresenta limitações importantes. A generalização dos achados depende da representatividade dos bancos de dados, que incluem predominantemente populações de alto rendimento e etnias específicas, potencialmente enviesando os resultados. Além disso, a modelagem não incorpora fatores genéticos (como a presença do alelo *APOE-ε4*), ambientais ou comorbidades, que podem influenciar a progressão da doença. Outra lacuna é a ausência de dados sobre a variabilidade interindividual em resposta a tratamentos anti-amiloides, ainda não amplamente testados na prática clínica.\n\nOs próximos passos incluem a validação da metodologia em coortes mais diversificadas e a integração de algoritmos de *machine learning* para refinar as predições individuais. A longo prazo, a aplicação dessa linha do tempo em ensaios clínicos poderá otimizar a seleção de participantes para terapias precoces, bem como monitorar a eficácia de intervenções com maior precisão. Para a saúde pública, a abordagem sinaliza um passo rumo à medicina de precisão no Alzheimer, embora ainda sejam necessários estudos complementares para confirmar sua aplicabilidade em larga escala.\n\n---\n\n**English version**\n\nA new study published in *Brain* has mapped the temporal progression of Alzheimer’s disease (AD) biomarkers, providing critical insights for early diagnosis and targeted therapies. Researchers analyzed longitudinal data from two major consortia—the *Alzheimer’s Disease Neuroimaging Initiative* (ADNI, n=1,448) and *BioFINDER* (n=2,088)—combining amyloid-beta (Aβ) PET scans, cognitive tests (such as the *Mini-Mental State Examination* and *Alzheimer’s Disease Assessment Scale-Cognitive Subscale*), and additional biomarkers from blood, cerebrospinal fluid (CSF), MRI, and PET imaging. The goal was to estimate a continuous disease timeline, calculating the time elapsed since Aβ-PET positivity until the onset of changes in other biological and cognitive markers.\n\nThe findings revealed a predictable sequence of biomarker alterations: Aβ accumulation precedes tau pathology and neurodegeneration by years, while cognitive decline emerges later. The proposed approach, validated by correlations with unseen biomarkers, outperformed conventional staging methods, such as clinical stage classification. This continuous modeling enables more precise patient stratification, particularly in asymptomatic or prodromal phases, when therapeutic interventions may be most effective.\n\nDespite these advances, the study has important limitations. Generalizability depends on the representativeness of the datasets, which predominantly include high-income, ethnically specific populations, potentially biasing the results. Additionally, the model does not account for genetic factors (such as *APOE-ε4* carriage), environmental influences, or comorbidities that may affect disease progression. Another gap is the lack of data on interindividual variability in response to anti-amyloid treatments, which are not yet widely tested in clinical practice.\n\nFuture steps include validating the methodology in more diverse cohorts and integrating *machine learning* algorithms to refine individual predictions. In the long term, applying this timeline in clinical trials could optimize participant selection for early therapies and improve the monitoring of treatment efficacy. For public health, this approach represents a step toward precision medicine in Alzheimer’s, though further studies are needed to confirm its scalability and real-world applicability.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41178353",
+    "authors": [
+      {
+        "name": "Lars Lau Raket",
+        "affiliation": "Clinical Memory Research Unit, Department of Clinical Sciences in Malm&#xf6;, Lund University, Lund 223 62, Sweden."
+      },
+      {
+        "name": "Alexa Pichet Binette",
+        "affiliation": "Eli Lilly and Company, Indianapolis, IN 46285, USA."
+      },
+      {
+        "name": "Niklas Mattsson-Carlgren",
+        "affiliation": "Clinical Memory Research Unit, Department of Clinical Sciences in Malm&#xf6;, Lund University, Lund 223 62, Sweden."
+      },
+      {
+        "name": "Shorena Janelidze",
+        "affiliation": "Clinical Memory Research Unit, Department of Clinical Sciences in Malm&#xf6;, Lund University, Lund 223 62, Sweden."
+      }
+    ],
+    "journal": "Brain : a journal of neurology",
+    "publishedDate": "2026-06-03",
+    "fetchedDate": "2026-06-04",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "cognitive",
+      "gene",
+      "rna"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42233337",
     "pmid": "42233337",
     "doi": "10.1177/21532176261454487",
@@ -209,7 +253,7 @@
       "genomic",
       "therapeutic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12409,6 +12453,51 @@
     "aiProcessed": false
   },
   {
+    "id": "pubmed-41454672",
+    "pmid": "41454672",
+    "doi": "10.1080/19490976.2025.2607076",
+    "title": "The role of gut microbiome in aging-associated diseases: where do we stand now and how technology will transform the future.",
+    "titlePt": "The role of gut microbiome in aging-associated diseases: where do we stand now and how technology will transform the future.",
+    "abstract": "The gut microbiome has emerged as a critical regulator of human aging and healthspan, with age-related dysbiosis increasingly implicated in a broad spectrum of aging-associated diseases. This review synthesizes evidence linking gut microbial alterations to infectious diseases, antimicrobial resistance, autoimmune, neurodegenerative, psychiatric, cancer, metabolic, kidney, cardiovascular, bone, and muscular diseases, highlighting shared mechanisms such as chronic inflammation, immune dysregulation, and metabolite imbalance. We further explore how enabling technologies, including functional multi-omics, synthetic biology, artificial intelligence-driven analytics, biobanking, and autologous fecal microbiota transplantation, are revolutionizing microbiome research and the design of interventions. Ethical considerations surrounding microbiome-based therapies are also addressed. To translate these scientific insights into clinical innovations, we formulate the PRIME framework: a five-phase r",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nO envelhecimento humano está intrinsecamente ligado a transformações no microbioma intestinal, um ecossistema microbiano que, ao longo da vida, desempenha papel cada vez mais central na regulação da saúde e na suscetibilidade a doenças. Uma revisão publicada recentemente na *PubMed* (DOI: 10.1080/19490976.2025.2607076) sintetiza evidências de que a disbiose relacionada à idade — desequilíbrios na composição e função das comunidades microbianas intestinais — está associada não apenas a doenças infecciosas, mas também a condições crônicas como doenças autoimunes, neurodegenerativas, psiquiátricas, câncer, distúrbios metabólicos, enfermidades renais, cardiovasculares, ósseas e musculares. Os mecanismos subjacentes incluem inflamação crônica, disfunção imunológica e desequilíbrios metabólicos, sugerindo que o microbioma atua como um mediador sistêmico do envelhecimento.\n\nAvanços tecnológicos estão redefinindo a pesquisa e as intervenções no campo. Ferramentas como multiômica funcional — que integra dados de genômica, transcriptômica, proteômica e metabolômica —, biologia sintética, inteligência artificial aplicada à análise de dados, biobancos especializados e transplante autólogo de microbiota fecal estão acelerando a identificação de alvos terapêuticos e o desenvolvimento de terapias personalizadas. No entanto, a aplicação clínica dessas inovações enfrenta desafios éticos, especialmente no que tange à segurança, padronização de protocolos e equidade no acesso a tratamentos baseados em microbioma.\n\nPara estruturar essa transição do laboratório para a prática clínica, os autores propõem o *framework* PRIME, um modelo em cinco fases que visa guiar o desenvolvimento de terapias baseadas em microbioma, desde a descoberta até a implementação. Embora o artigo não detalhe os resultados de estudos clínicos específicos, ele reforça a necessidade de abordagens integradas que combinem ciência básica, tecnologia e políticas regulatórias para transformar o potencial do microbioma em soluções concretas contra doenças associadas ao envelhecimento.\n\n---\n\n**English version**\n\nHuman aging is inextricably linked to shifts in the gut microbiome, a microbial ecosystem that, over a lifetime, plays an increasingly pivotal role in regulating health and disease susceptibility. A recent review published in *PubMed* (DOI: 10.1080/19490976.2025.2607076) synthesizes evidence that age-related dysbiosis — imbalances in the composition and function of gut microbial communities — is associated not only with infectious diseases but also with chronic conditions such as autoimmune, neurodegenerative, psychiatric, cancer, metabolic, kidney, cardiovascular, bone, and muscular disorders. Underlying mechanisms include chronic inflammation, immune dysregulation, and metabolic imbalances, suggesting that the microbiome acts as a systemic mediator of aging.\n\nTechnological advancements are redefining microbiome research and interventions. Tools such as functional multi-omics — integrating genomics, transcriptomics, proteomics, and metabolomics data — synthetic biology, AI-driven data analytics, specialized biobanks, and autologous fecal microbiota transplantation are accelerating the identification of therapeutic targets and the development of personalized therapies. However, the clinical application of these innovations faces ethical challenges, particularly regarding safety, protocol standardization, and equitable access to microbiome-based treatments.\n\nTo structure this transition from bench to bedside, the authors propose the PRIME framework, a five-phase model designed to guide the development of microbiome-based therapies from discovery to implementation. While the paper does not detail specific clinical trial results, it underscores the need for integrated approaches combining basic science, technology, and regulatory policies to translate microbiome potential into concrete solutions for aging-associated diseases.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41454672",
+    "authors": [
+      {
+        "name": "Marwh G Aldriwesh",
+        "affiliation": "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia."
+      },
+      {
+        "name": "Raniah S Alotibi",
+        "affiliation": "Infectious Disease Research Department, King Abdullah International Medical Research Center, Riyadh, Saudi Arabia."
+      },
+      {
+        "name": "Nasser Alqurainy",
+        "affiliation": "Ministry of National Guard-Health Affairs, Riyadh, Saudi Arabia."
+      },
+      {
+        "name": "Shatha Alrabiah",
+        "affiliation": "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia."
+      }
+    ],
+    "journal": "Gut microbes",
+    "publishedDate": "2025-12-27",
+    "fetchedDate": "2026-06-04",
+    "category": "Saúde Mental",
+    "tags": [
+      "cancer",
+      "cardiovascular",
+      "antimicrobial",
+      "gene",
+      "psychiatric"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-41411051",
     "pmid": "41411051",
     "doi": "10.1080/08037051.2025.2606499",
@@ -12450,95 +12539,5 @@
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41324505",
-    "pmid": "41324505",
-    "doi": "10.1080/08037051.2025.2598105",
-    "title": "The role of epigenetics in hypertension of children and adolescents: a systematic review.",
-    "titlePt": "The role of epigenetics in hypertension of children and adolescents: a systematic review.",
-    "abstract": "This systematic review study aimed to discuss about the possibility role of epigenetic in HTN of children and adolescent. This evidence-based research is implemented within the scope of the Preferred Reporting Item for Systematic Review and Meta-analysis (PRISMA) 2020. The data were analyzed qualitatively to assess the risk of bias, with the New Ottawa Scale (NOS) and Agency for Health Research and Quality (AHRQ) criteria as the thresholds. Our research highlights in particular showed that there is a role for epigenetics in HTN in children and adolescents. Fourteen journals were included to be qualitatively assessed. Eleven journals (78.5%) stated that there was a correlation between epigenetic and BP in children and adolescents, however each study examined different genes or loci. In summary, epigenetic modifications of various single nucleotide polymorphisms (SNPs) and other genes were associated with higher systolic and diastolic BP in children and adolescents. What is the context? ",
-    "journalisticSummary": "A hipertensão em crianças e adolescentes é um problema de saúde pública crescente, com implicações significativas para o desenvolvimento cardiovascular ao longo da vida. Recentemente, um estudo publicado na PubMed explorou o papel da epigenética nesse contexto, visando entender como modificações epigenéticas podem influenciar a pressão arterial nessa população. A revisão sistemática, realizada de acordo com as diretrizes do Preferred Reporting Item for Systematic Review and Meta-analysis (PRISMA) 2020, analisou qualitativamente a evidência disponível sobre a relação entre epigenética e hipertensão em crianças e adolescentes. Os dados foram avaliados com base na New Ottawa Scale (NOS) e nos critérios da Agency for Health Research and Quality (AHRQ) para avaliar o risco de viés. Os resultados mostraram que 11 dos 14 estudos incluídos (78,5%) encontraram uma correlação entre epigenética e pressão arterial nessa faixa etária, embora cada estudo tenha examinado diferentes genes ou loci. Em resumo, as modificações epigenéticas de vários polimorfismos de nucleotídeo único (SNPs) e outros genes estavam associadas a pressões arteriais sistólicas e diastólicas mais altas em crianças e adolescentes. No entanto, não foi especificado o contexto exato em que essas associações foram observadas, o que sugere a necessidade de pesquisas adicionais para elucidação detalhada dos mecanismos envolvidos. Além disso, limitações do estudo incluem a diversidade dos genes e loci examinados, o que pode dificultar a generalização dos resultados. Os próximos passos deveriam focar em estudos mais direcionados e controle de variáveis para uma compreensão mais profunda da interação entre epigenética e hipertensão nessa população.\n\nA hypertension in children and adolescents is a growing public health problem, with significant implications for cardiovascular development throughout life. Recently, a study published in PubMed explored the role of epigenetics in this context, aiming to understand how epigenetic modifications can influence blood pressure in this population. The systematic review, conducted in accordance with the Preferred Reporting Item for Systematic Review and Meta-analysis (PRISMA) 2020 guidelines, qualitatively analyzed the available evidence on the relationship between epigenetics and hypertension in children and adolescents. The data were assessed based on the New Ottawa Scale (NOS) and the Agency for Health Research and Quality (AHRQ) criteria to evaluate the risk of bias. The results showed that 11 of the 14 included studies (78.5%) found a correlation between epigenetics and blood pressure in this age group, although each study examined different genes or loci. In summary, epigenetic modifications of various single nucleotide polymorphisms (SNPs) and other genes were associated with higher systolic and diastolic blood pressure in children and adolescents. However, the exact context in which these associations were observed was not specified, suggesting the need for additional research to elucidate the detailed mechanisms involved. Furthermore, limitations of the study include the diversity of the genes and loci examined, which may hinder the generalization of the results. The next steps should focus on more targeted studies and control of variables for a deeper understanding of the interaction between epigenetics and hypertension in this population.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41324505",
-    "authors": [
-      {
-        "name": "Lilik Sukesi",
-        "affiliation": "Department of Internal Medicine, Faculty of Medicine, Division of Nephrology and Hypertension, Universitas Padjadjaran/Hasan Sadikin General Hospital, Bandung, Indonesia."
-      },
-      {
-        "name": "Yunia Sribudiani",
-        "affiliation": "Department Biomedical Sciences, Faculty of Medicine, Division of Biochemistry and Molecular Biology, Universitas Padjadjaran/Hasan Sadikin General Hospital, Bandung, Indonesia."
-      },
-      {
-        "name": "Steven Yulius Usman",
-        "affiliation": "School of Medicine and Health Sciences, Faculty of Medicine Atma, Jaya Catholic University of Indonesia, Jakarta, Indonesia."
-      },
-      {
-        "name": "Eric Ricardo Yonatan",
-        "affiliation": "School of Medicine and Health Sciences, Faculty of Medicine Atma, Jaya Catholic University of Indonesia, Jakarta, Indonesia."
-      }
-    ],
-    "journal": "Blood pressure",
-    "publishedDate": "2025-12-27",
-    "fetchedDate": "2026-06-04",
-    "category": "Genômica",
-    "tags": [
-      "hypertension",
-      "genetic",
-      "gene",
-      "rna",
-      "children"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41454667",
-    "pmid": "41454667",
-    "doi": "10.1080/2162402X.2025.2604877",
-    "title": "IL-37/IL-1R8 axis: a novel major mechanism of control at the interface between tumor and immune cells.",
-    "titlePt": "IL-37/IL-1R8 axis: a novel major mechanism of control at the interface between tumor and immune cells.",
-    "abstract": "Interleukin (IL)-37 is one of the \"youngest\" IL-1 family members and one of the few molecules exerting anti-inflammatory activity. Upon inflammasome activation, the cytokine precursor is converted into its mature form, which acts intracellularly as a nuclear transcription factor, impairing the production of pro-inflammatory cytokines, and extracellularly by forming the IL-37/IL-18R&#x3b1;/IL-1R8 complex, favoring IL-1R8 inhibitory signaling with immunosuppressive function. IL-1R8, which is mostly expressed in a number of cell types, negatively regulates both IL-1R/TLR signaling, blocking the NF-kB/JNK pathway and the production of pro-inflammatory cytokines. Owing to its ability to inhibit both innate and adaptive immunity, IL-37 has been reported to control inflammation in many chronic disorders, including cancer. IL-37 impairs the proliferation and migration of tumor cells, mediates anti-angiogenetic mechanisms, and favors immunoregulation in the tumor microenvironment (TME). This re",
-    "journalisticSummary": "Um estudo recente publicado no PubMed revelou um mecanismo inovador de controle na interface entre células tumorais e imunológicas, envolvendo o eixo IL-37/IL-1R8. A interleucina-37 (IL-37) é uma das moléculas mais jovens da família IL-1 e uma das poucas com atividade anti-inflamatória. Após a ativação do inflamassoma, o precursor da citocina é convertido em sua forma madura, que atua intracelularmente como um fator de transcrição nuclear, impedindo a produção de citocinas pró-inflamatórias, e extracelularmente formando o complexo IL-37/IL-18Rα/IL-1R8, que favorece a sinalização inibitória de IL-1R8 com função imunossupressora. O IL-1R8, expresso principalmente em vários tipos de células, regula negativamente tanto a sinalização IL-1R/TLR quanto a produção de citocinas pró-inflamatórias, bloqueando a via NF-kB/JNK. Devido à sua capacidade de inibir tanto a imunidade inata quanto a adaptativa, a IL-37 tem sido relatada como controladora da inflamação em muitos distúrbios crônicos, incluindo o câncer. A IL-37 impede a proliferação e migração de células tumorais, media mecanismos anti-angiogênicos e favorece a imunoregulação no microambiente tumoral (TME). Embora os achados sejam promissores, não foram informados detalhes sobre as limitações do estudo ou os próximos passos para a aplicação clínica dessas descobertas.\n\nA study recently published on PubMed revealed an innovative mechanism of control at the interface between tumor and immune cells, involving the IL-37/IL-1R8 axis. Interleukin-37 (IL-37) is one of the youngest members of the IL-1 family and one of the few molecules exerting anti-inflammatory activity. Upon inflammasome activation, the cytokine precursor is converted into its mature form, which acts intracellularly as a nuclear transcription factor, impairing the production of pro-inflammatory cytokines, and extracellularly by forming the IL-37/IL-18Rα/IL-1R8 complex, favoring IL-1R8 inhibitory signaling with immunosuppressive function. IL-1R8, which is mostly expressed in a number of cell types, negatively regulates both IL-1R/TLR signaling, blocking the NF-kB/JNK pathway and the production of pro-inflammatory cytokines. Due to its ability to inhibit both innate and adaptive immunity, IL-37 has been reported to control inflammation in many chronic disorders, including cancer. IL-37 impairs the proliferation and migration of tumor cells, mediates anti-angiogenic mechanisms, and favors immunoregulation in the tumor microenvironment (TME). Although the findings are promising, details about the study's limitations or the next steps for the clinical application of these discoveries were not reported.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41454667",
-    "authors": [
-      {
-        "name": "Nadine Landolina",
-        "affiliation": "Tumor Immunology Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Rome, Italy."
-      },
-      {
-        "name": "Francesca Romana Mariotti",
-        "affiliation": "Tumor Immunology Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Rome, Italy."
-      },
-      {
-        "name": "Enrico Munari",
-        "affiliation": "Department of Pathology and Diagnostics, University and Hospital Trust of Verona, Verona, Italy."
-      },
-      {
-        "name": "Nicola Tumino",
-        "affiliation": "Innate Lymphoid Cells Unit, Bambino Ges&#xf9; Children's Hospital IRCCS, Rome, Italy."
-      }
-    ],
-    "journal": "Oncoimmunology",
-    "publishedDate": "2025-12-27",
-    "fetchedDate": "2026-06-04",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "genetic",
-      "gene",
-      "immune"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
