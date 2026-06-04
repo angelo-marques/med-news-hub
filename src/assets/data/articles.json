@@ -12409,6 +12409,51 @@
     "aiProcessed": false
   },
   {
+    "id": "pubmed-41324505",
+    "pmid": "41324505",
+    "doi": "10.1080/08037051.2025.2598105",
+    "title": "The role of epigenetics in hypertension of children and adolescents: a systematic review.",
+    "titlePt": "The role of epigenetics in hypertension of children and adolescents: a systematic review.",
+    "abstract": "This systematic review study aimed to discuss about the possibility role of epigenetic in HTN of children and adolescent. This evidence-based research is implemented within the scope of the Preferred Reporting Item for Systematic Review and Meta-analysis (PRISMA) 2020. The data were analyzed qualitatively to assess the risk of bias, with the New Ottawa Scale (NOS) and Agency for Health Research and Quality (AHRQ) criteria as the thresholds. Our research highlights in particular showed that there is a role for epigenetics in HTN in children and adolescents. Fourteen journals were included to be qualitatively assessed. Eleven journals (78.5%) stated that there was a correlation between epigenetic and BP in children and adolescents, however each study examined different genes or loci. In summary, epigenetic modifications of various single nucleotide polymorphisms (SNPs) and other genes were associated with higher systolic and diastolic BP in children and adolescents. What is the context? ",
+    "journalisticSummary": "A hipertensão em crianças e adolescentes é um problema de saúde pública crescente, com implicações significativas para o desenvolvimento cardiovascular ao longo da vida. Recentemente, um estudo publicado na PubMed explorou o papel da epigenética nesse contexto, visando entender como modificações epigenéticas podem influenciar a pressão arterial nessa população. A revisão sistemática, realizada de acordo com as diretrizes do Preferred Reporting Item for Systematic Review and Meta-analysis (PRISMA) 2020, analisou qualitativamente a evidência disponível sobre a relação entre epigenética e hipertensão em crianças e adolescentes. Os dados foram avaliados com base na New Ottawa Scale (NOS) e nos critérios da Agency for Health Research and Quality (AHRQ) para avaliar o risco de viés. Os resultados mostraram que 11 dos 14 estudos incluídos (78,5%) encontraram uma correlação entre epigenética e pressão arterial nessa faixa etária, embora cada estudo tenha examinado diferentes genes ou loci. Em resumo, as modificações epigenéticas de vários polimorfismos de nucleotídeo único (SNPs) e outros genes estavam associadas a pressões arteriais sistólicas e diastólicas mais altas em crianças e adolescentes. No entanto, não foi especificado o contexto exato em que essas associações foram observadas, o que sugere a necessidade de pesquisas adicionais para elucidação detalhada dos mecanismos envolvidos. Além disso, limitações do estudo incluem a diversidade dos genes e loci examinados, o que pode dificultar a generalização dos resultados. Os próximos passos deveriam focar em estudos mais direcionados e controle de variáveis para uma compreensão mais profunda da interação entre epigenética e hipertensão nessa população.\n\nA hypertension in children and adolescents is a growing public health problem, with significant implications for cardiovascular development throughout life. Recently, a study published in PubMed explored the role of epigenetics in this context, aiming to understand how epigenetic modifications can influence blood pressure in this population. The systematic review, conducted in accordance with the Preferred Reporting Item for Systematic Review and Meta-analysis (PRISMA) 2020 guidelines, qualitatively analyzed the available evidence on the relationship between epigenetics and hypertension in children and adolescents. The data were assessed based on the New Ottawa Scale (NOS) and the Agency for Health Research and Quality (AHRQ) criteria to evaluate the risk of bias. The results showed that 11 of the 14 included studies (78.5%) found a correlation between epigenetics and blood pressure in this age group, although each study examined different genes or loci. In summary, epigenetic modifications of various single nucleotide polymorphisms (SNPs) and other genes were associated with higher systolic and diastolic blood pressure in children and adolescents. However, the exact context in which these associations were observed was not specified, suggesting the need for additional research to elucidate the detailed mechanisms involved. Furthermore, limitations of the study include the diversity of the genes and loci examined, which may hinder the generalization of the results. The next steps should focus on more targeted studies and control of variables for a deeper understanding of the interaction between epigenetics and hypertension in this population.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41324505",
+    "authors": [
+      {
+        "name": "Lilik Sukesi",
+        "affiliation": "Department of Internal Medicine, Faculty of Medicine, Division of Nephrology and Hypertension, Universitas Padjadjaran/Hasan Sadikin General Hospital, Bandung, Indonesia."
+      },
+      {
+        "name": "Yunia Sribudiani",
+        "affiliation": "Department Biomedical Sciences, Faculty of Medicine, Division of Biochemistry and Molecular Biology, Universitas Padjadjaran/Hasan Sadikin General Hospital, Bandung, Indonesia."
+      },
+      {
+        "name": "Steven Yulius Usman",
+        "affiliation": "School of Medicine and Health Sciences, Faculty of Medicine Atma, Jaya Catholic University of Indonesia, Jakarta, Indonesia."
+      },
+      {
+        "name": "Eric Ricardo Yonatan",
+        "affiliation": "School of Medicine and Health Sciences, Faculty of Medicine Atma, Jaya Catholic University of Indonesia, Jakarta, Indonesia."
+      }
+    ],
+    "journal": "Blood pressure",
+    "publishedDate": "2025-12-27",
+    "fetchedDate": "2026-06-04",
+    "category": "Genômica",
+    "tags": [
+      "hypertension",
+      "genetic",
+      "gene",
+      "rna",
+      "children"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41454667",
     "pmid": "41454667",
     "doi": "10.1080/2162402X.2025.2604877",
@@ -12497,48 +12542,5 @@
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41411051",
-    "pmid": "41411051",
-    "doi": "10.1080/08037051.2025.2606499",
-    "title": "White coat hypertension and left ventricle geometry in childhood.",
-    "titlePt": "White coat hypertension and left ventricle geometry in childhood.",
-    "abstract": "It is not clear whether white-coat hypertension (WCH) is related to the development of left ventricular geometry changes in children. This retrospective, single-centre study categorised patients into obese and normal-weight groups. The obese cohort comprised 72 with hypertension (48 male, 12.3&#x2009;&#xb1;&#x2009;3.2&#x2009;years), 40 with white-coat hypertension (WCH; 29 male, 12.9&#x2009;&#xb1;&#x2009;2.8&#x2009;years) and 31 normotensive controls (18 male, 11.9&#x2009;&#xb1;&#x2009;2.2&#x2009;years). The normal-weight cohort included 62 with hypertension (40 male, 12.9&#x2009;&#xb1;&#x2009;3.9&#x2009;years), 32 with WCH (21 male, 12.5&#x2009;&#xb1;&#x2009;3.3&#x2009;years) and 89 normotensive controls (60 male, 13.0&#x2009;&#xb1;&#x2009;2.1&#x2009;years). Echocardiography and ambulatory blood pressure monitoring were performed for all participants with WCH or hypertension. Abnormal left ventricular geometry was defined as the presence of concentric remodelling, concentric left vent",
-    "journalisticSummary": "TÍTULO: Hipertensão de Jaleco Branco: Um Sinal de Alerta para a Saúde Cardiovascular em Crianças\n\nLEAD: Estudos recentes apontam que a hipertensão de jaleco branco, um tipo de pressão alta que ocorre apenas em consultórios médicos, pode estar relacionada a alterações na geometria do ventrículo esquerdo em crianças, o que pode ter implicações significativas para a saúde cardiovascular. Essa condição pode ser um sinal de alerta para problemas cardíacos futuros.\n\nCORPO: A pesquisa, realizada em um centro de saúde, incluiu 245 crianças, divididas em grupos de peso normal e obesos, com idades médias variando de 11,9 a 13,0 anos. Os participantes foram submetidos a exames de ecocardiografia e monitoramento ambulatorial da pressão arterial. Os resultados mostraram que 40% das crianças obesas com hipertensão de jaleco branco apresentaram alterações na geometria do ventrículo esquerdo, enquanto apenas 12% das crianças normotensas apresentaram essas alterações. De acordo com o Dr. João Silva, pesquisador principal, \"esses resultados são preocupantes, pois sugerem que a hipertensão de jaleco branco pode ser um fator de risco para doenças cardíacas em crianças\". A equipe de pesquisa utilizou critérios rigorosos para definir a hipertensão de jaleco branco e as alterações na geometria do ventrículo esquerdo, o que permitiu uma análise mais precisa dos dados.\n\nA hipertensão de jaleco branco é um fenômeno comum, afetando cerca de 20% das crianças que visitam consultórios médicos. No entanto, seus efeitos a longo prazo na saúde cardiovascular ainda não eram bem compreendidos. Essa pesquisa preenche uma lacuna importante no conhecimento científico, fornecendo evidências de que a hipertensão de jaleco branco pode ter implicações significativas para a saúde cardiovascular em crianças. Além disso, os resultados sugerem que a obesidade pode ser um fator de risco adicional para alterações na geometria do ventrículo esquerdo em crianças com hipertensão de jaleco branco.\n\nA equipe de pesquisa também destacou a importância de monitorar a pressão arterial em crianças, especialmente aquelas com obesidade ou outros fatores de risco para doenças cardíacas. Isso pode ajudar a identificar problemas potenciais antes que se tornem graves, permitindo intervenções precoces e mais eficazes.\n\nIMPLICAÇÕES: Esses resultados têm implicações significativas para pacientes e médicos. A hipertensão de jaleco branco pode ser um sinal de alerta para problemas cardíacos futuros, e a monitorização regular da pressão arterial pode ajudar a prevenir doenças cardíacas em crianças. Os próximos passos incluem a realização de estudos longitudinais para acompanhar o progresso das crianças com hipertensão de jaleco branco e avaliar a eficácia de intervenções para prevenir alterações na geometria do ventrículo esquerdo.\n\nFONTE: PubMed – DOI: 10.1080/08037051.2025.2606499",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41411051",
-    "authors": [
-      {
-        "name": "Serap Ata",
-        "affiliation": "Department of Pediatrics, &#xdc;mraniye Training and Research Hospital, Istanbul, T&#xfc;rkiye."
-      },
-      {
-        "name": "Duygu &#xd6;v&#xfc;n&#xe7; Hac&#x131;hamdio&#x11f;lu",
-        "affiliation": "Department of Pediatrics, Division of Pediatric Nephrology, Bah&#xe7;e&#x15f;ehir University Medicine Faculties, Medical Park G&#xf6;ztepe Hospital, Istanbul, Turkiye."
-      },
-      {
-        "name": "Deniz Cihan",
-        "affiliation": "6th Grade, Bah&#xe7;e&#x15f;ehir University Medicine Faculties, Istanbul, Turkiye."
-      },
-      {
-        "name": "Deniz K&#x131;l&#x131;&#xe7;",
-        "affiliation": "6th Grade, Bah&#xe7;e&#x15f;ehir University Medicine Faculties, Istanbul, Turkiye."
-      }
-    ],
-    "journal": "Blood pressure",
-    "publishedDate": "2025-12-27",
-    "fetchedDate": "2026-04-14",
-    "category": "Pediatria",
-    "tags": [
-      "hypertension",
-      "children",
-      "childhood"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Legacy/nao-rastreado"
   }
 ]
