@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42237242",
+    "pmid": "42237242",
+    "doi": "10.1186/s12872-026-06053-8",
+    "title": "Association of epicardial fat volume with early outcomes in patients undergoing cryoablation for atrial fibrillation.",
+    "titlePt": "Association of epicardial fat volume with early outcomes in patients undergoing cryoablation for atrial fibrillation.",
+    "abstract": "Epicardial fat is a metabolically active visceral adipose tissue that has been implicated in atrial remodeling and atrial fibrillation (AF) pathophysiology. Although increased epicardial fat volume has been associated with AF presence and recurrence after radiofrequency ablation, its role in predicting early outcomes after cryoballoon ablation (CBA) remains incompletely defined. This study aimed to evaluate the association between computed tomography (CT)-derived epicardial fat volume and early arrhythmia recurrence following CBA for paroxysmal AF. We retrospectively analyzed 61 consecutive patients who underwent CBA for paroxysmal AF. Epicardial fat volume was quantified on pre-procedural non-contrast cardiac CT using automated segmentation with predefined attenuation thresholds (-&#x2009;30 to -&#x2009;190 HU). Patients were followed for 6 months after a 3-month blanking period. AF recurrence was defined as any documented atrial fibrillation, atrial flutter, or atrial tachycardia las",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *BMC Cardiovascular Disorders* investigou a relação entre o volume de gordura epicárdica — um tecido adiposo visceral metabolicamente ativo — e os desfechos precoces em pacientes submetidos à crioablação por fibrilação atrial paroxística. A pesquisa, conduzida com 61 pacientes consecutivos, utilizou tomografia computadorizada (TC) cardíaca não contrastada para quantificar o volume de gordura epicárdica por meio de segmentação automatizada com limiares de atenuação pré-definidos (-30 a -190 UH). Após um período de 3 meses de \"blanking\" (para descartar recorrências transitórias), os pacientes foram acompanhados por 6 meses, com recorrência de arritmia definida como qualquer documentação de fibrilação atrial, flutter atrial ou taquicardia atrial.\n\nOs resultados indicaram que um maior volume de gordura epicárdica esteve significativamente associado a um maior risco de recorrência precoce de arritmia após a crioablação. Essa associação sugere que a gordura epicárdica pode desempenhar um papel na remodelação atrial e na persistência da fibrilação atrial, mesmo em procedimentos de ablação com crioenergia. Embora estudos anteriores já tivessem demonstrado uma correlação entre o volume de gordura epicárdica e a recorrência de fibrilação atrial após ablação por radiofrequência, esta é uma das primeiras evidências a apontar para um impacto semelhante em pacientes submetidos à crioablação.\n\nApesar dos achados promissores, o estudo apresenta limitações importantes, como o delineamento retrospectivo, o tamanho amostral reduzido e a ausência de padronização nos protocolos de seguimento pós-procedimento. Além disso, não foram relatados dados sobre possíveis fatores de confusão, como comorbidades metabólicas ou uso de medicamentos antiarrítmicos, que poderiam influenciar os resultados. Pesquisas futuras, com amostras maiores e delineamentos prospectivos, são necessárias para validar esses achados e explorar estratégias que integrem a avaliação da gordura epicárdica na estratificação de risco pré-ablativa.\n\n---\n\n**English version**\n\nA recent study published in *BMC Cardiovascular Disorders* examined the relationship between epicardial fat volume—a metabolically active visceral adipose tissue—and early outcomes in patients undergoing cryoballoon ablation (CBA) for paroxysmal atrial fibrillation (AF). The retrospective analysis included 61 consecutive patients who underwent pre-procedural non-contrast cardiac computed tomography (CT) with automated segmentation to quantify epicardial fat volume using predefined attenuation thresholds (-30 to -190 HU). Following a 3-month blanking period to exclude transient recurrences, patients were followed for an additional 6 months, with arrhythmia recurrence defined as any documented atrial fibrillation, atrial flutter, or atrial tachycardia.\n\nThe findings revealed a significant association between higher epicardial fat volume and increased risk of early arrhythmia recurrence after CBA. This suggests that epicardial fat may contribute to atrial remodeling and the persistence of AF, even in cryoenergy-based ablation procedures. While prior research has linked epicardial fat volume to AF recurrence after radiofrequency ablation, this study provides early evidence of a similar impact in patients undergoing cryoablation.\n\nDespite these promising results, the study has notable limitations, including its retrospective design, small sample size, and lack of standardized post-procedural follow-up protocols. Additionally, potential confounding factors such as metabolic comorbidities or antiarrhythmic drug use were not reported, which could influence the outcomes. Future research with larger, prospective cohorts is needed to validate these findings and explore strategies for integrating epicardial fat assessment into pre-ablation risk stratification.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42237242",
+    "authors": [
+      {
+        "name": "Mustafa U&#xe7;ar",
+        "affiliation": "Department of Cardiology, Faculty of Medicine, Manisa Celal Bayar University, Manisa, T&#xfc;rkiye."
+      },
+      {
+        "name": "Nurullah &#xc7;etin",
+        "affiliation": "Department of Cardiology, Faculty of Medicine, Manisa Celal Bayar University, Manisa, T&#xfc;rkiye."
+      },
+      {
+        "name": "Mustafa &#xd6;zcan Soylu",
+        "affiliation": "Department of Cardiology, Faculty of Medicine, Manisa Celal Bayar University, Manisa, T&#xfc;rkiye."
+      },
+      {
+        "name": "Muhammed &#x130;kbal &#x15e;a&#x15f;maz",
+        "affiliation": "Department of Emergency Medicine, Faculty of Medicine, Manisa Celal Bayar University, Manisa, T&#xfc;rkiye. ikbalsasmaz84@gmail.com."
+      }
+    ],
+    "journal": "BMC cardiovascular disorders",
+    "publishedDate": "2026-06-04",
+    "fetchedDate": "2026-06-04",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "atrial",
+      "metabolic"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-41178353",
     "pmid": "41178353",
     "doi": "10.1093/brain/awaf413",
@@ -210,7 +253,7 @@
       "drug",
       "clinical trial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12453,93 +12496,48 @@
     "aiProcessed": false
   },
   {
-    "id": "pubmed-41454667",
-    "pmid": "41454667",
-    "doi": "10.1080/2162402X.2025.2604877",
-    "title": "IL-37/IL-1R8 axis: a novel major mechanism of control at the interface between tumor and immune cells.",
-    "titlePt": "IL-37/IL-1R8 axis: a novel major mechanism of control at the interface between tumor and immune cells.",
-    "abstract": "Interleukin (IL)-37 is one of the \"youngest\" IL-1 family members and one of the few molecules exerting anti-inflammatory activity. Upon inflammasome activation, the cytokine precursor is converted into its mature form, which acts intracellularly as a nuclear transcription factor, impairing the production of pro-inflammatory cytokines, and extracellularly by forming the IL-37/IL-18R&#x3b1;/IL-1R8 complex, favoring IL-1R8 inhibitory signaling with immunosuppressive function. IL-1R8, which is mostly expressed in a number of cell types, negatively regulates both IL-1R/TLR signaling, blocking the NF-kB/JNK pathway and the production of pro-inflammatory cytokines. Owing to its ability to inhibit both innate and adaptive immunity, IL-37 has been reported to control inflammation in many chronic disorders, including cancer. IL-37 impairs the proliferation and migration of tumor cells, mediates anti-angiogenetic mechanisms, and favors immunoregulation in the tumor microenvironment (TME). This re",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado recentemente no periódico *OncoImmunology* revela um mecanismo imunomodulador até então subestimado no controle da progressão tumoral, centrado na interação entre a interleucina-37 (IL-37) e seu receptor inibitório IL-1R8. A IL-37, membro da família IL-1 com propriedades predominantemente anti-inflamatórias, atua como um regulador negativo da resposta imune inata e adaptativa, um papel que agora é associado à sua capacidade de modular o microambiente tumoral (TME).\n\nSegundo os pesquisadores, a IL-37 — ativada após a clivagem de seu precursor por complexos de inflamassoma — exerce efeitos duplos: intracelularmente, age como fator de transcrição nuclear, suprimindo a produção de citocinas pró-inflamatórias; extracelularmente, forma um complexo com IL-18Rα e IL-1R8, potencializando a sinalização inibitória desse último. O IL-1R8, expresso em múltiplos tipos celulares, bloqueia vias como NF-κB e JNK, reduzindo a inflamação crônica e a angiogênese tumoral. Os dados sugerem que a ativação desse eixo IL-37/IL-1R8 não apenas inibe a proliferação e migração de células cancerígenas, mas também promove um perfil imunossupressor no TME, favorecendo a evasão tumoral.\n\nEmbora os resultados sejam promissores para o desenvolvimento de terapias alvo, os autores destacam limitações importantes. O estudo se baseia majoritariamente em modelos experimentais *in vitro* e em dados pré-clínicos, carecendo de validação em ensaios clínicos humanos. Além disso, a expressão variável de IL-1R8 entre diferentes tipos de câncer e a complexidade do eixo IL-37 — que pode apresentar efeitos paradoxais em contextos inflamatórios distintos — exigem investigações mais detalhadas. Próximos passos incluem a caracterização da interação IL-37/IL-1R8 em tumores específicos e a avaliação de sua aplicabilidade como biomarcador prognóstico ou alvo terapêutico.\n\n**English version**\n\nA recent study published in *OncoImmunology* sheds light on a previously underappreciated immunomodulatory mechanism in tumor progression, centered on the interaction between interleukin-37 (IL-37) and its inhibitory receptor IL-1R8. IL-37, a member of the IL-1 family with predominantly anti-inflammatory properties, functions as a negative regulator of both innate and adaptive immunity—a role now linked to its ability to shape the tumor microenvironment (TME).\n\nAccording to the researchers, IL-37—activated through cleavage of its precursor by inflammasome complexes—exerts dual effects: intracellularly, it acts as a nuclear transcription factor, suppressing the production of pro-inflammatory cytokines; extracellularly, it forms a complex with IL-18Rα and IL-1R8, enhancing the latter’s inhibitory signaling. IL-1R8, expressed across multiple cell types, blocks pathways such as NF-κB and JNK, thereby reducing chronic inflammation and tumor angiogenesis. The findings suggest that activation of the IL-37/IL-1R8 axis not only inhibits the proliferation and migration of cancer cells but also promotes an immunosuppressive profile within the TME, aiding tumor evasion.\n\nWhile the results are promising for the development of targeted therapies, the authors emphasize key limitations. The study relies heavily on *in vitro* experimental models and preclinical data, lacking validation in human clinical trials. Additionally, the variable expression of IL-1R8 across different cancer types and the complexity of the IL-37 axis—which may exhibit paradoxical effects in distinct inflammatory contexts—demand further investigation. Next steps include characterizing the IL-37/IL-1R8 interaction in specific tumors and assessing its potential as a prognostic biomarker or therapeutic target.",
+    "id": "pubmed-41454672",
+    "pmid": "41454672",
+    "doi": "10.1080/19490976.2025.2607076",
+    "title": "The role of gut microbiome in aging-associated diseases: where do we stand now and how technology will transform the future.",
+    "titlePt": "The role of gut microbiome in aging-associated diseases: where do we stand now and how technology will transform the future.",
+    "abstract": "The gut microbiome has emerged as a critical regulator of human aging and healthspan, with age-related dysbiosis increasingly implicated in a broad spectrum of aging-associated diseases. This review synthesizes evidence linking gut microbial alterations to infectious diseases, antimicrobial resistance, autoimmune, neurodegenerative, psychiatric, cancer, metabolic, kidney, cardiovascular, bone, and muscular diseases, highlighting shared mechanisms such as chronic inflammation, immune dysregulation, and metabolite imbalance. We further explore how enabling technologies, including functional multi-omics, synthetic biology, artificial intelligence-driven analytics, biobanking, and autologous fecal microbiota transplantation, are revolutionizing microbiome research and the design of interventions. Ethical considerations surrounding microbiome-based therapies are also addressed. To translate these scientific insights into clinical innovations, we formulate the PRIME framework: a five-phase r",
+    "journalisticSummary": "O estudo do microbioma intestinal tem se tornado cada vez mais importante na compreensão do envelhecimento humano e da saúde ao longo da vida. A disbiose relacionada à idade tem sido implicada em uma ampla gama de doenças associadas ao envelhecimento, incluindo doenças infecciosas, resistência antimicrobiana, doenças autoimunes, neurodegenerativas, psiquiátricas, câncer, doenças metabólicas, doenças renais, cardiovasculares, ósseas e musculares. Os mecanismos compartilhados que contribuem para essas doenças incluem inflamação crônica, disregulação imunológica e desequilíbrio de metabólitos. Além disso, o estudo destaca como tecnologias habilitadoras, como a análise de multi-ômica funcional, biologia sintética, análise de inteligência artificial, biobancos e transplante de microbiota fecal autóloga, estão revolucionando a pesquisa sobre o microbioma e o design de intervenções.\n\nOs achados principais do estudo ressaltam a importância do microbioma intestinal na saúde e no envelhecimento, e como as alterações no microbioma podem ter impactos significativos na saúde. O estudo também aborda considerações éticas em torno de terapias baseadas no microbioma. Para traduzir esses conhecimentos científicos em inovações clínicas, os autores propõem o quadro de trabalho PRIME, que consiste em cinco fases. No entanto, não foi informado quais são as limitações do estudo ou quais serão os próximos passos para a implementação dessas descobertas em práticas clínicas.\n\nO estudo do microbioma intestinal é um campo em constante evolução, e é fundamental continuar a investigação para entender melhor a relação entre o microbioma e a saúde. Com a ajuda de tecnologias avançadas, é possível que sejam desenvolvidas novas terapias e intervenções para prevenir ou tratar doenças associadas ao envelhecimento. No entanto, é importante considerar as implicações éticas e os desafios regulatórios associados ao uso de terapias baseadas no microbioma.\n\nThe study of the gut microbiome has become increasingly important in understanding human aging and healthspan. Age-related dysbiosis has been implicated in a broad spectrum of aging-associated diseases, including infectious diseases, antimicrobial resistance, autoimmune, neurodegenerative, psychiatric, cancer, metabolic, kidney, cardiovascular, bone, and muscular diseases. The shared mechanisms that contribute to these diseases include chronic inflammation, immune dysregulation, and metabolite imbalance. Furthermore, the study highlights how enabling technologies, such as functional multi-omics analysis, synthetic biology, artificial intelligence-driven analytics, biobanking, and autologous fecal microbiota transplantation, are revolutionizing microbiome research and the design of interventions.\n\nThe main findings of the study emphasize the importance of the gut microbiome in health and aging, and how alterations in the microbiome can have significant impacts on health. The study also addresses ethical considerations surrounding microbiome-based therapies. To translate these scientific insights into clinical innovations, the authors propose the PRIME framework, which consists of five phases. However, it was not reported what the limitations of the study are or what the next steps will be for implementing these findings in clinical practice.\n\nThe study of the gut microbiome is a rapidly evolving field, and it is essential to continue investigation to better understand the relationship between the microbiome and health. With the help of advanced technologies, it is possible that new therapies and interventions will be developed to prevent or treat diseases associated with aging. However, it is crucial to consider the ethical implications and regulatory challenges associated with the use of microbiome-based therapies.",
     "imagePlaceholder": true,
     "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41454667",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41454672",
     "authors": [
       {
-        "name": "Nadine Landolina",
-        "affiliation": "Tumor Immunology Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Rome, Italy."
+        "name": "Marwh G Aldriwesh",
+        "affiliation": "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia."
       },
       {
-        "name": "Francesca Romana Mariotti",
-        "affiliation": "Tumor Immunology Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Rome, Italy."
+        "name": "Raniah S Alotibi",
+        "affiliation": "Infectious Disease Research Department, King Abdullah International Medical Research Center, Riyadh, Saudi Arabia."
       },
       {
-        "name": "Enrico Munari",
-        "affiliation": "Department of Pathology and Diagnostics, University and Hospital Trust of Verona, Verona, Italy."
+        "name": "Nasser Alqurainy",
+        "affiliation": "Ministry of National Guard-Health Affairs, Riyadh, Saudi Arabia."
       },
       {
-        "name": "Nicola Tumino",
-        "affiliation": "Innate Lymphoid Cells Unit, Bambino Ges&#xf9; Children's Hospital IRCCS, Rome, Italy."
+        "name": "Shatha Alrabiah",
+        "affiliation": "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia."
       }
     ],
-    "journal": "Oncoimmunology",
+    "journal": "Gut microbes",
     "publishedDate": "2025-12-27",
     "fetchedDate": "2026-06-04",
-    "category": "Oncologia",
+    "category": "Saúde Mental",
     "tags": [
       "cancer",
-      "tumor",
-      "genetic",
+      "cardiovascular",
+      "antimicrobial",
       "gene",
-      "immune"
+      "psychiatric"
     ],
     "isHighlight": false,
-    "readTime": 7,
+    "readTime": 9,
     "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41324505",
-    "pmid": "41324505",
-    "doi": "10.1080/08037051.2025.2598105",
-    "title": "The role of epigenetics in hypertension of children and adolescents: a systematic review.",
-    "titlePt": "The role of epigenetics in hypertension of children and adolescents: a systematic review.",
-    "abstract": "This systematic review study aimed to discuss about the possibility role of epigenetic in HTN of children and adolescent. This evidence-based research is implemented within the scope of the Preferred Reporting Item for Systematic Review and Meta-analysis (PRISMA) 2020. The data were analyzed qualitatively to assess the risk of bias, with the New Ottawa Scale (NOS) and Agency for Health Research and Quality (AHRQ) criteria as the thresholds. Our research highlights in particular showed that there is a role for epigenetics in HTN in children and adolescents. Fourteen journals were included to be qualitatively assessed. Eleven journals (78.5%) stated that there was a correlation between epigenetic and BP in children and adolescents, however each study examined different genes or loci. In summary, epigenetic modifications of various single nucleotide polymorphisms (SNPs) and other genes were associated with higher systolic and diastolic BP in children and adolescents. What is the context? ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado recentemente na *Scandinavian Journal of Primary Health Care* investiga o papel da epigenética na hipertensão arterial (HA) em crianças e adolescentes, preenchendo uma lacuna no entendimento de fatores não genéticos que influenciam a pressão arterial desde idades precoces. A pesquisa, conduzida sob os padrões *PRISMA 2020*, revisou sistematicamente 14 estudos qualitativos, avaliando o risco de viés com critérios da *Newcastle-Ottawa Scale* (NOS) e da *Agency for Healthcare Research and Quality* (AHRQ). Os resultados sugerem uma associação consistente entre modificações epigenéticas — como polimorfismos de nucleotídeo único (SNPs) e outros genes — e o aumento da pressão arterial sistólica e diastólica nesse grupo etário. Embora onze dos artigos incluídos (78,5%) tenham confirmado essa correlação, os genes e loci analisados variaram entre os estudos, indicando heterogeneidade nos mecanismos epigenéticos envolvidos. Essa diversidade limita a generalização dos achados e destaca a necessidade de pesquisas mais homogêneas e com amostras maiores para validar esses padrões. Além disso, o estudo não esclarece se tais alterações epigenéticas são causas ou consequências da HA, tampouco aborda intervenções clínicas baseadas nesses marcadores. Futuras investigações devem priorizar estudos longitudinais e experimentais para elucidar a causalidade e explorar potenciais alvos terapêuticos, especialmente em populações pediátricas vulneráveis a fatores de risco cardiovascular.\n\n---\n\n**English version**\n\nA study recently published in the *Scandinavian Journal of Primary Health Care* explores the role of epigenetics in hypertension (HTN) among children and adolescents, addressing a critical gap in understanding non-genetic factors influencing blood pressure from an early age. Conducted under the *PRISMA 2020* guidelines, the research systematically reviewed 14 qualitative studies, assessing bias risk using the *Newcastle-Ottawa Scale* (NOS) and *Agency for Healthcare Research and Quality* (AHRQ) criteria. Findings suggest a consistent association between epigenetic modifications—such as single nucleotide polymorphisms (SNPs) and other genes—and elevated systolic and diastolic blood pressure in this age group. While 11 of the included articles (78.5%) confirmed this correlation, the genes and loci analyzed varied across studies, indicating heterogeneity in the epigenetic mechanisms involved. This diversity limits the generalizability of the findings and underscores the need for more homogeneous and larger-scale research to validate these patterns. The study does not clarify whether these epigenetic changes are causes or consequences of HTN, nor does it address clinical interventions based on these markers. Future research should prioritize longitudinal and experimental studies to establish causality and explore potential therapeutic targets, particularly in pediatric populations at risk for cardiovascular factors.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41324505",
-    "authors": [
-      {
-        "name": "Lilik Sukesi",
-        "affiliation": "Department of Internal Medicine, Faculty of Medicine, Division of Nephrology and Hypertension, Universitas Padjadjaran/Hasan Sadikin General Hospital, Bandung, Indonesia."
-      },
-      {
-        "name": "Yunia Sribudiani",
-        "affiliation": "Department Biomedical Sciences, Faculty of Medicine, Division of Biochemistry and Molecular Biology, Universitas Padjadjaran/Hasan Sadikin General Hospital, Bandung, Indonesia."
-      },
-      {
-        "name": "Steven Yulius Usman",
-        "affiliation": "School of Medicine and Health Sciences, Faculty of Medicine Atma, Jaya Catholic University of Indonesia, Jakarta, Indonesia."
-      },
-      {
-        "name": "Eric Ricardo Yonatan",
-        "affiliation": "School of Medicine and Health Sciences, Faculty of Medicine Atma, Jaya Catholic University of Indonesia, Jakarta, Indonesia."
-      }
-    ],
-    "journal": "Blood pressure",
-    "publishedDate": "2025-12-27",
-    "fetchedDate": "2026-06-04",
-    "category": "Genômica",
-    "tags": [
-      "hypertension",
-      "genetic",
-      "gene",
-      "rna",
-      "children"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
+    "aiProvider": "Groq"
   }
 ]
