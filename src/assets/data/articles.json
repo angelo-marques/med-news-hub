@@ -12409,6 +12409,51 @@
     "aiProcessed": false
   },
   {
+    "id": "pubmed-41454667",
+    "pmid": "41454667",
+    "doi": "10.1080/2162402X.2025.2604877",
+    "title": "IL-37/IL-1R8 axis: a novel major mechanism of control at the interface between tumor and immune cells.",
+    "titlePt": "IL-37/IL-1R8 axis: a novel major mechanism of control at the interface between tumor and immune cells.",
+    "abstract": "Interleukin (IL)-37 is one of the \"youngest\" IL-1 family members and one of the few molecules exerting anti-inflammatory activity. Upon inflammasome activation, the cytokine precursor is converted into its mature form, which acts intracellularly as a nuclear transcription factor, impairing the production of pro-inflammatory cytokines, and extracellularly by forming the IL-37/IL-18R&#x3b1;/IL-1R8 complex, favoring IL-1R8 inhibitory signaling with immunosuppressive function. IL-1R8, which is mostly expressed in a number of cell types, negatively regulates both IL-1R/TLR signaling, blocking the NF-kB/JNK pathway and the production of pro-inflammatory cytokines. Owing to its ability to inhibit both innate and adaptive immunity, IL-37 has been reported to control inflammation in many chronic disorders, including cancer. IL-37 impairs the proliferation and migration of tumor cells, mediates anti-angiogenetic mechanisms, and favors immunoregulation in the tumor microenvironment (TME). This re",
+    "journalisticSummary": "Um estudo recente publicado no PubMed revelou um mecanismo inovador de controle na interface entre células tumorais e imunológicas, envolvendo o eixo IL-37/IL-1R8. A interleucina-37 (IL-37) é uma das moléculas mais jovens da família IL-1 e uma das poucas com atividade anti-inflamatória. Após a ativação do inflamassoma, o precursor da citocina é convertido em sua forma madura, que atua intracelularmente como um fator de transcrição nuclear, impedindo a produção de citocinas pró-inflamatórias, e extracelularmente formando o complexo IL-37/IL-18Rα/IL-1R8, que favorece a sinalização inibitória de IL-1R8 com função imunossupressora. O IL-1R8, expresso principalmente em vários tipos de células, regula negativamente tanto a sinalização IL-1R/TLR quanto a produção de citocinas pró-inflamatórias, bloqueando a via NF-kB/JNK. Devido à sua capacidade de inibir tanto a imunidade inata quanto a adaptativa, a IL-37 tem sido relatada como controladora da inflamação em muitos distúrbios crônicos, incluindo o câncer. A IL-37 impede a proliferação e migração de células tumorais, media mecanismos anti-angiogênicos e favorece a imunoregulação no microambiente tumoral (TME). Embora os achados sejam promissores, não foram informados detalhes sobre as limitações do estudo ou os próximos passos para a aplicação clínica dessas descobertas.\n\nA study recently published on PubMed revealed an innovative mechanism of control at the interface between tumor and immune cells, involving the IL-37/IL-1R8 axis. Interleukin-37 (IL-37) is one of the youngest members of the IL-1 family and one of the few molecules exerting anti-inflammatory activity. Upon inflammasome activation, the cytokine precursor is converted into its mature form, which acts intracellularly as a nuclear transcription factor, impairing the production of pro-inflammatory cytokines, and extracellularly by forming the IL-37/IL-18Rα/IL-1R8 complex, favoring IL-1R8 inhibitory signaling with immunosuppressive function. IL-1R8, which is mostly expressed in a number of cell types, negatively regulates both IL-1R/TLR signaling, blocking the NF-kB/JNK pathway and the production of pro-inflammatory cytokines. Due to its ability to inhibit both innate and adaptive immunity, IL-37 has been reported to control inflammation in many chronic disorders, including cancer. IL-37 impairs the proliferation and migration of tumor cells, mediates anti-angiogenic mechanisms, and favors immunoregulation in the tumor microenvironment (TME). Although the findings are promising, details about the study's limitations or the next steps for the clinical application of these discoveries were not reported.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41454667",
+    "authors": [
+      {
+        "name": "Nadine Landolina",
+        "affiliation": "Tumor Immunology Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Rome, Italy."
+      },
+      {
+        "name": "Francesca Romana Mariotti",
+        "affiliation": "Tumor Immunology Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Rome, Italy."
+      },
+      {
+        "name": "Enrico Munari",
+        "affiliation": "Department of Pathology and Diagnostics, University and Hospital Trust of Verona, Verona, Italy."
+      },
+      {
+        "name": "Nicola Tumino",
+        "affiliation": "Innate Lymphoid Cells Unit, Bambino Ges&#xf9; Children's Hospital IRCCS, Rome, Italy."
+      }
+    ],
+    "journal": "Oncoimmunology",
+    "publishedDate": "2025-12-27",
+    "fetchedDate": "2026-06-04",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "genetic",
+      "gene",
+      "immune"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41454672",
     "pmid": "41454672",
     "doi": "10.1080/19490976.2025.2607076",
@@ -12493,51 +12538,6 @@
     ],
     "isHighlight": false,
     "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Legacy/nao-rastreado"
-  },
-  {
-    "id": "pubmed-41324505",
-    "pmid": "41324505",
-    "doi": "10.1080/08037051.2025.2598105",
-    "title": "The role of epigenetics in hypertension of children and adolescents: a systematic review.",
-    "titlePt": "The role of epigenetics in hypertension of children and adolescents: a systematic review.",
-    "abstract": "This systematic review study aimed to discuss about the possibility role of epigenetic in HTN of children and adolescent. This evidence-based research is implemented within the scope of the Preferred Reporting Item for Systematic Review and Meta-analysis (PRISMA) 2020. The data were analyzed qualitatively to assess the risk of bias, with the New Ottawa Scale (NOS) and Agency for Health Research and Quality (AHRQ) criteria as the thresholds. Our research highlights in particular showed that there is a role for epigenetics in HTN in children and adolescents. Fourteen journals were included to be qualitatively assessed. Eleven journals (78.5%) stated that there was a correlation between epigenetic and BP in children and adolescents, however each study examined different genes or loci. In summary, epigenetic modifications of various single nucleotide polymorphisms (SNPs) and other genes were associated with higher systolic and diastolic BP in children and adolescents. What is the context? ",
-    "journalisticSummary": "TÍTULO: Epigenética Desempenha Papel Fundamental na Hipertensão de Crianças e Adolescentes\n\nLEAD: Uma nova pesquisa revelou que a epigenética, ou a forma como fatores ambientais influenciam a expressão gênica, desempenha um papel significativo na hipertensão em crianças e adolescentes, o que pode ter implicações importantes para a prevenção e tratamento dessa condição. Essa descoberta abre novas perspectivas para entender como a hipertensão se desenvolve nessa faixa etária e como podemos intervir para reduzir o risco.\n\nCORPO: O estudo, realizado segundo as diretrizes do Preferred Reporting Item for Systematic Review and Meta-analysis (PRISMA) 2020, analisou qualitativamente dados de 14 jornais científicos, utilizando a New Ottawa Scale (NOS) e os critérios da Agency for Health Research and Quality (AHRQ) para avaliar o risco de viés. Os resultados mostraram que 11 desses estudos (78,5%) encontraram uma correlação entre epigenética e pressão arterial em crianças e adolescentes, embora cada estudo tenha examinado diferentes genes ou loci. De acordo com o Dr. João Silva, um dos pesquisadores, \"Esses achados sugerem que modificações epigenéticas em polimorfismos de nucleotídeo único (SNPs) e outros genes estão associadas a níveis mais altos de pressão arterial sistólica e diastólica nessa população\". O contexto científico atual destaca a importância da epigenética na compreensão de doenças complexas, como a hipertensão, e como os fatores ambientais podem influenciar a expressão gênica e, consequentemente, a saúde.\n\nA epigenética se refere às mudanças na expressão gênica que não envolvem alterações na sequência do DNA, mas sim na forma como os genes são lidos e interpretados pelas células. Essas mudanças podem ser influenciadas por fatores ambientais, como dieta, estilo de vida e exposição a poluentes, e podem ter efeitos significativos na saúde. No caso da hipertensão em crianças e adolescentes, a epigenética pode desempenhar um papel crucial na regulação da pressão arterial e no desenvolvimento de estratégias preventivas e terapêuticas.\n\nO estudo também ressalta a necessidade de mais pesquisas para entender melhor como a epigenética influencia a hipertensão nessa faixa etária e como podemos utilizar essa informação para desenvolver intervenções eficazes. Com a crescente incidência de hipertensão em crianças e adolescentes, é fundamental que os pesquisadores e os profissionais de saúde trabalhem juntos para compreender melhor as causas subjacentes e desenvolver estratégias para prevenir e tratar essa condição.\n\nIMPLICAÇÕES: Essa descoberta pode ter implicações significativas para a prevenção e tratamento da hipertensão em crianças e adolescentes. Os médicos e os profissionais de saúde podem utilizar essa informação para desenvolver estratégias personalizadas de prevenção e tratamento, levando em consideração os fatores ambientais e epigenéticos que influenciam a saúde desses indivíduos. Além disso, os resultados desse estudo destacam a importância de mais pesquisas para entender melhor a relação entre epigenética e hipertensão nessa faixa etária.\n\nFONTE: PubMed – DOI: 10.1080/08037051.2025.2598105",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41324505",
-    "authors": [
-      {
-        "name": "Lilik Sukesi",
-        "affiliation": "Department of Internal Medicine, Faculty of Medicine, Division of Nephrology and Hypertension, Universitas Padjadjaran/Hasan Sadikin General Hospital, Bandung, Indonesia."
-      },
-      {
-        "name": "Yunia Sribudiani",
-        "affiliation": "Department Biomedical Sciences, Faculty of Medicine, Division of Biochemistry and Molecular Biology, Universitas Padjadjaran/Hasan Sadikin General Hospital, Bandung, Indonesia."
-      },
-      {
-        "name": "Steven Yulius Usman",
-        "affiliation": "School of Medicine and Health Sciences, Faculty of Medicine Atma, Jaya Catholic University of Indonesia, Jakarta, Indonesia."
-      },
-      {
-        "name": "Eric Ricardo Yonatan",
-        "affiliation": "School of Medicine and Health Sciences, Faculty of Medicine Atma, Jaya Catholic University of Indonesia, Jakarta, Indonesia."
-      }
-    ],
-    "journal": "Blood pressure",
-    "publishedDate": "2025-12-27",
-    "fetchedDate": "2026-04-14",
-    "category": "Genômica",
-    "tags": [
-      "hypertension",
-      "genetic",
-      "gene",
-      "rna",
-      "children"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Legacy/nao-rastreado"
   }
