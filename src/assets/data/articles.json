@@ -12453,90 +12453,92 @@
     "aiProcessed": false
   },
   {
-    "id": "pubmed-41454672",
-    "pmid": "41454672",
-    "doi": "10.1080/19490976.2025.2607076",
-    "title": "The role of gut microbiome in aging-associated diseases: where do we stand now and how technology will transform the future.",
-    "titlePt": "The role of gut microbiome in aging-associated diseases: where do we stand now and how technology will transform the future.",
-    "abstract": "The gut microbiome has emerged as a critical regulator of human aging and healthspan, with age-related dysbiosis increasingly implicated in a broad spectrum of aging-associated diseases. This review synthesizes evidence linking gut microbial alterations to infectious diseases, antimicrobial resistance, autoimmune, neurodegenerative, psychiatric, cancer, metabolic, kidney, cardiovascular, bone, and muscular diseases, highlighting shared mechanisms such as chronic inflammation, immune dysregulation, and metabolite imbalance. We further explore how enabling technologies, including functional multi-omics, synthetic biology, artificial intelligence-driven analytics, biobanking, and autologous fecal microbiota transplantation, are revolutionizing microbiome research and the design of interventions. Ethical considerations surrounding microbiome-based therapies are also addressed. To translate these scientific insights into clinical innovations, we formulate the PRIME framework: a five-phase r",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nO envelhecimento humano está intrinsecamente ligado a transformações no microbioma intestinal, um ecossistema microbiano que, ao longo da vida, desempenha papel cada vez mais central na regulação da saúde e na suscetibilidade a doenças. Uma revisão publicada recentemente na *PubMed* (DOI: 10.1080/19490976.2025.2607076) sintetiza evidências de que a disbiose relacionada à idade — desequilíbrios na composição e função das comunidades microbianas intestinais — está associada não apenas a doenças infecciosas, mas também a condições crônicas como doenças autoimunes, neurodegenerativas, psiquiátricas, câncer, distúrbios metabólicos, enfermidades renais, cardiovasculares, ósseas e musculares. Os mecanismos subjacentes incluem inflamação crônica, disfunção imunológica e desequilíbrios metabólicos, sugerindo que o microbioma atua como um mediador sistêmico do envelhecimento.\n\nAvanços tecnológicos estão redefinindo a pesquisa e as intervenções no campo. Ferramentas como multiômica funcional — que integra dados de genômica, transcriptômica, proteômica e metabolômica —, biologia sintética, inteligência artificial aplicada à análise de dados, biobancos especializados e transplante autólogo de microbiota fecal estão acelerando a identificação de alvos terapêuticos e o desenvolvimento de terapias personalizadas. No entanto, a aplicação clínica dessas inovações enfrenta desafios éticos, especialmente no que tange à segurança, padronização de protocolos e equidade no acesso a tratamentos baseados em microbioma.\n\nPara estruturar essa transição do laboratório para a prática clínica, os autores propõem o *framework* PRIME, um modelo em cinco fases que visa guiar o desenvolvimento de terapias baseadas em microbioma, desde a descoberta até a implementação. Embora o artigo não detalhe os resultados de estudos clínicos específicos, ele reforça a necessidade de abordagens integradas que combinem ciência básica, tecnologia e políticas regulatórias para transformar o potencial do microbioma em soluções concretas contra doenças associadas ao envelhecimento.\n\n---\n\n**English version**\n\nHuman aging is inextricably linked to shifts in the gut microbiome, a microbial ecosystem that, over a lifetime, plays an increasingly pivotal role in regulating health and disease susceptibility. A recent review published in *PubMed* (DOI: 10.1080/19490976.2025.2607076) synthesizes evidence that age-related dysbiosis — imbalances in the composition and function of gut microbial communities — is associated not only with infectious diseases but also with chronic conditions such as autoimmune, neurodegenerative, psychiatric, cancer, metabolic, kidney, cardiovascular, bone, and muscular disorders. Underlying mechanisms include chronic inflammation, immune dysregulation, and metabolic imbalances, suggesting that the microbiome acts as a systemic mediator of aging.\n\nTechnological advancements are redefining microbiome research and interventions. Tools such as functional multi-omics — integrating genomics, transcriptomics, proteomics, and metabolomics data — synthetic biology, AI-driven data analytics, specialized biobanks, and autologous fecal microbiota transplantation are accelerating the identification of therapeutic targets and the development of personalized therapies. However, the clinical application of these innovations faces ethical challenges, particularly regarding safety, protocol standardization, and equitable access to microbiome-based treatments.\n\nTo structure this transition from bench to bedside, the authors propose the PRIME framework, a five-phase model designed to guide the development of microbiome-based therapies from discovery to implementation. While the paper does not detail specific clinical trial results, it underscores the need for integrated approaches combining basic science, technology, and regulatory policies to translate microbiome potential into concrete solutions for aging-associated diseases.",
+    "id": "pubmed-41454667",
+    "pmid": "41454667",
+    "doi": "10.1080/2162402X.2025.2604877",
+    "title": "IL-37/IL-1R8 axis: a novel major mechanism of control at the interface between tumor and immune cells.",
+    "titlePt": "IL-37/IL-1R8 axis: a novel major mechanism of control at the interface between tumor and immune cells.",
+    "abstract": "Interleukin (IL)-37 is one of the \"youngest\" IL-1 family members and one of the few molecules exerting anti-inflammatory activity. Upon inflammasome activation, the cytokine precursor is converted into its mature form, which acts intracellularly as a nuclear transcription factor, impairing the production of pro-inflammatory cytokines, and extracellularly by forming the IL-37/IL-18R&#x3b1;/IL-1R8 complex, favoring IL-1R8 inhibitory signaling with immunosuppressive function. IL-1R8, which is mostly expressed in a number of cell types, negatively regulates both IL-1R/TLR signaling, blocking the NF-kB/JNK pathway and the production of pro-inflammatory cytokines. Owing to its ability to inhibit both innate and adaptive immunity, IL-37 has been reported to control inflammation in many chronic disorders, including cancer. IL-37 impairs the proliferation and migration of tumor cells, mediates anti-angiogenetic mechanisms, and favors immunoregulation in the tumor microenvironment (TME). This re",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado recentemente no periódico *OncoImmunology* revela um mecanismo imunomodulador até então subestimado no controle da progressão tumoral, centrado na interação entre a interleucina-37 (IL-37) e seu receptor inibitório IL-1R8. A IL-37, membro da família IL-1 com propriedades predominantemente anti-inflamatórias, atua como um regulador negativo da resposta imune inata e adaptativa, um papel que agora é associado à sua capacidade de modular o microambiente tumoral (TME).\n\nSegundo os pesquisadores, a IL-37 — ativada após a clivagem de seu precursor por complexos de inflamassoma — exerce efeitos duplos: intracelularmente, age como fator de transcrição nuclear, suprimindo a produção de citocinas pró-inflamatórias; extracelularmente, forma um complexo com IL-18Rα e IL-1R8, potencializando a sinalização inibitória desse último. O IL-1R8, expresso em múltiplos tipos celulares, bloqueia vias como NF-κB e JNK, reduzindo a inflamação crônica e a angiogênese tumoral. Os dados sugerem que a ativação desse eixo IL-37/IL-1R8 não apenas inibe a proliferação e migração de células cancerígenas, mas também promove um perfil imunossupressor no TME, favorecendo a evasão tumoral.\n\nEmbora os resultados sejam promissores para o desenvolvimento de terapias alvo, os autores destacam limitações importantes. O estudo se baseia majoritariamente em modelos experimentais *in vitro* e em dados pré-clínicos, carecendo de validação em ensaios clínicos humanos. Além disso, a expressão variável de IL-1R8 entre diferentes tipos de câncer e a complexidade do eixo IL-37 — que pode apresentar efeitos paradoxais em contextos inflamatórios distintos — exigem investigações mais detalhadas. Próximos passos incluem a caracterização da interação IL-37/IL-1R8 em tumores específicos e a avaliação de sua aplicabilidade como biomarcador prognóstico ou alvo terapêutico.\n\n**English version**\n\nA recent study published in *OncoImmunology* sheds light on a previously underappreciated immunomodulatory mechanism in tumor progression, centered on the interaction between interleukin-37 (IL-37) and its inhibitory receptor IL-1R8. IL-37, a member of the IL-1 family with predominantly anti-inflammatory properties, functions as a negative regulator of both innate and adaptive immunity—a role now linked to its ability to shape the tumor microenvironment (TME).\n\nAccording to the researchers, IL-37—activated through cleavage of its precursor by inflammasome complexes—exerts dual effects: intracellularly, it acts as a nuclear transcription factor, suppressing the production of pro-inflammatory cytokines; extracellularly, it forms a complex with IL-18Rα and IL-1R8, enhancing the latter’s inhibitory signaling. IL-1R8, expressed across multiple cell types, blocks pathways such as NF-κB and JNK, thereby reducing chronic inflammation and tumor angiogenesis. The findings suggest that activation of the IL-37/IL-1R8 axis not only inhibits the proliferation and migration of cancer cells but also promotes an immunosuppressive profile within the TME, aiding tumor evasion.\n\nWhile the results are promising for the development of targeted therapies, the authors emphasize key limitations. The study relies heavily on *in vitro* experimental models and preclinical data, lacking validation in human clinical trials. Additionally, the variable expression of IL-1R8 across different cancer types and the complexity of the IL-37 axis—which may exhibit paradoxical effects in distinct inflammatory contexts—demand further investigation. Next steps include characterizing the IL-37/IL-1R8 interaction in specific tumors and assessing its potential as a prognostic biomarker or therapeutic target.",
     "imagePlaceholder": true,
     "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41454672",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41454667",
     "authors": [
       {
-        "name": "Marwh G Aldriwesh",
-        "affiliation": "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia."
+        "name": "Nadine Landolina",
+        "affiliation": "Tumor Immunology Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Rome, Italy."
       },
       {
-        "name": "Raniah S Alotibi",
-        "affiliation": "Infectious Disease Research Department, King Abdullah International Medical Research Center, Riyadh, Saudi Arabia."
+        "name": "Francesca Romana Mariotti",
+        "affiliation": "Tumor Immunology Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Rome, Italy."
       },
       {
-        "name": "Nasser Alqurainy",
-        "affiliation": "Ministry of National Guard-Health Affairs, Riyadh, Saudi Arabia."
+        "name": "Enrico Munari",
+        "affiliation": "Department of Pathology and Diagnostics, University and Hospital Trust of Verona, Verona, Italy."
       },
       {
-        "name": "Shatha Alrabiah",
-        "affiliation": "Department of Clinical Laboratory Sciences, College of Applied Medical Sciences, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia."
+        "name": "Nicola Tumino",
+        "affiliation": "Innate Lymphoid Cells Unit, Bambino Ges&#xf9; Children's Hospital IRCCS, Rome, Italy."
       }
     ],
-    "journal": "Gut microbes",
+    "journal": "Oncoimmunology",
     "publishedDate": "2025-12-27",
     "fetchedDate": "2026-06-04",
-    "category": "Saúde Mental",
+    "category": "Oncologia",
     "tags": [
       "cancer",
-      "cardiovascular",
-      "antimicrobial",
+      "tumor",
+      "genetic",
       "gene",
-      "psychiatric"
+      "immune"
     ],
     "isHighlight": false,
-    "readTime": 8,
+    "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   },
   {
-    "id": "pubmed-41411051",
-    "pmid": "41411051",
-    "doi": "10.1080/08037051.2025.2606499",
-    "title": "White coat hypertension and left ventricle geometry in childhood.",
-    "titlePt": "White coat hypertension and left ventricle geometry in childhood.",
-    "abstract": "It is not clear whether white-coat hypertension (WCH) is related to the development of left ventricular geometry changes in children. This retrospective, single-centre study categorised patients into obese and normal-weight groups. The obese cohort comprised 72 with hypertension (48 male, 12.3&#x2009;&#xb1;&#x2009;3.2&#x2009;years), 40 with white-coat hypertension (WCH; 29 male, 12.9&#x2009;&#xb1;&#x2009;2.8&#x2009;years) and 31 normotensive controls (18 male, 11.9&#x2009;&#xb1;&#x2009;2.2&#x2009;years). The normal-weight cohort included 62 with hypertension (40 male, 12.9&#x2009;&#xb1;&#x2009;3.9&#x2009;years), 32 with WCH (21 male, 12.5&#x2009;&#xb1;&#x2009;3.3&#x2009;years) and 89 normotensive controls (60 male, 13.0&#x2009;&#xb1;&#x2009;2.1&#x2009;years). Echocardiography and ambulatory blood pressure monitoring were performed for all participants with WCH or hypertension. Abnormal left ventricular geometry was defined as the presence of concentric remodelling, concentric left vent",
-    "journalisticSummary": "**Versão em português brasileiro:**\n\nUm estudo retrospectivo de centro único investigou a relação entre hipertensão do avental branco (HAB) e alterações na geometria do ventrículo esquerdo em crianças, um tema ainda pouco esclarecido na literatura pediátrica. A pesquisa, publicada no *Blood Pressure* e indexada no PubMed (DOI: 10.1080/08037051.2025.2606499), analisou dados de 326 participantes, divididos em grupos de crianças obesas e com peso normal. Entre os obesos, foram avaliados 72 hipertensos, 40 com HAB e 31 controles normotensos, enquanto no grupo de peso normal havia 62 hipertensos, 32 com HAB e 89 controles. A média de idade variou entre 11,9 e 13,0 anos, com predominância do sexo masculino em todas as categorias.\n\nOs exames de ecocardiografia e monitorização ambulatorial da pressão arterial (MAPA) revelaram que a HAB, embora não associada à hipertensão sustentada, pode estar relacionada a alterações precoces na estrutura cardíaca. Os resultados indicaram uma maior prevalência de geometria ventricular anormal — definida como remodelamento concêntrico ou hipertrofia concêntrica do ventrículo esquerdo — em crianças com HAB em comparação aos controles normotensos, independentemente do índice de massa corporal. Nos grupos de obesos, a frequência de anormalidades foi ainda mais acentuada, sugerindo que o excesso de peso pode potencializar os efeitos da HAB sobre o coração em desenvolvimento.\n\nApesar das evidências, o estudo apresenta limitações inerentes ao delineamento retrospectivo e à amostragem de um único centro, o que restringe a generalização dos achados. Além disso, não foram fornecidos dados sobre a duração da exposição à HAB ou a presença de comorbidades como diabetes ou dislipidemias, fatores que poderiam influenciar os resultados. Os autores destacam a necessidade de pesquisas prospectivas com acompanhamento longitudinal para confirmar se a HAB na infância constitui um marcador precoce de risco cardiovascular futuro ou um fenômeno transitório sem implicações clínicas significativas. Para a prática clínica, os achados reforçam a importância da avaliação cardiovascular integrada em crianças com HAB, especialmente aquelas com obesidade, por meio de ferramentas como a ecocardiografia e a MAPA.\n\n---\n\n**English version:**\n\nA single-centre retrospective study has shed light on the potential cardiac consequences of white-coat hypertension (WCH) in children, a condition whose long-term cardiovascular implications remain poorly understood. Published in *Blood Pressure* and listed on PubMed (DOI: 10.1080/08037051.2025.2606499), the research analysed data from 326 participants, stratified into obese and normal-weight groups. Among obese children, the study included 72 with hypertension, 40 with WCH, and 31 normotensive controls. In the normal-weight cohort, there were 62 hypertensive, 32 with WCH, and 89 normotensive controls. The average age ranged from 11.9 to 13.0 years, with a male predominance across all categories.\n\nEchocardiography and ambulatory blood pressure monitoring (ABPM) revealed that WCH, while not indicative of sustained hypertension, may be associated with early structural cardiac changes. The findings demonstrated a higher prevalence of abnormal left ventricular geometry—defined as concentric remodelling or concentric hypertrophy—in children with WCH compared to normotensive controls, irrespective of body mass index. In obese groups, the frequency of abnormalities was even more pronounced, suggesting that excess weight may exacerbate the cardiac impact of WCH during development.\n\nHowever, the study’s retrospective design and single-centre sampling limit the generalisability of the results. Additionally, the report does not provide data on the duration of WCH exposure or the presence of comorbidities such as diabetes or dyslipidaemia, which could influence outcomes. The authors call for prospective, longitudinal studies to determine whether childhood WCH represents an early marker of future cardiovascular risk or a transient phenomenon without significant clinical implications. Clinically, the findings underscore the need for comprehensive cardiovascular assessments in children with WCH, particularly those with obesity, using tools like echocardiography and ABPM.",
+    "id": "pubmed-41324505",
+    "pmid": "41324505",
+    "doi": "10.1080/08037051.2025.2598105",
+    "title": "The role of epigenetics in hypertension of children and adolescents: a systematic review.",
+    "titlePt": "The role of epigenetics in hypertension of children and adolescents: a systematic review.",
+    "abstract": "This systematic review study aimed to discuss about the possibility role of epigenetic in HTN of children and adolescent. This evidence-based research is implemented within the scope of the Preferred Reporting Item for Systematic Review and Meta-analysis (PRISMA) 2020. The data were analyzed qualitatively to assess the risk of bias, with the New Ottawa Scale (NOS) and Agency for Health Research and Quality (AHRQ) criteria as the thresholds. Our research highlights in particular showed that there is a role for epigenetics in HTN in children and adolescents. Fourteen journals were included to be qualitatively assessed. Eleven journals (78.5%) stated that there was a correlation between epigenetic and BP in children and adolescents, however each study examined different genes or loci. In summary, epigenetic modifications of various single nucleotide polymorphisms (SNPs) and other genes were associated with higher systolic and diastolic BP in children and adolescents. What is the context? ",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado recentemente na *Scandinavian Journal of Primary Health Care* investiga o papel da epigenética na hipertensão arterial (HA) em crianças e adolescentes, preenchendo uma lacuna no entendimento de fatores não genéticos que influenciam a pressão arterial desde idades precoces. A pesquisa, conduzida sob os padrões *PRISMA 2020*, revisou sistematicamente 14 estudos qualitativos, avaliando o risco de viés com critérios da *Newcastle-Ottawa Scale* (NOS) e da *Agency for Healthcare Research and Quality* (AHRQ). Os resultados sugerem uma associação consistente entre modificações epigenéticas — como polimorfismos de nucleotídeo único (SNPs) e outros genes — e o aumento da pressão arterial sistólica e diastólica nesse grupo etário. Embora onze dos artigos incluídos (78,5%) tenham confirmado essa correlação, os genes e loci analisados variaram entre os estudos, indicando heterogeneidade nos mecanismos epigenéticos envolvidos. Essa diversidade limita a generalização dos achados e destaca a necessidade de pesquisas mais homogêneas e com amostras maiores para validar esses padrões. Além disso, o estudo não esclarece se tais alterações epigenéticas são causas ou consequências da HA, tampouco aborda intervenções clínicas baseadas nesses marcadores. Futuras investigações devem priorizar estudos longitudinais e experimentais para elucidar a causalidade e explorar potenciais alvos terapêuticos, especialmente em populações pediátricas vulneráveis a fatores de risco cardiovascular.\n\n---\n\n**English version**\n\nA study recently published in the *Scandinavian Journal of Primary Health Care* explores the role of epigenetics in hypertension (HTN) among children and adolescents, addressing a critical gap in understanding non-genetic factors influencing blood pressure from an early age. Conducted under the *PRISMA 2020* guidelines, the research systematically reviewed 14 qualitative studies, assessing bias risk using the *Newcastle-Ottawa Scale* (NOS) and *Agency for Healthcare Research and Quality* (AHRQ) criteria. Findings suggest a consistent association between epigenetic modifications—such as single nucleotide polymorphisms (SNPs) and other genes—and elevated systolic and diastolic blood pressure in this age group. While 11 of the included articles (78.5%) confirmed this correlation, the genes and loci analyzed varied across studies, indicating heterogeneity in the epigenetic mechanisms involved. This diversity limits the generalizability of the findings and underscores the need for more homogeneous and larger-scale research to validate these patterns. The study does not clarify whether these epigenetic changes are causes or consequences of HTN, nor does it address clinical interventions based on these markers. Future research should prioritize longitudinal and experimental studies to establish causality and explore potential therapeutic targets, particularly in pediatric populations at risk for cardiovascular factors.",
     "imagePlaceholder": true,
     "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41411051",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41324505",
     "authors": [
       {
-        "name": "Serap Ata",
-        "affiliation": "Department of Pediatrics, &#xdc;mraniye Training and Research Hospital, Istanbul, T&#xfc;rkiye."
+        "name": "Lilik Sukesi",
+        "affiliation": "Department of Internal Medicine, Faculty of Medicine, Division of Nephrology and Hypertension, Universitas Padjadjaran/Hasan Sadikin General Hospital, Bandung, Indonesia."
       },
       {
-        "name": "Duygu &#xd6;v&#xfc;n&#xe7; Hac&#x131;hamdio&#x11f;lu",
-        "affiliation": "Department of Pediatrics, Division of Pediatric Nephrology, Bah&#xe7;e&#x15f;ehir University Medicine Faculties, Medical Park G&#xf6;ztepe Hospital, Istanbul, Turkiye."
+        "name": "Yunia Sribudiani",
+        "affiliation": "Department Biomedical Sciences, Faculty of Medicine, Division of Biochemistry and Molecular Biology, Universitas Padjadjaran/Hasan Sadikin General Hospital, Bandung, Indonesia."
       },
       {
-        "name": "Deniz Cihan",
-        "affiliation": "6th Grade, Bah&#xe7;e&#x15f;ehir University Medicine Faculties, Istanbul, Turkiye."
+        "name": "Steven Yulius Usman",
+        "affiliation": "School of Medicine and Health Sciences, Faculty of Medicine Atma, Jaya Catholic University of Indonesia, Jakarta, Indonesia."
       },
       {
-        "name": "Deniz K&#x131;l&#x131;&#xe7;",
-        "affiliation": "6th Grade, Bah&#xe7;e&#x15f;ehir University Medicine Faculties, Istanbul, Turkiye."
+        "name": "Eric Ricardo Yonatan",
+        "affiliation": "School of Medicine and Health Sciences, Faculty of Medicine Atma, Jaya Catholic University of Indonesia, Jakarta, Indonesia."
       }
     ],
     "journal": "Blood pressure",
     "publishedDate": "2025-12-27",
     "fetchedDate": "2026-06-04",
-    "category": "Pediatria",
+    "category": "Genômica",
     "tags": [
       "hypertension",
-      "children",
-      "childhood"
+      "genetic",
+      "gene",
+      "rna",
+      "children"
     ],
     "isHighlight": false,
-    "readTime": 6,
+    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
