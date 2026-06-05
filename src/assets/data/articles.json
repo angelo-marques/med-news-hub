@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-42245650",
+    "pmid": "42245650",
+    "doi": "10.3389/fimmu.2026.1815933",
+    "title": "Long-term immune response to mRNA anti-SARS-CoV-2 vaccination in patients with cancer.",
+    "titlePt": "Long-term immune response to mRNA anti-SARS-CoV-2 vaccination in patients with cancer.",
+    "abstract": "Patients with cancer are at increased risk of morbidity and mortality from COVID-19 but were underrepresented in pivotal vaccine trials. Data on the magnitude and determinants of immune responses to mRNA SARS-CoV-2 vaccination in this population remain limited. I-SPARC is a prospective, phase IV clinical trial evaluating humoral and cellular immune responses to mRNA SARS-CoV-2 vaccination in 115 patients with cancer, including those receiving systemic therapy and those in remission. Anti-Spike antibody titers were measured longitudinally, and immunophenotyping was performed to assess T and B cell subsets. Clinical outcomes, including SARS-CoV-2 infection, were recorded. All patients developed detectable anti-Spike antibodies, although absolute titers varied by cancer type and treatment. Patients with hematologic malignancies and/or receiving chemotherapy had the lowest anti-Spike antibody levels. Booster doses significantly increased titers, particularly in patients in remission or rec",
+    "journalisticSummary": "Um estudo recente publicado na plataforma PubMed investigou a resposta imunológica de longo prazo à vacinação contra o SARS-CoV-2 utilizando mRNA em pacientes com câncer. Essa população é particularmente vulnerável a complicações graves da COVID-19, mas foi representada de forma limitada nos ensaios clínicos iniciais das vacinas. O estudo I-SPARC, uma investigação prospectiva de fase IV, avaliou respostas imunológicas humoral e celular em 115 pacientes com câncer que receberam a vacinação com mRNA. Os resultados mostraram que todos os pacientes desenvolveram anticorpos anti-Spike detectáveis, embora os títulos absolutos variem de acordo com o tipo de câncer e o tratamento em curso. Pacientes com malignidades hematológicas e/ou em tratamento quimioterápico apresentaram os níveis mais baixos de anticorpos anti-Spike. A administração de doses de reforço resultou em um aumento significativo nos títulos, especialmente em pacientes em remissão.\n\nOs achados desse estudo contribuem significativamente para a compreensão da resposta imunológica à vacinação contra o SARS-CoV-2 em pacientes com câncer. O impacto clínico desses resultados é notável, pois sugere que pacientes com câncer podem se beneficiar da vacinação, embora possam requerer ajustes no esquema de vacinação, como doses de reforço, para garantir proteção adequada contra a COVID-19. No entanto, as limitações do estudo incluem a falta de informações detalhadas sobre a duração da proteção imunológica e os efeitos potenciais de diferentes regimes de tratamento do câncer na resposta à vacina. Futuros estudos devem investigar essas questões para otimizar a estratégia de vacinação nessa população vulnerável.\n\nUm estudo recente publicado na plataforma PubMed investigou a resposta imunológica de longo prazo à vacinação contra o SARS-CoV-2 utilizando mRNA em pacientes com câncer. Não foi informado no resumo original quais seriam os próximos passos para essa pesquisa, mas é claro que mais estudos são necessários para entender melhor a resposta imunológica nessa população.\n\nA recent study published on the PubMed platform investigated the long-term immune response to mRNA SARS-CoV-2 vaccination in cancer patients. This population is particularly vulnerable to severe complications from COVID-19 but was underrepresented in the initial vaccine clinical trials. The I-SPARC study, a prospective phase IV investigation, evaluated humoral and cellular immune responses in 115 cancer patients who received mRNA vaccination. The results showed that all patients developed detectable anti-Spike antibodies, although absolute titers varied according to cancer type and ongoing treatment. Patients with hematologic malignancies and/or undergoing chemotherapy had the lowest anti-Spike antibody levels. Booster doses resulted in a significant increase in titers, especially in patients in remission.\n\nThe findings of this study significantly contribute to the understanding of the immune response to SARS-CoV-2 vaccination in cancer patients. The clinical impact of these results is notable, as they suggest that cancer patients may benefit from vaccination, although they may require adjustments to the vaccination schedule, such as booster doses, to ensure adequate protection against COVID-19. However, the study's limitations include the lack of detailed information on the duration of immune protection and the potential effects of different cancer treatment regimens on the vaccine response. Future studies should investigate these questions to optimize the vaccination strategy in this vulnerable population.\n\nThe original abstract did not inform what the next steps for this research would be, but it is clear that more studies are needed to better understand the immune response in this population.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42245650",
+    "authors": [
+      {
+        "name": "Soraia Lobo-Martins",
+        "affiliation": "Academic Trials Promoting Team (ATPT), H&#xf4;pital Universitaire de Bruxelles (H.U.B), Institut Jules Bordet, Universit&#xe9; Libre de Bruxelles (ULB), Brussels,&#xa0;Belgium."
+      },
+      {
+        "name": "Diogo Martins-Branco",
+        "affiliation": "Academic Trials Promoting Team (ATPT), H&#xf4;pital Universitaire de Bruxelles (H.U.B), Institut Jules Bordet, Universit&#xe9; Libre de Bruxelles (ULB), Brussels,&#xa0;Belgium."
+      },
+      {
+        "name": "Francine Padonou",
+        "affiliation": "Molecular Immunology Unit, H&#xf4;pital Universitaire de Bruxelles (H.U.B), Institut Jules Bordet, Universit&#xe9; Libre de Bruxelles (ULB), Brussels,&#xa0;Belgium."
+      },
+      {
+        "name": "Hafid Dahma",
+        "affiliation": "Laboratoire Hospitalier Universitaire de Bruxelles (LHUB-ULB), Universit&#xe9; Libre de Bruxelles (ULB), Brussels,&#xa0;Belgium."
+      }
+    ],
+    "journal": "Frontiers in immunology",
+    "publishedDate": "2026-06-05",
+    "fetchedDate": "2026-06-05",
+    "category": "Infectologia",
+    "tags": [
+      "cancer",
+      "chemotherapy",
+      "infection",
+      "covid",
+      "sars"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42242293",
     "pmid": "42242293",
     "doi": "10.1016/j.jcjo.2026.05.004",
@@ -210,7 +255,7 @@
       "hypertension",
       "diabetes"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12505,46 +12550,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41527423",
-    "pmid": "41527423",
-    "doi": "10.1080/07853890.2026.2612820",
-    "title": "Comparison of the predictive performance of systemic immune-inflammation index and neutrophil-to-lymphocyte ratio for three-month poor functional outcome in ischemic stroke: a systematic review and meta-analysis.",
-    "titlePt": "Comparison of the predictive performance of systemic immune-inflammation index and neutrophil-to-lymphocyte ratio for three-month poor functional outcome in ischemic stroke: a systematic review and meta-analysis.",
-    "abstract": "Ischemic stroke (IS) is a leading cause of global mortality and disability. Early and accurate prognosis is crucial for patient management. The neutrophil-to-lymphocyte ratio (NLR) and systemic immune-inflammation index (SII) are emerging inflammatory biomarkers; however, their relative predictive value for three-month poor functional outcome (modified Rankin Scale [mRS]&#x2009;&gt;&#x2009;2) remains uncertain. We systematically searched PubMed, Embase, Web of Science, and the Cochrane Library up to 20 July 2025, adhering to PRISMA guidelines. Observational studies reporting the association of SII or NLR with three-month poor outcome were included. Study quality was evaluated using the Newcastle-Ottawa Scale. Area under the curve (AUC), odds ratios (OR), and standardized mean differences (SMD) were pooled using random-effects models in Stata 16.0. Twenty-one studies involving 7520 IS patients were analysed. NLR demonstrated marginally superior discriminative ability compared to SII (AU",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41527423",
-    "authors": [
-      {
-        "name": "Xuan Ma",
-        "affiliation": "The Second Clinical Medical School, Lanzhou University, Lanzhou, Gansu, PR China."
-      },
-      {
-        "name": "Yinjuan Zhou",
-        "affiliation": "Department of Neurology, Lanzhou University Second Hospital, Lanzhou, Gansu, PR China."
-      },
-      {
-        "name": "Zhenhua Li",
-        "affiliation": "The Second Clinical Medical School, Lanzhou University, Lanzhou, Gansu, PR China."
-      },
-      {
-        "name": "Guoming Mao",
-        "affiliation": "Department of Neurology, Lanzhou University Second Hospital, Lanzhou, Gansu, PR China."
-      }
-    ],
-    "journal": "Annals of medicine",
-    "publishedDate": "2026-01-13",
-    "fetchedDate": "2026-04-14",
-    "category": "Neurologia",
-    "tags": [
-      "stroke",
-      "immune"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": false
   }
 ]
