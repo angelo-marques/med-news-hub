@@ -1,5 +1,44 @@
 [
   {
+    "id": "pubmed-41429015",
+    "pmid": "41429015",
+    "doi": "10.5435/JAAOS-D-24-01505",
+    "title": "The Impact of Glucagon-Like Peptide-1 Receptor Agonists on Fracture Risk in Overweight or Obese, Nondiabetic Patients.",
+    "titlePt": "The Impact of Glucagon-Like Peptide-1 Receptor Agonists on Fracture Risk in Overweight or Obese, Nondiabetic Patients.",
+    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RA) are prescribed for glycemic control and weight reduction. Little is known regarding the impact of GLP-1RAs on bone health in patients without diabetes. This retrospective case-control study was conducted using data from TriNetX database between 2015 and 2022. The primary objective was to assess fracture risk in overweight and obese patients without diabetes following GLP-1RA use. Patients with an ICD-10 diagnosis of overweight or obesity were included. Patients with diabetes or an increased risk of fragility fractures were excluded. An initial query resulted in 1,155,496 patients with 606,364 available for analysis. This cohort was divided into (1) those with GLP-1RA prescriptions (n = 33,220) and (2) those without GLP-1RA prescriptions (n = 593,748). Propensity matching was done for these groups (n = 33,210 each) at the time of prescription. The primary outcome was fracture diagnosis within 1 year of GLP-1RA prescription. Risk and od",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo de caso-controle, publicado recentemente no *Journal of the American Academy of Orthopaedic Surgeons (JAAOS)*, investigou o impacto dos agonistas do receptor de GLP-1 (GLP-1RA) no risco de fraturas em pacientes com sobrepeso ou obesidade, mas sem diagnóstico de diabetes. A pesquisa, baseada em dados do banco de dados TriNetX entre 2015 e 2022, buscou preencher uma lacuna na literatura sobre os efeitos dessas medicações na saúde óssea em uma população não diabética.\n\nA análise incluiu 606.364 pacientes com sobrepeso ou obesidade, dos quais 33.220 haviam recebido prescrição de GLP-1RA. Após pareamento por propensão, foram comparados dois grupos de 33.210 pacientes cada — um exposto ao tratamento e outro não. O desfecho primário foi o diagnóstico de fratura em até um ano após a prescrição do GLP-1RA. Os resultados indicaram que o uso de GLP-1RA não esteve associado a um aumento significativo no risco de fraturas nessa população (odds ratio não reportado no resumo). Embora o estudo não tenha avaliado mecanismos fisiológicos específicos, os autores destacam que a ausência de associação sugere um perfil de segurança aceitável para a saúde óssea no curto prazo.\n\nEntre as limitações, o delineamento retrospectivo e a dependência de registros eletrônicos podem introduzir vieses de seleção ou subnotificação de eventos. Além disso, o período de acompanhamento de um ano impede conclusões sobre o risco a longo prazo. Os autores sugerem que futuros estudos prospectivos, com avaliações de densidade mineral óssea e marcadores bioquímicos, são necessários para esclarecer possíveis efeitos cumulativos ou mediadores metabólicos.\n\nApesar das incertezas, os achados reforçam a necessidade de monitoramento contínuo em pacientes em uso de GLP-1RA, especialmente aqueles com fatores de risco adicionais para fragilidade óssea não contemplados na análise.\n\n---\n\n**English version**\n\nA retrospective case-control study published in the *Journal of the American Academy of Orthopaedic Surgeons (JAAOS)* examined the impact of glucagon-like peptide-1 receptor agonists (GLP-1RAs) on fracture risk in overweight or obese patients without diabetes. Using data from the TriNetX database between 2015 and 2022, the research addressed a critical gap in understanding the bone health implications of these medications in a non-diabetic population.\n\nThe analysis included 606,364 patients with overweight or obesity, of whom 33,220 had been prescribed GLP-1RAs. After propensity matching, two groups of 33,210 patients each—one exposed to treatment and the other not—were compared. The primary outcome was fracture diagnosis within one year of GLP-1RA prescription. The findings indicated no significant association between GLP-1RA use and increased fracture risk in this population (odds ratio not reported in the abstract). While the study did not evaluate specific physiological mechanisms, the authors emphasize that the absence of an association suggests an acceptable safety profile for bone health in the short term.\n\nLimitations include the retrospective design and reliance on electronic health records, which may introduce selection bias or underreporting of events. Additionally, the one-year follow-up period precludes conclusions about long-term risk. The authors recommend future prospective studies incorporating bone mineral density assessments and biochemical markers to clarify potential cumulative effects or metabolic mediators.\n\nDespite these uncertainties, the findings support the need for ongoing monitoring in patients using GLP-1RAs, particularly those with additional risk factors for bone fragility not accounted for in the analysis.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41429015",
+    "authors": [
+      {
+        "name": "Evangelia Constantine",
+        "affiliation": "From the University of Colorado School of Medicine, Aurora, CO (Constantine, Enthoven, Kahan and Lauder), the Department of Orthopedic Surgery, NYU Langone Health, New York, NY (Pflug), and the Denver Health Medical Center, Denver, CO (Lauder)."
+      },
+      {
+        "name": "Luke Enthoven"
+      },
+      {
+        "name": "Riley Kahan"
+      },
+      {
+        "name": "Emily M Pflug"
+      }
+    ],
+    "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+    "publishedDate": "2026-06-05",
+    "fetchedDate": "2026-06-05",
+    "category": "Endocrinologia",
+    "tags": [
+      "diabetes",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42245650",
     "pmid": "42245650",
     "doi": "10.3389/fimmu.2026.1815933",
@@ -212,7 +251,7 @@
       "pediatric",
       "obesity"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12516,40 +12555,5 @@
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41543272",
-    "pmid": "41543272",
-    "doi": "10.1080/10717544.2026.2614125",
-    "title": "Non-Viral CRISPR carriers: transient delivery with lasting effects.",
-    "titlePt": "Non-Viral CRISPR carriers: transient delivery with lasting effects.",
-    "abstract": "CRISPR-Cas9 has revolutionized the field of genome editing. While conventional gene supplementation therapies and the market of related gene therapy products are dominated by viral vectors, non-viral delivery strategies are increasingly being explored for in vivo CRISPR applications. Given the permanent nature of genome editing, prolonged expression of the CRISPR machinery is not required, and transient delivery nevertheless can achieve lasting therapeutic effects. In contrast, short-term availability of genome editing components is rather considered advantageous to reduce the risk of off-target effects in a 'hit-and-run' fashion. In this article, we provide a systematic survey of the current clinical trial landscape with focus on in vivo CRISPR therapies and discuss utilized delivery strategies. As of December 2025, 136 CRISPR trials are ongoing, including 36 based on in vivo delivery of CRISPR components which show a clear shift towards non-viral vectors. The article describes the cl",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41543272",
-    "authors": [
-      {
-        "name": "Maria Lummerstorfer",
-        "affiliation": "Department of Pharmaceutical Sciences, University of Vienna, Vienna, Austria."
-      },
-      {
-        "name": "Ulrich L&#xe4;chelt",
-        "affiliation": "Vienna Doctoral School of Pharmaceutical, Nutritional and Sport Sciences, University of Vienna, Vienna, Austria."
-      }
-    ],
-    "journal": "Drug delivery",
-    "publishedDate": "2026-01-16",
-    "fetchedDate": "2026-04-14",
-    "category": "Genômica",
-    "tags": [
-      "viral",
-      "crispr",
-      "gene",
-      "clinical trial",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": false
   }
 ]
