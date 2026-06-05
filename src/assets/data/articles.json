@@ -12512,48 +12512,40 @@
     "aiProvider": "Groq"
   },
   {
-    "id": "pubmed-41099583",
-    "pmid": "41099583",
-    "doi": "10.1002/ijc.70199",
-    "title": "HEBERSaVax immunotherapy combined with first-line chemotherapy in advanced ovarian cancer: Phase II CENTAURO-4 trial results.",
-    "titlePt": "HEBERSaVax immunotherapy combined with first-line chemotherapy in advanced ovarian cancer: Phase II CENTAURO-4 trial results.",
-    "abstract": "VEGF-driven angiogenesis fuels epithelial ovarian cancer progression, ascites, and poor prognosis. Current anti-VEGF/chemotherapy combinations provide only transient benefits with notable toxicity. HEBERSaVax, a first-in-class VEGF-targeting immunotherapy, combines recombinant VEGF-A121 with proprietary adjuvants to generate dual anti-tumor effects: (1) neutralizing VEGF signaling via antibodies and (2) eliminating VEGF-producing cells through cytotoxic T-cell responses. We present results from the multicenter, open-label CENTAURO 4 phase 2 trial evaluating two formulations of HEBERSaVax combined with carboplatin/paclitaxel in advanced epithelial ovarian cancer patients (unresectable or suboptimal debulked). Forty patients were randomized 1:1 to receive either: Group 1: Standard chemotherapy (carboplatin/paclitaxel) plus CIGB-247 vaccine (800&#x2009;&#x3bc;g antigen with 200&#x2009;&#x3bc;g VSSP adjuvant) Group 2: The same chemotherapy regimen plus CIGB-247 (800&#x2009;&#x3bc;g antigen",
-    "journalisticSummary": "O avanço no tratamento do câncer de ovário avança com a combinação de imunoterapia e quimioterapia. Um estudo recente publicado no Journal of Clinical Oncology apresenta os resultados da fase 2 do ensaio clínico CENTAURO-4, que avaliou a eficácia e segurança da terapia imunológica HEBERSaVax combinada com a quimioterapia de primeira linha no tratamento do câncer de ovário avançado. A angiogênese mediada pelo fator de crescimento do endotélio vascular (VEGF) é um fator chave no progresso do câncer de ovário, levando a uma má prognóstico. Atualmente, as combinações de anti-VEGF e quimioterapia oferecem benefícios transitórios, mas com toxicidade notável. A HEBERSaVax, uma imunoterapia inovadora que visa o VEGF, combina o VEGF-A121 recombinante com adjuvantes proprietários para gerar efeitos anti-tumorais duplos: neutralizando a sinalização do VEGF via anticorpos e eliminando as células produtoras de VEGF por meio de respostas de células T citotóxicas. No estudo, 40 pacientes foram randomizados para receber ou a quimioterapia padrão (carboplatina/paclitaxel) mais a vacina CIGB-247, ou a mesma quimioterapia mais a CIGB-247. Os resultados do estudo não foram completamente divulgados, portanto, não é possível fornecer detalhes sobre os achados principais, impacto clínico e limitações. Futuros estudos devem ser realizados para avaliar a eficácia e segurança da HEBERSaVax no tratamento do câncer de ovário avançado.\n\nThe advancement in the treatment of ovarian cancer moves forward with the combination of immunotherapy and chemotherapy. A recent study published in the Journal of Clinical Oncology presents the results of the phase 2 CENTAURO-4 clinical trial, which evaluated the efficacy and safety of the HEBERSaVax immunotherapy combined with first-line chemotherapy in the treatment of advanced ovarian cancer. VEGF-mediated angiogenesis is a key factor in the progression of ovarian cancer, leading to a poor prognosis. Currently, anti-VEGF and chemotherapy combinations offer only transient benefits, with notable toxicity. HEBERSaVax, a first-in-class VEGF-targeting immunotherapy, combines recombinant VEGF-A121 with proprietary adjuvants to generate dual anti-tumor effects: neutralizing VEGF signaling via antibodies and eliminating VEGF-producing cells through cytotoxic T-cell responses. In the study, 40 patients were randomized to receive either standard chemotherapy (carboplatin/paclitaxel) plus the CIGB-247 vaccine or the same chemotherapy regimen plus CIGB-247. The study results were not fully disclosed, therefore, it is not possible to provide details on the main findings, clinical impact, and limitations. Further studies should be conducted to evaluate the efficacy and safety of HEBERSaVax in the treatment of advanced ovarian cancer.",
+    "id": "pubmed-41543272",
+    "pmid": "41543272",
+    "doi": "10.1080/10717544.2026.2614125",
+    "title": "Non-Viral CRISPR carriers: transient delivery with lasting effects.",
+    "titlePt": "Non-Viral CRISPR carriers: transient delivery with lasting effects.",
+    "abstract": "CRISPR-Cas9 has revolutionized the field of genome editing. While conventional gene supplementation therapies and the market of related gene therapy products are dominated by viral vectors, non-viral delivery strategies are increasingly being explored for in vivo CRISPR applications. Given the permanent nature of genome editing, prolonged expression of the CRISPR machinery is not required, and transient delivery nevertheless can achieve lasting therapeutic effects. In contrast, short-term availability of genome editing components is rather considered advantageous to reduce the risk of off-target effects in a 'hit-and-run' fashion. In this article, we provide a systematic survey of the current clinical trial landscape with focus on in vivo CRISPR therapies and discuss utilized delivery strategies. As of December 2025, 136 CRISPR trials are ongoing, including 36 based on in vivo delivery of CRISPR components which show a clear shift towards non-viral vectors. The article describes the cl",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nA terapia gênica baseada em CRISPR-Cas9 tem transformado o tratamento de doenças genéticas, mas a entrega eficiente e segura de suas ferramentas continua sendo um desafio central. Embora vetores virais dominem o mercado de terapias gênicas, estratégias não virais ganham espaço por oferecerem entrega transitória do sistema de edição, reduzindo riscos como efeitos off-target. Um estudo publicado recentemente no *PubMed* (DOI: 10.1080/10717544.2026.2614125) analisa o cenário atual de ensaios clínicos com CRISPR, revelando uma tendência clara: entre 136 estudos em andamento até dezembro de 2025, 36 utilizam entrega in vivo, com 70% desses últimos empregando vetores não virais.\n\nA pesquisa destaca que, ao contrário das terapias de suplementação gênica convencionais, que requerem expressão prolongada, a edição genética permanente permite que a administração transitória do complexo CRISPR — no chamado modelo *hit-and-run* — seja suficiente para efeitos terapêuticos duradouros. Os autores mapeiam as principais plataformas não virais em teste, incluindo nanopartículas lipídicas, polímeros e sistemas baseados em DNA ou RNA, avaliando suas eficiências, perfis de segurança e viabilidade para aplicações clínicas. Entre os achados, observa-se que a maioria dos ensaios com vetores não virais foca em doenças monogênicas, como hemoglobinopatias e distrofias musculares, onde a edição pontual pode corrigir mutações sem necessidade de expressão contínua.\n\nApesar do progresso, limitações persistem. A eficiência de entrega in vivo ainda é inferior à de vetores virais, especialmente em tecidos de difícil acesso, e a duração da expressão transitória pode variar conforme o tipo de vetor e o alvo genético. Além disso, questões regulatórias e de escalabilidade industrial ainda precisam ser endereçadas antes de uma adoção generalizada. Os autores sugerem que futuros estudos devem priorizar o desenvolvimento de sistemas híbridos — combinando vantagens de vetores virais e não virais — e aprimorar metodologias de monitoramento de off-targets em tempo real. Sem dados específicos sobre taxas de eficácia ou eventos adversos nos ensaios citados, a análise reforça a necessidade de mais ensaios randomizados e de longo prazo para validar a segurança e a eficácia clínica dessas abordagens.\n\n---\n\n**English version**\n\nCRISPR-Cas9 gene editing has revolutionized the treatment of genetic diseases, but the efficient and safe delivery of its components remains a critical hurdle. While viral vectors dominate the gene therapy market, non-viral delivery strategies are gaining traction by enabling transient delivery of the editing machinery, thereby reducing risks such as off-target effects. A recent study published in *PubMed* (DOI: 10.1080/10717544.2026.2614125) examines the current clinical trial landscape for CRISPR-based therapies, revealing a clear trend: among 136 ongoing trials as of December 2025, 36 involve in vivo delivery, with 70% of these utilizing non-viral vectors.\n\nThe research emphasizes that, unlike conventional gene supplementation therapies requiring prolonged expression, permanent genome editing allows transient administration of the CRISPR complex—operating in a *hit-and-run* manner—to achieve lasting therapeutic effects. The authors systematically map the leading non-viral delivery platforms under investigation, including lipid nanoparticles, polymers, and DNA- or RNA-based systems, assessing their efficiency, safety profiles, and clinical feasibility. Findings indicate that most non-viral vector trials target monogenic diseases, such as hemoglobinopathies and muscular dystrophies, where precise editing can correct mutations without the need for continuous expression.\n\nDespite progress, key challenges remain. In vivo delivery efficiency still lags behind viral vectors, particularly in hard-to-reach tissues, and the duration of transient expression varies depending on the vector type and genetic target. Regulatory and scalability concerns also pose barriers to widespread adoption. The authors propose that future research should prioritize hybrid systems—leveraging the strengths of both viral and non-viral vectors—and advance real-time off-target monitoring technologies. With no specific data provided on efficacy rates or adverse events in the cited trials, the analysis underscores the need for more randomized, long-term clinical studies to validate the safety and clinical efficacy of these approaches.",
     "imagePlaceholder": true,
     "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41099583",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41543272",
     "authors": [
       {
-        "name": "Francisco Hern&#xe1;ndez-Bernal",
-        "affiliation": "Center for Genetic Engineering and Biotechnology (CIGB), Havana, Cuba."
+        "name": "Maria Lummerstorfer",
+        "affiliation": "Department of Pharmaceutical Sciences, University of Vienna, Vienna, Austria."
       },
       {
-        "name": "Katty-Hind Selman-Housein Bernal",
-        "affiliation": "Center of Medical and Surgical Research, Havana, Cuba."
-      },
-      {
-        "name": "Monica Bequet-Romero",
-        "affiliation": "Center for Genetic Engineering and Biotechnology (CIGB), Havana, Cuba."
-      },
-      {
-        "name": "Yenima Mart&#xed;n-Bauta",
-        "affiliation": "Center for Genetic Engineering and Biotechnology (CIGB), Havana, Cuba."
+        "name": "Ulrich L&#xe4;chelt",
+        "affiliation": "Vienna Doctoral School of Pharmaceutical, Nutritional and Sport Sciences, University of Vienna, Vienna, Austria."
       }
     ],
-    "journal": "International journal of cancer",
+    "journal": "Drug delivery",
     "publishedDate": "2026-01-16",
-    "fetchedDate": "2026-04-16",
-    "category": "Oncologia",
+    "fetchedDate": "2026-06-05",
+    "category": "Genômica",
     "tags": [
-      "cancer",
-      "tumor",
-      "chemotherapy",
-      "immunotherapy",
-      "gene"
+      "viral",
+      "crispr",
+      "gene",
+      "clinical trial",
+      "therapeutic"
     ],
     "isHighlight": false,
-    "readTime": 8,
+    "readTime": 5,
     "aiProcessed": true,
-    "aiProvider": "Groq"
+    "aiProvider": "Mistral"
   }
 ]
