@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-41555529",
+    "pmid": "41555529",
+    "doi": "10.1080/22221751.2026.2620222",
+    "title": "Emergence of the novel PA-D27G mutation conferring reduced baloxavir susceptibility in influenza A viruses circulating in China, 2018-2025.",
+    "titlePt": "Emergence of the novel PA-D27G mutation conferring reduced baloxavir susceptibility in influenza A viruses circulating in China, 2018-2025.",
+    "abstract": "Seasonal influenza A viruses evolve rapidly, yet the emergence and molecular basis of resistance to the polymerase acidic (PA) inhibitor baloxavir marboxil (BXM), which is widely used in China, remain elusive. To address this, 3938 PA gene sequences were collected from influenza patients across mainland China between 2018 and 2025, from the national surveillance network and GISAID. By screening post-market mutations in the N-terminal domain of PA (PAN) that appeared in at least two samples and at a frequency below 50%, twenty-five single-point mutations were identified and additionally six linked mutations potentially associated with drug pressure. The impact of these mutations on BXM sensitivity was subsequently evaluated. Our analysis revealed the emergence of known mutations associated with reduced BXM sensitivity, including L28P, K34R, E198&#x2005;K, although their prevalence remained low (2/3850, 0.05%). Notably, we identified a novel substitution, D27G, which conferred an approxi",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Emerging Microbes & Infections* identificou uma nova mutação no vírus influenza A que reduz a eficácia do baloxavir marboxil, um antiviral amplamente utilizado na China. Analisando 3.938 sequências gênicas do vírus influenza A coletadas entre 2018 e 2025 em pacientes chineses, os pesquisadores detectaram 25 mutações pontuais no domínio N-terminal da proteína PA (PAN), além de seis mutações associadas, que surgiram sob pressão seletiva do medicamento. Entre os achados, destacou-se a mutação D27G, até então não descrita, que demonstrou reduzir significativamente a sensibilidade ao baloxavir em testes laboratoriais.\n\nEmbora mutações previamente conhecidas, como L28P, K34R e E198K, tenham sido observadas em baixas frequências (0,05%), a D27G emergiu como um fator de resistência mais relevante, com implicações clínicas ainda não totalmente esclarecidas. Os autores alertam para a necessidade de monitoramento contínuo da circulação viral, visto que a disseminação dessa mutação poderia comprometer a eficácia do tratamento em larga escala. O estudo reforça a importância da vigilância genômica como ferramenta de saúde pública para acompanhar a evolução da resistência antiviral, especialmente em países onde o baloxavir é amplamente prescrito. Limitações incluem a ausência de dados sobre a transmissibilidade da mutação D27G em humanos e a necessidade de estudos clínicos para avaliar seu impacto real no desfecho terapêutico.\n\n---\n\n**English version**\n\nA recent study published in *Emerging Microbes & Infections* has identified a novel mutation in influenza A virus that reduces the effectiveness of baloxavir marboxil, an antiviral widely used in China. By analyzing 3,938 PA gene sequences from influenza patients across mainland China between 2018 and 2025, researchers detected 25 single-point mutations in the N-terminal domain of the PA protein (PAN), along with six linked mutations that emerged under drug pressure. Among the findings, the previously unreported D27G substitution stood out, demonstrating a significant reduction in baloxavir susceptibility in laboratory tests.\n\nWhile previously known mutations such as L28P, K34R, and E198K were observed at low frequencies (0.05%), the D27G mutation emerged as a more relevant resistance factor, with clinical implications yet to be fully understood. The authors emphasize the need for continuous viral surveillance, as the spread of this mutation could compromise treatment efficacy on a large scale. The study underscores the importance of genomic surveillance as a public health tool to track antiviral resistance evolution, particularly in countries where baloxavir is widely prescribed. Limitations include the lack of data on the transmissibility of the D27G mutation in humans and the need for clinical studies to assess its real impact on therapeutic outcomes.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41555529",
+    "authors": [
+      {
+        "name": "Binhuang Sun",
+        "affiliation": "Department of Infectious Diseases, National Medical Center for Infectious Diseases, Huashan Hospital, Fudan University, Shanghai, People's Republic of China."
+      },
+      {
+        "name": "Yulei Sun",
+        "affiliation": "Department of Infectious Diseases, National Medical Center for Infectious Diseases, Huashan Hospital, Fudan University, Shanghai, People's Republic of China."
+      },
+      {
+        "name": "Hongyu Wang",
+        "affiliation": "Shanghai Sci-Tech Inno Center for Infection &amp; Immunity, Institute of Infection and Health, Fudan University, Shanghai, People's Republic of China."
+      },
+      {
+        "name": "Xiaolu Tang",
+        "affiliation": "Department of Infectious Diseases, National Medical Center for Infectious Diseases, Huashan Hospital, Fudan University, Shanghai, People's Republic of China."
+      }
+    ],
+    "journal": "Emerging microbes &amp; infections",
+    "publishedDate": "2026-06-06",
+    "fetchedDate": "2026-06-06",
+    "category": "Genômica",
+    "tags": [
+      "gene",
+      "mutation",
+      "drug"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-41881489",
     "pmid": "41881489",
     "doi": "10.1111/ejh.70173",
@@ -205,7 +248,7 @@
     "tags": [
       "stroke"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12514,48 +12557,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41628871",
-    "pmid": "41628871",
-    "doi": "10.1016/j.jep.2026.121299",
-    "title": "Saffron (Crocus sativus L.): A multi-target phytochemical with potential therapeutic relevance for autism spectrum disorder - A review of pharmacological mechanisms and future perspectives.",
-    "titlePt": "Saffron (Crocus sativus L.): A multi-target phytochemical with potential therapeutic relevance for autism spectrum disorder - A review of pharmacological mechanisms and future perspectives.",
-    "abstract": "Saffron (Crocus sativus L.) has a long history of use in traditional medicine practices across Persia/the Middle East, India, and the Mediterranean region. Traditionally, it has been regarded for its potential to regulate mood, support cognition, and promote sleep. This paper explores saffron's potential applications and mechanisms of action in autism spectrum disorder (ASD) and related comorbidities (such as anxiety, sleep disorders, and cognitive impairments) from an ethnopharmacological perspective. It integrates pharmacological evidence from saffron's primary constituents-crocins, crocetin, picrocrocin, and safranal-emphasizing the convergence of traditional medicinal knowledge with modern scientific evidence. This review aims to systematically evaluate the therapeutic potential of saffron (Crocus sativus L.) and its bioactive constituents (crocins, crocetin, picrocrocin, safranal) in ASD, its comorbid conditions, and related neurodegenerative diseases. The goal is to synthesize cu",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41628871",
-    "authors": [
-      {
-        "name": "Mengzhen Wei",
-        "affiliation": "College of Life Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, China; Key Laboratory of Advanced Materials Technology, Ministry of Education, College of Materials Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, China."
-      },
-      {
-        "name": "Qiong Zhang",
-        "affiliation": "College of Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, 611137, China."
-      },
-      {
-        "name": "Zhigao Zhao",
-        "affiliation": "College of Life Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, China; Key Laboratory of Advanced Materials Technology, Ministry of Education, College of Materials Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, China."
-      },
-      {
-        "name": "Lu Chen",
-        "affiliation": "College of Life Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, China."
-      }
-    ],
-    "journal": "Journal of ethnopharmacology",
-    "publishedDate": "2026-02-11",
-    "fetchedDate": "2026-04-14",
-    "category": "Neurologia",
-    "tags": [
-      "cognitive",
-      "gene",
-      "therapeutic",
-      "anxiety"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": false
   }
 ]
