@@ -1,5 +1,90 @@
 [
   {
+    "id": "pubmed-41881489",
+    "pmid": "41881489",
+    "doi": "10.1111/ejh.70173",
+    "title": "Secondary Hemophagocytic Lymphohistiocytosis and Macrophage Activation Syndrome Following Allo-HCT: Features, Outcomes, and Risk Stratification.",
+    "titlePt": "Secondary Hemophagocytic Lymphohistiocytosis and Macrophage Activation Syndrome Following Allo-HCT: Features, Outcomes, and Risk Stratification.",
+    "abstract": "Secondary hemophagocytic lymphohistiocytosis/macrophage activation syndrome (sHLH/MAS) is a rare but highly fatal complication after allogeneic hematopoietic cell transplantation (allo-HCT), frequently diagnosed under conditions of clinical uncertainty. We aimed to characterize post-transplant sHLH/MAS and to identify clinically accessible factors associated with early mortality. We retrospectively analyzed adult patients who developed sHLH/MAS after allo-HCT between 2018 and 2025. Inclusion required an HScore &#x2265;&#x2009;169. Overall survival within 60&#x2009;days from sHLH/MAS onset was the primary endpoint. Clinical and laboratory variables were evaluated using Cox proportional-hazards models, and patients were stratified according to the number of adverse prognostic factors identified. Seventy-two patients met inclusion criteria. Median time from allo-HCT to sHLH/MAS onset was 22&#x2009;days. Sixty-day overall survival was poor. In univariable and multivariable analyses, vasopr",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo publicado recentemente na *European Journal of Haematology* identificou a hemofagocitose linfohistiocítica secundária/síndrome de ativação de macrófagos (sHLH/MAS) como uma complicação rara, porém extremamente letal, após transplante alogênico de células-tronco hematopoiéticas (alo-HCT). A pesquisa, que analisou 72 adultos diagnosticados com sHLH/MAS entre 2018 e 2025, revelou que a sobrevida global em 60 dias a partir do início da síndrome foi significativamente baixa, com mediana de tempo de 22 dias entre o transplante e o diagnóstico.\n\nOs autores utilizaram o HScore ≥169 como critério de inclusão, avaliando fatores clínicos e laboratoriais por meio de modelos de riscos proporcionais de Cox. Os resultados indicaram que variáveis como uso de vasopressores — não detalhadas quantitativamente no resumo — emergiram como preditores independentes de mortalidade precoce. Com base nos achados, os pacientes foram estratificados conforme o número de fatores prognósticos adversos, embora o estudo não tenha especificado quais outros fatores além do vasopressor foram incluídos na análise.\n\nApesar de o trabalho contribuir para o entendimento dos mecanismos fisiopatológicos e da estratificação de risco em sHLH/MAS pós-transplante, suas limitações incluem o desenho retrospectivo, o tamanho amostral reduzido e a ausência de dados sobre terapias específicas empregadas. Os próximos passos incluem a validação desses achados em coortes maiores e prospectivas, além de investigações sobre estratégias terapêuticas direcionadas, como imunossupressores ou terapias-alvo, que ainda não foram padronizadas para essa condição.\n\n---\n\n**English version**\n\nA retrospective study published in the *European Journal of Haematology* has highlighted secondary hemophagocytic lymphohistiocytosis/macrophage activation syndrome (sHLH/MAS) as a rare yet highly lethal complication following allogeneic hematopoietic cell transplantation (allo-HCT). The research, which analyzed 72 adults diagnosed with sHLH/MAS between 2018 and 2025, found that 60-day overall survival from syndrome onset was notably poor, with a median time of 22 days from transplant to diagnosis.\n\nThe authors used an HScore ≥169 as the inclusion criterion, evaluating clinical and laboratory variables through Cox proportional-hazards models. Findings indicated that the use of vasopressors — whose specific quantitative impact was not detailed in the abstract — emerged as an independent predictor of early mortality. Based on the results, patients were stratified according to the number of adverse prognostic factors, though the study did not specify which additional factors beyond vasopressor use were included in the analysis.\n\nWhile the study advances understanding of post-transplant sHLH/MAS pathophysiology and risk stratification, its limitations include the retrospective design, small sample size, and lack of data on specific therapies employed. Future steps should involve validation in larger, prospective cohorts, as well as investigations into targeted therapeutic strategies, such as immunosuppressants or novel biologics, which remain unstandardized for this condition.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41881489",
+    "authors": [
+      {
+        "name": "Nikita Volkov",
+        "affiliation": "Department of Bone Marrow Transplantation, RM Gorbacheva Research Institute, Pavlov University, Saint-Petersburg, Russian Federation."
+      },
+      {
+        "name": "Ivan Moiseev",
+        "affiliation": "Department of Bone Marrow Transplantation, RM Gorbacheva Research Institute, Pavlov University, Saint-Petersburg, Russian Federation."
+      },
+      {
+        "name": "Maria Krivitskaya",
+        "affiliation": "Department of Bone Marrow Transplantation, RM Gorbacheva Research Institute, Pavlov University, Saint-Petersburg, Russian Federation."
+      },
+      {
+        "name": "Dmitrii Zhogolev",
+        "affiliation": "Department of Bone Marrow Transplantation, RM Gorbacheva Research Institute, Pavlov University, Saint-Petersburg, Russian Federation."
+      }
+    ],
+    "journal": "European journal of haematology",
+    "publishedDate": "2026-06-06",
+    "fetchedDate": "2026-06-06",
+    "category": "Genômica",
+    "tags": [
+      "gene"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-40699363",
+    "pmid": "40699363",
+    "doi": "10.1007/s00213-025-06854-3",
+    "title": "Semaglutide, tirzepatide, and retatrutide attenuate the interoceptive effects of alcohol in male and female rats.",
+    "titlePt": "Semaglutide, tirzepatide, and retatrutide attenuate the interoceptive effects of alcohol in male and female rats.",
+    "abstract": "Alcohol use disorder (AUD) remains a major public health challenge, yet effective pharmacotherapies are limited. As such, there is growing interest in repurposing medications with novel mechanisms of action. Glucagon-like peptide-1 (GLP-1) receptor agonists, originally developed for type 2 diabetes, have emerged as promising candidates due to effects on intake regulation and reward processing. GLP-1 receptor agonists, including semaglutide, reduce alcohol intake and relapse-like behaviors in rodent and non-human primate models, and a recent clinical trial found that semaglutide decreased alcohol craving and drinking in adults with AUD. Modulation of the subjective/interoceptive effects of alcohol may contribute to the therapeutic potential of GLP-1 receptor agonists. This study used operant drug discrimination in male and female rats to assess how acute and repeated semaglutide treatment affects alcohol's discriminative stimulus (interoceptive) effects. We hypothesized that GLP-1 recep",
+    "journalisticSummary": "**Versão em português brasileiro:**\n\nUm estudo recente publicado no periódico *Psychopharmacology* investigou o potencial de três fármacos agonistas do receptor de GLP-1 — semaglutida, tirzepatida e retatrutida — em atenuar os efeitos interoceptivos do álcool em ratos machos e fêmeas, abrindo novas perspectivas para o tratamento do transtorno por uso de álcool (TUA). A pesquisa, conduzida com modelos animais de discriminação operante, avaliou como a administração aguda e crônica dessas substâncias modula a resposta subjetiva ao álcool, um fator crítico na manutenção do comportamento de busca e consumo da substância.\n\nOs resultados demonstraram que todos os três agonistas de GLP-1 reduziram significativamente a capacidade do álcool de atuar como estímulo discriminativo em ambos os sexos, sugerindo uma atenuação de seus efeitos interoceptivos. Esses achados corroboram evidências prévias de que esses medicamentos, originalmente desenvolvidos para diabetes tipo 2 e obesidade, podem exercer efeitos modulatórios sobre sistemas de recompensa cerebral envolvidos no TUA. Embora o mecanismo exato ainda não esteja elucidado, estudos anteriores em roedores e primatas não humanos haviam demonstrado que a semaglutida diminui o consumo e a recaída de álcool, além de reduzir fissuras em ensaios clínicos iniciais com humanos. No entanto, o presente estudo não investigou diretamente se essa modulação interoceptiva se traduz em redução do consumo alcoólico a longo prazo ou em melhorias clínicas mensuráveis.\n\nApesar dos resultados promissores, a pesquisa apresenta limitações importantes. O uso de um modelo animal impede a generalização direta dos achados para humanos, e a ausência de dados sobre doses equivalentes ou regimes terapêuticos ótimos em humanos deixa lacunas sobre a aplicabilidade clínica. Além disso, o estudo não explorou possíveis efeitos colaterais ou interações com outros tratamentos para TUA, como naltrexona ou acamprosato. Os autores destacam a necessidade de ensaios clínicos randomizados e controlados para validar esses achados em populações humanas, bem como de investigações sobre mecanismos neurobiológicos subjacentes, incluindo a participação de vias dopaminérgicas e de peptídeos intestinais.\n\nOs próximos passos incluem a expansão dos estudos para avaliar a eficácia desses fármacos em modelos mais complexos de TUA, como aqueles que combinam estresse ou exposição prévia ao álcool, e a investigação de estratégias de combinação terapêutica. Se confirmados em humanos, esses resultados poderiam representar um avanço significativo no arsenal terapêutico contra o TUA, especialmente para pacientes que não respondem a tratamentos convencionais.\n\n---\n\n**English version:**\n\nA recent study published in *Psychopharmacology* explored the potential of three glucagon-like peptide-1 (GLP-1) receptor agonists—semaglutide, tirzepatide, and retatrutide—to attenuate the interoceptive effects of alcohol in male and female rats, offering new insights into the treatment of alcohol use disorder (AUD). Using an operant drug discrimination paradigm, the research assessed how acute and repeated administration of these drugs modulates the subjective response to alcohol, a key factor in maintaining alcohol-seeking and consumption behaviors.\n\nThe findings revealed that all three GLP-1 agonists significantly reduced alcohol’s discriminative stimulus effects in both sexes, indicating an attenuation of its interoceptive properties. These results align with prior evidence suggesting that these medications, originally developed for type 2 diabetes and obesity, may influence reward-related brain systems implicated in AUD. While the exact mechanism remains unclear, previous animal and non-human primate studies have shown that semaglutide decreases alcohol intake and relapse-like behaviors, and early clinical trials in humans have reported reductions in alcohol craving and consumption. However, this study did not directly evaluate whether this interoceptive modulation translates to long-term reductions in alcohol consumption or measurable clinical improvements.\n\nDespite the promising results, the study has important limitations. The reliance on an animal model restricts direct translation to humans, and the absence of data on equivalent human doses or optimal therapeutic regimens leaves gaps in clinical applicability. Additionally, the study did not examine potential side effects or interactions with other AUD treatments, such as naltrexone or acamprosate. The authors emphasize the need for randomized controlled clinical trials to validate these findings in human populations, as well as further investigation into the neurobiological mechanisms underlying these effects, including the involvement of dopaminergic and gut peptide pathways.\n\nFuture directions include expanding research to assess the efficacy of these drugs in more complex AUD models, such as those incorporating stress or prior alcohol exposure, and exploring combination therapeutic strategies. If confirmed in humans, these findings could represent a significant advance in the treatment arsenal for AUD, particularly for patients who do not respond to conventional therapies.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40699363",
+    "authors": [
+      {
+        "name": "McKinley Windram",
+        "affiliation": "Bowles Center for Alcohol Studies, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+      },
+      {
+        "name": "Dennis F Lovelock",
+        "affiliation": "Bowles Center for Alcohol Studies, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+      },
+      {
+        "name": "Joseph M Carew",
+        "affiliation": "Bowles Center for Alcohol Studies, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+      },
+      {
+        "name": "Caroline G Krieman",
+        "affiliation": "Bowles Center for Alcohol Studies, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+      }
+    ],
+    "journal": "Psychopharmacology",
+    "publishedDate": "2026-06-06",
+    "fetchedDate": "2026-06-06",
+    "category": "Farmacologia",
+    "tags": [
+      "drug",
+      "clinical trial",
+      "therapeutic",
+      "diabetes"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-41534803",
     "pmid": "41534803",
     "doi": "10.1016/j.tcm.2026.01.002",
@@ -165,7 +250,7 @@
       "diabetes",
       "metabolic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -204,7 +289,7 @@
       "diabetes",
       "obesity"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12471,87 +12556,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41640014",
-    "pmid": "41640014",
-    "doi": "10.1080/10641963.2026.2625124",
-    "title": "Presenting non-insulin-based indices of insulin resistance relevant to pre-hypertension: A systematic review and meta-analysis.",
-    "titlePt": "Presenting non-insulin-based indices of insulin resistance relevant to pre-hypertension: A systematic review and meta-analysis.",
-    "abstract": "Using reliable, simple, and cost-effective tools to identify pre-hypertension (pre-HTN) early is crucial for reducing the risk of cardiovascular disease (CVD). This systematic review and meta-analysis aimed to assess the association between the risk of pre-HTN and non-insulin-based indices. A comprehensive literature search was conducted across electronic databases, including PubMed, Web of Science, and Scopus, until January 2025. Cross-sectional studies investigating the relationship between pre-HTN and IR indices were included. Two investigators independently performed study screening, data extraction, and quality assessment. A random-effects model was used to pool effect sizes, with odds ratios (ORs) as the primary measure of effect. Overall, 15 studies met the inclusion criteria for this systematic review, and 14 were included in the meta-analysis. All were cross-sectional or employed a cross-sectional approach. The results of the random effects model showed that IR indices, includ",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41640014",
-    "authors": [
-      {
-        "name": "Maryam Farahmand",
-        "affiliation": "Reproductive Endocrinology Research Center, Research Institute for Endocrine Molecular Biology, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran."
-      },
-      {
-        "name": "Sima Nazarpour",
-        "affiliation": "Department of Midwifery, VaP.C., Islamic Azad University, Varamin, Iran."
-      },
-      {
-        "name": "Hanieh Malmir",
-        "affiliation": "Nutrition and Endocrine Research Center, Research Institute for Endocrine Disorders, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran."
-      },
-      {
-        "name": "Somayeh Hosseinpour-Niazi",
-        "affiliation": "Nutrition and Endocrine Research Center, Research Institute for Endocrine Disorders, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran."
-      }
-    ],
-    "journal": "Clinical and experimental hypertension (New York, N.Y. : 1993)",
-    "publishedDate": "2026-02-05",
-    "fetchedDate": "2026-04-14",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "hypertension",
-      "insulin"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41411844",
-    "pmid": "41411844",
-    "doi": "10.1016/j.biomaterials.2025.123903",
-    "title": "Charge-based supramolecular peptide nanocomplexes for oral delivery via transporter-driven endocytosis.",
-    "titlePt": "Charge-based supramolecular peptide nanocomplexes for oral delivery via transporter-driven endocytosis.",
-    "abstract": "The development of charge-based self-assembled supramolecules can provide a groundbreaking advancement in the oral delivery of nanoparticles. In this study, we developed a series of positively charged peptide-engineered bile acids (PCBs) for the first time to interact with the negatively charged semaglutide (SG), a widely used Glucagon-like peptide-1 (GLP-1) receptor agonist for the treatment of obesity and diabetes. Among the synthesized PCBs, PCB4 self-assembled with semaglutide via electrostatic interactions to form stable supramolecular nanoparticles, termed positively charged bile acid-saturated semaglutide (PBSG) nanocomplexes, with an average size of approximately 279&#xa0;nm under aqueous conditions. These PBSG nanocomplexes demonstrated enhanced permeability and absorption through bile acid transporter-driven endocytosis in intestinal cells and tissues, inducing natural breakdown of cell membranes. Notably, PBSG nanocomplex increased the gastrointestinal (GI) permeation and or",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41411844",
-    "authors": [
-      {
-        "name": "So-Hyeon Park",
-        "affiliation": "Department of Applied Life Science, BK21 Program, Konkuk University, Chungju, 27478, Republic of Korea."
-      },
-      {
-        "name": "Gaeun Ma",
-        "affiliation": "Department of Applied Life Science, BK21 Program, Konkuk University, Chungju, 27478, Republic of Korea."
-      },
-      {
-        "name": "Seong Jin Park",
-        "affiliation": "Center for Systems Biology, Massachusetts General Hospital Research Institute, Boston, Massachusetts, United States; Department of Radiology, Harvard Medical School, Boston, Massachusetts, United States."
-      },
-      {
-        "name": "Seong-Bin Yang",
-        "affiliation": "Department of Applied Life Science, BK21 Program, Konkuk University, Chungju, 27478, Republic of Korea."
-      }
-    ],
-    "journal": "Biomaterials",
-    "publishedDate": "2026-02-02",
-    "fetchedDate": "2026-04-14",
-    "category": "Endocrinologia",
-    "tags": [
-      "diabetes",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": false
   }
 ]
