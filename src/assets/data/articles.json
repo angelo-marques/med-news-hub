@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-41527354",
+    "pmid": "41527354",
+    "doi": "10.1111/obr.70091",
+    "title": "Effect of Clinically Significant Weight Loss on Remission of Metabolic Complications: A Rapid Review and Meta-Analysis of Comparative Controlled Studies.",
+    "titlePt": "Effect of Clinically Significant Weight Loss on Remission of Metabolic Complications: A Rapid Review and Meta-Analysis of Comparative Controlled Studies.",
+    "abstract": "The strength of the association between achieving clinically significant weight loss and remission of metabolic complications remains unclear. This rapid review aimed to investigate the effect of weight loss on remission of metabolic risk factors. We searched Embase, Medline, Web of Science, and Google Scholar databases (up to June 2025) for studies comparing the effects of &#x2265;&#x2009;5% versus &lt;&#x2009;5% total weight loss (%TWL) for at least 12&#x2009;months. Mean differences (MD) and risk ratios (RR) with 95% confidence intervals (95% CI) were calculated for the meta-analysis. A total of 43 comparative studies were reviewed. Compared to &lt;&#x2009;5%TWL, &#x2265;&#x2009;5%TWL had a higher RR of type 2 diabetes remission (RR&#x2009;=&#x2009;7.88: 95% CI&#x2009;=&#x2009;5.00, 12.43; I2&#x2009;=&#x2009;75.2%), hypertension remission (RR&#x2009;=&#x2009;2.23: 95% CI&#x2009;=&#x2009;1.06,4.68; I2&#x2009;=&#x2009;70.5%), and metabolic syndrome remission (RR&#x2009;=&#x2009;5.61: ",
+    "journalisticSummary": "Uma meta-análise recente publicada na *Obesity Reviews* (DOI: 10.1111/obr.70091) reforça a relação entre perda de peso clinicamente significativa (≥5% do peso corporal) e a remissão de complicações metabólicas, como diabetes tipo 2, hipertensão e síndrome metabólica. O estudo, que revisou 43 pesquisas comparativas com acompanhamento mínimo de 12 meses, identificou que indivíduos que atingiram pelo menos 5% de redução ponderal apresentaram chances significativamente maiores de alcançar remissão dessas condições. Para diabetes tipo 2, o risco relativo (RR) foi de 7,88 (IC 95%: 5,00–12,43; I²=75,2%), enquanto para hipertensão e síndrome metabólica, os RRs foram de 2,23 (IC 95%: 1,06–4,68; I²=70,5%) e 5,61, respectivamente.\n\nOs resultados sugerem que uma perda de peso modesta, mas sustentada, pode ter impacto clínico relevante na redução da carga de doenças metabólicas, especialmente em populações com obesidade. No entanto, a heterogeneidade entre os estudos (I² elevado) indica variabilidade nos protocolos de intervenção e na definição de remissão, o que limita a generalização dos achados. Além disso, não foi informado no resumo se a análise considerou fatores como tipo de intervenção (dietética, farmacológica ou cirúrgica) ou presença de comorbidades prévias.\n\nComo próximos passos, os autores destacam a necessidade de estudos longitudinais com amostras mais homogêneas e critérios padronizados de remissão para validar esses achados. A integração de estratégias de perda de peso em protocolos clínicos de doenças metabólicas poderia ser uma abordagem custo-efetiva, mas requer evidências mais robustas para orientar diretrizes específicas.\n\n---\n\nA recent meta-analysis published in *Obesity Reviews* (DOI: 10.1111/obr.70091) provides robust evidence linking clinically significant weight loss (≥5% of body weight) to the remission of metabolic complications, including type 2 diabetes, hypertension, and metabolic syndrome. The rapid review analyzed 43 comparative studies with a minimum follow-up of 12 months, finding that individuals achieving at least 5% weight loss had significantly higher odds of remission for these conditions. For type 2 diabetes, the relative risk (RR) was 7.88 (95% CI: 5.00–12.43; I²=75.2%), while for hypertension and metabolic syndrome, the RRs were 2.23 (95% CI: 1.06–4.68; I²=70.5%) and 5.61, respectively.\n\nThe findings underscore the clinical potential of modest, sustained weight reduction in mitigating the burden of metabolic diseases, particularly in populations with obesity. However, the high heterogeneity (I² values) across studies reflects variability in intervention protocols and remission definitions, complicating the generalizability of results. Notably, the abstract does not specify whether the analysis accounted for factors such as intervention type (dietary, pharmacological, or surgical) or pre-existing comorbidities.\n\nMoving forward, the authors emphasize the need for longitudinal studies with more homogeneous samples and standardized remission criteria to validate these findings. Incorporating weight loss strategies into clinical pathways for metabolic diseases could offer cost-effective benefits, though stronger evidence is required to inform tailored guidelines.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41527354",
+    "authors": [
+      {
+        "name": "Srividya Adapa",
+        "affiliation": "School of Health Sciences, Western Sydney University, Campbelltown, New South Wales, Australia."
+      },
+      {
+        "name": "Paul Fahey",
+        "affiliation": "School of Health Sciences, Western Sydney University, Campbelltown, New South Wales, Australia."
+      },
+      {
+        "name": "Milan Piya",
+        "affiliation": "School of Medicine, Western Sydney University, Campbelltown, New South Wales, Australia."
+      },
+      {
+        "name": "Frehiwot Birhanu",
+        "affiliation": "Campbelltown and Camden Hospitals, Campbelltown, New South Wales, Australia."
+      }
+    ],
+    "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+    "publishedDate": "2026-06-08",
+    "fetchedDate": "2026-06-09",
+    "category": "Endocrinologia",
+    "tags": [
+      "hypertension",
+      "diabetes",
+      "metabolic"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42237969",
     "pmid": "42237969",
     "doi": "10.15537/1658-3175.1061",
@@ -190,7 +233,7 @@
       "diabetes",
       "obesity"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12502,49 +12545,5 @@
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Legacy/nao-rastreado"
-  },
-  {
-    "id": "pubmed-40577556",
-    "pmid": "40577556",
-    "doi": "10.1080/02813432.2025.2525423",
-    "title": "A randomized controlled trial comparing sleep hygiene advice with a self-help book focusing on cognitive behavioral therapy for insomnia: a study among patients with prescribed hypnotics from the GP.",
-    "titlePt": "A randomized controlled trial comparing sleep hygiene advice with a self-help book focusing on cognitive behavioral therapy for insomnia: a study among patients with prescribed hypnotics from the GP.",
-    "abstract": "Chronic insomnia is commonly treated with hypnotics. However, the treatment of choice is cognitive behavioral therapy for insomnia (CBTi). We investigated whether a self-help book based on CBTi is effective in reducing hypnotic use and improving sleep. Patients who had received a prescription from their GP for z-hypnotics (zopiclone or zolpidem) in the last 6&#x2009;months were recruited through PraksisNett, an infrastructure within General Practice, for a randomized controlled trial comparing written materials in form of a sheet of sleep hygiene advice and a self-help book. The participants completed an online questionnaire about hypnotic use, insomnia symptoms, sleep duration, anxiety and depression before the intervention and at 4-5&#x2009;months follow-up. In total, 125 patients (response rate 72.7%) completed the follow-up questionnaire. Interaction analyses indicated effects favoring the self-help book for hypnotic use and anxiety. The book reduced the proportion using hypnotics ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm ensaio clínico randomizado recentemente publicado no *Scandinavian Journal of Primary Health Care* avaliou a eficácia de um livro de autoajuda baseado na terapia cognitivo-comportamental para insônia (CBTi) na redução do uso de hipnóticos entre pacientes com prescrição médica recente. O estudo, conduzido por pesquisadores noruegueses e recrutando participantes por meio da plataforma PraksisNett — uma infraestrutura de atenção primária — comparou o impacto de um material de sono higiênico convencional com o livro de autoajuda CBTi em 125 pacientes que haviam recebido prescrição de z-hipnóticos (zopiclona ou zolpidem) nos últimos seis meses.\n\nOs resultados, coletados por meio de questionário online antes e quatro a cinco meses após a intervenção, indicaram que o livro de autoajuda foi mais eficaz na redução do uso de hipnóticos e no controle da ansiedade. Embora os dados não tenham sido detalhados no resumo, a análise de interação demonstrou uma tendência clara a favor da intervenção baseada em CBTi. A taxa de resposta ao follow-up foi de 72,7%, o que reforça a robustez dos achados dentro do contexto de atenção primária. Os autores destacam que, apesar da eficácia comprovada da CBTi, seu acesso permanece limitado na prática clínica, sugerindo que abordagens de baixo custo e autoguiadas podem representar uma alternativa viável para reduzir a dependência de medicamentos.\n\nEntre as limitações do estudo, destaca-se a ausência de informações sobre a gravidade inicial da insônia, a adesão dos participantes ao material fornecido e possíveis vieses de autosseleção. Além disso, não foram relatados dados sobre eventos adversos ou a qualidade do sono dos participantes ao longo do tempo. Os próximos passos incluem avaliar a manutenção dos benefícios em longo prazo e explorar estratégias para integrar a CBTi de forma mais ampla nos cuidados primários de saúde.\n\n---\n\n**English version**\n\nA randomized controlled trial recently published in the *Scandinavian Journal of Primary Health Care* assessed the effectiveness of a self-help book based on cognitive behavioral therapy for insomnia (CBTi) in reducing hypnotic use among patients with recent medical prescriptions. Conducted by Norwegian researchers and recruiting participants via PraksisNett—a primary care infrastructure—the study compared conventional sleep hygiene materials with the CBTi self-help book in 125 patients who had been prescribed z-hypnotics (zopiclone or zolpidem) in the past six months.\n\nResults, collected through an online questionnaire before and four to five months after the intervention, showed that the self-help book was more effective in reducing hypnotic use and managing anxiety. While specific data were not detailed in the abstract, interaction analysis revealed a clear trend favoring the CBTi-based intervention. The follow-up response rate was 72.7%, reinforcing the robustness of findings within primary care settings. The authors emphasize that despite CBTi’s proven efficacy, access remains limited in clinical practice, suggesting that low-cost, self-guided approaches could offer a viable alternative to reduce medication dependence.\n\nKey limitations include the lack of data on initial insomnia severity, participant adherence to the materials, and potential self-selection bias. Additionally, no information was reported on adverse events or sleep quality over time. Future research should evaluate long-term maintenance of benefits and explore strategies to integrate CBTi more widely into primary healthcare.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40577556",
-    "authors": [
-      {
-        "name": "Bj&#xf8;rn Bjorvatn",
-        "affiliation": "Department of Global Public Health and Primary Care, University of Bergen, Bergen, Norway."
-      },
-      {
-        "name": "Ragnhild Stokke Lundetr&#xe6;",
-        "affiliation": "Norwegian Competence Center for Sleep Disorders, Haukeland University Hospital, Bergen, Norway."
-      },
-      {
-        "name": "&#xd8;ystein Vedaa",
-        "affiliation": "Department of Global Public Health and Primary Care, University of Bergen, Bergen, Norway."
-      },
-      {
-        "name": "St&#xe5;le Pallesen",
-        "affiliation": "Department of Health Promotion, Norwegian Institute of Public Health, Bergen, Norway."
-      }
-    ],
-    "journal": "Scandinavian journal of primary health care",
-    "publishedDate": "2026-02-18",
-    "fetchedDate": "2026-06-09",
-    "category": "Saúde Mental",
-    "tags": [
-      "cognitive",
-      "gene",
-      "depression",
-      "anxiety"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
