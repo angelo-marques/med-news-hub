@@ -126,6 +126,48 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-41730003",
+    "pmid": "41730003",
+    "doi": "10.1080/13696998.2026.2633930",
+    "title": "Economic evaluation of perioperative pembrolizumab plus standard of care as treatment for resectable locally advanced head and neck squamous cell carcinoma in the United States.",
+    "titlePt": "Economic evaluation of perioperative pembrolizumab plus standard of care as treatment for resectable locally advanced head and neck squamous cell carcinoma in the United States.",
+    "abstract": "In the phase 3 KEYNOTE-689 trial (NCT03765918) among patients with resectable locally advanced head and neck squamous cell carcinoma (LA HNSCC), perioperative pembrolizumab (pembrolizumab before surgery, then continued with standard-of-care [SOC] radiotherapy +/- cisplatin after surgery followed by pembrolizumab alone) significantly prolonged event-free survival vs. SOC alone, both in the intention-to-treat population and PD-L1 combined positive score (CPS) &#x2265;1 subgroup. Perioperative pembrolizumab&#x2009;+&#x2009;SOC received Food and Drug Administration approval in June 2025 for resectable LA HNSCC expressing PD-L1 (CPS &#x2265; 1). The present study evaluated the cost-effectiveness of perioperative pembrolizumab&#x2009;+&#x2009;SOC versus SOC in this indication, from a US healthcare payer perspective. A Markov cohort model with four states (event-free, local recurrence, incurable recurrence/progression, death) was developed to estimate lifetime costs, life years (LYs), and qua",
+    "journalisticSummary": "Um estudo recente publicado no PubMed avaliou a eficácia econômica do tratamento perioperatório com pembrolizumab mais cuidados padrão para carcinoma de células escamosas de cabeça e pescoço localmente avançado (LA HNSCC) resecável nos Estados Unidos. O ensaio clínico de fase 3 KEYNOTE-689 demonstrou que o pembrolizumab administrado antes da cirurgia e continuado após a operação, combinado com radioterapia e possivelmente cisplatina, prolongou significativamente a sobrevida livre de eventos em comparação com o cuidado padrão apenas. Esses resultados foram observados tanto na população de intenção de tratar quanto no subgrupo com escore de pontuação combinada de PD-L1 (CPS) ≥ 1.\n\nO pembrolizumab perioperatório mais cuidados padrão recebeu aprovação da Administração de Alimentos e Medicamentos (FDA) em junho de 2025 para o tratamento de LA HNSCC resecável que expressa PD-L1 (CPS ≥ 1). O presente estudo utilizou um modelo de coorte de Markov com quatro estados para estimar os custos ao longo da vida, anos de vida (LYs) e qualidade de vida ajustada por anos de vida (QALYs) do tratamento perioperatório com pembrolizumab mais cuidados padrão em comparação com os cuidados padrão apenas, sob a perspectiva do pagador de saúde nos Estados Unidos. No entanto, não foram fornecidos detalhes sobre os principais achados em termos de custo-efetividade, o que limita a interpretação dos resultados.\n\nOs resultados desse estudo devem ser interpretados com cautela, considerando as limitações do modelo utilizado e a necessidade de mais pesquisas para confirmar a eficácia econômica do pembrolizumab perioperatório mais cuidados padrão nesse contexto. Além disso, é fundamental considerar as implicações clínicas e os próximos passos para a implementação desse tratamento em diferentes cenários de saúde.\n\nA avaliação econômica desse tratamento é crucial para entender seu impacto no sistema de saúde e para tomar decisões informadas sobre a alocação de recursos. No entanto, sem os dados específicos sobre o custo-efetividade, é difícil determinar se o pembrolizumab perioperatório mais cuidados padrão é uma opção viável e sustentável para o tratamento de LA HNSCC resecável. Mais pesquisas são necessárias para fornecer insights mais detalhados sobre a eficácia econômica desse tratamento e para guiar as decisões clínicas e de política de saúde.\n\nUm estudo recente publicado no PubMed avaliou a eficácia econômica do tratamento perioperatório com pembrolizumab mais cuidados padrão para carcinoma de células escamosas de cabeça e pescoço localmente avançado resecável nos Estados Unidos, mas não forneceu detalhes suficientes sobre os achados principais em termos de custo-efetividade. Mais pesquisas são necessárias para confirmar a eficácia econômica desse tratamento e guiar as decisões clínicas e de política de saúde.\n\nA recent study published in PubMed evaluated the economic effectiveness of perioperative pembrolizumab plus standard of care for resectable locally advanced head and neck squamous cell carcinoma (LA HNSCC) in the United States. The phase 3 KEYNOTE-689 trial demonstrated that pembrolizumab administered before surgery and continued after the operation, combined with radiotherapy and possibly cisplatin, significantly prolonged event-free survival compared to standard of care alone. These results were observed in both the intention-to-treat population and the subgroup with a PD-L1 combined positive score (CPS) ≥ 1.\n\nPerioperative pembrolizumab plus standard of care received FDA approval in June 2025 for the treatment of resectable LA HNSCC expressing PD-L1 (CPS ≥ 1). The present study used a Markov cohort model with four states to estimate lifetime costs, life years (LYs), and quality-adjusted life years (QALYs) of perioperative pembrolizumab plus standard of care compared to standard of care alone, from a US healthcare payer perspective. However, the main findings regarding cost-effectiveness were not provided, which limits the interpretation of the results.\n\nThe results of this study should be interpreted with caution, considering the limitations of the model used and the need for further research to confirm the economic effectiveness of perioperative pembrolizumab plus standard of care in this context. Additionally, it is essential to consider the clinical implications and next steps for the implementation of this treatment in different healthcare settings.\n\nThe economic evaluation of this treatment is crucial to understand its impact on the healthcare system and to make informed decisions about resource allocation. However, without specific data on cost-effectiveness, it is difficult to determine whether perioperative pembrolizumab plus standard of care is a viable and sustainable option for the treatment of resectable LA HNSCC. Further research is needed to provide more detailed insights into the economic effectiveness of this treatment and to guide clinical and healthcare policy decisions.\n\nA recent study published in PubMed evaluated the economic effectiveness of perioperative pembrolizumab plus standard of care for resectable locally advanced head and neck squamous cell carcinoma in the United States, but did not provide sufficient details about the main findings regarding cost-effectiveness. Further research is needed to confirm the economic effectiveness of this treatment and to guide clinical and healthcare policy decisions.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41730003",
+    "authors": [
+      {
+        "name": "Feng Qian",
+        "affiliation": "Merck &amp; Co., Inc., Rahway, NJ, USA."
+      },
+      {
+        "name": "Arielle G Bensimon",
+        "affiliation": "Analysis Group, Inc, Boston, MA, USA."
+      },
+      {
+        "name": "Anjela Tzontcheva",
+        "affiliation": "Merck &amp; Co., Inc., Rahway, NJ, USA."
+      },
+      {
+        "name": "Kimberly Benjamin",
+        "affiliation": "Merck &amp; Co., Inc., Rahway, NJ, USA."
+      }
+    ],
+    "journal": "Journal of medical economics",
+    "publishedDate": "2026-06-08",
+    "fetchedDate": "2026-06-10",
+    "category": "Oncologia",
+    "tags": [
+      "carcinoma",
+      "drug"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41527354",
     "pmid": "41527354",
     "doi": "10.1111/obr.70091",
@@ -195,7 +237,7 @@
       "diabetes",
       "insulin"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12517,43 +12559,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41732846",
-    "pmid": "41732846",
-    "doi": "10.1080/07853890.2026.2634484",
-    "title": "Ezetimibe alone for over 75 years old as a primary prevention to decrease cardiovascular events.",
-    "titlePt": "Ezetimibe alone for over 75 years old as a primary prevention to decrease cardiovascular events.",
-    "abstract": "The EWTOPIA 75 (Ezetimibe Lipid-Lowering Trial on Prevention of Atherosclerotic Cardiovascular Disease in 75 or Older) study supports the reduction in the risk of atherosclerotic cardiovascular disease (ASCVD) events with ezetimibe without statin therapy in persons aged &#x2265;75&#x2009;years without a history of coronary artery disease. This evidence has also been incorporated into the 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. What might then be the potential explanations for the observed benefit of ezetimibe to prevent ASCVD in the EWTOPIA 75 study? First, cholesterol absorption efficiency generally increases with age. Therefore, cholesterol absorption-lowering medications, such as ezetimibe, are particularly beneficial in individuals aged 75&#x2009;years and older, in whom low cholesterol absorption has been associated with fewer recurrent ASCVD events. It is also worth noting that ezetimibe may be more effective than a particular stat",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41732846",
-    "authors": [
-      {
-        "name": "Alpo Vuorio",
-        "affiliation": "Mehil&#xe4;inen, Aviapolis Health Center, Vantaa, Finland."
-      },
-      {
-        "name": "Petri T Kovanen",
-        "affiliation": "Department of Forensic Medicine, University of Helsinki, Helsinki, Finland."
-      },
-      {
-        "name": "Timo Strandberg",
-        "affiliation": "Wihuri Research Institute, Helsinki, Finland."
-      }
-    ],
-    "journal": "Annals of medicine",
-    "publishedDate": "2026-02-24",
-    "fetchedDate": "2026-04-14",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "coronary",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": false
   }
 ]
