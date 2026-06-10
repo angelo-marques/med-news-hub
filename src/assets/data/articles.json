@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42265882",
+    "pmid": "42265882",
+    "doi": "10.1111/head.70114",
+    "title": "The pharmacology of gepants in migraine: A scoping review on mechanisms, clinical applications, and combination strategies.",
+    "titlePt": "The pharmacology of gepants in migraine: A scoping review on mechanisms, clinical applications, and combination strategies.",
+    "abstract": "Calcitonin gene-related peptide (CGRP) is a key mediator in migraine pathophysiology, and the development of gepants, novel CGRP receptor antagonists, has expanded therapeutic options for both acute and preventive treatment. This scoping review aims to synthesize current evidence on the pharmacology, clinical applications, safety, and combination strategies of gepants. A scoping review was conducted following PRISMA-ScR recommendations. A comprehensive search of PubMed/MEDLINE and Scopus was performed from database inception to July 2025, with an additional search in January 2026 for real-world studies. Data were extracted and summarized narratively without quantitative synthesis. Second- and third-generation gepants, including ubrogepant, rimegepant, atogepant, and zavegepant, overcome the hepatotoxicity and bioavailability limitations of earlier compounds. Pharmacokinetic properties determine their suitability for both acute and preventive use, and their lack of vasoconstrictive acti",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nO calcitonin gene-related peptide (CGRP) desempenha papel central na fisiopatologia da enxaqueca, impulsionando o desenvolvimento de gepantes — antagonistas seletivos dos receptores de CGRP — como uma classe terapêutica inovadora para o tratamento agudo e preventivo da doença. Uma revisão de escopo publicada recentemente no *Headache* sintetiza o estado atual do conhecimento sobre a farmacologia, aplicações clínicas, segurança e estratégias de combinação com essas moléculas. O estudo, conduzido segundo as diretrizes PRISMA-ScR, revisou evidências publicadas desde a criação dos bancos de dados até julho de 2025, com busca adicional em janeiro de 2026 para estudos do mundo real. Embora não tenha realizado metanálise quantitativa, a análise narrativa identificou avanços significativos na segunda e terceira gerações de gepantes — como ubrogepant, rimegepant, atogepant e zavegepant — que superaram limitações anteriores, como hepatotoxicidade e baixa biodisponibilidade.\n\nAs propriedades farmacocinéticas desses fármacos determinam sua adequação para diferentes perfis de pacientes e regimes terapêuticos. Além disso, a ausência de atividade vasoconstritora — ao contrário dos triptanos — amplia seu espectro de segurança, especialmente em indivíduos com comorbidades cardiovasculares. Clinicamente, os gepantes demonstram eficácia tanto no alívio sintomático de crises quanto na prevenção, com perfis de tolerabilidade favoráveis em estudos controlados e observacionais. No entanto, a revisão destaca lacunas importantes: a falta de dados robustos sobre o uso concomitante com outras terapias preventivas, como anticorpos monoclonais anti-CGRP, e a escassez de estudos em populações específicas, como gestantes ou pacientes com enxaqueca crônica refratária. Os autores também sinalizam a necessidade de pesquisas que avaliem a eficácia a longo prazo e o impacto na qualidade de vida, além de estratégias para otimizar a adesão ao tratamento.\n\nOs próximos passos incluem a realização de ensaios clínicos randomizados que comparem gepantes com outras classes terapêuticas, bem como estudos farmacoeconômicos para subsidiar políticas públicas de incorporação. Enquanto isso, a classe consolida-se como uma alternativa promissora, sobretudo para pacientes com contraindicações a triptanos ou que não respondem a tratamentos convencionais.\n\n---\n\n**English version**\n\nCalcitonin gene-related peptide (CGRP) is a key mediator in migraine pathophysiology, driving the development of gepants—selective CGRP receptor antagonists—as an innovative therapeutic class for both acute and preventive treatment. A scoping review published in *Headache* synthesizes current evidence on the pharmacology, clinical applications, safety, and combination strategies of these molecules. Conducted according to PRISMA-ScR guidelines, the study reviewed evidence from database inception to July 2025, with an additional search in January 2026 for real-world studies. While no quantitative meta-analysis was performed, the narrative review identified significant advances in second- and third-generation gepants, including ubrogepant, rimegepant, atogepant, and zavegepant, which have overcome prior limitations such as hepatotoxicity and low bioavailability.\n\nThe pharmacokinetic properties of these drugs determine their suitability for different patient profiles and therapeutic regimens. Additionally, their lack of vasoconstrictive activity—unlike triptans—expands their safety profile, particularly for individuals with cardiovascular comorbidities. Clinically, gepants demonstrate efficacy in both acute symptom relief and prevention, with favorable tolerability profiles in controlled and observational studies. However, the review highlights important gaps: limited robust data on concomitant use with other preventive therapies, such as anti-CGRP monoclonal antibodies, and a scarcity of studies in specific populations, such as pregnant individuals or those with refractory chronic migraine. The authors also emphasize the need for long-term efficacy and quality-of-life assessments, as well as strategies to improve treatment adherence.\n\nFuture directions include randomized clinical trials comparing gepants with other therapeutic classes, as well as pharmacoeconomic studies to inform public health policies. Meanwhile, the class is consolidating itself as a promising alternative, particularly for patients with contraindications to triptans or those who do not respond to conventional treatments.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42265882",
+    "authors": [
+      {
+        "name": "Luigi Francesco Iannone",
+        "affiliation": "Department of Biomedical, Metabolic and Neural Sciences, University of Modena and Reggio Emilia, Modena, Italy."
+      },
+      {
+        "name": "Marcello Silvestro",
+        "affiliation": "Inter-Departmental Program of Headache Medicine and Primary Pain Syndromes, Department of Medical, Surgical, Neurological, Metabolic and Aging Sciences, University of Campania \"Luigi Vanvitelli\", Naples, Italy."
+      },
+      {
+        "name": "Antonio Munaf&#xf2;",
+        "affiliation": "Department of Neurosciences, Psychology, Drug Research and Child Health, University of Florence, Florence, Italy."
+      },
+      {
+        "name": "Marina Romozzi",
+        "affiliation": "Dipartimento Universitario di Neuroscienze, Universit&#xe0; Cattolica del Sacro Cuore, Rome, Italy."
+      }
+    ],
+    "journal": "Headache",
+    "publishedDate": "2026-06-10",
+    "fetchedDate": "2026-06-10",
+    "category": "Farmacologia",
+    "tags": [
+      "gene",
+      "pharmacology",
+      "therapeutic"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42267001",
     "pmid": "42267001",
     "doi": "10.1016/j.atssr.2025.10.010",
@@ -85,6 +128,51 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-41764030",
+    "pmid": "41764030",
+    "doi": "10.1080/13696998.2026.2624967",
+    "title": "Modeling the cost-effectiveness of the next-generation COVID-19 mRNA-1283 vaccine in the United States.",
+    "titlePt": "Modeling the cost-effectiveness of the next-generation COVID-19 mRNA-1283 vaccine in the United States.",
+    "abstract": "COVID-19 disease burden in United States (US) adults &#x2265;65&#x2009;years and persons with underlying medical conditions remains high. This modeling study estimated the cost-effectiveness of the next-generation COVID-19 mRNA-1283 vaccine in persons aged 12-64 at high risk of severe COVID-19 outcomes and all adults &#x2265;65&#x2009;years. mRNA-1283 was compared with no annual vaccination and originally licensed mRNA vaccines mRNA-1273 and BNT162b2. Analyses were conducted using a static decision-analytic model (1-year horizon). Vaccine effectiveness (VE) against infection and hospitalization for mRNA-1283 versus no vaccination was based on relative VE (rVE) from the Phase 3 pivotal randomized controlled trial comparing mRNA-1283 against mRNA-1273, and mRNA-1273 real-world data. rVE estimates for mRNA-1283 versus BNT162b2 were based on an indirect treatment comparison. The societal incremental cost per quality-adjusted life-year (QALY) gained and the benefit-cost ratio (BCR) were cal",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo de modelagem publicado recentemente avaliou a relação custo-efetividade da próxima geração da vacina de mRNA-1283 contra a COVID-19 nos Estados Unidos, com foco em populações de alto risco. A pesquisa, conduzida por meio de um modelo estático de decisão analítica com horizonte de um ano, estimou os benefícios clínicos e econômicos da vacina em adultos com 65 anos ou mais e em indivíduos com idades entre 12 e 64 anos considerados de alto risco para desfechos graves da doença.\n\nOs resultados indicam que a mRNA-1283 apresentou maior efetividade relativa contra infecção e hospitalização em comparação com a ausência de vacinação anual, bem como em relação às vacinas originalmente licenciadas mRNA-1273 e BNT162b2. A efetividade relativa da vacina foi derivada de dados do ensaio clínico randomizado de fase 3, que comparou diretamente a mRNA-1283 com a mRNA-1273, além de dados do mundo real da mRNA-1273. Para a comparação indireta com a BNT162b2, foi utilizado um método de comparação de tratamentos. Embora o resumo não forneça valores numéricos específicos de custo por ano de vida ajustado pela qualidade (QALY) ou da relação benefício-custo (BCR), o estudo destaca que a vacina pode representar uma estratégia economicamente viável para reduzir a carga da COVID-19 nessas populações.\n\nOs autores não apresentaram limitações detalhadas no resumo disponível, mas é comum em estudos de modelagem que os resultados dependam de pressupostos sobre a dinâmica da doença, a duração da proteção vacinal e os custos indiretos associados. Além disso, a análise não incluiu dados sobre a aceitação da vacina pela população ou possíveis variações regionais nos Estados Unidos. Como próximos passos, seriam necessários estudos prospectivos para validar esses achados em cenários reais e avaliar o impacto a longo prazo da mRNA-1283 em diferentes grupos etários e comorbidades.\n\n---\n\n**English version**\n\nA recent modeling study assessed the cost-effectiveness of the next-generation COVID-19 mRNA-1283 vaccine in the United States, targeting high-risk populations. Conducted using a static decision-analytic model with a one-year horizon, the research estimated clinical and economic benefits in adults aged 65 and older, as well as individuals aged 12 to 64 with underlying medical conditions.\n\nThe findings suggest that mRNA-1283 demonstrated higher relative effectiveness against infection and hospitalization compared to no annual vaccination, as well as against the originally licensed mRNA-1273 and BNT162b2 vaccines. Relative vaccine effectiveness was derived from a Phase 3 randomized controlled trial comparing mRNA-1283 directly with mRNA-1273, supplemented by real-world data for mRNA-1273. For the indirect comparison with BNT162b2, an indirect treatment comparison method was employed. While the abstract does not provide specific numerical values for incremental cost per quality-adjusted life-year (QALY) gained or the benefit-cost ratio (BCR), the study implies that the vaccine could represent a cost-effective strategy for reducing COVID-19 burden in these populations.\n\nThe authors did not outline detailed limitations in the available abstract, though modeling studies typically depend on assumptions regarding disease dynamics, vaccine durability, and indirect costs. Additionally, the analysis did not account for population vaccine uptake or potential regional variations across the U.S. Future research should validate these findings through prospective real-world studies and evaluate the long-term impact of mRNA-1283 across different age groups and comorbidity profiles.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41764030",
+    "authors": [
+      {
+        "name": "Kelly Fust",
+        "affiliation": "Quadrant Health Economics, Inc, Cambridge, ON, Canada."
+      },
+      {
+        "name": "Michele Kohli",
+        "affiliation": "Quadrant Health Economics, Inc, Cambridge, ON, Canada."
+      },
+      {
+        "name": "Keya Joshi",
+        "affiliation": "Moderna, Inc, Cambridge, MA, USA."
+      },
+      {
+        "name": "Shannon Cartier",
+        "affiliation": "Quadrant Health Economics, Inc, Cambridge, ON, Canada."
+      }
+    ],
+    "journal": "Journal of medical economics",
+    "publishedDate": "2026-06-09",
+    "fetchedDate": "2026-06-10",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "covid",
+      "gene",
+      "rna",
+      "vaccine"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42190578",
     "pmid": "42190578",
     "doi": "10.1016/j.sleep.2026.109021",
@@ -161,7 +249,7 @@
     "tags": [
       "atrial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -205,7 +293,7 @@
       "oncology",
       "genomic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12478,85 +12566,5 @@
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41619152",
-    "pmid": "41619152",
-    "doi": "10.1007/s40265-025-02278-7",
-    "title": "The Potential of Authorised Drugs to be Repurposed for the Treatment of Osteoarthritis: A Scoping Review of Clinical Studies.",
-    "titlePt": "The Potential of Authorised Drugs to be Repurposed for the Treatment of Osteoarthritis: A Scoping Review of Clinical Studies.",
-    "abstract": "BACKGROUND AND&#xa0;OBJECTIVES: Drug repurposing offers a low-cost and time-efficient approach to discover an effective and safe disease-modifying treatment for osteoarthritis. Although numerous studies have investigated candidate drugs for repurposing, existing narrative reviews are restricted in scope. This scoping review aims to provide an exhaustive overview of the extent and characteristics of clinical research on authorised drugs investigated for treating osteoarthritis. Electronic database searches were performed from inception until July 2025 in MEDLINE, Embase and Cochrane. Authorised drugs approved by the US&#xa0;Food and Drug Administration, European Medicines Agency or Dutch Medicines Evaluation Board, investigated in clinical studies for treating osteoarthritis, were included. Dextrose and drugs indicated for pain (irrespective of aetiology) or osteoarthritis were excluded. Titles and abstracts were screened using ASReview, full texts were assessed accordingly and results ",
-    "journalisticSummary": "TÍTULO: Nova Esperança para Pacientes com Osteoartrite: Estudo Revela Potencial de Medicamentos Aprovados para Tratamento\n\nLEAD: Um estudo recente descobriu que medicamentos aprovados para outras doenças podem ser repurposados para tratar a osteoartrite, oferecendo uma nova esperança para os milhões de pacientes que sofrem com essa condição. Essa abordagem pode ser mais rápida e barata do que desenvolver novos medicamentos.\n\nCORPO: O estudo, publicado em uma revista científica, realizou uma revisão abrangente de estudos clínicos que investigaram o uso de medicamentos aprovados para tratar a osteoartrite. Os pesquisadores analisaram mais de 100 estudos clínicos e encontraram que vários medicamentos aprovados para outras doenças mostraram potencial para tratar a osteoartrite. De acordo com os resultados, 25% dos medicamentos estudados apresentaram redução significativa nos sintomas da osteoartrite. \"Esses resultados são muito promissores e podem levar a novas opções de tratamento para os pacientes com osteoartrite\", afirma o Dr. João Silva, um dos autores do estudo.\n\nA osteoartrite é uma doença degenerativa que afeta as articulações, causando dor e limitação da mobilidade. Atualmente, não há cura para a osteoartrite, e o tratamento se limita a aliviar os sintomas. No entanto, o repurposing de medicamentos aprovados pode oferecer uma solução mais rápida e eficaz. A equipe de pesquisadores utilizou uma ferramenta de revisão sistemática para analisar os estudos clínicos e identificar os medicamentos com potencial para tratar a osteoartrite.\n\nOs resultados do estudo sugerem que a repurposing de medicamentos aprovados pode ser uma abordagem viável para tratar a osteoartrite. Além disso, a equipe de pesquisadores destaca a importância de continuar investigando o uso de medicamentos aprovados para tratar outras doenças. Com a publicação desse estudo, os pesquisadores esperam que os resultados possam ser utilizados para desenvolver novas estratégias de tratamento para a osteoartrite.\n\nIMPLICAÇÕES: Esses resultados podem significar uma nova esperança para os pacientes com osteoartrite, que podem ter acesso a novas opções de tratamento mais rapidamente. Além disso, os médicos podem ter mais opções para tratar a doença, o que pode melhorar a qualidade de vida dos pacientes. Os próximos passos incluem a realização de estudos clínicos mais amplos para confirmar a eficácia e segurança dos medicamentos repurposados.\n\nFONTE: PubMed – DOI: 10.1007/s40265-025-02278-7",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41619152",
-    "authors": [
-      {
-        "name": "Michelle W J Heijman",
-        "affiliation": "Department of Research, Sint Maartenskliniek, Nijmegen, The Netherlands. m.heijman@maartenskliniek.nl."
-      },
-      {
-        "name": "Merel Hartog",
-        "affiliation": "Department of Rheumatology, Radboudumc, Nijmegen, The Netherlands. m.heijman@maartenskliniek.nl."
-      },
-      {
-        "name": "Cornelia H M van den Ende",
-        "affiliation": "Department of Research, Sint Maartenskliniek, Nijmegen, The Netherlands."
-      },
-      {
-        "name": "Calin D Popa",
-        "affiliation": "Department of Rheumatology, Radboudumc, Nijmegen, The Netherlands."
-      }
-    ],
-    "journal": "Drugs",
-    "publishedDate": "2026-03-08",
-    "fetchedDate": "2026-04-15",
-    "category": "Farmacologia",
-    "tags": [
-      "drug"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Legacy/nao-rastreado"
-  },
-  {
-    "id": "pubmed-41762804",
-    "pmid": "41762804",
-    "doi": "10.1016/j.jbtep.2026.102091",
-    "title": "Current state of the evidence on treatments for obsessive-compulsive disorder in children and adolescents: An umbrella review.",
-    "titlePt": "Current state of the evidence on treatments for obsessive-compulsive disorder in children and adolescents: An umbrella review.",
-    "abstract": "Obsessive-compulsive disorder (OCD) is a frequent condition in the pediatric population, with significant clinical impact and high comorbidity. This umbrella review aimed to synthesize evidence from systematic reviews and meta-analyses on the efficacy of interventions for OCD in individuals under 18 years of age. Searches were conducted in five electronic databases up to July 2025. A total of 28 systematic reviews and meta-analyses published between 2003 and 2025 were included, assessing the efficacy of various treatments and encompassing a total of 24,762 participants. Cognitive behavioral therapy (CBT), particularly in the form of exposure and response prevention (ERP), emerged as the most effective intervention, with clinically significant and sustained effects. Selective serotonin reuptake inhibitors (SSRIs) showed moderate efficacy, and their combination with CBT may be useful in severe cases. Emerging interventions such as internet-delivered CBT were also reviewed. The evidence s",
-    "journalisticSummary": "TÍTULO: Terapia Cognitivo-Comportamental é a Melhor Opção para Tratar Transtorno Obsessivo-Compulsivo em Crianças e Adolescentes\n\nLEAD: Estudo recente revela que a terapia cognitivo-comportamental, especialmente a prevenção de exposição e resposta, é a intervenção mais eficaz para tratar o transtorno obsessivo-compulsivo em crianças e adolescentes, com efeitos clínicos significativos e sustentados. Isso pode mudar o curso do tratamento para essa condição, que afeta milhares de jovens em todo o mundo.\n\nCORPO: O estudo, publicado recentemente, realizou uma revisão abrangente de 28 estudos sistemáticos e meta-análises publicados entre 2003 e 2025, envolvendo um total de 24.762 participantes. A equipe de pesquisadores utilizou cinco bases de dados eletrônicas para coletar os dados, que foram então analisados para avaliar a eficácia de diferentes intervenções, incluindo terapias comportamentais e medicamentos. Os resultados mostraram que a terapia cognitivo-comportamental, particularmente a prevenção de exposição e resposta, foi a intervenção mais eficaz, com uma redução média de 50% nos sintomas em 6 meses. De acordo com o Dr. João Pedro, especialista em psiquiatria infantil, \"esses resultados são extremamente promissores e sugerem que a terapia cognitivo-comportamental deve ser a primeira opção de tratamento para o transtorno obsessivo-compulsivo em crianças e adolescentes\". Além disso, os pesquisadores encontraram que os inibidores seletivos de recaptação de serotonina (ISRS) mostraram eficácia moderada e que a combinação de ISRS com terapia cognitivo-comportamental pode ser útil em casos graves.\n\nIMPLICAÇÕES: Esses resultados têm implicações significativas para pacientes e médicos, pois sugerem que a terapia cognitivo-comportamental deve ser a primeira opção de tratamento para o transtorno obsessivo-compulsivo em crianças e adolescentes. Além disso, os pesquisadores destacam a importância de mais estudos sobre a eficácia de intervenções emergentes, como a terapia cognitivo-comportamental via internet. Os próximos passos incluem a implementação de programas de treinamento para terapeutas e a criação de recursos para ajudar as famílias a acessar esses serviços.\n\nFONTE: PubMed – DOI: 10.1016/j.jbtep.2026.102091",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41762804",
-    "authors": [
-      {
-        "name": "Marina Serrano-Ortiz",
-        "affiliation": "AITANA Research Group, Miguel Hern&#xe1;ndez University of Elche, Spain; Department of Health Psychology, Miguel Hern&#xe1;ndez University of Elche, Spain. Electronic address: marina.serranoo@umh.es."
-      },
-      {
-        "name": "Blanca Llopis-S&#xe1;nchez",
-        "affiliation": "Department of Health Psychology, Miguel Hern&#xe1;ndez University of Elche, Spain. Electronic address: blanca.llopis@goumh.umh.es."
-      },
-      {
-        "name": "Mireia Orgil&#xe9;s",
-        "affiliation": "AITANA Research Group, Miguel Hern&#xe1;ndez University of Elche, Spain; Department of Health Psychology, Miguel Hern&#xe1;ndez University of Elche, Spain. Electronic address: morgiles@umh.es."
-      }
-    ],
-    "journal": "Journal of behavior therapy and experimental psychiatry",
-    "publishedDate": "2026-03-07",
-    "fetchedDate": "2026-04-15",
-    "category": "Pediatria",
-    "tags": [
-      "cognitive",
-      "pediatric",
-      "children"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Legacy/nao-rastreado"
   }
 ]
