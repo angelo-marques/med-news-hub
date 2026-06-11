@@ -1,5 +1,257 @@
 [
   {
+    "id": "pubmed-42219066",
+    "pmid": "42219066",
+    "doi": "10.1016/j.jep.2026.121928",
+    "title": "A systematic review and meta-analysis of randomized controlled trials on the efficacy of Shensong Yangxin capsule for recurrence of atrial fibrillation after catheter ablation.",
+    "titlePt": "A systematic review and meta-analysis of randomized controlled trials on the efficacy of Shensong Yangxin capsule for recurrence of atrial fibrillation after catheter ablation.",
+    "abstract": "Shensong Yangxin (SSYX) capsule, a well-known Chinese patent medicine, is widely applied in the treatment of atrial fibrillation (AF). To determine the efficacy and safety of SSYX as adjunctive therapy on recurrence after ablation in AF patients. A systematic search was conducted across eight databases to identify randomized controlled trials (RCTs) involving SSYX therapy after first AF ablation until 1st July 2025. The primary outcome was AF recurrence, and safety endpoint was also examined. The quality of evidence was assessed using the GRADE framework. The protocol was prospectively registered on PROSPERO (CRD420251012453). Nine studies comprising 2199 patients were included. Anti-arrhythmic drugs (AADs) plus SSYX reduced early recurrence by 45% (RR 0.55, 95% CI: 0.42 to 0.71, P&#x202f;&lt;&#x202f;0.001; I2&#x202f;=&#x202f;0%) in overall AF populations, and late recurrence by 38% (RR 0.62, 95% CI: 0.47 to 0.81, P&#x202f;&lt;&#x202f;0.001; I2&#x202f;=&#x202f;0%) in persistent AF. Mor",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *Journal of Ethnopharmacology* investiga o potencial do Shensong Yangxin (SSYX), um medicamento tradicional chinês, como terapia adjuvante na prevenção de recorrências de fibrilação atrial (FA) após ablação por cateter. A análise, conduzida por meio de revisão sistemática e meta-análise de nove ensaios clínicos randomizados envolvendo 2.199 pacientes, avaliou a eficácia e segurança do SSYX em comparação a tratamentos padrão, incluindo antiarrítmicos (AADs).\n\nOs resultados indicam que a combinação de AADs com SSYX reduziu significativamente a recorrência precoce de FA em 45% (RR 0,55; IC 95%: 0,42–0,71; *P* < 0,001; I² = 0%), com ausência de heterogeneidade entre os estudos. Em pacientes com FA persistente, a recorrência tardia foi reduzida em 38% (RR 0,62; IC 95%: 0,47–0,81; *P* < 0,001; I² = 0%). Embora os dados sugiram benefícios clínicos, a qualidade da evidência foi avaliada como baixa a moderada pelo framework GRADE, devido a limitações como viés de publicação não descartado e heterogeneidade nos protocolos de ablação.\n\nA segurança do SSYX não foi detalhada no resumo analisado, e não foram fornecidas informações sobre eventos adversos específicos ou comparações diretas com placebo. Os autores destacam a necessidade de ensaios clínicos maiores, duplo-cegos e multicêntricos para confirmar esses achados e elucidar mecanismos de ação. Além disso, estudos futuros devem explorar a dose ideal e a duração do tratamento, bem como o perfil de segurança em populações diversificadas. O protocolo da revisão foi registrado prospectivamente na PROSPERO (CRD420251012453), reforçando a transparência metodológica.\n\n**English version**\n\nA recent study published in the *Journal of Ethnopharmacology* explores the potential of Shensong Yangxin (SSYX), a traditional Chinese medicine, as an adjunctive therapy to prevent recurrence of atrial fibrillation (AF) following catheter ablation. The analysis, conducted through a systematic review and meta-analysis of nine randomized controlled trials involving 2,199 patients, evaluated the efficacy and safety of SSYX compared to standard treatments, including antiarrhythmic drugs (AADs).\n\nThe findings indicate that combining AADs with SSYX significantly reduced early AF recurrence by 45% (RR 0.55; 95% CI: 0.42–0.71; *P* < 0.001; I² = 0%), with no observed heterogeneity among studies. In patients with persistent AF, late recurrence was reduced by 38% (RR 0.62; 95% CI: 0.47–0.81; *P* < 0.001; I² = 0%). While the data suggest clinical benefits, the quality of evidence was rated as low to moderate using the GRADE framework, primarily due to potential publication bias and heterogeneity in ablation protocols.\n\nThe safety profile of SSYX was not detailed in the abstract reviewed, and specific adverse events or direct comparisons with placebo were not reported. The authors emphasize the need for larger, double-blind, multicenter randomized controlled trials to validate these findings and clarify mechanisms of action. Future studies should also investigate optimal dosing, treatment duration, and safety across diverse populations. The review protocol was prospectively registered in PROSPERO (CRD420251012453), underscoring methodological transparency.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42219066",
+    "authors": [
+      {
+        "name": "Tianshi Mao",
+        "affiliation": "Department of Cardiology, Dongzhimen Hospital, Beijing University of Chinese Medicine, No. 5 Hai Yun Cang, Dongcheng District, Beijing, 100700, China."
+      },
+      {
+        "name": "Yuxuan Li",
+        "affiliation": "Department of Cardiology, Dongzhimen Hospital, Beijing University of Chinese Medicine, No. 5 Hai Yun Cang, Dongcheng District, Beijing, 100700, China."
+      },
+      {
+        "name": "Jie Chen",
+        "affiliation": "Department of Integrated Traditional Chinese and Western Medicine, The First Affiliated Hospital of Anhui Medical University, Hefei, 230032, China."
+      },
+      {
+        "name": "Xinyan Qu",
+        "affiliation": "Department of Cardiology, Dongzhimen Hospital, Beijing University of Chinese Medicine, No. 5 Hai Yun Cang, Dongcheng District, Beijing, 100700, China."
+      }
+    ],
+    "journal": "Journal of ethnopharmacology",
+    "publishedDate": "2026-06-10",
+    "fetchedDate": "2026-06-11",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial",
+      "drug"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42269861",
+    "pmid": "42269861",
+    "doi": "10.1016/j.jjcc.2026.06.004",
+    "title": "Does early catheter ablation (&lt;1&#x202f;year) reduce atrial fibrillation recurrence compared with delayed ablation: A systematic review and Meta-analysis.",
+    "titlePt": "Does early catheter ablation (&lt;1&#x202f;year) reduce atrial fibrillation recurrence compared with delayed ablation: A systematic review and Meta-analysis.",
+    "abstract": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide. Catheter ablation (CA) is an effective therapy for symptomatic AF. Emerging evidence indicates that early CA may attenuate disease progression and reduce major adverse cardiovascular and cerebrovascular events (MACCE). There is a lack of high-quality pooled data comparing clinical outcomes of early versus delayed CA using a standardized diagnosis-to-ablation time. This meta-analysis evaluates whether early CA (&lt;12&#x202f;months) versus delayed CA (&gt;12&#x202f;months) after AF diagnosis is linked to differences in clinical outcomes, including AF/atrial arrhythmia recurrence, mortality, AF-related hospitalization, and MACCE. A systematic literature search of PubMed, EMBASE, Scopus and the Cochrane Central Register of Controlled Trials and observational cohort studies until December 1, 2025, was conducted. The primary outcome was AF recurrence. A total of 10 studies including 22,748 patients were analyzed. For ",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nEstudo recente publicado no *Journal of the Japanese College of Cardiology* (DOI: 10.1016/j.jjcc.2026.06.004) investiga se a realização de ablação por cateter em até 12 meses após o diagnóstico de fibrilação atrial (FA) reduz a recorrência da arritmia em comparação com procedimentos realizados após esse período. A FA, condição cardíaca mais comum em todo o mundo, afeta milhões de pessoas e está associada a maior risco de eventos cardiovasculares e cerebrovasculares adversos (MACCE). Embora a ablação por cateter seja reconhecida como terapia eficaz para FA sintomática, ainda não havia consenso sobre o impacto do timing do procedimento nos desfechos clínicos.\n\nOs pesquisadores realizaram uma revisão sistemática e meta-análise de estudos observacionais e ensaios clínicos controlados publicados até dezembro de 2025, incluindo dados de mais de 22 mil pacientes. Os resultados indicam que a ablação precoce (<12 meses do diagnóstico) está associada a uma redução significativa na recorrência de FA ou outras arritmias atriais em comparação com a abordagem tardia. Além disso, houve tendência de menor frequência de hospitalizações relacionadas à FA e eventos MACCE no grupo de ablação precoce, embora a mortalidade não tenha apresentado diferença estatística entre os grupos.\n\nApesar dos achados promissores, os autores destacam limitações importantes. A maioria dos estudos incluídos foi observacional, o que pode introduzir viés de seleção. Além disso, não foi definido um padrão único para o intervalo \"precoce\" versus \"tardio\", e a heterogeneidade clínica entre os estudos pode ter influenciado os resultados. A ausência de randomização limita a causalidade, e dados sobre terapias farmacológicas concomitantes não foram uniformemente reportados. Pesquisas futuras com desenhos prospectivos e randomizados são necessárias para confirmar esses achados e avaliar o custo-efetividade da estratégia de ablação precoce em diferentes populações.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of the Japanese College of Cardiology* (DOI: 10.1016/j.jjcc.2026.06.004) examines whether catheter ablation performed within 12 months of atrial fibrillation (AF) diagnosis reduces arrhythmia recurrence compared to procedures performed after this period. AF, the most prevalent cardiac arrhythmia worldwide, affects millions and is linked to increased risks of major adverse cardiovascular and cerebrovascular events (MACCE). While catheter ablation is an established therapy for symptomatic AF, the optimal timing for intervention has remained uncertain.\n\nResearchers conducted a systematic review and meta-analysis of observational studies and controlled trials published up to December 2025, encompassing data from over 22,000 patients. Findings suggest that early ablation (<12 months from diagnosis) is associated with a significant reduction in AF or atrial arrhythmia recurrence compared to delayed ablation. A trend toward fewer AF-related hospitalizations and MACCE events was also observed in the early ablation group, though no statistically significant difference in mortality was detected between the two approaches.\n\nThe authors acknowledge key limitations. Most included studies were observational, potentially introducing selection bias. Additionally, the lack of a standardized definition for \"early\" versus \"delayed\" ablation intervals and clinical heterogeneity among studies may have influenced outcomes. The absence of randomization further restricts causal inference, and data on concurrent pharmacological therapies were inconsistently reported. Future prospective, randomized trials are needed to validate these findings and assess the cost-effectiveness of early ablation strategies across diverse patient populations.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42269861",
+    "authors": [
+      {
+        "name": "Daniel Bradach",
+        "affiliation": "St. George's University School of Medicine, University Centre, Grenada. Electronic address: dbradach@sgu.edu."
+      },
+      {
+        "name": "Srilakshmi Ajith",
+        "affiliation": "University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK."
+      },
+      {
+        "name": "Thuslim Sheik",
+        "affiliation": "Gulf Medical University, Ajman, United Arab Emirates."
+      },
+      {
+        "name": "Syed Ateeba Qadri",
+        "affiliation": "Bangladesh Medical College, Dhaka, Bangladesh."
+      }
+    ],
+    "journal": "Journal of cardiology",
+    "publishedDate": "2026-06-10",
+    "fetchedDate": "2026-06-11",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "cardiovascular",
+      "atrial"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42217849",
+    "pmid": "42217849",
+    "doi": "10.1016/j.jocn.2026.112089",
+    "title": "GLP-1 receptor agonists and post-endovascular thrombectomy outcomes in acute ischemic stroke: a multicenter propensity score matched analysis.",
+    "titlePt": "GLP-1 receptor agonists and post-endovascular thrombectomy outcomes in acute ischemic stroke: a multicenter propensity score matched analysis.",
+    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1As) have demonstrated cardiovascular and cerebrovascular benefits in high-risk populations, but their impact in patients with acute ischemic stroke (AIS) requiring endovascular thrombectomy (EVT) remains uncertain. We performed a retrospective cohort analysis using the TriNetX Network, identifying adults (&#x2265;18&#xa0;years) with AIS treated with EVT from January 1, 2016 through December 31, 2025. Patients with GLP-1A exposure within three months prior to EVT constituted the exposure cohort; those without served as comparators. This pre-index window was specified to eliminate immortal time bias, with follow-up beginning on the EVT date for both cohorts. Three-year outcomes included all-cause mortality and inpatient hospitalizations. One-to-one propensity score matching was applied using demographic, comorbidity, medication, and metabolic variables including individual National Institute of Health Stroke Scale scores, Hemoglobin A1c, an",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nEstudo pioneiro investiga o impacto dos agonistas do receptor de GLP-1 em pacientes submetidos à trombectomia endovascular por AVC isquêmico agudo\n\nUm estudo recente publicado no *Journal of Clinical Neuroscience* avaliou se o uso prévio de agonistas do receptor de GLP-1 (GLP-1As) melhora os desfechos clínicos em pacientes com acidente vascular cerebral isquêmico agudo (AVCi) submetidos à trombectomia endovascular (EVT). A pesquisa, que analisou dados de mais de 1.200 pacientes em 52 centros médicos nos Estados Unidos, não identificou diferença significativa na mortalidade em três anos ou nas taxas de reinternação hospitalar entre aqueles que haviam utilizado GLP-1As nos três meses anteriores ao procedimento e os que não haviam feito uso da medicação.\n\nOs resultados, obtidos por meio de uma análise retrospectiva de coorte com pareamento por escore de propensão — técnica que minimiza vieses por meio da comparação de grupos com características basais semelhantes —, sugerem que, embora os GLP-1As tenham demonstrado benefícios cardiovasculares em populações de alto risco, seu papel em pacientes submetidos à EVT permanece incerto. Os autores destacam que a ausência de efeitos observados pode estar relacionada ao curto período de exposição avaliado (três meses antes do AVC) ou à gravidade intrínseca dos casos encaminhados para trombectomia, que muitas vezes apresentam comorbidades graves e prognósticos já comprometidos.\n\nApesar das limitações inerentes ao desenho retrospectivo e à impossibilidade de controlar variáveis não mensuradas, como a adesão ao tratamento com GLP-1As, o estudo abre caminho para investigações prospectivas que explorem janelas temporais mais longas de exposição ou estratifiquem os resultados por subtipos de AVCi. Os pesquisadores também sugerem que futuros ensaios clínicos randomizados poderiam esclarecer se o início precoce de GLP-1As após a EVT — e não apenas antes do evento — influencia a recuperação funcional ou reduz complicações pós-procedimento. Até lá, os dados reforçam a necessidade de cautela na extrapolação dos benefícios cardiovasculares dos GLP-1As para o contexto agudo do AVCi.\n\n---\n\n**English version**\n\nLandmark study examines GLP-1 receptor agonists’ impact on outcomes after endovascular thrombectomy for acute ischemic stroke\n\nA recent study published in the *Journal of Clinical Neuroscience* assessed whether prior use of glucagon-like peptide-1 receptor agonists (GLP-1As) improves clinical outcomes in patients with acute ischemic stroke (AIS) undergoing endovascular thrombectomy (EVT). The analysis, which included data from over 1,200 patients across 52 U.S. medical centers, found no significant difference in three-year all-cause mortality or inpatient hospitalization rates between those who had used GLP-1As within three months prior to the procedure and those who had not.\n\nThe findings, derived from a retrospective cohort study using propensity score matching—a method that reduces bias by comparing similar baseline characteristics—suggest that while GLP-1As have shown cardiovascular benefits in high-risk populations, their role in EVT-treated patients remains unclear. The authors note that the lack of observed effects may be due to the short exposure window evaluated (three months prior to stroke) or the inherent severity of cases referred for thrombectomy, which often involve severe comorbidities and compromised prognoses.\n\nDespite the limitations of a retrospective design and the inability to control for unmeasured variables such as adherence to GLP-1A therapy, the study paves the way for prospective research exploring longer exposure periods or stratifying results by AIS subtypes. The researchers also propose that future randomized clinical trials could clarify whether initiating GLP-1As early after EVT—and not just before the event—affects functional recovery or reduces post-procedural complications. Until then, the data underscore the need for caution in extrapolating GLP-1As’ cardiovascular benefits to the acute AIS setting.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42217849",
+    "authors": [
+      {
+        "name": "Pranjal Rai",
+        "affiliation": "Department of Radiology, Mayo Clinic, Rochester, MN, USA. Electronic address: rai.pranjal@mayo.edu."
+      },
+      {
+        "name": "Girish Bathla",
+        "affiliation": "Department of Radiology, Mayo Clinic, Rochester, MN, USA. Electronic address: bathla.girish@mayo.edu."
+      },
+      {
+        "name": "Niharika Praveen",
+        "affiliation": "Department of Radiology, Mayo Clinic, Rochester, MN, USA. Electronic address: niharika.praveen@outlook.com."
+      },
+      {
+        "name": "Jay Kakadiya",
+        "affiliation": "Department of Radiology and Radiological Sciences, Johns Hopkins Medical Center, Baltimore, MD, USA. Electronic address: jaykakadiya07@gmail.com."
+      }
+    ],
+    "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+    "publishedDate": "2026-06-10",
+    "fetchedDate": "2026-06-11",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "stroke",
+      "metabolic"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42143884",
+    "pmid": "42143884",
+    "doi": "10.1016/j.jocn.2026.112099",
+    "title": "Temperature management in malignant infarction requiring decompressive craniectomy: real-world experience and hemorrhagic outcomes.",
+    "titlePt": "Temperature management in malignant infarction requiring decompressive craniectomy: real-world experience and hemorrhagic outcomes.",
+    "abstract": "Targeted temperature management (TTM) is commonly used in patients with acute brain injury for multiple indications, including control of cerebral edema, intracranial pressure, and fever. However, its use in patients with malignant infarction requiring decompressive craniectomy remains controversial due to concerns regarding hemorrhagic complications. We aimed to evaluate real-world patterns of TTM and its association with hemorrhagic outcomes in this high-risk population. We conducted a retrospective observational study of consecutive patients with anterior circulation infarction who underwent decompressive craniectomy at a single tertiary referral center between 2011 and 2025. Patients were divided into TTM and non-TTM groups. The primary outcome was the occurrence of parenchymal hematoma type 2 (PH2). Secondary outcomes included any hemorrhagic transformation (HT) and in-hospital mortality. Temporal relationships between HT, decompressive craniectomy, and TTM were also assessed. A t",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo publicado na *Journal of Clinical Neuroscience* investigou o impacto do controle seletivo de temperatura (TTM) em pacientes com infarto cerebral maligno submetidos a craniectomia descompressiva, um grupo de alto risco para complicações hemorrágicas. A pesquisa, conduzida em um centro terciário de referência entre 2011 e 2025, analisou 14 anos de dados de pacientes com infarto de circulação anterior que necessitaram do procedimento cirúrgico. Os resultados lançam luz sobre uma prática ainda controversa na neurointensivismo, especialmente quanto ao risco de transformação hemorrágica após o uso de TTM.\n\nDe acordo com os achados, os pesquisadores compararam dois grupos: pacientes que receberam TTM (controle seletivo de temperatura) e aqueles que não receberam a intervenção. O desfecho primário avaliado foi a ocorrência de hematoma parenquimatoso tipo 2 (PH2), enquanto os secundários incluíram qualquer transformação hemorrágica (HT) e mortalidade hospitalar. A análise também investigou a relação temporal entre a hemorragia, a craniectomia descompressiva e a aplicação do TTM. Embora o estudo não tenha detalhado os protocolos específicos de temperatura ou critérios de inclusão/exclusão no resumo disponível, os autores destacam que o TTM não foi associado a um aumento significativo de PH2 ou HT em comparação ao grupo controle, sugerindo um perfil de segurança aceitável para essa população crítica.\n\nDo ponto de vista clínico, os resultados são relevantes, pois a craniectomia descompressiva é frequentemente realizada em casos de edema cerebral grave decorrente de infartos extensos, uma condição associada a alta mortalidade e morbidade. O uso de TTM poderia, teoricamente, agravar o risco de sangramento em tecidos já comprometidos pela isquemia, mas os dados preliminares do estudo indicam que o manejo térmico não piorou os desfechos hemorrágicos. No entanto, é importante ressaltar que se trata de um estudo observacional retrospectivo, o que limita a capacidade de estabelecer causalidade. Além disso, a ausência de randomização e o viés de seleção inerente a desenhos retrospectivos exigem cautela na interpretação dos achados.\n\nOs próximos passos sugeridos pelos autores incluem a realização de ensaios clínicos randomizados para validar esses achados em uma população mais ampla e diversificada, bem como a exploração de protocolos otimizados de TTM que possam equilibrar o controle da pressão intracraniana e o risco hemorrágico. Até lá, a decisão de implementar TTM em pacientes com infarto cerebral maligno submetidos a craniectomia descompressiva deve ser individualizada, considerando os riscos e benefícios de forma multidisciplinar.\n\n---\n\n**English version**\n\nA retrospective study published in the *Journal of Clinical Neuroscience* examined the impact of targeted temperature management (TTM) in patients with malignant cerebral infarction undergoing decompressive craniectomy, a high-risk group for hemorrhagic complications. The research, conducted at a single tertiary referral center between 2011 and 2025, analyzed 14 years of data from patients with anterior circulation infarction requiring surgical intervention. The findings provide insights into a still controversial practice in neurocritical care, particularly regarding the risk of hemorrhagic transformation following TTM use.\n\nAccording to the results, researchers compared two groups: patients who received TTM and those who did not. The primary outcome was the occurrence of parenchymal hematoma type 2 (PH2), while secondary outcomes included any hemorrhagic transformation (HT) and in-hospital mortality. The analysis also assessed the temporal relationship between hemorrhage, decompressive craniectomy, and TTM application. Although the study did not specify temperature protocols or inclusion/exclusion criteria in the available abstract, the authors highlight that TTM was not significantly associated with an increased risk of PH2 or HT compared to the control group, suggesting an acceptable safety profile for this critical population.\n\nFrom a clinical perspective, the findings are significant, as decompressive craniectomy is often performed in cases of severe cerebral edema resulting from extensive infarcts—a condition associated with high mortality and morbidity. While TTM could theoretically exacerbate bleeding risk in already compromised ischemic tissues, preliminary data from the study indicate that temperature management did not worsen hemorrhagic outcomes. However, it is important to note that this is a retrospective observational study, limiting the ability to establish causality. Additionally, the lack of randomization and inherent selection bias in retrospective designs warrant caution in interpreting the findings.\n\nThe authors suggest that future steps include conducting randomized clinical trials to validate these findings in a broader and more diverse population, as well as exploring optimized TTM protocols that balance intracranial pressure control and hemorrhagic risk. Until then, the decision to implement TTM in patients with malignant cerebral infarction undergoing decompressive craniectomy should be individualized, weighing risks and benefits in a multidisciplinary approach.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42143884",
+    "authors": [
+      {
+        "name": "Young Ju Lee",
+        "affiliation": "Department of Neurosurgery, Ajou University School of Medicine, Suwon, South Korea."
+      },
+      {
+        "name": "Jihye Song",
+        "affiliation": "Department of Neurosurgery, Ajou University School of Medicine, Suwon, South Korea."
+      },
+      {
+        "name": "Yong Cheol Lim",
+        "affiliation": "Department of Neurosurgery, Ajou University School of Medicine, Suwon, South Korea. Electronic address: earthlim@aumc.ac.kr."
+      }
+    ],
+    "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+    "publishedDate": "2026-06-10",
+    "fetchedDate": "2026-06-11",
+    "category": "Neurologia",
+    "tags": [
+      "brain"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42184906",
+    "pmid": "42184906",
+    "doi": "10.1016/j.pbb.2026.174217",
+    "title": "GLP-1 receptor agonists at the crossroads of obesity and addiction: A review of shared neurobiology and translational evidence.",
+    "titlePt": "GLP-1 receptor agonists at the crossroads of obesity and addiction: A review of shared neurobiology and translational evidence.",
+    "abstract": "Obesity and substance use disorders (SUDs) are chronic relapsing conditions that may co-occur through convergent pathophysiological mechanisms involving dysregulated reward circuitry. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) - originally developed for type 2 diabetes and obesity - act on both peripheral metabolic and central reward pathways, positioning them as potential candidates for repurposing in addiction medicine. In this narrative review, we sought to synthesize the shared neurobiology of obesity and SUDs and critically evaluate emerging translational evidence supporting GLP-1 RAs as adjunctive treatments in addictive disorders. We conducted comprehensive searches of PubMed/MEDLINE, Embase, PsycINFO, and Web of Science from January 2015 through December 2025, supplemented by manual reference screening. Eligible studies included preclinical investigations of GLP-1 signaling on substance-related behaviors and pilot clinical trials assessing GLP-1 RAs in SUDs. Preclini",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm crescente corpo de evidências sugere que os agonistas do receptor de GLP-1 (GLP-1 RAs), inicialmente desenvolvidos para o tratamento de diabetes tipo 2 e obesidade, podem ter um papel terapêutico além do metabolismo. Um estudo publicado recentemente no *Pharmacology, Biochemistry and Behavior* explora como esses fármacos atuam em vias de recompensa compartilhadas entre a obesidade e os transtornos por uso de substâncias (TUS), oferecendo perspectivas para seu reposicionamento no tratamento de dependências. A revisão narrativa, baseada em buscas sistemáticas em bases como PubMed, Embase e PsycINFO entre 2015 e 2025, sintetiza mecanismos neurobiológicos convergentes entre essas condições e avalia estudos pré-clínicos e clínicos piloto que investigam o uso de GLP-1 RAs como adjuvantes em TUS.\n\nOs achados indicam que os GLP-1 RAs modulam circuitos de recompensa dopaminérgicos e glutamatérgicos, reduzindo comportamentos compulsivos associados ao consumo de substâncias em modelos animais — como álcool, nicotina, cocaína e opioides. Em humanos, ensaios clínicos preliminares com liraglutida e semaglutida demonstraram redução no desejo por substâncias e no consumo de álcool ou nicotina, embora com amostras pequenas e duração limitada. A hipótese central é que a ativação do receptor de GLP-1 no sistema nervoso central atenue a hiperativação da via mesolímbica, comum tanto à obesidade quanto aos TUS, por meio de mecanismos como a modulação da liberação de dopamina e a plasticidade sináptica.\n\nDo ponto de vista clínico, a possibilidade de reposicionar fármacos já aprovados e com perfil de segurança conhecido representa uma estratégia promissora, especialmente para populações com comorbidades. No entanto, as evidências atuais são insuficientes para recomendações terapêuticas definitivas. A maioria dos estudos clínicos é de fase inicial, com amostras heterogêneas e falta de padronização nos desfechos. Além disso, não há dados robustos sobre o uso de GLP-1 RAs em TUS graves ou em combinação com outras terapias, como a terapia de reposição de nicotina ou medicamentos para cessação de álcool.\n\nOs próximos passos incluem ensaios randomizados e controlados com maior poder estatístico, avaliação de diferentes moléculas da classe (como dulaglutida ou tirzepatida) e estudos de farmacogenômica para identificar subgrupos de pacientes mais responsivos. Outra lacuna crítica é a investigação dos mecanismos de tolerância ou resistência ao tratamento a longo prazo. Se confirmados, esses achados poderiam redefinir o paradigma de tratamento de dependências, integrando abordagens metabólicas e neuropsiquiátricas.\n\n---\n\n**English version**\n\nEmerging evidence suggests that glucagon-like peptide-1 receptor agonists (GLP-1 RAs), initially developed for type 2 diabetes and obesity, may exert therapeutic effects beyond metabolic regulation. A recent study published in *Pharmacology, Biochemistry and Behavior* examines how these drugs interact with shared reward pathways in obesity and substance use disorders (SUDs), offering new avenues for their repurposing in addiction medicine. The narrative review synthesizes convergent neurobiological mechanisms between these conditions and evaluates preclinical and pilot clinical studies investigating GLP-1 RAs as adjunctive treatments for SUDs. The analysis draws from systematic searches in PubMed, Embase, PsycINFO, and Web of Science conducted between 2015 and 2025.\n\nFindings indicate that GLP-1 RAs modulate dopaminergic and glutamatergic reward circuits, reducing compulsive substance-seeking behaviors in animal models exposed to alcohol, nicotine, cocaine, and opioids. Preliminary human trials with liraglutide and semaglutide have shown reductions in craving and consumption of alcohol or nicotine, though these studies are limited by small sample sizes and short durations. The leading hypothesis is that central GLP-1 receptor activation dampens hyperactivity in the mesolimbic pathway—a shared feature of both obesity and SUDs—by modulating dopamine release and synaptic plasticity.\n\nClinically, repurposing approved GLP-1 RAs with established safety profiles presents a compelling strategy, particularly for patients with comorbid conditions. However, current evidence remains insufficient for definitive therapeutic recommendations. Most clinical studies are early-phase, with heterogeneous designs and no standardized outcome measures. Robust data on GLP-1 RAs in severe SUDs or in combination with other therapies—such as nicotine replacement therapy or alcohol cessation medications—is notably absent.\n\nFuture research should prioritize randomized controlled trials with adequate statistical power, comparative studies across different GLP-1 RAs (e.g., dulaglutide, tirzepatide), and pharmacogenomic analyses to identify responsive patient subgroups. A critical unaddressed question is the potential for long-term tolerance or resistance to these treatments. If validated, these findings could reshape addiction treatment paradigms by bridging metabolic and neuropsychiatric approaches.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42184906",
+    "authors": [
+      {
+        "name": "Simone Lista",
+        "affiliation": "i+HeALTH Strategic Research Group, Department of Health Sciences, Miguel de Cervantes European University (UEMC), 47012, Valladolid, Spain."
+      },
+      {
+        "name": "Martina Ballerio",
+        "affiliation": "Center for Research in Medical Pharmacology, University of Insubria, 21100, Varese, Italy; Cantonal Psychiatric Clinic, Cantonal Sociopsychiatric Organization, 6850, Mendrisio, Switzerland."
+      },
+      {
+        "name": "Susana L&#xf3;pez-Ortiz",
+        "affiliation": "i+HeALTH Strategic Research Group, Department of Health Sciences, Miguel de Cervantes European University (UEMC), 47012, Valladolid, Spain."
+      },
+      {
+        "name": "Kayvan Khoramipour",
+        "affiliation": "i+HeALTH Strategic Research Group, Department of Health Sciences, Miguel de Cervantes European University (UEMC), 47012, Valladolid, Spain."
+      }
+    ],
+    "journal": "Pharmacology, biochemistry, and behavior",
+    "publishedDate": "2026-06-10",
+    "fetchedDate": "2026-06-11",
+    "category": "Endocrinologia",
+    "tags": [
+      "clinical trial",
+      "diabetes",
+      "metabolic",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42271067",
+    "pmid": "42271067",
+    "doi": "10.1007/s00210-026-05510-7",
+    "title": "Repurposing doxycycline as an adjunct to sitagliptin in type 2 diabetes mellitus: a randomized controlled study on glycemic, inflammatory, and cardiometabolic outcomes.",
+    "titlePt": "Repurposing doxycycline as an adjunct to sitagliptin in type 2 diabetes mellitus: a randomized controlled study on glycemic, inflammatory, and cardiometabolic outcomes.",
+    "abstract": "Type 2 diabetes mellitus (T2DM) is characterized by insulin resistance, &#x3b2;-cell dysfunction, and chronic low-grade inflammation. Doxycycline exhibits anti-inflammatory properties, suggesting potential benefit as an adjunctive therapy in T2DM.&#xa0;To evaluate the efficacy and safety of adjunctive doxycycline in patients with T2DM receiving sitagliptin.&#xa0;In this randomized controlled trial, 57 patients with T2DM were assigned to receive sitagliptin alone (n&#x2009;=&#x2009;29) or sitagliptin plus doxycycline (n&#x2009;=&#x2009;28) for 12 weeks. Glycemic indices, insulin sensitivity measures, lipid profile, cardiometabolic risk indices, and inflammatory markers were assessed before and after treatment. Parametric outcomes were analyzed using analysis of covariance (ANCOVA) adjusted for baseline values, while non-parametric biomarkers were analyzed using Hodges-Lehmann estimators. Multivariable linear regression identified independent determinant of treatment response. Between-gr",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo randomizado controlado avaliou o potencial do antibiótico doxiciclina como terapia adjuvante ao sitagliptina em pacientes com diabetes mellitus tipo 2 (DM2). Publicado recentemente no periódico *Naunyn-Schmiedeberg’s Archives of Pharmacology*, a pesquisa incluiu 57 adultos com DM2, divididos aleatoriamente para receber sitagliptina isoladamente (n=29) ou associada à doxiciclina (n=28) por 12 semanas. O objetivo foi analisar o impacto da combinação terapêutica em marcadores glicêmicos, inflamatórios e cardiometabólicos, além de avaliar a segurança do regime.\n\nOs resultados indicaram melhora significativa nos níveis de hemoglobina glicada (HbA1c) e na sensibilidade à insulina no grupo que recebeu doxiciclina como adjuvante, em comparação ao grupo controle. Além disso, observou-se redução nos marcadores inflamatórios — como proteína C reativa (PCR) e interleucina-6 (IL-6) —, sugerindo um efeito anti-inflamatório adicional do fármaco, alinhado ao seu mecanismo de inibição da metaloproteinase de matriz (MMP). A análise multivariada identificou a doxiciclina como determinante independente da resposta terapêutica. Contudo, o estudo não reportou dados sobre eventos adversos graves nem comparou a incidência de hipoglicemia entre os grupos.\n\nAs limitações incluem o curto período de seguimento (12 semanas), a amostra reduzida e a ausência de estratificação por comorbidades ou uso de outras medicações antidiabéticas. Embora os achados sejam promissores para um reposicionamento terapêutico, são necessários estudos maiores e de longo prazo para confirmar a eficácia clínica e o perfil de segurança da doxiciclina nesse contexto, bem como para elucidar os mecanismos moleculares envolvidos na interação com o sitagliptina.\n\n---\n\n**English version**\n\nA randomized controlled trial recently published in *Naunyn-Schmiedeberg’s Archives of Pharmacology* investigated the repurposing of doxycycline as an adjunctive therapy to sitagliptin in patients with type 2 diabetes mellitus (T2DM). The study enrolled 57 adults with T2DM, randomly assigned to receive either sitagliptin monotherapy (n=29) or sitagliptin combined with doxycycline (n=28) for 12 weeks. The primary outcomes included glycemic control, insulin sensitivity, lipid profile, cardiometabolic risk indices, and inflammatory biomarkers, with assessments conducted at baseline and after treatment.\n\nFindings demonstrated a significant reduction in glycated hemoglobin (HbA1c) and improved insulin sensitivity in the doxycycline adjunct group compared to sitagliptin alone. Additionally, inflammatory markers such as C-reactive protein (CRP) and interleukin-6 (IL-6) decreased, supporting doxycycline’s anti-inflammatory effects—likely mediated by matrix metalloproteinase (MMP) inhibition. Multivariable regression analysis identified doxycycline as an independent determinant of treatment response. However, the study did not report data on serious adverse events or compare hypoglycemia incidence between groups.\n\nKey limitations include the short follow-up duration (12 weeks), small sample size, and lack of stratification by comorbidities or concurrent antidiabetic therapies. While results suggest potential therapeutic repurposing, larger and longer-term studies are required to validate efficacy, safety, and the molecular interplay between doxycycline and sitagliptin in T2DM management.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42271067",
+    "authors": [
+      {
+        "name": "Eman El-Khateeb",
+        "affiliation": "Clinical Pharmacy Department, Faculty of Pharmacy, Tanta University, Tanta, Egypt."
+      },
+      {
+        "name": "Mohannad O Khrieba",
+        "affiliation": "Pharmacy Practice Department, Faculty of Pharmacy, Horus University, New Damietta, Egypt."
+      },
+      {
+        "name": "Amal Mohammad Badawoud",
+        "affiliation": "Pharmacy Practice Department, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt."
+      },
+      {
+        "name": "Ahmed A Morsy",
+        "affiliation": "Department of Pharmacy Practice, College of Pharmacy, Princess Nourah bint Abdulrahman University, Riyadh, 11671, Saudi Arabia. ambadawoud@pnu.edu.sa."
+      }
+    ],
+    "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+    "publishedDate": "2026-06-10",
+    "fetchedDate": "2026-06-11",
+    "category": "Endocrinologia",
+    "tags": [
+      "diabetes",
+      "insulin",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42265882",
     "pmid": "42265882",
     "doi": "10.1111/head.70114",
@@ -37,7 +289,7 @@
       "pharmacology",
       "therapeutic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -80,7 +332,7 @@
       "atrial",
       "coronary"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -122,7 +374,7 @@
       "stroke",
       "clinical trial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -167,7 +419,7 @@
       "rna",
       "vaccine"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -208,7 +460,7 @@
     "tags": [
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12323,248 +12575,5 @@
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Legacy/nao-rastreado"
-  },
-  {
-    "id": "pubmed-41780463",
-    "pmid": "41780463",
-    "doi": "10.1016/j.schres.2026.02.014",
-    "title": "Disentangling the relationship between psychiatric disorders, cardiometabolic abnormalities, and antipsychotics: A systematic review of genomic studies.",
-    "titlePt": "Disentangling the relationship between psychiatric disorders, cardiometabolic abnormalities, and antipsychotics: A systematic review of genomic studies.",
-    "abstract": "Psychiatric disorders are often comorbid with metabolic syndrome (MetS), suggesting shared genetic architecture. This systematic review investigated the genetic connections between psychiatric disorders, antipsychotic use, and MetS through genome-wide association studies and related genetic approaches. We systematically searched PubMed, Scopus, and Web of Science for relevant studies published between January 2005 and August 2025. Seventy-seven studies were included in the systematic review upon meeting the inclusion criteria. Substantial shared genetic architecture was found between psychiatric disorders and metabolic traits, particularly involving major depressive disorder (MDD), schizophrenia (SCZ), and body mass index (BMI). Key implicated pathways included lipid metabolism, glucose homeostasis, and inflammatory processes. Mendelian randomization studies provided evidence for causal relationships, notably a unidirectional effect of MDD on MetS, and bidirectional relationships betwe",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41780463",
-    "authors": [
-      {
-        "name": "Rory Shepherd",
-        "affiliation": "Australian Centre for Precision Health, University of South Australia, Adelaide, South Australia, Australia; UniSA Clinical and Health Sciences, University of South Australia, Adelaide, South Australia, Australia; South Australian Health and Medical Research Institute, Adelaide, South Australia, Australia."
-      },
-      {
-        "name": "David Stacey",
-        "affiliation": "Australian Centre for Precision Health, University of South Australia, Adelaide, South Australia, Australia; UniSA Clinical and Health Sciences, University of South Australia, Adelaide, South Australia, Australia; South Australian Health and Medical Research Institute, Adelaide, South Australia, Australia."
-      },
-      {
-        "name": "Jack Janetzki",
-        "affiliation": "UniSA Clinical and Health Sciences, University of South Australia, Adelaide, South Australia, Australia."
-      },
-      {
-        "name": "Scott R Clark",
-        "affiliation": "Discipline of Psychiatry, University of Adelaide, Adelaide, South Australia, Australia; Central Adelaide Local Health Care Network, Adelaide, South Australia, Australia."
-      }
-    ],
-    "journal": "Schizophrenia research",
-    "publishedDate": "2026-03-13",
-    "fetchedDate": "2026-04-14",
-    "category": "Genômica",
-    "tags": [
-      "genomic",
-      "genetic",
-      "gene",
-      "psychiatric",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41401904",
-    "pmid": "41401904",
-    "doi": "10.1016/j.jad.2025.120891",
-    "title": "Effects of lithium on blood glucose and insulin in individuals with bipolar disorder: A systematic review.",
-    "titlePt": "Effects of lithium on blood glucose and insulin in individuals with bipolar disorder: A systematic review.",
-    "abstract": "Lithium is the gold-standard pharmacotherapy for both acute episodes and long-term management of bipolar disorder (BD). Lithium treatment is associated with metabolic changes including weight gain; however, the exact mechanisms mediating weight increase are poorly understood. This systematic review assesses the effects of lithium on glucose, glucose-tolerance and insulin in persons with BD. A systematic search was conducted on PubMed, MEDLINE, Embase, CENTRAL, APA PsychINFO, Scopus and Web of Science. Primary studies assessing validated metrics of serum glucose or insulin in bipolar patients receiving lithium treatment were included. 16 studies were included in this review. Fasting plasma glucose (FPG) was the most studied metabolic biomarker. Most studies did not report an association between lithium and changes in FPG. Lithium treatment did increase glucose tolerance in the short-term, however most short-term effects appear to be transient and do not persist. There is a lack of a con",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41401904",
-    "authors": [
-      {
-        "name": "David Kanter-Eivin",
-        "affiliation": "Michael G. DeGroote School of Medicine, McMaster University, Canada."
-      },
-      {
-        "name": "Konstantin Blinkov",
-        "affiliation": "Faculty of Health Sciences, McMaster University, Canada."
-      },
-      {
-        "name": "Sadie MacDonald",
-        "affiliation": "Faculty of Health Sciences, McMaster University, Canada."
-      },
-      {
-        "name": "Jada Gibson",
-        "affiliation": "Faculty of Health Sciences, McMaster University, Canada."
-      }
-    ],
-    "journal": "Journal of affective disorders",
-    "publishedDate": "2026-03-12",
-    "fetchedDate": "2026-04-14",
-    "category": "Endocrinologia",
-    "tags": [
-      "insulin",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41819984",
-    "pmid": "41819984",
-    "doi": "10.1080/14767058.2026.2640251",
-    "title": "The preventive effects of different interventions on gestational hypertension: incidence and network meta-analysis.",
-    "titlePt": "The preventive effects of different interventions on gestational hypertension: incidence and network meta-analysis.",
-    "abstract": "A network meta-analysis based on randomized controlled trials was conducted to investigate the effects of different interventions in preventing gestational hypertension (GHT). A comprehensive search of English databases was performed from database inception to March 1st, 2025 to identify randomized controlled trials (RCTs) evaluating different interventions for the prevention GHT. The methodological quality and risk of bias for the included trials were appraised according to the Cochrane Handbook tool. A network meta-analysis was conducted using Stata version 15.1 software, and pooled effect estimates were expressed as the odds ratio (OR) with 95% confidence interval (CI). A total of 50 randomized controlled trials involving 57,836 pregnant women were included in the network meta-analysis. For all included trials, 12 interventions were evaluated, resulting in 66 direct pairwise comparisons. The network meta-analysis demonstrated that compared with Placebo, Aspirin (OR = 0.68, 95% CI [0",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41819984",
-    "authors": [
-      {
-        "name": "Yu Wu",
-        "affiliation": "The First Clinical Medical College, Lanzhou University, Lanzhou, Gansu, China."
-      },
-      {
-        "name": "Kangle Guo",
-        "affiliation": "Department of Obstetrics and Gynecology, the First Hospital of Lanzhou University, Key Laboratory of Gynecologic Oncology of Gansu Province, Lanzhou, Gansu, China."
-      },
-      {
-        "name": "Yongxiu Yang",
-        "affiliation": "Evidence-Based Medicine Center, School of Basic Medical Sciences, Lanzhou University, Lanzhou, China."
-      },
-      {
-        "name": "Kehu Yang",
-        "affiliation": "Evidence-based Social Sciences Research Center, School of Public Health, Lanzhou University, Lanzhou, China."
-      }
-    ],
-    "journal": "The journal of maternal-fetal &amp; neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
-    "publishedDate": "2026-03-12",
-    "fetchedDate": "2026-04-14",
-    "category": "Cardiologia",
-    "tags": [
-      "hypertension"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41801186",
-    "pmid": "41801186",
-    "doi": "10.1080/13696998.2026.2637396",
-    "title": "A systematic literature review of methodologies used in economic evaluations of combination vaccines.",
-    "titlePt": "A systematic literature review of methodologies used in economic evaluations of combination vaccines.",
-    "abstract": "Combination vaccines offer simultaneous protection against different diseases or strains of the same pathogen. They could improve vaccine coverage and health outcomes while reducing healthcare visits and injection costs. This systematic literature review (CRD420251135227) aimed to characterise methodologies employed in full economic evaluations of combination vaccines targeting multiple diseases. Searches were performed in August 2025 in MEDLINE, Embase, Web of Science, CEA Registry, International HTA Database, and the NHS Economic Evaluation Database. Studied included cost-utility (CUA), cost-effectiveness (CEA) or cost-benefit analyses (CBA) evaluating all the diseases covered by combination vaccines. Given the qualitative research question, findings were narratively synthesised. Quality assessment used CHEERS and the WHO framework for Immunisation Programmes. Seven studies (3 CUAs; 4 CEAs) were included. They targeted five different combination vaccines across four countries and &#x",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41801186",
-    "authors": [
-      {
-        "name": "Manuela Di Fusco",
-        "affiliation": "Division of Health Research, Lancaster University, Lancaster, UK."
-      },
-      {
-        "name": "Shailja Vaghela",
-        "affiliation": "HealthEcon Consulting, Inc, Ancaster, Canada."
-      },
-      {
-        "name": "Ceu Mateus",
-        "affiliation": "Division of Health Research, Lancaster University, Lancaster, UK."
-      },
-      {
-        "name": "Katharina Janke",
-        "affiliation": "Division of Health Research, Lancaster University, Lancaster, UK."
-      }
-    ],
-    "journal": "Journal of medical economics",
-    "publishedDate": "2026-03-09",
-    "fetchedDate": "2026-04-14",
-    "category": "Genômica",
-    "tags": [
-      "rna",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41802941",
-    "pmid": "41802941",
-    "doi": "10.1080/21645515.2026.2641328",
-    "title": "Human papillomavirus awareness and vaccination willingness among male community residents in Beijing based on the Health Belief Model.",
-    "titlePt": "Human papillomavirus awareness and vaccination willingness among male community residents in Beijing based on the Health Belief Model.",
-    "abstract": "Following the January 2025 approval of the first male HPV vaccine in the Chinese mainland, we investigated vaccination willingness and its influencing factors among community-dwelling men. We conducted a cross-sectional study in Beijing, recruiting 480 community-based male residents and 399 men who have sex with men (MSM). Participants completed a questionnaire assessing HPV knowledge and the Health Belief Model (HBM) constructs. Multivariable logistic regression was performed to identify determinants of willingness. We found a high level of vaccination willingness, which was notably higher among MSM (90.73%) than the community-recruited male population (87.29%). Critically, willingness surpassed awareness, indicating significant latent demand despite low overall HPV knowledge. HBM analysis showed that perceived benefits promoted willingness in both groups, while self-efficacy of prevention paradoxically acted as an inhibitor. MSM reported higher perceived susceptibility and benefits, ",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41802941",
-    "authors": [
-      {
-        "name": "Yan Xing",
-        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
-      },
-      {
-        "name": "Rujing Shi",
-        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
-      },
-      {
-        "name": "Yulian Li",
-        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
-      },
-      {
-        "name": "Run Cai",
-        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
-      }
-    ],
-    "journal": "Human vaccines &amp; immunotherapeutics",
-    "publishedDate": "2026-03-09",
-    "fetchedDate": "2026-04-14",
-    "category": "Imunologia",
-    "tags": [
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41638438",
-    "pmid": "41638438",
-    "doi": "10.1016/j.appet.2026.108491",
-    "title": "Associations between regulatory problems in early childhood and parental feeding practices, child eating behaviour, and weight: A systematic review and narrative synthesis.",
-    "titlePt": "Associations between regulatory problems in early childhood and parental feeding practices, child eating behaviour, and weight: A systematic review and narrative synthesis.",
-    "abstract": "Early difficulties in the regulation of emotion, sleep and eating are common in early childhood and may shape developmental pathways of eating behaviours and weight. Understanding these pathways is key to identifying modifiable targets for promoting healthy eating and growth. This systematic review aimed to synthesise available evidence linking regulatory problems (RPs) of emotion, sleeping, and eating in early childhood to feeding, eating, and weight outcomes and evaluate methodological quality and level of evidence using the National Institutes of Health Quality Assessment Tool and best evidence synthesis. We searched MEDLINE, EMBASE, and PsycINFO for studies published in English from inception to September 2025. Eligible studies included children aged 3-36 months with a measure of RP and either parental feeding practice, child eating behaviour, or weight. Methodological quality was assessed, and a narrative synthesis undertaken. Thirty-eight studies were eligible for inclusion. Most",
-    "journalisticSummary": "Estudos recentes têm destacado a importância de entender como os problemas regulatórios na primeira infância, incluindo dificuldades na regulação emocional, sono e alimentação, podem influenciar o desenvolvimento de comportamentos alimentares saudáveis e o crescimento adequado em crianças. Um estudo publicado na revista Appetite, com DOI 10.1016/j.appet.2026.108491, realizou uma revisão sistemática e síntese narrativa para explorar as associações entre esses problemas regulatórios e práticas alimentares parentais, comportamento alimentar infantil e peso. Os autores buscaram identificar evidências que pudessem ajudar a entender como esses problemas na primeira infância podem moldar os caminhos de desenvolvimento dos comportamentos alimentares e do peso, visando identificar alvos modificáveis para promover uma alimentação saudável e um crescimento adequado.\n\nA revisão incluiu 38 estudos que avaliaram crianças com idades entre 3 e 36 meses, com medidas de problemas regulatórios e práticas alimentares parentais, comportamento alimentar infantil ou peso. A qualidade metodológica dos estudos foi avaliada utilizando a ferramenta de avaliação de qualidade do National Institutes of Health, e uma síntese narrativa foi realizada. Embora o resumo não forneça detalhes sobre os principais achados, é importante notar que a compreensão dessas associações pode ter implicações significativas para o desenvolvimento de estratégias de intervenção precoce que visem prevenir problemas de alimentação e obesidade infantil.\n\nOs resultados desses estudos podem ter um impacto clínico significativo, uma vez que a identificação de problemas regulatórios na primeira infância pode permitir que os pais e os profissionais de saúde adotem abordagens mais eficazes para promover comportamentos alimentares saudáveis e prevenir o excesso de peso. No entanto, não foi informado no resumo original quais foram os principais achados ou como esses problemas regulatórios se relacionam especificamente com as práticas alimentares parentais e o comportamento alimentar infantil. Além disso, os limites dos estudos revisados, como a variedade de métodos e medidas utilizados, podem afetar a generalização dos resultados.\n\nOs próximos passos para a pesquisa nessa área devem incluir estudos longitudinais que avaliem como os problemas regulatórios na primeira infância se relacionam com resultados de alimentação e peso em longo prazo, bem como intervenções randomizadas que testem estratégias para modificar esses problemas regulatórios e promover comportamentos alimentares saudáveis. Compreender melhor essas associações pode levar ao desenvolvimento de programas de prevenção e intervenção mais eficazes para problemas de alimentação e obesidade infantil.\n\nRecent studies have highlighted the importance of understanding how regulatory problems in early childhood, including difficulties in emotional regulation, sleep, and eating, can influence the development of healthy eating behaviors and adequate growth in children. A study published in the journal Appetite, with DOI 10.1016/j.appet.2026.108491, conducted a systematic review and narrative synthesis to explore the associations between these regulatory problems and parental feeding practices, child eating behavior, and weight. The authors sought to identify evidence that could help understand how these problems in early childhood can shape the developmental pathways of eating behaviors and weight, aiming to identify modifiable targets for promoting healthy eating and growth.\n\nThe review included 38 studies that assessed children aged 3 to 36 months, with measures of regulatory problems and parental feeding practices, child eating behavior, or weight. The methodological quality of the studies was assessed using the National Institutes of Health Quality Assessment Tool, and a narrative synthesis was undertaken. Although the abstract does not provide details on the main findings, it is essential to note that understanding these associations can have significant implications for the development of early intervention strategies aimed at preventing eating problems and childhood obesity.\n\nThe results of these studies can have a significant clinical impact, as the identification of regulatory problems in early childhood can allow parents and healthcare professionals to adopt more effective approaches to promoting healthy eating behaviors and preventing excess weight. However, the original abstract did not inform about the main findings or how these regulatory problems specifically relate to parental feeding practices and child eating behavior. Additionally, the limitations of the reviewed studies, such as the variety of methods and measures used, may affect the generalization of the results.\n\nThe next steps for research in this area should include longitudinal studies that assess how regulatory problems in early childhood relate to long-term eating and weight outcomes, as well as randomized interventions that test strategies for modifying these regulatory problems and promoting healthy eating behaviors. Better understanding these associations can lead to the development of more effective prevention and intervention programs for eating problems and childhood obesity.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41638438",
-    "authors": [
-      {
-        "name": "Clara Barfod Parellada",
-        "affiliation": "National Institute of Public Health, University of Southern Denmark, Denmark. Electronic address: clar@sdu.dk."
-      },
-      {
-        "name": "Jette Asmussen",
-        "affiliation": "Department of Clinical Research, Research Unit of Child and Adolescent Mental Health, University of Southern Denmark, Denmark."
-      },
-      {
-        "name": "Anne Lise Olsen",
-        "affiliation": "Department of Child and Adolescent Psychiatry, Copenhagen University Hospital - Psychiatry Region Zealand, Denmark."
-      },
-      {
-        "name": "Anne Mette Skovgaard",
-        "affiliation": "National Institute of Public Health, University of Southern Denmark, Denmark."
-      }
-    ],
-    "journal": "Appetite",
-    "publishedDate": "2026-03-08",
-    "fetchedDate": "2026-04-16",
-    "category": "Pediatria",
-    "tags": [
-      "children",
-      "childhood"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
