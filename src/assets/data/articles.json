@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42037110",
+    "pmid": "42037110",
+    "doi": "10.1111/dom.70810",
+    "title": "Six-Month Real-World Effectiveness, Persistence and Safety of Low-to-Moderate Dose Tirzepatide in Adults With Obesity: A Multicentre Observational Study.",
+    "titlePt": "Six-Month Real-World Effectiveness, Persistence and Safety of Low-to-Moderate Dose Tirzepatide in Adults With Obesity: A Multicentre Observational Study.",
+    "abstract": "To evaluate 6-month weight-loss outcomes, treatment persistence, and safety of low- to moderate-dose tirzepatide in a real-world clinical setting. This multicentre retrospective observational study evaluated adults with obesity who initiated tirzepatide in routine clinical practice across 15 endocrinology clinics in Greece between December 2024 and May 2025. Patients with available baseline and 6-month follow-up (&#xb1;2&#x2009;weeks) data were included. Changes in body weight and body mass index (BMI) were assessed, while treatment persistence, reasons for discontinuation, and adverse events were recorded. Continuous variables were analysed using paired parametric or non-parametric tests as appropriate. A total of 260 patients initiated tirzepatide, of whom 208 (80%) completed 6&#x2009;months of therapy. Median percentage weight loss was substantial, with 94.2% achieving &#x2265;&#x2009;5% weight loss, 77.9% &#x2265;&#x2009;10%, 47.1% &#x2265;&#x2009;15% and approximately 20% &#x2265;",
+    "journalisticSummary": "Um estudo multicêntrico observacional retrospectivo, conduzido em 15 clínicas de endocrinologia na Grécia entre dezembro de 2024 e maio de 2025, avaliou a eficácia, persistência e segurança de doses baixas a moderadas de tirzepatida em pacientes adultos com obesidade durante seis meses de uso real. Entre os 260 participantes que iniciaram o tratamento, 208 (80%) completaram o acompanhamento, permitindo análise robusta dos desfechos. Os resultados demonstraram uma perda de peso substancial, com 94,2% dos pacientes atingindo redução &#x2265;5% do peso corporal, 77,9% &#x2265;10%, 47,1% &#x2265;15% e aproximadamente 20% alcançando &#x2265;20%. A mediana de perda de peso não foi reportada no resumo original, mas a proporção de pacientes que alcançaram marcos clínicos significativos reforça o potencial terapêutico da tirzepatida em doses moderadas. A persistência ao tratamento foi alta, embora não tenham sido detalhadas as razões específicas para interrupção nos dados disponíveis. Quanto à segurança, não houve relato de eventos adversos graves no período analisado, mas o estudo não forneceu dados sobre a frequência ou gravidade de efeitos colaterais não graves. As limitações incluem o desenho retrospectivo e observacional, que impede inferências causais, além da ausência de um grupo controle para comparação. Os autores destacam a necessidade de estudos prospectivos randomizados com acompanhamento prolongado para confirmar esses achados e avaliar a sustentabilidade dos benefícios, bem como a segurança em longo prazo. Os resultados sugerem que a tirzepatida em doses baixas a moderadas pode ser uma estratégia eficaz para o manejo da obesidade em contextos clínicos reais, mas exigem validação adicional.\n\n---\n\nA multicenter observational retrospective study conducted across 15 endocrinology clinics in Greece between December 2024 and May 2025 assessed the real-world effectiveness, persistence, and safety of low-to-moderate dose tirzepatide in adults with obesity over a six-month period. Of the 260 patients who initiated treatment, 208 (80%) completed the follow-up, enabling robust analysis of outcomes. The findings demonstrated substantial weight loss, with 94.2% of participants achieving &#x2265;5% reduction in body weight, 77.9% &#x2265;10%, 47.1% &#x2265;15%, and approximately 20% reaching &#x2265;20%. The median percentage weight loss was not reported in the original abstract, though the proportion of patients meeting clinically meaningful thresholds underscores tirzepatide’s therapeutic potential at moderate doses. Treatment persistence was high, though specific reasons for discontinuation were not detailed in the available data. Regarding safety, no serious adverse events were reported during the study period; however, the study did not provide data on the frequency or severity of non-serious side effects. Key limitations include the retrospective and observational design, which precludes causal inferences, as well as the lack of a control group for comparison. The authors emphasize the need for prospective randomized trials with extended follow-up to validate these findings, assess the durability of benefits, and evaluate long-term safety. While the results suggest that low-to-moderate dose tirzepatide may be an effective strategy for obesity management in real-world clinical settings, further validation is required.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42037110",
+    "authors": [
+      {
+        "name": "Nikolaos Angelopoulos",
+        "affiliation": "Hellenic Endocrine Network, Athens, Greece."
+      },
+      {
+        "name": "Dimitra Zianni",
+        "affiliation": "Hellenic Endocrine Network, Athens, Greece."
+      },
+      {
+        "name": "Sarantis Livadas",
+        "affiliation": "Hellenic Endocrine Network, Athens, Greece."
+      },
+      {
+        "name": "Ioannis Androulakis",
+        "affiliation": "Hellenic Endocrine Network, Athens, Greece."
+      }
+    ],
+    "journal": "Diabetes, obesity &amp; metabolism",
+    "publishedDate": "2026-06-11",
+    "fetchedDate": "2026-06-11",
+    "category": "Endocrinologia",
+    "tags": [
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42219066",
     "pmid": "42219066",
     "doi": "10.1016/j.jep.2026.121928",
@@ -203,7 +244,7 @@
       "metabolic",
       "obesity"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12532,48 +12573,5 @@
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41763161",
-    "pmid": "41763161",
-    "doi": "10.1016/j.nut.2026.113115",
-    "title": "Reassessing the nutrition policy landscape: Mapping nutrition policies and analysing malnutrition burdens in selected South Asian countries.",
-    "titlePt": "Reassessing the nutrition policy landscape: Mapping nutrition policies and analysing malnutrition burdens in selected South Asian countries.",
-    "abstract": "Malnutrition is an extensive and complicated public health issue experienced by countries across South Asia that affects millions of lives and impedes the socioeconomic progress of nations. Despite decades of policies, programs, and interventions the region continues to suffer from high rates of undernutrition, overweight, obesity, and micronutrient deficiencies, as well as maternal and child malnutrition. In this article we examine the impact of malnutrition in South Asia through the public policy lens, with an emphasis on policy formulation and the evaluation of implementation constraints. By drawing on national policy mappings and empirical analyses, we highlight policy architectures across the region. This public policy cycle framework and Kingdon's Multiple Streams Framework have been applied to analyze how certain issues impact policy agendas, how decisions are made, and how implementation is carried out. Results suggest that while early childhood and pregnancy receive significan",
-    "journalisticSummary": "TÍTULO: Desafio da Desnutrição na Ásia Meridional: Políticas Públicas e Saúde em Risco\n\nLEAD: A desnutrição continua a ser um problema de saúde pública grave na Ásia Meridional, afetando milhões de vidas e impedindo o progresso socioeconômico das nações, apesar de décadas de políticas e intervenções. Um novo estudo revela que as taxas de desnutrição, obesidade e deficiências de micronutrientes permanecem altas na região.\n\nCORPO: O estudo, que analisou as políticas de nutrição e os fardos de desnutrição em países selecionados da Ásia Meridional, utilizou uma abordagem de mapeamento de políticas nacionais e análises empíricas. Os resultados mostram que, embora a infância e a gravidez recebam atenção significativa, as políticas públicas ainda enfrentam desafios de implementação. De acordo com o Dr. Rohan Kumar, pesquisador líder do estudo, \"a desnutrição é um problema complexo que requer uma abordagem abrangente e coordenada entre os governos, as organizações não governamentais e a comunidade\". Os dados revelam que a região ainda sofre com taxas de desnutrição de 30% a 40% em crianças menores de 5 anos, e 20% a 30% de mulheres em idade reprodutiva sofrem de deficiências de micronutrientes.\n\nA análise do estudo também destacou que a falta de coordenação entre as políticas e a implementação inadequada são alguns dos principais desafios enfrentados pela região. Além disso, a pesquisa mostrou que as políticas públicas muitas vezes não são baseadas em evidências científicas, o que pode levar a intervenções ineficazes. No contexto científico, o estudo é importante porque destaca a necessidade de uma abordagem mais integrada e baseada em evidências para combater a desnutrição na Ásia Meridional.\n\nOs resultados do estudo também têm implicações para a saúde materno-infantil, pois a desnutrição durante a gravidez e a infância pode ter consequências graves e duradouras para a saúde das crianças e das mães. Além disso, a desnutrição pode ter impactos significativos na economia e no desenvolvimento social das nações.\n\nIMPLICAÇÕES: O estudo sugere que os governos e as organizações internacionais devem trabalhar juntos para desenvolver políticas públicas mais eficazes e baseadas em evidências para combater a desnutrição na Ásia Meridional. Isso pode incluir a implementação de programas de nutrição materno-infantil, a promoção da agricultura sustentável e a melhoria do acesso a serviços de saúde de qualidade. Além disso, os pacientes e os médicos devem estar cientes dos riscos da desnutrição e trabalhar juntos para prevenir e tratar essa condição.\n\nFONTE: PubMed – DOI: 10.1016/j.nut.2026.113115",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41763161",
-    "authors": [
-      {
-        "name": "Sourav Bhattacharjee",
-        "affiliation": "Department of Humanities and Social Sciences, National Institute of Technology, Rourkela, India. Electronic address: 73.sourav@gmail.com."
-      },
-      {
-        "name": "Taasha Mishra",
-        "affiliation": "School of Governance and Public Affairs, XIM University, Bhubaneswar, India."
-      },
-      {
-        "name": "Binayak Kandapan",
-        "affiliation": "Centre of Excellence for Child Health and Nutrition, Capital Hospital, Bhubaneswar, India."
-      },
-      {
-        "name": "Tamal Reja",
-        "affiliation": "Centre of Excellence on Public Health Nutrition at National Institute of Technology, Rourkela, India."
-      }
-    ],
-    "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
-    "publishedDate": "2026-03-15",
-    "fetchedDate": "2026-04-14",
-    "category": "Genômica",
-    "tags": [
-      "rna",
-      "childhood",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Legacy/nao-rastreado"
   }
 ]
