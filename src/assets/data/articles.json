@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42258466",
+    "pmid": "42258466",
+    "doi": "10.1080/13696998.2026.2670958",
+    "title": "Modeling the cost-effectiveness of the COVID-19 mRNA-1273 vaccine in the United States.",
+    "titlePt": "Modeling the cost-effectiveness of the COVID-19 mRNA-1273 vaccine in the United States.",
+    "abstract": "The main objective was to estimate the potential public health impact and cost-effectiveness of an annual dose of mRNA-1273 in the United States (US) for a one-year time horizon compared with no vaccination in the mRNA-1273 licensed population (6&#x2009;months-64&#x2009;years with underlying medical conditions and all &#x2265;65&#x2009;years). mRNA-1273 was also compared to BNT162b2 in high-risk adults ages 18-64&#x2009;years and all &#x2265;65&#x2009;years. Analyses were conducted using a previously developed static decision-analytic model (1-year horizon) from the societal cost perspective. Vaccine effectiveness (VE) against infection and hospitalization for mRNA-1273 versus no vaccination was based on a 2024-2025 real world effectiveness study. VE estimates for mRNA-1273 versus BNT162b2 were based on systematic literature reviews and meta-analyses. Cost-effectiveness was assessed in terms of incremental cost per quality-adjusted life-year (QALY) gained and the benefit cost ratio (BC",
+    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a eficácia e a rentabilidade da vacina mRNA-1273 contra a COVID-19 nos Estados Unidos. Com o objetivo de estimar o impacto sobre a saúde pública e a relação custo-eficácia de uma dose anual dessa vacina, os pesquisadores compararam os resultados em uma população com idade entre 6 meses e 64 anos com condições médicas pré-existentes, bem como em indivíduos acima de 65 anos, em um período de um ano. Além disso, a vacina mRNA-1273 foi comparada à vacina BNT162b2 em adultos de alto risco com idades entre 18 e 64 anos e em todos os indivíduos acima de 65 anos. Os resultados foram obtidos por meio de um modelo de análise de decisão estático, considerando a perspectiva dos custos para a sociedade. A eficácia da vacina contra infecções e hospitalizações foi baseada em estudos de eficácia no mundo real realizados entre 2024 e 2025, enquanto as comparações com a vacina BNT162b2 foram fundamentadas em revisões sistemáticas e metanálises. A análise de custo-eficácia foi realizada em termos de custo incremental por ano de vida ajustado por qualidade (QALY) ganho e na relação benefício-custo. Embora os detalhes específicos sobre os resultados não tenham sido informados, esse estudo oferece uma contribuição importante para a compreensão da eficácia e da rentabilidade da vacina mRNA-1273, o que pode ter implicações significativas para as políticas de saúde pública e as decisões clínicas. No entanto, é fundamental considerar as limitações do estudo e os próximos passos para uma avaliação mais aprofundada da vacinação contra a COVID-19.\n\nA recent study published on PubMed investigated the efficacy and cost-effectiveness of the mRNA-1273 COVID-19 vaccine in the United States. With the objective of estimating the public health impact and cost-effectiveness of an annual dose of this vaccine, researchers compared outcomes in a population aged 6 months to 64 years with underlying medical conditions, as well as in individuals above 65 years, over a one-year period. Additionally, the mRNA-1273 vaccine was compared to the BNT162b2 vaccine in high-risk adults aged 18-64 years and in all individuals above 65 years. The results were obtained through a static decision-analytic model, considering the societal cost perspective. The vaccine's effectiveness against infections and hospitalizations was based on real-world effectiveness studies conducted between 2024 and 2025, while comparisons with the BNT162b2 vaccine were grounded in systematic reviews and meta-analyses. The cost-effectiveness analysis was performed in terms of incremental cost per quality-adjusted life-year (QALY) gained and the benefit-cost ratio. Although specific details about the results were not provided, this study offers an important contribution to understanding the efficacy and cost-effectiveness of the mRNA-1273 vaccine, which may have significant implications for public health policies and clinical decisions. However, it is essential to consider the study's limitations and the next steps for a more in-depth evaluation of COVID-19 vaccination.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42258466",
+    "authors": [
+      {
+        "name": "Kelly Fust",
+        "affiliation": "Quadrant Health Economics, Inc, Cambridge, Canada."
+      },
+      {
+        "name": "Ekkehard Beck",
+        "affiliation": "Moderna, Inc, Cambridge, MA, USA."
+      },
+      {
+        "name": "Michele Kohli",
+        "affiliation": "Quadrant Health Economics, Inc, Cambridge, Canada."
+      },
+      {
+        "name": "Shannon Cartier",
+        "affiliation": "Quadrant Health Economics, Inc, Cambridge, Canada."
+      }
+    ],
+    "journal": "Journal of medical economics",
+    "publishedDate": "2026-06-12",
+    "fetchedDate": "2026-06-12",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "covid",
+      "rna",
+      "vaccine"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42257867",
     "pmid": "42257867",
     "doi": "10.1080/21645515.2026.2678679",
@@ -204,7 +248,7 @@
       "cardiovascular",
       "atrial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12530,48 +12574,6 @@
     ],
     "isHighlight": false,
     "readTime": 6,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41439471",
-    "pmid": "41439471",
-    "doi": "10.1002/ijc.70312",
-    "title": "Immunotherapy in advanced gastroesophageal cancers: A meta-analysis of sex-based outcomes in overall survival.",
-    "titlePt": "Immunotherapy in advanced gastroesophageal cancers: A meta-analysis of sex-based outcomes in overall survival.",
-    "abstract": "Immune-checkpoint-inhibition (ICI) represents the mainstay for treatment of advanced gastroesophageal cancer (GEC) in most cases. Sex differences in innate and adaptive immune responses are known to reflect distinct anti-tumor efficacy of ICI in female and male patients. However, most randomized controlled trials (RCTs) on ICI in GEC were conducted without taking sex differences into account. To address this uncertainty, we conducted a meta-analysis across first-line (1L) RCTs in advanced GEC. Systematic research was performed up to March 31, 2025. The primary endpoint was the pooled hazard ratio (HR) for overall survival (OS) in male and female patients, comparing ICI-based therapy versus control. The secondary objective was to assess the interaction between sex and treatment effect. A total of 15 RCTs were included (7 trials on ESCC and 8 trials on GEA). In male ESCC patients, the pooled HR for OS favored ICI with statistical significance (HR&#x2009;=&#x2009;0.70, 95% CI&#x2009;=&#x2",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41439471",
-    "authors": [
-      {
-        "name": "Michael Masetti",
-        "affiliation": "Department of Medicine III (Hematology and Oncology), Klinikum Rechts der Isar, Technische Universit&#xe4;t M&#xfc;nchen, Munich, Germany."
-      },
-      {
-        "name": "Fausto Petrelli",
-        "affiliation": "Oncology Unit, Medical Sciences Department, ASST Bergamo Ovest, Treviglio, Italy."
-      },
-      {
-        "name": "Filippo Pietrantonio",
-        "affiliation": "Medical Oncology Department, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy."
-      },
-      {
-        "name": "Sylvie Lorenzen",
-        "affiliation": "Department of Medicine III (Hematology and Oncology), Klinikum Rechts der Isar, Technische Universit&#xe4;t M&#xfc;nchen, Munich, Germany."
-      }
-    ],
-    "journal": "International journal of cancer",
-    "publishedDate": "2026-03-18",
-    "fetchedDate": "2026-04-14",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "immunotherapy",
-      "immune"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
     "aiProcessed": false
   }
 ]
