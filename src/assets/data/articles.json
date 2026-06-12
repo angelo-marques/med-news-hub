@@ -41,6 +41,49 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-41615824",
+    "pmid": "41615824",
+    "doi": "10.1080/07853890.2026.2622208",
+    "title": "Combined B-vitamin supplementation on homocysteine and vascular outcomes in coronary heart disease: a meta-analysis.",
+    "titlePt": "Combined B-vitamin supplementation on homocysteine and vascular outcomes in coronary heart disease: a meta-analysis.",
+    "abstract": "Hyperhomocysteinemia (Hcy) independently predicts coronary heart disease (CHD) and adverse cardiovascular events. Although folic acid plays a key role in Hcy metabolism, the effect of combined B-vitamin supplementation (folic acid, VB6, and VB12) on clinical outcomes in CHD remains uncertain. A systematic search of PubMed, Embase, and the Cochrane Library was conducted from inception through April 2025 using MeSH terms including \"folic acid,\" \"vitamin B6,\" \"vitamin B12,\" \"coronary heart disease,\" and \"homocysteine.\" A random-effects model was used for meta-analysis. Thirteen studies involving 14,539 participants were included in the meta-analysis (7,338 patients treated with folic acid combined with vitamin B complex and 7,301 controls). Combined B-vitamin supplementation significantly reduced serum Hcy levels [mean difference: -2.36; 95% confidence interval (CI): (-3.09 to -1.62); p&#x2009;&lt;&#x2009;0.01] compared with any single-nutrient regimen. The incidence of vascular restenosi",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo meta-análise publicado na *Acta Cardiologica* revela que a suplementação combinada de vitaminas do complexo B — incluindo ácido fólico, vitamina B6 e B12 — reduz de forma significativa os níveis séricos de homocisteína em pacientes com doença arterial coronariana (DAC), embora seu impacto em desfechos vasculares clínicos permaneça inconclusivo. O estudo, que analisou 13 ensaios clínicos randomizados envolvendo 14.539 participantes, demonstrou que a terapia combinada diminuiu a homocisteína em 2,36 µmol/L em média (IC 95%: -3,09 a -1,62; p < 0,01) em comparação a regimes com nutrientes isolados. No entanto, não foi relatado efeito estatisticamente significativo na incidência de reestenose vascular ou outros eventos cardiovasculares maiores, como infarto agudo do miocárdio ou acidente vascular cerebral, segundo os dados disponíveis no resumo.\n\nOs resultados reforçam o papel bem estabelecido do ácido fólico na metabolização da homocisteína, um marcador inflamatório associado ao risco cardiovascular. Contudo, a ausência de benefícios clínicos claros em desfechos duros sugere que a redução bioquímica de homocisteína por si só pode não ser suficiente para prevenir complicações na DAC. Os autores destacam que futuras pesquisas devem investigar subgrupos específicos — como pacientes com deficiência prévia de vitaminas B ou níveis basais elevados de homocisteína — e explorar combinações com outras terapias cardiovasculares. Além disso, a segurança a longo prazo da suplementação, especialmente em doses elevadas de B12, permanece um ponto de atenção não abordado neste estudo.\n\nEmbora a suplementação combinada de vitaminas B não deva ser considerada uma estratégia terapêutica isolada para a DAC, os achados abrem caminho para estudos mais robustos que integrem biomarcadores e desfechos clínicos, possibilitando uma medicina personalizada baseada em substratos metabólicos. A heterogeneidade entre os ensaios incluídos — incluindo variações nas doses e duração do tratamento — limita a generalização dos resultados e aponta para a necessidade de ensaios prospectivos bem delineados.\n\n---\n\n**English version**\n\nA recent meta-analysis published in *Acta Cardiologica* indicates that combined B-vitamin supplementation—including folic acid, vitamin B6, and B12—significantly lowers serum homocysteine levels in patients with coronary heart disease (CHD), though its impact on clinical vascular outcomes remains uncertain. The study, which analyzed 13 randomized controlled trials involving 14,539 participants, found that the combined therapy reduced homocysteine levels by an average of 2.36 µmol/L (95% CI: -3.09 to -1.62; p < 0.01) compared to single-nutrient regimens. However, no statistically significant effect was reported on the incidence of vascular restenosis or major cardiovascular events such as acute myocardial infarction or stroke based on the provided data.\n\nThe findings reinforce the established role of folic acid in homocysteine metabolism, a pro-inflammatory marker linked to cardiovascular risk. Yet, the absence of clear clinical benefits in hard endpoints suggests that biochemical homocysteine reduction alone may not suffice to prevent complications in CHD. The authors emphasize that future research should investigate specific subgroups—such as patients with prior vitamin B deficiencies or elevated baseline homocysteine levels—and explore combinations with other cardiovascular therapies. Additionally, long-term safety, particularly with high-dose B12 supplementation, remains an unaddressed concern in this analysis.\n\nWhile combined B-vitamin supplementation should not be considered a standalone therapeutic strategy for CHD, the findings pave the way for more robust studies integrating biomarkers and clinical endpoints to enable precision medicine based on metabolic substrates. The heterogeneity among included trials—including variations in dosage and treatment duration—limits the generalizability of results and underscores the need for well-designed prospective trials.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41615824",
+    "authors": [
+      {
+        "name": "Liping Guo",
+        "affiliation": "Department of Pharmacy, The 7th People's Hospital of Zhengzhou, Zhengzhou, Henan Province, People's Republic of China."
+      },
+      {
+        "name": "Xiangfen Shi",
+        "affiliation": "Department of Pharmacy, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan Province, People's Republic of China."
+      },
+      {
+        "name": "Gaobiao Wang",
+        "affiliation": "Clinical Trial Institution for Drugs, The 7th People's Hospital of Zhengzhou, Zhengzhou, Henan Province, People's Republic of China."
+      },
+      {
+        "name": "Wenchao Han",
+        "affiliation": "Department of Pharmacy, The 7th People's Hospital of Zhengzhou, Zhengzhou, Henan Province, People's Republic of China."
+      }
+    ],
+    "journal": "Annals of medicine",
+    "publishedDate": "2026-06-10",
+    "fetchedDate": "2026-06-12",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "heart",
+      "coronary"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42219066",
     "pmid": "42219066",
     "doi": "10.1016/j.jep.2026.121928",
@@ -200,7 +243,7 @@
     "tags": [
       "brain"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12529,49 +12572,5 @@
     "isHighlight": false,
     "readTime": 6,
     "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41740829",
-    "pmid": "41740829",
-    "doi": "10.1016/j.canlet.2026.218360",
-    "title": "Clinical practice guidelines for the diagnosis and treatment of diffuse glioma-related epilepsy: 2025 update.",
-    "titlePt": "Clinical practice guidelines for the diagnosis and treatment of diffuse glioma-related epilepsy: 2025 update.",
-    "abstract": "Diffuse glioma-related epilepsy (dGRE) frequently presents with epilepsy as the initial symptom and is closely associated with tumor progression or recurrence, imposing significant social and psychological burdens on patients. The pathogenesis of dGRE is highly complex, involving both peritumoral microenvironmental mechanisms and tumor-intrinsic factors. Diagnosis requires a comprehensive approach integrating neuroimaging, EEG, molecular biomarkers, and spatial correlation between the tumor and the epileptogenic zone. Management aims to control seizures and improve prognosis. Non-enzyme-inducing anti-seizure medications (ASMs), such as levetiracetam and lacosamide, are recommended as first-line therapy, while valproic acid serves mainly as a second-line agent. Surgical resection, particularly maximal safe and supratotal removal guided by electrophysiological monitoring, significantly improves seizure outcomes. Radiotherapy, chemotherapy, and targeted agents further contribute to seizur",
-    "journalisticSummary": "A epilepsia relacionada a glioma difuso (dGRE) é uma condição freqüentemente apresentada como sintoma inicial em pacientes com glioma e está intimamente relacionada à progressão ou recorrência do tumor, impondo significativas cargas sociais e psicológicas aos pacientes. A patogênese da dGRE é altamente complexa, envolvendo mecanismos do microambiente peritumoral e fatores intrínsecos ao tumor. O diagnóstico requer uma abordagem abrangente que integre neuroimagem, eletroencefalografia (EEG), biomarcadores moleculares e correlação espacial entre o tumor e a zona epileptogênica. O objetivo do tratamento é controlar as convulsões e melhorar o prognóstico. Medicamentos anti-convulsivos não indutores de enzimas, como levetiracetam e lacosamida, são recomendados como terapia de primeira linha, enquanto o ácido valproico serve principalmente como agente de segunda linha. A ressecção cirúrgica, particularmente a remoção máxima segura e supratotal guiada por monitoramento eletrofisiológico, melhora significativamente os resultados das convulsões. A radioterapia, a quimioterapia e os agentes direcionados também contribuem para o controle das convulsões. Embora as diretrizes clínicas para o diagnóstico e tratamento da dGRE tenham sido atualizadas, ainda há necessidade de mais pesquisas para entender melhor a patogênese da condição e desenvolver tratamentos mais eficazes. Não foram informados detalhes sobre os próximos passos ou estudos futuros específicos.\n\nThe diffuse glioma-related epilepsy (dGRE) is a condition frequently presented as an initial symptom in patients with glioma and is closely associated with tumor progression or recurrence, imposing significant social and psychological burdens on patients. The pathogenesis of dGRE is highly complex, involving both peritumoral microenvironmental mechanisms and tumor-intrinsic factors. Diagnosis requires a comprehensive approach integrating neuroimaging, EEG, molecular biomarkers, and spatial correlation between the tumor and the epileptogenic zone. The goal of management is to control seizures and improve prognosis. Non-enzyme-inducing anti-seizure medications (ASMs), such as levetiracetam and lacosamide, are recommended as first-line therapy, while valproic acid serves mainly as a second-line agent. Surgical resection, particularly maximal safe and supratotal removal guided by electrophysiological monitoring, significantly improves seizure outcomes. Radiotherapy, chemotherapy, and targeted agents also contribute to seizure control. Although clinical practice guidelines for the diagnosis and treatment of dGRE have been updated, there is still a need for further research to better understand the pathogenesis of the condition and develop more effective treatments. No details were provided on next steps or specific future studies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41740829",
-    "authors": [
-      {
-        "name": "Shuli Liang",
-        "affiliation": "Department of Functional Neurosurgery, Beijing Children's Hospital, Capital Medical University, Beijing, China; Department of Neurosurgery, Beijing Children's Hospital, Capital Medical University, Beijing, China. Electronic address: 301_1sjwk@sina.cn."
-      },
-      {
-        "name": "Xing Fan",
-        "affiliation": "Department of Neuroelectrophysiology, Beijing Neurosurgical Institute, Capital Medical University, Beijing, China; Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing, China. Electronic address: xingkongyaoxiang@163.com."
-      },
-      {
-        "name": "Suhui Kuang",
-        "affiliation": "Department of Functional Neurosurgery, Beijing Children's Hospital, Capital Medical University, Beijing, China. Electronic address: kuangsuehui@163.com."
-      },
-      {
-        "name": "Gan You",
-        "affiliation": "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing, China. Electronic address: Yougan1105@163.com."
-      }
-    ],
-    "journal": "Cancer letters",
-    "publishedDate": "2026-03-15",
-    "fetchedDate": "2026-04-16",
-    "category": "Oncologia",
-    "tags": [
-      "tumor",
-      "chemotherapy",
-      "gene",
-      "psychological"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
