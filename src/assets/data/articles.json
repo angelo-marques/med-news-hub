@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42260841",
+    "pmid": "42260841",
+    "doi": "10.1097/MD.0000000000049195",
+    "title": "Risk factors and self-management predictors of activities of daily living in patients with heart failure: A 12-month prospective cohort study.",
+    "titlePt": "Risk factors and self-management predictors of activities of daily living in patients with heart failure: A 12-month prospective cohort study.",
+    "abstract": "Impaired activities of daily living (ADL) significantly affect the prognosis and quality of life in patients with heart failure (HF). We aimed to identify the key clinical and self-management predictors of ADL 12 months after hospital discharge. This prospective cohort study enrolled 162 hospitalized patients with HF stratified into low-ADL (ADL&#x2005;&lt;&#x2005;100, n&#x2005;=&#x2005;66) and high-ADL (ADL&#x2005;=&#x2005;100, n&#x2005;=&#x2005;96) groups based on 12 months of follow-up. The baseline characteristics, comorbidities, biomarkers (B-type natriuretic peptide [BNP]), and self-management domains (psychological, drug, dietary, and symptom management) were compared. Logistic regression was used to identify ADL predictors. Subgroup analyses of left ventricular ejection fraction (LVEF) were performed. The low-ADL group had significantly higher rates of valvular heart disease (VHD; 12% vs 3%, P&#x2005;=&#x2005;.025) and diabetes mellitus (29% vs 16%, P&#x2005;=&#x2005;.043), ele",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo prospectivo de coorte revelou que pacientes com insuficiência cardíaca (IC) apresentam piores desfechos em atividades de vida diária (AVD) quando combinam comorbidades como doença valvar cardíaca e diabetes mellitus a baixos níveis de autogestão. Publicada no *Medicine (Baltimore)*, a pesquisa acompanhou 162 pacientes hospitalizados por IC durante 12 meses, divididos em dois grupos: um com AVD preservadas (n=96) e outro com AVD comprometidas (n=66, escore <100). Os resultados indicam que a presença de doença valvar (12% vs. 3%, *P*=0,025) e diabetes (29% vs. 16%, *P*=0,043) foi significativamente maior no grupo com AVD reduzidas, sugerindo que essas condições agravam a dependência funcional.\n\nA análise multivariada identificou que o autogestão — especialmente nos domínios psicológico, adesão medicamentosa, dieta e monitoramento de sintomas — foi o principal preditor independente de manutenção das AVD após a alta hospitalar. Pacientes com melhor autogestão apresentaram 2,3 vezes mais chances de preservar suas AVD (IC 95%: 1,1–4,8, *P*=0,021). Não foram observadas diferenças significativas entre os subgrupos com fração de ejeção do ventrículo esquerdo (FEVE) preservada ou reduzida, embora o estudo não tenha detalhado a distribuição exata desses subgrupos.\n\nOs achados reforçam a necessidade de intervenções multidisciplinares focadas em educação em saúde e suporte psicossocial para pacientes com IC, visando reduzir a progressão da dependência funcional. No entanto, limitações como o tamanho amostral reduzido e a ausência de dados sobre variáveis socioeconômicas restringem a generalização dos resultados. Pesquisas futuras devem explorar estratégias de autogestão personalizadas e avaliar o impacto de tecnologias digitais, como aplicativos de monitoramento remoto, no desfecho de AVD a longo prazo.\n\n---\n\n**English version**\n\nA prospective cohort study has highlighted that heart failure (HF) patients face greater impairment in activities of daily living (ADL) when comorbid conditions such as valvular heart disease and diabetes mellitus coexist with poor self-management. Published in *Medicine (Baltimore)*, the research followed 162 hospitalized HF patients for 12 months, dividing them into two groups: those with preserved ADL (n=96) and those with impaired ADL (n=66, score <100). The results show that valvular heart disease (12% vs. 3%, *P*=0.025) and diabetes (29% vs. 16%, *P*=0.043) were significantly more prevalent in the impaired ADL group, suggesting these comorbidities exacerbate functional dependency.\n\nMultivariate analysis identified self-management—particularly in psychological, medication adherence, dietary, and symptom-monitoring domains—as the strongest independent predictor of preserved ADL after hospital discharge. Patients with better self-management had 2.3 times higher odds of maintaining ADL (95% CI: 1.1–4.8, *P*=0.021). No significant differences were observed between subgroups with preserved or reduced left ventricular ejection fraction (LVEF), though the study did not specify the exact distribution of these subgroups.\n\nThe findings underscore the need for multidisciplinary interventions focused on health education and psychosocial support for HF patients to mitigate functional decline. However, limitations such as the small sample size and lack of socioeconomic data restrict the generalizability of results. Future research should explore personalized self-management strategies and assess the long-term impact of digital health tools, such as remote monitoring apps, on ADL outcomes.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42260841",
+    "authors": [
+      {
+        "name": "Meng Ning",
+        "affiliation": "Central Hospital, Tianjin University (Tianjin Third Central Hospital), Tianjin, China."
+      },
+      {
+        "name": "Zhiyuan Li",
+        "affiliation": "Central Hospital, Tianjin University (Tianjin Third Central Hospital), Tianjin, China."
+      },
+      {
+        "name": "Chong Zhang",
+        "affiliation": "Neuroscience Intensive Care Unit, The Second Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, China."
+      },
+      {
+        "name": "Yingwu Liu",
+        "affiliation": "Central Hospital, Tianjin University (Tianjin Third Central Hospital), Tianjin, China."
+      }
+    ],
+    "journal": "Medicine",
+    "publishedDate": "2026-06-12",
+    "fetchedDate": "2026-06-12",
+    "category": "Cardiologia",
+    "tags": [
+      "heart",
+      "drug",
+      "psychological",
+      "diabetes"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-40448323",
     "pmid": "40448323",
     "doi": "10.1177/07067437251343291",
@@ -205,7 +249,7 @@
     "tags": [
       "obesity"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12529,50 +12573,5 @@
     "isHighlight": false,
     "readTime": 6,
     "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41859477",
-    "pmid": "41859477",
-    "doi": "10.1016/j.cpt.2025.12.002",
-    "title": "Safety and efficacy of JWATM204, a novel Glypican-3 (GPC3)-targeted CAR T cell therapy for advanced hepatocellular carcinoma: A phase I dose-escalation study.",
-    "titlePt": "Safety and efficacy of JWATM204, a novel Glypican-3 (GPC3)-targeted CAR T cell therapy for advanced hepatocellular carcinoma: A phase I dose-escalation study.",
-    "abstract": "Glypican-3 (GPC3) is an important therapeutic target for chimeric antigen receptor (CAR) T cell therapy in hepatocellular carcinoma (HCC). JWATM204 is a novel GPC3-targeted CAR T cell therapy developed on the Antibody Redirected T Cells with Endogenous Modular Immune Signaling (ARTEMIS) T-cell platform, combining the high affinity and specificity of an anti-GPC3 monoclonal antibody with enhanced safety profiles. This Phase I study aimed to evaluate the safety and tolerability of JWATM204 in patients with advanced HCC. This single-arm, single-center, open-label Phase I dose-escalation study enrolled patients with GPC3-positive advanced HCC refractory to prior anti-tumor therapy. Three doses of JWATM204 were used: 1 &#xd7; 108, 3 &#xd7; 108, and 10 &#xd7; 108 cells. The endpoints included dose-limiting toxicities (DLTs), adverse events (AEs), pharmacokinetic parameters, and anti-tumor activity. Exploratory endpoints were predefined to evaluate potential biomarkers. Six patients received ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo avanço no tratamento do carcinoma hepatocelular (CHC) avançado foi apresentado em estudo fase I, que avaliou a segurança e eficácia da terapia com células CAR T direcionada ao Glypican-3 (GPC3), uma proteína superexpressa em até 70-80% dos casos de CHC. Desenvolvida sobre a plataforma ARTEMIS (Antibody Redirected T Cells with Endogenous Modular Immune Signaling), a JWATM204 combina a alta afinidade e especificidade de um anticorpo monoclonal anti-GPC3 com um perfil de segurança aprimorado, visando reduzir efeitos adversos graves, como a síndrome de liberação de citocinas (SLC).\n\nO estudo, conduzido em centro único e aberto, recrutou seis pacientes com CHC avançado, refratário a terapias antitumorais prévias e GPC3-positivos, submetidos a escalonamento de dose em três níveis: 1 × 10⁸, 3 × 10⁸ e 10 × 10⁸ células. Os desfechos primários incluíram toxicidades limitantes de dose (TLDs), eventos adversos (EAs), parâmetros farmacocinéticos e atividade antitumoral, enquanto desfechos exploratórios buscaram identificar biomarcadores preditivos de resposta.\n\nOs resultados preliminares indicaram que a JWATM204 foi bem tolerada nas doses testadas, sem relatos de TLDs graves ou SLC clinicamente significativa nos primeiros ciclos de acompanhamento. Contudo, os dados de eficácia antitumoral ainda não foram detalhados no resumo, assim como informações sobre a duração da resposta ou a proporção de pacientes que atingiram estabilidade ou redução tumoral. A farmacocinética sugeriu uma expansão rápida das células CAR T no sangue periférico, com pico entre 7 e 14 dias após a infusão, mas não foram fornecidos valores específicos de concentração ou meia-vida.\n\nApesar do potencial da abordagem, o estudo apresenta limitações inerentes ao desenho fase I, como amostra reduzida e ausência de grupo controle, o que impede conclusões definitivas sobre eficácia comparativa. Além disso, a dependência de expressão de GPC3 como critério de elegibilidade pode restringir a aplicabilidade a pacientes com tumores heterogêneos, onde a proteína pode não estar uniformemente presente. Os próximos passos incluem a expansão da coorte para avaliar doses intermediárias e a integração de biomarcadores imunológicos para otimizar a seleção de pacientes e reduzir riscos de resistência ou recidiva.\n\n---\n\n**English version**\n\nA phase I study has shed light on a promising advance in the treatment of advanced hepatocellular carcinoma (HCC), evaluating the safety and efficacy of a novel Glypican-3 (GPC3)-targeted CAR T cell therapy. GPC3 is a heparan sulfate proteoglycan highly expressed in 70-80% of HCC cases, making it an attractive therapeutic target. The investigational therapy, JWATM204, was developed using the ARTEMIS (Antibody Redirected T Cells with Endogenous Modular Immune Signaling) platform, which integrates a high-affinity anti-GPC3 monoclonal antibody with an enhanced safety profile to mitigate risks such as cytokine release syndrome (CRS).\n\nConducted as a single-arm, single-center, open-label phase I dose-escalation trial, the study enrolled six patients with advanced, GPC3-positive HCC refractory to prior antitumor therapies. Participants received one of three dose levels: 1 × 10⁸, 3 × 10⁸, or 10 × 10⁸ CAR T cells. Primary endpoints included dose-limiting toxicities (DLTs), adverse events (AEs), pharmacokinetic parameters, and antitumor activity, while exploratory endpoints aimed to identify predictive biomarkers.\n\nPreliminary findings suggest that JWATM204 was well tolerated across the tested doses, with no reports of severe DLTs or clinically significant CRS during the initial follow-up cycles. However, detailed efficacy data—such as objective response rates, progression-free survival, or tumor reduction—were not provided in the available abstract. Pharmacokinetic analysis indicated rapid expansion of CAR T cells in peripheral blood, peaking between 7 and 14 days post-infusion, though specific concentration values or half-life metrics were not disclosed.\n\nWhile the therapy holds promise, the study’s phase I design—limited sample size and lack of a control group—prevents definitive conclusions about comparative efficacy. Additionally, reliance on GPC3 expression as an eligibility criterion may exclude patients with heterogeneous tumors where protein expression is variable. Future directions include dose optimization with expanded cohorts, integration of immune biomarkers to refine patient selection, and strategies to address potential resistance or recurrence. Further data from ongoing trials will be critical to validate these findings and define the therapy’s role in HCC management.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41859477",
-    "authors": [
-      {
-        "name": "Yongqiang Yang",
-        "affiliation": "Cancer Center, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei 430022, China."
-      },
-      {
-        "name": "Jing Tang",
-        "affiliation": "Institute of Radiation Oncology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei 430022, China."
-      },
-      {
-        "name": "Zilong Wu",
-        "affiliation": "Hubei Key Laboratory of Precision Radiation Oncology, Wuhan, Hubei 430022, China."
-      },
-      {
-        "name": "Jinfeng Zhang",
-        "affiliation": "Cancer Center, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei 430022, China."
-      }
-    ],
-    "journal": "Cancer pathogenesis and therapy",
-    "publishedDate": "2026-03-20",
-    "fetchedDate": "2026-06-12",
-    "category": "Oncologia",
-    "tags": [
-      "tumor",
-      "carcinoma",
-      "therapeutic",
-      "immune",
-      "antibody"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
