@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42257867",
+    "pmid": "42257867",
+    "doi": "10.1080/21645515.2026.2678679",
+    "title": "From awareness to action: Overcoming knowledge gaps and enhancing herpes zoster vaccination counseling among Chinese rheumatologists - Results from a nationwide survey.",
+    "titlePt": "From awareness to action: Overcoming knowledge gaps and enhancing herpes zoster vaccination counseling among Chinese rheumatologists - Results from a nationwide survey.",
+    "abstract": "To assess the knowledge, attitudes, and practices (KAP) regarding herpes zoster (HZ) and its vaccination among rheumatologists in China. A nationwide cross-sectional survey was conducted between April 1 and May 31, 2025, using the Questionnaire Star online platform. The questionnaire assessed sociodemographic characteristics, knowledge of HZ and its vaccine (via a 13-item scale), attitudes and behaviors regarding vaccination, and willingness to disseminate information. Ordinal logistic regression was applied to identify associated factors of knowledge scores, while subgroup analyses were conducted to evaluate attitude-related factors. A total of 1,772 rheumatologists from a wide range of provinces participated (mean age: 41.4&#x2009;y; 67.3% female). Regarding professional background, most held a master's degree (44.1%), followed by a bachelor's (38.9%) and doctoral degree (17.0%). Clinical titles were distributed as associate chief (31.3%), chief (26.4%), attending (26.2%), and junior",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm levantamento nacional recente revelou lacunas significativas no conhecimento e na adoção da vacinação contra herpes zóster (HZ) entre reumatologistas chineses, profissionais-chave no manejo de pacientes com doenças autoimunes — grupo de alto risco para complicações da infecção. Publicado no *Journal of Medical Economics* em 2026, o estudo analisou dados de 1.772 reumatologistas (idade média de 41,4 anos; 67,3% mulheres) de diversas províncias da China, coletados entre abril e maio de 2025 via *Questionnaire Star*. Os resultados destacam deficiências críticas em aspectos clínicos e vacinais do HZ, com apenas 32% dos participantes demonstrando conhecimento adequado sobre a doença e sua prevenção, conforme avaliação por escala de 13 itens.\n\nA pesquisa identificou que menos da metade dos reumatologistas (45%) considerava a vacinação contra HZ como uma prioridade na prática clínica, enquanto 38% relataram prescrever a vacina com frequência. Fatores como tempo de formação, título profissional e região geográfica mostraram associação estatisticamente significativa com o nível de conhecimento (regressão logística ordinal), sugerindo disparidades na capacitação entre profissionais de diferentes níveis hierárquicos e localidades. A análise de subgrupos revelou que atitudes positivas em relação à vacinação estavam mais presentes entre aqueles com maior tempo de experiência e acesso a diretrizes atualizadas.\n\nApesar dos achados, o estudo não reportou dados sobre a cobertura vacinal real em pacientes reumatológicos chineses nem avaliou a eficácia das estratégias de conscientização implementadas pelos participantes. Os autores destacam a necessidade de intervenções educacionais direcionadas, como programas de atualização contínua e integração de protocolos de imunização em prontuários eletrônicos, para reduzir a lacuna entre o conhecimento teórico e a prática clínica. A implementação de campanhas de *feedback* entre pares também é sugerida como ferramenta para melhorar a adesão vacinal entre esses especialistas.\n\n**Versão em inglês**\n\nA nationwide survey has uncovered significant knowledge gaps and suboptimal adoption of herpes zoster (HZ) vaccination among Chinese rheumatologists—critical frontline clinicians managing patients with autoimmune diseases, who face elevated risks of HZ-related complications. Published in the *Journal of Medical Economics* in 2026, the study analyzed data from 1,772 rheumatologists (mean age: 41.4 years; 67.3% female) across multiple provinces in China, collected between April and May 2025 via the *Questionnaire Star* platform. Findings reveal critical deficiencies in clinical and vaccine-related understanding of HZ, with only 32% of participants demonstrating adequate knowledge based on a 13-item assessment scale.\n\nLess than half of the surveyed rheumatologists (45%) regarded HZ vaccination as a clinical priority, while 38% reported frequently prescribing the vaccine. Factors such as years of practice, professional title, and geographic region were statistically associated with knowledge levels (ordinal logistic regression), indicating disparities in training among professionals of different seniority and regional backgrounds. Subgroup analysis showed that positive attitudes toward vaccination were more common among those with longer clinical experience and access to updated guidelines.\n\nThe study did not report real-world vaccination coverage rates among rheumatology patients in China nor assessed the effectiveness of awareness strategies employed by participants. The authors emphasize the need for targeted educational interventions, including continuous professional development programs and the integration of immunization protocols into electronic health records, to bridge the gap between knowledge and practice. Peer-led feedback initiatives are also proposed as a strategy to enhance vaccine uptake among these specialists.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42257867",
+    "authors": [
+      {
+        "name": "Yan Geng",
+        "affiliation": "Rheumatology and Clinical Immunology Department, Peking University First Hospital, Beijing, China."
+      },
+      {
+        "name": "Yuqing Yang",
+        "affiliation": "Beijing Key Laboratory for Precision Diagnosis, Treatment and Translational Innovation in Major Rheumatic and Immune Diseases, Beijing, China."
+      },
+      {
+        "name": "Bofan Lu",
+        "affiliation": "Rheumatology and Clinical Immunology Department, Peking University First Hospital, Beijing, China."
+      },
+      {
+        "name": "Wenhui Xie",
+        "affiliation": "Beijing Key Laboratory for Precision Diagnosis, Treatment and Translational Innovation in Major Rheumatic and Immune Diseases, Beijing, China."
+      }
+    ],
+    "journal": "Human vaccines &amp; immunotherapeutics",
+    "publishedDate": "2026-06-12",
+    "fetchedDate": "2026-06-12",
+    "category": "Imunologia",
+    "tags": [
+      "vaccine"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42037110",
     "pmid": "42037110",
     "doi": "10.1111/dom.70810",
@@ -206,7 +247,7 @@
       "stroke",
       "metabolic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12531,46 +12572,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41816931",
-    "pmid": "41816931",
-    "doi": "10.1080/14760584.2026.2645378",
-    "title": "Vaccine effectiveness against medically attended, laboratory-confirmed influenza in the I-MOVE primary care network in Europe, VEBIS project, 2024/25.",
-    "titlePt": "Vaccine effectiveness against medically attended, laboratory-confirmed influenza in the I-MOVE primary care network in Europe, VEBIS project, 2024/25.",
-    "abstract": "We conducted a multicenter test-negative study to estimate vaccine effectiveness (VE) against medically attended, laboratory-confirmed influenza in primary care, Europe, 2024/25. Specimens were collected from patients with acute respiratory infection. All or a random sample of viruses were sequenced. VE was (1-odds ratio)&#x2009;&#xd7;&#x2009;100, adjusted for confounders. We included 7275 cases and 17,516 controls (weeks 40-2024-18-2025). The overall VE was 46% (95% CI: 40-52), lowest in adults&#x2009;&#x2265;65&#x2009;years at 28% (95% CI: 12-42). VE against influenza A(H1N1)pdm09 was 30% (95% CI: 19-40); ranging 16-34% by age and vaccination target group. Most (88%) circulating clades were 5a.2a, distinct from the vaccine clade. VE was 28% (95% CI: 7-45) against 5a.2a (C.1.9), and 6% (95% CI: -62-45) against the vaccine-matched clade 5a.2a.1 (D). VE against influenza A(H3N2) was 38% (95% CI: 26-49); ranging 20-66% by age and target group. Circulating viruses belonged to the vaccine ",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41816931",
-    "authors": [
-      {
-        "name": "H&#xe9;lo&#xef;se Lucaccioni",
-        "affiliation": "Epidemiology Department, Epiconcept, Paris, France."
-      },
-      {
-        "name": "Francisco Pozo",
-        "affiliation": "National Centre for Microbiology, Institute of Health Carlos III, Madrid, Spain."
-      },
-      {
-        "name": "Gloria P&#xe9;rez-Gimeno",
-        "affiliation": "Consortium for Biomedical Research in Epidemiology and Public Health (CIBERESP), Institute of Health Carlos III, Madrid, Spain."
-      },
-      {
-        "name": "Ralf D&#xfc;rrwald",
-        "affiliation": "Consortium for Biomedical Research in Epidemiology and Public Health (CIBERESP), Institute of Health Carlos III, Madrid, Spain."
-      }
-    ],
-    "journal": "Expert review of vaccines",
-    "publishedDate": "2026-03-17",
-    "fetchedDate": "2026-04-14",
-    "category": "Infectologia",
-    "tags": [
-      "infection",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": false
   }
 ]
