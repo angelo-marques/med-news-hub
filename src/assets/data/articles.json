@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-42286724",
+    "pmid": "42286724",
+    "doi": "10.1186/s40164-026-00790-4",
+    "title": "Dual-target CAR-T cell therapy: latest updates from the 2025 ASH annual meeting.",
+    "titlePt": "Dual-target CAR-T cell therapy: latest updates from the 2025 ASH annual meeting.",
+    "abstract": "Dual-target chimeric antigen receptor T (CAR-T) cell therapy has emerged as a promising strategy to address the key limitations of single-target CAR-T approaches, including antigen heterogeneity and antigen-negative escape. Recent studies have reported rapid progress in the engineering of dual-target CAR-T, incorporating diverse receptor architectures, logic-gated designs, and novel manufacturing platforms. Preclinical data demonstrate improved disease control across B-cell malignancies, acute myeloid leukemia, and autoimmune disease models. Here, we summarize the latest advancements in the preclinical investigations and clinical trials of dual-target CAR-T cell therapy presented at the 2025 ASH annual meeting.",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nA terapia com células CAR-T de alvo duplo tem se consolidado como uma estratégia inovadora para superar limitações críticas das abordagens convencionais de alvo único, como a heterogeneidade antigênica e a evasão por perda de expressão do antígeno-alvo. Durante o Congresso Anual da Sociedade Americana de Hematologia (ASH) de 2025, foram apresentados avanços recentes no desenvolvimento de CAR-T de alvo duplo, incluindo arquiteturas receptoras diversificadas, designs lógicos baseados em portas (logic-gated) e plataformas de manufatura otimizadas. Os dados pré-clínicos demonstram um controle mais eficiente da doença em modelos de neoplasias de células B, leucemia mieloide aguda e doenças autoimunes, sugerindo potencial para expandir as indicações terapêuticas além dos regimes atualmente aprovados.\n\nOs estudos destacaram a flexibilidade dos sistemas de alvo duplo, que podem ser adaptados para combinar antígenos específicos de células tumorais ou de células imunorreguladoras, reduzindo o risco de escape tumoral. Além disso, abordagens como a incorporação de portas lógicas (\"AND\", \"OR\", \"NOT\") permitem um controle mais preciso da ativação das células CAR-T, minimizando efeitos colaterais associados à toxicidade não específica. Contudo, apesar dos resultados promissores, ainda não foram reportados dados de eficácia e segurança em larga escala em ensaios clínicos fase III, nem protocolos padronizados para a fabricação de tais terapias. A heterogeneidade dos desenhos experimentais e a ausência de biomarcadores definitivos para a seleção de pacientes também representam desafios para a transposição desses achados pré-clínicos para a prática clínica.\n\nOs próximos passos incluem a realização de estudos clínicos randomizados comparando CAR-T de alvo duplo com terapias convencionais, bem como a investigação de estratégias para otimizar a persistência das células CAR-T *in vivo*. A integração de tecnologias de edição genética, como CRISPR, e o desenvolvimento de plataformas de produção automatizadas também foram mencionados como áreas prioritárias para pesquisa. Embora os resultados atuais sejam encorajadores, a consolidação dessa terapia como padrão exigirá evidências robustas de benefício clínico e viabilidade econômica.\n\n---\n\n**English version**\n\nDual-target chimeric antigen receptor T (CAR-T) cell therapy has emerged as a promising strategy to overcome key limitations of single-target approaches, such as antigen heterogeneity and antigen-negative escape. At the 2025 American Society of Hematology (ASH) Annual Meeting, recent advancements in dual-target CAR-T engineering were highlighted, including diverse receptor architectures, logic-gated designs, and novel manufacturing platforms. Preclinical data presented demonstrated improved disease control across B-cell malignancies, acute myeloid leukemia, and autoimmune disease models, suggesting potential for expanding therapeutic indications beyond currently approved regimens.\n\nThe studies emphasized the flexibility of dual-target systems, which can be tailored to target tumor-specific antigens or immune-regulatory cells, reducing the risk of tumor escape. Additionally, logic-gated approaches (e.g., \"AND,\" \"OR,\" \"NOT\") enable more precise control of CAR-T cell activation, mitigating off-target toxicity. However, despite encouraging results, no large-scale phase III clinical efficacy and safety data have been reported, nor standardized manufacturing protocols for such therapies. The heterogeneity of experimental designs and the lack of definitive biomarkers for patient selection also pose challenges for translating preclinical findings into clinical practice.\n\nFuture directions include conducting randomized clinical trials comparing dual-target CAR-T with conventional therapies, as well as exploring strategies to enhance CAR-T cell persistence *in vivo*. The integration of gene-editing technologies, such as CRISPR, and the development of automated manufacturing platforms were also identified as critical areas for further research. While current findings are promising, establishing dual-target CAR-T as a standard of care will require robust evidence of clinical benefit and economic feasibility.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42286724",
+    "authors": [
+      {
+        "name": "Shi Feng",
+        "affiliation": "Department of Hematology, Shandong Provincial Hospital Affiliated to Shandong First Medical University, No.324, Jingwu Road, Jinan, 250021, Shandong, China."
+      },
+      {
+        "name": "Ran Kong",
+        "affiliation": "Department of Hematology, Shandong Provincial Hospital Affiliated to Shandong First Medical University, No.324, Jingwu Road, Jinan, 250021, Shandong, China."
+      },
+      {
+        "name": "Li Xiao",
+        "affiliation": "Medical Science and Technology Innovation Center, Shandong First Medical University and Shandong Academy of Medical Science, No.6699, Qingdao Road, Jinan, 250117, Shandong, China. xiaoli_95@126.com."
+      },
+      {
+        "name": "Xiangxiang Zhou",
+        "affiliation": "Department of Hematology, Shandong Provincial Hospital Affiliated to Shandong First Medical University, No.324, Jingwu Road, Jinan, 250021, Shandong, China. xiangxiangzhou@sdu.edu.cn."
+      }
+    ],
+    "journal": "Experimental hematology &amp; oncology",
+    "publishedDate": "2026-06-13",
+    "fetchedDate": "2026-06-13",
+    "category": "Imunologia",
+    "tags": [
+      "leukemia",
+      "gene",
+      "clinical trial",
+      "immune",
+      "autoimmune"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42190636",
     "pmid": "42190636",
     "doi": "10.1016/j.ajem.2026.05.031",
@@ -208,7 +253,7 @@
       "brain",
       "therapeutic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12526,46 +12571,6 @@
       "cancer",
       "lymphoma",
       "immunotherapy",
-      "genetic",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41390126",
-    "pmid": "41390126",
-    "doi": "10.1016/j.jaad.2025.12.024",
-    "title": "Bitopertin shows efficacy in patients with erythropoietic protoporphyria: Results from the randomized, double-blind, placebo-controlled AURORA trial.",
-    "titlePt": "Bitopertin shows efficacy in patients with erythropoietic protoporphyria: Results from the randomized, double-blind, placebo-controlled AURORA trial.",
-    "abstract": "Erythropoietic protoporphyria is a rare genetic disorder of heme biosynthesis characterized by protoporphyrin-IX accumulation, painful phototoxic reactions, and hepatobiliary disease, for which no disease-modifying therapies are approved. To evaluate the efficacy and safety of bitopertin, an inhibitor of glycine transporter 1, in adults with erythropoietic protoporphyria. In this randomized, double-blind, phase 2 study, patients received once-daily oral bitopertin 20 mg, bitopertin 60 mg, or placebo for 17 weeks. The primary endpoint was percentage change from baseline in whole-blood metal-free protoporphyrin-IX levels at day 121. Patients received bitopertin 20 mg (n = 26), 60 mg (n = 25), or placebo (n = 24). At day 121, the percentage change from baseline in whole-blood metal-free protoporphyrin-IX versus placebo was -29.6% (P = .004) with bitopertin 20 mg and -49.8% (P &lt; .001) with bitopertin 60 mg. Bitopertin was associated with a reduced incidence of phototoxic reactions. Bito",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41390126",
-    "authors": [
-      {
-        "name": "Amy K Yeung",
-        "affiliation": "Harvard Medical School and Massachusetts General Hospital, Boston, Massachusetts."
-      },
-      {
-        "name": "Herbert L Bonkovsky",
-        "affiliation": "Wake Forest University School of Medicine and Atrium Health Wake Forest Baptist, Winston-Salem, North Carolina."
-      },
-      {
-        "name": "Manisha Balwani",
-        "affiliation": "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, New York."
-      },
-      {
-        "name": "Karl E Anderson",
-        "affiliation": "Division of Gastroenterology and Hepatology, Department of Internal Medicine, University of Texas Medical Branch, Galveston, Texas."
-      }
-    ],
-    "journal": "Journal of the American Academy of Dermatology",
-    "publishedDate": "2026-03-24",
-    "fetchedDate": "2026-04-14",
-    "category": "Genômica",
-    "tags": [
       "genetic",
       "gene"
     ],
