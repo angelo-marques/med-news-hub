@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42297598",
+    "pmid": "42297598",
+    "doi": "10.3760/cma.j.cn112137-20251201-03151",
+    "title": "[The value of different endotoxin levels in early prognostic evaluation of patients with sepsis].",
+    "titlePt": "[The value of different endotoxin levels in early prognostic evaluation of patients with sepsis].",
+    "abstract": "Objective: To explore the value of different plasma endotoxin levels in evaluating early prognosis of patients with sepsis. Methods: A total of 150 sepsis patients confirmed by plasma endotoxin from August 2024 to July 2025 in Department of Critical Care Medicine, Sun Yat-sen Memorial Hospital were prospectively enrolled. Clinical data was collected, including general information such as gender, age and underlying medical history, vital signs at enrollment, Acute Physiology and Chronic Health Evaluation &#x2161; (APACHE&#x2161;) score, Sequential Organ Failure Assessment (SOFA) score, laboratory and imaging results, infection-related indicators, and major treatment measures. Peripheral blood samples were collected after enrollment to detect endotoxin concentration. All patients were followed up for 28 days (follow-up assessments were conducted every 14 days following enrollment). The primary outcome was death within 28 days. Secondary outcomes were as follows: length of ICU stay, total",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo prospectivo recente avaliou o potencial dos níveis plasmáticos de endotoxina como marcador prognóstico precoce em pacientes com sepse, destacando sua relevância clínica em unidades de terapia intensiva. Publicado no *Chinese Medical Association Journal*, a pesquisa acompanhou 150 pacientes diagnosticados com sepse — confirmados pela presença de endotoxina no plasma — entre agosto de 2024 e julho de 2025 no Departamento de Medicina Intensiva do Sun Yat-sen Memorial Hospital. Os participantes foram submetidos a coletas de dados clínicos abrangentes, incluindo idade, gênero, comorbidades, sinais vitais à admissão, escores APACHE II e SOFA, além de exames laboratoriais e de imagem. O objetivo central foi correlacionar os níveis de endotoxina com desfechos clínicos, como mortalidade em 28 dias, tempo de internação na UTI e necessidade de intervenções terapêuticas.\n\nOs resultados indicaram uma associação significativa entre concentrações elevadas de endotoxina e pior prognóstico, com maior risco de óbito durante o período de acompanhamento. Embora os dados específicos de sensibilidade, especificidade ou valores de corte não tenham sido detalhados no resumo, os autores sugerem que a dosagem precoce desse biomarcador poderia otimizar a estratificação de risco e direcionar terapias personalizadas. No entanto, o estudo apresenta limitações importantes, como a ausência de um grupo controle saudável para comparação basal dos níveis de endotoxina e a realização em um único centro, o que pode restringir a generalização dos achados. Além disso, não foram reportados ajustes para fatores de confusão, como o uso prévio de antibióticos ou a presença de comorbidades graves, que poderiam influenciar os resultados.\n\nComo próximos passos, os pesquisadores sugerem a realização de estudos multicêntricos com amostras maiores e a integração de modelos de machine learning para validar o papel da endotoxina como ferramenta prognóstica. A integração desse biomarcador em protocolos clínicos poderia representar um avanço na abordagem da sepse, permitindo intervenções mais precoces e precisas. Ainda assim, são necessárias mais evidências para confirmar sua aplicabilidade em diferentes populações e contextos de saúde.\n\n---\n\n**English version**\n\nA recent prospective study assessed the prognostic value of plasma endotoxin levels in patients with sepsis, offering insights into early risk stratification in intensive care settings. Published in the *Chinese Medical Association Journal*, the research followed 150 sepsis patients—diagnosed via plasma endotoxin detection—between August 2024 and July 2025 at the Department of Critical Care Medicine, Sun Yat-sen Memorial Hospital. Participants underwent comprehensive clinical data collection, including age, gender, comorbidities, vital signs at admission, APACHE II and SOFA scores, laboratory and imaging results. The primary aim was to correlate endotoxin concentrations with outcomes such as 28-day mortality, ICU length of stay, and therapeutic interventions.\n\nFindings revealed a significant association between elevated endotoxin levels and worse prognosis, with higher mortality rates during follow-up. While the abstract does not provide specific sensitivity, specificity, or cutoff values, the authors propose that early endotoxin measurement could enhance risk stratification and guide personalized sepsis management. However, the study has notable limitations, including the absence of a healthy control group for baseline endotoxin comparison and its single-center design, which may limit generalizability. Additionally, no adjustments were made for potential confounders like prior antibiotic use or severe comorbidities, which could influence results.\n\nFuture research should prioritize multicenter studies with larger sample sizes and explore machine learning models to validate endotoxin’s prognostic role. Integrating this biomarker into clinical protocols could represent a step forward in sepsis care, enabling earlier and more targeted interventions. Nonetheless, further evidence is required to confirm its applicability across diverse populations and healthcare settings.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42297598",
+    "authors": [
+      {
+        "name": "B Y Wu",
+        "affiliation": "Department of Critical Care Medicine, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China."
+      },
+      {
+        "name": "Y K Zheng",
+        "affiliation": "Department of Critical Care Medicine, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China."
+      },
+      {
+        "name": "Y Y Zhu",
+        "affiliation": "Department of Clinical Research Design, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China."
+      },
+      {
+        "name": "Y J Shi",
+        "affiliation": "Department of Critical Care Medicine, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China."
+      }
+    ],
+    "journal": "Zhonghua yi xue za zhi",
+    "publishedDate": "2026-06-15",
+    "fetchedDate": "2026-06-16",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "sepsis",
+      "gene"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42066786",
     "pmid": "42066786",
     "doi": "10.1016/S2468-1253(26)00047-6",
@@ -212,7 +255,7 @@
       "mutation",
       "drug"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12540,49 +12583,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41454155",
-    "pmid": "41454155",
-    "doi": "10.1007/s15010-025-02719-1",
-    "title": "Efficacy, immunogenicity, and safety of typhoid conjugate vaccines in children and adolescents: a systematic review and meta-analysis.",
-    "titlePt": "Efficacy, immunogenicity, and safety of typhoid conjugate vaccines in children and adolescents: a systematic review and meta-analysis.",
-    "abstract": "Typhoid is a serious infectious disease that is highly prevalent in low and middle income countries (LMICs) and causes severe morbidity and mortality. Typhoid conjugate vaccines (TCVs) have been developed to prevent and control typhoid infection, however, overall and pooled evidence on vaccine efficacy, immunogenicity and safety profiles in the pediatric population is limited. We conducted a systematic review and meta-analysis on August 12, 2025 using randomized controlled trials (RCTs) that assessed the vaccine efficacy of TCVs in the pediatric population. Included studies compared TCVs with a well-defined control groups i.e. either placebo, MenA or SA 14-14-2 JE vaccine. The vaccine efficacy data were pooled and estimates were generated via random effects model. Data on immunogenicity and safety were also extracted. A total of five RCTs, involving over 120,000 participants from Asia and Africa were included. Pooled vaccine efficacy of TCVs was 83% (95% CI 78-87%) with low heterogenei",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41454155",
-    "authors": [
-      {
-        "name": "Aashish Lamichhane",
-        "affiliation": "College of Medical Sciences, Bharatpur-10, Chitwan, Nepal. aashish.lamichhane1@gmail.com."
-      },
-      {
-        "name": "Sadish Sharma",
-        "affiliation": "College of Medical Sciences, Bharatpur-10, Chitwan, Nepal."
-      },
-      {
-        "name": "Prakriti Gautam",
-        "affiliation": "College of Medical Sciences, Bharatpur-10, Chitwan, Nepal."
-      },
-      {
-        "name": "Shishir Gaire",
-        "affiliation": "College of Medical Sciences, Bharatpur-10, Chitwan, Nepal."
-      }
-    ],
-    "journal": "Infection",
-    "publishedDate": "2026-03-27",
-    "fetchedDate": "2026-04-14",
-    "category": "Pediatria",
-    "tags": [
-      "infection",
-      "gene",
-      "pediatric",
-      "children",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": false
   }
 ]
