@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-40679737",
+    "pmid": "40679737",
+    "doi": "10.1007/s12664-025-01823-2",
+    "title": "Primary non-hepatoblastoma liver tumors in children-Defining the profile of a very rare subset of childhood tumors.",
+    "titlePt": "Primary non-hepatoblastoma liver tumors in children-Defining the profile of a very rare subset of childhood tumors.",
+    "abstract": "Primary pediatric non-hepatoblastoma (n-HB) liver tumors are rare with limited literature on their clinical-epidemiological profile and outcomes. We audit the above in this study. Children diagnosed with n-HB primary liver tumors from January 2012 to December 2023 were analyzed retrospectively. Patients underwent contrast-enhanced computed tomography (CECT) of the abdomen and computed tomography (CT) of the thorax or fluorodeoxyglucosepositron emission tomography/computed tomography (FDG-PET/CT)&#xa0;for staging of malignant tumors. Treatment was administered based on the definitive diagnosis. Sixty-nine patients formed the study cohort. The most common tumors in various age groups were infantile hepatic hemangioma (IHH)-66.7%, malignant rhabdoid tumor (MRT)-25%; six&#xa0;months to three&#xa0;years: MRT-25.0%, mesenchymal hamartoma and hemangioendothelioma-18.7% each; three to 10&#xa0;years: hepatocellular carcinoma (HCC)-31.6%, undifferentiated embryonal sarcoma of the liver (UESL)-26",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo publicado na *PubMed* (DOI: 10.1007/s12664-025-01823-2) analisou o perfil clínico-epidemiológico e desfechos de tumores primários de fígado não hepatoblastoma (n-HB) em crianças, uma condição rara com escassa literatura disponível. A pesquisa, que avaliou pacientes diagnosticados entre janeiro de 2012 e dezembro de 2023, identificou 69 casos, com distribuição etária e histológica distinta conforme o grupo analisado. Entre lactentes (até seis meses), o hemangioma hepático infantil (IHH) foi o mais frequente (66,7%), enquanto o tumor rabdoide maligno (MRT) representou 25% dos casos. No grupo de seis meses a três anos, o MRT também foi prevalente (25%), seguido de hamartoma mesenquimal e hemangioendotelioma (18,7% cada). Para crianças de três a 10 anos, o carcinoma hepatocelular (HCC) e o sarcoma embrionário indiferenciado do fígado (UESL) foram os tumores mais comuns, com 31,6% e 26% de representatividade, respectivamente.\n\nOs pacientes foram submetidos a estadiamento por tomografia computadorizada contrastada (CECT) de abdome e tórax ou PET-CT com FDG, conforme a suspeita de malignidade. O tratamento foi guiado pelo diagnóstico definitivo, mas detalhes sobre protocolos terapêuticos específicos ou sobrevida não foram reportados no resumo analisado. A ausência de dados sobre desfechos de longo prazo e fatores prognósticos limita a interpretação clínica, embora o estudo sublinhe a necessidade de abordagens personalizadas devido à heterogeneidade dos subtipos tumorais. Pesquisas futuras devem explorar estratégias de diagnóstico precoce e terapias direcionadas, considerando a raridade dessas neoplasias e a variabilidade etária observada.\n\n---\n\n**English version**\n\nA retrospective study published in *PubMed* (DOI: 10.1007/s12664-025-01823-2) examined the clinical-epidemiological profile and outcomes of primary non-hepatoblastoma (n-HB) liver tumors in children, a rare condition with limited existing literature. The research, which analyzed patients diagnosed between January 2012 and December 2023, identified 69 cases with distinct age-related and histological distributions. Among infants (up to six months), infantile hepatic hemangioma (IHH) was the most common (66.7%), followed by malignant rhabdoid tumor (MRT) at 25%. In the six-month to three-year group, MRT remained prevalent (25%), alongside mesenchymal hamartoma and hemangioendothelioma (18.7% each). For children aged three to 10 years, hepatocellular carcinoma (HCC) and undifferentiated embryonal sarcoma of the liver (UESL) were the most frequent, accounting for 31.6% and 26% of cases, respectively.\n\nPatients underwent staging with contrast-enhanced computed tomography (CECT) of the abdomen and thorax or FDG-PET/CT, depending on malignancy suspicion. Treatment was based on definitive diagnosis, though specific therapeutic protocols or survival data were not reported in the abstract. The lack of long-term outcome and prognostic factor data restricts clinical interpretation, though the study highlights the need for tailored approaches due to the heterogeneity of tumor subtypes. Future research should focus on early diagnostic strategies and targeted therapies, given the rarity of these neoplasms and the observed age-related variability.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40679737",
+    "authors": [
+      {
+        "name": "Abha Mehta",
+        "affiliation": "Division of Pediatric Oncology, Tata Memorial Hospital, Homi Bhabha National Institute, Mumbai, 400 012, India."
+      },
+      {
+        "name": "Badira Cheriyalinkal Parambil",
+        "affiliation": "Division of Pediatric Oncology, Tata Memorial Hospital, Homi Bhabha National Institute, Mumbai, 400 012, India. badiracp@yahoo.co.in."
+      },
+      {
+        "name": "Akshay Baheti",
+        "affiliation": "Department of Radiodiagnosis, Tata Memorial Hospital, Homi Bhabha National Institute, Mumbai, 400 012, India."
+      },
+      {
+        "name": "Venkata Ram Mohan Gollamudi",
+        "affiliation": "Division of Pediatric Oncology, Tata Memorial Hospital, Homi Bhabha National Institute, Mumbai, 400 012, India."
+      }
+    ],
+    "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
+    "publishedDate": "2026-06-16",
+    "fetchedDate": "2026-06-16",
+    "category": "Pediatria",
+    "tags": [
+      "tumor",
+      "carcinoma",
+      "pediatric",
+      "children",
+      "infant"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42298326",
     "pmid": "42298326",
     "doi": "10.1097/CRD.0000000000001362",
@@ -210,7 +255,7 @@
       "tumor",
       "rna"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12553,46 +12598,5 @@
     "isHighlight": false,
     "readTime": 11,
     "aiProcessed": false
-  },
-  {
-    "id": "pubmed-40769959",
-    "pmid": "40769959",
-    "doi": "10.1177/08919887251366637",
-    "title": "The Effects of Deep TMS on QEEG Measures in Co-Occurring Major Depressive Disorder and Early-Stage Alzheimer's Disease: A Pilot Study.",
-    "titlePt": "The Effects of Deep TMS on QEEG Measures in Co-Occurring Major Depressive Disorder and Early-Stage Alzheimer's Disease: A Pilot Study.",
-    "abstract": "Major Depressive Disorder (MDD) and Alzheimer's disease (AD) represent two of the most prevalent diseases worldwide. Notably, it is estimated that 30%-50% of individuals with AD have co-occurring MDD and there are overlapping symptoms across numerous domains. In this pilot study, a Deep TMS protocol (targeting the left frontal and bilateral temporal regions) was delivered for 36 sessions to patients with co-occurring MDD and early-stage AD (N = 12). All participants received the treatment and there was no control condition. The treatment yielded a response rate of 83.33% (defined by a &#x2265;50% reduction in depressive symptoms on the Patient Health Questionnaire-9 [PHQ-9]) and a remission rate of 50.00% (PHQ-9 score of 4 or less following treatment). Further, participants displayed reductions in left prefrontal and right temporal delta power using QEEG analysis pre- and -post treatment. Alpha coherence was also enhanced in key areas. The observed shift in neurophysiological measures ",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou os efeitos da Terapia de Estimulação Magnética Transcraniana Profunda (Deep TMS) em pacientes com Transtorno Depressivo Maior (TDM) e Doen��a de Alzheimer em estágio inicial. Essas duas condições representam algumas das doenças mais prevalentes worldwide, com uma estimativa de que 30%-50% dos indivíduos com Doença de Alzheimer também apresentem TDM, compartilhando sintomas em várias áreas. O estudo, que contou com a participação de 12 pacientes, utilizou um protocolo de Deep TMS direcionado às regiões frontal esquerda e temporal bilateral durante 36 sessões. Todos os participantes receberam o tratamento, e não houve um grupo de controle. Os resultados mostraram uma taxa de resposta de 83,33% (definida como uma redução de pelo menos 50% nos sintomas depressivos medidos pelo Questionário de Saúde do Paciente-9 [PHQ-9]) e uma taxa de remissão de 50,00% (escore PHQ-9 de 4 ou menos após o tratamento). Além disso, os participantes apresentaram reduções no poder delta pré-frontal esquerdo e temporal direito, além de aumento na coerência alfa em áreas-chave, conforme análise por eletroencefalografia quantitativa (QEEG) antes e após o tratamento. Embora os achados sejam promissores, é importante notar que o estudo teve um tamanho de amostra pequeno e não incluiu um grupo de controle, o que limita a generalização dos resultados. Futuros estudos devem investigar mais a fundo os efeitos da Deep TMS nessa população e explorar seus possíveis benefícios clínicos.\n\nA recent study published in PubMed investigated the effects of Deep Transcranial Magnetic Stimulation (Deep TMS) on patients with co-occurring Major Depressive Disorder (MDD) and early-stage Alzheimer's disease. These two conditions represent some of the most prevalent diseases worldwide, with an estimated 30%-50% of individuals with Alzheimer's disease also having MDD, with overlapping symptoms across numerous domains. The study, which included 12 patients, used a Deep TMS protocol targeting the left frontal and bilateral temporal regions over 36 sessions. All participants received the treatment, and there was no control condition. The results showed a response rate of 83.33% (defined as a ≥50% reduction in depressive symptoms on the Patient Health Questionnaire-9 [PHQ-9]) and a remission rate of 50.00% (PHQ-9 score of 4 or less following treatment). Furthermore, participants displayed reductions in left prefrontal and right temporal delta power, as well as enhanced alpha coherence in key areas, according to quantitative electroencephalography (QEEG) analysis before and after treatment. While the findings are promising, it is essential to note that the study had a small sample size and lacked a control group, which limits the generalizability of the results. Future studies should further investigate the effects of Deep TMS in this population and explore its potential clinical benefits.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40769959",
-    "authors": [
-      {
-        "name": "Nathaniel A Shanok",
-        "affiliation": "Delray Center for Brain Science, Delray Beach, FL, USA."
-      },
-      {
-        "name": "Brittany Derbin",
-        "affiliation": "Department of Psychology, Florida Atlantic University, Boca Raton, FL, USA.1782"
-      },
-      {
-        "name": "Sabrina Muzac",
-        "affiliation": "Delray Center for Brain Science, Delray Beach, FL, USA."
-      },
-      {
-        "name": "Enis Cabeza",
-        "affiliation": "Delray Center for Brain Science, Delray Beach, FL, USA."
-      }
-    ],
-    "journal": "Journal of geriatric psychiatry and neurology",
-    "publishedDate": "2026-03-27",
-    "fetchedDate": "2026-04-18",
-    "category": "Neurologia",
-    "tags": [
-      "alzheimer"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
