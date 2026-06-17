@@ -12514,6 +12514,50 @@
     "aiProcessed": false
   },
   {
+    "id": "pubmed-40618273",
+    "pmid": "40618273",
+    "doi": "10.4103/NRR.NRR-D-25-00002",
+    "title": "MicroRNA and Alzheimer's disease: Diagnostic biomarkers and potential therapeutic targets.",
+    "titlePt": "MicroRNA and Alzheimer's disease: Diagnostic biomarkers and potential therapeutic targets.",
+    "abstract": "MicroRNAs (miRNAs), small non-coding RNAs ranging from 19 to 25 nucleotides in length, are key regulators of gene expression that function primarily by inhibiting the translation of target mRNAs. Recent studies have suggested that miRNAs play important roles in regulating key aspects in the pathology of Alzheimer's disease, including the modulation and accumulation of amyloid-beta and tau proteins. Moreover, miRNAs have been implicated in the regulation of neuroinflammation through various inflammatory pathways, notably the nuclear factor kappa B signaling cascade. Additional emerging evidence has shown that miRNAs regulate synaptic growth and maturation, and they perform promising roles in regulating neuronal death and development. miRNAs also offer a novel avenue for direct reprogramming of neurons, representing a promising strategy for Alzheimer's disease treatment. The regulation of miRNA biogenesis and the post-transcriptional modifications of miRNAs are critical factors in Alzhei",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nMicroRNAs (miRNAs) são pequenas moléculas de RNA não codificante, com cerca de 19 a 25 nucleotídeos, que atuam como reguladores finos da expressão gênica ao inibir a tradução de mRNAs-alvo. Evidências recentes destacam seu papel central na fisiopatologia da doença de Alzheimer, especialmente na modulação e acúmulo de proteínas como beta-amiloide e tau. Além disso, estudos demonstram que miRNAs influenciam processos inflamatórios, como a via de sinalização do fator nuclear kappa B (NF-κB), e participam da regulação do crescimento e maturação sináptica, bem como da morte neuronal. A capacidade de miRNAs de promover a reprogramação direta de neurônios abre novas perspectivas terapêuticas para a doença, embora mecanismos como a biogênese dessas moléculas e suas modificações pós-transcricionais ainda precisem ser mais bem elucidados. Pesquisas futuras devem priorizar a validação clínica desses biomarcadores em amostras de pacientes e a avaliação da segurança de estratégias baseadas em miRNAs, cujos resultados ainda são preliminares.\n\n---\n\n**English version**\n\nMicroRNAs (miRNAs), small non-coding RNAs measuring 19 to 25 nucleotides, function as key regulators of gene expression by inhibiting the translation of target mRNAs. Recent findings underscore their central role in Alzheimer’s disease (AD) pathophysiology, particularly in modulating amyloid-beta and tau protein accumulation. miRNAs also influence inflammatory processes, including the nuclear factor kappa B (NF-κB) signaling pathway, as well as synaptic growth and maturation, neuronal death, and development. Their potential to enable direct neuronal reprogramming presents a promising therapeutic avenue for AD, though mechanisms governing miRNA biogenesis and post-transcriptional modifications remain incompletely understood. Future research should focus on validating these biomarkers in patient samples and assessing the safety of miRNA-based interventions, as current evidence remains preliminary.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40618273",
+    "authors": [
+      {
+        "name": "Yiwen Huang",
+        "affiliation": "Endocrinology Department of Shanghai Municipal Hospital of Traditional Chinese Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai, China."
+      },
+      {
+        "name": "Yimin Chen",
+        "affiliation": "Department of College of Traditional Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin, China."
+      },
+      {
+        "name": "Zhengyang He",
+        "affiliation": "Department of Chinese Medicine &amp; Integrative Medicine, Shanghai Geriatric Medical Center, Zhongshan Hospital, Fudan University, Shanghai, China."
+      },
+      {
+        "name": "Wenfeng Lu",
+        "affiliation": "Department of Chinese Medicine &amp; Integrative Medicine, Shanghai Geriatric Medical Center, Zhongshan Hospital, Fudan University, Shanghai, China."
+      }
+    ],
+    "journal": "Neural regeneration research",
+    "publishedDate": "2026-03-31",
+    "fetchedDate": "2026-06-17",
+    "category": "Genômica",
+    "tags": [
+      "alzheimer",
+      "gene",
+      "rna",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-40618250",
     "pmid": "40618250",
     "doi": "10.4103/NRR.NRR-D-25-00190",
@@ -12556,50 +12600,5 @@
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41861349",
-    "pmid": "41861349",
-    "doi": "10.1097/MOU.0000000000001388",
-    "title": "The future of urothelial carcinoma: a 2024-2025 update of early-phase trials of novel therapeutic agents.",
-    "titlePt": "The future of urothelial carcinoma: a 2024-2025 update of early-phase trials of novel therapeutic agents.",
-    "abstract": "The treatment landscape for advanced and non-muscle-invasive urothelial carcinoma (UC) is rapidly evolving beyond platinum chemotherapy and immune checkpoint inhibitors. This review is timely and relevant as it synthesizes recent, impactful data from 2024-2025 early-phase trials, highlighting agents poised to redefine clinical standards. Recent studies showcase promising novel strategies. These include next-generation targeted therapies like sapanisertib, novel antibody-drug conjugates (ADCs) and bicycle toxin conjugates (BTCs) such as zelenectide pevedotin (BT8009) and dual-ADC combinations with high response rates, and the approved immunomodulator N-803 for BCG-unresponsive disease. Furthermore, innovative intravesical therapies, including ADCs (disitamab vedotin) and immune checkpoint inhibitors, show transformative potential for localized disease with favorable safety. The findings indicate a shift towards more effective and tailored treatments. Future efforts must focus on biomark",
-    "journalisticSummary": "O tratamento do carcinoma urotelial avançado e não invasivo da musculatura está passando por uma evolução rápida, ultrapassando a quimioterapia à base de platina e os inibidores de pontos de controle imunológico. Uma revisão recente sobre os ensaios clínicos de fase inicial de 2024-2025 destaca agentes terapêuticos inovadores que prometem redefinir os padrões clínicos. Estudos mostram estratégias promissoras, incluindo terapias direcionadas de próxima geração, como sapanisertib, conjugados de anticorpos e drogas (ADCs) e conjugados de toxinas biciclo (BTCs), como zelenectide pevedotin (BT8009), além de combinações de ADCs duais com altas taxas de resposta. Além disso, o imunomodulador aprovado N-803 para doenças não responsivas ao BCG e terapias intravesicais inovadoras, incluindo ADCs (disitamab vedotin) e inibidores de pontos de controle imunológico, demonstram potencial transformador para doenças localizadas com segurança favorável. Os achados indicam uma mudança em direção a tratamentos mais eficazes e personalizados. No entanto, não foram fornecidos detalhes sobre as limitações específicas do estudo e os próximos passos para a implementação dessas terapias inovadoras.\n\nThe treatment landscape for advanced and non-muscle-invasive urothelial carcinoma is rapidly evolving beyond platinum chemotherapy and immune checkpoint inhibitors. A recent review of 2024-2025 early-phase trials highlights novel therapeutic agents poised to redefine clinical standards. Studies showcase promising strategies, including next-generation targeted therapies like sapanisertib, novel antibody-drug conjugates (ADCs) and bicycle toxin conjugates (BTCs) such as zelenectide pevedotin (BT8009), and dual-ADC combinations with high response rates. Furthermore, the approved immunomodulator N-803 for BCG-unresponsive disease and innovative intravesical therapies, including ADCs (disitamab vedotin) and immune checkpoint inhibitors, demonstrate transformative potential for localized disease with favorable safety. The findings indicate a shift towards more effective and tailored treatments. However, specific limitations of the study and next steps for the implementation of these innovative therapies were not provided. Future efforts must focus on biomarkers and further research to fully realize the potential of these emerging treatments.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41861349",
-    "authors": [
-      {
-        "name": "Yan Hiu Athena Lee",
-        "affiliation": "S.H. Ho Urology Centre, Department of Surgery, Prince of Wales Hospital."
-      },
-      {
-        "name": "Chris Ming-Ho Wong",
-        "affiliation": "S.H. Ho Urology Centre, Department of Surgery, Prince of Wales Hospital."
-      },
-      {
-        "name": "Alex Qinyang Liu",
-        "affiliation": "S.H. Ho Urology Centre, Department of Surgery, Prince of Wales Hospital."
-      },
-      {
-        "name": "Jeremy Yuen-Chun Teoh",
-        "affiliation": "S.H. Ho Urology Centre, Department of Surgery, Prince of Wales Hospital."
-      }
-    ],
-    "journal": "Current opinion in urology",
-    "publishedDate": "2026-03-31",
-    "fetchedDate": "2026-04-16",
-    "category": "Oncologia",
-    "tags": [
-      "carcinoma",
-      "chemotherapy",
-      "gene",
-      "drug",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
