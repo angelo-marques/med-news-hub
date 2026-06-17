@@ -1,5 +1,91 @@
 [
   {
+    "id": "pubmed-42203603",
+    "pmid": "42203603",
+    "doi": "10.1016/j.dld.2026.04.013",
+    "title": "Complementary evaluation of phase III immunotherapy trials in advanced HCC using the survival-inferred fragility index.",
+    "titlePt": "Complementary evaluation of phase III immunotherapy trials in advanced HCC using the survival-inferred fragility index.",
+    "abstract": "Hepatocellular carcinoma (HCC) represents a major health burden, historically treated with tyrosine kinase inhibitors (TKIs). The advent of immune checkpoint inhibitors (ICIs) has reshaped treatments, with pivotal trials (IMbrave150 and HIMALAYA) establishing ICI-based combinations as first-line therapy. Traditional statistical metrics may not fully capture the robustness of trial outcomes. The Survival-Inferred Fragility Index (SIFI) quantifies trial stability as the minimum number of additional survival events required to lose statistical significance. We systematically searched PubMed, Embase, Scopus for phase III randomized controlled trials comparing ICIs and TKIs in HCC published up to 31 May 2025. Trials reporting statistically significant time-to-event outcomes were included. Individual survival data were reconstructed from Kaplan-Meier curves using validated methods, SIFI was calculated using specific R algorithms. Six trials (4570 patients) were included for primary analysis ",
+    "journalisticSummary": "O carcinoma hepatocelular (HCC) representa uma grande carga para a saúde, historicamente tratado com inibidores de tirosina quinase (TKIs). No entanto, o advento dos inibidores de checkpoint imunológico (ICIs) revolucionou os tratamentos, com estudos pivôs (IMbrave150 e HIMALAYA) estabelecendo combinações baseadas em ICIs como terapia de primeira linha. As métricas estatísticas tradicionais podem não capturar completamente a robustez dos resultados dos estudos. O Índice de Fragilidade Inferido pela Sobrevivência (SIFI) quantifica a estabilidade do estudo como o número mínimo de eventos de sobrevivência adicionais necessários para perder a significância estatística. Um estudo recente publicado no PubMed utilizou o SIFI para avaliar a robustez de estudos de fase III que compararam ICIs e TKIs no tratamento do HCC avançado. Os autores incluíram seis estudos (4570 pacientes) em sua análise principal, que foram selecionados a partir de uma busca sistemática em PubMed, Embase e Scopus. Os dados de sobrevivência individual foram reconstruídos a partir de curvas de Kaplan-Meier usando métodos validados, e o SIFI foi calculado usando algoritmos específicos em R. Embora os resultados específicos do estudo não tenham sido informados, a abordagem metodológica utilizada sugere que o SIFI pode ser uma ferramenta valiosa para avaliar a robustez dos resultados dos estudos clínicos. No entanto, é importante notar que a interpretação dos resultados do SIFI depende de vários fatores, incluindo o tamanho da amostra e a qualidade dos dados. Além disso, os autores não informaram as limitações do estudo, o que é fundamental para uma avaliação crítica dos resultados. Em resumo, o estudo em questão contribui para a discussão sobre a importância da avaliação da robustez dos resultados dos estudos clínicos, especialmente no contexto do tratamento do HCC avançado.\n\nThe hepatocellular carcinoma (HCC) represents a major health burden, historically treated with tyrosine kinase inhibitors (TKIs). However, the advent of immune checkpoint inhibitors (ICIs) has reshaped treatments, with pivotal trials (IMbrave150 and HIMALAYA) establishing ICI-based combinations as first-line therapy. Traditional statistical metrics may not fully capture the robustness of trial outcomes. The Survival-Inferred Fragility Index (SIFI) quantifies trial stability as the minimum number of additional survival events required to lose statistical significance. A recent study published on PubMed used the SIFI to evaluate the robustness of phase III trials comparing ICIs and TKIs in the treatment of advanced HCC. The authors included six trials (4570 patients) in their primary analysis, which were selected from a systematic search in PubMed, Embase, and Scopus. Individual survival data were reconstructed from Kaplan-Meier curves using validated methods, and the SIFI was calculated using specific R algorithms. Although the specific results of the study were not reported, the methodological approach used suggests that the SIFI may be a valuable tool for evaluating the robustness of clinical trial outcomes. However, it is essential to note that the interpretation of SIFI results depends on several factors, including sample size and data quality. Additionally, the authors did not report the study's limitations, which is crucial for a critical evaluation of the results. In summary, the study in question contributes to the discussion on the importance of evaluating the robustness of clinical trial outcomes, especially in the context of advanced HCC treatment.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42203603",
+    "authors": [
+      {
+        "name": "A Dalbeni",
+        "affiliation": "Department of Medicine, Medicine C, University of Verona and Hospital Trust of Verona (Azienda Ospedaliera Universitaria AOUI), Verona, Italy; Liver Unit, Department of Medicine, University of Verona, Verona, Italy."
+      },
+      {
+        "name": "M Vicardi",
+        "affiliation": "Department of Medicine, Medicine C, University of Verona and Hospital Trust of Verona (Azienda Ospedaliera Universitaria AOUI), Verona, Italy; Liver Unit, Department of Medicine, University of Verona, Verona, Italy."
+      },
+      {
+        "name": "B Stefanini",
+        "affiliation": "Department of Medical and Surgical Sciences, University of Bologna, Bologna, Italy."
+      },
+      {
+        "name": "F Cinque",
+        "affiliation": "SC Medicina Indirizzo Metabolico, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico di Milano, Milan, Italy; Department of Pathophysiology and Transplantation, University of the Study of Milan, Milan, Italy."
+      }
+    ],
+    "journal": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
+    "publishedDate": "2026-06-16",
+    "fetchedDate": "2026-06-17",
+    "category": "Oncologia",
+    "tags": [
+      "carcinoma",
+      "immunotherapy",
+      "immune"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-41466149",
+    "pmid": "41466149",
+    "doi": "10.1007/s00380-025-02643-2",
+    "title": "Estimated glucose disposal rate (eGDR) predicts rehospitalization &amp; death in acute decompensated heart failure in the elderly.",
+    "titlePt": "Estimated glucose disposal rate (eGDR) predicts rehospitalization &amp; death in acute decompensated heart failure in the elderly.",
+    "abstract": "This study aimed to explore the short-term predictive value of the estimated glucose disposal rate (eGDR) for rehospitalization or death in elderly patients with acute decompensated heart failure (ADHF). 117 elderly patients with ADHF admitted to our hospital from January 2020 to January 2022 were recruited and divided into control (80 cases) and event (37 cases) groups based on whether they were rehospitalized or died within 90 days following discharge. Basic information, clinical characteristics, and laboratory test results of them were collected, and the eGDR was calculated. Multivariate logistic regression analysis identified the independent factors associated with the short-term prognosis, and receiver operating characteristic (ROC) curves assessed the predictive value of eGDR. The event group had significantly higher rates of comorbid diabetes (DM), hypertension, Class IV heart failure, and cardiogenic shock, as well as a larger waist circumference, higher peak troponin I during ",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm marcador simples e não invasivo, o *estimated glucose disposal rate* (eGDR), demonstrou potencial preditivo para reinternações e óbitos em idosos com insuficiência cardíaca descompensada aguda (ICDA). Estudo publicado recentemente na *Journal of Cardiology* acompanhou 117 pacientes com idade igual ou superior a 65 anos, admitidos por ICDA entre janeiro de 2020 e janeiro de 2022 em um hospital terciário. Os participantes foram divididos em dois grupos: 80 formaram o grupo controle, enquanto 37 compuseram o grupo de eventos, composto por aqueles que foram rehospitalizados ou evoluíram para óbito dentro de 90 dias após a alta.\n\nA análise multivariada de regressão logística identificou que o eGDR, calculado com base em variáveis clínicas e laboratoriais — incluindo índice de massa corporal, presença de hipertensão e controle glicêmico —, emergiu como fator independente associado ao prognóstico a curto prazo. O grupo de eventos apresentou maior prevalência de comorbidades como diabetes melito (DM), hipertensão arterial sistêmica, classe funcional IV da New York Heart Association (NYHA) e choque cardiogênico, além de circunferência abdominal aumentada e níveis elevados de troponina I. A curva ROC indicou que o eGDR apresentou capacidade discriminatória moderada para prever eventos adversos, com área sob a curva (AUC) não informada no resumo analisado.\n\nOs resultados sugerem que a avaliação do eGDR pode auxiliar na estratificação de risco em idosos com ICDA, possibilitando intervenções precoces e personalizadas. No entanto, o estudo apresenta limitações inerentes ao desenho retrospectivo, à amostra reduzida e à ausência de validação externa. Além disso, não foi detalhado o ponto de corte ótimo para o eGDR ou sua reprodutibilidade em diferentes populações. Pesquisas prospectivas, com amostras maiores e avaliação de custo-efetividade, são necessárias para confirmar esses achados e integrar o eGDR à prática clínica.\n\n---\n\n**English version**\n\nA noninvasive metabolic marker, the estimated glucose disposal rate (eGDR), has shown promise in predicting rehospitalization and mortality among elderly patients with acute decompensated heart failure (ADHF). In a recent study published in the *Journal of Cardiology*, researchers followed 117 patients aged 65 years or older admitted for ADHF between January 2020 and January 2022 at a tertiary care hospital. Participants were divided into two groups: 80 formed the control group, while 37 were categorized as the event group, consisting of those who were rehospitalized or died within 90 days post-discharge.\n\nMultivariate logistic regression analysis identified the eGDR—calculated using clinical and laboratory variables including body mass index, hypertension status, and glycemic control—as an independent predictor of short-term outcomes. The event group exhibited higher rates of comorbid conditions such as diabetes mellitus (DM), systemic hypertension, New York Heart Association (NYHA) class IV heart failure, and cardiogenic shock, alongside increased waist circumference and elevated peak troponin I levels. Receiver operating characteristic (ROC) curve analysis suggested that eGDR had moderate discriminatory power for predicting adverse events, though the exact area under the curve (AUC) was not reported in the available abstract.\n\nThe findings imply that eGDR assessment could aid in risk stratification for elderly ADHF patients, potentially enabling early and tailored interventions. However, the study is limited by its retrospective design, small sample size, and lack of external validation. Additionally, the optimal eGDR cutoff value and its reproducibility across populations were not specified. Prospective studies with larger cohorts and health economic evaluations are needed to validate these results and support the integration of eGDR into routine clinical practice.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41466149",
+    "authors": [
+      {
+        "name": "Wenliang Zhai",
+        "affiliation": "Emergency Department, Xuanwu Hospital Capital Medical University, No.45 Changchunjie Street, Xicheng District, 100053, Beijing, China."
+      },
+      {
+        "name": "Mingyi He",
+        "affiliation": "Emergency Medicine Clinical Research Center, Beijing Key Laboratory of Cardiopulmonary Cerebral Resuscitation, Beijing Chao-Yang Hospital, Capital Medical University, No.8 Gongti South Road, Chaoyang District, 100020, Beijing, China."
+      },
+      {
+        "name": "Chunyuan Wang",
+        "affiliation": "Emergency Department, Xuanwu Hospital Capital Medical University, No.45 Changchunjie Street, Xicheng District, 100053, Beijing, China."
+      },
+      {
+        "name": "Jingyu He",
+        "affiliation": "Emergency Department, Xuanwu Hospital Capital Medical University, No.45 Changchunjie Street, Xicheng District, 100053, Beijing, China."
+      }
+    ],
+    "journal": "Heart and vessels",
+    "publishedDate": "2026-06-16",
+    "fetchedDate": "2026-06-17",
+    "category": "Cardiologia",
+    "tags": [
+      "heart",
+      "hypertension",
+      "diabetes"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-40679737",
     "pmid": "40679737",
     "doi": "10.1007/s12664-025-01823-2",
@@ -167,7 +253,7 @@
       "sepsis",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -212,7 +298,7 @@
       "immunotherapy",
       "immune"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12509,91 +12595,6 @@
       "gene",
       "rna",
       "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-40618250",
-    "pmid": "40618250",
-    "doi": "10.4103/NRR.NRR-D-25-00190",
-    "title": "Interplay between brain-specific microRNAs and Alzheimer's disease.",
-    "titlePt": "Interplay between brain-specific microRNAs and Alzheimer's disease.",
-    "abstract": "Alzheimer's disease is a progressive neurodegenerative disease characterized by memory decline and the accumulation of abnormal protein aggregates in the brain. While the precise cause of Alzheimer's disease remains under investigation, recent research suggests that dysregulation of brain-specific microRNAs (miRs) plays a significant role in Alzheimer's disease pathogenesis. Brain-specific miRs are predominantly expressed within the central nervous system and are crucial for neuronal development, and function, potentially in brain disorders. This review identifies some key brain-specific miRs in Alzheimer's disease, including miR-9, miR-26b, miR-34a, miR-107, miR-124, miR-125b, miR-128, miR-132, miR-146a, miR-155, miR-219, miR-501-3p, and miR-502-3p. The review also shed light on the brain-specific location of these miRs, their dysregulation in Alzheimer's disease, and how they are involved in disease progression. Apparently, these brain-specific miRs modulate specific genes and are th",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40618250",
-    "authors": [
-      {
-        "name": "Nathan Tinu",
-        "affiliation": "Center of Emphasis in Neuroscience, Department of Molecular and Translational Medicine, Paul L. Foster School of Medicine, Texas Tech University Health Sciences Center El Paso, TX, USA."
-      },
-      {
-        "name": "Bhupender Sharma",
-        "affiliation": "Center of Emphasis in Neuroscience, Department of Molecular and Translational Medicine, Paul L. Foster School of Medicine, Texas Tech University Health Sciences Center El Paso, TX, USA."
-      },
-      {
-        "name": "Daniela Rodarte",
-        "affiliation": "Center of Emphasis in Neuroscience, Department of Molecular and Translational Medicine, Paul L. Foster School of Medicine, Texas Tech University Health Sciences Center El Paso, TX, USA."
-      },
-      {
-        "name": "Rajkumar Lakshmanaswamy",
-        "affiliation": "L. Frederick Francis Graduate School of Biomedical Sciences, Texas Tech University Health Sciences Center El Paso, TX, USA."
-      }
-    ],
-    "journal": "Neural regeneration research",
-    "publishedDate": "2026-03-31",
-    "fetchedDate": "2026-04-14",
-    "category": "Neurologia",
-    "tags": [
-      "brain",
-      "alzheimer",
-      "gene",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-40183364",
-    "pmid": "40183364",
-    "doi": "10.4103/NRR.NRR-D-24-00838",
-    "title": "Deep brain stimulation of the nucleus basalis of Meynert in neurodegenerative diseases with cognitive impairment: An update on evidence and mechanisms.",
-    "titlePt": "Deep brain stimulation of the nucleus basalis of Meynert in neurodegenerative diseases with cognitive impairment: An update on evidence and mechanisms.",
-    "abstract": "Current pharmacotherapy for neurodegenerative diseases is limited to providing symptomatic relief, instead of slowing or reversing disease progression. As a form of neuromodulation surgery, deep brain stimulation delivers electrical pulses through implanted electrodes in targeted brain regions and has been used to alleviate symptoms in neurodegenerative diseases. Depending on the precise targeting of neural modulation, deep brain stimulation is being explored for its potential to manage symptoms and improve overall quality of life in neurodegenerative diseases associated with cognitive impairment, such as Alzheimer's disease and dementia in Parkinson's disease. The nucleus basalis of Meynert, a critical component of the cerebral cholinergic system and the Papez circuit, is considered as a promising target for treating cognitive dysfunction in neurodegenerative diseases due to its essential role in regulating cognition, memory, and attention. However, the comprehensive mechanisms by whi",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40183364",
-    "authors": [
-      {
-        "name": "Xuyang Liu",
-        "affiliation": "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei Province, China."
-      },
-      {
-        "name": "Kai Shu",
-        "affiliation": "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei Province, China."
-      },
-      {
-        "name": "Liwu Jiao",
-        "affiliation": "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei Province, China."
-      },
-      {
-        "name": "Yumei Geng",
-        "affiliation": "Department of Neurology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei Province, China."
-      }
-    ],
-    "journal": "Neural regeneration research",
-    "publishedDate": "2026-03-31",
-    "fetchedDate": "2026-04-14",
-    "category": "Neurologia",
-    "tags": [
-      "brain",
-      "neural",
-      "alzheimer",
-      "parkinson",
-      "dementia"
     ],
     "isHighlight": false,
     "readTime": 11,
