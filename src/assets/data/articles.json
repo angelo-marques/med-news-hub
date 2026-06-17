@@ -12514,6 +12514,50 @@
     "aiProcessed": false
   },
   {
+    "id": "pubmed-40618250",
+    "pmid": "40618250",
+    "doi": "10.4103/NRR.NRR-D-25-00190",
+    "title": "Interplay between brain-specific microRNAs and Alzheimer's disease.",
+    "titlePt": "Interplay between brain-specific microRNAs and Alzheimer's disease.",
+    "abstract": "Alzheimer's disease is a progressive neurodegenerative disease characterized by memory decline and the accumulation of abnormal protein aggregates in the brain. While the precise cause of Alzheimer's disease remains under investigation, recent research suggests that dysregulation of brain-specific microRNAs (miRs) plays a significant role in Alzheimer's disease pathogenesis. Brain-specific miRs are predominantly expressed within the central nervous system and are crucial for neuronal development, and function, potentially in brain disorders. This review identifies some key brain-specific miRs in Alzheimer's disease, including miR-9, miR-26b, miR-34a, miR-107, miR-124, miR-125b, miR-128, miR-132, miR-146a, miR-155, miR-219, miR-501-3p, and miR-502-3p. The review also shed light on the brain-specific location of these miRs, their dysregulation in Alzheimer's disease, and how they are involved in disease progression. Apparently, these brain-specific miRs modulate specific genes and are th",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nPesquisadores destacam o papel central de microRNAs específicos do cérebro na fisiopatologia da doença de Alzheimer, sugerindo novas perspectivas para diagnóstico e terapias. Um estudo recente publicado no *Neurology Research Reports* analisa como a disfunção de pequenas moléculas reguladoras, conhecidas como microRNAs (miRs), contribui para a progressão da doença neurodegenerativa mais comum do mundo. Segundo a revisão, 13 microRNAs predominantemente expressos no sistema nervoso central — incluindo miR-9, miR-34a, miR-124 e miR-132 — apresentam padrões anormais em pacientes com Alzheimer, interferindo em processos como a formação de placas amiloides e a resposta inflamatória crônica.\n\nOs achados indicam que esses miRs regulam genes associados à patologia da doença, como aqueles envolvidos na deposição de beta-amiloide e na hiperfosforilação da proteína tau. Por exemplo, miR-124 está relacionado à plasticidade sináptica, enquanto miR-132 modula a expressão de fatores neurotróficos, ambos reduzidos em cérebros de pacientes com Alzheimer. A pesquisa também mapeia a localização cerebral desses microRNAs, com alguns — como miR-146a — sendo mais abundantes no hipocampo e no córtex, regiões críticas para a memória e a cognição. Embora o estudo não tenha avaliado intervenções terapêuticas, os autores apontam que a restauração de níveis normais desses miRs poderia ser uma estratégia promissora para retardar a progressão da doença.\n\nEntre as limitações, o trabalho se baseia em revisão de literatura, sem apresentar dados experimentais próprios ou análise quantitativa dos níveis dos miRs em diferentes estágios da doença. Além disso, a complexidade da regulação gênica mediada por microRNAs implica que alterações em um único miR podem ter efeitos pleiotrópicos, dificultando a transposição direta dos achados para aplicações clínicas. Os próximos passos incluem estudos funcionais in vivo para validar o papel causal desses microRNAs e o desenvolvimento de biomarcadores baseados em perfis de miRs no líquido cefalorraquidiano ou plasma, o que poderia facilitar o diagnóstico precoce. A integração dessas descobertas com abordagens multiômicas — combinando genômica, transcriptômica e proteômica — também é considerada essencial para avançar no entendimento da doença.\n\n---\n\n**English version**\n\nResearchers emphasize the pivotal role of brain-specific microRNAs in the pathophysiology of Alzheimer’s disease, offering new avenues for diagnosis and therapy. A recent study published in *Neurology Research Reports* examines how the dysfunction of small regulatory molecules—known as microRNAs (miRs)—contributes to the progression of the world’s most prevalent neurodegenerative disorder. According to the review, 13 microRNAs predominantly expressed in the central nervous system—including miR-9, miR-34a, miR-124, and miR-132—exhibit abnormal patterns in Alzheimer’s patients, disrupting processes such as amyloid plaque formation and chronic neuroinflammation.\n\nThe findings suggest these miRs regulate genes linked to Alzheimer’s pathology, including those involved in beta-amyloid deposition and tau protein hyperphosphorylation. For instance, miR-124 is associated with synaptic plasticity, while miR-132 modulates neurotrophic factors, both of which are reduced in the brains of Alzheimer’s patients. The research also maps the brain-specific localization of these microRNAs, noting that some—like miR-146a—are more abundant in the hippocampus and cortex, regions critical for memory and cognition. While the study does not evaluate therapeutic interventions, the authors propose that restoring normal levels of these miRs could be a promising strategy to slow disease progression.\n\nKey limitations include the reliance on literature review rather than experimental data or quantitative analysis of miR levels across disease stages. Additionally, the pleiotropic nature of gene regulation by microRNAs means that altering a single miR may have widespread, unpredictable effects, complicating direct translation to clinical applications. Future directions include functional in vivo studies to validate the causal role of these microRNAs and the development of miR-based biomarkers in cerebrospinal fluid or plasma, which could enable early diagnosis. Integrating these findings with multi-omic approaches—combining genomics, transcriptomics, and proteomics—is also deemed essential to deepen our understanding of the disease.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40618250",
+    "authors": [
+      {
+        "name": "Nathan Tinu",
+        "affiliation": "Center of Emphasis in Neuroscience, Department of Molecular and Translational Medicine, Paul L. Foster School of Medicine, Texas Tech University Health Sciences Center El Paso, TX, USA."
+      },
+      {
+        "name": "Bhupender Sharma",
+        "affiliation": "Center of Emphasis in Neuroscience, Department of Molecular and Translational Medicine, Paul L. Foster School of Medicine, Texas Tech University Health Sciences Center El Paso, TX, USA."
+      },
+      {
+        "name": "Daniela Rodarte",
+        "affiliation": "Center of Emphasis in Neuroscience, Department of Molecular and Translational Medicine, Paul L. Foster School of Medicine, Texas Tech University Health Sciences Center El Paso, TX, USA."
+      },
+      {
+        "name": "Rajkumar Lakshmanaswamy",
+        "affiliation": "L. Frederick Francis Graduate School of Biomedical Sciences, Texas Tech University Health Sciences Center El Paso, TX, USA."
+      }
+    ],
+    "journal": "Neural regeneration research",
+    "publishedDate": "2026-03-31",
+    "fetchedDate": "2026-06-17",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "alzheimer",
+      "gene",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-41861349",
     "pmid": "41861349",
     "doi": "10.1097/MOU.0000000000001388",
@@ -12557,47 +12601,5 @@
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-40618273",
-    "pmid": "40618273",
-    "doi": "10.4103/NRR.NRR-D-25-00002",
-    "title": "MicroRNA and Alzheimer's disease: Diagnostic biomarkers and potential therapeutic targets.",
-    "titlePt": "MicroRNA and Alzheimer's disease: Diagnostic biomarkers and potential therapeutic targets.",
-    "abstract": "MicroRNAs (miRNAs), small non-coding RNAs ranging from 19 to 25 nucleotides in length, are key regulators of gene expression that function primarily by inhibiting the translation of target mRNAs. Recent studies have suggested that miRNAs play important roles in regulating key aspects in the pathology of Alzheimer's disease, including the modulation and accumulation of amyloid-beta and tau proteins. Moreover, miRNAs have been implicated in the regulation of neuroinflammation through various inflammatory pathways, notably the nuclear factor kappa B signaling cascade. Additional emerging evidence has shown that miRNAs regulate synaptic growth and maturation, and they perform promising roles in regulating neuronal death and development. miRNAs also offer a novel avenue for direct reprogramming of neurons, representing a promising strategy for Alzheimer's disease treatment. The regulation of miRNA biogenesis and the post-transcriptional modifications of miRNAs are critical factors in Alzhei",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40618273",
-    "authors": [
-      {
-        "name": "Yiwen Huang",
-        "affiliation": "Endocrinology Department of Shanghai Municipal Hospital of Traditional Chinese Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai, China."
-      },
-      {
-        "name": "Yimin Chen",
-        "affiliation": "Department of College of Traditional Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin, China."
-      },
-      {
-        "name": "Zhengyang He",
-        "affiliation": "Department of Chinese Medicine &amp; Integrative Medicine, Shanghai Geriatric Medical Center, Zhongshan Hospital, Fudan University, Shanghai, China."
-      },
-      {
-        "name": "Wenfeng Lu",
-        "affiliation": "Department of Chinese Medicine &amp; Integrative Medicine, Shanghai Geriatric Medical Center, Zhongshan Hospital, Fudan University, Shanghai, China."
-      }
-    ],
-    "journal": "Neural regeneration research",
-    "publishedDate": "2026-03-31",
-    "fetchedDate": "2026-04-14",
-    "category": "Genômica",
-    "tags": [
-      "alzheimer",
-      "gene",
-      "rna",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": false
   }
 ]
