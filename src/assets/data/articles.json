@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-41747244",
+    "pmid": "41747244",
+    "doi": "10.1158/2159-8290.CD-25-1907",
+    "title": "A Circulating GPNMB-Based Multimodal Model Integrates Tumor-Immune Crosstalk to Predict Immunotherapy Response in Esophageal Cancer.",
+    "titlePt": "A Circulating GPNMB-Based Multimodal Model Integrates Tumor-Immune Crosstalk to Predict Immunotherapy Response in Esophageal Cancer.",
+    "abstract": "Neoadjuvant immunotherapy improves outcomes in esophageal squamous cell carcinoma (ESCC), yet &#x223c;70% of patients fail to respond. Pretreatment biopsies and plasma provide critical opportunities for biomarker discovery. In this study, we performed plasma proteomic profiling and identified soluble glycoprotein nonmetastatic melanoma protein B (sGPNMB) as the most elevated circulating protein in nonresponders. Mechanistically, tumor cell-derived sGPNMB suppressed CD8+ T-cell receptor signaling via the SDC4-CD148 axis to induce functional exhaustion, with secretion being required for its immunosuppressive activity. Cancer-associated fibroblast-epithelial (CAF-Epi) niches promoted SOX2 upregulation in tumor cells, transcriptionally activating GPNMB expression. In humanized patient-derived xenograft models, circulating GPNMB levels predicted response to PD-1 blockade, and GPNMB inhibition synergized with therapy. Across retrospective cohorts and a prospective clinical trial, a multimoda",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo estudo publicado no *Cancer Discovery* (DOI: 10.1158/2159-8290.CD-25-1907) identificou um biomarcador circulante promissor para prever a resposta à imunoterapia em pacientes com câncer de esôfago do tipo carcinoma de células escamosas (ESCC). A pesquisa, conduzida por cientistas da área de oncologia translacional, revela que a proteína GPNMB solúvel (sGPNMB) está significativamente elevada em pacientes não respondedores ao tratamento pré-operatório com inibidores de PD-1, sugerindo seu potencial como ferramenta não invasiva para estratificar pacientes antes da terapia.\n\nOs autores utilizaram perfis proteômicos de plasma e modelos pré-clínicos humanizados para elucidar mecanismos imunossupressores mediados por GPNMB. Os resultados demonstram que a proteína, secretada por células tumorais, suprime a sinalização do receptor de células T CD8+ via interação com o complexo SDC4-CD148, induzindo exaustão funcional dessas células imunes. Além disso, nichos de fibroblastos associados ao câncer (CAFs) promoveram a superexpressão de GPNMB nas células tumorais por meio da ativação transcricional mediada por SOX2. Em modelos de xenoenxerto derivados de pacientes, níveis circulantes de GPNMB correlacionaram-se com a resposta ao bloqueio de PD-1, e a inibição farmacológica de GPNMB demonstrou sinergismo terapêutico.\n\nA validade clínica do modelo multimodal proposto foi avaliada em coortes retrospectivas e em um ensaio prospectivo não especificado no resumo. Embora os achados sejam promissores para personalizar estratégias imunoterapêuticas em ESCC, os pesquisadores destacam a necessidade de estudos adicionais para validar a reprodutibilidade do biomarcador em populações diversificadas e explorar sua aplicabilidade em outros tipos de câncer.\n\n---\n\n**English version**\n\nA groundbreaking study published in *Cancer Discovery* (DOI: 10.1158/2159-8290.CD-25-1907) has identified a circulating biomarker with potential to predict immunotherapy response in patients with esophageal squamous cell carcinoma (ESCC). Conducted by translational oncology researchers, the study demonstrates that soluble glycoprotein nonmetastatic melanoma protein B (sGPNMB) is significantly elevated in non-responders to neoadjuvant PD-1 blockade, offering a non-invasive approach for patient stratification prior to treatment.\n\nThe team employed plasma proteomic profiling and humanized pre-clinical models to elucidate GPNMB-mediated immunosuppressive mechanisms. Findings reveal that tumor cell-derived sGPNMB suppresses CD8+ T-cell receptor signaling through interaction with the SDC4-CD148 axis, driving functional exhaustion of cytotoxic T cells. Additionally, cancer-associated fibroblast-epithelial (CAF-Epi) niches promoted SOX2-driven transcriptional activation of GPNMB in tumor cells. In patient-derived xenograft models, circulating GPNMB levels correlated with response to PD-1 inhibition, and pharmacologic GPNMB blockade showed synergistic effects with therapy.\n\nThe clinical utility of the proposed multimodal model was evaluated in retrospective cohorts and a prospective clinical trial, though specifics of the latter were not detailed in the abstract. While results are promising for personalizing immunotherapy in ESCC, the researchers emphasize the need for further validation to assess biomarker reproducibility across diverse populations and its potential applicability in other malignancies.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41747244",
+    "authors": [
+      {
+        "name": "Liang Zhu",
+        "affiliation": "Department of Etiology and Carcinogenesis, National Cancer Center/National Clinical Research Center/Cancer Hospital, Chinese Academy of Medical Sciences (CAMS) and Peking Union Medical College (PUMC), Beijing, China.https://ror.org/02drdmm93"
+      },
+      {
+        "name": "Xiaoyuan Wang",
+        "affiliation": "Key Laboratory of Cancer Genomic Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.https://ror.org/02drdmm93"
+      },
+      {
+        "name": "Guoyu Cheng",
+        "affiliation": "Department of Thoracic Surgery, Harbin Medical University Cancer Hospital, Harbin, China."
+      },
+      {
+        "name": "Yancheng Lai",
+        "affiliation": "Department of Etiology and Carcinogenesis, National Cancer Center/National Clinical Research Center/Cancer Hospital, Chinese Academy of Medical Sciences (CAMS) and Peking Union Medical College (PUMC), Beijing, China.https://ror.org/02drdmm93"
+      }
+    ],
+    "journal": "Cancer discovery",
+    "publishedDate": "2026-07-01",
+    "fetchedDate": "2026-07-01",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "carcinoma",
+      "immunotherapy",
+      "clinical trial"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42384380",
     "pmid": "42384380",
     "doi": "10.1001/jamanetworkopen.2026.21305",
@@ -210,7 +255,7 @@
       "infection",
       "pediatric"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12562,50 +12607,5 @@
     "isHighlight": false,
     "readTime": 4,
     "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41953725",
-    "pmid": "41953725",
-    "doi": "10.1016/j.gendis.2025.101963",
-    "title": "Intra-tumoral microbiota: Key modulators of tumor immunity and therapeutic potential.",
-    "titlePt": "Intra-tumoral microbiota: Key modulators of tumor immunity and therapeutic potential.",
-    "abstract": "The tumor microenvironment is increasingly recognized as a complex ecosystem in which the intra-tumoral microbiota (comprising bacteria, fungi, viruses, etc.) plays a pivotal, underappreciated role in cancer biology. This review systematically summarizes the latest research into the origins, diversity, and functional mechanisms of intra-tumoral microbiota, emphasizing their dual roles in tumor formation, progression, and response to treatment. Using high-throughput sequencing, spatial multi-omics, and integrative bioinformatics, we identify the multifactorial origins of tumor-resident microbiota, including translocation from adjacent tissues, hematogenous dissemination, and viral genomic integration. We also examine the significant inter- and intra-tumoral microbial heterogeneity influenced by anatomical, environmental, and immunological factors, and the tissue-specific functional effects of important microbial species. We detail the mechanisms by which the intra-tumoral microbiota mod",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nO microambiente tumoral é um ecossistema complexo no qual a microbiota intratumoral — composta por bactérias, fungos, vírus e outros microrganismos — desempenha um papel central, ainda pouco explorado na biologia do câncer. Um estudo recente publicado no periódico *Genomics & Diseases* oferece uma revisão sistemática das origens, diversidade e mecanismos funcionais dessa microbiota, destacando seu impacto na formação, progressão e resposta ao tratamento de tumores. Utilizando técnicas avançadas como sequenciamento de alta produtividade, multiômica espacial e bioinformática integrativa, os pesquisadores identificam múltiplas vias de origem dos microrganismos residentes em tumores, incluindo translocação de tecidos adjacentes, disseminação hematogênica e integração genômica viral. Além disso, o trabalho evidencia a heterogeneidade microbiana inter e intratumoral, influenciada por fatores anatômicos, ambientais e imunológicos, bem como os efeitos tecido-específicos de espécies microbianas relevantes.\n\nOs mecanismos pelos quais a microbiota intratumoral modula a imunidade tumoral incluem a ativação de vias pró-inflamatórias, alterações no metabolismo do estroma e interferência na eficácia de terapias como imunoterapia e quimioterapia. Espécies como *Fusobacterium nucleatum* e *Bacteroides fragilis* foram associadas a respostas imunológicas suprimidas, enquanto outros microrganismos podem promover a inflamação antitumoral. No entanto, o estudo não fornece dados quantitativos específicos sobre a prevalência desses microrganismos em diferentes tipos de câncer ou sua correlação com desfechos clínicos. A revisão também não aborda possíveis estratégias terapêuticas baseadas na modulação da microbiota intratumoral, limitando-se a discutir potenciais alvos e lacunas de pesquisa.\n\nEmbora os achados abram novas perspectivas para a medicina de precisão oncológica, as limitações incluem a falta de modelos experimentais robustos que reproduzam a complexidade do microambiente tumoral e a escassez de estudos clínicos prospectivos. Os próximos passos sugeridos pelos autores incluem a validação de biomarcadores microbianos em coortes maiores e o desenvolvimento de abordagens terapêuticas direcionadas, como probióticos ou inibidores de vias microbianas específicas. A integração de dados de multiômica com inteligência artificial emerge como uma ferramenta promissora para desvendar as interações entre microbiota e tumor, potencialmente revolucionando estratégias de tratamento.\n\n---\n\n**English version**\n\nThe tumor microenvironment is a complex ecosystem in which intratumoral microbiota — comprising bacteria, fungi, viruses, and other microorganisms — plays a central, yet understudied role in cancer biology. A recent study published in *Genomics & Diseases* provides a systematic review of the origins, diversity, and functional mechanisms of this microbiota, highlighting its impact on tumor formation, progression, and treatment response. Using advanced techniques such as high-throughput sequencing, spatial multi-omics, and integrative bioinformatics, researchers identify multiple pathways for the origin of tumor-resident microorganisms, including translocation from adjacent tissues, hematogenous dissemination, and viral genomic integration. The work also reveals significant inter- and intratumoral microbial heterogeneity, influenced by anatomical, environmental, and immunological factors, as well as tissue-specific effects of key microbial species.\n\nThe mechanisms by which intratumoral microbiota modulates tumor immunity include activation of pro-inflammatory pathways, alterations in stromal metabolism, and interference with the efficacy of therapies such as immunotherapy and chemotherapy. Species like *Fusobacterium nucleatum* and *Bacteroides fragilis* have been linked to suppressed immune responses, while others may promote antitumor inflammation. However, the study does not provide specific quantitative data on the prevalence of these microorganisms across different cancer types or their correlation with clinical outcomes. The review also does not address potential therapeutic strategies based on modulating intratumoral microbiota, limiting its discussion to potential targets and research gaps.\n\nWhile the findings open new avenues for precision oncology, limitations include the lack of robust experimental models that capture the complexity of the tumor microenvironment and the paucity of prospective clinical studies. The next steps suggested by the authors include validating microbial biomarkers in larger cohorts and developing targeted therapeutic approaches, such as probiotics or inhibitors of specific microbial pathways. The integration of multi-omics data with artificial intelligence emerges as a promising tool to unravel microbiota-tumor interactions, potentially revolutionizing treatment strategies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41953725",
-    "authors": [
-      {
-        "name": "Junju He",
-        "affiliation": "Cancer Center, Renmin Hospital of Wuhan University, Wuhan, Hubei 430060, China."
-      },
-      {
-        "name": "Hui Tan",
-        "affiliation": "Department of Radiology, Renmin Hospital of Wuhan University, Wuhan, Hubei 430060, China."
-      },
-      {
-        "name": "Yanru Qiu",
-        "affiliation": "Cancer Center, Renmin Hospital of Wuhan University, Wuhan, Hubei 430060, China."
-      },
-      {
-        "name": "Yuchao Dan",
-        "affiliation": "Cancer Center, Renmin Hospital of Wuhan University, Wuhan, Hubei 430060, China."
-      }
-    ],
-    "journal": "Genes &amp; diseases",
-    "publishedDate": "2026-04-09",
-    "fetchedDate": "2026-07-01",
-    "category": "Genômica",
-    "tags": [
-      "cancer",
-      "tumor",
-      "viral",
-      "genomic",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
