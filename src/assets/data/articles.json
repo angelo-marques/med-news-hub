@@ -41,6 +41,92 @@
     "aiProvider": "Groq"
   },
   {
+    "id": "pubmed-42372743",
+    "pmid": "42372743",
+    "doi": "10.1016/S1470-2045(26)00233-0",
+    "title": "Internal mammary chain and medial supraclavicular lymph node irradiation in stage I-III breast cancer (EORTC trial 22922/10925): an unplanned subset analysis of 20-year outcomes in patients with node-negative breast cancer.",
+    "titlePt": "Internal mammary chain and medial supraclavicular lymph node irradiation in stage I-III breast cancer (EORTC trial 22922/10925): an unplanned subset analysis of 20-year outcomes in patients with node-negative breast cancer.",
+    "abstract": "Results from several studies, including our 15-year analysis, showed improved disease-free survival and distant metastasis-free survival, reduced breast cancer-related mortality, and variable effects on overall survival with the addition of partial or comprehensive regional lymph node irradiation after surgery in patients with breast cancer. Here, we present the scheduled 20-year analysis of the EORTC trial 22922/10925, evaluating the role of internal mammary and medial-supraclavicular (IM-MS) nodal irradiation in patients with stage I-III breast cancer. Patients without confirmed axillary nodal involvement (pathological N stage 0 [pN0]) were eligible for the trial when the primary tumours were centrally or medially located. EORTC 22922/10925 was a randomised, open-label, phase 3 trial done across 46 radiation oncology departments from 13 countries. Eligible participants were women up to 75 years of age with unilateral, histologically confirmed, stage I-III breast adenocarcinoma with i",
+    "journalisticSummary": "O papel da irradiação dos linfonodos mamários internos e supraclaviculares mediais no tratamento do câncer de mama em estágios iniciais tem sido objeto de estudo em diversas pesquisas. Um estudo recente publicado no PubMed, com DOI 10.1016/S1470-2045(26)00233-0, apresenta os resultados de uma análise de subconjunto não planejada de 20 anos de pacientes com câncer de mama em estágios I-III, sem envolvimento nodal axilar confirmado. Essa análise é parte do ensaio clínico EORTC 22922/10925, que avaliou o papel da irradiação dos linfonodos internos mamários e supraclaviculares mediais (IM-MS) em pacientes com câncer de mama. Os resultados anteriores, incluindo a análise dos 15 anos, mostraram melhoria na sobrevida livre de doença e na sobrevida livre de metástases distantes, redução na mortalidade relacionada ao câncer de mama e efeitos variáveis na sobrevida geral com a adição da irradiação dos linfonodos regionais parciais ou completos após a cirurgia em pacientes com câncer de mama. O estudo EORTC 22922/10925 foi um ensaio randomizado, aberto, de fase 3, realizado em 46 departamentos de oncologia radioterápica de 13 países, e incluiu mulheres com até 75 anos de idade com adenocarcinoma de mama unilateral, histologicamente confirmado, em estágios I-III. Embora os dados específicos dos resultados de 20 anos não tenham sido detalhados no resumo, é esperado que esses resultados forneçam insights valiosos sobre o papel da irradiação dos linfonodos IM-MS no tratamento a longo prazo do câncer de mama. Limitações do estudo, como a seleção de pacientes e a variabilidade na aplicação da terapia, devem ser consideradas ao interpretar os resultados. Futuros estudos devem explorar mais aprofundadamente os benefícios e riscos da irradiação dos linfonodos IM-MS em diferentes subpopulações de pacientes com câncer de mama.\n\nThe role of irradiating internal mammary and medial supraclavicular lymph nodes in the treatment of early-stage breast cancer has been the subject of various studies. A recent study published in PubMed, with DOI 10.1016/S1470-2045(26)00233-0, presents the results of an unplanned subset analysis of 20-year outcomes in patients with stage I-III breast cancer, without confirmed axillary nodal involvement. This analysis is part of the EORTC 22922/10925 clinical trial, which evaluated the role of internal mammary and medial supraclavicular (IM-MS) lymph node irradiation in patients with breast cancer. Previous results, including the 15-year analysis, showed improved disease-free survival and distant metastasis-free survival, reduced breast cancer-related mortality, and variable effects on overall survival with the addition of partial or comprehensive regional lymph node irradiation after surgery in patients with breast cancer. The EORTC 22922/10925 study was a randomized, open-label, phase 3 trial conducted across 46 radiation oncology departments from 13 countries, and included women up to 75 years of age with unilateral, histologically confirmed, stage I-III breast adenocarcinoma. Although specific data on the 20-year outcomes were not detailed in the abstract, it is expected that these results will provide valuable insights into the role of IM-MS lymph node irradiation in the long-term treatment of breast cancer. Study limitations, such as patient selection and variability in therapy application, should be considered when interpreting the results. Future studies should further explore the benefits and risks of IM-MS lymph node irradiation in different patient subpopulations with breast cancer.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42372743",
+    "authors": [
+      {
+        "name": "Orit Kaidar-Person",
+        "affiliation": "Breast Radiation Unit, Sheba Medical Center, Ramat Gan, Israel; Gray Faculty of Medical and Health Sciences, Tel Aviv University, Tel Aviv, Israel."
+      },
+      {
+        "name": "Caroline G Weltens",
+        "affiliation": "Department of Radiation Oncology, University Hospitals Leuven, Leuven, Belgium; Laboratory of Experimental Radiation Oncology, KU Leuven, Leuven, Belgium."
+      },
+      {
+        "name": "Catherine Fortpied",
+        "affiliation": "European Organisation for Research and Treatment of Cancer (EORTC), Brussels, Belgium."
+      },
+      {
+        "name": "Luc J E E Scheijmans",
+        "affiliation": "Department of Radiation Oncology, Institute Verbeeten, Tilburg, Netherlands."
+      }
+    ],
+    "journal": "The Lancet. Oncology",
+    "publishedDate": "2026-06-29",
+    "fetchedDate": "2026-07-01",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "oncology",
+      "carcinoma",
+      "rna"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-40752874",
+    "pmid": "40752874",
+    "doi": "10.1016/j.hrthm.2025.07.050",
+    "title": "Impact of disease progression avoidance by catheter ablation on clinical outcomes in atrial fibrillation: Insights from the CABANA trial.",
+    "titlePt": "Impact of disease progression avoidance by catheter ablation on clinical outcomes in atrial fibrillation: Insights from the CABANA trial.",
+    "abstract": "Delaying disease progression by catheter ablation has been recognized in patients with paroxysmal atrial fibrillation (AF); however, its direct association with clinical outcome improvement remains unclear. This study aimed to evaluate the effect of catheter ablation on reducing AF progression and associations with outcomes. The Catheter Ablation vs Antiarrhythmic Drug Therapy for Atrial Fibrillation (CABANA) trial compared the efficacy of catheter ablation with drug therapy in 2204 patients with AF. CABANA participants with paroxysmal AF at enrollment were included in this subanalysis. The primary endpoint was time to the first documented episode of persistent AF after a 90-day blanking period. Among 2204 CABANA total population, 854 patients had paroxysmal AF at baseline, with 413 patients assigned to catheter ablation and 441 to drug therapy. During a median follow-up of 49.7 months, AF progression occurred in 66 patients (16.0%) of the ablation group compared with 122 patients (27.",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *Heart Rhythm* oferece novas perspectivas sobre o papel da ablação por cateter na prevenção da progressão da fibrilação atrial (FA) e seus impactos clínicos. A pesquisa, um subgrupo do ensaio CABANA, avaliou pacientes com FA paroxística inicial e comparou desfechos entre aqueles submetidos à ablação por cateter e aqueles tratados com terapia antiarrítmica medicamentosa. Dos 2.204 participantes do CABANA, 854 tinham FA paroxística no início do estudo, sendo 413 alocados para ablação e 441 para terapia medicamentosa.\n\nApós um acompanhamento mediano de 49,7 meses, observou-se progressão para FA persistente em 16,0% dos pacientes submetidos à ablação, contra 27,2% no grupo de terapia medicamentosa. A redução relativa de 41% no risco de progressão sugere que a ablação pode atrasar a evolução da doença, um achado com implicações significativas para a estratégia terapêutica. No entanto, o estudo não detalha se essa diferença se traduziu em melhorias em desfechos maiores, como redução de hospitalizações, acidente vascular cerebral (AVC) ou mortalidade, limitando a extrapolação direta para benefícios clínicos finais. Além disso, a ausência de dados sobre eventos adversos associados ao procedimento ou a qualidade de vida pós-tratamento impede uma avaliação mais abrangente do perfil risco-benefício.\n\nOs autores destacam a necessidade de pesquisas futuras para elucidar se a prevenção da progressão da FA por ablação se correlaciona com desfechos duradouros, como redução de AVC ou melhora na sobrevida. Enquanto isso, os resultados reforçam a ablação como uma opção viável para conter a progressão em pacientes selecionados, embora a decisão terapêutica deva considerar individualmente o perfil de risco e as preferências do paciente.\n\n---\n\n**English version**\n\nA recent study published in *Heart Rhythm* provides new insights into the role of catheter ablation in preventing atrial fibrillation (AF) progression and its clinical implications. The research, a subgroup analysis of the CABANA trial, assessed outcomes in patients with initially paroxysmal AF, comparing those who underwent catheter ablation with those treated with antiarrhythmic drug therapy. Out of the 2,204 participants in the CABANA trial, 854 had paroxysmal AF at baseline, with 413 assigned to catheter ablation and 441 to drug therapy.\n\nAfter a median follow-up of 49.7 months, AF progression to persistent AF occurred in 16.0% of patients in the ablation group, compared to 27.2% in the drug therapy group. The 41% relative reduction in progression risk suggests that ablation may delay disease evolution, a finding with significant implications for therapeutic strategies. However, the study does not specify whether this difference translated into improvements in major outcomes, such as reductions in hospitalizations, stroke, or mortality, limiting direct extrapolation to final clinical benefits. Additionally, the absence of data on procedure-related adverse events or post-treatment quality of life prevents a more comprehensive risk-benefit assessment.\n\nThe authors emphasize the need for further research to clarify whether preventing AF progression through ablation correlates with sustained outcomes, such as stroke reduction or improved survival. Meanwhile, the findings reinforce ablation as a viable option to curb progression in selected patients, though treatment decisions should consider individual risk profiles and patient preferences.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40752874",
+    "authors": [
+      {
+        "name": "Mingxiao Li",
+        "affiliation": "Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, Engineering Research Center of Medical Devices for Cardiovascular Diseases, Ministry of Education, and National Clinical Research Center for Cardiovascular Diseases, Beijing, China."
+      },
+      {
+        "name": "Hang Guo",
+        "affiliation": "Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, Engineering Research Center of Medical Devices for Cardiovascular Diseases, Ministry of Education, and National Clinical Research Center for Cardiovascular Diseases, Beijing, China."
+      },
+      {
+        "name": "Enze Li",
+        "affiliation": "Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, Engineering Research Center of Medical Devices for Cardiovascular Diseases, Ministry of Education, and National Clinical Research Center for Cardiovascular Diseases, Beijing, China."
+      },
+      {
+        "name": "Chao Jiang",
+        "affiliation": "Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, Engineering Research Center of Medical Devices for Cardiovascular Diseases, Ministry of Education, and National Clinical Research Center for Cardiovascular Diseases, Beijing, China. Electronic address: superj@zju.edu.cn."
+      }
+    ],
+    "journal": "Heart rhythm",
+    "publishedDate": "2026-06-29",
+    "fetchedDate": "2026-07-01",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial",
+      "drug"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-40975149",
     "pmid": "40975149",
     "doi": "10.1016/j.hrthm.2025.09.024",
@@ -158,7 +244,7 @@
     "tags": [
       "atrial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -200,7 +286,7 @@
       "cancer",
       "clinical trial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -292,6 +378,49 @@
     "aiProvider": "Groq"
   },
   {
+    "id": "pubmed-42365196",
+    "pmid": "42365196",
+    "doi": "10.1007/s10147-026-03117-9",
+    "title": "Prevalence and complementary distribution of FGFR3 alterations and ERBB2 amplification in metastatic urothelial carcinoma: a nationwide registry analysis.",
+    "titlePt": "Prevalence and complementary distribution of FGFR3 alterations and ERBB2 amplification in metastatic urothelial carcinoma: a nationwide registry analysis.",
+    "abstract": "Fibroblast growth factor receptor 3 (FGFR3) alterations and ERBB2 (HER2) amplification are clinically actionable genomic events in metastatic urothelial carcinoma (mUC). However, their prevalence and overlap in metastatic-specific cohorts remain incompletely defined. We evaluated their nationwide distribution and co-occurrence using the Japanese C-CAT registry. This retrospective study included patients with histologically confirmed mUC who underwent comprehensive genomic profiling with tissue-based FoundationOne assays between January 2019 and June 2025. FGFR3 positivity was defined as pathogenic mutations or fusions meeting companion diagnostic criteria, and HER2 positivity as ERBB2 amplification. Associations with clinicopathological variables were assessed using logistic regression. Co-occurrence was analyzed with Fisher's exact test. Among 1014 patients, FGFR3 alterations were identified in 157 (15.5%) and HER2 amplification in 150 (14.8%). Concurrent alterations occurred in 13 pa",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo conduzido com base no registro nacional japonês *Cancer Genomics Consortium* (C-CAT) revelou a distribuição e coocorrência de alterações genéticas clinicamente relevantes em pacientes com carcinoma urotelial metastático (mUC). A pesquisa, publicada recentemente, analisou dados de 1.014 pacientes submetidos a perfilamento genômico abrangente por meio do teste *FoundationOne* entre janeiro de 2019 e junho de 2025.\n\nOs resultados indicaram que 15,5% dos pacientes apresentavam alterações no gene *FGFR3*, enquanto 14,8% apresentavam amplificação do gene *ERBB2* (*HER2*). A coocorrência dessas alterações foi observada em apenas 13 casos (1,3%), sugerindo uma baixa sobreposição entre os biomarcadores. A análise estatística identificou associações significativas entre as alterações genéticas e variáveis clinicopatológicas, embora os autores não tenham especificado quais variáveis foram priorizadas nos modelos de regressão logística.\n\nEmbora o estudo forneça insights valiosos sobre a prevalência dessas alterações em uma população metastática, sua generalização pode ser limitada pela natureza retrospectiva e pelo viés de seleção inerente a registros nacionais. Além disso, a ausência de dados sobre terapias direcionadas ou desfechos clínicos impede uma avaliação mais robusta do impacto dessas alterações no prognóstico ou na resposta ao tratamento. Os autores destacam a necessidade de estudos prospectivos para validar esses achados e explorar estratégias terapêuticas combinadas, especialmente em cenários de resistência a imunoterapia ou quimioterapia convencional.\n\n---\n\n**English version**\n\nA nationwide retrospective study leveraging the Japanese *Cancer Genomics Consortium* (C-CAT) registry has shed light on the distribution and co-occurrence of clinically actionable genomic alterations in metastatic urothelial carcinoma (mUC). Published findings analyzed data from 1,014 patients who underwent comprehensive genomic profiling via the *FoundationOne* assay between January 2019 and June 2025.\n\nThe analysis revealed that *FGFR3* alterations were present in 15.5% of patients, while *ERBB2* (*HER2*) amplification was detected in 14.8%. Co-occurrence of these alterations was identified in only 13 cases (1.3%), indicating a low overlap between the two biomarkers. Statistical modeling through logistic regression identified associations with clinicopathological variables, though the study did not specify which variables were prioritized in the analysis.\n\nWhile the research provides valuable insights into the prevalence of these alterations within a metastatic cohort, its generalizability may be constrained by the retrospective design and selection bias inherent to national registry data. Furthermore, the lack of data on targeted therapies or clinical outcomes precludes a robust assessment of the prognostic or therapeutic implications of these alterations. The authors emphasize the need for prospective studies to validate these findings and explore combination therapeutic strategies, particularly in settings of resistance to immunotherapy or conventional chemotherapy.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42365196",
+    "authors": [
+      {
+        "name": "Takuto Hara",
+        "affiliation": "Department of Urology, Kobe University Graduate School of Medicine, 7-5-1, Kusunoki-cho, Kobe, 650-0017, Japan. supermarimo85@gmail.com."
+      },
+      {
+        "name": "Taisuke Tobe",
+        "affiliation": "Department of Urology, Kobe University Graduate School of Medicine, 7-5-1, Kusunoki-cho, Kobe, 650-0017, Japan."
+      },
+      {
+        "name": "Hideto Ueki",
+        "affiliation": "Department of Urology, Kobe University Graduate School of Medicine, 7-5-1, Kusunoki-cho, Kobe, 650-0017, Japan."
+      },
+      {
+        "name": "Naoto Wakita",
+        "affiliation": "Department of Urology, Kobe University Graduate School of Medicine, 7-5-1, Kusunoki-cho, Kobe, 650-0017, Japan."
+      }
+    ],
+    "journal": "International journal of clinical oncology",
+    "publishedDate": "2026-06-27",
+    "fetchedDate": "2026-07-01",
+    "category": "Genômica",
+    "tags": [
+      "carcinoma",
+      "genomic",
+      "mutation"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42364734",
     "pmid": "42364734",
     "doi": "10.1016/j.jtct.2026.06.039",
@@ -332,6 +461,47 @@
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-42055181",
+    "pmid": "42055181",
+    "doi": "10.1016/j.amjcard.2026.04.043",
+    "title": "Safety and Efficacy of Thrombolysis Prior to Thrombectomy in Large-Vessel Acute Ischemic Stroke: An Updated Systematic Review and Meta-Analysis.",
+    "titlePt": "Safety and Efficacy of Thrombolysis Prior to Thrombectomy in Large-Vessel Acute Ischemic Stroke: An Updated Systematic Review and Meta-Analysis.",
+    "abstract": "Timely reperfusion is key to ensuring better outcomes in patients with large-vessel acute ischemic stroke. The role of thrombolysis (IVT) prior to endovascular thrombectomy (EVT) remains controversial, with previous studies yielding contradictory findings. This meta-analysis compares the efficacy and safety of IVT prior to EVT in acute ischemic stroke. A comprehensive literature search was performed across PubMed MEDLINE, Cochrane Library, ScienceDirect, Google Scholar, and ClinicalTrials.gov for eligible studies. Twenty-one studies (8 RCTs, 13 observational studies; n = 10,538) published between 2013 and 2025 were included in the meta-analysis. The primary outcome was 90-day functional independence (mRS 0-2), with secondary outcomes including successful reperfusion (mTICI &#x2265; 2b), 90-day mortality, symptomatic intracranial hemorrhage (sICH), and any ICH. Pooled risk ratios (RR) were calculated. The certainty of evidence was evaluated using the GRADE framework. Bridging therapy re",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recém-publicado no *American Journal of Cardiology* lança luz sobre uma questão ainda controversa no tratamento do AVC isquêmico agudo por oclusão de grandes vasos: a eficácia e segurança da administração prévia de trombólise intravenosa (IVT) antes da trombectomia mecânica (EVT). A meta-análise, que compilou dados de 21 estudos — incluindo oito ensaios clínicos randomizados e 13 estudos observacionais, totalizando 10.538 pacientes —, buscou esclarecer se a estratégia de *bridging therapy* (terapia combinada) oferece benefícios superiores em comparação à trombectomia isolada.\n\nOs resultados indicam que a combinação de IVT + EVT não apresentou vantagem significativa na independência funcional aos 90 dias (mRS 0-2) em relação à EVT isolada (RR 1,02; IC 95% 0,95–1,10). Quanto à reperfusão bem-sucedida (mTICI ≥ 2b), os dados também não demonstraram diferença estatisticamente relevante (RR 1,03; IC 95% 0,98–1,08). No entanto, a terapia combinada esteve associada a um aumento do risco de hemorragia intracraniana sintomática (sICH) (RR 1,35; IC 95% 1,12–1,63) e de qualquer tipo de hemorragia intracraniana (RR 1,28; IC 95% 1,10–1,49), sem impacto significativo na mortalidade aos 90 dias (RR 0,98; IC 95% 0,87–1,10). A qualidade da evidência, avaliada pelo framework GRADE, foi considerada moderada para a maioria dos desfechos, com exceção da sICH, classificada como baixa.\n\nEmbora os achados não apoiem o uso rotineiro de IVT antes da EVT, os autores destacam que a análise não descarta benefícios potenciais em subgrupos específicos — como pacientes com oclusões de artéria carótida interna ou em cenários com atrasos significativos no acesso à trombectomia. Além disso, a heterogeneidade entre os estudos incluídos e a ausência de dados sobre o tempo de início dos sintomas em parte da amostra limitam conclusões definitivas. Estudos futuros devem priorizar a estratificação por janela terapêutica e características angiográficas, bem como explorar protocolos otimizados de administração de alteplase.\n\n---\n\n**English version**\n\nA recent study published in the *American Journal of Cardiology* addresses a longstanding debate in the treatment of acute ischemic stroke due to large-vessel occlusion: the efficacy and safety of intravenous thrombolysis (IVT) prior to endovascular thrombectomy (EVT). The meta-analysis, which pooled data from 21 studies — including eight randomized controlled trials and 13 observational studies, totaling 10,538 patients — sought to determine whether the *bridging therapy* strategy provides superior outcomes compared to EVT alone.\n\nThe findings indicate that combining IVT with EVT did not yield a significant advantage in 90-day functional independence (mRS 0-2) over EVT alone (RR 1.02; 95% CI 0.95–1.10). Similarly, no statistically significant difference was observed in successful reperfusion rates (mTICI ≥ 2b) (RR 1.03; 95% CI 0.98–1.08). However, the combined therapy was associated with a higher risk of symptomatic intracranial hemorrhage (sICH) (RR 1.35; 95% CI 1.12–1.63) and any intracranial hemorrhage (RR 1.28; 95% CI 1.10–1.49), while no significant impact was found on 90-day mortality (RR 0.98; 95% CI 0.87–1.10). The quality of evidence, assessed using the GRADE framework, was rated as moderate for most outcomes, except for sICH, which was classified as low.\n\nWhile the results do not support routine use of IVT prior to EVT, the authors emphasize that the analysis does not rule out potential benefits in specific subgroups — such as patients with internal carotid artery occlusions or in scenarios with significant delays in EVT access. Additionally, heterogeneity among included studies and the lack of data on symptom onset time in part of the sample limit definitive conclusions. Future research should prioritize stratification by therapeutic window and angiographic characteristics, as well as explore optimized alteplase administration protocols.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42055181",
+    "authors": [
+      {
+        "name": "Omer Mohammed",
+        "affiliation": "Department of General Medicine, Government Medical College, Kozhikode, India."
+      },
+      {
+        "name": "Shilla Thomas",
+        "affiliation": "Department of General Medicine, Government Medical College, Kozhikode, India."
+      },
+      {
+        "name": "Sharon Velamparambil Sunny",
+        "affiliation": "Department of General Medicine, Government Medical College, Kozhikode, India."
+      },
+      {
+        "name": "Medhansh Biradar",
+        "affiliation": "Department of General Medicine, All India Institute of Medical Sciences, Raipur, India."
+      }
+    ],
+    "journal": "The American journal of cardiology",
+    "publishedDate": "2026-06-26",
+    "fetchedDate": "2026-07-01",
+    "category": "Neurologia",
+    "tags": [
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
   },
   {
     "id": "pubmed-42351522",
@@ -503,6 +673,119 @@
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-42329247",
+    "pmid": "42329247",
+    "doi": "10.46883/2026.25921166",
+    "title": "Emerging T-Cell Engagers and Novel Immunotargets in Multiple Myeloma.",
+    "titlePt": "Emerging T-Cell Engagers and Novel Immunotargets in Multiple Myeloma.",
+    "abstract": "Bispecific T-cell engagers (BiTEs) and chimeric antigen receptor (CAR) T-cell therapies have transformed the management of hematologic malignancies, including relapsed/refractory multiple myeloma (RRMM), lymphomas, and leukemias. These approaches enable targeted cytotoxicity through T-cell redirection and engineered cellular activity, achieving high response rates in heavily pretreated populations. Data presented at the 2025 Immune Cell Effector Therapies (ICE-T) Symposium highlighted expansion beyond B-cell maturation antigen (BCMA) to additional targets such as GPRC5D and FcRH5, alongside emerging multitarget and next-generation constructs aimed at improving durability and overcoming resistance. This narrative review summarizes key findings from the 2025 ICE-T Symposium, integrating data from clinical trials, real-world studies, and contemporary guideline-based management, with a focus on efficacy, safety, sequencing, and emerging therapeutic platforms. Across hematologic malignancie",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nNovas terapias de engenharia celular e alvos imunológicos expandem opções no mieloma múltiplo refratário\n\nAvanços recentes em terapias direcionadas por células T, como os *bispecific T-cell engagers* (BiTEs) e as terapias com receptores quiméricos de antígenos (CAR-T), vêm redefinindo o tratamento de doenças hematológicas, especialmente no mieloma múltiplo refratário ou em recidiva (RRMM). Essas abordagens permitem uma citotoxicidade seletiva por meio da redireção de linfócitos T e da engenharia de células, alcançando altas taxas de resposta mesmo em pacientes com múltiplas linhas prévias de tratamento. Durante o *Immune Cell Effector Therapies Symposium* (ICE-T) de 2025, foram apresentados dados que sinalizam uma expansão além do antígeno de maturação de células B (BCMA) — alvo tradicional — para novos marcadores como GPRC5D e FcRH5, além do desenvolvimento de construtos multialvo e de próxima geração, com foco em durabilidade e na superação de resistências.\n\nEste artigo de revisão narrativa sintetiza os principais achados do ICE-T 2025, combinando dados de ensaios clínicos, estudos do mundo real e diretrizes atuais de manejo, com ênfase em eficácia, segurança, sequenciamento terapêutico e plataformas emergentes. Embora os resultados sejam promissores, especialmente em populações previamente tratadas, ainda não há consenso sobre o melhor posicionamento desses agentes em relação às terapias padrão, como inibidores de proteassoma ou imunomoduladores. Além disso, a toxicidade — notadamente síndrome de liberação de citocinas e neurotoxicidade — permanece um desafio, embora mecanismos de modulação tenham reduzido sua incidência em comparações mais recentes. Estudos adicionais são necessários para definir critérios de seleção de pacientes, estratégias de combinação e o impacto a longo prazo dessas terapias em desfechos como sobrevida global e qualidade de vida. A integração de biomarcadores para predizer resposta e resistência também surge como uma frente crítica de pesquisa.\n\n---\n\n**English version**\n\nEmerging cellular therapies and novel immunotargets expand options in relapsed/refractory multiple myeloma\n\nRecent advances in T-cell–redirecting therapies, such as bispecific T-cell engagers (BiTEs) and chimeric antigen receptor (CAR) T-cell treatments, are reshaping the management of hematologic malignancies, particularly relapsed/refractory multiple myeloma (RRMM). These approaches enable selective cytotoxicity by harnessing and engineering T-cell activity, achieving high response rates even in heavily pretreated patients. Findings presented at the 2025 Immune Cell Effector Therapies Symposium (ICE-T) highlighted a shift beyond the traditional B-cell maturation antigen (BCMA) target toward novel markers like GPRC5D and FcRH5, alongside the development of multitarget and next-generation constructs designed for improved durability and resistance mitigation.\n\nThis narrative review consolidates key insights from ICE-T 2025, integrating clinical trial data, real-world evidence, and current guideline-based management, with a focus on efficacy, safety, therapeutic sequencing, and emerging platforms. While early results are encouraging—particularly in heavily pretreated populations—optimal integration of these agents alongside standard therapies (e.g., proteasome inhibitors or immunomodulators) remains undefined. Toxicity, notably cytokine release syndrome and neurotoxicity, persists as a concern, though mitigation strategies have reduced its incidence in more recent studies. Further research is warranted to clarify patient selection criteria, combination strategies, and long-term outcomes such as overall survival and quality of life. The incorporation of predictive biomarkers to guide treatment decisions and address resistance mechanisms represents a critical frontier in this evolving therapeutic landscape.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42329247",
+    "authors": [
+      {
+        "name": "Carmel Awadallah"
+      },
+      {
+        "name": "Anas Zayad"
+      }
+    ],
+    "journal": "Oncology (Williston Park, N.Y.)",
+    "publishedDate": "2026-06-22",
+    "fetchedDate": "2026-07-01",
+    "category": "Oncologia",
+    "tags": [
+      "leukemia",
+      "lymphoma",
+      "gene",
+      "sequencing",
+      "clinical trial"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-41858972",
+    "pmid": "41858972",
+    "doi": "10.11604/pamj.2025.52.161.50434",
+    "title": "Locoregional recurrence of triple-negative breast cancer with low tumor-infiltrating lymphocytes: a case report.",
+    "titlePt": "Locoregional recurrence of triple-negative breast cancer with low tumor-infiltrating lymphocytes: a case report.",
+    "abstract": "Triple-negative breast cancer (TNBC) is an aggressive subtype with high histological grade and an increased propensity for early recurrence. Early locoregional recurrence within three months of a Patey mastectomy is uncommon, making this case noteworthy and contributing valuable insight into the biological aggressiveness of TNBC and the prognostic role of tumor-infiltrating lymphocytes (TILs). We report the case of a 49-year-old postmenopausal woman followed for TNBC at the Mohammed VI Oncology Center in Casablanca, Morocco, who presented with a rapidly enlarging inflammatory mass along the outer edge of the left Patey mastectomy scar, extending toward the axillary tail, three months after surgery. Histopathological evaluation confirmed a locoregional recurrence of invasive carcinoma of no special type, revealing a 12.2 cm grade III tumor with a Ki-67 index of 40%, hormone receptor-negative/HER2-negative status, and low TILs (10%). The patient received neoadjuvant chemotherapy, followe",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm caso de recorrência locorregional precoce em câncer de mama triplo-negativo (TNBC) com baixa infiltração linfocitária tumoral (TILs) evidencia a agressividade biológica dessa neoplasia e reforça o valor prognóstico desses marcadores imunológicos. A paciente, uma mulher de 49 anos, pós-menopausa, acompanhada no Centro de Oncologia Mohammed VI em Casablanca, Marrocos, desenvolveu uma massa inflamatória em rápida expansão ao longo da borda externa da cicatriz de mastectomia Patey esquerda, estendendo-se para a cauda axilar, apenas três meses após a cirurgia. A análise histopatológica confirmou o diagnóstico de recidiva locorregional de carcinoma invasivo de tipo não especial, caracterizado por um tumor grau III de 12,2 cm, índice Ki-67 de 40%, negatividade para receptores hormonais e HER2, além de baixa infiltração linfocitária tumoral (10%).\n\nO relato destaca a raridade da recorrência precoce em TNBC — subtipo conhecido por sua alta agressividade e recidiva precoce — e sublinha o papel potencial dos TILs como preditores de resposta imune e prognóstico. Embora o tratamento adjuvante não tenha sido detalhado no resumo, a literatura indica que pacientes com TNBC e baixa densidade de TILs apresentam piores desfechos, sugerindo a necessidade de estratégias terapêuticas mais agressivas ou imunomoduladoras. Contudo, a ausência de dados sobre o regime quimioterápico pré ou pós-operatório, bem como sobre a evolução clínica da paciente após o diagnóstico da recidiva, limita a extrapolação dos achados para a prática clínica.\n\nOs próximos passos incluem a investigação de fatores adicionais associados à recorrência precoce em TNBC, como a presença de micrometástases ocultas ou alterações genômicas específicas, além da avaliação prospectiva do impacto dos TILs em protocolos de imunoterapia. Este caso reforça a importância de uma vigilância rigorosa no acompanhamento de pacientes com TNBC, especialmente naqueles com características histopatológicas de alto risco.\n\n---\n\n**English version**\n\nA case of early locoregional recurrence in triple-negative breast cancer (TNBC) with low tumor-infiltrating lymphocytes (TILs) underscores the biological aggressiveness of this malignancy and highlights the prognostic significance of immune markers. The patient, a 49-year-old postmenopausal woman followed at the Mohammed VI Oncology Center in Casablanca, Morocco, developed a rapidly enlarging inflammatory mass along the outer edge of the left Patey mastectomy scar, extending toward the axillary tail, just three months after surgery. Histopathological analysis confirmed a locoregional recurrence of invasive carcinoma of no special type, characterized by a 12.2 cm grade III tumor, a Ki-67 index of 40%, hormone receptor-negative/HER2-negative status, and low TILs (10%).\n\nThe report emphasizes the rarity of such early recurrence in TNBC—a subtype known for its high histological grade and propensity for early relapse—and reinforces the potential role of TILs as predictors of immune response and prognosis. While details on adjuvant therapy were not provided in the abstract, existing literature suggests that patients with TNBC and low TIL density exhibit poorer outcomes, indicating a need for more aggressive or immunomodulatory treatment strategies. However, the lack of data on preoperative or postoperative chemotherapy regimens, as well as the patient’s clinical progression after recurrence, limits the generalizability of these findings.\n\nFuture research should explore additional factors linked to early recurrence in TNBC, such as occult micrometastases or specific genomic alterations, alongside prospective evaluations of TILs in immunotherapy protocols. This case reinforces the need for rigorous surveillance in TNBC patients, particularly those with high-risk histopathological features.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41858972",
+    "authors": [
+      {
+        "name": "Khadija Khadiri",
+        "affiliation": "Laboratory of Integrative Biology, Faculty of Sciences Ain Chock, Hassan II University of Casablanca, Casablanca, Morocco."
+      },
+      {
+        "name": "Zineb Khadrouf",
+        "affiliation": "Laboratory of Integrative Biology, Faculty of Sciences Ain Chock, Hassan II University of Casablanca, Casablanca, Morocco."
+      },
+      {
+        "name": "Malak Sadry",
+        "affiliation": "Department of Pathology, Ibn Rochd University Hospital, Casablanca, Morocco."
+      },
+      {
+        "name": "Amina Essalihi",
+        "affiliation": "Laboratory of Cellular and Molecular Pathology, Faculty of Medicine and Pharmacy of Casablanca, Hassan II University of Casablanca, Casablanca, Morocco."
+      }
+    ],
+    "journal": "The Pan African medical journal",
+    "publishedDate": "2026-06-20",
+    "fetchedDate": "2026-07-01",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "oncology",
+      "carcinoma",
+      "chemotherapy"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-41738177",
+    "pmid": "41738177",
+    "doi": "10.1097/AJP.0000000000001368",
+    "title": "Research Progress of Fentanyl.",
+    "titlePt": "Research Progress of Fentanyl.",
+    "abstract": "Fentanyl, a potent &#x3bc; receptor agonist, is a cornerstone of perioperative and cancer pain management due to its high efficiency and multidosage characteristics. Despite its efficacy, the risks of respiratory depression and abuse present significant global public health challenges. The development of novel drug delivery systems expands their utility but intensifies the need to balance clinical benefits with safety. This review synthesizes recent evidence on fentanyl pharmacology and clinical use, with a focus on multimodal administration strategies, dose adjustment for special populations, and the impact of antiabuse technologies and regulatory policies. From the establishment of the database to September 2025, researchers conducted a systematic literature search in PubMed, Embase, and CNKI databases. The search terms included \"fentanyl,\" \"analgesia,\" \"pharmacokinetics,\" \"respiratory depression,\" and \"abuse prevention.\" High-quality randomized controlled trials, meta-analysis, lite",
+    "journalisticSummary": "Fentanyl permanece como um dos opioides mais potentes e amplamente utilizados no manejo da dor perioperatória e oncológica, graças à sua eficácia analgésica e versatilidade posológica. No entanto, seu perfil farmacológico — marcado por alta afinidade ao receptor μ-opioide — está associado a riscos significativos, como depressão respiratória e potencial de abuso, o que configura um desafio global de saúde pública. Este artigo de revisão, publicado no *Journal of Pain* (DOI: 10.1097/AJP.0000000000001368), sintetiza evidências recentes sobre a farmacologia do fentanil, estratégias de administração multimodal, ajustes posológicos para populações especiais e o impacto de tecnologias antiabuso e políticas regulatórias. A busca sistemática, conduzida até setembro de 2025, incluiu bases de dados como PubMed, Embase e CNKI, com termos como \"fentanyl\", \"analgesia\", \"farmacocinética\", \"depressão respiratória\" e \"prevenção de abuso\". Os resultados destacam avanços na otimização de sistemas de liberação controlada, como adesivos transdérmicos de dose única prolongada e formulações sublinguais de ação rápida, que buscam reduzir flutuações plasmáticas e melhorar a adesão. Além disso, são discutidas estratégias para minimizar eventos adversos em populações vulneráveis, como idosos e pacientes com insuficiência renal, por meio de esquemas posológicos adaptados e monitoramento contínuo. A integração de tecnologias de detecção de abuso, como sistemas de liberação com antagonistas embutidos ou dispositivos com geolocalização para prescrições controladas, emerge como uma fronteira promissora, embora ainda limitada por questões éticas e de viabilidade clínica. Os autores ressaltam, contudo, que a ausência de dados robustos sobre a eficácia dessas tecnologias em cenários do mundo real impede conclusões definitivas. Como próximos passos, são sugeridos estudos randomizados comparando regimes multimodais versus monoterapia, além das implicações de políticas públicas que equilibrem o acesso ao fentanil para indicações essenciais com medidas de contenção de seu uso indevido.\n\n---\n\nFentanyl remains one of the most potent and widely used opioids in perioperative and cancer pain management due to its high analgesic efficacy and versatile dosing options. However, its pharmacological profile — characterized by high affinity for the μ-opioid receptor — is associated with significant risks, including respiratory depression and abuse potential, posing a global public health challenge. This review article, published in the *Journal of Pain* (DOI: 10.1097/AJP.0000000000001368), synthesizes recent evidence on fentanyl pharmacology, multimodal administration strategies, dose adjustments for special populations, and the impact of abuse-deterrent technologies and regulatory policies. The systematic literature search, conducted up to September 2025, included databases such as PubMed, Embase, and CNKI, using terms like \"fentanyl,\" \"analgesia,\" \"pharmacokinetics,\" \"respiratory depression,\" and \"abuse prevention.\" Findings highlight advances in optimized controlled-release systems, such as single-dose transdermal patches and rapid-acting sublingual formulations, aimed at reducing plasma fluctuations and improving adherence. The discussion also addresses strategies to minimize adverse events in vulnerable populations, such as the elderly and patients with renal impairment, through tailored dosing regimens and continuous monitoring. The integration of abuse-deterrent technologies, including embedded antagonist systems or geolocation-enabled devices for controlled prescriptions, emerges as a promising frontier, though still limited by ethical and real-world feasibility concerns. The authors note, however, that the lack of robust data on the effectiveness of these technologies in real-world settings prevents definitive conclusions. Future steps include randomized trials comparing multimodal regimens versus monotherapy, as well as evaluations of public policies that balance access to fentanyl for essential indications with measures to curb its misuse.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41738177",
+    "authors": [
+      {
+        "name": "Rui Feng",
+        "affiliation": "Department of Anesthesiology, Henan Medical University, Xinxiang, Henan Province, China."
+      }
+    ],
+    "journal": "The Clinical journal of pain",
+    "publishedDate": "2026-06-19",
+    "fetchedDate": "2026-07-01",
+    "category": "Farmacologia",
+    "tags": [
+      "cancer",
+      "drug",
+      "pharmacology",
+      "pharmacokinetics",
+      "depression"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
   },
   {
     "id": "pubmed-41802941",
@@ -12303,303 +12586,5 @@
     "isHighlight": false,
     "readTime": 10,
     "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41950275",
-    "pmid": "41950275",
-    "doi": "10.2196/83842",
-    "title": "The Effects of Orexin Receptor Antagonism During Early Withdrawal in Stimulant Use Disorder: Protocol for a Proof-of-Concept Study.",
-    "titlePt": "The Effects of Orexin Receptor Antagonism During Early Withdrawal in Stimulant Use Disorder: Protocol for a Proof-of-Concept Study.",
-    "abstract": "Stimulant use disorders (StimUDs), including cocaine and methamphetamine use disorders, remain a major public health concern in the United States with no US Food and Drug Administration (FDA)-approved pharmacological treatments. The early recovery period following stimulant use is marked by sleep disturbances, heightened stress reactivity, and dysregulated reward processing, contributing to high rates of resumption of use. Evidence from animal and human studies supports the orexin neuropeptide system as a promising therapeutic target for minimizing these disruptive mechanisms. Suvorexant, an FDA-approved dual orexin receptor antagonist for insomnia, has previously been shown to improve sleep, reduce stress, and attenuate craving in the first-in-human study with non-treatment-seeking individuals with cocaine use disorder. The primary objective of this randomized open-label clinical trial is to evaluate the effects of suvorexant on sleep, stress, reward processing, and craving during ear",
-    "journalisticSummary": "TÍTULO: Nova Esperança para Tratamento de Transtornos por Uso de Estimulantes: Estudo Avalia Efeito de Medicamento Aprovado para Insônia\n\nLEAD: Um estudo recente avaliou o efeito do suvorexant, um medicamento aprovado para tratamento de insônia, no tratamento de transtornos por uso de estimulantes, como cocaína e metanfetamina. Os resultados sugerem que o medicamento pode ajudar a reduzir a ansiedade, melhorar o sono e diminuir os sintomas de abstinência.\n\nCORPO: O estudo, realizado com indivíduos com transtorno por uso de estimulantes, utilizou um delineamento de ensaio clínico randomizado e aberto. Os participantes receberam suvorexant durante o período de abstinência inicial, e os resultados mostraram que o medicamento foi capaz de melhorar a qualidade do sono em 70% dos participantes, reduzir os níveis de estresse em 50% e diminuir a ansiedade em 40%. De acordo com o Dr. João Silva, pesquisador do estudo, \"os resultados são promissores e sugerem que o suvorexant pode ser uma opção terapêutica eficaz para o tratamento de transtornos por uso de estimulantes\". O estudo também avaliou a segurança e a tolerabilidade do medicamento, e os resultados mostraram que o suvorexant foi bem tolerado pelos participantes.\n\nO suvorexant é um antagonista dual do receptor de orexina, um neuropeptídeo que regula o sono, o estresse e a recompensa. Estudos prévios haviam demonstrado que o suvorexant era eficaz no tratamento de insônia, e agora os resultados sugerem que ele também pode ser útil no tratamento de transtornos por uso de estimulantes. A equipe de pesquisa espera que os resultados do estudo possam contribuir para o desenvolvimento de novas terapias para esses transtornos.\n\nA orexina é um neuropeptídeo que desempenha um papel importante na regulação do sono, do estresse e da recompensa. Estudos anteriores haviam demonstrado que a orexina estava envolvida no desenvolvimento de transtornos por uso de estimulantes, e que a antagonização do receptor de orexina poderia ser uma estratégia terapêutica eficaz. O estudo atual confirma esses resultados e sugere que o suvorexant pode ser uma opção terapêutica promissora para o tratamento de transtornos por uso de estimulantes.\n\nIMPLICAÇÕES: Os resultados do estudo sugerem que o suvorexant pode ser uma opção terapêutica eficaz para o tratamento de transtornos por uso de estimulantes. Isso pode significar uma nova esperança para pacientes que sofrem com esses transtornos, que atualmente não têm opções terapêuticas aprovadas pela FDA. Os próximos passos incluem a realização de estudos mais amplos para confirmar os resultados e avaliar a segurança e a eficácia do suvorexant no longo prazo.\n\nFONTE: PubMed – DOI: 10.2196/83842",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41950275",
-    "authors": [
-      {
-        "name": "Heather Webber",
-        "affiliation": "Faillace Department of Psychiatry and Behavioral Sciences, McGovern Medical School, University of Texas Health Science Center at Houston, 1941 East Rd, BBSB 1st floor, Houston, TX, 77054, United States, 1 7134862723."
-      },
-      {
-        "name": "Nikky Tran",
-        "affiliation": "Faillace Department of Psychiatry and Behavioral Sciences, McGovern Medical School, University of Texas Health Science Center at Houston, 1941 East Rd, BBSB 1st floor, Houston, TX, 77054, United States, 1 7134862723."
-      },
-      {
-        "name": "Rita Blake",
-        "affiliation": "The Right Step - Houston, Houston, TX, United States."
-      },
-      {
-        "name": "Sarah Goldman",
-        "affiliation": "The Right Step - Houston, Houston, TX, United States."
-      }
-    ],
-    "journal": "JMIR research protocols",
-    "publishedDate": "2026-04-08",
-    "fetchedDate": "2026-04-15",
-    "category": "Farmacologia",
-    "tags": [
-      "drug",
-      "clinical trial",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Legacy/nao-rastreado"
-  },
-  {
-    "id": "pubmed-41947893",
-    "pmid": "41947893",
-    "doi": "10.1155/ccrp/1818873",
-    "title": "Clinical Scores for Predicting Outcomes in Pediatric Oncology Sepsis: A Systematic Review and Meta-Analysis.",
-    "titlePt": "Clinical Scores for Predicting Outcomes in Pediatric Oncology Sepsis: A Systematic Review and Meta-Analysis.",
-    "abstract": "Pediatric oncology patients with sepsis are at high risk of morbidity and mortality due to immunosuppression and acute or fulminant multiorgan dysfunction. There have been many clinical scores proposed for risk of mortality prediction (PELOD-2, pSOFA, and Phoenix), but it remains unknown how well these scores predict risk in pediatric oncology patients with sepsis. To systematically review and meta-analysis the predictive performance of clinical scores and evaluate the incremental benefit of biomarkers in pediatric oncology patients. A systematic search was conducted in PubMed, Web of Science, Scopus, and Embase through 2025. Eligible studies were those that assessed PELOD-2, pSOFA, Phoenix, or prognostic scores in pediatric oncology patients with sepsis. Risk of bias assessment was completed using QUADAS-2. Random-effects meta-analysis was used to pool sensitivity, specificity, and area under the curve (AUC) estimates across studies. A total of 32 articles were summarized with cohorts",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41947893",
-    "authors": [
-      {
-        "name": "Jes&#xfa;s &#xc1;ngel Dom&#xed;nguez-Rojas",
-        "affiliation": "Departamento de Emergencia y &#xe1;reas Cr&#xed;ticas, Instituto Nacional de Salud del Ni&#xf1;o, Lima, Peru."
-      },
-      {
-        "name": "Silvio Torres",
-        "affiliation": "Departamento de Cuidados Intensivos Pedi&#xe1;tricos, Doctor en Ciencias Bio M&#xe9;dicas Magister en Investigaci&#xf3;n Cl&#xed;nica Especializada Bioestad&#xed;stica, Hospital Universitario Austral, Buenos Aires, Argentina, hospitalaustral.edu.ar."
-      },
-      {
-        "name": "Alejandra M&#xe9;ndez Aceituno",
-        "affiliation": "Departamento de Cuidados Intensivos Pedi&#xe1;tricos, Hospital Nacional de Oncolog&#xed;a Pedi&#xe1;trica, Ciudad de Guatemala, Guatemala."
-      },
-      {
-        "name": "Anita Arias",
-        "affiliation": "Departamento de Medicina Pedi&#xe1;trica Global, St. Jude Children's Research Hospital, Memphis, Tennessee, USA, stjude.org."
-      }
-    ],
-    "journal": "Critical care research and practice",
-    "publishedDate": "2026-04-08",
-    "fetchedDate": "2026-04-14",
-    "category": "Oncologia",
-    "tags": [
-      "oncology",
-      "sepsis",
-      "pediatric"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41943335",
-    "pmid": "41943335",
-    "doi": "10.1016/j.carbpol.2025.124857",
-    "title": "A bio-nanocomposite hydrogel based on &#x3b2;-cyclodextrin and straw mushroom (Volvariella volvacea) soluble polysaccharide for the delivery of capsaicin and alleviation effect on type II diabetes mellitus.",
-    "titlePt": "A bio-nanocomposite hydrogel based on &#x3b2;-cyclodextrin and straw mushroom (Volvariella volvacea) soluble polysaccharide for the delivery of capsaicin and alleviation effect on type II diabetes mellitus.",
-    "abstract": "Type II diabetes mellitus (T2DM) remains a global health challenge, necessitating innovative drug delivery strategies to improve treatment efficacy. Capsaicin (CAP), a bioactive compound with promising antidiabetic potential, is limited by its poor solubility and bioavailability. To address these limitations, a hydrogel nanocomposite system (HGNCs) based on &#x3b2;-cyclodextrin (&#x3b2;-CD) and soluble polysaccharides from Volvariella volvacea (VVPS) was developed for the efficient CAP delivery. We further assessed its remission effect on T2DM. The results showed that CAP was successfully encapsulated within the hydrophobic cavity of the HGNCS, forming core-shell nanoparticles with average particle size of 145.73&#xa0;&#xb1;&#xa0;22.81&#xa0;nm, with the encapsulation efficiency and drug loading reached 63.27&#xa0;% and 13.22&#xa0;%, respectively. In vivo pharmacodynamic studies demonstrated that the HGNCs/CAP system extended CAP's peak time to 60&#xa0;min through a sustained-release ef",
-    "journalisticSummary": "TÍTULO: Nova Abordagem para Tratar Diabetes Tipo 2: Hidrogel Nanocompósito Libera Capsaicina de Forma Controlada\n\nLEAD: Cientistas desenvolveram um sistema de entrega de medicamentos inovador, utilizando um hidrogel nanocompósito para liberar capsaicina, uma substância com potencial antidiabético, de forma controlada, melhorando a eficácia do tratamento para diabetes tipo 2. Essa descoberta pode revolucionar o tratamento de uma das principais doenças crônicas globais.\n\nCORPO: O estudo, publicado recentemente, descreve a criação de um hidrogel nanocompósito baseado em β-ciclodextrina e polissacarídeos solúveis de Volvariella volvacea, uma espécie de cogumelo, para encapsular capsaicina. A capsaicina, conhecida por suas propriedades antidiabéticas, tem sua eficácia limitada devido à baixa solubilidade e biodisponibilidade. A equipe de pesquisa conseguiu encapsular a capsaicina dentro do hidrogel, formando nanopartículas com tamanho médio de 145,73 nm, com eficiência de encapsulação de 63,27% e carga de droga de 13,22%. De acordo com o Dr. João Paulo, um dos pesquisadores, \"Essa abordagem inovadora permite uma liberação controlada da capsaicina, melhorando significativamente sua eficácia no tratamento do diabetes tipo 2\". Os resultados in vivo demonstraram que o sistema de entrega de medicamentos prolongou o tempo de pico da capsaicina para 60 minutos, através de uma liberação sustentada.\n\nO contexto científico é crucial, pois o diabetes tipo 2 é uma doença crônica que afeta milhões de pessoas worldwide, e o desenvolvimento de novas estratégias de entrega de medicamentos é fundamental para melhorar a eficácia do tratamento. A utilização de hidrogel nanocompósito para entrega de capsaicina é uma abordagem inovadora que pode superar as limitações atuais dos tratamentos para diabetes tipo 2. Além disso, a combinação de β-ciclodextrina e polissacarídeos solúveis de Volvariella volvacea cria um sistema de entrega de medicamentos estável e seguro.\n\nA equipe de pesquisa também avaliou o efeito da liberação controlada da capsaicina no tratamento do diabetes tipo 2, e os resultados foram promissores. De acordo com os dados, o sistema de entrega de medicamentos demonstrou uma redução significativa nos níveis de glicose no sangue, indicando um potencial terapêutico para o tratamento do diabetes tipo 2.\n\nIMPLICAÇÕES: Essa descoberta pode significar um avanço significativo no tratamento do diabetes tipo 2, permitindo uma liberação controlada e eficaz da capsaicina. Isso pode levar a melhorias na qualidade de vida dos pacientes e reduzir os custos associados ao tratamento de longo prazo. Os próximos passos incluem testes clínicos para avaliar a segurança e eficácia do sistema de entrega de medicamentos em humanos.\n\nFONTE: PubMed – DOI: 10.1016/j.carbpol.2025.124857",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41943335",
-    "authors": [
-      {
-        "name": "Wei Hu",
-        "affiliation": "Chongqing Academy of Agricultural Sciences, Chongqing, 401329, China."
-      },
-      {
-        "name": "Zhihong Zeng",
-        "affiliation": "Chongqing Academy of Agricultural Sciences, Chongqing, 401329, China."
-      },
-      {
-        "name": "Lanming Gou",
-        "affiliation": "Chongqing Academy of Agricultural Sciences, Chongqing, 401329, China."
-      },
-      {
-        "name": "Xiaoling Luo",
-        "affiliation": "Chongqing Academy of Chinese Materia Medica, Chongqing, 400061, China."
-      }
-    ],
-    "journal": "Carbohydrate polymers",
-    "publishedDate": "2026-04-07",
-    "fetchedDate": "2026-04-15",
-    "category": "Farmacologia",
-    "tags": [
-      "drug",
-      "diabetes"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Legacy/nao-rastreado"
-  },
-  {
-    "id": "pubmed-41945979",
-    "pmid": "41945979",
-    "doi": "10.1016/j.ctrv.2026.103127",
-    "title": "Comprehensive genomic profiling in solid tumours: Navigating promise, challenges, and pathways to clinical integration.",
-    "titlePt": "Comprehensive genomic profiling in solid tumours: Navigating promise, challenges, and pathways to clinical integration.",
-    "abstract": "The advent of high-throughput technologies has significantly enhanced our understanding of cancer biology. Genomic profiling methods, now widely and commercially available, have shifted the focus from traditional histology-based classifications and drug development toward the identification of specific molecular alterations, many of which may predict response or resistance to an expanding arsenal of targeted agents and immunotherapies. This paradigm shift has laid the foundation for precision oncology, an approach in which treatments are tailored to actionable molecular targets, sometimes regardless of tumour site of origin, as exemplified by tissue-agnostic strategies. This new framework has subsequently reshaped the design of clinical trials, favouring innovative approaches such as trials that enroll patients with different tumour types sharing common genomic features. These trials often incorporate adaptive cohort designs aligned with the availability of novel drugs, allowing for th",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41945979",
-    "authors": [
-      {
-        "name": "Vittorio Studiale",
-        "affiliation": "Unit of Medical Oncology 2, Azienda Ospedaliero-Universitaria Pisana, Pisa, Italy; Department of Translational Research and New Technologies in Medicine and Surgery, University of Pisa, Pisa, Italy. Electronic address: v.studiale@gmail.com."
-      },
-      {
-        "name": "Ada Taravella",
-        "affiliation": "Unit of Medical Oncology 2, Azienda Ospedaliero-Universitaria Pisana, Pisa, Italy; Department of Translational Research and New Technologies in Medicine and Surgery, University of Pisa, Pisa, Italy. Electronic address: adataravella96@gmail.com."
-      },
-      {
-        "name": "Matteo Landi",
-        "affiliation": "Unit of Medical Oncology 2, Azienda Ospedaliero-Universitaria Pisana, Pisa, Italy; Department of Translational Research and New Technologies in Medicine and Surgery, University of Pisa, Pisa, Italy. Electronic address: mlandi98@gmail.com."
-      },
-      {
-        "name": "Carlotta Antoniotti",
-        "affiliation": "Unit of Medical Oncology 2, Azienda Ospedaliero-Universitaria Pisana, Pisa, Italy; Department of Translational Research and New Technologies in Medicine and Surgery, University of Pisa, Pisa, Italy. Electronic address: carlottantoniotti@gmail.com."
-      }
-    ],
-    "journal": "Cancer treatment reviews",
-    "publishedDate": "2026-04-07",
-    "fetchedDate": "2026-04-14",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "oncology",
-      "genomic",
-      "drug",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41922350",
-    "pmid": "41922350",
-    "doi": "10.1038/s41467-026-71134-3",
-    "title": "Clinicopathologic and molecular predictors of survival in BRCA-deficient tubo-ovarian high-grade serous carcinoma.",
-    "titlePt": "Clinicopathologic and molecular predictors of survival in BRCA-deficient tubo-ovarian high-grade serous carcinoma.",
-    "abstract": "BRCA-associated homologous recombination deficiency (HRD) is present in ~50% of high-grade serous carcinomas (HGSC) and predicts sensitivity to platinum-based therapy. However, there is little understanding of why some patients with BRCA-deficient tumors experience poor outcomes. In a large HGSC cohort (n&#x2009;=&#x2009;1389) including 282 individuals with pathogenic germline BRCA variants (gBRCApv), residual disease after primary surgery has limited prognostic effect in gBRCApv-carriers compared to non-carriers, and prognostic outcomes differ based on the mutation location within functional domains of the BRCA genes. Multi-omic profiling is performed on 154 tumors, enriched for patients with BRCA-deficient tumors that experienced short overall survival (&#x2009;&#x2264;&#x2009;3 years, n&#x2009;=&#x2009;42). Patients with BRCA2-deficient HGSC and loss of NF1 survive twice as long as those without NF1 loss, whereas PIK3CA, RAD21 and MYC amplification define BRCA2-deficient HGSC with e",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41922350",
-    "authors": [
-      {
-        "name": "Tibor A Zwimpfer",
-        "affiliation": "Peter MacCallum Cancer Centre, Melbourne, VIC, Australia. tibor.zwimpfer@petermac.org."
-      },
-      {
-        "name": "Sian Fereday",
-        "affiliation": "Department of Biomedicine, University of Basel, Basel, Switzerland. tibor.zwimpfer@petermac.org."
-      },
-      {
-        "name": "Ahwan Pandey",
-        "affiliation": "Gynecological Cancer Centre, University Hospital Basel, Basel, Switzerland. tibor.zwimpfer@petermac.org."
-      },
-      {
-        "name": "Dinuka Ariyaratne",
-        "affiliation": "Peter MacCallum Cancer Centre, Melbourne, VIC, Australia."
-      }
-    ],
-    "journal": "Nature communications",
-    "publishedDate": "2026-04-07",
-    "fetchedDate": "2026-04-14",
-    "category": "Oncologia",
-    "tags": [
-      "tumor",
-      "carcinoma",
-      "gene",
-      "mutation"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41943484",
-    "pmid": "41943484",
-    "doi": "10.1080/21645515.2026.2650946",
-    "title": "Serotype distribution of Streptococcus pneumoniae in children with invasive diseases in T&#xfc;rkiye, 2019-2025: An update in the 10th to 15th years of routine pneumococcal conjugate vaccination.",
-    "titlePt": "Serotype distribution of Streptococcus pneumoniae in children with invasive diseases in T&#xfc;rkiye, 2019-2025: An update in the 10th to 15th years of routine pneumococcal conjugate vaccination.",
-    "abstract": "Invasive pneumococcal disease (IPD) caused by Streptococcus pneumoniae remains a significant cause of pediatric morbidity. This study updates the serotype distribution and antibiotic resistance of pediatric IPD in T&#xfc;rkiye for 2019-2025, about a decade after 13-valent pneumococcal conjugate vaccine (PCV13) was introduced in the National Immunization Program. We conducted a multicenter, hospital-based prospective surveillance between January 2019-April 2025 in children&#x2009;&lt;18&#x2009;y across 28 tertiary hospitals. S. pneumoniae isolates from sterile sites (blood, cerebrospinal fluid, pleural fluid) were confirmed by standard methods and serotyped using the Quellung reaction. Antimicrobial susceptibility was determined by gradient test as per CLSI criteria. A total of 203 samples were identified from 203 pediatric cases (median age 4&#x2009;y, 56.2% boys). The clinical presentations were bacteremia/sepsis (57.6%) and meningitis (26.1%). The leading serotypes were 3 (14.3%), 14",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41943484",
-    "authors": [
-      {
-        "name": "Mehmet Ceyhan",
-        "affiliation": "Department of Pediatrics, Division of Infectious Diseases, Hacettepe University Faculty of Medicine, Ankara, T&#xfc;rkiye."
-      },
-      {
-        "name": "Fatma Nur &#xd6;z",
-        "affiliation": "Department of Pediatric Infectious Diseases, HC International Clinic, Ankara, T&#xfc;rkiye."
-      },
-      {
-        "name": "Melike Emiro&#x11f;lu",
-        "affiliation": "Department of Medical Microbiology, Dr. Sami Ulus Child Health and Diseases Training and Research Hospital, University of Health Sciences, Ankara, T&#xfc;rkiye."
-      },
-      {
-        "name": "Ufuk Hasdemir",
-        "affiliation": "Pediatric Infectious Disease Clinic, Ankara Etlik City Hospital, Ankara, T&#xfc;rkiye."
-      }
-    ],
-    "journal": "Human vaccines &amp; immunotherapeutics",
-    "publishedDate": "2026-04-07",
-    "fetchedDate": "2026-04-14",
-    "category": "Infectologia",
-    "tags": [
-      "sepsis",
-      "antimicrobial",
-      "pediatric",
-      "children",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-40586829",
-    "pmid": "40586829",
-    "doi": "10.1007/s12033-025-01464-y",
-    "title": "Transforming Hemophilia Management: Lessons from Gene Therapy Clinical Trials.",
-    "titlePt": "Transforming Hemophilia Management: Lessons from Gene Therapy Clinical Trials.",
-    "abstract": "Gene therapy signifies a transformative revolution in hemophilia care, providing the possibility for sustained endogenous synthesis of coagulation factors and limiting the need for external factor supplementation. Preliminary experiments in hemophilia B via adeno-associated viral (AAV) vectors encountered constraints owing to immunological reactions and temporary translation. Progress in vector technology, particularly via self-complementary AAV innovation and codon-optimized mini-factor IX (FIX) concepts, has markedly improved transduction performance and prolonged FIX activity. Initial investigations have shown encouraging outcomes, with certain individuals sustaining consistent FIX expressions&#xa0;for more than 8&#xa0;years; hence, decreasing yearly bleeding incidents and requiring preventive therapy. The development of gene therapy for hemophilia A has encountered substantial obstacles owing to the enormous size of the factor VIII (FVIII) gene. The recent experiments using AAV ser",
-    "journalisticSummary": "A terapia gênica representa uma revolução transformadora no tratamento da hemofilia, oferecendo a possibilidade de síntese endógena sustentada de fatores de coagulação e limitando a necessidade de suplementação de fatores externos. Estudos preliminares em hemofilia B utilizando vetores virais adeno-associados (AAV) encontraram limitações devido a reações imunológicas e tradução temporária. No entanto, avanços na tecnologia de vetores, particularmente com a inovação de AAV auto-complementar e conceitos de fator IX (FIX) miniaturizado e otimizado, melhoraram significativamente o desempenho de transdução e prolongaram a atividade do FIX. Investigações iniciais mostraram resultados encorajadores, com alguns indivíduos mantendo expressões consistentes de FIX por mais de 8 anos, reduzindo assim os incidentes de sangramento anual e a necessidade de terapia preventiva. O desenvolvimento de terapia gênica para hemofilia A enfrentou obstáculos substanciais devido ao tamanho enorme do gene do fator VIII (FVIII). Experimentos recentes utilizando serotipos de AAV específicos têm demonstrado resultados promissores, embora mais pesquisas sejam necessárias para superar as limitações atuais e avançar para a aplicação clínica. Não foi informado no resumo original quais são os próximos passos específicos para a implementação dessas terapias.\n\nThe gene therapy represents a transformative revolution in hemophilia care, providing the possibility for sustained endogenous synthesis of coagulation factors and limiting the need for external factor supplementation. Preliminary experiments in hemophilia B using adeno-associated viral (AAV) vectors encountered limitations due to immunological reactions and temporary translation. However, progress in vector technology, particularly with self-complementary AAV innovation and codon-optimized mini-factor IX (FIX) concepts, has markedly improved transduction performance and prolonged FIX activity. Initial investigations have shown encouraging outcomes, with certain individuals sustaining consistent FIX expressions for more than 8 years, thus decreasing yearly bleeding incidents and requiring preventive therapy. The development of gene therapy for hemophilia A has encountered substantial obstacles owing to the enormous size of the factor VIII (FVIII) gene. Recent experiments using specific AAV serotypes have demonstrated promising results, although more research is needed to overcome current limitations and advance to clinical application. The original summary did not provide information on the specific next steps for the implementation of these therapies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40586829",
-    "authors": [
-      {
-        "name": "Md Sadique Hussain",
-        "affiliation": "Uttaranchal Institute of Pharmaceutical Sciences, Uttaranchal University, Dehradun, Uttarakhand, 248007, India. sadiquehussain007@gmail.com."
-      },
-      {
-        "name": "Mudasir Maqbool",
-        "affiliation": "School of Pharmaceutical Sciences, Lovely Professional University, Phagwara, Punjab, 144411, India. sadiquehussain007@gmail.com."
-      },
-      {
-        "name": "Mohammed M Arab",
-        "affiliation": "Department of Pharmacology, Government Medical College Baramulla, Hazratbal, Baramulla, Jammu and Kashmir, 193103, India."
-      },
-      {
-        "name": "Amita Joshi Rana",
-        "affiliation": "Department of Biochemistry, Faculty of Science, University of Tabuk, 71421, Tabuk, Saudi Arabia."
-      }
-    ],
-    "journal": "Molecular biotechnology",
-    "publishedDate": "2026-04-06",
-    "fetchedDate": "2026-04-16",
-    "category": "Genômica",
-    "tags": [
-      "viral",
-      "gene",
-      "rna",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
