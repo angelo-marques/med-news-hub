@@ -12433,6 +12433,51 @@
     "aiProcessed": false
   },
   {
+    "id": "pubmed-41953725",
+    "pmid": "41953725",
+    "doi": "10.1016/j.gendis.2025.101963",
+    "title": "Intra-tumoral microbiota: Key modulators of tumor immunity and therapeutic potential.",
+    "titlePt": "Intra-tumoral microbiota: Key modulators of tumor immunity and therapeutic potential.",
+    "abstract": "The tumor microenvironment is increasingly recognized as a complex ecosystem in which the intra-tumoral microbiota (comprising bacteria, fungi, viruses, etc.) plays a pivotal, underappreciated role in cancer biology. This review systematically summarizes the latest research into the origins, diversity, and functional mechanisms of intra-tumoral microbiota, emphasizing their dual roles in tumor formation, progression, and response to treatment. Using high-throughput sequencing, spatial multi-omics, and integrative bioinformatics, we identify the multifactorial origins of tumor-resident microbiota, including translocation from adjacent tissues, hematogenous dissemination, and viral genomic integration. We also examine the significant inter- and intra-tumoral microbial heterogeneity influenced by anatomical, environmental, and immunological factors, and the tissue-specific functional effects of important microbial species. We detail the mechanisms by which the intra-tumoral microbiota mod",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nO microambiente tumoral é um ecossistema complexo no qual a microbiota intratumoral — composta por bactérias, fungos, vírus e outros microrganismos — desempenha um papel central, ainda pouco explorado na biologia do câncer. Um estudo recente publicado no periódico *Genomics & Diseases* oferece uma revisão sistemática das origens, diversidade e mecanismos funcionais dessa microbiota, destacando seu impacto na formação, progressão e resposta ao tratamento de tumores. Utilizando técnicas avançadas como sequenciamento de alta produtividade, multiômica espacial e bioinformática integrativa, os pesquisadores identificam múltiplas vias de origem dos microrganismos residentes em tumores, incluindo translocação de tecidos adjacentes, disseminação hematogênica e integração genômica viral. Além disso, o trabalho evidencia a heterogeneidade microbiana inter e intratumoral, influenciada por fatores anatômicos, ambientais e imunológicos, bem como os efeitos tecido-específicos de espécies microbianas relevantes.\n\nOs mecanismos pelos quais a microbiota intratumoral modula a imunidade tumoral incluem a ativação de vias pró-inflamatórias, alterações no metabolismo do estroma e interferência na eficácia de terapias como imunoterapia e quimioterapia. Espécies como *Fusobacterium nucleatum* e *Bacteroides fragilis* foram associadas a respostas imunológicas suprimidas, enquanto outros microrganismos podem promover a inflamação antitumoral. No entanto, o estudo não fornece dados quantitativos específicos sobre a prevalência desses microrganismos em diferentes tipos de câncer ou sua correlação com desfechos clínicos. A revisão também não aborda possíveis estratégias terapêuticas baseadas na modulação da microbiota intratumoral, limitando-se a discutir potenciais alvos e lacunas de pesquisa.\n\nEmbora os achados abram novas perspectivas para a medicina de precisão oncológica, as limitações incluem a falta de modelos experimentais robustos que reproduzam a complexidade do microambiente tumoral e a escassez de estudos clínicos prospectivos. Os próximos passos sugeridos pelos autores incluem a validação de biomarcadores microbianos em coortes maiores e o desenvolvimento de abordagens terapêuticas direcionadas, como probióticos ou inibidores de vias microbianas específicas. A integração de dados de multiômica com inteligência artificial emerge como uma ferramenta promissora para desvendar as interações entre microbiota e tumor, potencialmente revolucionando estratégias de tratamento.\n\n---\n\n**English version**\n\nThe tumor microenvironment is a complex ecosystem in which intratumoral microbiota — comprising bacteria, fungi, viruses, and other microorganisms — plays a central, yet understudied role in cancer biology. A recent study published in *Genomics & Diseases* provides a systematic review of the origins, diversity, and functional mechanisms of this microbiota, highlighting its impact on tumor formation, progression, and treatment response. Using advanced techniques such as high-throughput sequencing, spatial multi-omics, and integrative bioinformatics, researchers identify multiple pathways for the origin of tumor-resident microorganisms, including translocation from adjacent tissues, hematogenous dissemination, and viral genomic integration. The work also reveals significant inter- and intratumoral microbial heterogeneity, influenced by anatomical, environmental, and immunological factors, as well as tissue-specific effects of key microbial species.\n\nThe mechanisms by which intratumoral microbiota modulates tumor immunity include activation of pro-inflammatory pathways, alterations in stromal metabolism, and interference with the efficacy of therapies such as immunotherapy and chemotherapy. Species like *Fusobacterium nucleatum* and *Bacteroides fragilis* have been linked to suppressed immune responses, while others may promote antitumor inflammation. However, the study does not provide specific quantitative data on the prevalence of these microorganisms across different cancer types or their correlation with clinical outcomes. The review also does not address potential therapeutic strategies based on modulating intratumoral microbiota, limiting its discussion to potential targets and research gaps.\n\nWhile the findings open new avenues for precision oncology, limitations include the lack of robust experimental models that capture the complexity of the tumor microenvironment and the paucity of prospective clinical studies. The next steps suggested by the authors include validating microbial biomarkers in larger cohorts and developing targeted therapeutic approaches, such as probiotics or inhibitors of specific microbial pathways. The integration of multi-omics data with artificial intelligence emerges as a promising tool to unravel microbiota-tumor interactions, potentially revolutionizing treatment strategies.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41953725",
+    "authors": [
+      {
+        "name": "Junju He",
+        "affiliation": "Cancer Center, Renmin Hospital of Wuhan University, Wuhan, Hubei 430060, China."
+      },
+      {
+        "name": "Hui Tan",
+        "affiliation": "Department of Radiology, Renmin Hospital of Wuhan University, Wuhan, Hubei 430060, China."
+      },
+      {
+        "name": "Yanru Qiu",
+        "affiliation": "Cancer Center, Renmin Hospital of Wuhan University, Wuhan, Hubei 430060, China."
+      },
+      {
+        "name": "Yuchao Dan",
+        "affiliation": "Cancer Center, Renmin Hospital of Wuhan University, Wuhan, Hubei 430060, China."
+      }
+    ],
+    "journal": "Genes &amp; diseases",
+    "publishedDate": "2026-04-09",
+    "fetchedDate": "2026-07-01",
+    "category": "Genômica",
+    "tags": [
+      "cancer",
+      "tumor",
+      "viral",
+      "genomic",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-41610133",
     "pmid": "41610133",
     "doi": "10.1002/jclp.70098",
@@ -12543,47 +12588,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41956263",
-    "pmid": "41956263",
-    "doi": "10.1016/j.hrthm.2026.03.1961",
-    "title": "Atrial Fibrillation in Hypertrophic Cardiomyopathy: A Unique Clinical Entity Requiring Dedicated Study.",
-    "titlePt": "Atrial Fibrillation in Hypertrophic Cardiomyopathy: A Unique Clinical Entity Requiring Dedicated Study.",
-    "abstract": "Atrial fibrillation (AF) is the most common sustained arrhythmia in hypertrophic cardiomyopathy (HCM) occurring in 20-25% of patients and associated with significant morbidity including stroke risk and worsening heart failure. Atrial fibrillation in HCM (HCM-AF) arises from disease-specific mechanisms distinct from non-HCM AF including HCM-related atrial structural changes (dilation/ fibrosis), biophysical abnormalities (within ion-channels), and atrial dysfunction that culminate in an HCM specific atrial-myopathy. While the adoption of contemporary AF therapies have been associated with improved clinical outcomes in non-HCM-AF populations, HCM-AF outcomes nonetheless remain worse including lower rates of rhythm control success with catheter ablation and antiarrhythmic medications. In this context, we provide support that HCM-AF is a distinct clinical entity, highlighting gaps in knowledge and care, and represents an area of need for dedicated investigation as it is unclear the effecti",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41956263",
-    "authors": [
-      {
-        "name": "Ethan J Rowin",
-        "affiliation": "Hypertrophic Cardiomyopathy Center, Lahey Hospital and Medical Center, Burlington, MA. Electronic address: Ethan.Rowin@lahey.org."
-      },
-      {
-        "name": "Konstantinos C Siontis",
-        "affiliation": "Department of Cardiovascular Medicine, Mayo Clinic Rochester, Rochester, MN."
-      },
-      {
-        "name": "Anjali Owens",
-        "affiliation": "Division of Cardiovascular Medicine, Department of Medicine, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA."
-      },
-      {
-        "name": "Iacopo Olivotto",
-        "affiliation": "Cardiomyopathy Unit, Careggi University Hospital, Florence, Italy."
-      }
-    ],
-    "journal": "Heart rhythm",
-    "publishedDate": "2026-04-09",
-    "fetchedDate": "2026-04-14",
-    "category": "Cardiologia",
-    "tags": [
-      "heart",
-      "atrial",
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": false
   }
 ]
