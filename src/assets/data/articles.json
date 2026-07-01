@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42059872",
+    "pmid": "42059872",
+    "doi": "10.1080/17425247.2026.2668677",
+    "title": "Targeting the brain: alternative administration routes and drug delivery systems for antidepressant therapy.",
+    "titlePt": "Targeting the brain: alternative administration routes and drug delivery systems for antidepressant therapy.",
+    "abstract": "Although numerous antidepressants are clinically available, they are characterized by slow therapeutic onset, systemic effects, and limited brain exposure, which is restricted by the blood-brain barrier (BBB). Alternative administration routes namely intranasal, ocular, and intratympanic delivery, are emerging as promising strategies for a direct drug targeting of the central nervous system. Data were obtained from PubMed, Web of Science, Scopus, and regulatory agencies, 2010-2025. Intranasal route enables rapid brain delivery through the olfactory and trigeminal pathways, bypassing the BBB and avoiding systemic degradation. Ocular delivery allows drugs to reach the retina and optic nerve, providing access to deeper brain structures, while intratympanic route facilitates drug passage into the inner ear and subsequently into the cerebrospinal fluid through its connection to the cochlear perilymph, circumventing the BBB. Innovative drug delivery systems have the potential to enhance drug",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nPesquisadores destacam que, apesar da disponibilidade de diversos antidepressivos no mercado, esses tratamentos ainda enfrentam limitações significativas, como início lento de ação, efeitos sistêmicos indesejáveis e baixa exposição cerebral devido à barreira hematoencefálica (BHE). Um estudo publicado no *Journal of Drug Targeting* propõe abordagens alternativas de administração e sistemas inovadores de veiculação de fármacos como estratégias promissoras para contornar esses desafios. A revisão, que analisou publicações entre 2010 e 2025 nas bases PubMed, Web of Science e Scopus, além de dados de agências reguladoras, avalia três vias de administração não convencionais: intranasal, ocular e intratimpânica.\n\nA via intranasal emerge como uma opção viável por permitir a entrega rápida de medicamentos ao cérebro por meio dos trajetos olfatório e trigeminal, dispensando a passagem pela BHE e reduzindo a degradação sistêmica. Já a administração ocular possibilita que substâncias alcancem a retina e o nervo óptico, com potencial de acesso a estruturas cerebrais profundas. Por sua vez, a via intratimpânica facilita a passagem de fármacos para a orelha interna e, subsequentemente, para o líquido cefalorraquidiano, graças à conexão com a perilinfa coclear, que contorna a BHE. Embora os sistemas de liberação inovadores demonstrem potencial para otimizar a eficácia terapêutica, os autores ressaltam que ainda não há consenso sobre protocolos padronizados ou perfis de segurança consolidados para essas rotas.\n\nOs achados sugerem que essas estratégias poderiam reduzir o tempo de latência dos antidepressivos e minimizar efeitos adversos sistêmicos, como disfunções gastrointestinales ou ganho de peso associados aos fármacos convencionais. No entanto, a revisão não fornece dados quantitativos específicos sobre a eficácia comparativa ou a viabilidade clínica dessas vias. Os próximos passos incluem estudos clínicos randomizados para validar a segurança e a bioequivalência dessas abordagens, bem como o desenvolvimento de tecnologias de liberação controlada adaptadas a cada via de administração.\n\n---\n\n**English version**\n\nResearchers emphasize that despite the availability of multiple antidepressants, these treatments still face significant limitations, including delayed therapeutic onset, systemic side effects, and restricted brain exposure due to the blood-brain barrier (BBB). A study published in the *Journal of Drug Targeting* explores alternative administration routes and innovative drug delivery systems as promising strategies to overcome these challenges. The review, which analyzed publications from 2010 to 2025 across PubMed, Web of Science, Scopus, and regulatory databases, evaluates three unconventional delivery pathways: intranasal, ocular, and intratympanic.\n\nIntranasal administration stands out as a viable option by enabling rapid drug delivery to the brain via the olfactory and trigeminal pathways, bypassing the BBB and reducing systemic degradation. Ocular delivery, in turn, allows substances to reach the retina and optic nerve, potentially accessing deeper brain structures. Meanwhile, intratympanic administration facilitates drug passage into the inner ear and subsequently into the cerebrospinal fluid through its connection to the cochlear perilymph, circumventing the BBB. Although innovative delivery systems show promise in enhancing therapeutic efficacy, the authors note that standardized protocols and consolidated safety profiles for these routes remain undefined.\n\nThe findings suggest these strategies could shorten antidepressant latency periods and minimize systemic adverse effects, such as gastrointestinal dysfunction or weight gain commonly associated with conventional drugs. However, the review does not provide quantitative data on comparative efficacy or clinical feasibility. Future steps include randomized clinical trials to validate safety and bioequivalence, as well as the development of controlled-release technologies tailored to each administration route.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42059872",
+    "authors": [
+      {
+        "name": "In&#xea;s Figueiredo",
+        "affiliation": "Laboratory of Pharmacology, Faculty of Pharmacy, University of Coimbra, Coimbra, Portugal."
+      },
+      {
+        "name": "Joana Bicker",
+        "affiliation": "Laboratory of Pharmacology, Faculty of Pharmacy, University of Coimbra, Coimbra, Portugal."
+      },
+      {
+        "name": "Carla Vitorino",
+        "affiliation": "CIBIT - Coimbra Institute for Biomedical Imaging and Translational Research, University of Coimbra, Coimbra, Portugal."
+      },
+      {
+        "name": "Ana C Fortuna",
+        "affiliation": "Laboratory of Pharmaceutical Technology, Faculty of Pharmacy, University of Coimbra, Coimbra, Portugal."
+      }
+    ],
+    "journal": "Expert opinion on drug delivery",
+    "publishedDate": "2026-07-01",
+    "fetchedDate": "2026-07-01",
+    "category": "Farmacologia",
+    "tags": [
+      "brain",
+      "rna",
+      "drug",
+      "therapeutic"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-41747244",
     "pmid": "41747244",
     "doi": "10.1158/2159-8290.CD-25-1907",
@@ -212,7 +256,7 @@
       "atrial",
       "metabolic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12571,41 +12615,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41959735",
-    "pmid": "41959735",
-    "doi": "10.1016/j.gendis.2025.101891",
-    "title": "Receptor-mediated endocytosis by Megalin: Exploring its role in ligand interaction and disease mechanisms.",
-    "titlePt": "Receptor-mediated endocytosis by Megalin: Exploring its role in ligand interaction and disease mechanisms.",
-    "abstract": "This review comprehensively summarizes the interaction mechanisms between Megalin and several key ligands, including calcium ions, gentamicin, ApoE, ANKRA2, FVIII, TTR, STC1, RAP, and MMP-9, focusing on the specific amino acid binding sites involved. The analysis highlights the structural basis of these interactions and their clinical relevance, particularly concerning diseases such as nephrotoxicity, Alzheimer's disease, metabolic disorders, and renal pathologies. This review comprehensively summarizes the specific binding sites of Megalin with its ligands and explores the mechanisms, including protein reabsorption, blood coagulation, and neuroprotection, by integrating the results of animal studies and human clinical studies. This review proposes a theoretical framework for designing therapeutic strategies that target the binding sites of Megalin with its ligands. Gene editing technology and monoclonal antibody therapy aim to regulate Megalin receptor-ligand interactions to achieve t",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41959735",
-    "authors": [
-      {
-        "name": "Xian Zhang",
-        "affiliation": "Department of Neurology in Affiliated Zhongda Hospital and Jiangsu Provincial Medical Key Discipline, School of Medicine, Research Institute of Neuropsychiatry, Key Laboratory of Developmental Genes and Human Disease of Ministry of Education, Southeast University, Nanjing, Jiangsu 210096, China."
-      },
-      {
-        "name": "Zhijun Zhang",
-        "affiliation": "Shenzhen Key Laboratory of Precision Diagnosis and Treatment of Depression, Department of Mental Health and Public Health in Faculty of Life and Health Sciences of Shenzhen University of Advanced Technology, The Brain Cognition and Brain Disease Institute of Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen, Guangdong 518055, China."
-      }
-    ],
-    "journal": "Genes &amp; diseases",
-    "publishedDate": "2026-04-10",
-    "fetchedDate": "2026-04-14",
-    "category": "Neurologia",
-    "tags": [
-      "alzheimer",
-      "gene",
-      "therapeutic",
-      "antibody",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
     "aiProcessed": false
   }
 ]
