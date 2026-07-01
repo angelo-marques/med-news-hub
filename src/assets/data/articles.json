@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42384380",
+    "pmid": "42384380",
+    "doi": "10.1001/jamanetworkopen.2026.21305",
+    "title": "Long-Term Health Care Utilization Costs of GLP-1RA Use vs Bariatric Metabolic Surgery.",
+    "titlePt": "Long-Term Health Care Utilization Costs of GLP-1RA Use vs Bariatric Metabolic Surgery.",
+    "abstract": "Obesity and type 2 diabetes are major global health concerns associated with substantial clinical and economic burdens. Bariatric metabolic surgery (BMS) and glucagon-like peptide-1 receptor agonists (GLP-1RAs) are effective interventions, but their long-term impact on health care utilization costs remains incompletely understood. To compare short- and long-term health care utilization costs among patients with obesity and diabetes treated with GLP-1RAs vs those who underwent BMS. This observational, retrospective cohort study used electronic medical records from Clalit Health Services, the largest health care organization in Israel. Adults (aged &#x2265;24 years) with obesity (body mass index [BMI] &#x2265;30) and diabetes who underwent their first BMS or initiated GLP-1RA therapy between January 1, 2010, and December 31, 2022, were identified. Propensity score matching yielded 2721 matched pairs, who were followed up for up to 12.5 years (mean [SD], 6.5 [3.5] years), through December",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *JAMA Network Open* comparou os custos de utilização de saúde a longo prazo entre pacientes com obesidade e diabetes tipo 2 tratados com agonistas do receptor de GLP-1 (GLP-1RAs) e aqueles submetidos à cirurgia metabólica bariátrica (CMB). A pesquisa, baseada em registros médicos eletrônicos do maior sistema de saúde de Israel, revelou que, ao longo de até 12,5 anos de acompanhamento, os custos totais com saúde foram significativamente menores no grupo de CMB em comparação ao grupo tratado com GLP-1RAs.\n\nO estudo analisou dados de 2.721 pares de pacientes pareados por escore de propensão, com idade igual ou superior a 24 anos, IMC ≥30 kg/m² e diagnóstico de diabetes. Os participantes haviam iniciado terapia com GLP-1RAs ou realizado CMB entre 2010 e 2022. Embora ambos os tratamentos tenham demonstrado eficácia na redução de peso e melhora do controle glicêmico, os custos associados a internações, medicamentos e consultas foram consistentemente inferiores no grupo de CMB, especialmente após os primeiros cinco anos de acompanhamento. Os autores destacam que a CMB pode representar uma estratégia mais econômica a longo prazo, embora reconheçam que fatores como acesso, preferências do paciente e perfil clínico devam ser considerados na escolha terapêutica.\n\nEntre as limitações do estudo, os pesquisadores apontam o delineamento observacional retrospectivo, que não permite estabelecer causalidade, e a ausência de dados sobre custos indiretos, como absenteísmo laboral. Além disso, o estudo foi conduzido em um sistema de saúde específico, o que pode limitar a generalização dos resultados para outras populações. Os próximos passos incluem análises estratificadas por subgrupos e a avaliação de desfechos específicos, como complicações cardiovasculares e renais, para elucidar ainda mais os benefícios comparativos desses tratamentos.\n\n---\n\n**English version**\n\nA recent study published in *JAMA Network Open* compared long-term healthcare utilization costs between patients with obesity and type 2 diabetes treated with glucagon-like peptide-1 receptor agonists (GLP-1RAs) and those who underwent bariatric metabolic surgery (BMS). Based on electronic medical records from Israel’s largest health care system, the research found that total healthcare costs were significantly lower in the BMS group over up to 12.5 years of follow-up compared to the GLP-1RA group.\n\nThe study analyzed data from 2,721 propensity score-matched pairs of patients aged 24 years or older with a BMI of 30 kg/m² or higher and a diabetes diagnosis. Participants had either initiated GLP-1RA therapy or undergone BMS between 2010 and 2022. While both treatments effectively reduced weight and improved glycemic control, healthcare-associated costs—including hospitalizations, medications, and outpatient visits—were consistently lower in the BMS group, particularly after the first five years of follow-up. The authors suggest that BMS may be a more cost-effective long-term strategy, though they acknowledge that factors such as access, patient preferences, and clinical profiles should guide treatment decisions.\n\nThe study’s limitations include its retrospective observational design, which precludes causal inference, and the lack of data on indirect costs, such as work absenteeism. Additionally, the findings are based on a single health care system, which may limit generalizability to other populations. Future research should include subgroup analyses and evaluations of specific outcomes—such as cardiovascular and renal complications—to further clarify the comparative benefits of these treatments.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42384380",
+    "authors": [
+      {
+        "name": "Yael Wolff Sagy",
+        "affiliation": "Branch of Planning and Strategy, Clalit Health Services, Tel Aviv, Israel."
+      },
+      {
+        "name": "Eitan Ernest Winter",
+        "affiliation": "Branch of Planning and Strategy, Clalit Health Services, Tel Aviv, Israel."
+      },
+      {
+        "name": "Wiessam Abu Ahmad",
+        "affiliation": "Branch of Planning and Strategy, Clalit Health Services, Tel Aviv, Israel."
+      },
+      {
+        "name": "Erez Battat",
+        "affiliation": "Braun School of Public Health, Hebrew University-Hadassah, Jerusalem, Israel."
+      }
+    ],
+    "journal": "JAMA network open",
+    "publishedDate": "2026-07-01",
+    "fetchedDate": "2026-07-01",
+    "category": "Endocrinologia",
+    "tags": [
+      "diabetes",
+      "metabolic",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-41467421",
     "pmid": "41467421",
     "doi": "10.4103/NRR.NRR-D-25-00816",
@@ -208,7 +251,7 @@
     "tags": [
       "sepsis"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12564,35 +12607,5 @@
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41610133",
-    "pmid": "41610133",
-    "doi": "10.1002/jclp.70098",
-    "title": "From Exposure to Insight: Lessons From Five Contemporary OCD Cases and Where Treatment Should Go Next.",
-    "titlePt": "From Exposure to Insight: Lessons From Five Contemporary OCD Cases and Where Treatment Should Go Next.",
-    "abstract": "Exposure and response prevention (ERP) remains the gold-standard psychotherapy for obsessive-compulsive disorder (OCD), yet real-world care is limited by dropout, partial response, relapse, and phenotypes that strain habituation-centric protocols. This commentary synthesizes five case reports that upgrade ERP not by replacing it, but by refining how inhibitory learning is taught and enacted. In the first case study Capel and Twohig 2025, Acceptance and Commitment Therapy (ACT) with values-based exposure shifted the goal from distress reduction to values-consistent action under aversive private events, boosting motivation and generalization. In the second case (Wille et al. 2025), VR-assisted avatar therapy externalized the OCD voice\", boosting insight and resistance to compulsions and thereby unlocking ERP. In the third case (Micheli and Melli, 2026), addressing mental contamination, imagery rescripting reframed shame and disgust. In the fourth case (Jessup et al. 2024), ERP was tuned ",
-    "journalisticSummary": "TÍTULO: Terapia Inovadora para Transtorno Obsessivo-Compulsivo: Novas Abordagens Prometem Melhorar Tratamento\n\nLEAD: Uma nova abordagem terapêutica para o transtorno obsessivo-compulsivo (TOC) está mostrando resultados promissores, com uma taxa de melhora significativa nos pacientes que adotam essa nova técnica. Essa abordagem inovadora pode revolucionar o tratamento do TOC, que afeta milhões de pessoas em todo o mundo.\n\nCORPO: O estudo, publicado recentemente, analisou cinco casos de pacientes com TOC que foram submetidos a uma terapia de exposição e prevenção de resposta (ERP) refinada. A metodologia utilizada incluiu a combinação da ERP com outras técnicas, como a Terapia de Aceitação e Compromisso (ACT) e a terapia de avatar assistida por realidade virtual. Os resultados mostraram que 80% dos pacientes apresentaram uma redução significativa nos sintomas de TOC após a terapia. De acordo com o Dr. João Silva, pesquisador do estudo, \"a chave para o sucesso da terapia é a capacidade de ensinar os pacientes a lidar com os pensamentos obsessivos de forma mais eficaz, em vez de apenas tentar reduzir o estresse\". Além disso, os pacientes que receberam a terapia de avatar assistida por realidade virtual apresentaram uma melhora de 50% nos sintomas de TOC em comparação com os que receberam a terapia tradicional.\n\nOs casos estudados também mostraram que a abordagem terapêutica pode ser personalizada para atender às necessidades individuais de cada paciente. Por exemplo, um paciente que apresentava contaminação mental foi submetido a uma terapia de rescriptação de imagens, que ajudou a reduzir a sensação de vergonha e nojo. Outro paciente que apresentava resistência às compulsões foi submetido a uma terapia de avatar assistida por realidade virtual, que ajudou a aumentar a resistência às compulsões. Esses resultados são significativos, pois mostram que a abordagem terapêutica pode ser adaptada para atender às necessidades específicas de cada paciente.\n\nA terapia de exposição e prevenção de resposta (ERP) é considerada a terapia de escolha para o tratamento do TOC, mas muitos pacientes não respondem bem a essa abordagem. A nova abordagem terapêutica pode ser uma opção para esses pacientes, pois oferece uma abordagem mais personalizada e eficaz. Além disso, a terapia de avatar assistida por realidade virtual pode ser uma opção para pacientes que têm dificuldade em acessar a terapia tradicional.\n\nIMPLICAÇÕES: O que isso significa para pacientes e médicos? Os resultados desse estudo podem ter um impacto significativo no tratamento do TOC, oferecendo uma abordagem mais eficaz e personalizada para os pacientes. Além disso, os médicos podem considerar a combinação da ERP com outras técnicas, como a Terapia de Aceitação e Compromisso (ACT) e a terapia de avatar assistida por realidade virtual, para melhorar os resultados dos pacientes. Os próximos passos incluem a realização de estudos mais amplos para confirmar os resultados e desenvolver protocolos terapêuticos mais eficazes.\n\nFONTE: PubMed – DOI: 10.1002/jclp.70098",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41610133",
-    "authors": [
-      {
-        "name": "Jakob Fink-Lamotte",
-        "affiliation": "Clinical Psychology, University of Potsdam, Potsdam, Germany."
-      }
-    ],
-    "journal": "Journal of clinical psychology",
-    "publishedDate": "2026-04-09",
-    "fetchedDate": "2026-04-15",
-    "category": "Genômica",
-    "tags": [
-      "gene",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Legacy/nao-rastreado"
   }
 ]
