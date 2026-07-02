@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42387574",
+    "pmid": "42387574",
+    "doi": "10.1186/s13036-026-00723-z",
+    "title": "Structure-function relationship in FGF signaling: rational design of highly stable FGF2 variants and their effect on cell growth, metabolism, and survival.",
+    "titlePt": "Structure-function relationship in FGF signaling: rational design of highly stable FGF2 variants and their effect on cell growth, metabolism, and survival.",
+    "abstract": "Fibroblast growth factor 2 (FGF2) is a canonical member of the fibroblast growth factor family with essential roles in embryonic development, tissue regeneration, and stem cell biology, where it supports pluripotency and high proliferative capacity. Consequently, FGF2 is widely used in experimental models of regeneration and stem cell maintenance; however, its rapid thermal degradation at physiological temperatures limits its practical utility and therapeutic potential. Despite the availability of stabilized variants, developing FGF2 analogs that combine exceptional thermodynamic resilience with favorable pharmacokinetic properties remains a critical challenge for stem cell research and regenerative medicine. Using a combination of consensus sequence analysis and structure-guided protein engineering, we generated novel FGF2 variants with unprecedented thermodynamic stability and optimized extracellular matrix interactions. To enhance bioavailability, we introduced mutations that reduce",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nPesquisadores desenvolveram variantes do fator de crescimento de fibroblasto 2 (FGF2) com estabilidade térmica sem precedentes e interações otimizadas com a matriz extracelular, avançando no desafio de contornar a rápida degradação térmica dessa proteína em temperaturas fisiológicas. O estudo, publicado no *BMC Systems Biology*, utilizou uma combinação de análise de sequência consenso e engenharia de proteínas guiada por estrutura para criar análogos do FGF2 com propriedades farmacocinéticas aprimoradas. Embora os autores não tenham detalhado as mutações específicas introduzidas, eles relatam que os novos variantes mantiveram atividade biológica enquanto apresentaram resistência térmica significativamente maior do que a proteína nativa.\n\nOs resultados in vitro demonstraram que as variantes estabilizadas promoveram crescimento celular, metabolismo e sobrevivência em modelos de manutenção de células-tronco e regeneração tecidual com eficiência superior ao FGF2 convencional. No entanto, o estudo não avaliou a eficácia dessas variantes em modelos animais ou ensaios clínicos, nem forneceu dados sobre a meia-vida in vivo ou possíveis efeitos imunogênicos. Os autores destacam que, apesar do potencial terapêutico, a aplicação clínica desses variantes ainda depende de validações adicionais, incluindo estudos de toxicidade e escalabilidade de produção.\n\nAs limitações incluem a ausência de caracterização detalhada das propriedades físico-químicas das variantes e a falta de comparação direta com outras abordagens de estabilização de FGF2 já descritas na literatura. Como próximos passos, os pesquisadores sugerem investigar a farmacodinâmica e farmacocinética dessas proteínas em sistemas biológicos complexos, bem como explorar sua aplicação em terapias baseadas em células-tronco ou engenharia de tecidos.\n\n---\n\n**Version in English**\n\nResearchers have engineered fibroblast growth factor 2 (FGF2) variants with unprecedented thermal stability and optimized extracellular matrix interactions, addressing a long-standing challenge in overcoming the rapid thermal degradation of this protein at physiological temperatures. The study, published in *BMC Systems Biology*, employed a combination of consensus sequence analysis and structure-guided protein engineering to create FGF2 analogs with improved pharmacokinetic properties. While the authors did not disclose the specific mutations introduced, they report that the stabilized variants retained biological activity while exhibiting significantly higher thermal resistance compared to the wild-type protein.\n\nIn vitro experiments demonstrated that the engineered variants enhanced cell growth, metabolism, and survival in stem cell maintenance and tissue regeneration models more effectively than conventional FGF2. However, the study did not evaluate the efficacy of these variants in animal models or clinical trials, nor did it provide data on in vivo half-life or potential immunogenic effects. The authors emphasize that, despite the therapeutic potential, clinical application of these variants requires further validation, including toxicity studies and scalability assessments.\n\nKey limitations include the lack of detailed characterization of the physicochemical properties of the variants and no direct comparison with other FGF2 stabilization strategies reported in the literature. Future directions suggested by the researchers involve investigating the pharmacodynamics and pharmacokinetics of these proteins in complex biological systems, as well as exploring their application in stem cell-based therapies or tissue engineering.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42387574",
+    "authors": [
+      {
+        "name": "Karolina Baran",
+        "affiliation": "Department of Protein Engineering, Faculty of Biotechnology, University of Wroclaw, Wroclaw, 50-383, Poland."
+      },
+      {
+        "name": "Adolf Koudelka",
+        "affiliation": "Department of Biology, Faculty of Medicine, Masaryk University, Brno, 62500, Czech Republic."
+      },
+      {
+        "name": "Katarzyna Kotowska",
+        "affiliation": "Department of Protein Engineering, Faculty of Biotechnology, University of Wroclaw, Wroclaw, 50-383, Poland."
+      },
+      {
+        "name": "Aleksandra A Czyrek",
+        "affiliation": "Department of Biology, Faculty of Medicine, Masaryk University, Brno, 62500, Czech Republic."
+      }
+    ],
+    "journal": "Journal of biological engineering",
+    "publishedDate": "2026-07-02",
+    "fetchedDate": "2026-07-02",
+    "category": "Genômica",
+    "tags": [
+      "gene",
+      "mutation",
+      "therapeutic"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42386296",
     "pmid": "42386296",
     "doi": "10.1136/bmjopen-2026-120083",
@@ -212,7 +255,7 @@
       "immunotherapy",
       "clinical trial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12590,37 +12633,5 @@
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-40241434",
-    "pmid": "40241434",
-    "doi": "10.1097/JCN.0000000000001219",
-    "title": "Impact of Routine Postoperative Care Versus Nurse-Led Lifestyle Interventions on Patient Outcomes After Radiofrequency Ablation: A Randomized Controlled Trial.",
-    "titlePt": "Impact of Routine Postoperative Care Versus Nurse-Led Lifestyle Interventions on Patient Outcomes After Radiofrequency Ablation: A Randomized Controlled Trial.",
-    "abstract": "Paroxysmal atrial fibrillation (AF) is a common arrhythmia associated with significant morbidity. Radiofrequency ablation (RFA) is a widely used treatment, but postoperative complications and recurrence remain concerns. Nurse-led lifestyle interventions have been proposed as a strategy to improve patient outcomes after RFA. The objective of this randomized controlled trial was to compare the effects of routine (usual) care versus a nurse-led lifestyle intervention on postoperative outcomes in patients undergoing RFA for paroxysmal AF. A total of 160 patients undergoing RFA for paroxysmal AF were randomly assigned in a 1:1 ratio to either the intervention group or the usual-care group. The intervention group received tailored lifestyle interventions managed by a nurse-led multidisciplinary team, focusing on exercise, diet, medication adherence, and psychological support. The usual-care group received standard postoperative care. The primary outcomes were quality of life (Short Form-36 s",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40241434",
-    "authors": [
-      {
-        "name": "Fan Yang",
-        "affiliation": "Fan Yang, BM, Nurse Practitioner, Department of Cardiology, West China Hospital, Sichuan University Sichuan University, Chengdu, China."
-      },
-      {
-        "name": "Yao Wu",
-        "affiliation": "Yao Wu, BM, Nurse Practitioner, Department of Emergency Medicine, West China Hospital, Sichuan University, Chengdu, China."
-      }
-    ],
-    "journal": "The Journal of cardiovascular nursing",
-    "publishedDate": "2026-04-10",
-    "fetchedDate": "2026-04-14",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "psychological"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": false
   }
 ]
