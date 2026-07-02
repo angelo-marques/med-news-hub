@@ -1,5 +1,91 @@
 [
   {
+    "id": "pubmed-42388021",
+    "pmid": "42388021",
+    "doi": "10.1158/0008-5472.CAN-26-1788",
+    "title": "Forging New Pathways in Oncology: Strategic Insights from the 17th Annual Frontiers in Cancer Science Conference.",
+    "titlePt": "Forging New Pathways in Oncology: Strategic Insights from the 17th Annual Frontiers in Cancer Science Conference.",
+    "abstract": "The 17th Annual Frontiers in Cancer Science (FCS) conference (2025) highlighted the convergence of multiomics, computational biology, and ancestry-specific genomics to advance proactive cancer care. Key insights included the role of epigenetic plasticity in maintaining tumor-propagating states and the identification of metabolic vulnerabilities, such as the WNK1-mTORC1 axis in leukemia and MAF-driven glutamine metabolism in myeloma. The meeting underscored the systemic nature of cancer, detailing how \"cancer-educated\" neutrophils prime premetastatic niches and how spatial exclusion mechanisms hinder immunotherapy. Breakthroughs in therapeutic engineering were showcased, including CD7-directed chimeric antigen receptor T cells and irreversible KRASG12C inhibitors. A critical focus remained on precision oncology for diverse populations, advocating for ancestry-aware datasets and long-read sequencing to address genomic disparities in Asian cohorts. Furthermore, the integration of artifici",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nA 17ª edição do *Frontiers in Cancer Science* (FCS 2025), realizada em outubro, reuniu pesquisadores de ponta para discutir os avanços mais recentes na oncologia, com ênfase na integração de multiômica, biologia computacional e genômica ancestrais como pilares para uma abordagem proativa no tratamento do câncer. Entre os principais destaques, a plasticidade epigenética emergiu como um fator crítico na manutenção de estados tumorais propagadores, enquanto vulnerabilidades metabólicas específicas — como a ativação da via WNK1-mTORC1 em leucemias e o metabolismo de glutamina mediado por MAF em mielomas — foram identificadas como potenciais alvos terapêuticos. A conferência também aprofundou a compreensão do câncer como um fenômeno sistêmico, demonstrando como neutrófilos \"educados pelo câncer\" preparam nichos pré-metastáticos e como mecanismos de exclusão espacial limitam a eficácia da imunoterapia.\n\nNo campo da engenharia terapêutica, avanços significativos foram apresentados, incluindo o desenvolvimento de células T com receptor de antígeno quimérico (CAR-T) direcionadas a CD7 para o tratamento de leucemias T e inibidores irreversíveis de KRASG12C, que prometem superar resistências observadas em terapias prévias. Um tema recorrente foi a necessidade de uma oncologia de precisão inclusiva, com ênfase em conjuntos de dados cientes de ancestralidade e na adoção de sequenciamento de leitura longa para mitigar disparidades genômicas, especialmente em populações asiáticas. Embora o evento tenha enfatizado o potencial transformador dessas abordagens, os especialistas alertaram para lacunas persistentes, como a falta de padronização em protocolos de multiômica e a necessidade de validação clínica robusta em coortes diversificadas.\n\nOs próximos passos delineados incluem a expansão de estudos clínicos focados em terapias direcionadas a vias metabólicas e epigenéticas, bem como o desenvolvimento de plataformas computacionais capazes de integrar dados ancestrais em modelos preditivos de resposta ao tratamento. A integração de inteligência artificial foi mencionada como uma ferramenta promissora, embora ainda não tenha sido detalhada em relação a aplicações específicas. O encontro reforçou que, apesar dos progressos, a tradução desses achados para a prática clínica exigirá colaborações interdisciplinares e investimentos contínuos em infraestrutura de dados.\n\n---\n\n**English version**\n\nThe 17th *Frontiers in Cancer Science* (FCS 2025) conference, held in October, brought together leading researchers to explore cutting-edge developments in oncology, with a focus on integrating multiomics, computational biology, and ancestry-aware genomics as cornerstones for proactive cancer care. Among the key insights, epigenetic plasticity was highlighted as a critical driver of tumor-propagating states, while disease-specific metabolic vulnerabilities—such as the WNK1-mTORC1 axis in leukemia and MAF-driven glutamine metabolism in myeloma—were identified as promising therapeutic targets. The event also deepened the understanding of cancer as a systemic process, demonstrating how \"cancer-educated\" neutrophils prime premetastatic niches and how spatial exclusion mechanisms undermine immunotherapy efficacy.\n\nIn the realm of therapeutic engineering, significant breakthroughs were presented, including the development of CD7-directed chimeric antigen receptor T (CAR-T) cells for T-cell leukemias and irreversible KRASG12C inhibitors designed to overcome resistance seen in earlier therapies. A recurring theme was the push for inclusive precision oncology, emphasizing ancestry-aware datasets and long-read sequencing to address genomic disparities, particularly in Asian populations. While the conference underscored the transformative potential of these approaches, experts cautioned about persistent challenges, such as the lack of standardized multiomics protocols and the need for rigorous clinical validation in diverse cohorts.\n\nFuture directions outlined at the meeting include expanding clinical trials targeting metabolic and epigenetic pathways, as well as developing computational platforms capable of integrating ancestry data into predictive treatment response models. Artificial intelligence was referenced as a promising tool, though specific applications were not detailed. The conference reinforced that, despite progress, translating these findings into clinical practice will require sustained interdisciplinary collaboration and investment in data infrastructure.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42388021",
+    "authors": [
+      {
+        "name": "Dachuan Huang",
+        "affiliation": "Lymphoma Translational Research Laboratory, Division of Cellular and Molecular Research, National Cancer Centre, Singapore, Singapore.https://ror.org/0025ww868"
+      },
+      {
+        "name": "Wee Wei Tee",
+        "affiliation": "SingHealth Duke-NUS Oncology Academic Clinical Programme, Duke-NUS Medical School, Singapore, Singapore.https://ror.org/02j1m6098"
+      },
+      {
+        "name": "Sanjay De Mel",
+        "affiliation": "Institute of Molecular and Cell Biology , A*STAR Research Entities, Singapore, Singapore.https://ror.org/04xpsrn94"
+      },
+      {
+        "name": "Koji Itahana",
+        "affiliation": "Department of Physiology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore.https://ror.org/01tgyzw49"
+      }
+    ],
+    "journal": "Cancer research",
+    "publishedDate": "2026-07-02",
+    "fetchedDate": "2026-07-02",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "oncology",
+      "leukemia",
+      "immunotherapy"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42387943",
+    "pmid": "42387943",
+    "doi": "10.1111/jog.70393",
+    "title": "Association Between Serum Vitamin D Levels and Insulin Resistance in Women With Polycystic Ovary Syndrome: A Systematic Review and Meta-Analysis.",
+    "titlePt": "Association Between Serum Vitamin D Levels and Insulin Resistance in Women With Polycystic Ovary Syndrome: A Systematic Review and Meta-Analysis.",
+    "abstract": "Vitamin D deficiency has been proposed as a potential contributor to insulin resistance (IR) in polycystic ovary syndrome (PCOS); however, the evidence remains inconclusive. This meta-analysis evaluated the association between serum 25-hydroxyvitamin D [25(OH)D] and IR in PCOS. We systematically searched PubMed, Embase, Web of Science, and Cochrane Library up to December 2025 for observational studies reporting correlations of 25(OH)D with IR indices (HOMA-IR/fasting insulin) in women with PCOS. Pooled correlation coefficients (r) with 95% confidence intervals (CI) were calculated using random-effects models. Fourteen studies involving 1856 women with PCOS were included. A significant inverse correlation was found between serum 25(OH)D and IR (pooled r&#x2009;=&#x2009;-0.32, 95% CI: -0.40 to -0.23; p&#x2009;&lt;&#x2009;0.001; I2&#x2009;=&#x2009;58%). Subgroup analyses revealed stronger associations in overweight/obese women (r&#x2009;=&#x2009;-0.35) and in Asian populations (r&#x2009;=",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recém-publicado na *Journal of Obstetrics and Gynaecology* reforça a hipótese de que níveis séricos reduzidos de vitamina D estão associados à resistência à insulina em mulheres com síndrome dos ovários policísticos (SOP). A meta-análise, que incluiu 14 estudos envolvendo 1.856 participantes, identificou uma correlação inversa significativa entre os níveis de 25-hidroxivitamina D [25(OH)D] e marcadores de resistência insulínica, como o HOMA-IR e a insulina de jejum. Os dados, analisados por modelos de efeitos aleatórios, revelaram um coeficiente de correlação agrupado de -0,32 (IC 95%: -0,40 a -0,23; *p* < 0,001), indicando que, quanto menores os níveis de vitamina D, maior a resistência à insulina nessa população.\n\nOs achados foram consistentes em subgrupos específicos: mulheres com sobrepeso ou obesidade apresentaram uma correlação ainda mais forte (r = -0,35), assim como as participantes de origem asiática (r = -0,37). Embora o estudo não tenha avaliado causalidade, os resultados sugerem que a deficiência de vitamina D possa ser um fator agravante no perfil metabólico de pacientes com SOP, condição já reconhecida por sua complexa inter-relação entre distúrbios endócrinos e metabólicos. Os autores destacam que a heterogeneidade entre os estudos (I² = 58%) e a ausência de padronização nos métodos de dosagem de vitamina D limitam a generalização dos achados.\n\nDo ponto de vista clínico, a identificação desse padrão reforça a importância da avaliação dos níveis de vitamina D em mulheres com SOP, especialmente naquelas com sobrepeso ou resistência insulínica comprovada. A suplementação de vitamina D emerge como uma estratégia potencialmente adjuvante, embora os protocolos de dosagem e a eficácia a longo prazo ainda necessitem de estudos randomizados controlados para serem validados. Além disso, a investigação de mecanismos fisiopatológicos subjacentes — como a modulação da sensibilidade à insulina por vias dependentes ou independentes de vitamina D — permanece como uma lacuna a ser explorada em pesquisas futuras.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Obstetrics and Gynaecology* provides further evidence linking low serum vitamin D levels to insulin resistance in women with polycystic ovary syndrome (PCOS). The meta-analysis, which included 14 studies involving 1,856 participants, found a significant inverse correlation between 25-hydroxyvitamin D [25(OH)D] levels and insulin resistance markers such as HOMA-IR and fasting insulin. Using random-effects models, the pooled correlation coefficient was -0.32 (95% CI: -0.40 to -0.23; *p* < 0.001), suggesting that lower vitamin D levels are associated with higher insulin resistance in this population.\n\nThe findings remained consistent across subgroups: overweight/obese women showed a stronger correlation (r = -0.35), as did participants from Asian populations (r = -0.37). While causality was not assessed, the results imply that vitamin D deficiency may exacerbate the metabolic profile in PCOS, a condition already characterized by intricate endocrine-metabolic interactions. The authors note that heterogeneity among studies (I² = 58%) and lack of standardized vitamin D measurement methods limit the generalizability of the findings.\n\nFrom a clinical perspective, these results underscore the relevance of assessing vitamin D levels in women with PCOS, particularly those with overweight or confirmed insulin resistance. Vitamin D supplementation emerges as a potentially beneficial adjunctive strategy, though optimal dosing regimens and long-term efficacy require validation through randomized controlled trials. Further research is also needed to elucidate underlying pathophysiological mechanisms—whether vitamin D directly modulates insulin sensitivity or acts through independent pathways—remains a critical unaddressed question.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42387943",
+    "authors": [
+      {
+        "name": "Qingmin Guo",
+        "affiliation": "Department of Obstetrics and Gynecology, Qinghai Provincial People's Hospital, Xining, Qinghai, China."
+      },
+      {
+        "name": "Ruiting Du",
+        "affiliation": "Department of Obstetrics and Gynecology, Qinghai Provincial People's Hospital, Xining, Qinghai, China."
+      },
+      {
+        "name": "Chunming Guo",
+        "affiliation": "Department of Acupuncture and Massage, Xining Hospital of Traditional Chinese Medicine, Xining, Qinghai, China."
+      },
+      {
+        "name": "Shujuan Ma",
+        "affiliation": "Department of Obstetrics and Gynecology, Qinghai Provincial People's Hospital, Xining, Qinghai, China."
+      }
+    ],
+    "journal": "The journal of obstetrics and gynaecology research",
+    "publishedDate": "2026-07-02",
+    "fetchedDate": "2026-07-02",
+    "category": "Endocrinologia",
+    "tags": [
+      "insulin"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42387574",
     "pmid": "42387574",
     "doi": "10.1186/s13036-026-00723-z",
@@ -166,7 +252,7 @@
       "hiv",
       "drug"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -210,7 +296,7 @@
       "drug",
       "therapeutic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12550,87 +12636,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41965254",
-    "pmid": "41965254",
-    "doi": "10.1093/ageing/afag080",
-    "title": "Treatment-modifying effects of frailty on stroke reperfusion therapy outcomes: a systematic review and meta-analysis.",
-    "titlePt": "Treatment-modifying effects of frailty on stroke reperfusion therapy outcomes: a systematic review and meta-analysis.",
-    "abstract": "Frailty is common amongst individuals presenting with acute ischaemic stroke (AIS). Not only has frailty been found to have disease-modifying effects in terms of survival and disability after AIS, but it may also exert a treatment-modifying effect in reperfusion therapies. However, studies investigating this to date have frequently been of limited sample size, highlighting the potential for meta-analysis to definitively establish any treatment-modifying effect. We investigate the effect of pre-stroke frailty on morbidity and mortality outcomes following reperfusion treatment (thrombectomy and thrombolysis) for AIS. A systematic review was performed according to Preferred Reporting of Items in Systematic Reviews and Meta-Analyses guidelines, via searching the EMBASE, PubMed, Scopus and Web of Science databases up to August 2025. We identified 11 relevant studies with 194,699 participants. Overall, the prevalence of frailty was 37.2% [frail (n&#x2009;=&#x2009;72,311), non-frail (122,096)",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41965254",
-    "authors": [
-      {
-        "name": "Anakha Varma",
-        "affiliation": "Department of Clinical Neurosciences, University of Cambridge, Cambridge, England, United Kingdom of Great Britain and Northern Ireland."
-      },
-      {
-        "name": "Shiv Bhakta",
-        "affiliation": "Department of Clinical Neurosciences, University of Cambridge, Cambridge, England, United Kingdom of Great Britain and Northern Ireland."
-      },
-      {
-        "name": "Esmee Dohle",
-        "affiliation": "Department of Clinical Neurosciences, University of Cambridge, Cambridge, England, United Kingdom of Great Britain and Northern Ireland."
-      },
-      {
-        "name": "Elizabeth Warburton",
-        "affiliation": "Department of Clinical Neurosciences, University of Cambridge, Cambridge, England, United Kingdom of Great Britain and Northern Ireland."
-      }
-    ],
-    "journal": "Age and ageing",
-    "publishedDate": "2026-04-11",
-    "fetchedDate": "2026-04-14",
-    "category": "Neurologia",
-    "tags": [
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41881125",
-    "pmid": "41881125",
-    "doi": "10.1016/j.jad.2026.121677",
-    "title": "Sustained tic reduction through behavioural therapy in children and adolescents with Tourette syndrome: A meta-analysis with implications for affective health.",
-    "titlePt": "Sustained tic reduction through behavioural therapy in children and adolescents with Tourette syndrome: A meta-analysis with implications for affective health.",
-    "abstract": "Behavioural therapy (BT) alleviates tic symptoms in patients with Tourette syndrome/chronic tic disorder (TS/CTD). TS/CTD is often associated with emotional dysregulation, anxiety, and depressive symptoms, substantially impairing quality of life. Nevertheless, the specific effects of BT on tic symptoms in children and adolescents with TS/CTD, including persistence and follow-up outcomes, remain unclear. Tic symptoms in children with TS/CTD are often assessed using the Yale Global Tic Severity Scale (YGTSS) and the Parent Tic Questionnaire (PTQ)-when combined, these tools mitigate subjective biases and enhance assessment objectivity. This meta-analysis aimed to systematically review randomised controlled trials evaluating the impact of BT on tic symptoms in children and adolescents with TS/CTD and to examine longitudinal outcomes. We systematically searched multiple databases for articles published up to May 2025 and screened their reference lists. The standardised mean difference (SMD)",
-    "journalisticSummary": "A terapia comportamental (TC) tem demonstrado ser eficaz no alívio dos sintomas de tiques em pacientes com síndrome de Tourette ou transtorno de tiques crônicos (TS/CTD). Essa condição frequentemente está associada a distúrbios emocionais, ansiedade e sintomas depressivos, o que pode substancialmente comprometer a qualidade de vida. No entanto, os efeitos específicos da TC nos sintomas de tiques em crianças e adolescentes com TS/CTD, incluindo a persistência e os resultados de acompanhamento, permanecem pouco claros. Os sintomas de tiques em crianças com TS/CTD são frequentemente avaliados utilizando a Escala de Severidade de Tiques Global de Yale (YGTSS) e o Questionário de Tiques para Pais (PTQ), ferramentas que, quando combinadas, mitigam vieses subjetivos e aumentam a objetividade da avaliação.\n\nEsta metanálise teve como objetivo revisar sistematicamente os ensaios clínicos randomizados que avaliam o impacto da TC nos sintomas de tiques em crianças e adolescentes com TS/CTD e examinar os resultados longitudinais. Foram realizadas buscas sistemáticas em várias bases de dados por artigos publicados até maio de 2025, e suas listas de referências foram verificadas. A diferença média padronizada (SMD) foi utilizada para medir o tamanho do efeito da TC nos sintomas de tiques. Embora os resultados específicos não tenham sido informados no resumo original, a realização dessa metanálise sugere um esforço para entender melhor os benefícios da TC para os pacientes com TS/CTD.\n\nO impacto clínico da TC nos sintomas de tiques em crianças e adolescentes com TS/CTD pode ser significativo, considerando a associação entre esses sintomas e a deterioração da qualidade de vida. A redução sustentada dos sintomas de tiques pode levar a melhorias na regulação emocional, redução da ansiedade e dos sintomas depressivos, resultando em uma melhoria geral na saúde afetiva. No entanto, as limitações deste estudo, como a falta de detalhes sobre os resultados específicos e a generalização dos achados para outras populações, devem ser consideradas. Próximos passos podem incluir a realização de mais estudos para explorar a eficácia da TC em diferentes contextos e populações, bem como a investigação de combinações de terapias para otimizar os resultados para os pacientes com TS/CTD.\n\nA terapia comportamental (TC) tem demonstrado ser uma abordagem promissora para o tratamento de crianças e adolescentes com síndrome de Tourette ou transtorno de tiques crônicos. Com a continuação dos estudos e a expansão do conhecimento sobre os efeitos da TC, é possível que mais pacientes possam se beneficiar dessa abordagem terapêutica, melhorando sua qualidade de vida e reduzindo o impacto dos sintomas de tiques em sua saúde afetiva.\n\nThe behavioural therapy (BT) has proven to be effective in alleviating tic symptoms in patients with Tourette syndrome or chronic tic disorder (TS/CTD). This condition is often associated with emotional dysregulation, anxiety, and depressive symptoms, substantially impairing quality of life. However, the specific effects of BT on tic symptoms in children and adolescents with TS/CTD, including persistence and follow-up outcomes, remain unclear. Tic symptoms in children with TS/CTD are often assessed using the Yale Global Tic Severity Scale (YGTSS) and the Parent Tic Questionnaire (PTQ), tools that, when combined, mitigate subjective biases and enhance assessment objectivity.\n\nThis meta-analysis aimed to systematically review randomised controlled trials evaluating the impact of BT on tic symptoms in children and adolescents with TS/CTD and to examine longitudinal outcomes. Systematic searches were conducted in multiple databases for articles published up to May 2025, and their reference lists were screened. The standardised mean difference (SMD) was used to measure the effect size of BT on tic symptoms. Although specific results were not reported in the original abstract, the conduct of this meta-analysis suggests an effort to better understand the benefits of BT for patients with TS/CTD.\n\nThe clinical impact of BT on tic symptoms in children and adolescents with TS/CTD may be significant, considering the association between these symptoms and the deterioration of quality of life. Sustained reduction in tic symptoms may lead to improvements in emotional regulation, reduction in anxiety and depressive symptoms, resulting in an overall improvement in affective health. However, the limitations of this study, such as the lack of specific results and the generalisation of findings to other populations, should be considered. Next steps may include conducting further studies to explore the efficacy of BT in different contexts and populations, as well as investigating combinations of therapies to optimise outcomes for patients with TS/CTD.\n\nBehavioural therapy (BT) has demonstrated promise as an approach for treating children and adolescents with Tourette syndrome or chronic tic disorder. With the continuation of studies and the expansion of knowledge about the effects of BT, it is possible that more patients may benefit from this therapeutic approach, improving their quality of life and reducing the impact of tic symptoms on their affective health.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41881125",
-    "authors": [
-      {
-        "name": "Xiao-Rui You",
-        "affiliation": "Shenzhen Traditional Chinese Medicine Hospital, Guangdong Province, China; The fourth Clinical Medical College of Guangzhou University of Chinese Medicine, Shenzhen, Guangdong Province, China."
-      },
-      {
-        "name": "Wen-Hua Cai",
-        "affiliation": "Shenzhen Traditional Chinese Medicine Hospital, Guangdong Province, China; The fourth Clinical Medical College of Guangzhou University of Chinese Medicine, Shenzhen, Guangdong Province, China."
-      },
-      {
-        "name": "Yu-Ting Yang",
-        "affiliation": "Shenzhen Traditional Chinese Medicine Hospital, Guangdong Province, China; The fourth Clinical Medical College of Guangzhou University of Chinese Medicine, Shenzhen, Guangdong Province, China."
-      },
-      {
-        "name": "Yan Li",
-        "affiliation": "Suzhou Hospital of Traditional Chinese Medicine, Suzhou, Jiangsu Province, China."
-      }
-    ],
-    "journal": "Journal of affective disorders",
-    "publishedDate": "2026-04-10",
-    "fetchedDate": "2026-04-16",
-    "category": "Saúde Mental",
-    "tags": [
-      "anxiety",
-      "children"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
