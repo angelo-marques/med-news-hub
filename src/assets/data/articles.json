@@ -1,5 +1,85 @@
 [
   {
+    "id": "pubmed-42036829",
+    "pmid": "42036829",
+    "doi": "10.1111/ejh.70206",
+    "title": "Cardiovascular Complications in Hemoglobinopathies: Pathophysiology, Clinical Spectrum, and Management.",
+    "titlePt": "Cardiovascular Complications in Hemoglobinopathies: Pathophysiology, Clinical Spectrum, and Management.",
+    "abstract": "Sickle cell disease and thalassemia syndromes are increasingly recognized as chronic multisystem disorders, with cardiovascular (CV) sequelae representing a significant proportion of long-term morbidity and mortality. Survival has improved considerably due to better transfusion practice, the administration of iron chelation, and disease-modifying treatments; a broad and expanding phenotypic spectrum of cardiac and vascular manifestations is being recognized. These include cardiomyopathy, heart failure, pulmonary hypertension, arrhythmias, microvascular ischemia, and functional valvular disease, often resulting insidiously and progressing over time. CV pathogenesis of hemoglobinopathies is complex and heterogeneous. Chronic anemia induces a long-lasting high-output circulatory state, while iron overload related to transfusion produces myocardial siderosis, oxidative damage, and electrical instability in particular in transfusion-dependent thalassemia. Moreover, hemolysis-mediated endoth",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nDoenças como a anemia falciforme e as síndromes talassêmicas, tradicionalmente vistas como distúrbios hematológicos, apresentam crescente reconhecimento como condições crônicas e multissistêmicas, cuja morbidade e mortalidade em longo prazo estão fortemente associadas a complicações cardiovasculares. Com avanços no tratamento — como transfusões mais seguras, quelação de ferro e terapias modificadoras da doença —, a sobrevida dos pacientes melhorou significativamente, mas isso também revelou um espectro fenotípico mais amplo e diversificado de manifestações cardíacas e vasculares, que muitas vezes se desenvolvem de forma insidiosa e progressiva.\n\nEntre as principais complicações cardiovasculares destacam-se cardiomiopatia, insuficiência cardíaca, hipertensão pulmonar, arritmias, isquemia microvascular e doenças valvares funcionais. A fisiopatologia subjacente é complexa e heterogênea: a anemia crônica induz um estado circulatório de alto débito, enquanto a sobrecarga de ferro decorrente de transfusões frequentes leva à siderose miocárdica, dano oxidativo e instabilidade elétrica, especialmente na talassemia dependente de transfusão. Além disso, a hemólise contribui para disfunção endotelial e inflamação vascular, agravando o risco de eventos clínicos. Embora o manejo dessas condições tenha evoluído com abordagens multidisciplinares, incluindo monitoramento cardíaco regular e estratégias de quelação personalizadas, ainda há lacunas no entendimento da progressão individual e na padronização de protocolos terapêuticos ideais. Estudos futuros devem priorizar a identificação de biomarcadores preditivos e o desenvolvimento de intervenções precoces para mitigar o impacto dessas complicações, que permanecem como principais causas de óbito nessa população.\n\n---\n\n**English version**\n\nConditions such as sickle cell disease and thalassemia syndromes, long regarded as hematological disorders, are increasingly recognized as chronic, multisystem illnesses in which long-term morbidity and mortality are strongly linked to cardiovascular complications. Advances in treatment—including safer transfusion practices, iron chelation, and disease-modifying therapies—have significantly improved patient survival, but they have also revealed a broader and more diverse spectrum of cardiac and vascular manifestations that often develop insidiously and progress over time.\n\nKey cardiovascular complications include cardiomyopathy, heart failure, pulmonary hypertension, arrhythmias, microvascular ischemia, and functional valvular disease. The underlying pathophysiology is complex and heterogeneous: chronic anemia induces a sustained high-output circulatory state, while iron overload from frequent transfusions leads to myocardial siderosis, oxidative damage, and electrical instability, particularly in transfusion-dependent thalassemia. Hemolysis further contributes to endothelial dysfunction and vascular inflammation, compounding the risk of clinical events. While management has evolved through multidisciplinary approaches—including regular cardiac monitoring and tailored chelation strategies—gaps remain in understanding individual disease progression and standardizing optimal therapeutic protocols. Future research should prioritize the identification of predictive biomarkers and the development of early interventions to mitigate the impact of these complications, which remain leading causes of death in this population.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42036829",
+    "authors": [
+      {
+        "name": "Daniel Bradach",
+        "affiliation": "St. George's University School of Medicine, University Center Grenada, Grenada, West Indies."
+      },
+      {
+        "name": "Karla Calderon Salavarria",
+        "affiliation": "Catholic University Santiago of Guayaquil, Guayaquil, Ecuador."
+      },
+      {
+        "name": "Santiago Diaz-Arribasplata",
+        "affiliation": "Faculty of Health Sciences, Peruvian University of Applied Sciences (UPC), Lima, Peru."
+      },
+      {
+        "name": "Rahaf Saliem Ibraheem Almahdi",
+        "affiliation": "Faculty of Medicine, Albalqa Applied University, Albalqa, Jordan."
+      }
+    ],
+    "journal": "European journal of haematology",
+    "publishedDate": "2026-07-02",
+    "fetchedDate": "2026-07-02",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "cardiovascular",
+      "heart",
+      "myocardial",
+      "hypertension"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42390621",
+    "pmid": "42390621",
+    "doi": "10.1007/s11011-026-01910-z",
+    "title": "Supra-additive neuroprotective effects of berberine-metformin combination in diabetic encephalopathy: Chou-Talalay synergy quantification, AMPK-Nrf2 axis modulation, and pharmacokinetic verification.",
+    "titlePt": "Supra-additive neuroprotective effects of berberine-metformin combination in diabetic encephalopathy: Chou-Talalay synergy quantification, AMPK-Nrf2 axis modulation, and pharmacokinetic verification.",
+    "abstract": "Type 2 diabetes mellitus (T2DM) increases the risk of hippocampal neurodegeneration and cognitive decline. Berberine and metformin independently activate AMPK and may engage Nrf2-mediated antioxidant defenses, yet their combined neuroprotective interaction has not been formally quantified using validated synergy frameworks, nor has its pharmacokinetic basis been verified. Streptozotocin-nicotinamide diabetic rats were allocated to twelve groups (n&#x2009;=&#x2009;13/group) receiving berberine (50, 100, 150&#xa0;mg/kg/day) or metformin (100, 200, 300&#xa0;mg/kg/day) monotherapy, fixed-ratio 1:2 combinations, or vehicle controls (including a non-diabetic combination group) orally for six weeks. The novel object recognition (NOR) discrimination index served as the predefined primary endpoint for Chou-Talalay combination index (CI) analysis. Hippocampal mechanistic (n&#x2009;=&#x2009;6/group) and satellite LC-MS/MS pharmacokinetic (n&#x2009;=&#x2009;6/group) analyses were performed. Diabet",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Metabolic Brain Disease* investigou os efeitos neuroprotetores sinérgicos da combinação de berberina e metformina em modelos de encefalopatia diabética. Pesquisadores avaliaram, pela primeira vez com metodologia padronizada (análise de sinergia de Chou-Talalay), se a associação dessas substâncias — que atuam via ativação da AMPK e vias antioxidantes mediadas por Nrf2 — poderia oferecer proteção superior à monoterapia contra a neurodegeneração hipocampal induzida por diabetes tipo 2 (T2DM).\n\nNo experimento, ratos diabéticos induzidos por estreptozotocina- nicotinamida foram divididos em 12 grupos (n=13/grupo) e tratados por seis semanas com doses variadas de berberine (50, 100 ou 150 mg/kg/dia) ou metformina (100, 200 ou 300 mg/kg/dia), isoladamente ou em combinação fixa na proporção 1:2. O desfecho primário foi o índice de discriminação no teste de reconhecimento de objetos novos (NOR), usado para quantificar a sinergia por meio do *combination index* (CI). Além disso, foram realizadas análises mecânicas em tecido hipocampal (n=6/grupo) e estudos farmacocinéticos por LC-MS/MS (n=6/grupo), incluindo um grupo controle não diabético para comparação.\n\nOs resultados demonstraram que a combinação berberine-metformina apresentou efeitos *supra-aditivos* (CI < 1) na melhora da função cognitiva, superando os benefícios observados com as monoterapias. A análise do eixo AMPK-Nrf2 revelou um aumento significativo na expressão de proteínas antioxidantes e redução de marcadores de estresse oxidativo no hipocampo. Os dados farmacocinéticos sugeriram que a combinação não alterou adversamente a absorção ou metabolismo individual dos fármacos, embora não tenham sido fornecidos valores específicos de biodisponibilidade ou meia-vida no estudo.\n\nEmbora promissores, os achados são preliminares e limitados ao modelo animal, exigindo validação em ensaios clínicos humanos para confirmar a segurança, eficácia e posologia ideal. Além disso, não foram relatados dados sobre possíveis interações medicamentosas em humanos nem avaliações de longo prazo. Futuras pesquisas devem explorar mecanismos adicionais de neuroproteção e o potencial da combinação em outras complicações diabéticas neurodegenerativas.\n\n**English version**\n\nA recent study published in *Metabolic Brain Disease* examined the synergistic neuroprotective effects of berberine and metformin in diabetic encephalopathy models. For the first time, researchers applied the validated Chou-Talalay synergy framework to quantify whether the combination of these compounds—both known to activate AMPK and Nrf2-mediated antioxidant pathways—could provide superior protection against hippocampal neurodegeneration in type 2 diabetes (T2DM) compared to monotherapy.\n\nIn the experiment, streptozotocin-nicotinamide-induced diabetic rats were divided into 12 groups (n=13/group) and treated for six weeks with varying doses of berberine (50, 100, or 150 mg/kg/day) or metformin (100, 200, or 300 mg/kg/day), either alone or in a fixed 1:2 combination ratio. The primary endpoint was the novel object recognition (NOR) discrimination index, used to calculate the combination index (CI) for synergy quantification. Additional analyses included hippocampal mechanistic assessments (n=6/group) and LC-MS/MS pharmacokinetic studies (n=6/group), with a non-diabetic combination group included for comparison.\n\nThe findings revealed *supra-additive* effects (CI < 1) of the berberine-metformin combination in improving cognitive function, outperforming both monotherapies. Mechanistic analysis of the AMPK-Nrf2 axis showed significantly increased antioxidant protein expression and reduced oxidative stress markers in the hippocampus. Pharmacokinetic data suggested that the combination did not adversely affect individual drug absorption or metabolism, though specific bioavailability or half-life values were not reported in the study.\n\nWhile promising, these results remain preclinical and require validation in human clinical trials to confirm safety, efficacy, and optimal dosing. The study did not report data on potential drug-drug interactions in humans or long-term outcomes. Future research should investigate additional neuroprotective mechanisms and the combination’s potential in other neurodegenerative diabetic complications.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42390621",
+    "authors": [
+      {
+        "name": "Wessam M Filfilan",
+        "affiliation": "Department of Biology, Jamoum University College, Umm Al-Qura University, 21955, Makkah, Saudi Arabia."
+      },
+      {
+        "name": "Mohamed E Elbeeh",
+        "affiliation": "Department of Biology, Jamoum University College, Umm Al-Qura University, 21955, Makkah, Saudi Arabia. mebeeh@uqu.edu.sa."
+      }
+    ],
+    "journal": "Metabolic brain disease",
+    "publishedDate": "2026-07-02",
+    "fetchedDate": "2026-07-02",
+    "category": "Neurologia",
+    "tags": [
+      "cognitive",
+      "gene",
+      "diabetes"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42388021",
     "pmid": "42388021",
     "doi": "10.1158/0008-5472.CAN-26-1788",
@@ -168,7 +248,7 @@
       "coronary",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -210,7 +290,7 @@
       "endocrine",
       "metabolic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12559,84 +12639,5 @@
     "isHighlight": false,
     "readTime": 9,
     "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41072554",
-    "pmid": "41072554",
-    "doi": "10.1016/j.arth.2025.09.056",
-    "title": "The Effect of Body Mass Index on the Efficacy of Semaglutide Use at the Time of Total Knee Arthroplasty.",
-    "titlePt": "The Effect of Body Mass Index on the Efficacy of Semaglutide Use at the Time of Total Knee Arthroplasty.",
-    "abstract": "This study evaluated the impact of semaglutide on postoperative complications following total knee arthroplasty by body mass index (BMI) class. A retrospective analysis of a national claims database was performed for patients undergoing primary total knee arthroplasty for osteoarthritis who had an active semaglutide prescription from January 2010 to April 2023. Patients were divided into nonobese (BMI &lt; 30), obese (BMI 30.0 to 39.9), and morbidly obese (BMI &#x2265; 40) groups. Semaglutide users were propensity score matched to nonusers, yielding nonobese (7,402 versus 36,884), obese (4,034 versus 20,134), and morbidly obese (2,383 versus 11,853). Outcomes included 90-day medical complications, 90-day readmissions, and 90-day and 2-year implant-related complications. Univariate and multivariate regressions compared outcomes within BMI groups. In the nonobese group, semaglutide users had significantly lower odds of deep vein thrombosis (odds ratio (OR) 0.68; 95% confidence interval (",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41072554",
-    "authors": [
-      {
-        "name": "Jacquelyn J Xu",
-        "affiliation": "Department of Orthopaedic Surgery, SUNY Downstate Health Sciences University, Brooklyn, New York."
-      },
-      {
-        "name": "Matthew C Johnson",
-        "affiliation": "Department of Orthopaedic Surgery, Maimonides Medical Center, Brooklyn, New York."
-      },
-      {
-        "name": "Gabriel Lama",
-        "affiliation": "Department of Orthopaedic Surgery, Maimonides Medical Center, Brooklyn, New York."
-      },
-      {
-        "name": "Jacob S Budin",
-        "affiliation": "Department of Orthopaedic Surgery, Maimonides Medical Center, Brooklyn, New York."
-      }
-    ],
-    "journal": "The Journal of arthroplasty",
-    "publishedDate": "2026-04-12",
-    "fetchedDate": "2026-04-14",
-    "category": "Farmacologia",
-    "tags": [],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41762472",
-    "pmid": "41762472",
-    "doi": "10.1016/j.jdiacomp.2026.109305",
-    "title": "Effect of different types of exercise interventions on cardiometabolic risk factors: An umbrella review of systematic reviews and meta-analyses.",
-    "titlePt": "Effect of different types of exercise interventions on cardiometabolic risk factors: An umbrella review of systematic reviews and meta-analyses.",
-    "abstract": "Physical activity (PA) is important for the prevention and management of cardiovascular (CV) disease (CVD). We aim to investigate the effect of different types of exercise on cardiometabolic risk factors in these subjects with CV risk factors but no history of CVD is lacking. PubMed and Scopus databases were searched up to November 2025 for systematic reviews and meta-analyses of randomized controlled trials (RCTs). The population studied referred to adults with at least one CV risk factor. 16 meta-analysis publications were included. Strong evidence for a benefit was found for i) aerobic exercise and waist circumference (WC) reduction compared to control group in males and females with metabolic syndrome [Mean Difference (MD) -3.44 (95% CI -4.81, -2.07) cm, ii) Tai Chi and SBP reduction after &#x2265;6&#xa0;months [MD -8.80 (95% CI -11.28, -6.32) mmHg], DBP reduction after 3&#xa0;months [MD -7.58 (95% CI -8.56, -6.60) mmHg] and after &#x2265;6&#xa0;months of Tai Chi training [MD -4.62",
-    "journalisticSummary": "Estudos recentes destacam a importância da atividade física (AF) na prevenção e manejo da doença cardiovascular (DCV). Um estudo publicado no PubMed, com DOI 10.1016/j.jdiacomp.2026.109305, investigou o efeito de diferentes tipos de exercícios sobre fatores de risco cardiometabólicos em adultos com fatores de risco cardiovascular, mas sem história de DCV. Os pesquisadores realizaram uma revisão sistemática de metanálises publicadas até novembro de 2025, incluindo 16 publicações de metanálises de ensaios clínicos randomizados. Os resultados mostraram evidências fortes de benefícios para a redução da circunferência da cintura (CC) com exercícios aeróbicos em homens e mulheres com síndrome metabólica, com uma diferença média de -3,44 cm (IC 95% -4,81, -2,07). Além disso, o Tai Chi demonstrou ser eficaz na redução da pressão arterial sistólica (PAS) após pelo menos 6 meses de treinamento, com uma diferença média de -8,80 mmHg (IC 95% -11,28, -6,32), e na redução da pressão arterial diastólica (PAD) após 3 meses e após pelo menos 6 meses de treinamento. Esses achados sugerem que diferentes tipos de exercícios podem ter impactos clínicos significativos na redução de fatores de risco cardiometabólicos. No entanto, é importante notar que os estudos incluídos tinham diferentes durações e populações, o que pode limitar a generalização dos resultados. Futuros estudos devem investigar os mecanismos subjacentes aos benefícios observados e explorar a aplicação prática desses achados em programas de prevenção e tratamento de DCV.\n\nRecent studies highlight the importance of physical activity (PA) in the prevention and management of cardiovascular disease (CVD). A study published on PubMed, with DOI 10.1016/j.jdiacomp.2026.109305, investigated the effect of different types of exercise on cardiometabolic risk factors in adults with cardiovascular risk factors, but no history of CVD. The researchers conducted a systematic review of meta-analyses published up to November 2025, including 16 meta-analysis publications of randomized controlled trials. The results showed strong evidence of benefits for waist circumference (WC) reduction with aerobic exercise in men and women with metabolic syndrome, with a mean difference of -3.44 cm (95% CI -4.81, -2.07). Additionally, Tai Chi was found to be effective in reducing systolic blood pressure (SBP) after at least 6 months of training, with a mean difference of -8.80 mmHg (95% CI -11.28, -6.32), and in reducing diastolic blood pressure (DBP) after 3 months and after at least 6 months of training. These findings suggest that different types of exercise can have significant clinical impacts on reducing cardiometabolic risk factors. However, it is important to note that the included studies had different durations and populations, which may limit the generalizability of the results. Future studies should investigate the underlying mechanisms of the observed benefits and explore the practical application of these findings in CVD prevention and treatment programs.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41762472",
-    "authors": [
-      {
-        "name": "Christina Chatzi",
-        "affiliation": "University of Ioannina, Greece. Electronic address: xatzixristina@uoi.gr."
-      },
-      {
-        "name": "Georgios Markozannes",
-        "affiliation": "University of Ioannina, Greece."
-      },
-      {
-        "name": "Evangelia E Ntzani",
-        "affiliation": "University of Ioannina, Greece."
-      },
-      {
-        "name": "Manfredi Rizzo",
-        "affiliation": "University of Ioannina, Greece."
-      }
-    ],
-    "journal": "Journal of diabetes and its complications",
-    "publishedDate": "2026-04-11",
-    "fetchedDate": "2026-04-16",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
