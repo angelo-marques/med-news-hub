@@ -1,5 +1,44 @@
 [
   {
+    "id": "pubmed-42396950",
+    "pmid": "42396950",
+    "doi": "10.1111/jne.70225",
+    "title": "Alterations in cognitive function among reproductive-age women with polyendocrine metabolic ovarian syndrome: A systematic review and meta-analysis.",
+    "titlePt": "Alterations in cognitive function among reproductive-age women with polyendocrine metabolic ovarian syndrome: A systematic review and meta-analysis.",
+    "abstract": "Polyendocrine metabolic ovarian syndrome (PMOS) is a common endocrine disorder affecting 1.55&#x2009;million women of reproductive age worldwide. While its physical and reproductive impacts are well-documented, the cognitive effects of PMOS remain under-researched and poorly understood. This systematic review aims to investigate existing literature on cognitive function in women with PMOS. The objective of this review is to identify specific cognitive differences between women with PMOS and those without, highlight gaps in current research and clinical care, and inform the development of more comprehensive care frameworks for individuals with PMOS. A systematic search was conducted using Ovid MEDLINE, Ovid EMBASE, and CINAHL (Cumulative Index to Nursing and Allied Health Literature) for studies published up to June 23, 2025. Eligible studies underwent data extraction and risk of bias assessment in accordance with standard systematic review protocols. Out of 2887 articles screened, 22 s",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado recentemente na revista *Journal of Neuroendocrinology* revela lacunas significativas no entendimento dos impactos cognitivos associados à síndrome metabólica ovariana poliglandular (PMOS), um distúrbio endócrino que afeta cerca de 1,55 milhão de mulheres em idade reprodutiva globalmente. Embora os efeitos físicos e reprodutivos da PMOS já sejam bem documentados, a literatura científica ainda carece de evidências robustas sobre suas consequências no funcionamento cognitivo. A pesquisa, conduzida por meio de uma revisão sistemática e meta-análise, buscou sintetizar dados disponíveis até junho de 2025, selecionando 22 estudos entre 2.887 inicialmente rastreados. Os achados preliminares sugerem a existência de alterações cognitivas em mulheres com PMOS quando comparadas a grupos-controle, embora a heterogeneidade dos estudos incluídos impeça a definição de padrões claros. Entre os domínios avaliados, destacam-se prejuízos em funções executivas, memória de trabalho e velocidade de processamento, possivelmente mediados por mecanismos fisiopatológicos ainda não elucidados, como resistência à insulina, inflamação crônica ou desequilíbrios hormonais (por exemplo, hiperandrogenismo). Os autores ressaltam que a maioria dos estudos não estratificou resultados por idade, etnia ou gravidade da síndrome, limitando a generalização dos achados.\n\nDo ponto de vista clínico, os resultados reforçam a necessidade de incorporar avaliações neurocognitivas no acompanhamento de mulheres com PMOS, especialmente aquelas com comorbidades metabólicas. No entanto, a ausência de protocolos padronizados para rastreio cognitivo nessa população impede a adoção imediata de estratégias terapêuticas direcionadas. Os pesquisadores destacam ainda que a PMOS é frequentemente subdiagnosticada ou confundida com a síndrome dos ovários policísticos (SOP), o que pode agravar vieses nos estudos existentes. Como próximos passos, os autores propõem a realização de ensaios clínicos prospectivos com amostras maiores e desenhos metodológicos mais rigorosos, além das avaliações de biomarcadores específicos, como níveis de andrógenos e marcadores inflamatórios, para elucidar os mecanismos subjacentes. A integração de dados de neuroimagem também é sugerida para explorar possíveis correlações entre alterações estruturais cerebrais e desempenho cognitivo. A pesquisa serve como um chamamento para que a comunidade médica e científica priorize a investigação dos aspectos neurocognitivos da PMOS, um campo ainda pouco explorado mas com potencial impacto na qualidade de vida das pacientes.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Neuroendocrinology* highlights critical gaps in understanding the cognitive impacts of polyendocrine metabolic ovarian syndrome (PMOS), an endocrine disorder affecting approximately 1.55 million women of reproductive age worldwide. While the physical and reproductive consequences of PMOS are well-established, the literature remains sparse regarding its effects on cognitive function. Through a systematic review and meta-analysis conducted up to June 2025, researchers synthesized data from 22 eligible studies out of an initial 2,887 screened. Preliminary findings suggest cognitive alterations in women with PMOS compared to control groups, though the heterogeneity of included studies prevents the identification of consistent patterns. Key domains affected appear to include executive function, working memory, and processing speed, potentially linked to underlying mechanisms such as insulin resistance, chronic inflammation, or hormonal imbalances (e.g., hyperandrogenism). The authors note that most studies failed to stratify results by age, ethnicity, or syndrome severity, limiting the generalizability of conclusions.\n\nClinically, the findings underscore the need for standardized neurocognitive assessments in the management of women with PMOS, particularly those with metabolic comorbidities. However, the lack of validated screening protocols for this population hinders the implementation of targeted interventions. The researchers also emphasize that PMOS is frequently underdiagnosed or conflated with polycystic ovary syndrome (PCOS), which may introduce biases in existing studies. Moving forward, the authors advocate for prospective clinical trials with larger sample sizes and rigorous methodologies, alongside biomarker evaluations—such as androgen levels and inflammatory markers—to clarify underlying mechanisms. Neuroimaging data integration is also proposed to explore potential correlations between structural brain changes and cognitive performance. This work serves as a call to action for the medical and scientific communities to prioritize research on the neurocognitive aspects of PMOS, a largely unexplored yet potentially life-altering domain for affected patients.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42396950",
+    "authors": [
+      {
+        "name": "Samantha Rogers",
+        "affiliation": "Department of Health Sciences, Queen's University, Kingston, Ontario, Canada."
+      },
+      {
+        "name": "Bailey Milne",
+        "affiliation": "Department of Public Health Sciences, Queen's University, Kingston, Ontario, Canada."
+      },
+      {
+        "name": "Jennifer Carpenter",
+        "affiliation": "Department of Emergency Medicine, Queen's University, Kingston, Ontario, Canada."
+      }
+    ],
+    "journal": "Journal of neuroendocrinology",
+    "publishedDate": "2026-07-03",
+    "fetchedDate": "2026-07-03",
+    "category": "Endocrinologia",
+    "tags": [
+      "cognitive",
+      "endocrine",
+      "metabolic"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42393371",
     "pmid": "42393371",
     "doi": "10.1007/s00586-026-10116-x",
@@ -207,7 +246,7 @@
       "myocardial",
       "hypertension"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12621,35 +12660,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41970475",
-    "pmid": "41970475",
-    "doi": "10.1253/circrep.CR-25-0284",
-    "title": "Pulsed Field Ablation for Atrial Fibrillation in Japan: Current Status and Future Perspectives.",
-    "titlePt": "Pulsed Field Ablation for Atrial Fibrillation in Japan: Current Status and Future Perspectives.",
-    "abstract": "Catheter ablation of atrial fibrillation (AF) is an established therapeutic strategy, with pulmonary vein isolation as the cornerstone of ablative therapy. Although radiofrequency and cryothermal energies have been the main energy sources, the past decade has witnessed remarkable scientific progress and growing interest in pulsed field ablation (PFA) as a novel energy modality, leading to the recent clinical adoption of PFA technologies for AF treatment. In Japan, PFA was introduced into clinical practice in 2024 and has been rapidly accepted. Unlike traditional thermal energies, PFA uses pulsed electric fields to induce irreversible electroporation, selectively targeting myocardial tissue while preserving adjacent structures from thermal or mechanical injury. Offering procedural efficacy comparable to conventional thermal ablation, PFA distinguishes itself by enabling shorter procedure times and reducing the risk of complications. This review summarizes the mechanisms of PFA, currentl",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41970475",
-    "authors": [
-      {
-        "name": "Shinsuke Miyazaki",
-        "affiliation": "Department of Cardiovascular Medicine, Institute of Science Tokyo Tokyo Japan."
-      }
-    ],
-    "journal": "Circulation reports",
-    "publishedDate": "2026-04-13",
-    "fetchedDate": "2026-04-14",
-    "category": "Cardiologia",
-    "tags": [
-      "myocardial",
-      "atrial",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
     "aiProcessed": false
   }
 ]
