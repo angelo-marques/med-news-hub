@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-41784048",
+    "pmid": "41784048",
+    "doi": "10.1111/pace.70195",
+    "title": "Pulsed Field Ablation for Atrial Fibrillation in the Elderly &#x2265;75&#xa0;Years Old: A Systematic Review and Meta-Analysis.",
+    "titlePt": "Pulsed Field Ablation for Atrial Fibrillation in the Elderly &#x2265;75&#xa0;Years Old: A Systematic Review and Meta-Analysis.",
+    "abstract": "Pulse field ablation (PFA) is an emerging catheter ablation strategy for patients with atrial fibrillation (AF). Nonetheless, the safety and efficacy of PFA in elderly patients remains scarce. Hence, this study is to provide a comprehensive review of PFA utilization in the elderly. A systematic search was conducted from the inception of PubMed to July 2025 comparing the safety and efficacy of PFA in elderly (&#x2265;75&#xa0;years) and non-elderly patients. Safety outcomes were the rate of overall procedure-related complications, major complications (stroke/TIA, cardiac tamponade, phrenic nerve injury, valve damage, myocardial infarction), and minor complications. Efficacy outcomes include time to arrhythmia recurrence and rate of arrhythmia-free survival. Ten studies with a total of 5948 patients (900 elderly and 5048 non-elderly) were included in the analysis. In the elderly group, the rate of overall and major complications was 3% (95% CI 2%-6%, I2&#xa0;=&#xa0;0%) and 1% (95% CI 1%-2",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recém-publicado no *Journal of Pacing and Clinical Electrophysiology* investiga a segurança e eficácia da ablação por campo pulsado (PFA) em pacientes idosos com fibrilação atrial (FA), uma população com poucas evidências robustas até então. A pesquisa, conduzida por meio de uma revisão sistemática e meta-análise de dez estudos envolvendo 5.948 pacientes — dos quais 900 tinham 75 anos ou mais —, buscou comparar desfechos de segurança e eficácia entre idosos e não idosos submetidos ao procedimento.\n\nOs resultados indicam que, em pacientes com 75 anos ou mais, a taxa de complicações globais relacionadas ao procedimento foi de 3% (IC 95%: 2%-6%, I² = 0%), enquanto complicações maiores — como acidente vascular cerebral transitório (AIT), tamponamento cardíaco, lesão do nervo frênico, dano valvar ou infarto do miocárdio — ocorreram em 1% dos casos (IC 95%: 1%-2%, I² = 0%). Quanto à eficácia, não foram fornecidos dados específicos sobre o tempo até a recorrência de arritmia ou a taxa de sobrevida livre de arritmia no resumo analisado. Os autores destacam que a PFA apresentou um perfil de segurança promissor na população idosa, com uma incidência de eventos adversos comparável à observada em grupos mais jovens, embora a heterogeneidade entre os estudos incluídos tenha sido baixa, o que pode limitar a generalização dos achados.\n\nEmbora os dados sugiram que a PFA pode ser uma alternativa viável para idosos com FA, os autores ressaltam a necessidade de mais pesquisas com amostras maiores e desenhos prospectivos para confirmar esses resultados, especialmente em relação à eficácia a longo prazo. Além disso, não foram reportados dados sobre a comparação direta entre PFA e outras técnicas de ablação, como a ablação por radiofrequência ou crioterapia, no contexto específico da população idosa.\n\n**Versão em inglês**\n\nA recent study published in the *Journal of Pacing and Clinical Electrophysiology* evaluates the safety and efficacy of pulsed field ablation (PFA) in elderly patients with atrial fibrillation (AF), a population with limited robust evidence to date. Conducted as a systematic review and meta-analysis of ten studies involving 5,948 patients—900 of whom were 75 years or older—the research compared procedural safety and efficacy outcomes between elderly and non-elderly patients undergoing PFA.\n\nThe findings indicate that in patients aged 75 years or older, the overall rate of procedure-related complications was 3% (95% CI: 2%-6%, I² = 0%), while major complications—such as transient ischemic attack (TIA), cardiac tamponade, phrenic nerve injury, valve damage, or myocardial infarction—occurred in 1% of cases (95% CI: 1%-2%, I² = 0%). Regarding efficacy, the abstract did not provide specific data on time to arrhythmia recurrence or arrhythmia-free survival rates. The authors emphasize that PFA demonstrated a promising safety profile in the elderly population, with adverse event rates comparable to those observed in younger groups, despite the low heterogeneity among included studies, which may limit the generalizability of the findings.\n\nWhile the data suggest that PFA may be a viable alternative for elderly AF patients, the authors highlight the need for larger, prospective studies to validate these results, particularly concerning long-term efficacy. Additionally, no direct comparisons between PFA and other ablation techniques, such as radiofrequency or cryoablation, were reported in the elderly subgroup.\n\n*(Nota: Tradução fiel ao conteúdo disponível no resumo, sem inferências ou extrapolações além do que foi explicitamente mencionado.)*",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41784048",
+    "authors": [
+      {
+        "name": "Patavee Pajareya",
+        "affiliation": "Division of Cardiovascular Medicine, Center of Excellence in Arrhythmia Research, Cardiac Center, Faculty of Medicine, King Chulalongkorn Memorial Hospital, Chulalongkorn University, Bangkok, Thailand."
+      },
+      {
+        "name": "Khamik Laohasurayotin",
+        "affiliation": "Division of Cardiovascular Medicine, Center of Excellence in Arrhythmia Research, Cardiac Center, Faculty of Medicine, King Chulalongkorn Memorial Hospital, Chulalongkorn University, Bangkok, Thailand."
+      },
+      {
+        "name": "Witina Techasatian",
+        "affiliation": "Division of Cardiovascular Medicine, Louisiana State University, Shreveport, Louisiana, USA."
+      },
+      {
+        "name": "Noppachai Siranart",
+        "affiliation": "Division of Cardiovascular Medicine, Center of Excellence in Arrhythmia Research, Cardiac Center, Faculty of Medicine, King Chulalongkorn Memorial Hospital, Chulalongkorn University, Bangkok, Thailand."
+      }
+    ],
+    "journal": "Pacing and clinical electrophysiology : PACE",
+    "publishedDate": "2026-07-03",
+    "fetchedDate": "2026-07-03",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "myocardial",
+      "atrial",
+      "stroke"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42396950",
     "pmid": "42396950",
     "doi": "10.1111/jne.70225",
@@ -201,7 +245,7 @@
       "heart",
       "atrial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12613,49 +12657,6 @@
       "tumor",
       "chemotherapy",
       "immunotherapy",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-41968670",
-    "pmid": "41968670",
-    "doi": "10.2174/0113816128456103260310045856",
-    "title": "Reciprocal Mechanisms Linking Cancer and Cardiovascular Disease: Emerging Paradigms in Onco-Cardiology.",
-    "titlePt": "Reciprocal Mechanisms Linking Cancer and Cardiovascular Disease: Emerging Paradigms in Onco-Cardiology.",
-    "abstract": "There is a dual causal relationship between cancer and Cardiovascular Disease (CVD) due to similar risk factors and overlapping convergent molecular mechanisms. Factors such as hypertension, diabetes, dyslipidemia, obesity, smoking, and inactivity overlap with chronic inflammation, oxidative stress, endothelial dysfunction, and stromal transformation, coupling atherogenesis with tumour growth. NF- &#x3ba;B and JAK/STAT signalling, as well as the destabilisation of the plaque and angiogenesis, rely on pro-inflammatory cytokines (IL-1&#x3b2;, IL-6, TNF-&#x3b1;), which also facilitate immune escape and fibrotic remodelling. Clonal hematopoiesis (DNMT3A, TET2 defects) is a myeloid inflammation amplifier that links ageing of hematopoiesis to vascular damage and cancer-proneness. Exosomal microRNAs in tumour-derived extracellular vesicles, however, can remodel endothelial tone and immunity, and cancer-induced cachexia hastens cardiac wasting and repair. This study aims to explore the standar",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41968670",
-    "authors": [
-      {
-        "name": "Shanmugananth Elayaperumal",
-        "affiliation": "Department of Physiotherapy, Sri Balaji Vidyapeeth, Puducherry, India."
-      },
-      {
-        "name": "Nitin Mujeeb Ur Rahman",
-        "affiliation": "Department of Pharmacy, College of Pharmacy, Knowledge University, Kirkuk Road, Erbil, Kurdistan, 446015, Region of Iraq."
-      },
-      {
-        "name": "Jasmine Kaur Lingayat",
-        "affiliation": "Department of Paediatrics, Symbiosis Medical College for Women and Symbiosis University Hospital and Research Centre, Symbiosis International (Deemed University), Pune, India."
-      },
-      {
-        "name": "Yaasir Ahmed Chawla",
-        "affiliation": "Department of Physiotherapy, Manav Rachna International Institute of Research and Studies, Faridabad, H.R., India."
-      }
-    ],
-    "journal": "Current pharmaceutical design",
-    "publishedDate": "2026-04-13",
-    "fetchedDate": "2026-04-14",
-    "category": "Cardiologia",
-    "tags": [
-      "cancer",
-      "cardiac",
-      "cardiovascular",
-      "hypertension",
       "gene"
     ],
     "isHighlight": false,
