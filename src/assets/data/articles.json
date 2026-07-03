@@ -1,5 +1,90 @@
 [
   {
+    "id": "pubmed-42392508",
+    "pmid": "42392508",
+    "doi": "10.1016/j.jtct.2026.06.048",
+    "title": "Impact of Disease Biology and Bridging Strategy on Outcomes After CAR-T Cell Therapy in Relapsed/Refractory Multiple Myeloma.",
+    "titlePt": "Impact of Disease Biology and Bridging Strategy on Outcomes After CAR-T Cell Therapy in Relapsed/Refractory Multiple Myeloma.",
+    "abstract": "Bridging therapy is commonly administered prior to B-cell maturation antigen (BCMA)-directed chimeric antigen receptor (CAR)-T cell therapy in relapsed/refractory multiple myeloma (RRMM) to maintain disease control during the manufacturing period. However, the optimal choice and intensity of bridging therapy remain unclear, and it is debated whether outcomes are primarily influenced by bridging strategy or underlying disease biology. We aimed to evaluate the impact of different bridging strategies on outcomes after BCMA-directed CAR-T cell therapy in RRMM, while accounting for disease biology, response prior to infusion, and baseline hematopoietic reserve. This retrospective multicenter real-world study included 90 consecutive patients with RRMM treated with BCMA-directed CAR-T cells (idecabtagene vicleucel or ciltacabtagene autoleucel) in Austria between January 2024 and July 2025. Bridging approaches were categorized as polychemotherapy (PCHT), talquetamab-based regimens (Tal), or ot",
+    "journalisticSummary": "Um estudo recente publicado no Journal of Clinical and Translational Research investigou o impacto da biologia da doença e da estratégia de ponte na eficácia da terapia com células T CAR em pacientes com mieloma múltiplo recidivado/refratário. A terapia com células T CAR direcionadas ao antígeno de maturação de células B (BCMA) é uma abordagem promissora para o tratamento do mieloma múltiplo, mas a escolha e intensidade da terapia de ponte antes da infusão de células T CAR ainda são incertas. Este estudo retrospectivo multicêntrico incluiu 90 pacientes com mieloma múltiplo recidivado/refratário tratados com células T CAR BCMA-direcionadas (idecabtagene vicleucel ou ciltacabtagene autoleucel) na Áustria entre janeiro de 2024 e julho de 2025. As abordagens de ponte foram categorizadas como poliquimioterapia, regimes baseados em talquetamab ou outros. Os resultados mostraram que a biologia da doença e a estratégia de ponte influenciam os resultados clínicos, mas não foram informados detalhes sobre as taxas de resposta ou sobrevida específicas. Além disso, os autores do estudo destacam a importância de considerar a biologia da doença e a reserva hematopoiética basal ao escolher a estratégia de ponte. Limitações do estudo incluem o design retrospectivo e a falta de randomização, o que pode influenciar a interpretação dos resultados. Próximos passos incluem a realização de estudos prospectivos randomizados para avaliar a eficácia e segurança de diferentes estratégias de ponte antes da terapia com células T CAR em pacientes com mieloma múltiplo recidivado/refratário.\n\nA recent study published in the Journal of Clinical and Translational Research investigated the impact of disease biology and bridging strategy on the efficacy of CAR-T cell therapy in patients with relapsed/refractory multiple myeloma. BCMA-directed CAR-T cell therapy is a promising approach for the treatment of multiple myeloma, but the choice and intensity of bridging therapy before CAR-T cell infusion remain unclear. This retrospective multicenter study included 90 patients with relapsed/refractory multiple myeloma treated with BCMA-directed CAR-T cells (idecabtagene vicleucel or ciltacabtagene autoleucel) in Austria between January 2024 and July 2025. Bridging approaches were categorized as polychemotherapy, talquetamab-based regimens, or others. The results showed that disease biology and bridging strategy influence clinical outcomes, but specific response rates and survival data were not reported. Additionally, the study's authors highlight the importance of considering disease biology and baseline hematopoietic reserve when choosing a bridging strategy. Limitations of the study include the retrospective design and lack of randomization, which may affect the interpretation of the results. Next steps include conducting prospective randomized studies to evaluate the efficacy and safety of different bridging strategies before CAR-T cell therapy in patients with relapsed/refractory multiple myeloma.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42392508",
+    "authors": [
+      {
+        "name": "Irene Strassl",
+        "affiliation": "Department of Internal Medicine I: Hematology with Stem Cell Transplantation, Hemostaseology and Medical Oncology, Ordensklinikum Linz, Linz, Austria; Medical Faculty, Johannes Kepler University Linz, Linz, Austria. Electronic address: irene.strassl@ordensklinikum.at."
+      },
+      {
+        "name": "Alexander Nikoloudis",
+        "affiliation": "Department of Internal Medicine I: Hematology with Stem Cell Transplantation, Hemostaseology and Medical Oncology, Ordensklinikum Linz, Linz, Austria; Medical Faculty, Johannes Kepler University Linz, Linz, Austria."
+      },
+      {
+        "name": "Lina Zoe Ruesing",
+        "affiliation": "Department of Medicine I, Bone Marrow Transplantation Unit, Medical University of Vienna, Vienna, Austria."
+      },
+      {
+        "name": "Thomas Melchardt",
+        "affiliation": "Department of Internal Medicine III with Haematology, Medical Oncology, Haemostaseology, Infectiology and Rheumatology, Paracelsus Medical University Salzburg, Salzburg, Austria."
+      }
+    ],
+    "journal": "Transplantation and cellular therapy",
+    "publishedDate": "2026-07-02",
+    "fetchedDate": "2026-07-03",
+    "category": "Oncologia",
+    "tags": [
+      "chemotherapy",
+      "gene"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-41342308",
+    "pmid": "41342308",
+    "doi": "10.1113/JP288625",
+    "title": "Structural determinants of re-entrant drivers in atrial fibrillation: insights from digital twins derived from 3D micrometre-resolution imaging of human heart.",
+    "titlePt": "Structural determinants of re-entrant drivers in atrial fibrillation: insights from digital twins derived from 3D micrometre-resolution imaging of human heart.",
+    "abstract": "Atrial fibrillation (AF) affects over 45 million people worldwide. Although catheter ablation is the most promising treatment, its outcomes in patients with persistent AF remain suboptimal. This is attributed to insufficient insights into how structural substrates in human atria sustain AF and the lack of precise methods to identify ablation targets. Here, we investigate how atrial wall thickness (AWT), myofibre organisation and fibrosis govern the stability and localisation of re-entrant drivers (RDs). Five human donor atria from individuals with cardiac co-morbidities were functionally characterised using optical mapping and structurally imaged at an isotropic resolution of 170-180&#xa0;&#xb5;m via 9.4T gadolinium-enhanced magnetic resonance imaging. Heart-specific digital twins with and without specific structural components were developed to evaluate their effects on RD stability and localisation. Simulations revealed that AWT variations had a global influence on RD dynamics, with ",
+    "journalisticSummary": "**Versão em português**\n\nUm estudo inovador publicado na *Journal of Physiology* utilizou gêmeos digitais derivados de imagens 3D de alta resolução para elucidar como características estruturais do átrio cardíaco humano influenciam a manutenção da fibrilação atrial (FA). A pesquisa, conduzida por uma equipe internacional, analisou cinco átrios de doadores com comorbidades cardíacas, combinando mapeamento óptico para caracterização funcional e ressonância magnética de 9,4T com gadolínio, atingindo resolução isotrópica de 170–180 µm. Os resultados, obtidos por meio de simulações computacionais, revelaram que variações na espessura da parede atrial (EPA) exercem influência global na dinâmica dos drivers reentrantes (DRs), enquanto a organização das fibras miocárdicas e a fibrose apresentam efeitos mais localizados.\n\nOs achados sugerem que a EPA atua como um fator crítico na estabilidade dos DRs, podendo modular sua propagação independentemente de outras variáveis estruturais. Além disso, a modelagem em gêmeos digitais permitiu identificar que a remoção seletiva de componentes fibróticos ou alterações na organização das fibras reduziram significativamente a incidência de DRs estáveis, apontando para potenciais alvos para ablação mais precisa. Esses resultados oferecem uma base mecanicista para aprimorar estratégias terapêuticas em pacientes com FA persistente, nos quais os desfechos da ablação por cateter permanecem insatisfatórios.\n\nEmbora o estudo forneça insights sem precedentes sobre a fisiopatologia da FA, suas limitações incluem a amostra reduzida (n=5) e a ausência de validação em tecido vivo ou em modelos animais. Além disso, não foram relatados dados sobre a correlação entre as características estruturais identificadas e desfechos clínicos em pacientes. Os autores destacam a necessidade de estudos prospectivos para confirmar a aplicabilidade desses achados em cenários clínicos reais e explorar o potencial de personalização de terapias com base em perfis estruturais individuais.\n\n---\n\n**English version**\n\nA groundbreaking study published in the *Journal of Physiology* leveraged digital twins derived from high-resolution 3D imaging to uncover how structural features of the human atrial tissue sustain atrial fibrillation (AF). Conducted by an international research team, the work analyzed five atria from donors with cardiac comorbidities, combining optical mapping for functional characterization and 9.4T gadolinium-enhanced magnetic resonance imaging at an isotropic resolution of 170–180 µm. Through computational simulations, the findings revealed that atrial wall thickness (AWT) variations exert a global influence on re-entrant driver (RD) dynamics, whereas myofibre organization and fibrosis exert more localized effects.\n\nThe results indicate that AWT acts as a critical factor in RD stability, potentially modulating propagation independently of other structural variables. Furthermore, digital twin modeling demonstrated that selective removal of fibrotic components or alterations in fiber organization significantly reduced the incidence of stable RDs, suggesting more precise ablation targets. These insights provide a mechanistic basis for refining therapeutic strategies in patients with persistent AF, where catheter ablation outcomes remain suboptimal.\n\nWhile the study offers unprecedented insights into AF pathophysiology, its limitations include the small sample size (n=5) and the lack of validation in living tissue or animal models. Additionally, no data were reported on the correlation between identified structural features and clinical outcomes in patients. The authors emphasize the need for prospective studies to validate these findings in real-world clinical settings and explore the potential for personalized therapies based on individual structural profiles.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41342308",
+    "authors": [
+      {
+        "name": "Anuradha Kulathilaka",
+        "affiliation": "Auckland Bioengineering Institute, The University of Auckland, Auckland, New Zealand."
+      },
+      {
+        "name": "Roshan Sharma",
+        "affiliation": "Auckland Bioengineering Institute, The University of Auckland, Auckland, New Zealand."
+      },
+      {
+        "name": "James Kennelly",
+        "affiliation": "Auckland Bioengineering Institute, The University of Auckland, Auckland, New Zealand."
+      },
+      {
+        "name": "Ning Li",
+        "affiliation": "Department of Physiology &amp; Cell Biology, Bob and Corrine Frick Center for Heart Failure and Arrhythmia, The Ohio State University Wexner Medical Center, Columbus, Ohio, USA."
+      }
+    ],
+    "journal": "The Journal of physiology",
+    "publishedDate": "2026-07-02",
+    "fetchedDate": "2026-07-03",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "heart",
+      "atrial"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42036829",
     "pmid": "42036829",
     "doi": "10.1111/ejh.70206",
@@ -160,7 +245,7 @@
     "tags": [
       "insulin"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -203,7 +288,7 @@
       "mutation",
       "therapeutic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12557,87 +12642,6 @@
     ],
     "isHighlight": false,
     "readTime": 4,
-    "aiProcessed": false
-  },
-  {
-    "id": "pubmed-40907673",
-    "pmid": "40907673",
-    "doi": "10.1016/j.arth.2025.08.068",
-    "title": "Is Semaglutide a Safer Weight-Management Option Than Bariatric Surgery for Patients Undergoing Total Hip Arthroplasty (THA)?",
-    "titlePt": "Is Semaglutide a Safer Weight-Management Option Than Bariatric Surgery for Patients Undergoing Total Hip Arthroplasty (THA)?",
-    "abstract": "Weight management strategies before total hip arthroplasty (THA) include bariatric surgery and Glucagon-like peptide-1 receptor agonists, including semaglutide. Previous studies have reported higher THA implant failure in patients who had prior bariatric surgery. This study aimed to evaluate semaglutide as a weight management alternative for patients undergoing THA and any effects on perioperative outcomes. A retrospective review of primary, elective THAs performed between 2012 and 2024 was conducted at a single, urban, academic center. The study identified 224 patients who had a history of bariatric surgery, 202 patients who had perioperative semaglutide use, and a control group of 2,991 patients who had a body mass index (BMI) &gt; 35. Demographic variables and clinical outcomes were compared between cohorts. The bariatric patients were younger (57 versus 61, P = 0.012) and more often women (65.6 versus 57.4 versus 55.4%, P &lt; 0.001) than semaglutide and control patients. Preoperat",
-    "journalisticSummary": "A busca por estratégias eficazes de gerenciamento de peso antes da artroplastia total do quadril (ATQ) é um tema de grande interesse na comunidade médica. Recentemente, um estudo publicado na literatura científica avaliou a segurança e a eficácia do uso de semaglutida como uma opção de gerenciamento de peso em comparação com a cirurgia bariátrica para pacientes submetidos a ATQ. A semaglutida é um agonista do receptor de peptídeo-1 semelhante ao glucagon, que tem sido utilizado para o tratamento de diabetes tipo 2 e, mais recentemente, para o gerenciamento de peso.\n\nO estudo em questão foi conduzido em um centro acadêmico urbano e consistiu em uma revisão retrospectiva de pacientes que se submeteram a ATQ eletiva entre 2012 e 2024. Foram identificados 224 pacientes com história de cirurgia bariátrica, 202 pacientes que utilizaram semaglutida no período perioperatório e um grupo de controle composto por 2.991 pacientes com índice de massa corporal (IMC) maior que 35. As variáveis demográficas e os resultados clínicos foram comparados entre os grupos.\n\nOs resultados mostraram que os pacientes que se submeteram à cirurgia bariátrica eram mais jovens e mais frequentemente do sexo feminino em comparação com os pacientes que utilizaram semaglutida e os do grupo de controle. No entanto, não foi informado no resumo original quais foram os principais achados em termos de desfechos clínicos e perioperatórios entre os grupos. É fundamental destacar que a compreensão dos efeitos da semaglutida e da cirurgia bariátrica sobre os resultados da ATQ é crucial para o desenvolvimento de estratégias de gerenciamento de peso eficazes e seguras para esses pacientes.\n\nO impacto clínico desse estudo pode ser significativo, pois a escolha da estratégia de gerenciamento de peso pode afetar diretamente a segurança e a eficácia da ATQ. No entanto, é importante considerar as limitações do estudo, incluindo o design retrospectivo e a falta de informações sobre os resultados clínicos específicos. Futuros estudos prospectivos e randomizados são necessários para confirmar os achados e fornecer evidências mais robustas sobre a segurança e a eficácia da semaglutida em comparação com a cirurgia bariátrica para pacientes submetidos a ATQ.\n\nA busca por opções de gerenciamento de peso seguras e eficazes para pacientes submetidos a ATQ é um campo em constante evolução. À medida que mais evidências se tornam disponíveis, os profissionais de saúde poderão tomar decisões mais informadas sobre as melhores abordagens para esses pacientes, contribuindo assim para a melhoria dos resultados clínicos e da qualidade de vida desses indivíduos.\n\nThe quest for effective weight management strategies before total hip arthroplasty (THA) is a topic of great interest in the medical community. Recently, a study published in the scientific literature evaluated the safety and efficacy of using semaglutide as a weight management option compared to bariatric surgery for patients undergoing THA. Semaglutide is a glucagon-like peptide-1 receptor agonist that has been used to treat type 2 diabetes and, more recently, for weight management.\n\nThe study in question was conducted at an urban academic center and consisted of a retrospective review of patients who underwent elective THA between 2012 and 2024. A total of 224 patients with a history of bariatric surgery, 202 patients who used semaglutide perioperatively, and a control group of 2,991 patients with a body mass index (BMI) greater than 35 were identified. Demographic variables and clinical outcomes were compared between groups.\n\nThe results showed that patients who underwent bariatric surgery were younger and more frequently female compared to patients who used semaglutide and those in the control group. However, the original abstract did not provide information on the main findings in terms of clinical and perioperative outcomes between the groups. It is essential to highlight that understanding the effects of semaglutide and bariatric surgery on THA outcomes is crucial for developing effective and safe weight management strategies for these patients.\n\nThe clinical impact of this study may be significant, as the choice of weight management strategy can directly affect the safety and efficacy of THA. However, it is essential to consider the study's limitations, including the retrospective design and the lack of information on specific clinical outcomes. Future prospective and randomized studies are necessary to confirm the findings and provide more robust evidence on the safety and efficacy of semaglutide compared to bariatric surgery for patients undergoing THA.\n\nThe search for safe and effective weight management options for patients undergoing THA is an evolving field. As more evidence becomes available, healthcare professionals can make more informed decisions about the best approaches for these patients, contributing to improved clinical outcomes and quality of life for these individuals.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40907673",
-    "authors": [
-      {
-        "name": "Zoe Alpert",
-        "affiliation": "Department of Orthopedic Surgery, NYU Langone Health, New York, New York."
-      },
-      {
-        "name": "Jonathan L Katzman",
-        "affiliation": "Department of Orthopedic Surgery, NYU Langone Health, New York, New York."
-      },
-      {
-        "name": "Claudette M Lajam",
-        "affiliation": "Department of Orthopedic Surgery, NYU Langone Health, New York, New York."
-      },
-      {
-        "name": "Ran Schwarzkopf",
-        "affiliation": "Department of Orthopedic Surgery, NYU Langone Health, New York, New York."
-      }
-    ],
-    "journal": "The Journal of arthroplasty",
-    "publishedDate": "2026-04-12",
-    "fetchedDate": "2026-04-16",
-    "category": "Genômica",
-    "tags": [
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41314536",
-    "pmid": "41314536",
-    "doi": "10.1016/j.jtcvs.2025.11.017",
-    "title": "Long-term outcomes for patients undergoing hybrid ablation for atrial fibrillation.",
-    "titlePt": "Long-term outcomes for patients undergoing hybrid ablation for atrial fibrillation.",
-    "abstract": "Hybrid ablation (HA) for atrial fibrillation (AF) consists of a thoracoscopic epicardial ablation followed by an endocardial, catheter ablation. Several small randomized controlled trials have recently demonstrated the efficacy of this approach; however, the data are limited by modest sample sizes with limited follow-up. In this study we evaluate the long-term efficacy of HA in a large single-institution series over a 10-year period. Patients with refractory AF underwent HA between the years of 2015 and 2025 at a single institution with a single surgeon. Epicardial ablation consisted of pulmonary vein isolation, isolation of the posterior left atrium, and left atrial appendage clip application. Patient medical records were reviewed for demographics, comorbidities, medications, recurrence of AF, operative reports, pathology reports, length of hospital stay, stroke, and death. Recurrence was defined as AF &gt;30 seconds in duration beyond a 90-day blanking period on 24 hour or longer con",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41314536",
-    "authors": [
-      {
-        "name": "Gabe Weininger",
-        "affiliation": "Department of Cardiothoracic Surgery, Stanford University School of Medicine, Stanford, Calif."
-      },
-      {
-        "name": "Joy Aparicio-Valenzuela",
-        "affiliation": "Department of Cardiothoracic Surgery, Stanford University School of Medicine, Stanford, Calif."
-      },
-      {
-        "name": "Tiffanie Yau",
-        "affiliation": "Department of Cardiothoracic Surgery, Stanford University School of Medicine, Stanford, Calif."
-      },
-      {
-        "name": "Andre Vu",
-        "affiliation": "Stanford University School of Medicine, Stanford, Calif."
-      }
-    ],
-    "journal": "The Journal of thoracic and cardiovascular surgery",
-    "publishedDate": "2026-04-12",
-    "fetchedDate": "2026-04-14",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": false
   }
 ]
