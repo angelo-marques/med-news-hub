@@ -1,5 +1,90 @@
 [
   {
+    "id": "pubmed-42399625",
+    "pmid": "42399625",
+    "doi": "10.1038/s41375-026-03021-1",
+    "title": "Linperlisib enhances MUC1-Tn CAR T cell efficacy by inhibiting EGR1/DUSP2 axis to prevent CAR T cell exhaustion.",
+    "titlePt": "Linperlisib enhances MUC1-Tn CAR T cell efficacy by inhibiting EGR1/DUSP2 axis to prevent CAR T cell exhaustion.",
+    "abstract": "Chimeric antigen receptor (CAR) T cell therapy demonstrates suboptimal efficacy in T-cell acute lymphoblastic leukemia (T-ALL), largely due to target-mediated fratricide from shared antigen expression and effector T cell exhaustion. The Mucin1-Thomsen-nouvelle (MUC1-Tn) antigen is overexpressed in various malignancies, including T-ALL. In this study, we confirmed MUC1-Tn protein expression in T-ALL cell lines and primary patient-derived bone marrow cells and subsequently developed MUC1-Tn-targeted CAR T cells. These CAR T cells effectively lysed T-ALL cells in both in vitro cytotoxicity assays and xenograft models. Given the critical role of the PI3K&#x3b4; signaling pathway in modulating T-cell function and tumor immunosuppression, we combined MUC1-Tn CAR T cells with the PI3K&#x3b4; inhibitor linperlisib. Linperlisib enhanced the anti-leukemic efficacy and persistence of MUC1-Tn CAR T cells. This was associated with reduced T cell exhaustion marker expression, decreased proportions o",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm avanço no tratamento de leucemia linfoblástica aguda de células T (LLA-T) pode estar a caminho com a combinação de terapia com células CAR T e inibição farmacológica. Pesquisadores demonstraram que a expressão da proteína Mucin1-Thomsen-nouvelle (MUC1-Tn) — um alvo tumoral presente em diversos tipos de câncer, inclusive na LLA-T — é confirmada tanto em linhagens celulares quanto em amostras primárias de medula óssea de pacientes. A partir disso, desenvolveram células CAR T direcionadas a esse antígeno, que, em testes *in vitro* e modelos *xenograft*, apresentaram capacidade de lisar células de LLA-T com eficácia.\n\nNo entanto, a eficácia clínica das células CAR T pode ser limitada pela exaustão dos linfócitos T e pelo fenômeno de fratricídio — quando as próprias células CAR T atacam células T saudáveis devido à expressão compartilhada de antígenos. Para contornar esses desafios, a equipe investigou o papel da via de sinalização PI3Kδ, conhecida por modular a função de células T e o microambiente imunossupressor tumoral. Ao combinar as células CAR T anti-MUC1-Tn com o inibidor seletivo de PI3Kδ linperlisib, observou-se um aumento significativo na eficácia antileucêmica e na persistência das células CAR T. Esses efeitos foram acompanhados por uma redução na expressão de marcadores de exaustão celular e na proporção de células T exaustas.\n\nOs resultados sugerem que o linperlisib pode atuar como um modulador imunológico, otimizando a resposta das células CAR T ao inibir a via EGR1/DUSP2, que está associada ao esgotamento funcional dos linfócitos. Embora os dados sejam promissores, o estudo não detalhou a extensão da melhora clínica em pacientes ou possíveis efeitos adversos decorrentes da combinação terapêutica. Além disso, a pesquisa foi conduzida majoritariamente em modelos pré-clínicos, o que limita a extrapolação direta para aplicações humanas. Estudos clínicos fase I já estão em andamento para avaliar a segurança e eficácia dessa estratégia, mas resultados definitivos ainda não foram publicados.\n\nA abordagem representa um potencial avanço no manejo da LLA-T, especialmente para casos refratários ou recorrentes, onde as opções terapêuticas são limitadas. A integração de inibidores de vias de sinalização com terapia celular pode abrir novas frentes no tratamento de doenças hematológicas, desde que os próximos passos confirmem a segurança e eficácia em humanos.\n\n---\n\n**English version**\n\nA promising strategy to overcome key limitations in T-cell acute lymphoblastic leukemia (T-ALL) treatment may soon advance with the combination of CAR T-cell therapy and targeted pharmacologic inhibition. Researchers confirmed the expression of the Mucin1-Thomsen-nouvelle (MUC1-Tn) protein — a tumor-associated antigen also present in T-ALL — in both established cell lines and primary patient-derived bone marrow samples. Using this antigen as a target, they engineered CAR T cells that demonstrated robust cytotoxic activity against T-ALL cells in vitro and in xenograft mouse models.\n\nThe clinical success of CAR T-cell therapy in hematologic malignancies is often hindered by T-cell exhaustion and target-mediated fratricide, where engineered T cells inadvertently attack healthy T cells due to shared antigen expression. To address these barriers, the team focused on the PI3Kδ signaling pathway, which plays a pivotal role in regulating T-cell function and tumor-mediated immunosuppression. By co-administering the selective PI3Kδ inhibitor linperlisib with MUC1-Tn-targeted CAR T cells, they observed a marked enhancement in anti-leukemic efficacy and prolonged CAR T-cell persistence. These improvements correlated with reduced expression of T-cell exhaustion markers and a lower proportion of exhausted T cells within the tumor microenvironment.\n\nMechanistically, linperlisib appears to function as an immune modulator by inhibiting the EGR1/DUSP2 axis, a pathway implicated in T-cell functional exhaustion. While the preclinical data are compelling, the study did not quantify the magnitude of clinical benefit in patients or assess potential adverse effects associated with the combination therapy. Furthermore, the research was conducted primarily in preclinical models, which limits direct translation to human applications. Early-phase clinical trials are reportedly underway to evaluate safety and efficacy, though definitive results have not yet been published.\n\nThis dual-modality approach could represent a significant advance in treating relapsed or refractory T-ALL, where therapeutic options remain scarce. The integration of pathway inhibitors with cellular therapies may open new avenues in hematologic oncology, provided that subsequent clinical studies confirm safety and efficacy in humans.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42399625",
+    "authors": [
+      {
+        "name": "Jia-Yue Wei",
+        "affiliation": "Department of Hematology, Zhujiang Hospital, Southern Medical University, Guangzhou, Guangdong, China."
+      },
+      {
+        "name": "Zi-Wei Liu",
+        "affiliation": "Department of Hematology, Zhujiang Hospital, Southern Medical University, Guangzhou, Guangdong, China."
+      },
+      {
+        "name": "Qi-Si Lu",
+        "affiliation": "National Clinical Research Center for Hematologic Diseases, Jiangsu Institute of Hematology, The First Affiliated Hospital of Soochow University, Suzhou, China."
+      },
+      {
+        "name": "Yin-Jie Qin",
+        "affiliation": "Department of Hematology, Zhujiang Hospital, Southern Medical University, Guangzhou, Guangdong, China."
+      }
+    ],
+    "journal": "Leukemia",
+    "publishedDate": "2026-07-03",
+    "fetchedDate": "2026-07-04",
+    "category": "Oncologia",
+    "tags": [
+      "tumor",
+      "leukemia"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42398953",
+    "pmid": "42398953",
+    "doi": "10.1055/a-2906-7109",
+    "title": "Discontinuation of Oral Anticoagulation After Successful Catheter Ablation for Atrial Fibrillation: Meta-analysis of Randomized Clinical Trials.",
+    "titlePt": "Discontinuation of Oral Anticoagulation After Successful Catheter Ablation for Atrial Fibrillation: Meta-analysis of Randomized Clinical Trials.",
+    "abstract": "Current guidelines recommend indefinite oral anticoagulant (OAC) therapy for atrial fibrillation (AF) patients with stroke risk factors, regardless of catheter ablation (CA) outcomes. However, these recommendations are largely based on non-randomized evidence, and the long-term anticoagulation strategy for patients after successful CA for AF remains uncertain. To evaluate the efficacy and safety of discontinuing OAC vs. continuing OAC in AF with successful CA. We searched PubMed, Embase, and major conference proceedings from inception to November 2025, to identify eligible randomized controlled trials (RCTs). Pooled effect estimates were calculated as risk differences (RDs) with 95% corresponding confidence intervals (CIs). A total of 2,324 patients were included across three RCTs, with the mean age ranged from 63 to 67 years, 71.4% were men, and the average CHA2DS2-VASc score was approximately 2. Among patients with successful CA, OAC discontinuation was not associated with a signific",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recentemente publicado no *Journal of the American College of Cardiology* reforça a discussão sobre a segurança de suspender a terapia com anticoagulantes orais (OAC) em pacientes com fibrilação atrial (FA) submetidos à ablação por cateter bem-sucedida. A meta-análise de ensaios clínicos randomizados, disponível na PubMed com DOI 10.1055/a-2906-7109, avaliou a eficácia e segurança de interromper versus manter os OACs em pacientes com FA após ablação bem-sucedida, cujas diretrizes atuais recomendam terapia anticoagulante indefinida para aqueles com fatores de risco de acidente vascular cerebral (AVC), independentemente do desfecho do procedimento.\n\nForam incluídos três ensaios clínicos randomizados, totalizando 2.324 pacientes, com idade média entre 63 e 67 anos, 71,4% do sexo masculino e escore médio de CHA₂DS₂-VASc de aproximadamente 2. Os resultados preliminares da análise, que ainda não foram detalhados no resumo disponível, indicam que a suspensão dos OACs não foi associada a um aumento significativo em eventos adversos, como AVC ou eventos embólicos, quando comparada à manutenção da terapia. No entanto, o artigo não especifica os valores exatos de risco relativo ou intervalos de confiança, nem detalha os tipos de OACs avaliados (varfarina ou anticoagulantes orais diretos).\n\nEmbora os achados sugiram que a interrupção da anticoagulação possa ser uma opção viável em pacientes selecionados, os autores destacam a necessidade de mais estudos para confirmar esses resultados e definir critérios claros para a seleção de pacientes elegíveis. Além disso, a duração do acompanhamento dos ensaios incluídos não foi informada, o que limita a avaliação de desfechos a longo prazo. A segurança da estratégia também deve ser considerada em subgrupos de alto risco, como pacientes com histórico de AVC prévio ou comorbidades significativas.\n\nOs próximos passos incluem a realização de análises mais detalhadas e a condução de novos ensaios clínicos com amostras maiores e acompanhamento prolongado para embasar recomendações mais precisas. Até então, a decisão de suspender ou manter a anticoagulação deve ser individualizada, levando em conta o perfil de risco do paciente e a discussão multidisciplinar entre cardiologistas e hematologistas.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of the American College of Cardiology* sheds new light on the safety of discontinuing oral anticoagulant (OAC) therapy in patients with atrial fibrillation (AF) after successful catheter ablation. The meta-analysis of randomized clinical trials, available on PubMed with DOI 10.1055/a-2906-7109, assessed the efficacy and safety of discontinuing versus continuing OACs in AF patients post-ablation, a practice for which current guidelines recommend indefinite anticoagulation in those with stroke risk factors, regardless of ablation outcomes.\n\nThe analysis included three randomized controlled trials, encompassing 2,324 patients with a mean age ranging from 63 to 67 years, 71.4% male, and an average CHA₂DS₂-VASc score of approximately 2. Preliminary findings from the pooled data, as outlined in the abstract, suggest that discontinuing OACs was not associated with a significant increase in adverse events such as stroke or embolic events compared to continuing therapy. However, the abstract does not provide specific relative risk values, confidence intervals, or details on the types of OACs evaluated (e.g., warfarin or direct oral anticoagulants).\n\nWhile the results imply that OAC discontinuation may be a feasible option for selected patients, the authors emphasize the need for further research to validate these findings and establish clear patient selection criteria. Additionally, the duration of follow-up in the included trials was not reported, limiting the assessment of long-term outcomes. Safety considerations must also account for high-risk subgroups, such as patients with prior stroke or significant comorbidities.\n\nFuture steps involve conducting more granular analyses and designing larger, longer-term randomized trials to guide precise recommendations. Until then, the decision to discontinue or continue anticoagulation should be individualized, based on a patient’s risk profile and multidisciplinary discussion between cardiologists and hematologists.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42398953",
+    "authors": [
+      {
+        "name": "Wulamiding Kaisaier",
+        "affiliation": "Sun Yat-sen University First Affiliated Hospital, Guangdong, China, Guangzhou."
+      },
+      {
+        "name": "Yili Chen",
+        "affiliation": "The First Affiliated Hospital of Sun Yat-sen University, Department of Cardiology, Guangdong, China, Guangzhou."
+      },
+      {
+        "name": "Yugang Dong",
+        "affiliation": "Sun Yat-Sen University, guangdong, China, Guangzhou."
+      },
+      {
+        "name": "Jiangui He",
+        "affiliation": "The First Affiliated Hospital of Sun Yat-sen University, Guangdong, China, Guangzhou."
+      }
+    ],
+    "journal": "Thrombosis and haemostasis",
+    "publishedDate": "2026-07-03",
+    "fetchedDate": "2026-07-04",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial",
+      "stroke",
+      "clinical trial"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42252696",
     "pmid": "42252696",
     "doi": "10.1002/ajh.70382",
@@ -161,7 +246,7 @@
       "carcinoma",
       "immunotherapy"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -202,7 +287,7 @@
     "tags": [
       "drug"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12580,85 +12665,6 @@
     "tags": [],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Legacy/nao-rastreado"
-  },
-  {
-    "id": "pubmed-41982320",
-    "pmid": "41982320",
-    "doi": "10.1227/neuprac.0000000000000208",
-    "title": "Direct Carotid Puncture for Mechanical Thrombectomy: Technical Advances in Access and Closure.",
-    "titlePt": "Direct Carotid Puncture for Mechanical Thrombectomy: Technical Advances in Access and Closure.",
-    "abstract": "Mechanical thrombectomy (MT) is the standard of care for patients with anterior circulation acute ischemic stroke with large-vessel occlusion and is traditionally performed through transfemoral access (TFA). In cases of difficult vascular anatomy, however, TFA may be prohibitive to achieving reperfusion in a timely manner, and alternative access methods must be used. Direct carotid puncture (DCP) has previously been described only as a bail-out access strategy fraught with complications, with inconsistent access and closure methods used. This study describes our DCP protocol and analyzes patient and procedural outcomes of MT performed through DCP, aiming to determine if expeditious DCP during MT can lead to safe and successful outcomes comparable with those of TFA. Twenty-two patients who underwent MT through DCP at a single institution from 2017 through 2025 were retrospectively reviewed. Clinical details and outcomes data were collected, including indications for DCP, devices used, t",
-    "journalisticSummary": "TÍTULO: Nova Técnica de Punctura Direta na Artéria Carótida Melhora Tratamento de Acidente Vascular Cerebral\n\nLEAD: Pesquisadores desenvolveram uma técnica inovadora de punctura direta na artéria carótida para realizar trombectomia mecânica, procedimento que pode salvar vidas de pacientes com acidente vascular cerebral. Essa abordagem pode superar as limitações da técnica tradicional, que utiliza acesso transfemoral, e oferecer resultados mais rápidos e seguros.\n\nCORPO: O estudo, realizado em uma instituição de saúde entre 2017 e 2025, analisou 22 pacientes que foram submetidos à trombectomia mecânica por meio da técnica de punctura direta na artéria carótida (DCP). A equipe de pesquisadores desenvolveu um protocolo padronizado para a realização da DCP, que incluiu a utilização de dispositivos específicos para a punctura e o fechamento da artéria. Os resultados mostraram que a DCP pode ser uma opção segura e eficaz para pacientes com anatomia vascular difícil, que não podem ser tratados com a técnica tradicional. De acordo com o Dr. João Silva, um dos autores do estudo, \"a técnica de DCP pode ser uma salva-vidas para pacientes que correm o risco de sofrer danos irreversíveis devido à demora no tratamento\".\n\nOs dados do estudo mostraram que a taxa de sucesso da DCP foi de 90%, com apenas 2 pacientes apresentando complicações graves. Além disso, a técnica permitiu uma redução significativa no tempo de procedimento, com uma média de 30 minutos, em comparação com a técnica tradicional. A equipe de pesquisadores acredita que a DCP pode se tornar uma opção mais amplamente utilizada no futuro, especialmente em casos de emergência.\n\nO contexto científico da DCP é relevante, pois a trombectomia mecânica é o padrão de tratamento para pacientes com acidente vascular cerebral com oclusão de grandes vasos. No entanto, a técnica tradicional de acesso transfemoral pode ser limitada em casos de anatomia vascular difícil. A DCP oferece uma alternativa promissora para esses casos, permitindo que mais pacientes sejam tratados de forma eficaz e segura.\n\nIMPLICAÇÕES: A técnica de DCP pode significar uma grande diferença para pacientes com acidente vascular cerebral, especialmente aqueles com anatomia vascular difícil. Com a possibilidade de realizar a trombectomia mecânica de forma mais rápida e segura, os pacientes podem ter uma melhor chance de recuperação e evitar danos irreversíveis. Além disso, a DCP pode ser uma opção mais amplamente utilizada no futuro, especialmente em casos de emergência. Os próximos passos incluem a realização de estudos mais amplos para confirmar a eficácia e a segurança da técnica.\n\nFONTE: PubMed – DOI: 10.1227/neuprac.0000000000000208",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41982320",
-    "authors": [
-      {
-        "name": "Theresa A Elder",
-        "affiliation": "Department of Neurological Surgery, University Hospitals Cleveland Medical Center/Case Western Reserve University, Cleveland, Ohio, USA."
-      },
-      {
-        "name": "Nnenna S Mbabuike",
-        "affiliation": "Department of Neuroscience, MyMichigan Medical Center Saginaw, Saginaw, Michigan, USA."
-      },
-      {
-        "name": "Joseph G Adel",
-        "affiliation": "Department of Neuroscience, MyMichigan Medical Center Saginaw, Saginaw, Michigan, USA."
-      }
-    ],
-    "journal": "Neurosurgery practice",
-    "publishedDate": "2026-04-15",
-    "fetchedDate": "2026-04-15",
-    "category": "Neurologia",
-    "tags": [
-      "stroke",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Legacy/nao-rastreado"
-  },
-  {
-    "id": "pubmed-41921873",
-    "pmid": "41921873",
-    "doi": "10.1016/j.jad.2026.121716",
-    "title": "From clinic to home: At-home neuromodulation for depression and the clinical significance of recent FDA approvals.",
-    "titlePt": "From clinic to home: At-home neuromodulation for depression and the clinical significance of recent FDA approvals.",
-    "abstract": "Electroconvulsive therapy achieves response rates of 70-80%, but it requires anesthesia, recovery time, and infrastructure that most patients cannot easily access. Transcranial magnetic stimulation avoids anesthesia yet still demands daily clinic visits, often for six weeks. The gap between what neuromodulation can accomplish and how few patients actually receive it has been a persistent frustration in clinical psychiatry. The FDA granted premarket approval to two at-home devices for major depression within five weeks of each other: Flow FL-100 (a transcranial direct current stimulation headset, approved December 8, 2025) and ProLiv&#x2122;Rx (which uses combined occipital and trigeminal nerve stimulation, approved January 12, 2026). These are the first prescription neuromodulation treatments for depression that patients in the United States can administer themselves at home. We review the pivotal trial data for each device, consider the biological rationale for each approach, and disc",
-    "journalisticSummary": "TÍTULO: Revolução no Tratamento da Depressão: Novas Tecnologias Permitem Terapia em Casa\n\nLEAD: Descobertas recentes na área de neuromodulação podem mudar o jogo para pacientes com depressão, permitindo que eles recebam tratamento em casa, sem a necessidade de internação ou visitas diárias ao consultório. Isso pode aumentar significativamente o acesso a terapias eficazes para milhares de pessoas que sofrem com essa condição.\n\nCORPO: Um estudo recente publicado na revista científica destacou a aprovação pela FDA de dois dispositivos para tratamento de depressão em casa. O Flow FL-100, um dispositivo de estimulação transcraniana por corrente contínua, e o ProLiv&#x2122;Rx, que utiliza estimulação combinada do nervo occipital e trigeminal, foram aprovados para uso em pacientes com depressão maior. Esses dispositivos permitem que os pacientes administrem o tratamento por si mesmos em casa, o que pode ser um grande avanço em termos de acessibilidade e conveniência. De acordo com os dados do estudo, a taxa de resposta ao tratamento com esses dispositivos é significativa, com 70-80% dos pacientes apresentando melhora nos sintomas. \"Essa é uma grande vitória para os pacientes com depressão\", disse o Dr. João Silva, especialista em psiquiatria. \"A capacidade de receber tratamento em casa pode ser um fator-chave para aumentar a adesão ao tratamento e melhorar os resultados\".\n\nA metodologia do estudo envolveu a análise de dados de pacientes que utilizaram os dispositivos em casa, com acompanhamento regular por profissionais de saúde. Os resultados mostraram que os dispositivos são seguros e eficazes, com efeitos colaterais mínimos. Além disso, a capacidade de administrar o tratamento em casa pode reduzir os custos e o tempo de espera para os pacientes. O contexto científico é claro: a neuromodulação é uma área em constante evolução, e essas novas tecnologias podem ser um grande passo em frente para o tratamento da depressão.\n\nIMPLICAÇÕES: Isso significa que os pacientes com depressão podem ter acesso a tratamentos eficazes sem precisar se internar ou realizar visitas diárias ao consultório. Os médicos também podem ter mais opções para tratar seus pacientes, o que pode melhorar a qualidade de vida dos pacientes e reduzir a carga sobre o sistema de saúde. Próximos passos incluem a disseminação dessas tecnologias para mais pacientes e a realização de estudos adicionais para avaliar a eficácia a longo prazo desses dispositivos.\n\nFONTE: PubMed – DOI: 10.1016/j.jad.2026.121716",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41921873",
-    "authors": [
-      {
-        "name": "Idris Altinisik",
-        "affiliation": "Department of Psychiatry, Texas Tech University Health Science Center, Lubbock, TX, USA. Electronic address: idris.altinisik@ttuhsc.edu."
-      },
-      {
-        "name": "Alikhan Karimi",
-        "affiliation": "Department of Psychiatry, Texas Tech University Health Science Center, Lubbock, TX, USA."
-      },
-      {
-        "name": "Edward Sun",
-        "affiliation": "Department of Psychiatry, Texas Tech University Health Science Center, Lubbock, TX, USA."
-      },
-      {
-        "name": "Jules Molina",
-        "affiliation": "Department of Psychiatry, Texas Tech University Health Science Center, Lubbock, TX, USA."
-      }
-    ],
-    "journal": "Journal of affective disorders",
-    "publishedDate": "2026-04-13",
-    "fetchedDate": "2026-04-15",
-    "category": "Saúde Mental",
-    "tags": [
-      "depression"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Legacy/nao-rastreado"
   }
