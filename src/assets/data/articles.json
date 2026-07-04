@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42252696",
+    "pmid": "42252696",
+    "doi": "10.1002/ajh.70382",
+    "title": "Correction of Ineffective Erythropoiesis and Normalization of Iron Homeostasis After Exagamglogene Autotemcel in Transfusion-Dependent &#x3b2;-Thalassemia.",
+    "titlePt": "Correction of Ineffective Erythropoiesis and Normalization of Iron Homeostasis After Exagamglogene Autotemcel in Transfusion-Dependent &#x3b2;-Thalassemia.",
+    "abstract": "Exagamglogene autotemcel (exa-cel) is a one-time, ex&#xa0;vivo, CRISPR-Cas9 gene edited cell therapy approved for patients with transfusion dependent &#x3b2;-thalassemia (TDT) aged 12-35&#x2009;years. In a Phase 3 study (CLIMB THAL-111), exa-cel treatment resulted in reactivation of fetal hemoglobin and increases in total hemoglobin, leading to transfusion independence in 91% of participants. Here, we report on the impact of exa-cel treatment on measures of ineffective erythropoiesis and iron homeostasis, which were secondary and exploratory endpoints in CLIMB THAL-111 and the CLIMB-131 long-term follow-up study. Prior to exa-cel infusion, all participants were receiving regular red blood cell transfusions and iron chelation therapy. At time of data cut (April 2025), 98% of participants (55 of 56) had been transfusion independent for &#x2265;&#x2009;12&#x2009;months and 38 (68%) had discontinued iron removal therapy (mean duration off iron removal therapy 19.4&#x2009;months). Following",
+    "journalisticSummary": "A terapia gênica ex vivo baseada em edição gênica CRISPR-Cas9, conhecida como exagamglogene autotemcel (exa-cel), tem demonstrado resultados promissores no tratamento de pacientes com talassemia beta dependente de transfusões (TDT). Um estudo de Fase 3 (CLIMB THAL-111) e um estudo de acompanhamento de longo prazo (CLIMB-131) avaliaram o impacto da exa-cel na reativação da hemoglobina fetal, nos níveis de hemoglobina total e na dependência de transfusões. Além disso, esses estudos investigaram a eficácia da exa-cel na correção da eritropoiese ineficaz e na normalização da homeostase de ferro, que são aspectos cruciais na gestão da TDT. Antes do tratamento com exa-cel, todos os participantes estavam submetidos a transfusões regulares de células vermelhas do sangue e terapia de quelação de ferro. Os resultados mostraram que, após a infusão de exa-cel, houve uma melhora significativa na eficácia da eritropoiese e na regulação do ferro, com 98% dos participantes alcançando independência de transfusões por pelo menos 12 meses e 68% descontinuando a terapia de remoção de ferro por uma média de 19,4 meses.\n\nA longo prazo, a exa-cel demonstrou potencial para alterar o curso da TDT, oferecendo uma opção de tratamento inovadora para pacientes que historicamente dependiam de transfusões frequentes e de terapias de quelação de ferro. No entanto, é importante considerar as limitações dos estudos e a necessidade de acompanhamento contínuo para avaliar a segurança e a eficácia a longo prazo da exa-cel. Além disso, os próximos passos incluem a expansão do acesso a essa terapia para uma população mais ampla de pacientes com TDT, bem como a investigação de sua aplicabilidade em outras condições hematológicas.\n\nThe ex vivo gene therapy based on CRISPR-Cas9 gene editing, known as exagamglogene autotemcel (exa-cel), has shown promising results in the treatment of patients with transfusion-dependent beta-thalassemia (TDT). A Phase 3 study (CLIMB THAL-111) and a long-term follow-up study (CLIMB-131) evaluated the impact of exa-cel on the reactivation of fetal hemoglobin, total hemoglobin levels, and transfusion dependence. Additionally, these studies investigated the efficacy of exa-cel in correcting ineffective erythropoiesis and normalizing iron homeostasis, which are crucial aspects in the management of TDT. Before exa-cel treatment, all participants were undergoing regular red blood cell transfusions and iron chelation therapy. The results showed that, after exa-cel infusion, there was a significant improvement in erythropoiesis efficacy and iron regulation, with 98% of participants achieving transfusion independence for at least 12 months and 68% discontinuing iron removal therapy for a mean of 19.4 months.\n\nIn the long term, exa-cel has demonstrated potential to alter the course of TDT, offering an innovative treatment option for patients who historically depended on frequent transfusions and iron chelation therapies. However, it is essential to consider the limitations of the studies and the need for continued follow-up to assess the long-term safety and efficacy of exa-cel. Furthermore, the next steps include expanding access to this therapy to a broader population of patients with TDT, as well as investigating its applicability in other hematological conditions.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42252696",
+    "authors": [
+      {
+        "name": "Sujit Sheth",
+        "affiliation": "Weill Cornell Medicine, New York, New York, USA."
+      },
+      {
+        "name": "Selim Corbacioglu",
+        "affiliation": "University of Regensburg, Regensburg, Germany."
+      },
+      {
+        "name": "Josu de la Fuente",
+        "affiliation": "Imperial College Healthcare NHS Trust, St Mary's Hospital, London, UK."
+      },
+      {
+        "name": "Mattia Algeri",
+        "affiliation": "IRCCS, Ospedale Pediatrico Bambino Ges&#xf9;, Rome, Italy."
+      }
+    ],
+    "journal": "American journal of hematology",
+    "publishedDate": "2026-07-03",
+    "fetchedDate": "2026-07-04",
+    "category": "Genômica",
+    "tags": [
+      "crispr",
+      "gene"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41784048",
     "pmid": "41784048",
     "doi": "10.1111/pace.70195",
@@ -202,7 +244,7 @@
       "chemotherapy",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12619,48 +12661,5 @@
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Legacy/nao-rastreado"
-  },
-  {
-    "id": "pubmed-41971017",
-    "pmid": "41971017",
-    "doi": "10.1016/j.gendis.2025.101935",
-    "title": "Lactylation-driven therapeutic resistance in cancer: Mechanisms and therapeutic opportunities.",
-    "titlePt": "Lactylation-driven therapeutic resistance in cancer: Mechanisms and therapeutic opportunities.",
-    "abstract": "Lactylation, a type of post-translational modification (PTM) of proteins driven by cancer metabolic reprogramming, not only offers new perspectives on the Warburg effect but also has drawn increasing attention due to its critical roles in tumorigenesis and therapeutic resistance. Given its significant potential for precision cancer therapy, this review first integrates recent advancements in lactylation research by systematically summarizing newly identified lactylation writers, readers, and erasers, as well as their involvement in feedback loops and crosstalk with other modifications. Subsequently, we elaborate on how histone and non-histone lactylation contribute to both intrinsic and acquired resistance to radiotherapy, chemotherapy, targeted therapy, and immunotherapy. Key mechanisms encompass maintaining cancer stemness, enhancing DNA damage repair, reprogramming metabolic pathways, inhibiting ferroptosis, and promoting an immunosuppressive tumor microenvironment. Finally, we eval",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41971017",
-    "authors": [
-      {
-        "name": "Wanghao Zhang",
-        "affiliation": "Department of Neurosurgery, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong 510515, China."
-      },
-      {
-        "name": "Guanglong Huang",
-        "affiliation": "The Laboratory for Precision Neurosurgery, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong 510515, China."
-      },
-      {
-        "name": "Woheng Tang",
-        "affiliation": "The First Clinical Medical College, Southern Medical University, Guangzhou, Guangdong 510515, China."
-      },
-      {
-        "name": "Jiaxian Li",
-        "affiliation": "Department of Neurosurgery, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong 510515, China."
-      }
-    ],
-    "journal": "Genes &amp; diseases",
-    "publishedDate": "2026-04-13",
-    "fetchedDate": "2026-04-14",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "chemotherapy",
-      "immunotherapy",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": false
   }
 ]
