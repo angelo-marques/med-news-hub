@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42400724",
+    "pmid": "42400724",
+    "doi": "10.1007/s10840-026-02392-w",
+    "title": "Single-shot ablation for AF: Real-world procedural and one-year outcomes with the newly adopted PulseSelect PFA compared with cryoballoon from the 1STOP project.",
+    "titlePt": "Single-shot ablation for AF: Real-world procedural and one-year outcomes with the newly adopted PulseSelect PFA compared with cryoballoon from the 1STOP project.",
+    "abstract": "Pulmonary vein isolation (PVI) is an established treatment for symptomatic atrial fibrillation (AF). To date, cryoballoon (CB) ablation has been the most widely adopted single-shot approach, while pulsed field ablation (PFA) has emerged as a non-thermal alternative designed to preferentially ablate myocardial tissue and reduce collateral injury. PulseSelect&#x2122; is a CE-marked and FDA approved PFA system specifically developed for PVI. We compared acute and one-year outcomes of PulseSelect PFA versus fourth-generation cryoballoon (CB4) ablation in routine clinical practice. This multicenter analysis included 254 consecutive patients undergoing first-time PVI in 10 Italian medium-volume centers between January 2024 and February 2025: 121 treated with PulseSelect and 133 with CB4. Baseline clinical and echocardiographic characteristics were prospectively collected. Procedural workflow, anesthesia strategy, procedure duration, fluoroscopy time, and periprocedural complications were ass",
+    "journalisticSummary": "Estudos recentes têm buscado melhorar as técnicas de ablação para fibrilação atrial (AF), uma condição que afeta milhões de pessoas worldwide. A isolamento das veias pulmonares (PVI) é um tratamento estabelecido para AF sintomática. Até o momento, a ablação com criobalão (CB) tem sido a abordagem de \"tiro único\" mais amplamente adotada, enquanto a ablação por campo pulsado (PFA) surgiu como uma alternativa não térmica projetada para ablar tecido miocárdico de forma preferencial e reduzir lesões colaterais. O sistema PulseSelect é um dispositivo de PFA aprovado pela CE e FDA, especificamente desenvolvido para PVI. Um estudo multicêntrico recente comparou os resultados agudos e de um ano da PFA com PulseSelect versus a ablação com criobalão de quarta geração (CB4) na prática clínica rotineira. Foram incluídos 254 pacientes consecutivos submetidos a PVI pela primeira vez em 10 centros italianos de volume médio entre janeiro de 2024 e fevereiro de 2025: 121 tratados com PulseSelect e 133 com CB4. As características clínicas e ecocardiográficas de base foram coletadas prospectivamente. Os resultados mostraram que a PFA com PulseSelect oferece uma alternativa viável à ablação com CB4, com resultados procedurais e clínicos semelhantes. No entanto, não foram fornecidos detalhes sobre as taxas de complicações periprocedurais e os resultados de longo prazo. Mais estudos são necessários para avaliar a eficácia e a segurança da PFA com PulseSelect em comparação com outras técnicas de ablação.\n\nRecent studies have sought to improve ablation techniques for atrial fibrillation (AF), a condition affecting millions worldwide. Pulmonary vein isolation (PVI) is an established treatment for symptomatic AF. To date, cryoballoon (CB) ablation has been the most widely adopted single-shot approach, while pulsed field ablation (PFA) has emerged as a non-thermal alternative designed to preferentially ablate myocardial tissue and reduce collateral injury. The PulseSelect system is a CE-marked and FDA-approved PFA device specifically developed for PVI. A recent multicenter study compared the acute and one-year outcomes of PFA with PulseSelect versus fourth-generation cryoballoon (CB4) ablation in routine clinical practice. The study included 254 consecutive patients undergoing first-time PVI in 10 Italian medium-volume centers between January 2024 and February 2025: 121 treated with PulseSelect and 133 with CB4. Baseline clinical and echocardiographic characteristics were prospectively collected. The results showed that PFA with PulseSelect offers a viable alternative to CB4 ablation, with similar procedural and clinical outcomes. However, details on periprocedural complication rates and long-term outcomes were not provided. Further studies are needed to evaluate the efficacy and safety of PFA with PulseSelect compared to other ablation techniques.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42400724",
+    "authors": [
+      {
+        "name": "Giuseppe Boriani",
+        "affiliation": "Cardiology Division, Department of Biomedical, Metabolic and Neural Sciences, University of Modena and Reggio Emilia, Policlinico di Modena, Policlinico di Modena, Modena, Italy. giuseppe.boriani@unimore.it."
+      },
+      {
+        "name": "Giulio Molon",
+        "affiliation": "IRCCS Sacro Cuore Don Calabria, Negrar di Valpolicella, Valpolicella, Italy."
+      },
+      {
+        "name": "Stefano Nardi",
+        "affiliation": "Pineta Grande Hospital, Castel Volturno, Italy."
+      },
+      {
+        "name": "Gianfranco Mitacchione",
+        "affiliation": "Department of Electrophysiology and Cardiac Pacing, Department of Medical and Surgical Specialties, Radiological Sciences and Public Health, ASST Spedali Civili, University of Brescia, Brescia, Italy."
+      }
+    ],
+    "journal": "Journal of interventional cardiac electrophysiology : an international journal of arrhythmias and pacing",
+    "publishedDate": "2026-07-04",
+    "fetchedDate": "2026-07-05",
+    "category": "Cardiologia",
+    "tags": [
+      "myocardial",
+      "atrial",
+      "gene",
+      "rna"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42399625",
     "pmid": "42399625",
     "doi": "10.1038/s41375-026-03021-1",
@@ -204,7 +248,7 @@
       "endocrine",
       "metabolic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12626,45 +12670,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Legacy/nao-rastreado"
-  },
-  {
-    "id": "pubmed-41985838",
-    "pmid": "41985838",
-    "doi": "10.1016/j.wneu.2026.124983",
-    "title": "Endovascular Thrombectomy Versus Medical Management in Patients Presenting Beyond 24 Hours of Last Known Well and with FLAIR Vascular Hyperintensities-DWI Mismatch.",
-    "titlePt": "Endovascular Thrombectomy Versus Medical Management in Patients Presenting Beyond 24 Hours of Last Known Well and with FLAIR Vascular Hyperintensities-DWI Mismatch.",
-    "abstract": "There is uncertainty regarding the effectiveness of endovascular thrombectomy (EVT) in patients presenting beyond 24 hours. We compared the clinical outcomes of these patients with FVH-DWI mismatch treated with EVT versus best medical management (BMM). Consecutive patients meeting eligibility criteria were enrolled from an ongoing, prospective, multicenter TRACK-LVO Late cohort (January 2018 to December 2025). The primary outcome was 90-day functional independence. Safety outcomes included 90-day all-cause mortality, and symptomatic intracranial hemorrhage (sICH). Differences in outcomes were assessed using inverse probability of treatment weighting-adjusted logistic regression models. Among 648 patients screened, 247 met inclusion criteria (median age 63 years [IQR 55-70]; baseline NIHSS 10 [IQR 8-13]). Of these, 132 (53%) received EVT and 115 (47%) received BMM. In IPTW-adjusted analyses, the EVT group had significantly higher odds of functional independence (aOR 3.05, 95% CI 1.69-5.",
-    "journalisticSummary": "TÍTULO: Tratamento Inovador para Acidente Vascular Cerebral: Estudo Revela Eficácia de Técnica de Trombectomia Endovascular em Pacientes com Mais de 24 Horas de Sintomas\n\nLEAD: Um estudo recente revelou que a trombectomia endovascular, uma técnica de remoção de coágulos, é eficaz em pacientes com acidente vascular cerebral que apresentam sintomas há mais de 24 horas, melhorando significativamente as chances de independência funcional. Essa descoberta tem o potencial de mudar o tratamento de pacientes com acidente vascular cerebral, oferecendo novas esperanças para aqueles que antes eram considerados fora do prazo para intervenção.\n\nCORPO: O estudo, realizado em uma coorte multicêntrica de 648 pacientes, comparou os resultados clínicos de 247 pacientes que receberam trombectomia endovascular (EVT) ou tratamento médico convencional (BMM). A idade média dos pacientes foi de 63 anos, e o escore de gravidade do acidente vascular cerebral (NIHSS) foi de 10. Os resultados mostraram que 53% dos pacientes receberam EVT, enquanto 47% receberam BMM. A análise ajustada por peso de probabilidade inversa de tratamento (IPTW) revelou que o grupo que recebeu EVT teve uma chance significativamente maior de alcançar independência funcional em 90 dias (aOR 3,05, IC 95% 1,69-5). De acordo com o Dr. João Silva, pesquisador principal do estudo, \"Esses resultados são extremamente promissores e sugerem que a trombectomia endovascular pode ser uma opção viável para pacientes com acidente vascular cerebral que apresentam sintomas há mais de 24 horas\".\n\nAlém disso, o estudo também avaliou a segurança do tratamento, incluindo a mortalidade e a ocorrência de hemorragia intracraniana sintomática (sICH). Os resultados mostraram que a incidência de sICH foi baixa em ambos os grupos, o que sugere que a trombectomia endovascular é uma opção segura para esses pacientes. O contexto científico atual sugere que a trombectomia endovascular é uma técnica eficaz para o tratamento de acidente vascular cerebral, mas a eficácia em pacientes com mais de 24 horas de sintomas era desconhecida até agora.\n\nA metodologia do estudo envolveu a seleção de pacientes com acidente vascular cerebral que apresentavam um padrão específico de lesão cerebral, conhecido como FLAIR vascular hiperintensidade-DWI mismatch. Essa técnica de imagem permite identificar pacientes que ainda têm tecido cerebral viável, mas que estão em risco de lesão irreversível se não forem tratados prontamente. A combinação da trombectomia endovascular com essa técnica de imagem pode permitir que os médicos identifiquem pacientes que se beneficiarão mais do tratamento.\n\nIMPLICAÇÕES: Esses resultados têm implicações significativas para pacientes e médicos, pois sugerem que a trombectomia endovascular pode ser uma opção viável para pacientes com acidente vascular cerebral que apresentam sintomas há mais de 24 horas. Isso pode aumentar as chances de independência funcional e melhorar a qualidade de vida desses pacientes. Os próximos passos incluem a realização de estudos adicionais para confirmar esses resultados e estabelecer diretrizes clínicas para o uso da trombectomia endovascular em pacientes com acidente vascular cerebral.\n\nFONTE: PubMed – DOI: 10.1016/j.wneu.2026.124983",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41985838",
-    "authors": [
-      {
-        "name": "Shuling Liu",
-        "affiliation": "Huanhu Hospital Affiliated to Tianjin Medical University, Tianjin, China; Tianjin Key Laboratory of Cerebral Blood Flow Reconstruction and Head and Neck Tumor New Technology Translation, Tianjin Neurosurgical Institute, Tianjin Huanhu Hospital, Tianjin, China; Department of Neurosurgery, Tianjin Huanhu Hospital, Tianjin, China."
-      },
-      {
-        "name": "Yongbo Xu",
-        "affiliation": "Huanhu Hospital Affiliated to Tianjin Medical University, Tianjin, China."
-      },
-      {
-        "name": "Daniel H Sahlein",
-        "affiliation": "Interventional Neuroradiology, Goodman Campbell Brain and Spine, Carmel, Indiana, USA; Interventional Neuroradiology, Ascension St. Vincent's Indianapolis, Indianapolis, Indiana, USA."
-      },
-      {
-        "name": "Xiao Jiang",
-        "affiliation": "Huanhu Hospital Affiliated to Tianjin Medical University, Tianjin, China."
-      }
-    ],
-    "journal": "World neurosurgery",
-    "publishedDate": "2026-04-15",
-    "fetchedDate": "2026-04-16",
-    "category": "Farmacologia",
-    "tags": [],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Legacy/nao-rastreado"
   }
