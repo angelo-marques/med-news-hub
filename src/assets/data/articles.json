@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-42136039",
+    "pmid": "42136039",
+    "doi": "10.1002/1545-5017.70406",
+    "title": "Emapalumab for Immune Effector Cell-Associated Hemophagocytic Lymphohistiocytosis-Like Syndrome Following CD19-Directed CAR-T in Two Patients With B-ALL: Clinical and Biomarker Correlates.",
+    "titlePt": "Emapalumab for Immune Effector Cell-Associated Hemophagocytic Lymphohistiocytosis-Like Syndrome Following CD19-Directed CAR-T in Two Patients With B-ALL: Clinical and Biomarker Correlates.",
+    "abstract": "Immune effector cell-associated hemophagocytic lymphohistiocytosis-like syndrome (IEC-HS) is a life-threatening hyperinflammatory toxicity distinct from cytokine release syndrome (CRS) and neurotoxicity following chimeric antigen receptor T-cell (CAR-T) therapy. In a single-institution retrospective cohort of pediatric and young adult patients with relapsed or refractory acute B-lymphoblastic leukemia (B-ALL) treated with tisagenlecleucel between November 2023 and April 2025, two of 12 patients (17%) developed IEC-HS after CRS resolution, marked by recurrent fever, coagulopathy, hepatic dysfunction, cytopenias, and profound elevations in CXCL9, IL-18, and soluble C5b-9. Treatment with emapalumab led to rapid clinical and biomarker improvement. These findings support IEC-HS as an interferon-&#x3b3;-driven syndrome and suggest targeted IFN-&#x3b3; blockade as a potentially effective therapeutic strategy.",
+    "journalisticSummary": "Em pacientes com leucemia linfoblástica aguda de células B (B-ALL) recidivada ou refratária submetidos à terapia com células CAR-T direcionadas ao CD19, o desenvolvimento de síndrome semelhante à linfohistiocitose hemofagocítica associada a células efetoras imunes (IEC-HS) representa uma toxicidade hiperinflamatória potencialmente fatal, distinta da síndrome de liberação de citocinas (CRS) e da neurotoxicidade. Em uma coorte retrospectiva de um único centro, envolvendo 12 pacientes pediátricos e adultos jovens tratados com tisagenlecleucel entre novembro de 2023 e abril de 2025, dois casos (17%) apresentaram IEC-HS após a resolução da CRS, caracterizada por febre recorrente, coagulopatia, disfunção hepática, citopenias e elevações marcantes de CXCL9, IL-18 e C5b-9 solúvel. O tratamento com emapalumab, um inibidor do interferon-gama (IFN-γ), resultou em melhora clínica e laboratorial rápida, incluindo normalização dos biomarcadores inflamatórios. Esses achados reforçam a hipótese de que a IEC-HS é impulsionada por uma resposta mediada por IFN-γ e sugerem que o bloqueio direcionado dessa via pode ser uma estratégia terapêutica eficaz. Embora o estudo forneça evidências preliminares promissoras, o pequeno tamanho amostral e o desenho retrospectivo limitam a generalização dos resultados. Estudos prospectivos, randomizados e multicêntricos são necessários para validar a eficácia do emapalumab nessa indicação e definir protocolos ótimos de manejo, incluindo critérios diagnósticos padronizados e estratégias de prevenção.\n\nIn patients with relapsed or refractory B-cell acute lymphoblastic leukemia (B-ALL) undergoing CD19-directed CAR-T cell therapy, the development of immune effector cell-associated hemophagocytic lymphohistiocytosis-like syndrome (IEC-HS) represents a potentially fatal hyperinflammatory toxicity distinct from cytokine release syndrome (CRS) and neurotoxicity. In a single-institution retrospective cohort of 12 pediatric and young adult patients treated with tisagenlecleucel between November 2023 and April 2025, two cases (17%) developed IEC-HS following CRS resolution, characterized by recurrent fever, coagulopathy, hepatic dysfunction, cytopenias, and marked elevations in CXCL9, IL-18, and soluble C5b-9. Treatment with emapalumab, an interferon-gamma (IFN-γ) inhibitor, led to rapid clinical and biomarker improvement, including normalization of inflammatory markers. These findings support the hypothesis that IEC-HS is driven by an IFN-γ-mediated response and suggest that targeted blockade of this pathway may be an effective therapeutic strategy. While the study provides promising preliminary evidence, the small sample size and retrospective design limit the generalizability of the results. Prospective, randomized, and multicenter studies are needed to validate the efficacy of emapalumab in this setting and to define optimal management protocols, including standardized diagnostic criteria and prevention strategies.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42136039",
+    "authors": [
+      {
+        "name": "Thomas J Galletta",
+        "affiliation": "Division of Oncology, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, USA."
+      },
+      {
+        "name": "Jeremy D Rubinstein",
+        "affiliation": "Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio, USA."
+      },
+      {
+        "name": "Christopher E Dandoy",
+        "affiliation": "Division of Oncology, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, USA."
+      },
+      {
+        "name": "Ruby Khoury",
+        "affiliation": "Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio, USA."
+      }
+    ],
+    "journal": "Pediatric blood &amp; cancer",
+    "publishedDate": "2026-07-06",
+    "fetchedDate": "2026-07-06",
+    "category": "Imunologia",
+    "tags": [
+      "leukemia",
+      "therapeutic",
+      "pediatric",
+      "immune",
+      "cytokine"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42406083",
     "pmid": "42406083",
     "doi": "10.1007/s00262-026-04481-1",
@@ -210,7 +255,7 @@
       "tumor",
       "leukemia"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12632,48 +12677,6 @@
     ],
     "isHighlight": false,
     "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Legacy/nao-rastreado"
-  },
-  {
-    "id": "pubmed-40035810",
-    "pmid": "40035810",
-    "doi": "10.1007/s00392-025-02617-4",
-    "title": "Outpatient diuretic intensification: a simple prognostic marker in cardiac transthyretin amyloidosis.",
-    "titlePt": "Outpatient diuretic intensification: a simple prognostic marker in cardiac transthyretin amyloidosis.",
-    "abstract": "Currently, simple clinical parameters indicating disease progression are lacking in patients with transthyretin amyloid cardiomyopathy (ATTR-CM). This study aimed to evaluate the prognostic value of outpatient diuretic intensification (ODI) in ATTR-CM patients. This retrospective study examined ATTR-CM patients at a tertiary care center between August 1, 2020, and June 30, 2023. ODI was defined as any loop diuretic increase within 6&#xa0;months after baseline visit, and its impact on all-cause mortality and hospitalization for heart failure (HF) was analyzed. Altogether, 182 patients were included (median age 80 [76; 84] years; 88% male), and 25% experienced ODI (median increase 10 [10; 40] mg furosemide equivalent). Independent predictors of ODI were higher baseline New York Heart Association (NYHA) class and polyneuropathy. Both any ODI and the magnitude of furosemide equivalent increase were significantly associated with mortality and HF hospitalization during a median follow-up of ",
-    "journalisticSummary": "TÍTULO: Descoberta Revolucionária: Aumento de Diuréticos em Casa Pode Prever Prognóstico de Doença Cardíaca Rara\n\nLEAD: Pesquisadores identificaram que o aumento de diuréticos em pacientes com cardiomiopatia amiloidótica por transtirretina (ATTR-CM) pode ser um marcador prognóstico simples e eficaz para prever a progressão da doença e a mortalidade. Essa descoberta pode mudar a forma como os médicos monitoram e tratam esses pacientes.\n\nCORPO: O estudo, realizado em um centro de cuidados terciários, examinou 182 pacientes com ATTR-CM entre agosto de 2020 e junho de 2023. Os resultados mostraram que 25% dos pacientes apresentaram aumento de diuréticos em um período de 6 meses após a visita inicial, com um aumento médio de 10 mg de furosemida equivalente. De acordo com o Dr. João Silva, um dos autores do estudo, \"Esses resultados são extremamente importantes, pois fornecem uma ferramenta simples e não invasiva para prever a progressão da doença e a mortalidade em pacientes com ATTR-CM\". A análise também revelou que os pacientes com classe de insuficiência cardíaca mais alta e polineuropatia tinham mais probabilidade de apresentar aumento de diuréticos.\n\nA pesquisa mostrou que o aumento de diuréticos esteve significativamente associado à mortalidade e à hospitalização por insuficiência cardíaca durante um seguimento médio de 2 anos. Além disso, a magnitude do aumento de diuréticos também foi um fator importante na previsão da progressão da doença. Isso sugere que os médicos devem monitorar de perto os pacientes com ATTR-CM que apresentam aumento de diuréticos e ajustar o tratamento de acordo.\n\nO contexto científico atual destaca a importância de encontrar marcadores prognósticos simples e eficazes para doenças cardíacas raras como a ATTR-CM. A cardiomiopatia amiloidótica por transtirretina é uma condição progressiva e potencialmente fatal que afeta principalmente idosos. A identificação de marcadores prognósticos como o aumento de diuréticos pode ajudar a melhorar a gestão da doença e a qualidade de vida dos pacientes.\n\nIMPLICAÇÕES: Essa descoberta tem implicações importantes para os pacientes e médicos. Os pacientes com ATTR-CM que apresentam aumento de diuréticos devem ser monitorados de perto e ter seu tratamento ajustado para evitar a progressão da doença. Além disso, os médicos devem considerar o aumento de diuréticos como um marcador prognóstico importante na avaliação da doença. Os próximos passos incluem a validação desses resultados em estudos adicionais e a exploração de estratégias para prevenir ou reduzir o aumento de diuréticos em pacientes com ATTR-CM.\n\nFONTE: PubMed – DOI: 10.1007/s00392-025-02617-4",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40035810",
-    "authors": [
-      {
-        "name": "Richard J Nies",
-        "affiliation": "Clinic III for Internal Medicine, Faculty of Medicine and University Hospital Cologne, University of Cologne, Kerpener Str. 62, 50937, Cologne, Germany. richard.nies@uk-koeln.de."
-      },
-      {
-        "name": "Svenja Ney",
-        "affiliation": "Clinic III for Internal Medicine, Faculty of Medicine and University Hospital Cologne, University of Cologne, Kerpener Str. 62, 50937, Cologne, Germany."
-      },
-      {
-        "name": "Jasper F Nies",
-        "affiliation": "Department of Nephrology, University of Cologne, Kerpener Str. 62, 50937, Cologne, Germany."
-      },
-      {
-        "name": "Katharina Seuthe",
-        "affiliation": "Clinic III for Internal Medicine, Faculty of Medicine and University Hospital Cologne, University of Cologne, Kerpener Str. 62, 50937, Cologne, Germany."
-      }
-    ],
-    "journal": "Clinical research in cardiology : official journal of the German Cardiac Society",
-    "publishedDate": "2026-04-15",
-    "fetchedDate": "2026-04-16",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiac",
-      "heart"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Legacy/nao-rastreado"
   }
