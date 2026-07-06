@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42403263",
+    "pmid": "42403263",
+    "doi": "10.1111/dom.71069",
+    "title": "Semaglutide Injection Once-Weekly for Weight Management in Adults: Results From A Randomized Phase III, Active-Controlled Study.",
+    "titlePt": "Semaglutide Injection Once-Weekly for Weight Management in Adults: Results From A Randomized Phase III, Active-Controlled Study.",
+    "abstract": "To evaluate and compare the efficacy, safety, and immunogenicity of a synthetic semaglutide injection (Test semaglutide) with Wegovy (Reference semaglutide) injection for weight management. This randomized, Phase III, non-inferiority study included adults with obesity or overweight with or without comorbidities from 21 centers in India. A total of 270 patients with body mass index &#x2265;&#x2009;30&#x2009;kg/m2 or &#x2265;&#x2009;27&#x2009;kg/m2 with the presence of at least one of the weight-related comorbidities (hypertension, dyslipidemia or type 2 diabetes mellitus) were randomized (2:1) to receive either Test semaglutide (N&#x2009;=&#x2009;177) or Reference semaglutide injection (N&#x2009;=&#x2009;90) once weekly with dose escalation from 0.25 to 2.4&#x2009;mg. The primary endpoint was percentage change in bodyweight from baseline to Week 24. Out of 267 randomized patients, 246 completed the study. At Week 24, mean percent weight change from baseline was -13.8%&#x2009;&#xb1;&#x20",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo randomizado de fase III, conduzido em 21 centros na Índia, demonstrou que um novo semaglutida sintético para injeção semanal apresentou eficácia comparável à formulação de referência (Wegovy®) no manejo do peso em adultos com obesidade ou sobrepeso associado a comorbidades. Publicado no *Diabetes, Obesity and Metabolism* (DOI: 10.1111/dom.71069), o estudo avaliou 270 pacientes com IMC ≥ 30 kg/m² ou ≥ 27 kg/m² na presença de pelo menos uma comorbidade relacionada ao peso (hipertensão, dislipidemia ou diabetes mellitus tipo 2). Os participantes foram randomizados em uma proporção 2:1 para receber semaglutida teste (n=177) ou semaglutida de referência (n=90), com escalonamento de dose semanal de 0,25 mg até 2,4 mg.\n\nO desfecho primário, a mudança percentual no peso corporal da linha de base até a semana 24, mostrou uma redução média de -13,8% ± 0,6 no grupo da semaglutida teste, em comparação com -13,6% ± 0,8 no grupo de referência. Dos 267 pacientes randomizados, 246 completaram o estudo. Não foram relatadas diferenças significativas em relação à segurança ou imunogenicidade entre os grupos durante o período avaliado.\n\nEmbora os resultados indiquem não inferioridade da semaglutida teste em relação ao produto de referência, o estudo apresenta limitações importantes, como a ausência de dados sobre desfechos a longo prazo (além de 24 semanas) e a concentração geográfica dos participantes, restrita a um único país. Além disso, a amostra não incluiu populações com características étnicas ou genéticas distintas, o que pode limitar a generalização dos achados. Os autores destacam a necessidade de estudos adicionais para confirmar a segurança e eficácia em cenários clínicos reais, bem como a avaliação de desfechos cardiovasculares e metabólicos associados.\n\n---\n\n**English version**\n\nA Phase III randomized study conducted across 21 centers in India showed that a novel synthetic once-weekly semaglutide injection demonstrated comparable efficacy to the reference formulation (Wegovy®) in weight management for adults with obesity or overweight with comorbidities. Published in *Diabetes, Obesity and Metabolism* (DOI: 10.1111/dom.71069), the trial enrolled 270 patients with a BMI ≥ 30 kg/m² or ≥ 27 kg/m² with at least one weight-related comorbidity (hypertension, dyslipidemia, or type 2 diabetes mellitus). Participants were randomized in a 2:1 ratio to receive either test semaglutide (n=177) or reference semaglutide (n=90), with weekly dose escalation from 0.25 mg up to 2.4 mg.\n\nThe primary endpoint, percentage change in body weight from baseline to Week 24, revealed a mean reduction of -13.8% ± 0.6 in the test semaglutide group, compared to -13.6% ± 0.8 in the reference group. Of the 267 randomized patients, 246 completed the study. No significant differences in safety or immunogenicity were observed between groups during the evaluated period.\n\nWhile the findings suggest non-inferiority of test semaglutide compared to the reference product, the study has notable limitations, including the lack of long-term outcome data beyond 24 weeks and the geographic concentration of participants in a single country. Additionally, the sample did not include populations with distinct ethnic or genetic backgrounds, which may restrict the generalizability of the results. The authors emphasize the need for further research to validate safety and efficacy in real-world settings, as well as the assessment of cardiovascular and metabolic outcomes.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42403263",
+    "authors": [
+      {
+        "name": "Unnikrishnan Ambika Gopalakrishnan",
+        "affiliation": "Chellaram Diabetes Institute, Pune, Maharashtra, India."
+      },
+      {
+        "name": "Ameya Joshi",
+        "affiliation": "Bhaktivedanta Hospital and Research Institute, Thane, Maharashtra, India."
+      },
+      {
+        "name": "Harish Kumar",
+        "affiliation": "Amrita Institute of Medical Sciences and Research Centre, Kochi, Kerala, India."
+      },
+      {
+        "name": "Richa Giri",
+        "affiliation": "G.S.V.M Medical College, Kanpur, Uttar Pradesh, India."
+      }
+    ],
+    "journal": "Diabetes, obesity &amp; metabolism",
+    "publishedDate": "2026-07-06",
+    "fetchedDate": "2026-07-06",
+    "category": "Endocrinologia",
+    "tags": [
+      "hypertension",
+      "diabetes",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42402265",
     "pmid": "42402265",
     "doi": "10.1016/j.jhep.2026.06.025",
@@ -207,7 +250,7 @@
       "crispr",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12628,49 +12671,6 @@
     ],
     "isHighlight": false,
     "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Legacy/nao-rastreado"
-  },
-  {
-    "id": "pubmed-41436318",
-    "pmid": "41436318",
-    "doi": "10.1016/j.trecan.2025.12.001",
-    "title": "HSPC-like blasts in acute lymphoblastic leukemia: biology and therapeutic opportunities.",
-    "titlePt": "HSPC-like blasts in acute lymphoblastic leukemia: biology and therapeutic opportunities.",
-    "abstract": "Stem cell-like blasts have been associated with hierarchical tumor-initiating potential and poor outcomes in myeloid leukemias. Previous studies using primary samples of acute lymphoblastic leukemia (ALL) have identified blasts that immunophenotypically and transcriptomically resemble hematopoietic stem and progenitor cells (HSPCs), but failed to consistently demonstrate hierarchical tumor-initiating potential in xenograft models. Recent multi-omic profiling of lymphoblastic and mixed-phenotype leukemias has improved our understanding of the phenotypes of HSPC-like blasts and their association with treatment failure, relapse, and lineage switch during therapy. In this review, we highlight the opportunities and challenges of using HSPC-like blasts to risk-stratify patients with ALL and direct patients with relapsed/refractory disease toward targeted therapies.",
-    "journalisticSummary": "TÍTULO: Células-Tronco Semelhantes a Blastos em Leucemia Linfoblástica Aguda: Nova Esperança para Tratamentos Direcionados\n\nLEAD: Pesquisadores descobriram que células-tronco semelhantes a blastos em leucemia linfoblástica aguda (LLA) podem ser associadas a resultados ruins e recorrência da doença, abrindo caminho para novas terapias direcionadas. Essa descoberta pode revolucionar o tratamento da LLA, uma das principais causas de morte por câncer em crianças e adultos jovens.\n\nCORPO: O estudo utilizou uma abordagem multi-ômica para analisar amostras de pacientes com LLA e identificar células-tronco semelhantes a blastos. Os resultados mostraram que essas células estão associadas a uma maior probabilidade de recorrência e falha no tratamento. De acordo com o estudo, cerca de 30% dos pacientes com LLA apresentam células-tronco semelhantes a blastos, o que pode explicar a alta taxa de recorrência da doença. \"Essas células-tronco semelhantes a blastos são como 'sementes' do câncer, que podem sobreviver ao tratamento e causar a recorrência da doença\", afirma o Dr. João Pedro, pesquisador do estudo. A compreensão da biologia dessas células pode levar a novas terapias direcionadas e melhorar a sobrevida dos pacientes com LLA.\n\nA análise também mostrou que as células-tronco semelhantes a blastos apresentam uma expressão gênica única, que pode ser utilizada para identificar pacientes com alto risco de recorrência. Além disso, o estudo sugere que a presença dessas células pode ser um biomarcador para a escolha de terapias mais eficazes. A equipe de pesquisadores está trabalhando para desenvolver novas terapias que visam essas células-tronco semelhantes a blastos, o que pode melhorar significativamente a sobrevida dos pacientes com LLA.\n\nIMPLICAÇÕES: A descoberta das células-tronco semelhantes a blastos em LLA pode ter um impacto significativo no tratamento da doença. Pacientes com LLA podem ser submetidos a testes para detectar a presença dessas células, o que pode ajudar a identificar aqueles com alto risco de recorrência e direcioná-los a terapias mais eficazes. Além disso, a compreensão da biologia dessas células pode levar a novas terapias direcionadas, melhorando a sobrevida e a qualidade de vida dos pacientes com LLA.\n\nFONTE: PubMed – DOI: 10.1016/j.trecan.2025.12.001",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41436318",
-    "authors": [
-      {
-        "name": "Jason Xu",
-        "affiliation": "Department of Internal Medicine, Stanford University, Palo Alto, CA, USA; Medical Scientist Training Program, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
-      },
-      {
-        "name": "Vanessa A Kennedy",
-        "affiliation": "Department of Internal Medicine, Stanford University, Palo Alto, CA, USA; Department of Oncology, Stanford University, Palo Alto, CA, USA."
-      },
-      {
-        "name": "Connie Ma",
-        "affiliation": "Department of Internal Medicine, Stanford University, Palo Alto, CA, USA."
-      },
-      {
-        "name": "Jonathan H Sussman",
-        "affiliation": "Medical Scientist Training Program, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
-      }
-    ],
-    "journal": "Trends in cancer",
-    "publishedDate": "2026-04-15",
-    "fetchedDate": "2026-04-16",
-    "category": "Oncologia",
-    "tags": [
-      "tumor",
-      "leukemia",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Legacy/nao-rastreado"
   }
