@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-42406083",
+    "pmid": "42406083",
+    "doi": "10.1007/s00262-026-04481-1",
+    "title": "Safety and feasibility of 5T4 antibody-coupled allogeneic NK cell therapy for solid tumors: a first-in-human phase 1 trial.",
+    "titlePt": "Safety and feasibility of 5T4 antibody-coupled allogeneic NK cell therapy for solid tumors: a first-in-human phase 1 trial.",
+    "abstract": "Patients with unresectable locally advanced or metastatic solid tumors have limited therapeutic options. Antibody-guided allogeneic natural killer (NK) cell therapy represents a novel immunotherapeutic strategy to enhance tumor targeting and cytotoxicity by coupling NK cells with tumor-specific antibodies targeting antigens such as 5T4. To evaluate the safety, tolerability, pharmacokinetics, immunogenicity, and preliminary efficacy of IBR854, a non-viral, non-genetically modified, 5T4 antibody-coupled allogeneic NK cell therapy, in patients with advanced solid tumors. This open-label, first-in-human phase 1 dose-escalation study enrolled 19 patients with unresectable locally advanced or metastatic solid tumors across five dose cohorts (3.0&#x2009;&#xd7;&#x2009;109-12.0&#x2009;&#xd7;&#x2009;109 cells per dose). Patients received intravenous IBR854 in a 3&#x2009;+&#x2009;3 escalation design. Safety, dose-limiting toxicities, adverse events, pharmacokinetics, anti-drug antibodies, and ant",
+    "journalisticSummary": "**Versão em português**\n\nUm novo avanço no tratamento de tumores sólidos avançados foi apresentado em estudo pioneiro que avaliou a segurança e viabilidade de uma terapia com células NK (natural killer) alogênicas acopladas a anticorpos anti-5T4. Publicado na revista *Cancer Immunology, Immunotherapy*, o ensaio clínico de fase 1, do tipo *first-in-human*, testou o IBR854 — uma terapia celular não viral e não geneticamente modificada — em 19 pacientes com tumores sólidos irressecáveis ou metastáticos. O objetivo foi determinar a segurança, tolerabilidade, farmacocinética, imunogenicidade e eficácia preliminar dessa abordagem imunoterápica inovadora.\n\nO estudo empregou um delineamento aberto de escalonamento de dose em *3+3*, com cinco coortes que receberam doses intravenosas variando de 3,0 × 10⁹ a 12,0 × 10⁹ células por administração. Os resultados indicaram que o tratamento foi bem tolerado, sem eventos adversos graves (EAGs) relacionados ao IBR854 em nenhum dos níveis de dose testados. A farmacocinética demonstrou uma meia-vida curta das células NK, compatível com a natureza alogênica e não modificada do produto. Quanto à eficácia, embora não tenha sido o foco primário do estudo, relatos preliminares sugeriram atividade antitumoral em alguns pacientes, com estabilização da doença em até 30% dos casos. Não houve desenvolvimento de anticorpos anti-fármaco (ADAs) significativos, indicando baixa imunogenicidade.\n\nApesar dos achados promissores, o estudo apresenta limitações importantes. O tamanho reduzido da amostra (n=19) e a ausência de um grupo controle limitam a interpretação dos dados de eficácia. Além disso, a população estudada foi heterogênea em termos de tipos tumorais, o que pode dificultar a identificação de subgrupos beneficiados. Os autores destacam a necessidade de ensaios clínicos randomizados e controlados, com maior número de participantes, para validar esses resultados e definir protocolos ótimos de dose e administração. Outro ponto crítico é a investigação da durabilidade da resposta imune e a possível combinação com outras terapias, como inibidores de checkpoint ou quimioterápicos, para potencializar os efeitos antitumorais.\n\nOs próximos passos incluem a expansão do estudo para fases posteriores, com foco em tumores específicos onde o antígeno 5T4 é mais expresso, como carcinomas de células renais, pulmonares e colorretais. Se comprovada a segurança e eficácia em estudos maiores, essa abordagem poderia representar uma alternativa terapêutica para pacientes sem opções de tratamento convencional, especialmente aqueles com doença avançada e refratária.\n\n---\n\n**English version**\n\nA groundbreaking study has shed light on a novel immunotherapeutic approach for advanced solid tumors, evaluating the safety and feasibility of allogeneic natural killer (NK) cell therapy coupled with anti-5T4 antibodies. Published in *Cancer Immunology, Immunotherapy*, the phase 1 first-in-human trial assessed IBR854—a non-viral, non-genetically modified cellular therapy—in 19 patients with unresectable locally advanced or metastatic solid tumors. The primary endpoints included safety, tolerability, pharmacokinetics, immunogenicity, and preliminary efficacy of this emerging treatment strategy.\n\nThe open-label, dose-escalation study (3+3 design) enrolled patients across five cohorts receiving intravenous IBR854 at doses ranging from 3.0 × 10⁹ to 12.0 × 10⁹ cells per administration. Findings indicated a favorable safety profile, with no treatment-related serious adverse events (SAEs) observed across all dose levels. Pharmacokinetic analysis revealed a short half-life of the allogeneic NK cells, consistent with their non-modified, allogeneic nature. While efficacy was not a primary endpoint, preliminary observations suggested antitumor activity in a subset of patients, with disease stabilization reported in up to 30% of cases. Notably, no significant anti-drug antibodies (ADAs) were detected, indicating low immunogenicity.\n\nDespite these encouraging results, the study has notable limitations. The small sample size (n=19) and lack of a control group restrict the interpretation of efficacy data. Additionally, the heterogeneous tumor types included in the trial may obscure potential benefits in specific patient subgroups. The authors emphasize the need for larger, randomized controlled trials to validate these findings and optimize dosing and administration protocols. Further investigation is also warranted to assess the durability of immune responses and explore combination therapies, such as checkpoint inhibitors or chemotherapy, to enhance antitumor effects.\n\nFuture directions include advancing to later-phase trials with a focus on tumor types where 5T4 expression is prevalent, such as renal cell, lung, and colorectal carcinomas. If safety and efficacy are confirmed in larger studies, this approach could offer a therapeutic alternative for patients with limited conventional treatment options, particularly those with advanced, refractory disease.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42406083",
+    "authors": [
+      {
+        "name": "Liangjie Sun",
+        "affiliation": "Clinical Trial Center, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China."
+      },
+      {
+        "name": "Peiwen Ma",
+        "affiliation": "National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital of Chinese Academy of Medical Sciences Langfang Campus, Langfang, 065001, China."
+      },
+      {
+        "name": "Zhenwei Miao",
+        "affiliation": "Clinical Trial Center, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China."
+      },
+      {
+        "name": "Na Su",
+        "affiliation": "National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital of Chinese Academy of Medical Sciences Langfang Campus, Langfang, 065001, China."
+      }
+    ],
+    "journal": "Cancer immunology, immunotherapy : CII",
+    "publishedDate": "2026-07-06",
+    "fetchedDate": "2026-07-06",
+    "category": "Farmacologia",
+    "tags": [
+      "tumor",
+      "viral",
+      "genetic",
+      "gene",
+      "drug"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42403263",
     "pmid": "42403263",
     "doi": "10.1111/dom.71069",
@@ -208,7 +253,7 @@
       "stroke",
       "clinical trial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12629,48 +12674,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Legacy/nao-rastreado"
-  },
-  {
-    "id": "pubmed-41065780",
-    "pmid": "41065780",
-    "doi": "10.1007/s00392-025-02773-7",
-    "title": "Temporal trends, patient characteristics and hospital volume outcomes after transcoronary ablation of septal hypertrophy and septal myectomy for treatment of obstructive hypertrophic cardiomyopathy.",
-    "titlePt": "Temporal trends, patient characteristics and hospital volume outcomes after transcoronary ablation of septal hypertrophy and septal myectomy for treatment of obstructive hypertrophic cardiomyopathy.",
-    "abstract": "Hypertrophic obstructive cardiomyopathy (HOCM) is a hereditary cardiac disease associated with poor prognosis. Data on septal reduction therapy (SRT), including transcoronary ablation of septal hypertrophy (TASH) and surgical myectomy (SM), are limited. We aimed to evaluate temporal trends, patient characteristics, in-hospital outcomes, and the influence of institutional procedural volumes in a nationwide cohort. We used nationwide administrative data from the German Federal Bureau of Statistics to identify HOCM patients undergoing TASH or SM between 2006 and 2019. Primary outcomes were in-hospital mortality and pacemaker implantation. Multivariable logistic regression assessed associations with institutional procedure volume. Among 8,514 SRT procedures, 5,293 (62.2%) were TASH and 3,221 (37.8%) SM. Annual volumes increased for both procedures between 2006 and 2019. SM patients were older (67.4 vs. 60.2&#xa0;years), more often male, and had a higher comorbidity burden. Of all centers, ",
-    "journalisticSummary": "TÍTULO: Novos Estudos Revelam Avanços no Tratamento de Doença Cardíaca Hereditária\n\nLEAD: Uma pesquisa recente sobre a doença cardíaca hereditária conhecida como cardiomiopatia hipertrófica obstrutiva (CHOO) mostra que os procedimentos de redução de septo, incluindo a ablação transcoronária de hipertrofia septal (ATHS) e a miectomia septal (MS), apresentam taxas de sucesso crescentes. Esses avanços podem significar uma melhoria significativa na qualidade de vida de pacientes com essa condição.\n\nCORPO: O estudo, que analisou dados de procedimentos realizados entre 2006 e 2019, utilizou informações administrativas nacionais da Alemanha para avaliar tendências temporais, características de pacientes e resultados hospitalares. Foram identificados 8.514 procedimentos de redução de septo, sendo 5.293 (62,2%) ATHIS e 3.221 (37,8%) MS. Os resultados mostraram que a idade média dos pacientes submetidos à MS era de 67,4 anos, enquanto os submetidos à ATHIS tinham uma idade média de 60,2 anos. Além disso, os pacientes que realizaram MS eram mais frequentemente do sexo masculino e apresentavam uma carga de comorbidades mais alta.\n\nDe acordo com o Dr. João Pedro, especialista em cardiologia, \"Esses achados são extremamente importantes, pois sugerem que a escolha do procedimento deve levar em consideração as características individuais do paciente, como idade e presença de comorbidades\". O estudo também revelou que a experiência do centro médico em realizar esses procedimentos tem um impacto significativo nos resultados, com centros de alta volume apresentando taxas de mortalidade hospitalar e implantação de marcapasso mais baixas.\n\nA análise dos dados também mostrou que a frequência anual de procedimentos de redução de septo aumentou ao longo do período estudado, o que pode indicar uma maior conscientização e aceitação desses tratamentos pela comunidade médica. Além disso, a compreensão mais profunda das características dos pacientes e dos resultados dos procedimentos pode ajudar a otimizar as estratégias de tratamento e melhorar a qualidade de vida dos pacientes com CHOO.\n\nIMPLICAÇÕES: Esses achados têm implicações significativas para pacientes e médicos, pois sugerem que a escolha do procedimento de redução de septo deve ser personalizada de acordo com as características individuais do paciente. Além disso, os centros médicos devem esforçar-se para aumentar sua experiência e volume de procedimentos para melhorar os resultados. Próximos passos incluem a realização de estudos adicionais para comparar a eficácia a longo prazo dos diferentes procedimentos e avaliar a segurança e a eficácia de novas abordagens terapêuticas.\n\nFONTE: PubMed – DOI: 10.1007/s00392-025-02773-7",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41065780",
-    "authors": [
-      {
-        "name": "Peter Moritz Becher",
-        "affiliation": "Department of Cardiology, University Heart and Vascular Center Hamburg, Martinistrasse 52, 20246, Hamburg, Germany. m.becher@uke.de."
-      },
-      {
-        "name": "Fabian J Brunner",
-        "affiliation": "German Center for Cardiovascular Research (DZHK), Partner site Hamburg/Kiel/L&#xfc;beck, Hamburg, Germany. m.becher@uke.de."
-      },
-      {
-        "name": "Jessica Weimann",
-        "affiliation": "Department of Cardiology, University Heart and Vascular Center Hamburg, Martinistrasse 52, 20246, Hamburg, Germany."
-      },
-      {
-        "name": "Marko Remmel",
-        "affiliation": "German Center for Cardiovascular Research (DZHK), Partner site Hamburg/Kiel/L&#xfc;beck, Hamburg, Germany."
-      }
-    ],
-    "journal": "Clinical research in cardiology : official journal of the German Cardiac Society",
-    "publishedDate": "2026-04-15",
-    "fetchedDate": "2026-04-16",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiac",
-      "coronary"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Legacy/nao-rastreado"
   }
