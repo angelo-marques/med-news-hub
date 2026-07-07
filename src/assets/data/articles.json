@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42410733",
+    "pmid": "42410733",
+    "doi": "10.1002/ccd.70719",
+    "title": "Clinical Predictors of Rescue Duration in Acute Pericardial Tamponade in Atrial Fibrillation Ablation.",
+    "titlePt": "Clinical Predictors of Rescue Duration in Acute Pericardial Tamponade in Atrial Fibrillation Ablation.",
+    "abstract": "Pericardial tamponade during atrial fibrillation (AF) ablation is a life-threatening event, yet optimal rescue strategies remain uncertain. This study explored factors influencing rescue duration and long-term outcomes, focusing on the timing of protamine reversal. Among 3544 consecutive AF ablations (March 2021-April 2025), ten patients who developed acute tamponade were retrospectively analyzed. The primary endpoint was rescue duration, defined as the time from tamponade recognition to patient departure from the electrophysiology (EP) laboratory. Secondary endpoint was a composite of recurrent tamponade, stroke, cardiac rehospitalisation, and all-cause death during follow-up. All patients received protamine and were stratified by median time to further assess its association with rescue duration. Protamine administration time correlated positively with rescue duration (Spearman &#x3c1;&#x2009;=&#x2009;+0.65, p&#x2009;=&#x2009;0.043) and remained shorter in the early-use group than in",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo publicado no *Catheterization and Cardiovascular Interventions* identificou que o atraso na administração de protamina durante a reversão de anticoagulação em casos de tamponamento pericárdico agudo — complicação rara mas grave de ablações de fibrilação atrial — está associado a um prolongamento do tempo de resgate e possíveis desfechos adversos. Analisando 3.544 ablações consecutivas realizadas entre março de 2021 e abril de 2025, os pesquisadores rastrearam dez pacientes que desenvolveram tamponamento pericárdico durante o procedimento. O tempo de resgate, definido como o intervalo entre o reconhecimento da complicação e a saída do paciente do laboratório de eletrofisiologia, foi o desfecho primário avaliado.\n\nOs resultados revelaram uma correlação positiva significativa entre o momento da administração de protamina e a duração do resgate (Spearman ρ = +0,65; p = 0,043). Pacientes que receberam protamina precocemente apresentaram tempos de resgate consistentemente menores em comparação àqueles em que a administração foi postergada. Embora o estudo não tenha detalhado os critérios exatos para definir \"precocemente\" ou \"tardiamente\", os autores sugerem que a intervenção imediata com protamina pode ser determinante para a estabilidade hemodinâmica nesses casos. Os desfechos secundários incluíram eventos como tamponamento recorrente, acidente vascular cerebral, reinternação cardíaca e óbito durante o acompanhamento, embora o trabalho não tenha fornecido dados específicos sobre a incidência desses eventos na amostra estudada.\n\nApesar dos achados promissores, a pesquisa apresenta limitações inerentes ao seu delineamento retrospectivo e ao pequeno número de casos analisados — apenas dez eventos em mais de três mil procedimentos. A ausência de um grupo controle sem tamponamento e a falta de padronização na definição de \"resgate precoce\" ou \"tardio\" restringem a generalização dos resultados. Além disso, não foram reportados dados sobre protocolos específicos de anticoagulação ou técnicas de drenagem pericárdica utilizadas, fatores que poderiam influenciar diretamente os desfechos. Os autores destacam a necessidade de estudos prospectivos com amostras maiores para validar o papel da protamina na otimização do manejo do tamponamento pericárdico durante ablações de fibrilação atrial, bem como para explorar estratégias preventivas mais robustas.\n\n---\n\n**English version**\n\nA retrospective study published in *Catheterization and Cardiovascular Interventions* found that delayed administration of protamine during anticoagulation reversal in cases of acute pericardial tamponade — a rare but life-threatening complication of atrial fibrillation (AF) ablation — is associated with prolonged rescue duration and potentially adverse outcomes. Analyzing 3,544 consecutive ablations performed between March 2021 and April 2025, researchers tracked ten patients who developed pericardial tamponade during the procedure. Rescue duration, defined as the time from tamponade recognition to patient departure from the electrophysiology laboratory, was the primary endpoint evaluated.\n\nThe findings revealed a significant positive correlation between the timing of protamine administration and rescue duration (Spearman ρ = +0.65; p = 0.043). Patients who received protamine earlier exhibited consistently shorter rescue times compared to those in whom administration was delayed. While the study did not specify exact criteria for defining \"early\" or \"late\" administration, the authors suggest that immediate protamine intervention may be critical for hemodynamic stability in these cases. Secondary outcomes included events such as recurrent tamponade, stroke, cardiac rehospitalization, and all-cause mortality during follow-up, though the paper did not provide specific incidence data for these events within the studied sample.\n\nDespite these promising findings, the research is limited by its retrospective design and small sample size of just ten events among over three thousand procedures. The absence of a control group without tamponade and the lack of standardized definitions for \"early\" or \"late\" rescue restrict the generalizability of the results. Additionally, no data were reported on specific anticoagulation protocols or pericardial drainage techniques employed, factors that could directly influence outcomes. The authors emphasize the need for prospective studies with larger samples to validate the role of protamine in optimizing pericardial tamponade management during AF ablation and to explore more robust preventive strategies.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42410733",
+    "authors": [
+      {
+        "name": "Shenyuan Zhou",
+        "affiliation": "Health Science Center, Ningbo University, Ningbo City, China."
+      },
+      {
+        "name": "Xinzhi Yu",
+        "affiliation": "Health Science Center, Ningbo University, Ningbo City, China."
+      },
+      {
+        "name": "Xinyu Zhao",
+        "affiliation": "Health Science Center, Ningbo University, Ningbo City, China."
+      },
+      {
+        "name": "Chenxu Luo",
+        "affiliation": "Health Science Center, Ningbo University, Ningbo City, China."
+      }
+    ],
+    "journal": "Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography &amp; Interventions",
+    "publishedDate": "2026-07-07",
+    "fetchedDate": "2026-07-07",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "atrial",
+      "stroke"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-41355396",
     "pmid": "41355396",
     "doi": "10.1177/10600280251384637",
@@ -216,7 +259,7 @@
       "gene",
       "drug"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12642,47 +12685,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41856833",
-    "pmid": "41856833",
-    "doi": "10.1016/j.numecd.2026.104616",
-    "title": "The effect of red pepper/capsaicin on cardiovascular risk factors: a systematic review, meta-analysis, and GRADE assessment.",
-    "titlePt": "The effect of red pepper/capsaicin on cardiovascular risk factors: a systematic review, meta-analysis, and GRADE assessment.",
-    "abstract": "Cardiovascular disease (CVD) is a leading global cause of mortality. Capsaicinoids, the active compounds in red pepper, act as agonists of the transient receptor potential vanilloid 1 (TRPV1) and may offer cardioprotective benefits by modulating lipid metabolism, glucose homeostasis, and vascular function. This systematic review and meta-analysis aimed to evaluate the effect of red pepper/capsaicin supplementation on cardiovascular risk factors. A comprehensive search of MEDLINE/PubMed, and Scopus was conducted from inception until May 2025, following PRISMA guidelines. The conducted systematic review and meta-analysis adhered to the pre-specified protocol registered in PROSPERO (CRD420251119445). In order to avoid missing an article, a manual search was finally conducted in Google Scholar. Randomized controlled trials (RCTs) in adults supplementing with capsaicin, red pepper, or related compounds versus a placebo were included. Outcomes of interest included lipid profile (total choles",
-    "journalisticSummary": "O estudo publicado recentemente na revista científica de acesso aberto teve como objetivo avaliar o efeito do pimentão vermelho/capsaicina sobre os fatores de risco cardiovascular. A doença cardiovascular (DCV) é uma das principais causas de mortalidade global, e os capsaicinoides, compostos ativos presentes no pimentão vermelho, podem oferecer benefícios cardioprotetores ao modular o metabolismo lipídico, a homeostase glicêmica e a função vascular. A equipe de pesquisadores realizou uma revisão sistemática e metanálise para avaliar o impacto da suplementação com pimentão vermelho/capsaicina sobre os fatores de risco cardiovascular.\n\nA busca foi realizada em bases de dados como MEDLINE/PubMed e Scopus, desde a sua criação até maio de 2025, seguindo as diretrizes do PRISMA. Além disso, uma busca manual foi realizada no Google Scholar para evitar a perda de artigos relevantes. Foram incluídos ensaios clínicos randomizados (ECRs) em adultos que receberam suplementação com capsaicina, pimentão vermelho ou compostos relacionados em comparação com um placebo. Os resultados de interesse incluíram o perfil lipídico, como o colesterol total, e outros fatores de risco cardiovascular.\n\nOs achados principais do estudo apontam que a suplementação com pimentão vermelho/capsaicina pode ter um impacto positivo sobre os fatores de risco cardiovascular, embora os detalhes específicos sobre as melhorias nos perfis lipídicos e outros parâmetros não tenham sido completamente esclarecidos no resumo disponível. O impacto clínico desses resultados pode ser significativo, considerando a prevalência e o impacto da doença cardiovascular na saúde global. No entanto, é importante notar que o estudo tem limitações, como a necessidade de mais pesquisas para compreender completamente os mecanismos de ação e os possíveis efeitos a longo prazo da suplementação com pimentão vermelho/capsaicina.\n\nOs próximos passos incluem a realização de mais estudos clínicos randomizados com amostras maiores e seguimento a longo prazo para confirmar os achados e estabelecer diretrizes claras para a suplementação com pimentão vermelho/capsaicina como uma estratégia de prevenção ou tratamento para a doença cardiovascular. Além disso, é fundamental investigar como esses compostos interagem com diferentes fatores de risco e condições de saúde para maximizar seus benefícios potenciais.\n\nThe recently published study aimed to evaluate the effect of red pepper/capsaicin on cardiovascular risk factors. Cardiovascular disease (CVD) is a leading global cause of mortality, and capsaicinoids, the active compounds in red pepper, may offer cardioprotective benefits by modulating lipid metabolism, glucose homeostasis, and vascular function. The research team conducted a systematic review and meta-analysis to assess the impact of red pepper/capsaicin supplementation on cardiovascular risk factors.\n\nThe search was conducted in databases such as MEDLINE/PubMed and Scopus, from their inception until May 2025, following PRISMA guidelines. Additionally, a manual search was performed in Google Scholar to avoid missing relevant articles. Randomized controlled trials (RCTs) in adults supplementing with capsaicin, red pepper, or related compounds versus a placebo were included. Outcomes of interest included lipid profile, such as total cholesterol, and other cardiovascular risk factors.\n\nThe main findings of the study suggest that red pepper/capsaicin supplementation may have a positive impact on cardiovascular risk factors, although specific details on improvements in lipid profiles and other parameters were not fully clarified in the available abstract. The clinical impact of these findings could be significant, considering the prevalence and impact of cardiovascular disease on global health. However, it is essential to note that the study has limitations, such as the need for more research to fully understand the mechanisms of action and potential long-term effects of red pepper/capsaicin supplementation.\n\nFuture steps include conducting more randomized controlled trials with larger samples and long-term follow-up to confirm the findings and establish clear guidelines for red pepper/capsaicin supplementation as a strategy for preventing or treating cardiovascular disease. Additionally, it is crucial to investigate how these compounds interact with different risk factors and health conditions to maximize their potential benefits.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41856833",
-    "authors": [
-      {
-        "name": "Seyed Mojtaba Ghoreishy",
-        "affiliation": "Student Research Committee, School of Public Health, Iran University of Medical Sciences, Tehran, Iran; Department of Nutrition, School of Public Health, Iran University of Medical Sciences, Tehran, Iran."
-      },
-      {
-        "name": "Maryam Zeydi",
-        "affiliation": "Students' Research Committee, Isfahan University of Medical Sciences, Isfahan, Iran; Department of Community Nutrition, School of Nutrition and Food Science, Nutrition and Food Security Research Center, Isfahan University of Medical Sciences, Isfahan, Iran."
-      },
-      {
-        "name": "Vahid Hadi",
-        "affiliation": "Nutrition and Food Health Research Center, AJA University of Medical Sciences, Tehran, Iran; Infectious Diseases Research Center, Aja University of Medical Sciences, Tehran, Iran."
-      },
-      {
-        "name": "Nastaran Jafarbeglou",
-        "affiliation": "Department of Nutrition, Science and Research Branch, Islamic Azad University, Tehran, Iran."
-      }
-    ],
-    "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
-    "publishedDate": "2026-04-16",
-    "fetchedDate": "2026-04-17",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
