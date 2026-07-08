@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42417051",
+    "pmid": "42417051",
+    "doi": "10.1177/13872877261466695",
+    "title": "Eligibility for lecanemab therapy in a biomarker defined memory clinic cohort: A five-year analysis.",
+    "titlePt": "Eligibility for lecanemab therapy in a biomarker defined memory clinic cohort: A five-year analysis.",
+    "abstract": "We assessed cross-sectional lecanemab eligibility (January 2026) in 479 patients with mild cognitive impairment or dementia who underwent Alzheimer's disease (AD) biomarker testing at a tertiary memory clinic (2021-2025). Overall eligibility was 16%, with exclusions due to negative biomarkers (41%), advanced disease stage (31%), APOE &#x3b5;4/&#x3b5;4 homozygosity (6%), and other safety reasons (6%). In the 2025 subgroup (n&#x2009;=&#x2009;100), eligibility increased to 32%, reflecting fewer exclusions for disease progression and a targeted evaluation of patients likely to meet criteria. These findings highlight a narrow post-diagnosis therapeutic window and suggest an upper eligibility limit under the current appropriate use recommendations for anti-amyloid therapies.",
+    "journalisticSummary": "Um estudo recente avaliou a elegibilidade para terapia com lecanemabe em uma coorte de pacientes com comprometimento cognitivo leve ou demência, atendidos em uma clínica terciária de memória entre 2021 e 2025. Ao analisar dados de 479 indivíduos submetidos a testes de biomarcadores para doença de Alzheimer, os pesquisadores identificaram que apenas 16% preenchiam os critérios para o tratamento em janeiro de 2026. As principais razões para a exclusão incluíram biomarcadores negativos (41%), estágio avançado da doença (31%), homozigose para APOE ε4/ε4 (6%) e outras contraindicações de segurança (6%). No entanto, em uma análise de subgrupo com 100 pacientes avaliados em 2025, a elegibilidade subiu para 32%, sugerindo uma melhora na seleção de candidatos com maior probabilidade de se adequar aos critérios terapêuticos. Os resultados reforçam a existência de uma janela terapêutica estreita após o diagnóstico e indicam um limite superior de elegibilidade sob as atuais recomendações de uso adequado para terapias antiamiloides. Embora o estudo forneça insights valiosos sobre a aplicabilidade clínica do lecanemabe, limita-se a uma população específica de uma única instituição, o que pode restringir a generalização dos achados. Além disso, não foram detalhados os critérios exatos de elegibilidade adotados nem o impacto a longo prazo da terapia nos pacientes incluídos. Pesquisas futuras devem explorar a validação desses resultados em coortes mais diversas e avaliar desfechos clínicos em cenários do mundo real.\n\n---\n\nA recent study assessed lecanemab therapy eligibility in a cohort of patients with mild cognitive impairment or dementia, treated at a tertiary memory clinic between 2021 and 2025. Analyzing data from 479 individuals who underwent Alzheimer's disease (AD) biomarker testing, researchers found that only 16% met the criteria for treatment as of January 2026. Key exclusion reasons included negative biomarkers (41%), advanced disease stage (31%), APOE ε4/ε4 homozygosity (6%), and other safety concerns (6%). However, in a subgroup analysis of 100 patients evaluated in 2025, eligibility rose to 32%, suggesting improved selection of candidates more likely to meet therapeutic criteria. The findings underscore a narrow post-diagnosis therapeutic window and indicate an upper eligibility limit under current appropriate use recommendations for anti-amyloid therapies. While the study provides valuable insights into lecanemab's clinical applicability, it is limited to a single-institution population, potentially restricting the generalizability of the results. Additionally, specific eligibility criteria and long-term therapy outcomes were not detailed. Future research should validate these findings in more diverse cohorts and evaluate real-world clinical outcomes.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42417051",
+    "authors": [
+      {
+        "name": "Pablo Ag&#xfc;ero-Rabes",
+        "affiliation": "Department of Neurology, Fundaci&#xf3;n Jim&#xe9;nez D&#xed;az, Madrid, Spain."
+      },
+      {
+        "name": "Javier Roa-Escobar",
+        "affiliation": "Department of Neurology, Fundaci&#xf3;n Jim&#xe9;nez D&#xed;az, Madrid, Spain."
+      },
+      {
+        "name": "Raquel T&#xe9;llez",
+        "affiliation": "Department of Immunology, Fundaci&#xf3;n Jim&#xe9;nez D&#xed;az, Madrid, Spain."
+      },
+      {
+        "name": "Ver&#xf3;nica Ma&#xf1;anes",
+        "affiliation": "Department of Neurology, Fundaci&#xf3;n Jim&#xe9;nez D&#xed;az, Madrid, Spain."
+      }
+    ],
+    "journal": "Journal of Alzheimer's disease : JAD",
+    "publishedDate": "2026-07-08",
+    "fetchedDate": "2026-07-08",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "dementia",
+      "cognitive",
+      "therapeutic"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42414231",
     "pmid": "42414231",
     "doi": "10.1093/europace/euag104",
@@ -209,7 +253,7 @@
       "diabetes",
       "obesity"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12630,46 +12674,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42010146",
-    "pmid": "42010146",
-    "doi": "10.1007/s12017-026-08925-w",
-    "title": "Naftidrofuryl Exerts Neuroprotective Effects in a Rotenone-Induced Rat Model of Parkinson's Disease Through Modulation of PINK1/Parkin and ER Stress Pathways.",
-    "titlePt": "Naftidrofuryl Exerts Neuroprotective Effects in a Rotenone-Induced Rat Model of Parkinson's Disease Through Modulation of PINK1/Parkin and ER Stress Pathways.",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou os efeitos neuroprotetores do naftidrofuril em um modelo de rato induzido por rotenona para a doença de Parkinson. A doença de Parkinson é uma condição neurológica crônica que afeta milhões de pessoas em todo o mundo, caracterizada pela perda progressiva de neurônios dopaminérgicos na substância negra do cérebro. A pesquisa buscou entender como o naftidrofuril, um composto com propriedades vasoativas, poderia influenciar os mecanismos moleculares subjacentes à patogênese da doença.\n\nOs resultados do estudo mostraram que o naftidrofuril exerceu efeitos neuroprotetores significativos em um modelo de rato induzido por rotenona para a doença de Parkinson. A modulação das vias de estresse do retículo endoplasmático (ER) e a ativação das proteínas PINK1/Parkin foram identificadas como mecanismos-chave pelos quais o naftidrofuril exerceu seus efeitos benéficos. Essas descobertas são particularmente importantes, pois a doença de Parkinson é caracterizada por uma disfunção mitocondrial e um aumento do estresse oxidativo, que contribuem para a perda de neurônios dopaminérgicos.\n\nO impacto clínico dessas descobertas é considerável, pois sugere que o naftidrofuril pode ser um candidato promissor para o tratamento da doença de Parkinson. No entanto, é importante notar que os resultados do estudo foram obtidos em um modelo animal e que mais pesquisas são necessárias para confirmar a eficácia e a segurança do naftidrofuril em humanos. Além disso, não foi informado no resumo original quais seriam os próximos passos para levar essa pesquisa adiante, como a realização de ensaios clínicos em humanos.\n\nUm estudo recente publicado no PubMed investigou os efeitos neuroprotetores do naftidrofuril em um modelo de rato induzido por rotenona para a doença de Parkinson. A pesquisa buscou entender como o naftidrofuril poderia influenciar os mecanismos moleculares subjacentes à patogênese da doença. Os resultados do estudo mostraram que o naftidrofuril exerceu efeitos neuroprotetores significativos, modulando as vias de estresse do retículo endoplasmático e ativando as proteínas PINK1/Parkin. Embora os resultados sejam promissores, mais pesquisas são necessárias para confirmar a eficácia e a segurança do naftidrofuril em humanos.\n\nA recent study published in PubMed investigated the neuroprotective effects of naftidrofuryl in a rotenone-induced rat model of Parkinson's disease. Parkinson's disease is a chronic neurological condition that affects millions of people worldwide, characterized by the progressive loss of dopaminergic neurons in the substantia nigra of the brain. The research sought to understand how naftidrofuryl, a compound with vasoactive properties, could influence the underlying molecular mechanisms of the disease.\n\nThe study's findings showed that naftidrofuryl exerted significant neuroprotective effects in a rotenone-induced rat model of Parkinson's disease. The modulation of endoplasmic reticulum (ER) stress pathways and the activation of PINK1/Parkin proteins were identified as key mechanisms by which naftidrofuryl exerted its beneficial effects. These findings are particularly important, as Parkinson's disease is characterized by mitochondrial dysfunction and increased oxidative stress, which contribute to the loss of dopaminergic neurons.\n\nThe clinical impact of these findings is considerable, as it suggests that naftidrofuryl may be a promising candidate for the treatment of Parkinson's disease. However, it is essential to note that the study's results were obtained in an animal model, and further research is necessary to confirm the efficacy and safety of naftidrofuryl in humans. Additionally, the original summary did not provide information on the next steps for advancing this research, such as conducting human clinical trials.\n\nThe study's findings showed that naftidrofuryl exerted significant neuroprotective effects, modulating ER stress pathways and activating PINK1/Parkin proteins. Although the results are promising, further research is necessary to confirm the efficacy and safety of naftidrofuryl in humans. The study's results highlight the potential of naftidrofuryl as a therapeutic agent for Parkinson's disease, but more research is needed to fully understand its effects and potential applications.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42010146",
-    "authors": [
-      {
-        "name": "Saad Misfer Alqahtani",
-        "affiliation": "Department of Pathology, College of Medicine, The University Hospital, Najran University, Najran, Saudi Arabia."
-      },
-      {
-        "name": "Ehab A M El-Shoura",
-        "affiliation": "Department of Clinical Pharmacy, Faculty of Pharmacy, Assiut Branch, Al-Azhar University, Assiut, 71524, Egypt. ehabel-shoura@azhar.edu.eg."
-      },
-      {
-        "name": "Lobna A Abdelzaher",
-        "affiliation": "Department of Pharmacology, Faculty of Medicine, Assiut University, Assiut, Egypt."
-      },
-      {
-        "name": "Souty M Z Sharkawi",
-        "affiliation": "Pharmacology and Toxicology Department, Faculty of Pharmacy, Beni Suef University, Beni Suef, Egypt."
-      }
-    ],
-    "journal": "Neuromolecular medicine",
-    "publishedDate": "2026-04-20",
-    "fetchedDate": "2026-04-21",
-    "category": "Neurologia",
-    "tags": [
-      "parkinson"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
