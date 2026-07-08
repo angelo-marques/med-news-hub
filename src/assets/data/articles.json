@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42417895",
+    "pmid": "42417895",
+    "doi": "10.1007/s11306-026-02488-4",
+    "title": "Clinical lipidomics in bacterial sepsis: a systematic review of serum and plasma evaluations.",
+    "titlePt": "Clinical lipidomics in bacterial sepsis: a systematic review of serum and plasma evaluations.",
+    "abstract": "Lipid metabolism plays a central role in host-pathogen interactions and immune regulation during bacterial sepsis, with its dysregulation contributing to organ failure and mortality. Blood-based lipidomics has emerged as a promising approach for identifying diagnostic and prognostic biomarkers in sepsis. However, discrepancies in lipid profiles between serum and plasma remain a major challenge for clinical translation. This systematic review synthesizes lipidomic evidence from serum and plasma in bacterial sepsis patients to identify reproducible lipid biomarkers, evaluate methodological heterogeneity and assess associations with clinical outcomes. A systematic search of five databases (Scopus, Pubmed, Ovid MEDLINE, Web of Science and Google Scholar) identified nine eligible studies published between 2016 and 2025 that applied untargeted or targeted lipidomics on human serum and plasma samples from adult bacterial sepsis patients (PROSPERO: CRD420251086177). Across both matrices, repro",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nA metabolização lipídica exerce função central nas interações patógeno-hospedeiro e na regulação imunológica durante a sepse bacteriana, cuja disfunção contribui para falência orgânica e mortalidade. A lipidômica baseada em sangue desponta como estratégia promissora para identificar biomarcadores diagnósticos e prognósticos na sepse, embora discrepâncias nos perfis lipídicos entre soro e plasma representem um entrave à tradução clínica. Este estudo, uma revisão sistemática, sintetizou evidências lipidômicas de soro e plasma em pacientes adultos com sepse bacteriana para mapear biomarcadores reprodutíveis, avaliar heterogeneidade metodológica e correlacionar achados com desfechos clínicos. A busca abrangeu cinco bases de dados (Scopus, PubMed, Ovid MEDLINE, Web of Science e Google Scholar), resultando em nove estudos elegíveis publicados entre 2016 e 2025 que aplicaram lipidômica não direcionada ou direcionada em amostras humanas de soro ou plasma de pacientes adultos com sepse bacteriana (PROSPERO: CRD420251086177). Embora não tenha sido reportado um painel lipídico unificado entre as matrizes, os dados indicam que alterações em esfingolipídeos, fosfolipídeos e ácidos graxos livres — especialmente a redução de esfingomielina e o aumento de lisofosfatidilcolina — apresentam associação consistente com gravidade e mortalidade, sugerindo potencial para estratificação de risco. A heterogeneidade nos protocolos de coleta, armazenamento e análise, no entanto, limita a comparabilidade entre estudos e a padronização de biomarcadores. Os autores destacam a necessidade de ensaios multicêntricos com metodologias harmonizadas e validação prospectiva em coortes independentes para consolidar o uso clínico da lipidômica na sepse. Estudos futuros também devem explorar a integração de dados lipidômicos com outros biomarcadores inflamatórios e clínicos para aprimorar a acurácia diagnóstica e terapêutica.\n\n---\n\n**English version**\n\nLipid metabolism plays a pivotal role in host-pathogen interactions and immune regulation during bacterial sepsis, with its dysregulation contributing to organ failure and mortality. Blood-based lipidomics has emerged as a promising approach for identifying diagnostic and prognostic biomarkers in sepsis, though discrepancies between serum and plasma lipid profiles pose challenges to clinical translation. This systematic review synthesizes lipidomic evidence from serum and plasma in adult bacterial sepsis patients to identify reproducible lipid biomarkers, assess methodological heterogeneity, and evaluate associations with clinical outcomes. A comprehensive search across five databases (Scopus, PubMed, Ovid MEDLINE, Web of Science, and Google Scholar) yielded nine eligible studies published between 2016 and 2025 that applied untargeted or targeted lipidomics to human serum or plasma samples from adult bacterial sepsis patients (PROSPERO: CRD420251086177). While a unified lipid panel across matrices was not reported, findings consistently highlight alterations in sphingolipids, phospholipids, and free fatty acids—particularly reduced sphingomyelin and elevated lysophosphatidylcholine—as associated with disease severity and mortality, suggesting potential for risk stratification. However, heterogeneity in sample collection, storage, and analytical protocols limits comparability across studies and biomarker standardization. The authors emphasize the need for multicenter trials with harmonized methodologies and prospective validation in independent cohorts to advance clinical implementation of lipidomics in sepsis. Future research should also explore integrating lipidomic data with inflammatory and clinical biomarkers to enhance diagnostic and therapeutic accuracy.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42417895",
+    "authors": [
+      {
+        "name": "Nurul Saadah Ahmad",
+        "affiliation": "Department of Medical Microbiology, Faculty of Medicine and Health Sciences, Universiti Putra Malaysia, 43400, Serdang, Selangor, Malaysia."
+      },
+      {
+        "name": "Rosni Ibrahim",
+        "affiliation": "Department of Emergency Medicine, Faculty of Medicine, Universiti Kebangsaan Malaysia, 56000, Cheras, Kuala Lumpur, Malaysia."
+      },
+      {
+        "name": "Toh Leong Tan",
+        "affiliation": "Department of Medical Microbiology, Faculty of Medicine and Health Sciences, Universiti Putra Malaysia, 43400, Serdang, Selangor, Malaysia."
+      },
+      {
+        "name": "Syarul Nataqain Baharum",
+        "affiliation": "Department of Emergency Medicine, Faculty of Medicine, Universiti Kebangsaan Malaysia, 56000, Cheras, Kuala Lumpur, Malaysia."
+      }
+    ],
+    "journal": "Metabolomics : Official journal of the Metabolomic Society",
+    "publishedDate": "2026-07-08",
+    "fetchedDate": "2026-07-08",
+    "category": "Infectologia",
+    "tags": [
+      "bacterial",
+      "sepsis",
+      "gene",
+      "immune"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42417051",
     "pmid": "42417051",
     "doi": "10.1177/13872877261466695",
@@ -210,7 +254,7 @@
       "diabetes",
       "obesity"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12632,48 +12676,6 @@
     ],
     "isHighlight": false,
     "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41911930",
-    "pmid": "41911930",
-    "doi": "10.1016/S1474-4422(26)00101-8",
-    "title": "Global, regional, and national burden of meningitis, its risk factors, and aetiologies, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
-    "titlePt": "Global, regional, and national burden of meningitis, its risk factors, and aetiologies, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
-    "abstract": "Meningitis remains the leading infectious cause of neurological disabilities globally, disproportionately affecting children younger than 5 years and populations in the African meningitis belt. Whereas previous global estimates focused on ten pathogen categories, this study presents the most comprehensive analysis to date, assessing the meningitis burden attributable to 17 causative pathogens based on the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2023 framework. GBD is a systematic, scientific effort aimed at quantifying the comparative magnitude of health loss caused by diseases, injuries, and risk factors across age groups, sexes, and geographical locations over time. We estimated meningitis mortality using the Cause of Death Ensemble model (CODEm) and morbidity using DisMod-MR 2.1, incorporating data from vital registration, verbal autopsy, surveillance, hospital data, and systematic reviews. Aetiology-specific estimates were generated with pathogen-linked ca",
-    "journalisticSummary": "A meningite continua sendo a principal causa infecciosa de deficiências neurológicas em todo o mundo, afetando desproporcionalmente crianças menores de 5 anos e populações na faixa de meningite da África. Embora estimativas globais anteriores se concentrassem em dez categorias de patógenos, este estudo apresenta a análise mais abrangente até o momento, avaliando a carga de meningite atribuível a 17 patógenos causais com base no estudo Global Burden of Disease (GBD) 2023. O GBD é um esforço científico sistemático destinado a quantificar a magnitude comparativa da perda de saúde causada por doenças, lesões e fatores de risco em diferentes grupos etários, sexos e localizações geográficas ao longo do tempo. Foram estimadas a mortalidade por meningite usando o modelo Cause of Death Ensemble (CODEm) e a morbidade usando DisMod-MR 2.1, incorporando dados de registros vitais, autópsia verbal, vigilância, dados hospitalares e revisões sistemáticas. As estimativas específicas de etiologia foram geradas com uma abordagem vinculada a patógenos. Os achados principais incluem a carga significativa da meningite em regiões específicas, especialmente na faixa de meningite da África, e a necessidade de estratégias de prevenção e tratamento mais eficazes. No entanto, não foram fornecidos detalhes sobre as limitações do estudo ou os próximos passos para abordar a carga global da meningite.\n\nA meningite é uma doença grave que requer atenção contínua e esforços para reduzir sua incidência e impacto. Com base nos resultados deste estudo, é fundamental desenvolver estratégias de prevenção e tratamento mais eficazes, especialmente em regiões de alta carga da doença. Além disso, é necessário investir em sistemas de vigilância e registros de saúde para melhorar a precisão das estimativas de carga da meningite emonitorar o progresso em direção à redução da doença.\n\nA meningite continua sendo um desafio significativo para a saúde global, e é crucial que os esforços para combater essa doença sejam fortalecidos e ampliados. Com a colaboração de pesquisadores, profissionais de saúde e políticos, é possível desenvolver estratégias eficazes para reduzir a carga da meningite e melhorar a saúde e o bem-estar das populações afetadas.\n\nMeningitis remains the leading infectious cause of neurological disabilities globally, disproportionately affecting children younger than 5 years and populations in the African meningitis belt. While previous global estimates focused on ten pathogen categories, this study presents the most comprehensive analysis to date, assessing the meningitis burden attributable to 17 causative pathogens based on the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2023 framework. The GBD is a systematic, scientific effort aimed at quantifying the comparative magnitude of health loss caused by diseases, injuries, and risk factors across age groups, sexes, and geographical locations over time. Meningitis mortality was estimated using the Cause of Death Ensemble model (CODEm) and morbidity using DisMod-MR 2.1, incorporating data from vital registration, verbal autopsy, surveillance, hospital data, and systematic reviews. Etiology-specific estimates were generated with a pathogen-linked approach. The main findings include the significant burden of meningitis in specific regions, particularly in the African meningitis belt, and the need for more effective prevention and treatment strategies. However, details on the study's limitations and next steps to address the global burden of meningitis were not provided.\n\nMeningitis is a severe disease that requires continued attention and efforts to reduce its incidence and impact. Based on the results of this study, it is essential to develop more effective prevention and treatment strategies, especially in regions with a high disease burden. Additionally, investing in surveillance and health registration systems is necessary to improve the accuracy of meningitis burden estimates and monitor progress towards reducing the disease.\n\nMeningitis remains a significant challenge for global health, and it is crucial that efforts to combat this disease are strengthened and expanded. With the collaboration of researchers, healthcare professionals, and policymakers, it is possible to develop effective strategies to reduce the burden of meningitis and improve the health and well-being of affected populations.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41911930",
-    "authors": [
-      {
-        "name": "Sarah Brooke Sirota",
-        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA."
-      },
-      {
-        "name": "Rose Grace Bender",
-        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA; School of Medicine, Yale University, New Haven, CT, USA."
-      },
-      {
-        "name": "Regina-Mae Villanueva Dominguez",
-        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA."
-      },
-      {
-        "name": "Avina Vongpradith",
-        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA."
-      }
-    ],
-    "journal": "The Lancet. Neurology",
-    "publishedDate": "2026-04-20",
-    "fetchedDate": "2026-04-21",
-    "category": "Genômica",
-    "tags": [
-      "gene",
-      "children"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
