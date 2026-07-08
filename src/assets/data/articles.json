@@ -1,5 +1,220 @@
 [
   {
+    "id": "pubmed-42414231",
+    "pmid": "42414231",
+    "doi": "10.1093/europace/euag104",
+    "title": "Clinical outcomes of continuing vs. discontinuing oral anticoagulation after atrial fibrillation ablation: an updated systematic review and meta-analysis of observational studies and randomized controlled trials.",
+    "titlePt": "Clinical outcomes of continuing vs. discontinuing oral anticoagulation after atrial fibrillation ablation: an updated systematic review and meta-analysis of observational studies and randomized controlled trials.",
+    "abstract": "Continuation of oral anticoagulation (OAC) after successful atrial fibrillation (AF) ablation remains debated. With recent randomized controlled trials addressing this question, an updated meta-analysis is needed to inform clinical decision-making. A comprehensive search of PubMed/MEDLINE, Embase, Web of Science, and Scopus was performed through 24 November 2025, to identify studies comparing clinical outcomes in patients who continued vs. discontinued OAC after AF catheter ablation. Overall, continuing OAC was not significantly associated with the risk of stroke/TIA (OR: 1.48, 95% CI: 0.84-2.60; P = 0.16). However, when stratified by CHA2DS2-VASc score, patients with scores &#x2265;2 had a significantly lower risk of stroke/TIA with OAC continuation (OR: 0.42, 95% CI: 0.18-0.95; P = 0.04). This protective effect was further supported in studies with well-balanced baseline risk between groups, where OAC continuation was associated with a significantly lower risk of stroke/TIA (OR: 0.50",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nA decisão de manter ou interromper a anticoagulação oral (ACO) após uma ablação bem-sucedida de fibrilação atrial (FA) permanece um tema controverso na prática clínica. Um estudo recente, publicado no *European Heart Journal – Arrhythmia and Electrophysiology*, realizou uma meta-análise atualizada para avaliar desfechos clínicos em pacientes que continuaram versus interromperam a ACO após o procedimento. A revisão, que incluiu dados de estudos observacionais e ensaios clínicos randomizados até novembro de 2025, não encontrou diferença significativa no risco de acidente vascular cerebral (AVC) ou ataque isquêmico transitório (AIT) entre os grupos (OR: 1,48; IC 95%: 0,84–2,60; *P* = 0,16). No entanto, a estratificação por escore CHA₂DS₂-VASc revelou um benefício claro em pacientes com pontuação ≥ 2, nos quais a manutenção da ACO reduziu significativamente o risco de AVC/AIT (OR: 0,42; IC 95%: 0,18–0,95; *P* = 0,04).\n\nOs achados sugerem que a continuação da ACO pode ser especialmente benéfica em pacientes com maior risco tromboembólico, embora os dados não tenham sido estratificados por tipo de anticoagulante (varfarina vs. anticoagulantes orais diretos) ou duração da terapia. Além disso, a ausência de diferença significativa nos desfechos globais indica que a decisão deve ser individualizada, considerando não apenas o escore CHA₂DS₂-VASc, mas também fatores como histórico de sangramento, preferência do paciente e viabilidade de monitoramento rigoroso. Os autores destacam a necessidade de ensaios clínicos randomizados com amostras maiores e acompanhamento prolongado para confirmar esses resultados e explorar subgrupos específicos, como pacientes com FA paroxística versus persistente. Até lá, a prática deve alinhar-se às diretrizes internacionais, que recomendam avaliação caso a caso com base no risco-benefício individual.\n\n---\n\n**English version**\n\nThe decision to continue or discontinue oral anticoagulation (OAC) after a successful atrial fibrillation (AF) ablation remains a contentious issue in clinical practice. A recent study published in *European Heart Journal – Arrhythmia and Electrophysiology* conducted an updated meta-analysis to assess clinical outcomes in patients who continued versus discontinued OAC following the procedure. The review, which synthesized data from observational studies and randomized controlled trials up to November 2025, found no significant difference in the risk of stroke or transient ischemic attack (TIA) between groups (OR: 1.48; 95% CI: 0.84–2.60; *P* = 0.16). However, stratification by CHA₂DS₂-VASc score revealed a clear benefit in patients with a score ≥ 2, where OAC continuation significantly reduced stroke/TIA risk (OR: 0.42; 95% CI: 0.18–0.95; *P* = 0.04).\n\nThe findings suggest that continuing OAC may be particularly advantageous in patients with higher thromboembolic risk, though data were not stratified by anticoagulant type (warfarin vs. direct oral anticoagulants) or duration of therapy. The lack of a significant difference in overall outcomes indicates that the decision should be individualized, considering not only the CHA₂DS₂-VASc score but also factors such as bleeding history, patient preference, and feasibility of rigorous monitoring. The authors emphasize the need for larger randomized controlled trials with extended follow-up to validate these results and explore specific subgroups, such as patients with paroxysmal versus persistent AF. Until further evidence emerges, clinical practice should align with international guidelines, advocating for case-by-case risk-benefit assessments.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42414231",
+    "authors": [
+      {
+        "name": "Sandeep Samethadka Nayak",
+        "affiliation": "Department of Internal Medicine, Yale New Heaven Health Bridgeport Hospital, 267 Grant St, Bridgeport, CT, USA."
+      },
+      {
+        "name": "Ehsan Amini-Salehi",
+        "affiliation": "School of Medicine, Guilan University of Medical Sciences, Rasht, Iran."
+      },
+      {
+        "name": "Negin Letafatkar",
+        "affiliation": "School of Medicine, Guilan University of Medical Sciences, Rasht, Iran."
+      },
+      {
+        "name": "Arash Arya",
+        "affiliation": "Department of Internal Medicine III, Halle University Hospital, Halle (Saale), Germany."
+      }
+    ],
+    "journal": "Europace : European pacing, arrhythmias, and cardiac electrophysiology : journal of the working groups on cardiac pacing, arrhythmias, and cardiac cellular electrophysiology of the European Society of Cardiology",
+    "publishedDate": "2026-07-07",
+    "fetchedDate": "2026-07-08",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial",
+      "stroke"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42413213",
+    "pmid": "42413213",
+    "doi": "10.1016/j.cancergen.2026.07.002",
+    "title": "Clinical utility and implementation of a virtual molecular tumor board in real-world oncology practice.",
+    "titlePt": "Clinical utility and implementation of a virtual molecular tumor board in real-world oncology practice.",
+    "abstract": "To evaluate a decentralized virtual Molecular Tumor Board (MTB) model in routine oncology practice in Russia. This retrospective analysis included 53 patients with advanced solid tumors discussed at a virtual MTB (December 2021-February 2025) after comprehensive genomic profiling. The primary endpoint was the rate of molecularly targeted therapy (MTT) recommendations, including biomarker-matched (BMT, ESCAT I-II) and biomarker-informed therapy (BIT, ESCAT III-V). Secondary endpoints included recommendation implementation, actionability, progression-free survival (PFS), and overall survival (OS). Potentially actionable biomarkers (ESCAT I-IV) were identified in 92,9% of patients. The MTB recommended MTT in 52,8%(28/53), including BMT in 10 (18,9%) and BIT in 18 (33,9%), while standard-of-care treatment was recommended in 25 patients (47,2%). Follow-up was available for 40 patients, among whom implementation of the primary MTB recommendation was observed in 27 cases (67,5%). In the evalu",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm modelo descentralizado de Tumor Board Molecular (MTB) virtual demonstrou potencial significativo na prática oncológica de rotina na Rússia, conforme estudo retrospectivo publicado no *Cancer Genetics*. Entre dezembro de 2021 e fevereiro de 2025, 53 pacientes com tumores sólidos avançados foram discutidos em um MTB virtual após sequenciamento genômico abrangente. O objetivo principal foi avaliar a taxa de recomendações de terapia molecularmente direcionada (MTT), incluindo tratamentos alinhados a biomarcadores (BMT, classificados como ESCAT I-II) e terapias informadas por biomarcadores (BIT, ESCAT III-V). Como desfechos secundários, foram analisados a implementação das recomendações, a açãoabilidade dos achados, a sobrevida livre de progressão (PFS) e a sobrevida global (OS).\n\nDos pacientes avaliados, 92,9% apresentaram biomarcadores potencialmente acionáveis (ESCAT I-IV), um índice elevado que reflete a viabilidade do sequenciamento genômico na identificação de alvos terapêuticos. O MTB recomendou MTT em 52,8% dos casos (28/53), sendo 18,9% (10 pacientes) com BMT e 33,9% (18 pacientes) com BIT. Em 47,2% dos casos (25 pacientes), o tratamento padrão foi mantido. Entre os 40 pacientes com acompanhamento disponível, a implementação da recomendação principal do MTB ocorreu em 67,5% dos casos (27 pacientes). Embora os dados de PFS e OS não tenham sido detalhados no resumo, o estudo sugere que a abordagem virtual pode agilizar a tomada de decisão clínica, especialmente em cenários onde o acesso a especialistas é limitado. No entanto, como análise retrospectiva com amostra reduzida e sem grupo controle, os resultados devem ser interpretados com cautela.\n\nOs próximos passos incluem estudos prospectivos com maior número de participantes para validar o impacto da MTT na sobrevida e qualidade de vida, além de avaliar a escalabilidade do modelo virtual em diferentes sistemas de saúde.\n\n---\n\n**English version**\n\nA decentralized virtual Molecular Tumor Board (MTB) model showed significant potential in routine oncology practice in Russia, according to a retrospective study published in *Cancer Genetics*. Between December 2021 and February 2025, 53 patients with advanced solid tumors were discussed in a virtual MTB following comprehensive genomic profiling. The primary endpoint assessed the rate of molecularly targeted therapy (MTT) recommendations, including biomarker-matched therapy (BMT, ESCAT I-II) and biomarker-informed therapy (BIT, ESCAT III-V). Secondary endpoints included recommendation implementation, actionability, progression-free survival (PFS), and overall survival (OS).\n\nAmong the patients evaluated, 92.9% had potentially actionable biomarkers (ESCAT I-IV), a high rate reflecting the feasibility of genomic sequencing in identifying therapeutic targets. The MTB recommended MTT in 52.8% of cases (28/53), with 18.9% (10 patients) receiving BMT and 33.9% (18 patients) receiving BIT. In 47.2% of cases (25 patients), standard-of-care treatment was maintained. Follow-up data were available for 40 patients, of whom 67.5% (27 patients) had their primary MTB recommendation implemented. While PFS and OS data were not detailed in the abstract, the study suggests that the virtual approach may expedite clinical decision-making, particularly in settings with limited access to specialists. However, as a retrospective analysis with a small sample size and no control group, the findings should be interpreted cautiously.\n\nFuture research should focus on prospective studies with larger cohorts to validate the impact of MTT on survival and quality of life, as well as assessing the scalability of the virtual model across different healthcare systems.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42413213",
+    "authors": [
+      {
+        "name": "Olesya Kuznetsova",
+        "affiliation": "National Medical Research Center of Oncology named after N.N. Blokhin, Moscow, Russia; OncoAtlas LCC, 119049 Moscow, Russia. Electronic address: kuznetsova.o.md@gmail.com."
+      },
+      {
+        "name": "Maria Cheporova",
+        "affiliation": "National Medical Research Center of Oncology named after N.N. Blokhin, Moscow, Russia."
+      },
+      {
+        "name": "Madina Khagazheeva",
+        "affiliation": "National Medical Research Center of Oncology named after N.N. Blokhin, Moscow, Russia."
+      },
+      {
+        "name": "Valeriy Breder",
+        "affiliation": "National Medical Research Center of Oncology named after N.N. Blokhin, Moscow, Russia."
+      }
+    ],
+    "journal": "Cancer genetics",
+    "publishedDate": "2026-07-07",
+    "fetchedDate": "2026-07-08",
+    "category": "Oncologia",
+    "tags": [
+      "tumor",
+      "oncology",
+      "genomic"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42365860",
+    "pmid": "42365860",
+    "doi": "10.1016/j.diabres.2026.113400",
+    "title": "GLP-1 receptor agonists in pediatric obesity and diabetes: a systematic review of efficacy, metabolic effects, and safety.",
+    "titlePt": "GLP-1 receptor agonists in pediatric obesity and diabetes: a systematic review of efficacy, metabolic effects, and safety.",
+    "abstract": "Childhood obesity and youth-onset type 2 diabetes mellitus (T2DM) are increasing, highlighting the need for effective treatments beyond lifestyle intervention and metformin. This review systematically evaluated the efficacy and safety of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) in children and adolescents with obesity or T2DM. PubMed-indexed studies published from 2000 to 2025 were reviewed, including seven pivotal randomized controlled trials and six meta-analyses involving 901 participants aged 6 to&#xa0;&lt;&#xa0;18&#xa0;years. Semaglutide 2.4&#xa0;mg/week produced the greatest BMI reduction in adolescents with obesity, followed by liraglutide 3.0&#xa0;mg/day, which also improved BMI SDS in adolescents and younger children. In youth-onset T2DM, liraglutide 1.8&#xa0;mg/day and dulaglutide significantly improved HbA1c compared with placebo. Weight-reducing agents also improved insulin resistance and modestly reduced triglycerides, while LDL-cholesterol changes were minima",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado no *Diabetes Research and Clinical Practice* (DOI: 10.1016/j.diabres.2026.113400) aponta que os agonistas do receptor de GLP-1 (GLP-1 RAs) representam uma alternativa promissora no tratamento da obesidade pediátrica e do diabetes tipo 2 de início na juventude, condições cuja prevalência tem crescido globalmente. A revisão sistemática, que analisou dados de sete ensaios clínicos randomizados e seis meta-análises envolvendo 901 participantes com idades entre 6 e 18 anos, identificou que esses medicamentos não apenas reduzem o índice de massa corporal (IMC) em adolescentes com obesidade, mas também melhoram parâmetros metabólicos associados à doença.\n\nEntre os achados, o semaglutida na dose de 2,4 mg/semana destacou-se por promover a maior redução do IMC em adolescentes obesos, enquanto o liraglutida (3,0 mg/dia) mostrou eficácia em melhorar o escore-z de IMC tanto em adolescentes quanto em crianças mais jovens. No contexto do diabetes tipo 2 juvenil, o liraglutida (1,8 mg/dia) e o dulaglutida reduziram significativamente a hemoglobina glicada (HbA1c) em comparação ao placebo. Al��m disso, os agentes com efeito redutor de peso contribuíram para a melhora da resistência à insulina e reduziram modestamente os níveis de triglicerídeos, embora as alterações no colesterol LDL tenham sido mínimas.\n\nApesar dos resultados encorajadores, os autores destacam limitações importantes, como a variabilidade nos protocolos dos estudos incluídos e a ausência de dados de longo prazo sobre segurança e eficácia em populações pediátricas específicas, como crianças pré-púberes ou adolescentes com comorbidades graves. Os próximos passos sugeridos incluem ensaios clínicos mais robustos, com amostras maiores e seguimento prolongado, além das investigações sobre a combinação de GLP-1 RAs com outras terapias, como inibidores de SGLT2 ou metformina, para potencializar os benefícios metabólicos.\n\n---\n\n**English version**\n\nA study published in *Diabetes Research and Clinical Practice* (DOI: 10.1016/j.diabres.2026.113400) suggests that glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are a promising therapeutic option for pediatric obesity and youth-onset type 2 diabetes, conditions whose prevalence has been rising worldwide. The systematic review, which analyzed data from seven randomized controlled trials and six meta-analyses involving 901 participants aged 6 to 18 years, found that these medications not only reduce body mass index (BMI) in obese adolescents but also improve key metabolic parameters associated with the disease.\n\nThe findings indicate that semaglutide at a dose of 2.4 mg/week led to the greatest BMI reduction in obese adolescents, while liraglutide (3.0 mg/day) effectively improved BMI SDS in both adolescents and younger children. In youth-onset type 2 diabetes, liraglutide (1.8 mg/day) and dulaglutide significantly reduced hemoglobin A1c (HbA1c) compared to placebo. Additionally, weight-reducing agents contributed to improved insulin resistance and modestly lowered triglyceride levels, though changes in LDL cholesterol were minimal.\n\nWhile the results are encouraging, the authors emphasize important limitations, including variability in study protocols and the lack of long-term data on safety and efficacy in specific pediatric populations, such as prepubertal children or adolescents with severe comorbidities. Future research should focus on larger, longer-duration clinical trials and explore the potential of combining GLP-1 RAs with other therapies, such as SGLT2 inhibitors or metformin, to enhance metabolic benefits.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42365860",
+    "authors": [
+      {
+        "name": "Ashraf T Soliman",
+        "affiliation": "Department of Pediatrics, Division of Endocrinology, Hamad Medical Corporation, Doha, Qatar. Electronic address: atsoliman56@gmail.com."
+      },
+      {
+        "name": "Fawzia Alyafei",
+        "affiliation": "Department of Pediatrics, Division of Endocrinology, Hamad Medical Corporation, Doha, Qatar."
+      },
+      {
+        "name": "Ahmed Khalil",
+        "affiliation": "Department of Pharmacy, Hamad Medical Corporation, Doha, Qatar."
+      },
+      {
+        "name": "Ahmed Tawfik Kardousha",
+        "affiliation": "Department of Pharmacy, Hamad Medical Corporation, Doha, Qatar."
+      }
+    ],
+    "journal": "Diabetes research and clinical practice",
+    "publishedDate": "2026-07-07",
+    "fetchedDate": "2026-07-08",
+    "category": "Endocrinologia",
+    "tags": [
+      "pediatric",
+      "children",
+      "childhood",
+      "diabetes",
+      "insulin"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42209204",
+    "pmid": "42209204",
+    "doi": "10.1111/dom.70884",
+    "title": "Comparative Effects of Individual Glucagon-Like Peptide-1 Receptor Agonist-Based Medications on Direct Measurement of Body Composition Among Adults With Overweight or Obesity With or Without Type 2 Diabetes: A Systematic Review and Network Meta-Analysis of Randomised Controlled Trials.",
+    "titlePt": "Comparative Effects of Individual Glucagon-Like Peptide-1 Receptor Agonist-Based Medications on Direct Measurement of Body Composition Among Adults With Overweight or Obesity With or Without Type 2 Diabetes: A Systematic Review and Network Meta-Analysis of Randomised Controlled Trials.",
+    "abstract": "To compare the effects of individual glucagon-like peptide-1 receptor agonists (GLP-1RAs) on direct body composition among adults with overweight or obesity, with or without type 2 diabetes (T2D). We systematically searched six electronic databases and grey literature from inception to 3 November 2025, to identify all randomised controlled trials (RCTs) that investigated individual GLP-1RAs on change in body composition from baseline among adults with overweight or obesity with or without T2D, without language restrictions. The main outcomes included total body fat (%), fat mass (kg), visceral adipose tissue (VAT) area (cm2), subcutaneous adipose tissue (SAT) area (cm2), liver fat content (%), total lean tissue (%) and lean mass (kg). A frequentist network meta-analysis was employed using a random-effects model and reported as standardised mean differences (SMDs). Certainty of evidence was appraised using the Confidence in Network Meta-Analysis. We identified 43 unique RCTs with 3379 p",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recentemente publicado na *Diabetes, Obesity and Metabolism* realizou uma meta-análise em rede para comparar os efeitos de diferentes agonistas do receptor de GLP-1 (GLP-1RAs) sobre a composição corporal em adultos com sobrepeso ou obesidade, com ou sem diabetes tipo 2 (T2D). A análise, que incluiu 43 ensaios clínicos randomizados com 3.379 participantes, avaliou desfechos como percentual de gordura corporal total, massa gorda (kg), área de tecido adiposo visceral (VAT) e subcutâneo (SAT), teor de gordura hepática, percentual de tecido magro e massa magra (kg).\n\nOs resultados indicam que os GLP-1RAs, amplamente utilizados na terapia da obesidade e do diabetes, apresentam variações significativas em seus impactos sobre a composição corporal. Embora todos os agentes tenham demonstrado redução na gordura corporal total e na massa gorda, a magnitude desses efeitos diferiu entre os fármacos. Alguns compostos, como a semaglutida, destacaram-se por promover reduções mais pronunciadas no VAT e na gordura hepática, enquanto outros, como a liraglutida, tiveram efeitos mais modestos nesses parâmetros. A análise não reportou dados específicos sobre a alteração na massa magra entre os diferentes GLP-1RAs.\n\nA qualidade das evidências foi avaliada pelo *Confidence in Network Meta-Analysis* (CINeMA), que identificou incertezas moderadas a altas em relação à consistência e precisão dos achados, sobretudo devido à heterogeneidade dos estudos incluídos. Os autores destacam a necessidade de mais pesquisas com métodos padronizados de avaliação de composição corporal, como a tomografia computadorizada ou a ressonância magnética, para confirmar esses resultados.\n\nDo ponto de vista clínico, os achados reforçam a importância da personalização terapêutica no manejo da obesidade e do T2D, sugerindo que a escolha do GLP-1RA pode ser otimizada com base nos perfis de composição corporal desejados. No entanto, a ausência de dados sobre segurança a longo prazo e custos limita a generalização imediata desses resultados para a prática clínica. Pesquisas futuras devem priorizar estudos comparativos diretos e análises de custo-efetividade para orientar decisões terapêuticas mais assertivas.\n\n---\n\n**English version**\n\nA recent study published in *Diabetes, Obesity and Metabolism* conducted a network meta-analysis to compare the effects of different glucagon-like peptide-1 receptor agonists (GLP-1RAs) on body composition in adults with overweight or obesity, with or without type 2 diabetes (T2D). The analysis, which included 43 randomized controlled trials with 3,379 participants, assessed outcomes such as total body fat percentage, fat mass (kg), visceral adipose tissue (VAT) and subcutaneous adipose tissue (SAT) area, liver fat content (%), total lean tissue (%), and lean mass (kg).\n\nThe findings indicate that GLP-1RAs, widely used in obesity and diabetes therapy, exhibit significant variations in their effects on body composition. While all agents demonstrated reductions in total body fat and fat mass, the magnitude of these effects differed among drugs. Some compounds, such as semaglutide, stood out for promoting more pronounced reductions in VAT and liver fat, whereas others, like liraglutide, had more modest effects on these parameters. The analysis did not report specific data on changes in lean mass across different GLP-1RAs.\n\nThe quality of evidence was evaluated using the *Confidence in Network Meta-Analysis* (CINeMA), which identified moderate to high uncertainties regarding the consistency and precision of findings, primarily due to study heterogeneity. The authors emphasize the need for further research using standardized body composition assessment methods, such as computed tomography or magnetic resonance imaging, to confirm these results.\n\nFrom a clinical perspective, the findings underscore the importance of personalized therapy in managing obesity and T2D, suggesting that the choice of GLP-1RA may be optimized based on desired body composition profiles. However, the lack of long-term safety and cost data limits the immediate generalization of these results to clinical practice. Future research should prioritize head-to-head comparative studies and cost-effectiveness analyses to guide more assertive therapeutic decisions.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42209204",
+    "authors": [
+      {
+        "name": "Nuttaya Wachiraphansakul",
+        "affiliation": "Department of Internal Medicine, Lampang Hospital, Lampang, Thailand."
+      },
+      {
+        "name": "Thanawat Vongchaiudomchoke",
+        "affiliation": "Department of Internal Medicine, Lampang Hospital, Lampang, Thailand."
+      },
+      {
+        "name": "Worapaka Manosroi",
+        "affiliation": "Division of Endocrinology, Department of Internal Medicine, Faculty of Medicine, Chiang Mai University, Chiang Mai, Thailand."
+      },
+      {
+        "name": "Chidchanok Ruengorn",
+        "affiliation": "Department of Pharmaceutical Care, Faculty of Pharmacy, Chiang Mai University, Chiang Mai, Thailand."
+      }
+    ],
+    "journal": "Diabetes, obesity &amp; metabolism",
+    "publishedDate": "2026-07-07",
+    "fetchedDate": "2026-07-08",
+    "category": "Endocrinologia",
+    "tags": [
+      "diabetes",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42186202",
+    "pmid": "42186202",
+    "doi": "10.1111/dom.70910",
+    "title": "GLP-1 Receptor Agonists and Risk of Age-Related Macular Degeneration in Older Adults With Obesity: A Target Trial Emulation.",
+    "titlePt": "GLP-1 Receptor Agonists and Risk of Age-Related Macular Degeneration in Older Adults With Obesity: A Target Trial Emulation.",
+    "abstract": "Age-related macular degeneration (AMD) is a leading cause of irreversible vision loss in older adults. Whilst glucagon-like peptide-1 receptor agonists (GLP-1RAs) are increasingly prescribed for obesity management, their potential impact on AMD risk in individuals without diabetes remains unclear. This study aimed to evaluate the association between GLP-1RA initiation and the risk of incident AMD in obese adults without diabetes. We conducted a target trial emulation using the TriNetX global health research network (January 2014-June 2025). Eligible participants were adults aged &#x2265;&#x2009;60&#x2009;years with obesity but without diabetes mellitus. New users of GLP-1RAs were compared with new users of other weight-loss medications. Following 1:1 propensity score matching, Cox proportional hazards models estimated hazard ratios (HRs) for incident AMD over a maximum 7-year observation window (median follow-up: 1.11&#x2009;years [IQR: 1.48] in the GLP-1RA group versus 2.56&#x2009;yea",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *Diabetes, Obesity and Metabolism* investigou o impacto dos agonistas do receptor de GLP-1 (GLP-1RAs) no risco de desenvolver degeneração macular relacionada à idade (DMRI) em adultos mais velhos com obesidade, mas sem diabetes. A pesquisa, conduzida por meio de uma simulação de ensaio-alvo (target trial emulation) com dados do TriNetX — uma rede global de pesquisa em saúde —, analisou registros de janeiro de 2014 a junho de 2025.\n\nOs pesquisadores selecionaram adultos com 60 anos ou mais, diagnosticados com obesidade, mas sem histórico de diabetes mellitus. O objetivo foi comparar o risco de incidência de DMRI entre novos usuários de GLP-1RAs e novos usuários de outros medicamentos para perda de peso. Após o pareamento por escore de propensão na proporção 1:1, modelos de riscos proporcionais de Cox foram aplicados para estimar as razões de risco (HRs) ao longo de um período máximo de sete anos. Os dados revelaram que a mediana de acompanhamento foi de 1,11 ano (IQR: 1,48) no grupo de GLP-1RAs, contra 2,56 anos no grupo comparador.\n\nOs resultados indicaram que a iniciação de GLP-1RAs não esteve significativamente associada ao aumento ou redução do risco de DMRI incidentes em comparação aos outros agentes para emagrecimento (HR não reportado no resumo). Embora o estudo sugira um perfil de segurança aceitável para esses medicamentos em relação à saúde ocular no curto a médio prazo, os autores destacam que a duração limitada do acompanhamento — especialmente no grupo de GLP-1RAs — impede conclusões definitivas sobre eventos adversos a longo prazo. Além disso, a ausência de dados sobre fatores como tabagismo, histórico de doenças cardiovasculares ou uso de suplementos oftalmológicos limita a generalização dos achados.\n\nOs pesquisadores enfatizam a necessidade de estudos prospectivos com acompanhamento prolongado e amostras mais representativas para validar esses resultados. Até lá, a decisão de prescrever GLP-1RAs em pacientes com obesidade não diabéticos deve considerar não apenas a eficácia metabólica, mas também o perfil de segurança oftalmológico, especialmente em indivíduos com predisposição genética à DMRI.\n\n---\n\n**English version**\n\nA recent study published in *Diabetes, Obesity and Metabolism* examined the impact of glucagon-like peptide-1 receptor agonists (GLP-1RAs) on the risk of developing age-related macular degeneration (AMD) in older adults with obesity but without diabetes. The research, conducted using a target trial emulation approach with data from the TriNetX global health research network, analyzed records from January 2014 to June 2025.\n\nThe investigators selected adults aged 60 years or older with obesity but no history of diabetes mellitus. The study aimed to compare the risk of incident AMD between new users of GLP-1RAs and new users of other weight-loss medications. After 1:1 propensity score matching, Cox proportional hazards models were used to estimate hazard ratios (HRs) over a maximum seven-year observation period. The median follow-up was 1.11 years (IQR: 1.48) in the GLP-1RA group compared to 2.56 years in the comparator group.\n\nThe findings indicated that the initiation of GLP-1RAs was not significantly associated with an increased or decreased risk of incident AMD when compared to other weight-loss agents (HR not reported in the abstract). While the study suggests an acceptable safety profile for these medications regarding ocular health in the short to medium term, the authors emphasize that the limited follow-up duration—particularly in the GLP-1RA group—prevents definitive conclusions about long-term adverse events. Additionally, the lack of data on factors such as smoking status, history of cardiovascular disease, or use of ophthalmic supplements limits the generalizability of the findings.\n\nThe researchers stress the need for prospective studies with extended follow-up and more representative samples to validate these results. Until then, the decision to prescribe GLP-1RAs in non-diabetic obese patients should consider not only metabolic efficacy but also the ophthalmic safety profile, particularly in individuals with a genetic predisposition to AMD.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42186202",
+    "authors": [
+      {
+        "name": "Tsung Wei Chang",
+        "affiliation": "Department of Pharmacy, Yuanlin Christian Hospital, Changhua, Taiwan."
+      },
+      {
+        "name": "Chia-Yu Kuo",
+        "affiliation": "Department of Pharmacy, Chia Nan University of Pharmacy and Science, Tainan, Taiwan."
+      },
+      {
+        "name": "Chris Yuan-Hao Lee",
+        "affiliation": "Department of Medical Education, Chi Mei Medical Center, Tainan, Taiwan."
+      },
+      {
+        "name": "Cheng-Hsien Hung",
+        "affiliation": "Naval Undersea Medical Institute, Groton, Connecticut, USA."
+      }
+    ],
+    "journal": "Diabetes, obesity &amp; metabolism",
+    "publishedDate": "2026-07-07",
+    "fetchedDate": "2026-07-08",
+    "category": "Endocrinologia",
+    "tags": [
+      "gene",
+      "diabetes",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42412838",
     "pmid": "42412838",
     "doi": "10.1093/bioinformatics/btag229",
@@ -31,7 +246,7 @@
       "gene",
       "mutation"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -74,7 +289,7 @@
       "children",
       "cytokine"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -113,7 +328,7 @@
       "genetic",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -152,7 +367,7 @@
       "pharmacology",
       "pharmacokinetics"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -195,7 +410,7 @@
       "atrial",
       "stroke"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12455,223 +12670,6 @@
     ],
     "isHighlight": false,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42004225",
-    "pmid": "42004225",
-    "doi": "10.1016/j.gendis.2025.101950",
-    "title": "Immune checkpoint B7x promotes immune evasion and resistance to PD-1/PD-L1 blockade in bladder cancer.",
-    "titlePt": "Immune checkpoint B7x promotes immune evasion and resistance to PD-1/PD-L1 blockade in bladder cancer.",
-    "abstract": "Cancer cells adopt multiple strategies to avoid detection and destruction by the immune system, including exploiting immune checkpoint pathways. B7x (B7-H4, B7S1, or VTCN1), a member of the B7/CD28 family, is frequently expressed in advanced bladder cancer, yet its role in bladder cancer progression and resistance to therapy remains poorly understood. Resistance to PD-1/PD-L1 immune checkpoint blockade immunotherapy significantly limits durable responses, with only 20%-25% of patients with muscle-invasive bladder cancer (MIBC) achieving long-term benefits. Here, we demonstrated that B7x mRNA and protein expression were associated with poor survival outcomes in MIBC patients and mouse models of bladder cancer, respectively. Stable expression of B7x in immune-competent bladder cancer mouse models resulted in enhanced tumor growth and splenomegaly, driven by the exclusion and suppression of tumor-infiltrating antitumor immune cells and the enrichment of pro-tumor and immunosuppressive cel",
-    "journalisticSummary": "Estudos recentes sobre o papel do checkpoint imunológico B7x no câncer de bexiga têm trazido novas perspectivas sobre como as células cancerígenas evadem o sistema imunológico. O câncer de bexiga, especialmente em estágios avançados, apresenta mecanismos complexos para evitar a detecção e destruição pelas células imunológicas, incluindo a exploração de vias de checkpoints imunológicos. A proteína B7x, membro da família B7/CD28, é frequentemente expressa em câncer de bexiga avançado, mas seu papel na progressão da doença e na resistência à terapia ainda não é bem compreendido. A resistência à imunoterapia que bloqueia os checkpoints PD-1/PD-L1 é um grande desafio, pois apenas 20% a 25% dos pacientes com câncer de bexiga invasivo muscular (MIBC) alcançam benefícios de longo prazo.\n\nPesquisas demonstraram que a expressão de mRNA e proteína B7x está associada a resultados de sobrevivência pobres em pacientes com MIBC e modelos murinos de câncer de bexiga, respectivamente. Além disso, a expressão estável de B7x em modelos de câncer de bexiga murinos imunocompetentes resultou em crescimento tumoral aumentado e esplenomegalia, impulsionados pela exclusão e supressão de células imunológicas antitumorais infiltrantes no tumor e pelo enriquecimento de células pró-tumor e imunossupressoras. Esses achados sugerem que B7x desempenha um papel crítico na evasão imunológica e resistência à terapia de bloqueio de PD-1/PD-L1 no câncer de bexiga.\n\nO impacto clínico desses achados é significativo, pois a compreensão dos mecanismos subjacentes à resistência à imunoterapia pode levar ao desenvolvimento de estratégias terapêuticas mais eficazes. No entanto, é importante notar que os estudos ainda enfrentam limitações, incluindo a necessidade de mais pesquisas para elucidar completamente os papéis de B7x e outras vias de checkpoints imunológicos no câncer de bexiga. Próximos passos incluem a investigação de como B7x interage com outras moléculas e vias imunológicas, bem como o desenvolvimento de terapias direcionadas que possam superar a resistência à imunoterapia atual.\n\nRecent studies on the role of the immune checkpoint B7x in bladder cancer have brought new insights into how cancer cells evade the immune system. Bladder cancer, especially in advanced stages, presents complex mechanisms to avoid detection and destruction by immune cells, including the exploitation of immune checkpoint pathways. The B7x protein, a member of the B7/CD28 family, is frequently expressed in advanced bladder cancer, but its role in disease progression and resistance to therapy remains poorly understood. Resistance to PD-1/PD-L1 immune checkpoint blockade immunotherapy is a significant challenge, as only 20-25% of patients with muscle-invasive bladder cancer (MIBC) achieve long-term benefits.\n\nResearch has demonstrated that B7x mRNA and protein expression are associated with poor survival outcomes in MIBC patients and mouse models of bladder cancer, respectively. Furthermore, stable expression of B7x in immune-competent bladder cancer mouse models resulted in enhanced tumor growth and splenomegaly, driven by the exclusion and suppression of tumor-infiltrating antitumor immune cells and the enrichment of pro-tumor and immunosuppressive cells. These findings suggest that B7x plays a critical role in immune evasion and resistance to PD-1/PD-L1 blockade therapy in bladder cancer.\n\nThe clinical impact of these findings is significant, as understanding the underlying mechanisms of resistance to immunotherapy can lead to the development of more effective therapeutic strategies. However, it is essential to note that studies still face limitations, including the need for further research to fully elucidate the roles of B7x and other immune checkpoint pathways in bladder cancer. Next steps include investigating how B7x interacts with other immunological molecules and pathways, as well as developing targeted therapies that can overcome resistance to current immunotherapy.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42004225",
-    "authors": [
-      {
-        "name": "Marc C Pulanco",
-        "affiliation": "Department of Microbiology and Immunology, Albert Einstein College of Medicine, New York 10461, USA."
-      },
-      {
-        "name": "Xiang Yu Zheng",
-        "affiliation": "Marilyn and Stanley M. Katz Institute for Immunotherapy for Cancer and Inflammatory Disorders, Albert Einstein College of Medicine, New York 10461, USA."
-      },
-      {
-        "name": "Alexander Sankin",
-        "affiliation": "Marilyn and Stanley M. Katz Institute for Immunotherapy for Cancer and Inflammatory Disorders, Albert Einstein College of Medicine, New York 10461, USA."
-      },
-      {
-        "name": "Deyou Zheng",
-        "affiliation": "Department of Genetics, Albert Einstein College of Medicine, New York 10461, USA."
-      }
-    ],
-    "journal": "Genes &amp; diseases",
-    "publishedDate": "2026-04-20",
-    "fetchedDate": "2026-04-20",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "immunotherapy",
-      "rna",
-      "immune"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42002223",
-    "pmid": "42002223",
-    "doi": "10.1016/j.ihj.2026.04.006",
-    "title": "Frailty and Advanced Age in Atrial Fibrillation: Implications for Treatment Strategies and Clinical Outcomes - A Systematic Review.",
-    "titlePt": "Frailty and Advanced Age in Atrial Fibrillation: Implications for Treatment Strategies and Clinical Outcomes - A Systematic Review.",
-    "abstract": "Atrial fibrillation (AF) is common among frail older adults and poses complex management challenges due to reduced physiological reserve and heightened vulnerability to adverse outcomes. This systematic review (2015-2025) examined influence of frailty and advanced age on AF management and outcomes, focusing on anticoagulation, interventional therapies and quality of life. Eligible cohort studies, trials, meta-analyses assessed outcomes including mortality, stroke, major bleeding, functional decline, recurrence, healthcare costs and quality of life with frailty measured using validated tools like Clinical Frailty Scale. Frail patients had a two- to threefold higher mortality risk and 40-50% greater incidence of stroke and major bleeding than non-frail peers. Low-dose NOACs reduced stroke in frail octogenarians but bleeding risk persisted. Rate control therapy improved symptoms yet increased hypotension risk. Catheter ablation showed lower success and more complications. Severe frailty a",
-    "journalisticSummary": "A fibrilação atrial (FA) é uma condição comum entre idosos frágeis e representa um desafio complexo de gestão devido à reserva fisiológica reduzida e à vulnerabilidade aumentada a resultados adversos. Um estudo sistemático recente, publicado na literatura científica, examinou a influência da fragilidade e da idade avançada no manejo e nos resultados da FA, com foco em anticoagulação, terapias intervencionais e qualidade de vida. Os resultados mostraram que pacientes frágeis têm um risco de mortalidade duas a três vezes maior e uma incidência 40-50% maior de acidente vascular cerebral e sangramento grave em comparação com seus pares não frágeis. O uso de anticoagulantes orais de baixa dose reduziu o risco de acidente vascular cerebral em octogenários frágeis, mas o risco de sangramento persistiu. A terapia de controle de frequência melhorou os sintomas, mas aumentou o risco de hipotensão. A ablação por cateter mostrou menor sucesso e mais complicações. A fragilidade severa foi um fator importante na determinação dos resultados clínicos. Embora os resultados sejam preocupantes, eles destacam a necessidade de abordagens personalizadas e cuidadosas no manejo da FA em pacientes idosos frágeis. Não foram fornecidos detalhes sobre as próximas etapas ou recomendações específicas para a prática clínica, o que sugere a necessidade de mais pesquisas para melhorar a compreensão e o tratamento dessa população vulnerável.\n\nAtrial fibrillation (AF) is a common condition among frail older adults and poses complex management challenges due to reduced physiological reserve and heightened vulnerability to adverse outcomes. A recent systematic review, published in the scientific literature, examined the influence of frailty and advanced age on AF management and outcomes, focusing on anticoagulation, interventional therapies, and quality of life. The results showed that frail patients have a two- to threefold higher mortality risk and a 40-50% greater incidence of stroke and major bleeding compared to their non-frail peers. The use of low-dose novel oral anticoagulants (NOACs) reduced the risk of stroke in frail octogenarians, but the bleeding risk persisted. Rate control therapy improved symptoms but increased the risk of hypotension. Catheter ablation showed lower success and more complications. Severe frailty was a significant factor in determining clinical outcomes. Although the findings are concerning, they highlight the need for personalized and cautious approaches in the management of AF in frail older adults. No details were provided on next steps or specific recommendations for clinical practice, suggesting the need for further research to improve understanding and treatment of this vulnerable population.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42002223",
-    "authors": [
-      {
-        "name": "Akash Batta",
-        "affiliation": "Department of Cardiology, Dayanand Medical College and Hospital (DMCH), Ludhiana, 141001, INDIA. Electronic address: akashbatta02@gmail.com."
-      },
-      {
-        "name": "Razieh Parizad",
-        "affiliation": "Cardiovascular Research Center, Tabriz University of Medical Sciences, Tabriz, Iran."
-      },
-      {
-        "name": "Juniali Hatwal",
-        "affiliation": "Department of Internal Medicine, Batta Hospital, Ludhiana, Punjab, India. 141001."
-      },
-      {
-        "name": "Ankur Mittal",
-        "affiliation": "Department of Cardiology, Advanced Cardiac Center, Post Graduate Institute of, Medical Education &amp; Research (PGIMER), Chandigarh-160012, INDIA."
-      }
-    ],
-    "journal": "Indian heart journal",
-    "publishedDate": "2026-04-19",
-    "fetchedDate": "2026-04-20",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42002243",
-    "pmid": "42002243",
-    "doi": "10.1016/j.jstrokecerebrovasdis.2026.108637",
-    "title": "Global inequities and strategies for expanding access to reperfusion therapies in acute ischemic stroke: A focus on low- and middle-income countries.",
-    "titlePt": "Global inequities and strategies for expanding access to reperfusion therapies in acute ischemic stroke: A focus on low- and middle-income countries.",
-    "abstract": "Acute ischemic stroke is a leading cause of mortality and long-term disability worldwide, disproportionately affecting low- and middle-income countries (LMICs). While intravenous thrombolysis (IVT) and mechanical thrombectomy (MT) improve outcomes in high-income countries (HICs), access remains severely limited in resource-constrained regions. This review examines global disparities in reperfusion therapy and highlights strategies to expand access in LMICs. A narrative review was conducted of literature published between 1995 and 2025 across PubMed, Scopus, Web of Science, and Google Scholar. Search terms included acute ischemic stroke, IVT, MT, stroke systems of care, HICs, LMICs, telemedicine, hub-and-spoke models, and workforce capacity. Eligible sources comprised randomized trials, systematic reviews, multicenter cohort studies, registry analyses, and policy reports addressing access, infrastructure, referral networks, and implementation strategies. Evidence was synthesized narrati",
-    "journalisticSummary": "O acidente vascular cerebral isquêmico agudo é uma das principais causas de mortalidade e incapacidade a longo prazo em todo o mundo, afetando desproporcionalmente os países de baixa e média renda. Embora a trombólise intravenosa (IVT) e a trombectomia mecânica (MT) melhorem os resultados nos países de alta renda, o acesso a esses tratamentos permanece severamente limitado em regiões com recursos escassos. Um estudo recente publicado no PubMed examina as disparidades globais na terapia de reperfusão e destaca estratégias para expandir o acesso nos países de baixa e média renda.\n\nA revisão narrativa foi realizada com base em literatura publicada entre 1995 e 2025, abrangendo bases de dados como PubMed, Scopus, Web of Science e Google Scholar. Os termos de busca incluíram acidente vascular cerebral isquêmico agudo, IVT, MT, sistemas de cuidados de acidente vascular cerebral, países de alta renda, países de baixa e média renda, telemedicina, modelos de hub-and-spoke e capacidade de força de trabalho. As fontes elegíveis incluíram ensaios clínicos randomizados, revisões sistemáticas, estudos de coorte multicêntricos, análises de registros e relatórios de políticas que abordavam acesso, infraestrutura, redes de referência e estratégias de implementação.\n\nOs achados principais do estudo não foram informados no resumo original, mas é sabido que a expansão do acesso à terapia de reperfusão em países de baixa e média renda é crucial para reduzir a carga global do acidente vascular cerebral isquêmico agudo. O impacto clínico dessa expansão pode ser significativo, melhorando os resultados dos pacientes e reduzindo a mortalidade e a incapacidade. No entanto, as limitações do estudo, como a falta de dados específicos sobre os países de baixa e média renda, devem ser consideradas. Os próximos passos incluem a implementação de estratégias para expandir o acesso à terapia de reperfusão, como a telemedicina e os modelos de hub-and-spoke, e a realização de mais pesquisas sobre as necessidades específicas dos países de baixa e média renda.\n\nAcute ischemic stroke is a leading cause of mortality and long-term disability worldwide, disproportionately affecting low- and middle-income countries. While intravenous thrombolysis (IVT) and mechanical thrombectomy (MT) improve outcomes in high-income countries, access remains severely limited in resource-constrained regions. A recent study published on PubMed examines global disparities in reperfusion therapy and highlights strategies to expand access in low- and middle-income countries.\n\nThe narrative review was conducted based on literature published between 1995 and 2025, covering databases such as PubMed, Scopus, Web of Science, and Google Scholar. Search terms included acute ischemic stroke, IVT, MT, stroke systems of care, high-income countries, low- and middle-income countries, telemedicine, hub-and-spoke models, and workforce capacity. Eligible sources comprised randomized trials, systematic reviews, multicenter cohort studies, registry analyses, and policy reports addressing access, infrastructure, referral networks, and implementation strategies.\n\nThe main findings of the study were not reported in the original abstract, but it is known that expanding access to reperfusion therapy in low- and middle-income countries is crucial to reduce the global burden of acute ischemic stroke. The clinical impact of this expansion can be significant, improving patient outcomes and reducing mortality and disability. However, the limitations of the study, such as the lack of specific data on low- and middle-income countries, must be considered. The next steps include implementing strategies to expand access to reperfusion therapy, such as telemedicine and hub-and-spoke models, and conducting more research on the specific needs of low- and middle-income countries.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42002243",
-    "authors": [
-      {
-        "name": "Franck Katembo Sikakulya",
-        "affiliation": "Neurosurgery Division, Faculty of Medicine, Universit&#xe9; Catholique du Graben, Butembo, DR Congo; Department of Surgery, Division of Neurosurgery, Mbarara Regional Referral Hospital, Mbarara, Uganda. Electronic address: francksikakulya@gmail.com."
-      },
-      {
-        "name": "Larrey Kasereka Kamabu",
-        "affiliation": "Neurosurgery Division, Faculty of Medicine, Universit&#xe9; Catholique du Graben, Butembo, DR Congo; Neurological Surgery, New Deal Sarl Hospital, International Clinic for Advanced Medicine in Kivu (CIMAK), Goma, Democratic Republic of the Congo."
-      },
-      {
-        "name": "Baanitse Munihire Jeannot",
-        "affiliation": "Department of General Surgery, Faculty of Clinical Medicine and Dentistry, Kampala International University Western Campus, Uganda."
-      },
-      {
-        "name": "Amir Abdallah Mbonde",
-        "affiliation": "Department of Neurology, Medical College of Georgia, Augusta University, Augusta, Georgia, USA."
-      }
-    ],
-    "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
-    "publishedDate": "2026-04-19",
-    "fetchedDate": "2026-04-20",
-    "category": "Neurologia",
-    "tags": [
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42000728",
-    "pmid": "42000728",
-    "doi": "10.1038/s41525-026-00568-x",
-    "title": "Low-penetrance TP53 variants are mainly hypomorphic: an underestimated issue with high clinical significance.",
-    "titlePt": "Low-penetrance TP53 variants are mainly hypomorphic: an underestimated issue with high clinical significance.",
-    "abstract": "Missense mutations that inactivate p53 are common in cancer. LiFraumeni syndrome, which is linked to early-onset cancer, is caused by germline mutations in TP53. Full-penetrant, inactive variants have garnered great attention, whereas low-penetrant variants are less well understood despite their clinical importance. This study systematically leveraged the 2025 UMD_TP53 database to identify missense variants that exhibit a statistically skewed germline-versus-somatic ratio (GVSr). Unlike classic hotspots that are equally prevalent in somatic and germline settings, these variants were disproportionately found in the germline, suggesting they act as low-penetrance variants with insufficient potency to drive tumorigenesis as single somatic events. To define the biological basis of LPVs, we integrated functional data from multiplexed assays of variant effects, tumor cell transcriptome analyses and computational predictive tools. This characterization revealed that these high-GVSr p53 varian",
-    "journalisticSummary": "Um estudo recente publicado na revista científica de alto impacto revelou novas descobertas sobre a importância das variantes de baixa penetrância do gene TP53 em relação ao desenvolvimento de câncer. O gene TP53 é conhecido por sua função crucial na regulação do ciclo celular e na prevenção da formação de tumores. Mutações nesse gene, especialmente as missense, podem levar à inativação da proteína p53, que é fundamental para a manutenção da integridade genômica. A Síndrome de Li-Fraumeni, caracterizada por um risco aumentado de câncer de início precoce, é frequentemente associada a mutações germinais no gene TP53. No entanto, as variantes de baixa penetrância, que não são tão potentes quanto as variantes de alta penetrância, têm sido menos estudadas, apesar de sua significância clínica.\n\nA pesquisa utilizou a base de dados UMD_TP53 de 2025 para identificar variantes missense que apresentam uma razão germinativa-somática (GVSr) estatisticamente desviada. Essas variantes foram encontradas de forma desproporcional no germe, sugerindo que atuam como variantes de baixa penetrância, com potência insuficiente para induzir a formação de tumores como eventos somáticos únicos. Para entender a base biológica dessas variantes, os pesquisadores integraram dados funcionais de ensaios multiplexados, análises de transcriptoma de células tumorais e ferramentas computacionais preditivas. Essa caracterização revelou que essas variantes de alta GVSr do gene p53 exibem principalmente um caráter hipomórfico, o que significa que elas não eliminam completamente a função da proteína p53, mas a reduzem parcialmente.\n\nO impacto clínico dessas descobertas é significativo, pois sugere que as variantes de baixa penetrância do gene TP53 podem ter um papel importante no desenvolvimento de câncer, especialmente em indivíduos com histórico familiar de câncer. No entanto, é importante notar que o estudo não forneceu informações sobre as implicações específicas para o tratamento ou prevenção do câncer. Além disso, os pesquisadores destacam a necessidade de mais estudos para entender melhor a biologia das variantes de baixa penetrância e seu papel no desenvolvimento de câncer.\n\nOs próximos passos incluem a realização de estudos adicionais para investigar a relação entre as variantes de baixa penetrância do gene TP53 e o risco de desenvolver câncer, bem como a exploração de estratégias terapêuticas que possam alvo as vias biológicas afetadas por essas variantes. Com a continuação da pesquisa, é possível que sejam desenvolvidas novas abordagens para a prevenção e tratamento do câncer, especialmente para indivíduos com histórico familiar de câncer.\n\nUm estudo recente publicado na revista científica de alto impacto revelou novas descobertas sobre a importância das variantes de baixa penetrância do gene TP53 em relação ao desenvolvimento de câncer. Infelizmente, o resumo original não forneceu informações detalhadas sobre as limitações do estudo, o que é uma lacuna importante que precisa ser abordada em futuras pesquisas.\n\nA recent study published in a high-impact scientific journal revealed new findings about the importance of low-penetrance TP53 variants in relation to cancer development. The TP53 gene is known for its crucial function in regulating the cell cycle and preventing tumor formation. Mutations in this gene, especially missense mutations, can lead to the inactivation of the p53 protein, which is essential for maintaining genomic integrity. Li-Fraumeni syndrome, characterized by an increased risk of early-onset cancer, is often associated with germline mutations in the TP53 gene. However, low-penetrance variants, which are not as potent as high-penetrance variants, have been less studied, despite their clinical significance.\n\nThe research used the 2025 UMD_TP53 database to identify missense variants that exhibit a statistically skewed germline-versus-somatic ratio (GVSr). These variants were found disproportionately in the germline, suggesting that they act as low-penetrance variants with insufficient potency to drive tumorigenesis as single somatic events. To understand the biological basis of these variants, the researchers integrated functional data from multiplexed assays of variant effects, tumor cell transcriptome analyses, and computational predictive tools. This characterization revealed that these high-GVSr p53 variants are mainly hypomorphic, meaning they do not completely eliminate the function of the p53 protein but rather reduce it partially.\n\nThe clinical impact of these findings is significant, as it suggests that low-penetrance TP53 variants may play a crucial role in cancer development, especially in individuals with a family history of cancer. However, it is essential to note that the study did not provide information on specific implications for cancer treatment or prevention. Additionally, the researchers highlight the need for further studies to better understand the biology of low-penetrance variants and their role in cancer development.\n\nThe next steps include conducting additional studies to investigate the relationship between low-penetrance TP53 variants and the risk of developing cancer, as well as exploring therapeutic strategies that can target the affected biological pathways. With continued research, it is possible that new approaches to cancer prevention and treatment will be developed, especially for individuals with a family history of cancer.\n\nUnfortunately, the original abstract did not provide detailed information on the study's limitations, which is an important gap that needs to be addressed in future research.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42000728",
-    "authors": [
-      {
-        "name": "Lea Rodriguez",
-        "affiliation": "Sorbonne Universit&#xe9;, INSERM, Centre de Recherche Saint-Antoine, CRSA, UMRS_938 Hematopoietic and Leukemic Development, AP-HP, SIRIC CURAMUS, Paris, France."
-      },
-      {
-        "name": "Bernard Leroy",
-        "affiliation": "Carnot OPALE Institute, Paris, France."
-      },
-      {
-        "name": "Franck Toledo",
-        "affiliation": "Sorbonne Universit&#xe9;, INSERM, Centre de Recherche Saint-Antoine, CRSA, UMRS_938 Hematopoietic and Leukemic Development, AP-HP, SIRIC CURAMUS, Paris, France."
-      },
-      {
-        "name": "Julianne Susanne Funk",
-        "affiliation": "Sorbonne Universit&#xe9;, INSERM, Centre de Recherche Saint-Antoine, CRSA, UMRS_938 Hematopoietic and Leukemic Development, AP-HP, SIRIC CURAMUS, Paris, France."
-      }
-    ],
-    "journal": "NPJ genomic medicine",
-    "publishedDate": "2026-04-18",
-    "fetchedDate": "2026-04-19",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "gene",
-      "mutation"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41855858",
-    "pmid": "41855858",
-    "doi": "10.1016/j.tranon.2026.102731",
-    "title": "Genomic landscape of pleural mesothelioma in Japanese patients: A comprehensive analysis using nationwide database.",
-    "titlePt": "Genomic landscape of pleural mesothelioma in Japanese patients: A comprehensive analysis using nationwide database.",
-    "abstract": "Pleural mesothelioma (PM) is a rare and aggressive malignancy. The development of novel therapeutic strategies targeting PM remains an unmet clinical need. However, comprehensive genomic data from Asian populations, particularly from Japanese patients, are limited. This study aimed to elucidate the genomic landscape of PM in Japanese patients using the nationwide Center for Cancer Genomics and Advanced Therapeutics (C-CAT) genomic database. A total of 211 patients registered between June 2019 and March 2025 were analyzed. The most frequent genetic alterations were in BAP1, NF2, TP53, CDKN2A/B, and MTAP. The median tumor mutation burden (TMB) was 1.26, and no microsatellite instability-high patients were detected. The median overall survival (OS) after first-line treatment was 30.6 months. Patients treated with immune checkpoint inhibitors (ICIs) had a significantly better OS than those who did not receive ICIs. In univariate and multivariate analyses, TP53 alterations and high TMB (cut",
-    "journalisticSummary": "O câncer de mesotelia pleural é uma malignidade rara e agressiva que ainda carece de estratégias terapêuticas inovadoras. Embora o desenvolvimento de novas abordagens para o tratamento dessa doença seja uma necessidade clínica não atendida, os dados genômicos abrangentes de populações asiáticas, particularmente de pacientes japoneses, são limitados. Um estudo recente buscou elucidar o panorama genômico do câncer de mesotelia pleural em pacientes japoneses, utilizando o banco de dados genômicos nacional do Centro de Genômica e Terapias Avançadas do Câncer (C-CAT). Foram analisados 211 pacientes registrados entre junho de 2019 e março de 2025. As alterações genéticas mais frequentes foram observadas nos genes BAP1, NF2, TP53, CDKN2A/B e MTAP. A carga de mutação tumoral mediana (TMB) foi de 1,26, e não foram detectados pacientes com instabilidade microsatelital alta. A sobrevivência geral mediana (OS) após o tratamento de primeira linha foi de 30,6 meses. Pacientes tratados com inibidores de pontos de controle imunológico (ICIs) apresentaram uma sobrevivência geral significativamente melhor do que aqueles que não receberam ICIs. Em análises univariadas e multivariadas, alterações no gene TP53 e alta TMB foram associadas a resultados clínicos. No entanto, não foram fornecidos detalhes sobre os próximos passos ou implicações clínicas específicas desses achados.\n\nThe pleural mesothelioma is a rare and aggressive malignancy that still lacks innovative therapeutic strategies. Although the development of new approaches for the treatment of this disease is an unmet clinical need, comprehensive genomic data from Asian populations, particularly from Japanese patients, are limited. A recent study aimed to elucidate the genomic landscape of pleural mesothelioma in Japanese patients, using the national Center for Cancer Genomics and Advanced Therapeutics (C-CAT) genomic database. A total of 211 patients registered between June 2019 and March 2025 were analyzed. The most frequent genetic alterations were observed in the BAP1, NF2, TP53, CDKN2A/B, and MTAP genes. The median tumor mutation burden (TMB) was 1.26, and no patients with high microsatellite instability were detected. The median overall survival (OS) after first-line treatment was 30.6 months. Patients treated with immune checkpoint inhibitors (ICIs) had a significantly better OS than those who did not receive ICIs. In univariate and multivariate analyses, TP53 alterations and high TMB were associated with clinical outcomes. However, no details were provided on the next steps or specific clinical implications of these findings.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41855858",
-    "authors": [
-      {
-        "name": "Hirokazu Taniguchi",
-        "affiliation": "Clinical Oncology Center, Nagasaki University Hospital, Nagasaki, Japan; Department of Respiratory Medicine, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki, Japan. Electronic address: hirokazu_pc@nagasaki-u.ac.jp."
-      },
-      {
-        "name": "Kazumasa Akagi",
-        "affiliation": "Clinical Oncology Center, Nagasaki University Hospital, Nagasaki, Japan; Department of Respiratory Medicine, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki, Japan."
-      },
-      {
-        "name": "Takahito Fukuda",
-        "affiliation": "Department of Respiratory Medicine, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki, Japan."
-      },
-      {
-        "name": "Takuya Honda",
-        "affiliation": "Clinical Oncology Center, Nagasaki University Hospital, Nagasaki, Japan; Department of Gastroenterology and Hepatology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki, Japan."
-      }
-    ],
-    "journal": "Translational oncology",
-    "publishedDate": "2026-04-18",
-    "fetchedDate": "2026-04-19",
-    "category": "Genômica",
-    "tags": [
-      "cancer",
-      "tumor",
-      "genomic",
-      "genetic",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
