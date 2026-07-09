@@ -1,5 +1,91 @@
 [
   {
+    "id": "pubmed-42419876",
+    "pmid": "42419876",
+    "doi": "10.1136/openhrt-2026-004137",
+    "title": "Sex-disaggregated data in hypertrophic cardiomyopathy: a targeted literature review, meta-analysis and primary cohort study.",
+    "titlePt": "Sex-disaggregated data in hypertrophic cardiomyopathy: a targeted literature review, meta-analysis and primary cohort study.",
+    "abstract": "Hypertrophic cardiomyopathy (HCM) is the most common inherited cardiomyopathy characterised by pathological left ventricular hypertrophy and categorised into obstructive and non-obstructive subtypes. While its autosomal dominant inheritance pattern would suggest similar prevalence, emerging evidence suggests sex-based physiological differences in presentation, progression and outcomes. We sought to better understand these differences in the literature and among our own cohort of patients with HCM. A targeted literature review (TLR) of MEDLINE and Web of Science, and subsequent meta-analysis of NT-proBNP captured sex-disaggregated echocardiographic and cardiac MRI values, genetic mutation effects, biomarker levels and outcomes. A retrospective study of patients diagnosed with HCM at University Hospitals Coventry and Warwickshire NHS Trust, UK between January 2007 and January 2025 examined sex-based differences in presentation, diagnosis and outcomes in HCM. The TLR found that females we",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recentemente publicado no *Open Heart* investiga as diferenças baseadas em sexo em pacientes com cardiomiopatia hipertrófica (CMH), a doença cardíaca hereditária mais comum, marcada por hipertrofia ventricular esquerda patológica. Embora a herança autossômica dominante sugira uma prevalência semelhante entre homens e mulheres, evidências emergentes apontam para disparidades fisiológicas, clínicas e prognósticas entre os sexos.\n\nA pesquisa combinou uma revisão sistemática direcionada — analisando dados do MEDLINE e Web of Science — com uma meta-análise de níveis de NT-proBNP, além de um estudo de coorte retrospectivo conduzido no *University Hospitals Coventry and Warwickshire NHS Trust*, no Reino Unido, entre janeiro de 2007 e janeiro de 2025. Os resultados preliminares da revisão indicam que mulheres com CMH apresentam não apenas apresentações clínicas distintas, mas também diferenças em marcadores bioquímicos, achados de imagem e desfechos. Contudo, o estudo não especifica os valores exatos ou magnitudes das diferenças encontradas, nem detalha o número de pacientes incluídos na coorte primária ou na meta-análise.\n\nAs implicações clínicas desses achados são relevantes, uma vez que podem influenciar estratégias de diagnóstico precoce, estratificação de risco e abordagens terapêuticas personalizadas. No entanto, o trabalho não aborda possíveis vieses de seleção nos dados da coorte ou limitações metodológicas da revisão sistemática. Além disso, não foram fornecidas informações sobre a distribuição de subtipos obstrutivos e não obstrutivos entre os sexos, fator crucial para a interpretação dos resultados.\n\nOs próximos passos incluem a validação desses achados em coortes maiores e mais diversificadas, bem como a investigação de mecanismos fisiopatológicos subjacentes às diferenças sexuais na CMH. A integração de dados de imagem avançada e genética, conforme sugerido pelo estudo, poderá aprimorar a compreensão da doença e guiar intervenções mais precisas.\n\n---\n\n**English version**\n\nA study published in *Open Heart* examines sex-based differences in hypertrophic cardiomyopathy (HCM), the most common inherited cardiac disorder, characterized by pathological left ventricular hypertrophy. While autosomal dominant inheritance suggests similar prevalence across sexes, emerging evidence indicates physiological, clinical, and prognostic disparities between men and women with HCM.\n\nThe research integrates a targeted literature review—analyzing data from MEDLINE and Web of Science—with a meta-analysis of NT-proBNP levels and a retrospective cohort study conducted at *University Hospitals Coventry and Warwickshire NHS Trust*, UK, between January 2007 and January 2025. Preliminary findings from the review suggest that women with HCM exhibit distinct clinical presentations, differences in biomarker levels, imaging findings, and outcomes. However, the study does not specify exact values, effect sizes, or the number of patients included in either the meta-analysis or the primary cohort.\n\nThe clinical implications of these findings are significant, as they may inform strategies for early diagnosis, risk stratification, and personalized therapeutic approaches. Yet, the study does not address potential selection biases in the cohort data or methodological limitations of the systematic review. Additionally, no details are provided regarding the distribution of obstructive versus non-obstructive subtypes between sexes, a critical factor for interpreting the results.\n\nNext steps include validating these findings in larger, more diverse cohorts and investigating the underlying pathophysiological mechanisms driving sex-based differences in HCM. Further integration of advanced imaging and genetic data, as suggested by the study, could enhance disease understanding and guide more precise interventions.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42419876",
+    "authors": [
+      {
+        "name": "Ven Gee Lim",
+        "affiliation": "Institute for Cardio-Metabolic Medicine (ICMM), University Hospitals Coventry and Warwickshire NHS Trust, Coventry, England, UK."
+      },
+      {
+        "name": "Maria Kokara",
+        "affiliation": "Cardiology, University Hospitals Coventry and Warwickshire NHS Trust, Coventry, UK."
+      },
+      {
+        "name": "Ayisatu Jarrett",
+        "affiliation": "Department of Life Sciences, Warwick Medical School, University of Warwick, Coventry, UK."
+      },
+      {
+        "name": "Abeesh Panicker",
+        "affiliation": "Centre for Health &amp; Life Sciences, Coventry University, Coventry, UK."
+      }
+    ],
+    "journal": "Open heart",
+    "publishedDate": "2026-07-08",
+    "fetchedDate": "2026-07-09",
+    "category": "Genômica",
+    "tags": [
+      "cardiac",
+      "genetic",
+      "gene",
+      "mutation"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42295865",
+    "pmid": "42295865",
+    "doi": "10.1093/geront/gnag135",
+    "title": "From ambient assistance to data-driven precision in AI-enabled Alzheimer's care (2004-2025): a bibliometric perspective.",
+    "titlePt": "From ambient assistance to data-driven precision in AI-enabled Alzheimer's care (2004-2025): a bibliometric perspective.",
+    "abstract": "Population aging and the rising prevalence of Alzheimer's disease and related dementias (AD/ADRD) have created an urgent need for innovative care solutions. Artificial intelligence (AI) has emerged as a critical tool, yet a macro-level quantitative analysis of its evolutionary trajectory in geriatric care remains scarce. This study conducts a comprehensive bibliometric analysis to map the knowledge domain of AI-empowered geriatric care for AD/ADRD from 2004 to 2025, elucidating spatial distributions, evolutionary trajectories, and emerging research frontiers. A total of 1,197 eligible records were retrieved from the Web of Science Core Collection. Bibliometric analyses including co-occurrence networks, burst detection, and thematic evolution were conducted utilizing CiteSpace, VOSviewer, and the Bibliometrix R package. The 1,197 documents (402 sources; 7,268 authors) show an annual growth rate of 30.36%, peaking at 262 publications in 2025. The United States (242 articles; 6,640 citati",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nA inteligência artificial (IA) tem se consolidado como uma ferramenta fundamental na gestão de doenças neurodegenerativas, especialmente o Alzheimer e demências relacionadas (DA/DARD), diante do envelhecimento populacional e da crescente demanda por cuidados especializados. Um estudo recente publicado na *Gerontologist* mapeou a evolução da pesquisa nessa área entre 2004 e 2025, revelando um crescimento exponencial e identificando tendências globais. Com base em 1.197 registros indexados na *Web of Science Core Collection*, a análise bibliométrica — conduzida com ferramentas como CiteSpace, VOSviewer e o pacote *Bibliometrix* do R — destacou a distribuição geográfica, redes de colaboração e frentes emergentes de pesquisa.\n\nOs dados mostram um ritmo acelerado de publicações, com taxa anual de crescimento de 30,36% e pico de 262 artigos em 2025. Os Estados Unidos lideram a produção científica (242 artigos; 6.640 citações), seguidos por China e Reino Unido, enquanto a colaboração internacional se concentra em redes temáticas como *machine learning* para diagnóstico precoce, sistemas de monitoramento ambulatorial e personalização de terapias. Entre as abordagens mais citadas estão modelos preditivos baseados em dados clínicos e neuroimagem, além de algoritmos de processamento de linguagem natural para análise de sintomas comportamentais.\n\nDo ponto de vista clínico, os achados sugerem um deslocamento do foco tradicional em assistência passiva para soluções baseadas em dados, com potencial para reduzir custos operacionais e melhorar a precisão diagnóstica. No entanto, a revisão aponta como limitações a heterogeneidade dos conjuntos de dados utilizados nos estudos e a falta de padronização metodológica, o que pode comprometer a reprodutibilidade dos resultados. Além disso, não foram informados detalhes sobre a validação prospectiva desses modelos em cenários reais ou sua integração com sistemas de saúde pública.\n\nComo próximos passos, os autores destacam a necessidade de estudos longitudinais que validem algoritmos em populações diversificadas e a criação de frameworks éticos para o uso de IA em geriatria, especialmente no que tange à privacidade de dados e viés algorítmico. A pesquisa também sugere que a colaboração entre centros acadêmicos e indústrias de *health-tech* pode acelerar a translação clínica de ferramentas baseadas em IA, embora os mecanismos de financiamento e transferência de tecnologia não tenham sido detalhados no artigo.\n\n---\n\n**English version**\n\nArtificial intelligence (AI) has become a cornerstone in managing neurodegenerative diseases, particularly Alzheimer’s disease and related dementias (AD/ADRD), amid global population aging and the rising demand for specialized care. A recent study published in *The Gerontologist* mapped the evolution of research in this field from 2004 to 2025, revealing exponential growth and identifying key global trends. Based on 1,197 records indexed in the *Web of Science Core Collection*, the bibliometric analysis—conducted using tools such as CiteSpace, VOSviewer, and the *Bibliometrix* R package—highlighted geographical distribution, collaboration networks, and emerging research frontiers.\n\nThe data indicate a rapid acceleration in publications, with an annual growth rate of 30.36% and a peak of 262 articles in 2025. The United States leads scientific output (242 articles; 6,640 citations), followed by China and the United Kingdom, while international collaboration focuses on thematic networks such as *machine learning* for early diagnosis, ambulatory monitoring systems, and personalized therapies. Among the most cited approaches are predictive models leveraging clinical data and neuroimaging, alongside natural language processing algorithms for analyzing behavioral symptoms.\n\nFrom a clinical standpoint, the findings suggest a shift from traditional passive assistance to data-driven solutions, with potential to reduce operational costs and improve diagnostic accuracy. However, the review highlights limitations, including the heterogeneity of datasets used in studies and a lack of methodological standardization, which may compromise result reproducibility. Additionally, no details were provided on the prospective validation of these models in real-world settings or their integration with public health systems.\n\nLooking ahead, the authors emphasize the need for longitudinal studies to validate algorithms across diverse populations and the development of ethical frameworks for AI deployment in geriatrics, particularly concerning data privacy and algorithmic bias. The research also suggests that collaboration between academic centers and health-tech industries could expedite the clinical translation of AI-based tools, though funding mechanisms and technology transfer processes were not detailed in the paper.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42295865",
+    "authors": [
+      {
+        "name": "Bingnan Du",
+        "affiliation": "School of Health Management, China Medical University, Shenyang, Liaoning Province, 110122, P.R. China."
+      },
+      {
+        "name": "Qi Li",
+        "affiliation": "School of Health Management, China Medical University, Shenyang, Liaoning Province, 110122, P.R. China."
+      },
+      {
+        "name": "Xueying Li",
+        "affiliation": "School of Health Management, China Medical University, Shenyang, Liaoning Province, 110122, P.R. China."
+      },
+      {
+        "name": "Xiaoxi Liu",
+        "affiliation": "School of Health Management, China Medical University, Shenyang, Liaoning Province, 110122, P.R. China."
+      }
+    ],
+    "journal": "The Gerontologist",
+    "publishedDate": "2026-07-08",
+    "fetchedDate": "2026-07-09",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "dementia"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42418867",
     "pmid": "42418867",
     "doi": "10.1016/j.yexmp.2026.105063",
@@ -164,7 +250,7 @@
       "drug",
       "clinical trial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -208,7 +294,7 @@
       "gene",
       "immune"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12592,93 +12678,6 @@
     ],
     "isHighlight": false,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41332227",
-    "pmid": "41332227",
-    "doi": "10.1097/COC.0000000000001262",
-    "title": "Optimizing Natural Killer Cellular Therapy in Acute Myeloid Leukemia.",
-    "titlePt": "Optimizing Natural Killer Cellular Therapy in Acute Myeloid Leukemia.",
-    "abstract": "Acute myeloid leukemia (AML) continues to pose a major hurdle in hematologic oncology, driven by its genetic complexity and tendency to resist standard therapies. Even with progress in treatment-such as high-dose chemotherapy and hematopoietic stem cell transplantation (HSCT)-outcomes remain unsatisfactory for many patients. In recent years, immunotherapy has emerged as an appealing strategy to improve survival by strengthening the body's own anti-leukemia defenses. Natural killer (NK) cells, a critical component of innate immunity, have shown strong potential for directly eliminating AML cells without prior antigen exposure. This review outlines the role of NK cells in AML immune surveillance, mechanisms by which their function becomes impaired in the disease, and the current therapeutic approaches harnessing NK cells in AML management. We also discuss key obstacles and opportunities, including strategies to boost NK cell activity, counter immune escape, and improve treatment durabili",
-    "journalisticSummary": "A leucemia mieloide aguda (LMA) continua a ser um desafio significativo na oncologia hematológica, impulsionada por sua complexidade genética e tendência a resistir às terapias padrão. Mesmo com o progresso no tratamento, como a quimioterapia de alta dose e o transplante de células-tronco hematopoiéticas (TCTH), os resultados permanecem insatisfatórios para muitos pacientes. Nos últimos anos, a imunoterapia tem surgido como uma estratégia atraente para melhorar a sobrevivência, fortalecendo as defesas anti-leucêmicas do próprio corpo. As células matadoras naturais (NK), um componente crítico da imunidade inata, têm mostrado um forte potencial para eliminar diretamente as células de LMA sem exposição prévia ao antígeno. Esta revisão destaca o papel das células NK na vigilância imunológica da LMA, os mecanismos pelos quais sua função se torna prejudicada na doença e as abordagens terapêuticas atuais que utilizam células NK no manejo da LMA. Além disso, discutimos os principais obstáculos e oportunidades, incluindo estratégias para aumentar a atividade das células NK, contrariar a fuga imunológica e melhorar a durabilidade do tratamento. Embora os resultados sejam promissores, ainda há limitações e desafios a serem superados, como a necessidade de mais pesquisas sobre a otimização da terapia com células NK e a identificação de biomarcadores para prever a resposta ao tratamento. Portanto, é essencial continuar investigando e desenvolvendo estratégias inovadoras para melhorar a eficácia e a segurança da terapia com células NK na LMA.\n\nAcute myeloid leukemia (AML) continues to pose a major hurdle in hematologic oncology, driven by its genetic complexity and tendency to resist standard therapies. Even with progress in treatment, such as high-dose chemotherapy and hematopoietic stem cell transplantation (HSCT), outcomes remain unsatisfactory for many patients. In recent years, immunotherapy has emerged as an appealing strategy to improve survival by strengthening the body's own anti-leukemia defenses. Natural killer (NK) cells, a critical component of innate immunity, have shown strong potential for directly eliminating AML cells without prior antigen exposure. This review highlights the role of NK cells in AML immune surveillance, the mechanisms by which their function becomes impaired in the disease, and the current therapeutic approaches harnessing NK cells in AML management. Additionally, we discuss key obstacles and opportunities, including strategies to boost NK cell activity, counter immune escape, and improve treatment durability. Although the results are promising, there are still limitations and challenges to be overcome, such as the need for more research on optimizing NK cell therapy and identifying biomarkers to predict treatment response. Therefore, it is essential to continue investigating and developing innovative strategies to improve the efficacy and safety of NK cell therapy in AML.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41332227",
-    "authors": [
-      {
-        "name": "Binsah George",
-        "affiliation": "Department of Hematology-Oncology, University of Texas Health Science Center at Houston."
-      },
-      {
-        "name": "Manu Pandey",
-        "affiliation": "Department of Hematology-Oncology, University of Oklahoma Health Sciences."
-      },
-      {
-        "name": "Jacob Herstein",
-        "affiliation": "Department of Internal Medicine, University of Texas Health Science Center at Houston."
-      },
-      {
-        "name": "Abhishek Maiti",
-        "affiliation": "Department of Leukemia, University of Texas M.D. Anderson Cancer Center, Houston, TX."
-      }
-    ],
-    "journal": "American journal of clinical oncology",
-    "publishedDate": "2026-04-23",
-    "fetchedDate": "2026-04-23",
-    "category": "Oncologia",
-    "tags": [
-      "oncology",
-      "leukemia",
-      "chemotherapy",
-      "immunotherapy",
-      "genetic"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41549334",
-    "pmid": "41549334",
-    "doi": "10.1007/s40256-025-00784-3",
-    "title": "Additive Effects of Angiotensin Receptor-Neprilysin Inhibitors and Sodium-Glucose Cotransporter 2 Inhibitors on Neurohormonal Inhibition Therapy in Severe HFrEF: A Systematic Review and Network Meta-analysis.",
-    "titlePt": "Additive Effects of Angiotensin Receptor-Neprilysin Inhibitors and Sodium-Glucose Cotransporter 2 Inhibitors on Neurohormonal Inhibition Therapy in Severe HFrEF: A Systematic Review and Network Meta-analysis.",
-    "abstract": "Randomized controlled trials (RCTs) have identified the additive effects of angiotensin receptor-neprilysin inhibitors (ARNIs) and sodium-glucose cotransporter 2 (SGLT2) inhibitors on neurohormonal inhibition therapy in patients with heart failure with reduced ejection fraction (HFrEF). However, their additive effects on conventional baseline therapies in patients with severe HFrEF remain unclear. A systematic review was conducted using the PubMed, Cochrane Central Register of Controlled Trials, and ClinicalTrials.gov databases until February 2025. Our review included RCTs that evaluated the effects of ARNIs or SGLT2 inhibitors in patients with severe HFrEF. The primary outcome was the composite endpoint of cardiovascular death or hospitalization for heart failure. The pooled hazard ratio (HR) was estimated through a network meta-analysis conducted using a frequentist statistical approach. Five relevant trials, or their New York Heart Association class III-IV subgroups, were identified",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou os efeitos adicionais de inibidores de receptor de angiotensina-neprilisina (ARNIs) e inibidores do cotransportador de glicose sódio 2 (SGLT2) na terapia de inibição neurohormonal em pacientes com insuficiência cardíaca grave com fração de ejeção reduzida (HFrEF). A pesquisa foi realizada por meio de uma revisão sistemática e metanálise em rede, incluindo ensaios clínicos randomizados (ECRs) que avaliaram os efeitos desses inibidores em pacientes com HFrEF grave. Os resultados mostraram que a combinação de ARNIs e SGLT2 inibidores pode ter um impacto significativo na redução do risco de morte cardiovascular ou hospitalização por insuficiência cardíaca. No entanto, os autores destacam a necessidade de mais pesquisas para confirmar esses achados e estabelecer a segurança e eficácia a longo prazo desses tratamentos.\n\nA metanálise em rede foi realizada com base em cinco estudos relevantes, ou subgrupos da classe III-IV da New York Heart Association, e o resultado primário foi a taxa de risco combinada de morte cardiovascular ou hospitalização por insuficiência cardíaca. Embora os achados sejam promissores, os autores também destacam as limitações do estudo, incluindo a falta de dados sobre a segurança e eficácia a longo prazo desses tratamentos. Além disso, não foi informado o tamanho da amostra ou a duração dos estudos incluídos, o que pode afetar a interpretação dos resultados. Em resumo, o estudo sugere que a combinação de ARNIs e SGLT2 inibidores pode ser uma opção terapêutica eficaz para pacientes com HFrEF grave, mas mais pesquisas são necessárias para confirmar esses achados e estabelecer a segurança e eficácia a longo prazo desses tratamentos.\n\nOs próximos passos incluem a realização de estudos clínicos mais amplos e a longo prazo para avaliar a segurança e eficácia desses tratamentos em pacientes com HFrEF grave. Além disso, é fundamental investigar os mecanismos subjacentes aos efeitos adicionais de ARNIs e SGLT2 inibidores na terapia de inibição neurohormonal, o que pode levar a novas estratégias terapêuticas para esses pacientes. Em resumo, o estudo é um passo importante para a compreensão dos efeitos adicionais de ARNIs e SGLT2 inibidores em pacientes com HFrEF grave, mas mais pesquisas são necessárias para estabelecer a segurança e eficácia a longo prazo desses tratamentos.\n\nA recent study published in PubMed investigated the additive effects of angiotensin receptor-neprilysin inhibitors (ARNIs) and sodium-glucose cotransporter 2 (SGLT2) inhibitors on neurohormonal inhibition therapy in patients with severe heart failure with reduced ejection fraction (HFrEF). The research was conducted through a systematic review and network meta-analysis, including randomized controlled trials (RCTs) that evaluated the effects of these inhibitors in patients with severe HFrEF. The results showed that the combination of ARNIs and SGLT2 inhibitors may have a significant impact on reducing the risk of cardiovascular death or hospitalization for heart failure. However, the authors highlight the need for further research to confirm these findings and establish the long-term safety and efficacy of these treatments.\n\nThe network meta-analysis was conducted based on five relevant studies, or New York Heart Association class III-IV subgroups, and the primary outcome was the combined hazard ratio of cardiovascular death or hospitalization for heart failure. Although the findings are promising, the authors also highlight the limitations of the study, including the lack of data on the long-term safety and efficacy of these treatments. Additionally, the sample size and duration of the included studies were not reported, which may affect the interpretation of the results. In summary, the study suggests that the combination of ARNIs and SGLT2 inhibitors may be an effective therapeutic option for patients with severe HFrEF, but further research is needed to confirm these findings and establish the long-term safety and efficacy of these treatments.\n\nThe next steps include conducting larger and longer-term clinical trials to evaluate the safety and efficacy of these treatments in patients with severe HFrEF. Additionally, it is essential to investigate the underlying mechanisms of the additive effects of ARNIs and SGLT2 inhibitors on neurohormonal inhibition therapy, which may lead to new therapeutic strategies for these patients. In summary, the study is an important step towards understanding the additive effects of ARNIs and SGLT2 inhibitors in patients with severe HFrEF, but further research is needed to establish the long-term safety and efficacy of these treatments.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41549334",
-    "authors": [
-      {
-        "name": "Koji Suzuki",
-        "affiliation": "Department of Hospital Pharmacy, Hamamatsu University School of Medicine, Hamamatsu, Japan. kojisuzu@hama-med.ac.jp."
-      },
-      {
-        "name": "Sumika Osa",
-        "affiliation": "Department of Hospital Pharmacy, Hamamatsu University School of Medicine, Hamamatsu, Japan."
-      },
-      {
-        "name": "Shunya Takeshita",
-        "affiliation": "Department of Hospital Pharmacy, Hamamatsu University School of Medicine, Hamamatsu, Japan."
-      },
-      {
-        "name": "Makoto Noda",
-        "affiliation": "Department of Hospital Pharmacy, Hamamatsu University School of Medicine, Hamamatsu, Japan."
-      }
-    ],
-    "journal": "American journal of cardiovascular drugs : drugs, devices, and other interventions",
-    "publishedDate": "2026-04-22",
-    "fetchedDate": "2026-04-23",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "heart"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
