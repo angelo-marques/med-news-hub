@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42424047",
+    "pmid": "42424047",
+    "doi": "10.1001/jamaoncol.2026.2330",
+    "title": "Consolidative Thoracic Radiotherapy With Atezolizumab Maintenance in Extensive-Stage Small Cell Lung Cancer: The Phase 2 TREASURE Randomized Clinical Trial (AIO-TRK-0320).",
+    "titlePt": "Consolidative Thoracic Radiotherapy With Atezolizumab Maintenance in Extensive-Stage Small Cell Lung Cancer: The Phase 2 TREASURE Randomized Clinical Trial (AIO-TRK-0320).",
+    "abstract": "Chemoimmunotherapy followed by immunotherapy maintenance is the standard first-line treatment for extensive-stage small cell lung cancer (ES-SCLC), yet data regarding efficacy and safety of consolidative thoracic radiotherapy (TRT) are lacking. To determine whether combining consolidative TRT with immunotherapy maintenance in ES-SCLC is safe and improves patients' overall survival (OS) and progression-free survival (PFS). This was a multicenter open-label phase 2 randomized clinical trial recruiting patients from September 2020 to August 2022 in Germany and Austria, with the last follow-up visit in September 2024. Eligible patients had ES-SCLC with at least stable disease after induction chemoimmunotherapy (carboplatin-etoposide-atezolizumab). Although the database was locked in April 2025, a post hoc survival update was performed in April 2026. Data were analyzed from April 2025 to April 2026. Randomized (1:1) to either atezolizumab maintenance combined with consolidative TRT (30 Gy i",
+    "journalisticSummary": "Um ensaio clínico randomizado de fase 2, conduzido na Alemanha e Áustria entre setembro de 2020 e agosto de 2022, avaliou o impacto da radioterapia torácica consolidativa (RTT) em combinação com manutenção de atezolizumabe em pacientes com câncer de pulmão de pequenas células em estágio extenso (CPCE-E). Os resultados, recentemente atualizados em abril de 2026, sugerem que a adição de RTT à terapia padrão não melhorou significativamente a sobrevida global (SG) ou a sobrevida livre de progressão (SLP) em comparação ao uso exclusivo de atezolizumabe como manutenção. O estudo, que recrutou pacientes com doença estável após quimioimunoterapia inicial (carboplatina, etoposídeo e atezolizumabe), randomizou os participantes (1:1) para receber RTT (30 Gy em 10 frações) associada à manutenção com atezolizumabe ou apenas atezolizumabe. Embora a segurança da combinação tenha sido confirmada, os achados principais indicam que não houve diferença estatisticamente significativa nos desfechos primários de eficácia. Os autores destacam a necessidade de estudos maiores e com desenho adaptativo para explorar subgrupos potenciais — como pacientes com doença intratorácica volumosa — que possam se beneficiar da RTT. Limitações incluem o tamanho amostral reduzido e o caráter aberto do estudo, que pode introduzir vieses. A atualização póstumo dos dados, embora não tenha alterado as conclusões principais, reforça a importância de análises prospectivas mais robustas para definir o papel da RTT em CPCE-E.\n\n---\n\nA phase 2 randomized clinical trial conducted in Germany and Austria between September 2020 and August 2022 evaluated the addition of consolidative thoracic radiotherapy (TRT) to atezolizumab maintenance in patients with extensive-stage small cell lung cancer (ES-SCLC). The updated results, released in April 2026, indicate that combining TRT with standard maintenance therapy did not significantly improve overall survival (OS) or progression-free survival (PFS) compared to atezolizumab alone. The study enrolled patients with stable disease following initial chemoimmunotherapy (carboplatin, etoposide, and atezolizumab) and randomized participants (1:1) to receive either TRT (30 Gy in 10 fractions) plus atezolizumab maintenance or atezolizumab alone. While the combination was deemed safe, primary efficacy outcomes showed no statistically significant difference. Researchers suggest larger, adaptive-design trials are needed to explore potential benefits in subgroups, such as patients with bulky intrathoracic disease. Limitations include the small sample size and the open-label design, which may introduce bias. The post hoc survival update, though confirming the main findings, underscores the need for prospective studies to clarify the role of consolidative TRT in ES-SCLC.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42424047",
+    "authors": [
+      {
+        "name": "Farastuk Bozorgmehr",
+        "affiliation": "Department of Thoracic Oncology, Thoraxklinik, Heidelberg University Hospital and National Center for Tumor Diseases (NCT), NCT Heidelberg, a partnership between German Cancer Research Center (DKFZ) and Heidelberg University Hospital, Heidelberg, Germany."
+      },
+      {
+        "name": "Inn Chung",
+        "affiliation": "Translational Lung Research Center Heidelberg, German Center for Lung Research (DZL), Heidelberg, Germany."
+      },
+      {
+        "name": "Rouven Behnisch",
+        "affiliation": "Department of Thoracic Oncology, Thoraxklinik, Heidelberg University Hospital and National Center for Tumor Diseases (NCT), NCT Heidelberg, a partnership between German Cancer Research Center (DKFZ) and Heidelberg University Hospital, Heidelberg, Germany."
+      },
+      {
+        "name": "Fabian Weykamp",
+        "affiliation": "Translational Lung Research Center Heidelberg, German Center for Lung Research (DZL), Heidelberg, Germany."
+      }
+    ],
+    "journal": "JAMA oncology",
+    "publishedDate": "2026-07-09",
+    "fetchedDate": "2026-07-09",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "immunotherapy",
+      "clinical trial"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42421820",
     "pmid": "42421820",
     "doi": "10.1002/trc2.70291",
@@ -206,7 +249,7 @@
       "tumor",
       "heart"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12638,47 +12681,6 @@
     ],
     "isHighlight": false,
     "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42027874",
-    "pmid": "42027874",
-    "doi": "10.1016/j.athplu.2026.100562",
-    "title": "Systematic literature review on the real-world effectiveness and safety of bempedoic acid.",
-    "titlePt": "Systematic literature review on the real-world effectiveness and safety of bempedoic acid.",
-    "abstract": "Cardiovascular disease remains a significant global health burden. Bempedoic acid is a novel, oral adenosine triphosphate-citrate lyase inhibitor that lowers low-density lipoprotein cholesterol (LDL-C). While randomized controlled trials (RCTs) have established its efficacy and safety, evidence from real-world clinical practice is needed. A systematic literature review (SLR) was conducted to identify studies reporting real-world use of bempedoic acid as monotherapy, in fixed dose combination with ezetimibe, or in combination with any other lipid lowering therapy (LLT). MEDLINE, EMBASE, and Cochrane Library were searched from inception to February 19, 2025. Two reviewers independently screened studies, with discrepancies resolved by a third. Data extraction and validation were conducted, and the risk of bias assessed using the Newcastle-Ottawa Scale. Of 269 records, 28 reports on 22 unique studies met the eligibility criteria. Most studies evaluated LDL-C changes from baseline after ini",
-    "journalisticSummary": "A doença cardiovascular permanece como um dos principais problemas de saúde global, com um impacto significativo na morbidade e mortalidade. Nesse contexto, o ácido bempedoico, um inibidor oral da adenosina triphosphato-citrate liase, tem sido avaliado por sua capacidade de reduzir os níveis de colesterol de baixa densidade (LDL-C). Embora ensaios clínicos randomizados (ECRs) tenham estabelecido sua eficácia e segurança, é fundamental obter evidências de sua efetividade e segurança no contexto da prática clínica real. Um estudo de revisão sistemática da literatura (RSL) foi conduzido para identificar estudos que relatassem o uso do ácido bempedoico no mundo real, seja como monoterapia, em combinação fixa com ezetimiba ou em combinação com outras terapias redutoras de lipídios (TRLs). A busca foi realizada nas bases de dados MEDLINE, EMBASE e Cochrane Library, desde sua criação até 19 de fevereiro de 2025. Dois revisores avaliaram independentemente os estudos, com discordâncias resolvidas por um terceiro. A extração e validação dos dados foram realizadas, e o risco de viés foi avaliado usando a Escala de Newcastle-Ottawa. Dos 269 registros, 28 relatórios sobre 22 estudos únicos atenderam aos critérios de elegibilidade. A maioria dos estudos avaliou as alterações nos níveis de LDL-C em relação à linha de base após o início do tratamento com ácido bempedoico. Embora os resultados sejam promissores, é importante considerar as limitações dos estudos, incluindo a heterogeneidade dos desenhos e populações estudadas. Além disso, não foi informado o impacto clínico a longo prazo do uso do ácido bempedoico. Portanto, são necessários mais estudos para avaliar a efetividade e segurança do ácido bempedoico no contexto da prática clínica real e para determinar seu papel no tratamento da doença cardiovascular.\n\nThe cardiovascular disease remains a significant global health burden, with a substantial impact on morbidity and mortality. In this context, bempedoic acid, an oral adenosine triphosphate-citrate lyase inhibitor, has been evaluated for its ability to lower low-density lipoprotein cholesterol (LDL-C) levels. While randomized controlled trials (RCTs) have established its efficacy and safety, it is essential to obtain evidence of its effectiveness and safety in real-world clinical practice. A systematic literature review (SLR) was conducted to identify studies reporting real-world use of bempedoic acid as monotherapy, in fixed-dose combination with ezetimibe, or in combination with other lipid-lowering therapies (LLTs). The search was performed in the MEDLINE, EMBASE, and Cochrane Library databases from their inception to February 19, 2025. Two reviewers independently screened studies, with discrepancies resolved by a third. Data extraction and validation were conducted, and the risk of bias was assessed using the Newcastle-Ottawa Scale. Of 269 records, 28 reports on 22 unique studies met the eligibility criteria. Most studies evaluated LDL-C changes from baseline after initiation of bempedoic acid treatment. Although the results are promising, it is crucial to consider the limitations of the studies, including the heterogeneity of designs and populations studied. Furthermore, the long-term clinical impact of bempedoic acid use was not reported. Therefore, more studies are needed to evaluate the effectiveness and safety of bempedoic acid in real-world clinical practice and to determine its role in the treatment of cardiovascular disease.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42027874",
-    "authors": [
-      {
-        "name": "Arrigo Francesco Giuseppe Cicero",
-        "affiliation": "Medical and Surgical Sciences Department, Alma Mater Studiorum University of Bologna, Bologna, Italy."
-      },
-      {
-        "name": "Christopher P Cannon",
-        "affiliation": "Cardiovascular Medicine Unit, IRCCS AOUBO, Bologna, Italy."
-      },
-      {
-        "name": "Raju Gautam",
-        "affiliation": "Division of Cardiovascular Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA."
-      },
-      {
-        "name": "Saeed Anwar",
-        "affiliation": "ConnectHEOR Limited, London, United Kingdom."
-      }
-    ],
-    "journal": "Atherosclerosis plus",
-    "publishedDate": "2026-04-24",
-    "fetchedDate": "2026-04-24",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
