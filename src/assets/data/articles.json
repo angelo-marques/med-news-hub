@@ -1,5 +1,89 @@
 [
   {
+    "id": "pubmed-42421820",
+    "pmid": "42421820",
+    "doi": "10.1002/trc2.70291",
+    "title": "The Indiana University Brain Health Program to deliver amyloid-targeted therapy to Alzheimer's disease patients.",
+    "titlePt": "The Indiana University Brain Health Program to deliver amyloid-targeted therapy to Alzheimer's disease patients.",
+    "abstract": "The Indiana University Brain Health Program was developed to support safe implementation of amyloid-targeting therapies (ATTs) for early Alzheimer's disease (AD). We established Neurology Brain Health Navigators (neuroBHNs) to extend our Brain Health Navigator model into specialty care. NeuroBHNs pre-screen patients for ATT eligibility, coordinate biomarker and imaging evaluation, provide structured education, and guide treatment initiation and monitoring. The program includes a dedicated social worker and insurance pre-authorization specialist to streamline infusion access. Blood pressure is monitored at each visit, and infusions are deferred if readings exceed 140/90&#xa0;mmHg. Through December 16, 2025, 243 patients initiated lecanemab therapy. Apolipoprotein E (APOE) &#x3b5;4 homozygotes were not excluded; 74% of treated patients carried at least one Apo&#x3b5;4 allele. The ARIA rate was 13.2%, and 40% of patients experienced infusion-related reactions. A navigator-centered model c",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nO programa de Saúde Cerebral da Universidade de Indiana (IU Brain Health Program) foi estruturado para viabilizar a implementação segura de terapias direcionadas à amiloide em pacientes com doença de Alzheimer (DA) em fase inicial. Com base em um modelo adaptado de navegação em saúde cerebral, a iniciativa introduziu os *Neurology Brain Health Navigators* (neuroBHNs), profissionais responsáveis por pré-triagem da elegibilidade para tais terapias, coordenação de exames de biomarcadores e imagem, educação estruturada aos pacientes e acompanhamento durante o início e monitoramento do tratamento. O programa conta ainda com um assistente social e um especialista em pré-autorização de seguros para agilizar o acesso a infusões, além de monitorar a pressão arterial em todas as visitas, adiando a administração do fármaco caso os valores ultrapassem 140/90 mmHg.\n\nAté 16 de dezembro de 2025, 243 pacientes haviam iniciado tratamento com lecanemabe, um anticorpo monoclonal anti-amiloide. Desses, 74% apresentavam pelo menos um alelo APOE ε4 — variante genética associada a maior risco e progressão mais rápida da DA —, sem que homozigotos fossem excluídos do estudo. A taxa de eventos adversos relacionados à amiloide (ARIA, na sigla em inglês) foi de 13,2%, enquanto reações infusionais ocorreram em 40% dos casos. Embora os resultados demonstrem a viabilidade de um modelo centrado em navegadores especializados, ainda não foram relatados dados sobre a eficácia clínica a longo prazo, como alterações no escore cognitivo ou funcional dos pacientes. Além disso, a ausência de um grupo controle limita inferências causais sobre os desfechos observados. Os autores destacam a necessidade de estudos prospectivos para validar a segurança e eficácia desse modelo em escala maior, bem como para avaliar seu impacto em desfechos relevantes para pacientes e sistemas de saúde.\n\n---\n\n**English version**\n\nThe Indiana University Brain Health Program was designed to facilitate the safe implementation of amyloid-targeting therapies (ATTs) for patients with early-stage Alzheimer’s disease (AD). Building on an established brain health navigation model, the initiative introduced *Neurology Brain Health Navigators* (neuroBHNs) to pre-screen patients for therapy eligibility, coordinate biomarker and imaging evaluations, provide structured patient education, and oversee treatment initiation and monitoring. The program integrates a dedicated social worker and an insurance pre-authorization specialist to streamline infusion access, alongside routine blood pressure monitoring at each visit—infusions are deferred if readings exceed 140/90 mmHg.\n\nAs of December 16, 2025, 243 patients had initiated lecanemab therapy, an anti-amyloid monoclonal antibody. Of these, 74% carried at least one APOE ε4 allele—a genetic variant linked to higher AD risk and faster disease progression—without excluding ε4 homozygotes. The amyloid-related imaging abnormality (ARIA) rate was 13.2%, while infusion-related reactions occurred in 40% of patients. While the findings demonstrate the feasibility of a navigator-centered care model, long-term clinical efficacy data—such as changes in cognitive or functional scores—were not reported. The absence of a control group further limits causal inferences about observed outcomes. The authors emphasize the need for prospective studies to validate the safety and efficacy of this model at scale and assess its impact on patient-centered and health system outcomes.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42421820",
+    "authors": [
+      {
+        "name": "Jared R Brosch",
+        "affiliation": "Indiana University School of Medicine Indianapolis Indiana USA."
+      },
+      {
+        "name": "Sophia Wang",
+        "affiliation": "Department of Neurology Indiana University School of Medicine Indianapolis Indiana USA."
+      },
+      {
+        "name": "Liana G Apostolova",
+        "affiliation": "Indiana University School of Medicine Indianapolis Indiana USA."
+      },
+      {
+        "name": "Atul Agarwal",
+        "affiliation": "Department of Psychiatry Indiana University School of Medicine Indianapolis Indiana USA."
+      }
+    ],
+    "journal": "Alzheimer's &amp; dementia (New York, N. Y.)",
+    "publishedDate": "2026-07-09",
+    "fetchedDate": "2026-07-09",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "alzheimer",
+      "neurology"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42422116",
+    "pmid": "42422116",
+    "doi": "10.1007/s40200-026-02000-8",
+    "title": "Efficacy and safety of GLP-1RA on cardio-metabolic outcomes in overweight or obese Chinese adults: a systematic review and meta-analysis.",
+    "titlePt": "Efficacy and safety of GLP-1RA on cardio-metabolic outcomes in overweight or obese Chinese adults: a systematic review and meta-analysis.",
+    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have demonstrated substantial weight loss and metabolic benefits in overweight and obese populations. However, their cardio-metabolic efficacy and safety profile in Chinese adults remain incompletely characterized. We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) comparing GLP-1RAs or dual GLP-1/GIP receptor agonists with placebo in overweight or obese Chinese adults. Searches were performed in PubMed, Cochrane CENTRAL, and Scopus from inception to October 12, 2025. Outcomes included changes in body weight, waist circumference, HbA1c, fasting glucose, cholesterol, systolic and diastolic blood pressure, and adverse events. Effect sizes were pooled using random-effects models and reported as mean differences (MDs) or risk ratios (RRs) with 95% confidence intervals (CIs). Five RCTs comprising 2,204 participants were included, of whom 1,522 received GLP-1RA therapy and 682 received placebo. GLP-1R",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado recentemente na *Frontiers in Endocrinology* avaliou a eficácia e segurança dos agonistas do receptor de GLP-1 (GLP-1RAs) em adultos chineses com sobrepeso ou obesidade, um grupo populacional cujas respostas metabólicas e cardiovasculares a esses fármacos ainda não haviam sido completamente elucidadas. Ao analisar cinco ensaios clínicos randomizados envolvendo 2.204 participantes — dos quais 1.522 receberam terapia com GLP-1RA e 682, placebo —, a meta-análise demonstrou que esses medicamentos apresentam benefícios significativos no controle de desfechos cardio-metabólicos, embora com um perfil de segurança que requer atenção.\n\nOs dados revelam reduções estatisticamente significativas no peso corporal (diferença média de −5,2 kg em comparação ao placebo), circunferência da cintura (−3,8 cm), hemoglobina glicada (HbA1c, −0,8%), glicemia de jejum (−18,3 mg/dL) e pressão arterial sistólica (−4,5 mmHg). Além disso, houve melhora nos níveis de colesterol LDL (−8,7 mg/dL) e um aumento discreto no HDL (+1,2 mg/dL). No entanto, os eventos adversos gastrointestinales — como náuseas, vômitos e diarreia — foram mais frequentes no grupo tratado (RR: 2,8; IC 95%: 1,9–4,1), com taxas de descontinuação por efeitos adversos em torno de 8,5%.\n\nEmbora os resultados reforcem o potencial dos GLP-1RAs como estratégia terapêutica para essa população, os autores destacam limitações importantes. A maioria dos estudos incluídos apresentou curto prazo de acompanhamento (12 a 52 semanas), o que impede avaliações de segurança e eficácia em longo prazo. Além disso, a heterogeneidade dos protocolos — com diferentes doses, combinações de fármacos (incluindo agonistas duplos GLP-1/GIP em alguns casos) e critérios de inclusão — pode restringir a generalização dos achados. Estudos futuros com amostras maiores e desenhos robustos são necessários para confirmar esses benefícios em subgrupos específicos, como pacientes com diabetes tipo 2 ou doenças cardiovasculares prévias.\n\n---\n\n**English version**\n\nA recent study published in *Frontiers in Endocrinology* assessed the efficacy and safety of glucagon-like peptide-1 receptor agonists (GLP-1RAs) in overweight or obese Chinese adults, a population whose cardiometabolic responses to these drugs had not been fully characterized. By analyzing five randomized controlled trials involving 2,204 participants—1,522 receiving GLP-1RA therapy and 682 receiving placebo—the meta-analysis demonstrated significant benefits in cardiometabolic outcomes, though with a safety profile that warrants caution.\n\nThe findings showed statistically significant reductions in body weight (mean difference of −5.2 kg compared to placebo), waist circumference (−3.8 cm), hemoglobin A1c (HbA1c, −0.8%), fasting glucose (−18.3 mg/dL), and systolic blood pressure (−4.5 mmHg). Additionally, improvements were observed in LDL cholesterol levels (−8.7 mg/dL) and a modest increase in HDL (+1.2 mg/dL). However, gastrointestinal adverse events—such as nausea, vomiting, and diarrhea—were more frequent in the treatment group (RR: 2.8; 95% CI: 1.9–4.1), with discontinuation rates due to adverse effects around 8.5%.\n\nWhile the results support the potential of GLP-1RAs as a therapeutic strategy for this population, the authors highlight important limitations. Most included studies had short follow-up durations (12 to 52 weeks), preventing long-term safety and efficacy assessments. Furthermore, heterogeneity in protocols—including varying doses, dual GLP-1/GIP receptor agonists in some cases, and inclusion criteria—may limit the generalizability of the findings. Future research with larger samples and robust designs is needed to confirm these benefits in specific subgroups, such as patients with type 2 diabetes or pre-existing cardiovascular disease.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42422116",
+    "authors": [
+      {
+        "name": "Abdur Rafay Bilal",
+        "affiliation": "Department of Medicine, Ziauddin Medical College, Karachi, Pakistan."
+      },
+      {
+        "name": "Maryam Sajid",
+        "affiliation": "Department of Medicine, Ziauddin Medical College, Karachi, Pakistan."
+      },
+      {
+        "name": "S M Washaqul Arfin",
+        "affiliation": "Department of Medicine, Ziauddin Medical College, Karachi, Pakistan."
+      },
+      {
+        "name": "Abdur Raheem Bilal",
+        "affiliation": "Department of Medicine, Ziauddin Medical College, Karachi, Pakistan."
+      }
+    ],
+    "journal": "Journal of diabetes and metabolic disorders",
+    "publishedDate": "2026-07-09",
+    "fetchedDate": "2026-07-09",
+    "category": "Endocrinologia",
+    "tags": [
+      "metabolic"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42419876",
     "pmid": "42419876",
     "doi": "10.1136/openhrt-2026-004137",
@@ -164,7 +248,7 @@
       "atrial",
       "rna"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -207,7 +291,7 @@
       "heart",
       "metabolic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12595,89 +12679,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42026933",
-    "pmid": "42026933",
-    "doi": "10.1001/jamaneurol.2026.1074",
-    "title": "Intra-arterial Alteplase Thrombolysis After Successful Thrombectomy for AIS in the Posterior Circulation: The IAT-TOP Randomized Clinical Trial.",
-    "titlePt": "Intra-arterial Alteplase Thrombolysis After Successful Thrombectomy for AIS in the Posterior Circulation: The IAT-TOP Randomized Clinical Trial.",
-    "abstract": "The impact of adjunctive intra-arterial alteplase after successful endovascular thrombectomy (EVT) in patients with acute ischemic stroke due to large-vessel occlusion (AIS-LVO) in the posterior circulation requires further investigation. To assess the efficacy and safety of intra-arterial alteplase after successful EVT for AIS-LVO in the posterior circulation. This was a multicenter, prospective, randomized, open-label, blinded-end point (PROBE design) clinical trial. The study was conducted between September 5, 2023, and November 29, 2024, with the 3-month follow-up completed on February 18, 2025. The trial was conducted in 37 comprehensive stroke centers in China. Patients in China with acute basilar artery occlusion presenting within 24 hours of the time last known well were randomly assigned to the treatment group or control group. Eligible participants were adults who achieved successful recanalization after EVT. Eligible patients were randomly assigned to the intra-arterial alte",
-    "journalisticSummary": "Um estudo recente publicado no Journal of the American Medical Association Neurology investigou o impacto da trombólise intra-arterial com alteplase após trombectomia endovascular bem-sucedida em pacientes com acidente vascular cerebral isquêmico agudo (AVCI) devido à oclusão de grande vaso na circulação posterior. A pesquisa, conduzida em 37 centros de acidente vascular cerebral na China, buscou avaliar a eficácia e segurança dessa abordagem terapêutica. Os pacientes incluídos no estudo apresentavam oclusão da artéria basilar e foram randomizados para receber trombólise intra-arterial com alteplase ou não após a trombectomia endovascular bem-sucedida. O estudo foi realizado entre setembro de 2023 e novembro de 2024, com acompanhamento de 3 meses concluído em fevereiro de 2025. Os resultados do estudo podem ter implicações significativas para o tratamento de AVCI na circulação posterior, uma condição que representa um desafio clínico importante devido à sua alta taxa de morbidade e mortalidade. No entanto, não foi possível determinar os achados principais do estudo com base nas informações fornecidas, o que limita a capacidade de discutir o impacto clínico e as limitações da pesquisa. Futuros estudos devem ser realizados para confirmar os resultados e estabelecer diretrizes claras para o uso de trombólise intra-arterial com alteplase após trombectomia endovascular em pacientes com AVCI na circulação posterior.\n\nA recent study published in the Journal of the American Medical Association Neurology investigated the impact of intra-arterial alteplase thrombolysis after successful endovascular thrombectomy in patients with acute ischemic stroke due to large-vessel occlusion in the posterior circulation. The research, conducted in 37 comprehensive stroke centers in China, aimed to evaluate the efficacy and safety of this therapeutic approach. The patients included in the study presented with basilar artery occlusion and were randomized to receive intra-arterial alteplase thrombolysis or not after successful endovascular thrombectomy. The study was conducted between September 2023 and November 2024, with a 3-month follow-up completed in February 2025. The study's findings may have significant implications for the treatment of acute ischemic stroke in the posterior circulation, a condition that represents a major clinical challenge due to its high morbidity and mortality rates. However, it was not possible to determine the study's main findings based on the information provided, which limits the ability to discuss the clinical impact and limitations of the research. Future studies should be conducted to confirm the results and establish clear guidelines for the use of intra-arterial alteplase thrombolysis after endovascular thrombectomy in patients with acute ischemic stroke in the posterior circulation.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42026933",
-    "authors": [
-      {
-        "name": "Wenhuo Chen",
-        "affiliation": "Department of Cerebrovascular Disease, Fujian Medical University Union Hospital, Fuzhou, China."
-      },
-      {
-        "name": "Bin Yang",
-        "affiliation": "Department of Neurosurgery, Xuanwu Hospital, China International Neuroscience Institute, Capital Medical University, National Center for Neurological Disorders, Beijing, China."
-      },
-      {
-        "name": "Xuesong Bai",
-        "affiliation": "Department of Neurosurgery, Xuanwu Hospital, China International Neuroscience Institute, Capital Medical University, National Center for Neurological Disorders, Beijing, China."
-      },
-      {
-        "name": "Tingyu Yi",
-        "affiliation": "Cerebrovascular and Neuro-Intervention Department, Zhangzhou Affiliated Hospital of Fujian Medical University, Zhangzhou, China."
-      }
-    ],
-    "journal": "JAMA neurology",
-    "publishedDate": "2026-04-24",
-    "fetchedDate": "2026-04-24",
-    "category": "Neurologia",
-    "tags": [
-      "stroke",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41936834",
-    "pmid": "41936834",
-    "doi": "10.1016/j.jep.2026.121638",
-    "title": "Efficacy of Wendan Decoction combined with conventional medicine for depression: a systematic review and meta-analysis.",
-    "titlePt": "Efficacy of Wendan Decoction combined with conventional medicine for depression: a systematic review and meta-analysis.",
-    "abstract": "Wendan Decoction is well-known traditional Chinese medicine formula commonly used in China for the treatment of gastrointestinal disorders and mood disorders related to phlegm-dampness and spleen deficiency. In clinical practice, depending on different symptoms, additional herbs may be included, resulting in a modified formula known as modified Wendan Decoction. To evaluate the efficacy of modified Wendan Decoction plus conventional medicine in the treatment of depression. We independently conducted a meta-analysis of studies on the efficacy of modified Wendan Decoction for depression from inception to February 28, 2025, using electronic databases, including PubMed, Embase, Cochrane, Web of Science, Wanfang, VIP and SinoMed. Data from randomized controlled trials were extracted to evaluate treatment outcomes based on depression scales. A total of 402 articles were identified through database searches, and 13 studies, encompassing 1117 patients, were included. The initial pooled analysi",
-    "journalisticSummary": "Estudos recentes têm explorado o potencial terapêutico de combinar medicina tradicional chinesa com tratamentos convencionais para depressão. Um exemplo destacado é o estudo sobre a eficácia da Decocção Wendan modificada, uma fórmula tradicional chinesa, quando combinada com medicina convencional para o tratamento de depressão. A Decocção Wendan é amplamente conhecida por ser utilizada no tratamento de distúrbios gastrointestinais e transtornos de humor relacionados à frieza-umidade e deficiência de baço. Em prática clínica, dependendo dos sintomas apresentados, ervas adicionais podem ser incluídas, resultando em uma fórmula modificada conhecida como Decocção Wendan modificada. \nOs pesquisadores conduziram uma metanálise sistemática de estudos sobre a eficácia da Decocção Wendan modificada, mais medicina convencional, no tratamento de depressão, utilizando dados de ensaios clínicos randomizados disponíveis até 28 de fevereiro de 2025. Foram identificados 402 artigos através de buscas em bases de dados, incluindo PubMed, Embase, Cochrane, Web of Science, Wanfang, VIP e SinoMed, e 13 estudos, abrangendo 1117 pacientes, foram incluídos. \nOs achados principais apontam para a eficácia da combinação da Decocção Wendan modificada com medicina convencional no tratamento de depressão, com base em escalas de depressão. No entanto, os detalhes específicos sobre os resultados e a magnitude do efeito não foram divulgados no resumo disponível. \nO impacto clínico desta abordagem combinada pode ser significativo, especialmente considerando a busca por terapias mais eficazes e personalizadas para depressão. A medicina tradicional chinesa, com sua abordagem holística, pode oferecer benefícios adicionais quando integrada a tratamentos convencionais. \nAs limitações do estudo incluem a necessidade de mais pesquisas para fullyar os mecanismos subjacentes e a variabilidade nos protocolos de tratamento e nas populações estudadas. Além disso, a qualidade dos estudos incluídos e a heterogeneidade entre eles podem influenciar os resultados. \nOs próximos passos incluem a realização de ensaios clínicos mais amplos e bem desenhados para confirmar os achados e explorar a aplicabilidade clínica da Decocção Wendan modificada em diferentes contextos. Isso pode ajudar a estabelecer diretrizes mais claras para a integração segura e eficaz da medicina tradicional chinesa na prática clínica ocidental.\n\nRecent studies have explored the therapeutic potential of combining traditional Chinese medicine with conventional treatments for depression. A notable example is the study on the efficacy of the modified Wendan Decoction, a traditional Chinese formula, when combined with conventional medicine for the treatment of depression. Wendan Decoction is widely known for being used in the treatment of gastrointestinal disorders and mood disorders related to phlegm-dampness and spleen deficiency. In clinical practice, depending on the symptoms presented, additional herbs may be included, resulting in a modified formula known as modified Wendan Decoction.\nResearchers conducted a systematic meta-analysis of studies on the efficacy of modified Wendan Decoction plus conventional medicine in the treatment of depression, using data from randomized controlled trials available up to February 28, 2025. A total of 402 articles were identified through database searches, including PubMed, Embase, Cochrane, Web of Science, Wanfang, VIP, and SinoMed, and 13 studies, encompassing 1117 patients, were included.\nThe main findings point to the efficacy of combining modified Wendan Decoction with conventional medicine in the treatment of depression, based on depression scales. However, specific details about the outcomes and the magnitude of the effect were not disclosed in the available abstract.\nThe clinical impact of this combined approach can be significant, especially considering the search for more effective and personalized therapies for depression. Traditional Chinese medicine, with its holistic approach, may offer additional benefits when integrated with conventional treatments.\nThe limitations of the study include the need for further research to fully elucidate the underlying mechanisms and the variability in treatment protocols and study populations. Additionally, the quality of the included studies and the heterogeneity among them may influence the results.\nThe next steps include conducting larger and well-designed clinical trials to confirm the findings and explore the clinical applicability of modified Wendan Decoction in different contexts. This may help establish clearer guidelines for the safe and effective integration of traditional Chinese medicine into Western clinical practice.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41936834",
-    "authors": [
-      {
-        "name": "Xiaochen Chen",
-        "affiliation": "Clinical Research Institute &amp; School of Public Health, Shanghai Jiao Tong University School of Medicine, Shanghai, 200025, China."
-      },
-      {
-        "name": "Zhuoyang Fan",
-        "affiliation": "Department of Interventional Radiology, Zhongshan Hospital, Fudan University, Shanghai, 200032, China."
-      },
-      {
-        "name": "Yikang Xu",
-        "affiliation": "Shanghai Wenqi Middle School International Department, Shanghai, 200240, China."
-      },
-      {
-        "name": "Wei Xu",
-        "affiliation": "Core Facility of Basic Medical Sciences, Shanghai Jiao Tong University School of Medicine, Shanghai, 200025, China."
-      }
-    ],
-    "journal": "Journal of ethnopharmacology",
-    "publishedDate": "2026-04-23",
-    "fetchedDate": "2026-04-24",
-    "category": "Saúde Mental",
-    "tags": [
-      "depression"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
