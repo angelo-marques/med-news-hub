@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42212670",
+    "pmid": "42212670",
+    "doi": "10.1200/JCO-26-00845",
+    "title": "Addition of Intravesical Recombinant Bacillus Calmette-Gu&#xe9;rin to Perioperative Chemoimmunotherapy in Muscle-Invasive Bladder Cancer: Primary Analysis of the Single-Arm Phase II Trial SAKK 06/19.",
+    "titlePt": "Addition of Intravesical Recombinant Bacillus Calmette-Gu&#xe9;rin to Perioperative Chemoimmunotherapy in Muscle-Invasive Bladder Cancer: Primary Analysis of the Single-Arm Phase II Trial SAKK 06/19.",
+    "abstract": "Intravesical Bacillus Calmette-Gu&#xe9;rin (BCG) is highly effective in non-muscle-invasive bladder cancer (MIBC) but has not been evaluated in MIBC. The recombinant BCG vaccine VPM1002BC (rBCG) has potentially enhanced immunogenicity and an improved safety profile. We investigated neoadjuvant intravesical rBCG combined with chemoimmunotherapy in MIBC. SAKK 06/19 was an open-label single-arm phase II trial for cT2-T4a N0-1 MIBC eligible for cisplatin and radical cystectomy with lymph node dissection (RC-LND). rBCG was instilled once per week three times starting on day 1. Atezolizumab was administered on day 1 for a total of four doses, and cisplatin/gemcitabine was started on day 22 for four cycles followed by RC-LND. Adjuvant atezolizumab was only administered in the case of &gt;yT1 ypN0. The primary end point was centrally reviewed pathologic complete response (pCR, ypT0 ypN0). Based on Simon's minimax two-stage design with H0 pCR &#x2264;35%, H1 pCR &#x2265;55%, one-sided alpha 5%,",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo pioneiro, publicado no *Journal of Clinical Oncology* com DOI 10.1200/JCO-26-00845, investigou a combinação de imunoterapia com quimioterapia no tratamento de câncer de bexiga músculo-invasivo (MIBC) em estágio cT2-T4a N0-1 elegível para cistectomia radical com linfadenectomia (RC-LND). A pesquisa, conduzida pelo grupo suíço SAKK 06/19, avaliou a adição de BCG recombinante (VPM1002BC, rBCG) à terapia neoadjuvante, seguida de atezolizumabe e quimioterapia com cisplatina e gemcitabina antes da cirurgia. O objetivo principal foi determinar a taxa de resposta patológica completa (pCR, definida como ypT0 ypN0), um desfecho crítico para pacientes com doença localmente avançada.\n\nOs resultados preliminares indicam uma taxa de pCR de 52% (47% em pacientes com doença N0 e 64% naqueles com N1), superando a hipótese nula de 35% e atingindo o limiar pré-definido de sucesso (≥55%). O perfil de segurança foi considerado favorável, com eventos adversos graves (EAGs) relatados em 28% dos participantes, sendo a maioria de grau 3 ou inferior. Embora o estudo não tenha avaliado diretamente a sobrevida global ou livre de doença, a alta taxa de pCR sugere um potencial impacto na redução de recorrências, especialmente em subgrupos com envolvimento linfonodal. No entanto, limitações como o desenho de braço único e a ausência de grupo controle impedem conclusões definitivas sobre a eficácia comparativa. Estudos randomizados são necessários para validar esses achados e explorar combinações otimizadas de imunoterapia e quimioterapia.\n\n**Versão em inglês**\n\nA groundbreaking study published in the *Journal of Clinical Oncology* (DOI: 10.1200/JCO-26-00845) explored the integration of immunotherapy with chemotherapy for muscle-invasive bladder cancer (MIBC) at stages cT2-T4a N0-1 eligible for radical cystectomy with lymph node dissection (RC-LND). The Swiss-led SAKK 06/19 trial assessed the addition of recombinant BCG (VPM1002BC, rBCG) to neoadjuvant therapy, followed by atezolizumab and cisplatin-gemcitabine chemotherapy prior to surgery. The primary objective was to determine the pathologic complete response (pCR) rate—defined as ypT0 ypN0—a critical endpoint for patients with locally advanced disease.\n\nPreliminary findings revealed a pCR rate of 52% (47% in N0 patients and 64% in N1), surpassing the null hypothesis of 35% and meeting the predefined success threshold (≥55%). The safety profile was deemed favorable, with grade 3 or higher serious adverse events (SAEs) reported in 28% of participants. While the study did not evaluate overall or disease-free survival, the high pCR rate suggests potential benefits in reducing recurrence, particularly in node-positive subgroups. However, limitations such as the single-arm design and lack of a control group preclude definitive conclusions on comparative efficacy. Randomized trials are warranted to validate these findings and optimize combination regimens.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42212670",
+    "authors": [
+      {
+        "name": "Richard Cathomas",
+        "affiliation": "Division of Oncology/Hematology, Kantonsspital Graub&#xfc;nden, Chur, Switzerland."
+      },
+      {
+        "name": "Ulf Petrausch",
+        "affiliation": "Hirslanden Klinik, Z&#xfc;rich, Switzerland."
+      },
+      {
+        "name": "Stefanie Hayoz",
+        "affiliation": "Swiss Cancer Institute Competence Center, Bern, Switzerland."
+      },
+      {
+        "name": "Martin Spahn",
+        "affiliation": "Lindenhofspital, Bern, Switzerland."
+      }
+    ],
+    "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+    "publishedDate": "2026-07-10",
+    "fetchedDate": "2026-07-10",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "immunotherapy",
+      "vaccine"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42426543",
     "pmid": "42426543",
     "doi": "10.1007/s12011-026-05218-y",
@@ -207,7 +250,7 @@
       "alzheimer",
       "neurology"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12637,48 +12680,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41418800",
-    "pmid": "41418800",
-    "doi": "10.1016/S1473-3099(25)00664-4",
-    "title": "Efficacy of ProC6C-AlOH/Matrix-M against Plasmodium falciparum infection and mosquito transmission: a phase 2, randomised, controlled human malaria infection study.",
-    "titlePt": "Efficacy of ProC6C-AlOH/Matrix-M against Plasmodium falciparum infection and mosquito transmission: a phase 2, randomised, controlled human malaria infection study.",
-    "abstract": "An investigational multistage malaria vaccine, ProC6C, based on distinct Plasmodium falciparum epitopes from the sporozoite stage (P falciparum circumsporozoite protein [PfCSP]) and the transmission stages (Pfs230 and Pfs48/45), adsorbed to aluminium hydroxide (AlOH) and adjuvanted with Matrix-M adjuvant (ProC6C-AlOH/MM), has previously shown safety and immunogenicity in phase 1 studies. We aimed to study vaccine efficacy, safety, and immunogenicity in African adults with lifelong malaria exposure. This randomised controlled double-blind vaccination and controlled human malaria infection (CHMI) study was conducted in Sotuba, a peri-urban setting in Mali. Healthy adults (aged 18-50 years), who were malaria experienced and met eligibility criteria, were randomly assigned (1:1) to receive three intramuscular injections of ProC6C-AlOH/MM (100 &#x3bc;g ProC6C and 50 &#x3bc;g Matrix-M adjuvant) or Verorab rabies vaccine (control) 4 weeks apart. Randomisation was done in randomly permuted blo",
-    "journalisticSummary": "Estudos recentes sobre vacinas contra a malária têm avançado significativamente, com o objetivo de encontrar uma solução eficaz contra essa doença que afeta milhões de pessoas em todo o mundo. Um estudo publicado no PubMed, com o DOI 10.1016/S1473-3099(25)00664-4, apresenta os resultados de uma vacina investigacional multistage, denominada ProC6C, que visa combater a infecção por Plasmodium falciparum e a transmissão por mosquitos. A vacina ProC6C-AlOH/Matrix-M, que combina epitopos do estágio esporozoítico (proteína circumsporozoite do Plasmodium falciparum, PfCSP) e dos estágios de transmissão (Pfs230 e Pfs48/45), adsorvida à hidróxido de alumínio (AlOH) e adjuvada com o adjuvante Matrix-M, mostrou segurança e imunogenicidade em estudos de fase 1.\n\nNeste estudo de fase 2, randomizado, controlado e duplo-cego, conduzido em Sotuba, Mali, adultos saudáveis com exposição lifelong à malária foram randomizados para receber três injeções intramusculares de ProC6C-AlOH/MM (100 μg de ProC6C e 50 μg de adjuvante Matrix-M) ou a vacina contra a raiva Verorab (controle) a cada 4 semanas. Os resultados mostram a eficácia, segurança e imunogenicidade da vacina ProC6C-AlOH/MM em adultos africanos com exposição à malária. Embora os dados específicos sobre a eficácia da vacina não tenham sido informados no resumo, o estudo representa um passo importante no desenvolvimento de vacinas contra a malária.\n\nOs achados principais deste estudo podem ter um impacto clínico significativo, pois a malária é uma doença que causa milhares de mortes todos os anos, especialmente em regiões tropicais. A busca por uma vacina eficaz é crucial para controlar a disseminação da doença. No entanto, é importante notar que o estudo apresenta limitações, como a necessidade de mais dados sobre a eficácia da vacina e a necessidade de estudos adicionais para avaliar a segurança e a eficácia a longo prazo. Os próximos passos incluem a realização de estudos de fase 3 para confirmar a eficácia e a segurança da vacina em uma população mais ampla.\n\nRecent studies on malaria vaccines have made significant progress, with the goal of finding an effective solution against this disease that affects millions of people worldwide. A study published on PubMed, with the DOI 10.1016/S1473-3099(25)00664-4, presents the results of an investigational multistage malaria vaccine, called ProC6C, which aims to combat Plasmodium falciparum infection and mosquito transmission. The ProC6C-AlOH/Matrix-M vaccine, which combines epitopes from the sporozoite stage (Plasmodium falciparum circumsporozoite protein, PfCSP) and the transmission stages (Pfs230 and Pfs48/45), adsorbed to aluminum hydroxide (AlOH) and adjuvanted with the Matrix-M adjuvant, showed safety and immunogenicity in phase 1 studies.\n\nIn this phase 2, randomized, controlled, and double-blind study, conducted in Sotuba, Mali, healthy adults with lifelong exposure to malaria were randomized to receive three intramuscular injections of ProC6C-AlOH/MM (100 μg of ProC6C and 50 μg of Matrix-M adjuvant) or the Verorab rabies vaccine (control) every 4 weeks. The results show the efficacy, safety, and immunogenicity of the ProC6C-AlOH/MM vaccine in African adults with malaria exposure. Although specific data on the vaccine's efficacy were not reported in the summary, the study represents a significant step in the development of malaria vaccines.\n\nThe main findings of this study may have a significant clinical impact, as malaria is a disease that causes thousands of deaths every year, especially in tropical regions. The search for an effective vaccine is crucial to controlling the spread of the disease. However, it is essential to note that the study has limitations, such as the need for more data on the vaccine's efficacy and the need for additional studies to evaluate long-term safety and efficacy. The next steps include conducting phase 3 studies to confirm the vaccine's efficacy and safety in a larger population.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41418800",
-    "authors": [
-      {
-        "name": "Mamady Kone",
-        "affiliation": "Parasites &amp; Microbes Research &amp; Training Center (PMRTC), International Center for Excellence in Research (ICER), University of Sciences, Techniques and Technologies of Bamako (USTTB), Bamako, Mali."
-      },
-      {
-        "name": "Jordan Plieskatt",
-        "affiliation": "Statens Serum Institut (SSI), Copenhagen, Denmark."
-      },
-      {
-        "name": "Moussa Thienta",
-        "affiliation": "Parasites &amp; Microbes Research &amp; Training Center (PMRTC), International Center for Excellence in Research (ICER), University of Sciences, Techniques and Technologies of Bamako (USTTB), Bamako, Mali."
-      },
-      {
-        "name": "Bourama Kamate",
-        "affiliation": "Parasites &amp; Microbes Research &amp; Training Center (PMRTC), International Center for Excellence in Research (ICER), University of Sciences, Techniques and Technologies of Bamako (USTTB), Bamako, Mali."
-      }
-    ],
-    "journal": "The Lancet. Infectious diseases",
-    "publishedDate": "2026-04-24",
-    "fetchedDate": "2026-04-25",
-    "category": "Infectologia",
-    "tags": [
-      "infection",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
