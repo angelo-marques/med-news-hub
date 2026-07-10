@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42425179",
+    "pmid": "42425179",
+    "doi": "10.1016/j.ijcard.2026.134666",
+    "title": "Loeffler's Endomyocarditis: Clinical characteristics and outcomes from a tertiary care centre registry.",
+    "titlePt": "Loeffler's Endomyocarditis: Clinical characteristics and outcomes from a tertiary care centre registry.",
+    "abstract": "Loeffler's endomyocarditis, the cardiac manifestation of hypereosinophilic syndrome, is characterized by eosinophilic myocardial infiltration and thrombus formation leading to restrictive cardiomyopathy. In a retrospective single-center registry, patients diagnosed with Loeffler's endomyocarditis between 2017 and 2025 were included. Clinical data, biomarkers, echocardiography, cardiac magnetic resonance imaging (CMR), and endomyocardial biopsies (n&#x202f;=&#x202f;8) were analyzed. Eighteen patients were included. Hierarchical clustering identified two patterns: an acute inflammatory form with elevated troponin T, C-reactive protein, fever, and subepicardial late gadolinium enhancement (LGE), and a subacute/chronic form with lower inflammatory activity, frequent ventricular thrombi, subendocardial LGE, and increased left atrial volume index. Peripheral eosinophilia was present in 61.1% of patients at any time of assessment. The vast majority of patients received corticosteroids and hea",
+    "journalisticSummary": "Um estudo recente publicado no PubMed investigou as características clínicas e os resultados de pacientes com endomiocardite de Loeffler, uma condição cardíaca rara associada à síndrome de hipereosinofilia. Essa condição é caracterizada pela infiltração eosinofílica no miocárdio e pela formação de trombos, levando a uma cardiomiopatia restritiva. Os pesquisadores analisaram dados de 18 pacientes diagnosticados com endomiocardite de Loeffler entre 2017 e 2025, utilizando uma abordagem retrospectiva em um único centro de cuidados terciários. Os dados clínicos, biomarcadores, ecocardiografia, ressonância magnética cardíaca (CMR) e biópsias endomiocárdicas foram avaliados. Os resultados mostraram que 61,1% dos pacientes apresentaram eosinofilia periférica em algum momento da avaliação. Além disso, a análise identificou dois padrões distintos da doença: uma forma aguda inflamatória, caracterizada por níveis elevados de troponina T, proteína C-reativa, febre e realce tardio de gadolínio subepicárdico, e uma forma subaguda/crônica, com menor atividade inflamatória, trombos ventriculares frequentes, realce tardio de gadolínio subendocárdico e aumento do índice de volume atrial esquerdo. A grande maioria dos pacientes recebeu corticosteroides e terapias de apoio. Embora o estudo forneça insights valiosos sobre a condição, as limitações incluem o tamanho da amostra e a abordagem retrospectiva, o que pode influenciar a generalização dos resultados. Futuros estudos são necessários para explorar melhor as características clínicas e os resultados de pacientes com endomiocardite de Loeffler, bem como para avaliar a eficácia de diferentes abordagens terapêuticas.\n\nA recent study published in PubMed investigated the clinical characteristics and outcomes of patients with Loeffler's endomyocarditis, a rare cardiac condition associated with hypereosinophilic syndrome. This condition is characterized by eosinophilic myocardial infiltration and thrombus formation, leading to restrictive cardiomyopathy. The researchers analyzed data from 18 patients diagnosed with Loeffler's endomyocarditis between 2017 and 2025, using a retrospective approach in a single tertiary care center. Clinical data, biomarkers, echocardiography, cardiac magnetic resonance imaging (CMR), and endomyocardial biopsies were evaluated. The results showed that 61.1% of patients had peripheral eosinophilia at some point during assessment. Furthermore, the analysis identified two distinct patterns of the disease: an acute inflammatory form, characterized by elevated troponin T, C-reactive protein, fever, and subepicardial late gadolinium enhancement, and a subacute/chronic form, with lower inflammatory activity, frequent ventricular thrombi, subendocardial late gadolinium enhancement, and increased left atrial volume index. The vast majority of patients received corticosteroids and supportive therapies. Although the study provides valuable insights into the condition, limitations include the sample size and retrospective approach, which may affect the generalizability of the results. Future studies are needed to further explore the clinical characteristics and outcomes of patients with Loeffler's endomyocarditis, as well as to evaluate the effectiveness of different therapeutic approaches.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42425179",
+    "authors": [
+      {
+        "name": "Peter Buske",
+        "affiliation": "Department of Internal Medicine/Cardiology, Heart Center Leipzig at Leipzig University, Leipzig, Germany. Electronic address: peter.buske@medizin.uni-leipzig.de."
+      },
+      {
+        "name": "Christian Krieghoff",
+        "affiliation": "Department of Diagnostic and Interventional Radiology, Heart Center Leipzig, Leipzig, Germany."
+      },
+      {
+        "name": "Christian L&#xfc;cke",
+        "affiliation": "Department of Diagnostic and Interventional Radiology, Heart Center Leipzig, Leipzig, Germany."
+      },
+      {
+        "name": "Matthias Gutberlet",
+        "affiliation": "Department of Diagnostic and Interventional Radiology, Heart Center Leipzig, Leipzig, Germany."
+      }
+    ],
+    "journal": "International journal of cardiology",
+    "publishedDate": "2026-07-09",
+    "fetchedDate": "2026-07-10",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "myocardial",
+      "atrial"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42424047",
     "pmid": "42424047",
     "doi": "10.1001/jamaoncol.2026.2330",
@@ -207,7 +250,7 @@
       "alzheimer",
       "dementia"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12636,51 +12679,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41795035",
-    "pmid": "41795035",
-    "doi": "10.1007/s00125-026-06706-5",
-    "title": "Development and validation of a trans-ancestry polygenic risk score for type 1 diabetes.",
-    "titlePt": "Development and validation of a trans-ancestry polygenic risk score for type 1 diabetes.",
-    "abstract": "The high heritability of type 1 diabetes has enabled the development of polygenic risk scores (PRSs) as disease risk screening tools. PRSs can identify individuals at the highest genetic risk in a population, who can benefit from autoantibody and metabolic surveillance, to avoid ketoacidosis at diagnosis and to access preventive therapies. However, PRSs for type 1 diabetes developed from European data perform less well in non-European ancestries. We aimed to develop a PRS with comparable performance among different ancestries. Using the PRS-CSx method, and data from large European, East Asian, African American and Hispanic type 1 diabetes genome-wide association studies (Ntotal_cases=29,469), we developed a trans-ancestry PRS (TA-PS), combining a non-HLA component incorporating over a million variants with the HLA component of a published European PRS (GRS2x). We tested the performance of the PRS using area under the receiver operating curve (AUROC), sensitivity and specificity in a mu",
-    "journalisticSummary": "O desenvolvimento de escores de risco poligênicos (PRSs) para a diabetes tipo 1 tem sido possível devido à alta hereditariedade da doença. Esses escores podem identificar indivíduos com alto risco genético em uma população, que podem se beneficiar da vigilância de autoanticorpos e metabólica para evitar a cetoacidose no diagnóstico e acessar terapias preventivas. No entanto, os PRSs desenvolvidos a partir de dados europeus apresentam desempenho reduzido em populações não europeias. Um estudo recente teve como objetivo desenvolver um PRS com desempenho comparável entre diferentes ancestralidades. Utilizando o método PRS-CSx e dados de estudos de associação genômica ampla de diabetes tipo 1 de grandes populações europeias, asiáticas orientais, afro-americanas e hispânicas (Ntotal_casos=29.469), os pesquisadores desenvolveram um PRS trans-ancestral (TA-PS), combinando um componente não-HLA que incorpora mais de um milhão de variantes com o componente HLA de um PRS europeu publicado (GRS2x). O desempenho do PRS foi testado utilizando a área sob a curva de operação do receptor (AUROC), sensibilidade e especificidade. Embora os resultados específicos não tenham sido informados, o desenvolvimento de um PRS trans-ancestral pode ter um impacto significativo no diagnóstico e prevenção da diabetes tipo 1 em populações diversificadas. Limitações do estudo incluem a necessidade de mais dados e validação em diferentes populações. Os próximos passos incluem a implantação e avaliação do PRS em contextos clínicos reais.\n\nThe development of polygenic risk scores (PRSs) for type 1 diabetes has been made possible due to the high heritability of the disease. These scores can identify individuals at high genetic risk in a population, who can benefit from autoantibody and metabolic surveillance to avoid ketoacidosis at diagnosis and access preventive therapies. However, PRSs developed from European data perform less well in non-European ancestries. A recent study aimed to develop a PRS with comparable performance among different ancestries. Using the PRS-CSx method and data from large European, East Asian, African American, and Hispanic type 1 diabetes genome-wide association studies (Ntotal_cases=29,469), the researchers developed a trans-ancestry PRS (TA-PS), combining a non-HLA component incorporating over a million variants with the HLA component of a published European PRS (GRS2x). The performance of the PRS was tested using the area under the receiver operating curve (AUROC), sensitivity, and specificity. Although specific results were not reported, the development of a trans-ancestry PRS may have a significant impact on the diagnosis and prevention of type 1 diabetes in diverse populations. Limitations of the study include the need for more data and validation in different populations. Next steps include the implementation and evaluation of the PRS in real-world clinical settings.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41795035",
-    "authors": [
-      {
-        "name": "Basile Jumentier",
-        "affiliation": "Research Center of the Sainte-Justine University Hospital, Universit&#xe9; de Montr&#xe9;al, Montreal, QC, Canada."
-      },
-      {
-        "name": "Hui-Qi Qu",
-        "affiliation": "The Center for Applied Genomics, Children's Hospital of Philadelphia, Philadelphia, PA, USA."
-      },
-      {
-        "name": "Tianyuan Lu",
-        "affiliation": "Department of Population Health Sciences, University of Wisconsin School of Medicine and Public Health, Madison, WI, USA."
-      },
-      {
-        "name": "Kai Liu",
-        "affiliation": "Department of Biostatistics and Medical Informatics, School of Medicine and Public Health, University of Wisconsin-Madison, Madison, WI, USA."
-      }
-    ],
-    "journal": "Diabetologia",
-    "publishedDate": "2026-04-24",
-    "fetchedDate": "2026-04-24",
-    "category": "Genômica",
-    "tags": [
-      "genetic",
-      "gene",
-      "antibody",
-      "diabetes",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
