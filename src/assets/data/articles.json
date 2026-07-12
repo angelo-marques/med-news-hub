@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-42436136",
+    "pmid": "42436136",
+    "doi": "10.1038/s41525-026-00595-8",
+    "title": "Specimen quality shapes the actionable genomic landscape in comprehensive cancer genomic profiling.",
+    "titlePt": "Specimen quality shapes the actionable genomic landscape in comprehensive cancer genomic profiling.",
+    "abstract": "Comprehensive genomic profiling (CGP) is widely used to identify actionable alterations and guide precision oncology, yet only a minority of tested patients receive genome-matched therapies, underscoring a gap between genomic findings and clinical benefit. We hypothesized that this gap may partly reflect variation in the reliability and interpretability of genomic information generated from specimens of different quality and by different assay modalities. To examine this possibility, we performed a retrospective multicenter analysis of 2002 CGP tests conducted between 2019 and 2025 across 13 institutions in Japan. Detection of short variants, copy number alterations (CNAs), structural variants, and genomic signatures, including microsatellite instability, tumor mutational burden, and homologous recombination deficiency signature, was compared among FoundationOne CDx specimens classified as pass (F1-pass) or qualified (F1-qual) and liquid-based CGP (liq-CGP). Short variant detection rem",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo multicêntrico realizado no Japão entre 2019 e 2025 revelou que a qualidade do espécime influencia significativamente a detecção de alterações genômicas clinicamente relevantes em testes de perfil genômico abrangente (CGP). Publicado recentemente na *Nature Medicine*, a pesquisa analisou 2.002 testes de CGP conduzidos em 13 instituições, comparando amostras classificadas como \"aprovadas\" (F1-pass) ou \"qualificadas\" (F1-qual) pelo teste *FoundationOne CDx* com resultados de CGP baseado em líquido (liq-CGP).\n\nOs resultados indicam que espécimes de menor qualidade, independentemente do tipo de teste, apresentam menor confiabilidade na detecção de variantes curtas, alterações no número de cópias (CNAs), variantes estruturais e assinaturas genômicas — como instabilidade de microssatélites, carga mutacional tumoral e deficiência de recombinação homóloga. Embora o estudo não tenha especificado a taxa exata de variantes não detectadas devido à baixa qualidade do espécime, os autores destacam que essa variabilidade pode contribuir para a lacuna entre achados genômicos e benefícios clínicos em terapias de precisão, já que apenas uma minoria dos pacientes testados recebe terapias alinhadas ao seu perfil genômico.\n\nAs limitações incluem o desenho retrospectivo do estudo e a dependência de classificações de qualidade pré-definidas, que podem não refletir todas as nuances de amostras clínicas reais. Os autores sugerem que protocolos padronizados de coleta e processamento de espécimes, bem como o desenvolvimento de algoritmos capazes de avaliar a qualidade em tempo real, poderiam mitigar esses vieses. Além disso, a integração de CGP líquido como alternativa — ainda que com sensibilidade inferior para certas alterações — pode ampliar o acesso a testes genômicos em cenários onde amostras de tecido são limitadas.\n\n**Versão em inglês**\n\nA multicenter retrospective study conducted in Japan between 2019 and 2025 has demonstrated that specimen quality significantly impacts the detection of clinically relevant genomic alterations in comprehensive genomic profiling (CGP) tests. Published in *Nature Medicine*, the research analyzed 2,002 CGP tests performed across 13 institutions, comparing samples classified as \"pass\" (F1-pass) or \"qualified\" (F1-qual) by the *FoundationOne CDx* assay with liquid-based CGP (liq-CGP) results.\n\nThe findings indicate that lower-quality specimens, regardless of test type, show reduced reliability in detecting short variants, copy number alterations (CNAs), structural variants, and genomic signatures—such as microsatellite instability, tumor mutational burden, and homologous recombination deficiency. While the study did not quantify the exact rate of missed alterations due to poor specimen quality, the authors emphasize that this variability may contribute to the gap between genomic findings and clinical benefits in precision oncology, as only a minority of tested patients receive genome-matched therapies.\n\nLimitations of the study include its retrospective design and reliance on predefined quality classifications, which may not capture all nuances of real-world clinical samples. The authors propose that standardized specimen collection and processing protocols, as well as the development of real-time quality assessment algorithms, could mitigate these biases. Additionally, the integration of liquid CGP as an alternative—though with lower sensitivity for certain alterations—may expand access to genomic testing in scenarios where tissue samples are limited.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42436136",
+    "authors": [
+      {
+        "name": "Hikaru Nakahara",
+        "affiliation": "Department of Clinical and Molecular Genetics, Hiroshima University Hospital, Hiroshima University, Hiroshima, Japan."
+      },
+      {
+        "name": "Hiroaki Niitsu",
+        "affiliation": "Department of Clinical and Molecular Genetics, Hiroshima University Hospital, Hiroshima University, Hiroshima, Japan. hniitsu@hiroshima-u.ac.jp."
+      },
+      {
+        "name": "Masanori Motonaga",
+        "affiliation": "Department of Pharmaceutical Services, Hiroshima University Hospital, Hiroshima, Japan."
+      },
+      {
+        "name": "Hiroaki Matsuo",
+        "affiliation": "Department of Pharmaceutical Services, Hiroshima University Hospital, Hiroshima, Japan."
+      }
+    ],
+    "journal": "NPJ genomic medicine",
+    "publishedDate": "2026-07-11",
+    "fetchedDate": "2026-07-12",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "oncology",
+      "genomic",
+      "gene"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-41819984",
     "pmid": "41819984",
     "doi": "10.1080/14767058.2026.2640251",
@@ -205,7 +250,7 @@
       "immunotherapy",
       "vaccine"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12649,39 +12694,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42040727",
-    "pmid": "42040727",
-    "doi": "10.1007/s12288-025-02210-9",
-    "title": "Red Cell Distribution Width (RDW) as a Prognostic Marker in Systemic Diseases: A Mini Review.",
-    "titlePt": "Red Cell Distribution Width (RDW) as a Prognostic Marker in Systemic Diseases: A Mini Review.",
-    "abstract": "Red Cell Distribution Width (RDW), a routinely available parameter in complete blood counts, reflects the variability in red blood cell size. Originally used to differentiate types of anemia, RDW has emerged as a valuable prognostic marker across a wide range of systemic diseases. Elevated RDW levels have been associated with increased morbidity and mortality in cardiovascular diseases, chronic kidney disease, diabetes, liver disorders, infections, inflammatory conditions, and malignancies. The rise in RDW may reflect underlying inflammation, oxidative stress, nutritional deficiencies, bone marrow dysfunction, or impaired erythropoiesis, all of which are common features in systemic illnesses. As a readily available, non-invasive, and cost-effective biomarker, RDW offers significant clinical utility in risk stratification, disease monitoring, and outcome prediction. Its prognostic value has been particularly noted in heart failure, sepsis, chronic obstructive pulmonary disease, and vari",
-    "journalisticSummary": "A largura de distribuição dos glóbulos vermelhos (RDW) é um parâmetro amplamente disponível em hemogramas completos e reflete a variabilidade no tamanho dos glóbulos vermelhos. Originalmente utilizada para diferenciar tipos de anemia, a RDW tem emergido como um marcador prognóstico valioso em uma ampla gama de doenças sistêmicas. Níveis elevados de RDW têm sido associados a aumento da morbidade e mortalidade em doenças cardiovasculares, doença renal crônica, diabetes, distúrbios hepáticos, infecções, condições inflamatórias e malignidades. O aumento da RDW pode refletir inflamação subjacente, estresse oxidativo, deficiências nutricionais, disfunção da medula óssea ou eritropoiese prejudicada, todos os quais são recursos comuns em doenças sistêmicas. Como um biomarcador facilmente disponível, não invasivo e de baixo custo, a RDW oferece significativa utilidade clínica na estratificação de risco, monitoramento de doenças e previsão de resultados. Seu valor prognóstico tem sido particularmente notado em insuficiência cardíaca, sepse, doença pulmonar obstrutiva crônica e outras condições. No entanto, não foram fornecidos detalhes sobre os próximos passos ou limitações específicas do estudo, o que poderia ser fundamental para uma compreensão mais profunda do papel da RDW em doenças sistêmicas.\n\nThe red cell distribution width (RDW) is a widely available parameter in complete blood counts and reflects the variability in red blood cell size. Originally used to differentiate types of anemia, RDW has emerged as a valuable prognostic marker across a wide range of systemic diseases. Elevated RDW levels have been associated with increased morbidity and mortality in cardiovascular diseases, chronic kidney disease, diabetes, liver disorders, infections, inflammatory conditions, and malignancies. The rise in RDW may reflect underlying inflammation, oxidative stress, nutritional deficiencies, bone marrow dysfunction, or impaired erythropoiesis, all of which are common features in systemic illnesses. As a readily available, non-invasive, and cost-effective biomarker, RDW offers significant clinical utility in risk stratification, disease monitoring, and outcome prediction. Its prognostic value has been particularly noted in heart failure, sepsis, chronic obstructive pulmonary disease, and various other conditions. However, no details were provided on the next steps or specific limitations of the study, which could be crucial for a deeper understanding of RDW's role in systemic diseases.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42040727",
-    "authors": [
-      {
-        "name": "Mohd Afzal",
-        "affiliation": "Department of Medical Laboratory Technology , Arogyam Institute of Paramedical and Allied Sciences (Affiliated to H.N.B. Uttarakhand Medical Education University) , Uttarakhand Roorkee, India.https://ror.org/03xp911980000 0005 1352 2147"
-      }
-    ],
-    "journal": "Indian journal of hematology &amp; blood transfusion : an official journal of Indian Society of Hematology and Blood Transfusion",
-    "publishedDate": "2026-04-27",
-    "fetchedDate": "2026-04-27",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "heart",
-      "infection",
-      "sepsis",
-      "diabetes"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
