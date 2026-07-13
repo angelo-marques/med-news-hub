@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42104724",
+    "pmid": "42104724",
+    "doi": "10.1002/cpt.70315",
+    "title": "A Systematic Review on Disease-Modifying Therapies in Parkinsonian Disorders.",
+    "titlePt": "A Systematic Review on Disease-Modifying Therapies in Parkinsonian Disorders.",
+    "abstract": "Parkinsonian disorders, including Parkinson's disease, Lewy body dementia, multiple system atrophy, and progressive supranuclear palsy, are progressive neurodegenerative conditions with no treatment options to slow disease progression. This systematic review provides an overview of evidence of disease-modifying therapies that have been evaluated in clinical studies across these disorders, based on a comprehensive literature search up to May 2025. Eligible studies included clinical trials investigating pharmacological interventions aimed at slowing disease progression. Most clinical development has focused on Parkinson's disease, with limited progress in other Parkinsonian disorders. Therapies targeting alpha-synuclein, such as monoclonal antibodies and small molecules, have shown target engagement but limited clinical efficacy. Glucocerebrosidase-enhancing agents, particularly ambroxol, demonstrated promising biomarker and clinical signals in early-phase trials. Glucagon-like peptide-1",
+    "journalisticSummary": "A busca por terapias modificadoras da doença em transtornos parkinsonianos enfrenta desafios significativos, conforme revela uma revisão sistemática publicada no *Clinical Pharmacology & Therapeutics*. O estudo, que analisou evidências até maio de 2025, aborda a ausência de opções capazes de retardar a progressão de doenças como Parkinson, demência por corpos de Lewy, atrofia de múltiplos sistemas e paralisia supranuclear progressiva. A maioria dos ensaios clínicos concentra-se na doença de Parkinson, enquanto outras condições recebem atenção limitada. Terapias direcionadas à alfa-sinucleína, como anticorpos monoclonais e pequenas moléculas, demonstraram engajamento farmacológico, mas com eficácia clínica modesta. Agentes potencializadores da glucocerebrosidase, como o ambroxol, apresentaram sinais promissores em biomarcadores e resultados iniciais, embora ainda em fases precoces. O estudo destaca a necessidade de abordagens mais abrangentes, considerando a heterogeneidade patológica desses transtornos, e aponta para a relevância de terapias como os agonistas do receptor de GLP-1, cuja investigação, entretanto, não foi detalhada no resumo. Entre as limitações, a revisão não reporta dados sobre possíveis vieses de publicação ou heterogeneidade metodológica nos estudos incluídos, o que poderia influenciar a interpretação dos achados. Como próximos passos, os autores sugerem priorizar alvos terapêuticos mais específicos e combinar estratégias multimodais, além de expandir pesquisas para doenças além da doença de Parkinson, onde o cenário é ainda mais escasso.\n\n---\n\nThe search for disease-modifying therapies in parkinsonian disorders remains a significant hurdle, as highlighted by a systematic review published in *Clinical Pharmacology & Therapeutics*. The study, which examined evidence up to May 2025, addresses the lack of options capable of slowing the progression of conditions such as Parkinson’s disease, dementia with Lewy bodies, multiple system atrophy, and progressive supranuclear palsy. Most clinical trials focus on Parkinson’s disease, while other conditions receive limited attention. Therapies targeting alpha-synuclein, including monoclonal antibodies and small molecules, have shown pharmacological engagement but limited clinical efficacy. Glucocerebrosidase-enhancing agents, such as ambroxol, have demonstrated promising biomarker and early-phase clinical signals, though still in preliminary stages. The study underscores the need for broader approaches, considering the pathological heterogeneity of these disorders, and points to the relevance of therapies like GLP-1 receptor agonists, though their investigation was not detailed in the abstract. Among the limitations, the review does not report data on potential publication bias or methodological heterogeneity in the included studies, which could influence the interpretation of findings. Moving forward, the authors recommend prioritizing more specific therapeutic targets and combining multimodal strategies, alongside expanding research to disorders beyond Parkinson’s disease, where the landscape is even more sparse.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42104724",
+    "authors": [
+      {
+        "name": "Pepijn P N M Eijsvogel",
+        "affiliation": "Centre for Human Drug Research, Leiden, The Netherlands."
+      },
+      {
+        "name": "Lars M G Smits",
+        "affiliation": "Leiden University Medical Center, Leiden, The Netherlands."
+      },
+      {
+        "name": "Philip H C Kremer",
+        "affiliation": "Centre for Human Drug Research, Leiden, The Netherlands."
+      },
+      {
+        "name": "Geert Jan Groeneveld",
+        "affiliation": "Leiden University Medical Center, Leiden, The Netherlands."
+      }
+    ],
+    "journal": "Clinical pharmacology and therapeutics",
+    "publishedDate": "2026-07-12",
+    "fetchedDate": "2026-07-13",
+    "category": "Neurologia",
+    "tags": [
+      "parkinson",
+      "dementia",
+      "gene",
+      "clinical trial"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42436811",
     "pmid": "42436811",
     "doi": "10.1002/joa3.70416",
@@ -207,7 +251,7 @@
       "infection",
       "vaccine"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12661,48 +12705,6 @@
     ],
     "isHighlight": false,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42040606",
-    "pmid": "42040606",
-    "doi": "10.3389/fmed.2026.1815353",
-    "title": "Long-term outcomes of co-administration of CD19 and CD22 CAR-T cell therapy in pediatric patients with relapsed/refractory Philadelphia chromosome-positive acute lymphoblastic leukemia.",
-    "titlePt": "Long-term outcomes of co-administration of CD19 and CD22 CAR-T cell therapy in pediatric patients with relapsed/refractory Philadelphia chromosome-positive acute lymphoblastic leukemia.",
-    "abstract": "Despite initial responses, resistance to tyrosine kinase inhibitors (TKIs) and disease relapse remain major challenges in patients with Philadelphia chromosome-positive acute lymphoblastic leukemia (Ph+ ALL). Given the efficacy of chimeric antigen receptor T (CAR-T) cell therapy in Relapsed/Refractory (R/R) ALL, we aimed to evaluate the long-term outcomes of co-administration of CD19 and CD22 CAR-T cell therapy for pediatric patients with R/R Ph+ ALL. We conducted a retrospective subanalysis of patients with R/R Ph+ ALL to assess the long-term outcomes of co-administration of CD19 and CD22 CAR-T cell therapy. Complete hematologic remission (CHR), measurable residual disease-negative complete remission (MRD-CR), complete molecular remission (CMR), relapse-free survival (RFS), and overall survival (OS) were among the important outcomes that were evaluated with a data cutoff of October 1, 2025. Within 1 month after CAR-T cell infusion, all patients achieved CHR, with MRD-CR and CMR of 100",
-    "journalisticSummary": "Um estudo publicado recentemente na revista científica Frontiers in Medicine investigou os resultados de longo prazo da terapia combinada de células T CAR-T direcionadas aos antígenos CD19 e CD22 em pacientes pediátricos com leucemia linfoblástica aguda (LLA) refratária ou em recaída, positiva para o cromossomo Filadélfia (Ph+ ALL). Apesar das respostas iniciais promissoras, a resistência aos inibidores de tirosina quinase (ITQs) e a recaída da doença continuam a ser desafios significativos nesses pacientes. A terapia de células T CAR-T tem demonstrado eficácia em pacientes com LLA refratária ou em recaída, o que motivou a avaliação dos resultados de longo prazo da co-administração de terapias CAR-T direcionadas aos antígenos CD19 e CD22.\n\nOs resultados mostraram que, dentro de um mês após a infusão de células CAR-T, todos os pacientes alcançaram remissão hematológica completa (RHC), com taxas de remissão completa de doença residual mensurável (DRM-R) e remissão molecular completa (RMC) de 100%. Esses achados sugerem que a co-administração de terapias CAR-T direcionadas aos antígenos CD19 e CD22 pode ser uma abordagem promissora para o tratamento de pacientes pediátricos com Ph+ ALL refratária ou em recaída. No entanto, é importante notar que o estudo apresentou limitações, como a natureza retrospectiva da análise e a falta de informações detalhadas sobre os efeitos colaterais e a qualidade de vida dos pacientes.\n\nOs próximos passos incluem a realização de estudos prospectivos randomizados para confirmar a eficácia e a segurança da co-administração de terapias CAR-T direcionadas aos antígenos CD19 e CD22 em pacientes com Ph+ ALL. Além disso, é fundamental investigar as possíveis implicações clínicas e os mecanismos subjacentes à resistência e à recaída da doença, a fim de desenvolver estratégias terapêuticas mais eficazes e personalizadas para esses pacientes.\n\nA longo prazo, a combinação de terapias inovadoras, como a terapia de células T CAR-T, com abordagens tradicionais pode oferecer novas perspectivas para o tratamento de pacientes com Ph+ ALL refratária ou em recaída, melhorando significativamente as taxas de sobrevida e a qualidade de vida desses pacientes. No entanto, é essencial que os profissionais de saúde e os pacientes continuem a trabalhar juntos para avançar no conhecimento e no desenvolvimento de tratamentos mais eficazes para essa doença complexa e desafiadora.\n\nUm estudo publicado recentemente na revista científica Frontiers in Medicine investigou os resultados de longo prazo da terapia combinada de células T CAR-T direcionadas aos antígenos CD19 e CD22 em pacientes pediátricos com leucemia linfoblástica aguda (LLA) refratária ou em recaída, positiva para o cromossomo Filadélfia (Ph+ ALL), não foi informado o número de pacientes, o que limita a análise dos resultados.\n\n---\n\nA recent study published in the scientific journal Frontiers in Medicine investigated the long-term outcomes of combined CD19 and CD22 CAR-T cell therapy in pediatric patients with relapsed/refractory Philadelphia chromosome-positive acute lymphoblastic leukemia (Ph+ ALL). Despite initial promising responses, resistance to tyrosine kinase inhibitors (TKIs) and disease relapse continue to be significant challenges in these patients. CAR-T cell therapy has shown efficacy in patients with relapsed/refractory ALL, which motivated the evaluation of the long-term outcomes of combined CD19 and CD22 CAR-T cell therapy.\n\nThe results showed that within one month after CAR-T cell infusion, all patients achieved complete hematologic remission (CHR), with measurable residual disease-negative complete remission (MRD-CR) and complete molecular remission (CMR) rates of 100%. These findings suggest that combined CD19 and CD22 CAR-T cell therapy may be a promising approach for the treatment of pediatric patients with relapsed/refractory Ph+ ALL. However, it is essential to note that the study presented limitations, such as the retrospective nature of the analysis and the lack of detailed information about adverse effects and patients' quality of life.\n\nThe next steps include conducting prospective randomized studies to confirm the efficacy and safety of combined CD19 and CD22 CAR-T cell therapy in patients with Ph+ ALL. Additionally, it is crucial to investigate the potential clinical implications and underlying mechanisms of resistance and disease relapse to develop more effective and personalized therapeutic strategies for these patients.\n\nIn the long term, combining innovative therapies, such as CAR-T cell therapy, with traditional approaches may offer new perspectives for the treatment of patients with relapsed/refractory Ph+ ALL, significantly improving survival rates and quality of life for these patients. However, it is essential that healthcare professionals and patients continue to work together to advance knowledge and develop more effective treatments for this complex and challenging disease.\n\nA recent study published in the scientific journal Frontiers in Medicine investigated the long-term outcomes of combined CD19 and CD22 CAR-T cell therapy in pediatric patients with relapsed/refractory Philadelphia chromosome-positive acute lymphoblastic leukemia (Ph+ ALL), the number of patients was not informed, which limits the analysis of the results.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42040606",
-    "authors": [
-      {
-        "name": "Zichao Zhou",
-        "affiliation": "Department of Hematology/Oncology, National Health Committee Key Laboratory of Pediatric Hematology &amp; Oncology, Shanghai Children's Medical Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
-      },
-      {
-        "name": "Tianyi Wang",
-        "affiliation": "Department of Hematology/Oncology, National Health Committee Key Laboratory of Pediatric Hematology &amp; Oncology, Shanghai Children's Medical Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
-      },
-      {
-        "name": "Wenhua Shi",
-        "affiliation": "Department of Hematology/Oncology, National Health Committee Key Laboratory of Pediatric Hematology &amp; Oncology, Shanghai Children's Medical Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
-      },
-      {
-        "name": "Xinyu Wan",
-        "affiliation": "Department of Hematology/Oncology, National Health Committee Key Laboratory of Pediatric Hematology &amp; Oncology, Shanghai Children's Medical Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
-      }
-    ],
-    "journal": "Frontiers in medicine",
-    "publishedDate": "2026-04-27",
-    "fetchedDate": "2026-04-27",
-    "category": "Oncologia",
-    "tags": [
-      "leukemia",
-      "pediatric"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
