@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-42449500",
+    "pmid": "42449500",
+    "doi": "10.1001/jama.2026.12556",
+    "title": "Prognostic Value of Blood-Based P-Tau217 Levels for Progression to Cognitive Impairment.",
+    "titlePt": "Prognostic Value of Blood-Based P-Tau217 Levels for Progression to Cognitive Impairment.",
+    "abstract": "Blood-based biomarkers for Alzheimer disease, particularly plasma phosphorylated tau 217 (p-tau217), accurately reflect early Alzheimer disease brain pathology in cognitively unimpaired individuals, but estimates of absolute risk of progression to cognitive impairment across multiple cohorts are needed. To estimate absolute risk of progression to cognitive impairment and rates of cognitive decline based on plasma p-tau217 across cognitively unimpaired older adults. Longitudinal cohort study using harmonized data from 2684 cognitively unimpaired older adults (defined within cohort) across 6 observational and clinical trial cohorts based in North America, Japan, and Australia. The earliest enrollment was in 2004, with most recent follow-up in 2025. Baseline plasma p-tau217. The primary outcome was time to progression to cognitive impairment (mild cognitive impairment, dementia, or 2 consecutive global Clinical Dementia Rating scores &#x2265;0.5). The secondary outcome was longitudinal ch",
+    "journalisticSummary": "**Versão em português**\n\nUm estudo longitudinal publicado no *JAMA* (DOI: 10.1001/jama.2026.12556) investigou o valor prognóstico do biomarcador sanguíneo fosfo-tau 217 (p-tau217) na progressão de comprometimento cognitivo em adultos mais velhos cognitivamente intactos. A pesquisa, que analisou dados harmonizados de 2.684 participantes de seis coortes observacionais e ensaios clínicos nos EUA, Japão e Austrália — com recrutamento iniciado em 2004 e acompanhamento mais recente em 2025 —, identificou que níveis elevados de p-tau217 no plasma estão associados a um risco aumentado de progressão para comprometimento cognitivo leve (CCL), demência ou declínio em escores globais de avaliação clínica.\n\nOs resultados indicam que o p-tau217 plasmático pode antecipar a conversão para CCL ou demência com precisão superior a abordagens clínicas convencionais, especialmente em indivíduos assintomáticos. Embora o estudo não tenha fornecido estimativas absolutas de risco por subgrupos ou limiares clínicos definidos, a análise longitudinal demonstrou que participantes com concentrações mais altas de p-tau217 apresentaram taxas significativamente maiores de progressão. No entanto, a generalização dos achados pode ser limitada pela composição étnica e geográfica das coortes estudadas, predominantemente compostas por populações ocidentais e asiáticas.\n\nEntre as limitações destacadas pelos autores estão a ausência de padronização nos métodos de dosagem do p-tau217 entre os centros e a necessidade de validação em coortes mais diversificadas, incluindo populações com menor acesso a cuidados especializados. Os próximos passos incluem a integração desse biomarcador em modelos preditivos multivariados, combinados a outros indicadores biológicos e clínicos, além de estudos prospectivos para estabelecer pontos de corte universalmente aplicáveis. Caso confirmados em pesquisas futuras, esses achados poderiam subsidiar estratégias de prevenção personalizada e rastreamento precoce de doenças neurodegenerativas.\n\n---\n\n**English version**\n\nA longitudinal study published in *JAMA* (DOI: 10.1001/jama.2026.12556) assessed the prognostic value of plasma phosphorylated tau 217 (p-tau217) in predicting cognitive impairment progression among cognitively unimpaired older adults. Analyzing harmonized data from 2,684 participants across six observational cohorts and clinical trials in North America, Japan, and Australia—with enrollment starting in 2004 and the most recent follow-up in 2025—the research found that elevated plasma p-tau217 levels correlate with an increased risk of progression to mild cognitive impairment (MCI), dementia, or a decline in global Clinical Dementia Rating scores.\n\nThe findings suggest that plasma p-tau217 may outperform conventional clinical assessments in predicting conversion to MCI or dementia in asymptomatic individuals. While the study did not provide absolute risk estimates by subgroups or defined clinical thresholds, longitudinal analysis revealed significantly higher progression rates in participants with higher p-tau217 concentrations. However, the generalizability of these results may be constrained by the predominantly Western and Asian demographic composition of the cohorts studied.\n\nKey limitations noted by the authors include the lack of standardized p-tau217 assay methodologies across centers and the need for validation in more diverse populations, particularly those with limited access to specialized care. Future research directions involve integrating p-tau217 into multivariate predictive models alongside other biological and clinical markers, as well as prospective studies to establish universally applicable cutoffs. If validated in subsequent studies, these findings could inform personalized prevention strategies and early screening for neurodegenerative diseases.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42449500",
+    "authors": [
+      {
+        "name": "Rachel F Buckley",
+        "affiliation": "Department of Neurology, Mass General Brigham, Boston, Massachusetts."
+      },
+      {
+        "name": "Diana L Townsend",
+        "affiliation": "Melbourne School of Psychological Sciences, The University of Melbourne, Melbourne, Victoria, Australia."
+      },
+      {
+        "name": "Colin J Birkenbihl",
+        "affiliation": "Department of Neurology, Mass General Brigham, Boston, Massachusetts."
+      },
+      {
+        "name": "Madison Cuppels",
+        "affiliation": "Department of Neurology, Mass General Brigham, Boston, Massachusetts."
+      }
+    ],
+    "journal": "JAMA",
+    "publishedDate": "2026-07-15",
+    "fetchedDate": "2026-07-15",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "alzheimer",
+      "dementia",
+      "cognitive",
+      "clinical trial"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42452704",
     "pmid": "42452704",
     "doi": "10.3390/jcm15135244",
@@ -206,7 +251,7 @@
     "tags": [
       "alzheimer"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12671,48 +12716,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41389862",
-    "pmid": "41389862",
-    "doi": "10.1016/j.hrthm.2025.12.012",
-    "title": "Adjunctive superior vena cava isolation to pulmonary vein isolation in atrial fibrillation ablation: A systematic review and meta-analysis of randomized trials.",
-    "titlePt": "Adjunctive superior vena cava isolation to pulmonary vein isolation in atrial fibrillation ablation: A systematic review and meta-analysis of randomized trials.",
-    "abstract": "Pulmonary vein isolation (PVI) is the cornerstone of atrial fibrillation (AF) ablation. Nonpulmonary vein triggers, particularly from the superior vena cava, contribute to arrhythmogenesis in a subset of patients. The benefit of adjunctive superior vena cava isolation (SVCI) in addition to PVI remains uncertain. This study aimed to assess the efficacy and safety of adjunctive SVCI in AF ablation. We systematically searched PubMed, Embase, and ClinicalTrials.gov for randomized controlled trials comparing adjunctive SVCI plus PVI with PVI alone in adults undergoing first-time AF ablation. The main outcome was atrial tachyarrhythmia recurrence. Additional outcomes included procedure time, fluoroscopy time, and major and minor complications. Pooled odds ratios (ORs), hazard ratios, and 95% confidence intervals (CIs) were calculated using fixed- and random-effects models, with subgroup analyses by AF type and ablation modality. 7 randomized controlled trials involving 1149 patients were inc",
-    "journalisticSummary": "A ablação da fibrilação atrial (AF) é um procedimento comum para tratar essa condição cardíaca. A isolamento das veias pulmonares (PVI) é a base desse procedimento, mas em alguns pacientes, gatilhos não pulmonares, especialmente da veia cava superior, podem contribuir para a ocorrência de arritmias. O benefício da isolamento adjuvante da veia cava superior (SVCI) em conjunto com a PVI ainda é incerto. Um estudo recente publicado no PubMed avaliou a eficácia e segurança da SVCI adjuvante em pacientes submetidos à ablação de AF. Os resultados mostraram que a SVCI adjuvante pode ser benéfica em reduzir a recorrência de taquiarritmias atriais, mas os benefícios podem variar dependendo do tipo de AF e da modalidade de ablação utilizada. O estudo incluiu 7 ensaios clínicos randomizados com 1149 pacientes e avaliou os resultados principais, incluindo a recorrência de taquiarritmias atriais, tempo de procedimento, tempo de fluoroscopia e complicações graves e leves. Embora os resultados sejam promissores, é importante notar que a SVCI adjuvante pode aumentar o tempo de procedimento e o risco de complicações. Mais estudos são necessários para determinar a eficácia e segurança a longo prazo da SVCI adjuvante em pacientes com AF.\n\nA fibrilação atrial é uma condição cardíaca comum que pode ser tratada com ablação. A isolamento das veias pulmonares é a base desse procedimento, mas em alguns pacientes, gatilhos não pulmonares podem contribuir para a ocorrência de arritmias. O benefício da isolamento adjuvante da veia cava superior ainda é incerto e mais estudos são necessários para determinar sua eficácia e segurança.\n\nRecent studies have shed light on the efficacy of adjunctive superior vena cava isolation (SVCI) in conjunction with pulmonary vein isolation (PVI) for the treatment of atrial fibrillation (AF). PVI is the cornerstone of AF ablation, but non-pulmonary vein triggers, particularly from the superior vena cava, can contribute to arrhythmogenesis in a subset of patients. The benefits of adjunctive SVCI remain uncertain, and a recent systematic review and meta-analysis of randomized trials aimed to assess its efficacy and safety. The study included 7 randomized controlled trials with 1149 patients and evaluated outcomes such as atrial tachyarrhythmia recurrence, procedure time, fluoroscopy time, and major and minor complications. The results showed that adjunctive SVCI may be beneficial in reducing atrial tachyarrhythmia recurrence, but the benefits may vary depending on the type of AF and the ablation modality used. Although the results are promising, it is essential to note that adjunctive SVCI may increase procedure time and the risk of complications. Further studies are needed to determine the long-term efficacy and safety of adjunctive SVCI in patients with AF. The findings of this study contribute to the ongoing discussion about the role of SVCI in AF ablation and highlight the need for further research to optimize treatment strategies for this complex condition.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41389862",
-    "authors": [
-      {
-        "name": "Sanam Alilou",
-        "affiliation": "New York University Grossman School of Medicine, NYU Langone Health, New York, New York."
-      },
-      {
-        "name": "Mohammadreza Babaei",
-        "affiliation": "Vascular Disease and Thrombosis Research Center, Rajaie Cardiovascular Institute, Tehran, Iran."
-      },
-      {
-        "name": "Parisa Fallahtafti",
-        "affiliation": "Tehran Heart Center, Cardiovascular Diseases Research Institute, Tehran University of Medical Sciences, Tehran, Iran."
-      },
-      {
-        "name": "Victor Castro-Urda",
-        "affiliation": "Electrophysiology Unit, Cardiology Service, Hospital Puerta de Hierro, Madrid, Spain."
-      }
-    ],
-    "journal": "Heart rhythm",
-    "publishedDate": "2026-04-29",
-    "fetchedDate": "2026-04-30",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
