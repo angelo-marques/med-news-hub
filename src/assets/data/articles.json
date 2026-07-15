@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42452704",
+    "pmid": "42452704",
+    "doi": "10.3390/jcm15135244",
+    "title": "Use of Natriuretic Peptides in Critically Ill Patients: A Narrative Review.",
+    "titlePt": "Use of Natriuretic Peptides in Critically Ill Patients: A Narrative Review.",
+    "abstract": "Background: Natriuretic peptides, including B-type natriuretic peptide (BNP) and N-terminal pro-B-type natriuretic peptide (NT-proBNP), are established biomarkers of myocardial stress and circulatory overload. Although originally validated for diagnosis and exclusion of heart failure, their diagnostic and prognostic applications have expanded significantly in the context of critical illness. However, interpretation in critically ill patients is complicated by confounding factors such as systemic inflammation and renal dysfunction. Objective: This review synthesizes current evidence on the diagnostic, monitoring, and prognostic applications of natriuretic peptides in critically ill adults. It further outlines practical considerations, confounding variables, and emerging complementary biomarkers pertinent to clinical decision-making. Methods: A structured search of PubMed, Embase, and the Cochrane Library (January 2000 to October 2025) identified studies evaluating BNP, NT-proBNP, and at",
+    "journalisticSummary": "O uso de peptídeos natriuréticos, incluindo o peptídeo natriurético tipo B (BNP) e o peptídeo N-terminal pro-BNP (NT-proBNP), tem sido cada vez mais reconhecido como uma ferramenta valiosa no diagnóstico e monitoramento de pacientes criticamente doentes. Embora originalmente validados para o diagnóstico e exclusão de insuficiência cardíaca, esses biomarcadores têm expandido seu escopo de aplicação significativamente no contexto de doenças críticas. No entanto, a interpretação desses peptídeos em pacientes criticamente doentes é complicada por fatores confusos, como inflamação sistêmica e disfunção renal. Esta revisão narrativa busca sintetizar as evidências atuais sobre as aplicações diagnósticas, de monitoramento e prognósticas dos peptídeos natriuréticos em adultos doentes críticos, além de esclarecer considerações práticas, variáveis confusas e biomarcadores complementares emergentes pertinentes à tomada de decisões clínicas.\n\nOs achados principais destacam a importância dos peptídeos natriuréticos como ferramentas para avaliar o estresse miocárdico e a sobrecarga circulatória, mesmo em contextos mais amplos do que a insuficiência cardíaca. No entanto, é crucial considerar as limitações, incluindo a influência de fatores não cardíacos na interpretação desses biomarcadores. O impacto clínico do uso desses peptídeos pode ser significativo, ajudando a guiar terapias e melhorar os resultados dos pacientes. As próximas etapas devem incluir a investigação de como esses biomarcadores podem ser integrados de forma eficaz em algoritmos de decisão clínica, considerando as variáveis confusas e o desenvolvimento de biomarcadores complementares.\n\nNão foram informados detalhes sobre o número específico de estudos incluídos ou os resultados quantitativos das análises, o que poderia fornecer uma visão mais detalhada sobre a eficácia e a aplicabilidade dos peptídeos natriuréticos em diferentes contextos clínicos. Futuras pesquisas devem buscar esclarecer esses aspectos para uma melhor implementação desses biomarcadores na prática clínica diária.\n\nThe use of natriuretic peptides, including B-type natriuretic peptide (BNP) and N-terminal pro-B-type natriuretic peptide (NT-proBNP), has been increasingly recognized as a valuable tool in the diagnosis and monitoring of critically ill patients. Although originally validated for the diagnosis and exclusion of heart failure, these biomarkers have significantly expanded their scope of application in the context of critical illness. However, the interpretation of these peptides in critically ill patients is complicated by confounding factors such as systemic inflammation and renal dysfunction. This narrative review aims to synthesize current evidence on the diagnostic, monitoring, and prognostic applications of natriuretic peptides in critically ill adults, as well as to outline practical considerations, confounding variables, and emerging complementary biomarkers pertinent to clinical decision-making.\n\nThe main findings highlight the importance of natriuretic peptides as tools for assessing myocardial stress and circulatory overload, even in broader contexts than heart failure. However, it is crucial to consider the limitations, including the influence of non-cardiac factors on the interpretation of these biomarkers. The clinical impact of using these peptides can be significant, helping to guide therapies and improve patient outcomes. The next steps should include investigating how these biomarkers can be effectively integrated into clinical decision-making algorithms, considering confounding variables and the development of complementary biomarkers.\n\nDetails on the specific number of studies included or the quantitative results of the analyses were not provided, which could offer a more detailed insight into the effectiveness and applicability of natriuretic peptides in different clinical contexts. Future research should seek to clarify these aspects for a better implementation of these biomarkers in daily clinical practice.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42452704",
+    "authors": [
+      {
+        "name": "Ayodeji Olarewaju",
+        "affiliation": "Department of Internal Medicine, Augusta University, Augusta, GA 30904, USA."
+      },
+      {
+        "name": "Akinade Adebowale",
+        "affiliation": "Department of Psychiatry, McMaster University, Hamilton, ON L8S 4L8, Canada."
+      },
+      {
+        "name": "Peter Odutola",
+        "affiliation": "AbbVie (United States), North Chicago, IL 60064, USA."
+      },
+      {
+        "name": "Annie Arnold",
+        "affiliation": "Phoebe Health, Albany, GA 31701, USA."
+      }
+    ],
+    "journal": "Journal of clinical medicine",
+    "publishedDate": "2026-07-15",
+    "fetchedDate": "2026-07-15",
+    "category": "Cardiologia",
+    "tags": [
+      "heart",
+      "myocardial"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-41986793",
     "pmid": "41986793",
     "doi": "10.1007/s12028-026-02518-y",
@@ -209,7 +251,7 @@
       "psychological",
       "insulin"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12671,48 +12713,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41354227",
-    "pmid": "41354227",
-    "doi": "10.1016/j.hrthm.2025.12.004",
-    "title": "Empirical cryoballoon-based left atrial appendage isolation followed by closure, including cases with LAA thrombosis, in patients with persistent atrial fibrillation and durable pulmonary vein isolation: Feasibility and long-term outcomes (CB LAAI + LAAC after durable PVI in persistent AF).",
-    "titlePt": "Empirical cryoballoon-based left atrial appendage isolation followed by closure, including cases with LAA thrombosis, in patients with persistent atrial fibrillation and durable pulmonary vein isolation: Feasibility and long-term outcomes (CB LAAI + LAAC after durable PVI in persistent AF).",
-    "abstract": "Left atrial appendage isolation (LAAI) may improve rhythm outcomes in atrial fibrillation (AF) but raises concerns regarding safety and thromboembolic risk. We evaluated the feasibility, safety, and long-term outcomes of cryoballoon (CB)-based-LAAI followed by left atrial appendage closure (LAAC). In this observational cohort, 101 patients with recurrent persistent AF after durable pulmonary vein isolation underwent empirical CB-based LAAI. At 6 weeks, electrical reconnection was assessed, with repeat LAAI performed if indicated. Patients were subsequently scheduled for LAAC. Procedural characteristics, complications, and long-term outcomes, including arrhythmia recurrence and major adverse cardiac events, were assessed over 3 years. The median age was 69 years, 62% were male, and all had recurrent persistent AF. Durable LAAI was achieved in 81.2%; 19 patients underwent successful repeat isolation. LAAC was performed in 89 patients, with 100% implantation success. Periprocedural compli",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a viabilidade e os resultados de longo prazo da isolamento do apêndice atrial esquerdo (LAAI) com balão criogênico, seguido de fechamento do apêndice atrial esquerdo (LAAC), em pacientes com fibrilação atrial persistente e isolamento duradouro da veia pulmonar. Os resultados mostraram que a LAAI com balão criogênico é uma opção viável e segura para esses pacientes, com taxas de sucesso procedimental altas e baixas taxas de complicações. A idade mediana dos pacientes foi de 69 anos, com 62% de homens, e todos tinham fibrilação atrial persistente. A LAAI duradoura foi alcançada em 81,2% dos pacientes, e 19 pacientes foram submetidos a isolamento repetido com sucesso. O fechamento do apêndice atrial esquerdo foi realizado em 89 pacientes, com 100% de sucesso na implantação. No entanto, não foram fornecidos detalhes sobre as taxas de recorrência de arritmias e eventos cardíacos adversos importantes no período de acompanhamento de 3 anos. Os resultados sugerem que a LAAI com balão criogênico seguida de LAAC pode ser uma opção terapêutica eficaz para pacientes com fibrilação atrial persistente, mas mais estudos são necessários para confirmar esses achados e avaliar a segurança e eficácia a longo prazo.\n\nA recent study published on PubMed investigated the feasibility and long-term outcomes of left atrial appendage isolation (LAAI) with cryoballoon, followed by left atrial appendage closure (LAAC), in patients with persistent atrial fibrillation and durable pulmonary vein isolation. The results showed that LAAI with cryoballoon is a viable and safe option for these patients, with high procedural success rates and low complication rates. The median age of the patients was 69 years, with 62% males, and all had persistent atrial fibrillation. Durable LAAI was achieved in 81.2% of the patients, and 19 patients underwent successful repeat isolation. LAAC was performed in 89 patients, with 100% implantation success. However, details on arrhythmia recurrence rates and major adverse cardiac events were not provided during the 3-year follow-up period. The results suggest that LAAI with cryoballoon followed by LAAC may be an effective therapeutic option for patients with persistent atrial fibrillation, but further studies are needed to confirm these findings and evaluate the long-term safety and efficacy.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41354227",
-    "authors": [
-      {
-        "name": "Tolga Han Efe",
-        "affiliation": "Cardioangiologisches Centrum Bethanien (CCB), Kardiologie, Medizinische Klinik III, Agaplesion Markus Krankenhaus, Akademisches Lehrkrankenhaus der Goethe-Universit&#xe4;t, Frankfurt am Main, Germany."
-      },
-      {
-        "name": "Ramin Ebrahimi",
-        "affiliation": "Cardioangiologisches Centrum Bethanien (CCB), Kardiologie, Medizinische Klinik III, Agaplesion Markus Krankenhaus, Akademisches Lehrkrankenhaus der Goethe-Universit&#xe4;t, Frankfurt am Main, Germany; Klinik Internal Medicine B (Cardiology, Angiology, Pneumology and Internal Intensive Care Medicine), University Medicine Greifswald, Greifswald, Germany."
-      },
-      {
-        "name": "David Schaack",
-        "affiliation": "Cardioangiologisches Centrum Bethanien (CCB), Kardiologie, Medizinische Klinik III, Agaplesion Markus Krankenhaus, Akademisches Lehrkrankenhaus der Goethe-Universit&#xe4;t, Frankfurt am Main, Germany."
-      },
-      {
-        "name": "Lukas Urbanek",
-        "affiliation": "Cardioangiologisches Centrum Bethanien (CCB), Kardiologie, Medizinische Klinik III, Agaplesion Markus Krankenhaus, Akademisches Lehrkrankenhaus der Goethe-Universit&#xe4;t, Frankfurt am Main, Germany."
-      }
-    ],
-    "journal": "Heart rhythm",
-    "publishedDate": "2026-04-29",
-    "fetchedDate": "2026-04-30",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiac",
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
