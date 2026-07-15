@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-41986793",
+    "pmid": "41986793",
+    "doi": "10.1007/s12028-026-02518-y",
+    "title": "Malignant Cerebral Edema after Large-Core Anterior Circulation Stroke in the Thrombectomy Era: Prediction and Neurocritical Care Pathways.",
+    "titlePt": "Malignant Cerebral Edema after Large-Core Anterior Circulation Stroke in the Thrombectomy Era: Prediction and Neurocritical Care Pathways.",
+    "abstract": "Large-core anterior circulation ischemic stroke (LCIS) complicated by malignant cerebral edema (MCE) remains a leading cause of early death and profound disability even in the era of endovascular thrombectomy (EVT). As EVT indications have expanded to include patients with large ischemic cores, more patients survive the initial ischemic insult but continue to face substantial risk of space-occupying edema, underscoring the need for standardized neurocritical care pathways. This narrative review summarizes evidence published between 2015 and 2025 from PubMed and Web of Science, emphasizing randomized trials, meta-analyses, high-quality observational cohorts, and major guidelines. Contemporary neurocritical care guidance increasingly treats LCIS as a distinct syndrome and recommends structured surveillance, timely osmotherapy, and consideration of decompressive hemicraniectomy (DHC). Recent large-core EVT trials show that, in carefully selected patients, EVT can improve functional outcom",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nO edema cerebral maligno (ECM) continua sendo uma das principais causas de morte precoce e incapacidade grave em pacientes com acidente vascular cerebral isquêmico (AVCI) de grande extensão em circulação anterior, mesmo na era da trombectomia endovascular (TEV). Embora as indicações para TEV tenham se expandido para incluir casos com grandes núcleos isquêmicos, muitos pacientes que sobrevivem ao insulto inicial ainda enfrentam risco substancial de edema ocupante de espaço, o que reforça a necessidade de protocolos padronizados de neurocrítica.\n\nEsta revisão narrativa, baseada em evidências publicadas entre 2015 e 2025 — com foco em ensaios randomizados, meta-análises, coortes observacionais de alta qualidade e diretrizes internacionais — destaca o ECM como uma entidade clínica distinta dentro do espectro do AVCI de grande porte. As recomendações atuais preconizam vigilância estruturada, terapia osmótica oportuna e consideração precoce de hemicraniectomia descompressiva (HD), especialmente em pacientes selecionados. Embora os ensaios recentes de TEV em grandes núcleos isquêmicos sugiram benefícios funcionais em subgrupos específicos, os dados sobre a eficácia dessas intervenções no manejo do ECM permanecem limitados, com lacunas quanto à estratificação de risco e ao momento ideal para intervenções cirúrgicas. Além disso, não há consenso sobre critérios uniformes para a indicação de HD em pacientes com ECM pós-TEV, o que aponta para a necessidade de estudos prospectivos randomizados. Os próximos passos incluem o desenvolvimento de modelos preditivos robustos e a integração de tecnologias de monitoramento multimodal para otimizar a tomada de decisão clínica.\n\n---\n\n**English version**\n\nMalignant cerebral edema (MCE) remains a leading cause of early mortality and severe disability in patients with large-core anterior circulation ischemic stroke (LCIS), even in the thrombectomy era. While endovascular thrombectomy (EVT) indications have expanded to include patients with large ischemic cores, many who survive the initial injury still face significant risk of space-occupying edema, underscoring the need for standardized neurocritical care pathways.\n\nThis narrative review synthesizes evidence from studies published between 2015 and 2025—prioritizing randomized trials, meta-analyses, high-quality observational cohorts, and major guidelines—highlighting MCE as a distinct clinical entity within the LCIS spectrum. Current neurocritical care recommendations advocate for structured surveillance, timely osmotherapy, and early consideration of decompressive hemicraniectomy (DHC), particularly in carefully selected patients. Although recent large-core EVT trials suggest functional benefits in specific subgroups, data on the effectiveness of these interventions in managing MCE remain limited, with gaps in risk stratification and optimal timing for surgical decompression. Moreover, no uniform criteria exist for DHC in post-EVT MCE, emphasizing the need for prospective randomized studies. Future directions include the development of predictive models and the integration of multimodal monitoring technologies to refine clinical decision-making.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41986793",
+    "authors": [
+      {
+        "name": "Hui-Ling Qu",
+        "affiliation": "Department of Neurology, The General Hospital of Northern Theater Command, Shenyang, China."
+      },
+      {
+        "name": "Xiao-Yu Sun",
+        "affiliation": "Department of Neurology, The General Hospital of Northern Theater Command, Shenyang, China."
+      },
+      {
+        "name": "Xi-Meng Xu",
+        "affiliation": "Department of Neurosurgery, The General Hospital of Northern Theater Command, Shenyang, 110016, China."
+      },
+      {
+        "name": "Xiao-Bin Zhang",
+        "affiliation": "Department of Neurosurgery, The General Hospital of Northern Theater Command, Shenyang, 110016, China. binbin_0622@126.com."
+      }
+    ],
+    "journal": "Neurocritical care",
+    "publishedDate": "2026-07-14",
+    "fetchedDate": "2026-07-15",
+    "category": "Neurologia",
+    "tags": [
+      "stroke"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-41943484",
     "pmid": "41943484",
     "doi": "10.1080/21645515.2026.2650946",
@@ -210,7 +251,7 @@
       "alzheimer",
       "clinical trial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -3705,6 +3746,51 @@
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
+  },
+  {
+    "id": "pubmed-42053343",
+    "pmid": "42053343",
+    "doi": "10.1080/21645515.2026.2664323",
+    "title": "Safety of COVID-19 and influenza vaccines in children and adolescents with immunocompromised or autoimmune conditions: Findings from the Canadian National Vaccine Safety (CANVAS) network.",
+    "titlePt": "Safety of COVID-19 and influenza vaccines in children and adolescents with immunocompromised or autoimmune conditions: Findings from the Canadian National Vaccine Safety (CANVAS) network.",
+    "abstract": "Safety data on COVID-19 and influenza vaccination in immunocompromised and/or autoimmune pediatric populations remains limited. This study evaluated post-vaccination health events in this vulnerable population using active surveillance data from the Canadian National Vaccine Safety (CANVAS) Network. A prospective cohort of participants aged 6&#x2009;months to 19&#x2009;y, who self-identified with an autoimmune and/or immunocompromised condition, were followed across several Canadian provinces (2023-2025). Participants were vaccinated with COVID-19 only, seasonal influenza vaccine only, or had both vaccines co-administered and reported new or worsening health events within 7 d post-vaccination; unvaccinated participants reported new or worsening events in the prior week. Health events were defined as events resulting in school/daycare absenteeism, prevention of daily activities, or requiring medical consultation. Symptoms were collected in a structured survey. Associations between vacci",
+    "journalisticSummary": "**Versão em português brasileiro:**\n\nUm estudo prospectivo conduzido pelo *Canadian National Vaccine Safety (CANVAS) Network* avaliou a segurança de vacinas contra COVID-19 e influenza em crianças e adolescentes com condições autoimunes ou imunocomprometidas, uma população historicamente sub-representada em ensaios clínicos. Publicado recentemente no *PubMed* (DOI: 10.1080/21645515.2026.2664323), o trabalho analisou dados de vigilância ativa de 2023 a 2025, abrangendo participantes de 6 meses a 19 anos de idade em várias províncias canadenses.\n\nOs resultados indicam que eventos adversos pós-vacinação — definidos como ausências escolares, impacto em atividades diárias ou necessidade de consulta médica — foram relatados em proporções semelhantes entre vacinados e não vacinados, sugerindo um perfil de segurança aceitável para ambos os imunizantes. A coadministração das vacinas não demonstrou aumento significativo na frequência de eventos adversos em comparação com a administração isolada. No entanto, o estudo não detalha a incidência específica de eventos graves ou reações raras, como miocardite ou reações alérgicas severas, limitando a generalização dos achados para desfechos mais críticos.\n\nEmbora os dados reforcem a segurança relativa dessas vacinas em populações pediátricas vulneráveis, os autores destacam a necessidade de pesquisas futuras com amostras maiores e acompanhamento prolongado para avaliar desfechos a longo prazo e raros eventos adversos. Além disso, a ausência de dados sobre a eficácia imunológica nessas populações impede conclusões sobre o equilíbrio entre risco e benefício. Esses achados são essenciais para orientar políticas públicas de imunização em grupos de alto risco, especialmente em contextos de circulação simultânea de patógenos respiratórios.\n\n---\n\n**English version:**\n\nA prospective study by the *Canadian National Vaccine Safety (CANVAS) Network* assessed the safety of COVID-19 and influenza vaccines in children and adolescents with autoimmune or immunocompromised conditions—a population historically underrepresented in clinical trials. Published in *PubMed* (DOI: 10.1080/21645515.2026.2664323), the research analyzed active surveillance data from 2023 to 2025, covering participants aged 6 months to 19 years across multiple Canadian provinces.\n\nFindings indicate that post-vaccination adverse events—defined as school absenteeism, disruption of daily activities, or medical consultations—were reported at similar rates among vaccinated and unvaccinated individuals, suggesting an acceptable safety profile for both vaccines. Co-administration did not show a significant increase in adverse events compared to single-dose administration. However, the study does not provide specific incidence data on severe or rare reactions, such as myocarditis or anaphylaxis, limiting the ability to generalize these findings to critical outcomes.\n\nWhile the data support the relative safety of these vaccines in vulnerable pediatric populations, the authors emphasize the need for future research with larger sample sizes and extended follow-up to evaluate long-term and rare adverse events. Additionally, the lack of data on immunogenicity in these groups prevents conclusions about the risk-benefit balance. These findings are crucial for guiding public immunization policies in high-risk populations, particularly in settings with simultaneous circulation of respiratory pathogens.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42053343",
+    "authors": [
+      {
+        "name": "Cailey Turner",
+        "affiliation": "Department of Pediatrics, University of Calgary, Calgary, Alberta, Canada."
+      },
+      {
+        "name": "Otto G Vanderkooi",
+        "affiliation": "Department of Pediatrics, University of Calgary, Calgary, Alberta, Canada."
+      },
+      {
+        "name": "James D Kellner",
+        "affiliation": "Department of Pediatrics, University of Calgary, Calgary, Alberta, Canada."
+      },
+      {
+        "name": "Hennady P Shulha",
+        "affiliation": "Vaccine Evaluation Center, BC Children's Hospital Research Institute, Vancouver, British Columbia, Canada."
+      }
+    ],
+    "journal": "Human vaccines &amp; immunotherapeutics",
+    "publishedDate": "2026-06-22",
+    "fetchedDate": "2026-07-15",
+    "category": "Imunologia",
+    "tags": [
+      "covid",
+      "pediatric",
+      "children",
+      "immune",
+      "autoimmune"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
   },
   {
     "id": "pubmed-42329247",
@@ -12627,90 +12713,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42054676",
-    "pmid": "42054676",
-    "doi": "10.2196/91037",
-    "title": "Vitamin C Supplementation in Hospitalized Patients With Community-Acquired Pneumonia: Protocol for a Randomized Controlled Trial.",
-    "titlePt": "Vitamin C Supplementation in Hospitalized Patients With Community-Acquired Pneumonia: Protocol for a Randomized Controlled Trial.",
-    "abstract": "Community-acquired pneumonia (CAP) remains a leading cause of hospitalization, morbidity, and mortality worldwide, particularly among older adults with multimorbidity and frailty. Despite advances in antimicrobial therapy, clinical outcomes have improved little, highlighting the need for safe, inexpensive adjunctive treatments. Vitamin C plays a critical role in immune function, redox homeostasis, and endothelial integrity, all disrupted during acute infection. Hypovitaminosis C is common in hospitalized patients with CAP and has been associated with increased disease severity, longer length of stay (LOS), and worse outcomes. However, prior randomized trials of vitamin C have produced inconsistent results, often focusing on critically ill patients with sepsis, using short treatment durations, and discontinuing therapy abruptly. The Vitamin C in Community-Acquired Pneumonia (VitCAP) trial aims to evaluate whether high-dose oral vitamin C administered over an extended period improves cli",
-    "journalisticSummary": "A pneumonia adquirida na comunidade (PAC) continua sendo uma das principais causas de hospitalização, morbidade e mortalidade em todo o mundo, especialmente entre adultos mais velhos com multimorbidade e fragilidade. Apesar dos avanços na terapia antimicrobiana, os resultados clínicos melhoraram pouco, destacando a necessidade de tratamentos adjuntos seguros e acessíveis. A vitamina C desempenha um papel crítico na função imunológica, homeostase redox e integridade endotelial, todos disruptados durante a infecção aguda. A hipovitaminose C é comum em pacientes hospitalizados com PAC e tem sido associada a uma maior gravidade da doença, maior tempo de internação e piores resultados. No entanto, ensaios clínicos randomizados anteriores com vitamina C produziram resultados inconsistentes, muitas vezes se concentrando em pacientes criticamente doentes com sepse, usando durações de tratamento curto e descontinuando a terapia abruptamente. O estudo Vitamina C na Pneumonia Adquirida na Comunidade (VitCAP) tem como objetivo avaliar se a vitamina C em alta dosagem, administrada por via oral durante um período prolongado, melhora os resultados clínicos em pacientes hospitalizados com PAC. Os achados principais deste estudo ainda não foram divulgados, pois o artigo apresentado é um protocolo de estudo. O impacto clínico potencial dessa pesquisa é significativo, pois pode oferecer uma abordagem terapêutica adjuvante simples e acessível para melhorar os resultados em pacientes com PAC. No entanto, é importante aguardar os resultados do estudo para entender melhor os efeitos da suplementação de vitamina C nesses pacientes.\n\nA pneumonia adquirida na comunidade permanece como uma das principais causas de hospitalização, morbidade e mortalidade em todo o mundo, especialmente entre adultos mais velhos com multimorbidade e fragilidade. Apesar dos avanços na terapia antimicrobiana, os resultados clínicos melhoraram pouco, destacando a necessidade de tratamentos adjuntos seguros e acessíveis. A vitamina C desempenha um papel crítico na função imunológica, homeostase redox e integridade endotelial, todos disruptados durante a infecção aguda. A hipovitaminose C é comum em pacientes hospitalizados com PAC e tem sido associada a uma maior gravidade da doença, maior tempo de internação e piores resultados. No entanto, ensaios clínicos randomizados anteriores com vitamina C produziram resultados inconsistentes, muitas vezes se concentrando em pacientes criticamente doentes com sepse, usando durações de tratamento curto e descontinuando a terapia abruptamente. O estudo Vitamina C na Pneumonia Adquirida na Comunidade (VitCAP) tem como objetivo avaliar se a vitamina C em alta dosagem, administrada por via oral durante um período prolongado, melhora os resultados clínicos em pacientes hospitalizados com PAC. \n\nCommunity-acquired pneumonia (CAP) remains a leading cause of hospitalization, morbidity, and mortality worldwide, particularly among older adults with multimorbidity and frailty. Despite advances in antimicrobial therapy, clinical outcomes have improved little, highlighting the need for safe, inexpensive adjunctive treatments. Vitamin C plays a critical role in immune function, redox homeostasis, and endothelial integrity, all disrupted during acute infection. Hypovitaminosis C is common in hospitalized patients with CAP and has been associated with increased disease severity, longer length of stay (LOS), and worse outcomes. However, prior randomized trials of vitamin C have produced inconsistent results, often focusing on critically ill patients with sepsis, using short treatment durations, and discontinuing therapy abruptly. The Vitamin C in Community-Acquired Pneumonia (VitCAP) trial aims to evaluate whether high-dose oral vitamin C administered over an extended period improves clinical outcomes in hospitalized patients with CAP. The main findings of this study have not been released yet, as the presented article is a study protocol. The potential clinical impact of this research is significant, as it may offer a simple and accessible therapeutic approach to improve outcomes in patients with CAP. However, it is essential to wait for the study results to better understand the effects of vitamin C supplementation in these patients. The limitations of the study include the fact that the results have not been published yet, and therefore, it is not possible to draw conclusions about the effectiveness of vitamin C supplementation in patients with CAP. The next steps will be to await the publication of the study results and to evaluate the findings in the context of the current literature on vitamin C supplementation in patients with CAP.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42054676",
-    "authors": [
-      {
-        "name": "Yogesh Sharma",
-        "affiliation": "College of Medicine &amp; Public Health, Flinders University, Adelaide, SA, Australia."
-      },
-      {
-        "name": "Arduino A Mangoni",
-        "affiliation": "Department of Acute and General Medicine, Flinders Medical Centre, Adelaide, SA, Australia."
-      },
-      {
-        "name": "Richard Woodman",
-        "affiliation": "College of Medicine &amp; Public Health, Flinders University, Adelaide, SA, Australia."
-      },
-      {
-        "name": "Huah Shin Ng",
-        "affiliation": "College of Medicine &amp; Public Health, Flinders University, Adelaide, SA, Australia."
-      }
-    ],
-    "journal": "JMIR research protocols",
-    "publishedDate": "2026-04-29",
-    "fetchedDate": "2026-04-30",
-    "category": "Infectologia",
-    "tags": [
-      "infection",
-      "sepsis",
-      "antimicrobial",
-      "immune"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41405280",
-    "pmid": "41405280",
-    "doi": "10.1097/MED.0000000000000949",
-    "title": "Beyond weight loss: tirzepatide as a dual GIP/GLP-1 receptor agonist for obstructive sleep apnea.",
-    "titlePt": "Beyond weight loss: tirzepatide as a dual GIP/GLP-1 receptor agonist for obstructive sleep apnea.",
-    "abstract": "This review summarizes emerging evidence on the use of the dual glucose-dependent insulinotropic polypeptide (GIP)/glucagon-like peptide-1 (GLP-1) receptor agonist (RA) tirzepatide in improving obstructive sleep apnea (OSA) outcomes in individuals with obesity. Tirzepatide has demonstrated significant reductions in apnea-hypopnea index (AHI) among patients with OSA and coexisting obesity. It has recently become the first medication approved by the U.S. Food and Drug Administration (FDA) specifically for moderate-to-severe OSA in adults with obesity. In addition to weight loss, tirzepatide has been associated with reduced cardiovascular, hepatic, and renal events, suggesting broader systemic benefits. As a dual GIP/GLP-1 RA, tirzepatide represents a promising therapy for OSA in individuals with obesity, offering benefits of both weight reduction and symptom improvement. Given the high burden and underdiagnosis of OSA, particularly in populations with obesity, it should be considered ear",
-    "journalisticSummary": "A recente aprovação da tirzepatida pela FDA para o tratamento de apneia obstrutiva do sono (AOS) moderada a grave em adultos com obesidade marca um importante avanço na abordagem terapêutica dessa condi��ão. A tirzepatida, um agonista dual do receptor de polipeptídeo insulinotrópico dependente de glicose (GIP) e do receptor de glucagon-like peptide-1 (GLP-1), tem demonstrado reduções significativas no índice de apneia-hipopneia (AHI) em pacientes com AOS e obesidade coexistente. Além da perda de peso, a tirzepatida também tem sido associada a reduções em eventos cardiovasculares, hepáticos e renais, sugerindo benefícios sistêmicos mais amplos. Como um agonista dual GIP/GLP-1, a tirzepatida representa uma terapia promissora para a AOS em indivíduos com obesidade, oferecendo benefícios tanto de redução de peso quanto de melhoria dos sintomas. Dada a alta carga e subdiagnóstico da AOS, particularmente em populações com obesidade, a consideração da tirzepatida como uma opção terapêutica é fundamental. No entanto, é importante notar que a eficácia a longo prazo e os efeitos colaterais potenciais da tirzepatida ainda precisam ser mais amplamente estudados.\n\nA recent approval of tirzepatide by the FDA for the treatment of moderate-to-severe obstructive sleep apnea (OSA) in adults with obesity marks a significant advancement in the therapeutic approach to this condition. Tirzepatide, a dual glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist, has demonstrated significant reductions in apnea-hypopnea index (AHI) among patients with OSA and coexisting obesity. In addition to weight loss, tirzepatide has also been associated with reduced cardiovascular, hepatic, and renal events, suggesting broader systemic benefits. As a dual GIP/GLP-1 receptor agonist, tirzepatide represents a promising therapy for OSA in individuals with obesity, offering benefits of both weight reduction and symptom improvement. Given the high burden and underdiagnosis of OSA, particularly in populations with obesity, consideration of tirzepatide as a therapeutic option is essential. However, it is crucial to note that the long-term efficacy and potential side effects of tirzepatide still need to be more extensively studied.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41405280",
-    "authors": [
-      {
-        "name": "Jairo A Nore&#xf1;a",
-        "affiliation": "Alameda Health System, Oakland, CA."
-      },
-      {
-        "name": "Tugce Akcan",
-        "affiliation": "&#xa0;Division of Endocrinology, Gerontology and Metabolism, Department of Medicine, Stanford University, Stanford, California, USA."
-      },
-      {
-        "name": "Dimpi Desai",
-        "affiliation": "&#xa0;Division of Endocrinology, Gerontology and Metabolism, Department of Medicine, Stanford University, Stanford, California, USA."
-      }
-    ],
-    "journal": "Current opinion in endocrinology, diabetes, and obesity",
-    "publishedDate": "2026-04-29",
-    "fetchedDate": "2026-04-29",
-    "category": "Endocrinologia",
-    "tags": [
-      "cardiovascular",
-      "drug",
-      "insulin",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
