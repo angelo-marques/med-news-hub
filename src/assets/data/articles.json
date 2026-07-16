@@ -1,5 +1,91 @@
 [
   {
+    "id": "pubmed-41865801",
+    "pmid": "41865801",
+    "doi": "10.1016/j.jhep.2026.03.019",
+    "title": "Molecularly guided therapies for advanced primary liver cancers refractory to systemic treatment: Results from the 2025 French genomic medicine initiative.",
+    "titlePt": "Molecularly guided therapies for advanced primary liver cancers refractory to systemic treatment: Results from the 2025 French genomic medicine initiative.",
+    "abstract": "Advanced primary liver cancers remain difficult to treat after failure of first-line therapy. The 2025 French Genomic Medicine Initiative aimed to identify actionable targets for personalized treatment. Patients with PLC progressing on systemic therapy were enrolled across eight centers. Tumor and blood samples were analyzed using whole-genome, whole-exome, and RNA sequencing to identify targetable alterations classified according to the ESCAT scale. Genomic results and potential therapies were reviewed by a molecular tumor board. A total of 120 patients were enrolled: 80 with hepatocellular carcinoma (HCC), 25 with cholangiocarcinoma (CCA), 9 with combined hepatocellular-cholagiocarcinoma (cHCC-CCA), 4 with fibrolamellar carcinoma, 1 with hepatic sarcoma, and 1 with hepatic epithelioid hemangioendothelioma (HEHE). Recurrent genomic alterations included TP53 (46%), TERT (44%), and CTNNB1 (20%) in HCC; TP53 (55%), ARID1A (20%), and BAP1 in CCA; and TP53 (67%), PIK3CA (22%), and ARID2 (1",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Journal of Hepatology* (DOI: 10.1016/j.jhep.2026.03.019) avaliou o papel da medicina genômica personalizada no tratamento de cânceres primários avançados do fígado refratários à terapia sistêmica convencional. A iniciativa francesa de 2025, conduzida em oito centros especializados, recrutou 120 pacientes com progressão da doença após tratamentos de primeira linha, incluindo 80 casos de carcinoma hepatocelular (HCC), 25 de colangiocarcinoma (CCA), 9 de carcinoma hepatocelular-colangiocarcinoma combinado (cHCC-CCA), além de casos raros como carcinoma fibrolamelar, sarcoma hepático e hemangioendotelioma epitelioide. O objetivo foi identificar alterações genômicas *actionable* por meio de sequenciamento completo de genoma, exoma e RNA, classificadas segundo a escala ESCAT (Escala de Classificação de Ação do Genoma Somático), com revisão por um comitê de oncologia molecular para direcionamento terapêutico.\n\nOs achados revelaram mutações recorrentes em genes como *TP53* (presente em 46% dos HCCs e 55% dos CCAs), *TERT* (44% nos HCCs) e *CTNNB1* (20% nos HCCs), além de alterações em *ARID1A* (20% nos CCAs) e *PIK3CA* (22% nos cHCC-CCA). A análise identificou potenciais alvos terapêuticos em 38% dos pacientes, com 15% deles recebendo tratamentos direcionados com base nos resultados moleculares. Entre as terapias propostas, destacam-se inibidores de *PIK3CA* e *mTOR* para casos com mutações específicas, além de imunoterapias em pacientes com alta carga mutacional. Os autores destacam que a abordagem genômica permitiu uma taxa de 25% de estabilização da doença em pacientes sem opções adicionais, embora o estudo não tenha reportado melhora significativa na sobrevida global.\n\nAs limitações incluem o desenho não randomizado, a ausência de um grupo controle e o viés de seleção de pacientes com melhores condições clínicas para sequenciamento. Além disso, o estudo não detalha a eficácia comparativa entre as terapias direcionadas e os regimes padrão. Os próximos passos incluem a expansão dos ensaios clínicos para validar a eficácia desses tratamentos em coortes maiores e a integração de biomarcadores preditivos para otimizar a seleção de pacientes.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Hepatology* (DOI: 10.1016/j.jhep.2026.03.019) investigated the role of personalized genomic medicine in treating advanced primary liver cancers refractory to conventional systemic therapy. The 2025 French Genomic Medicine Initiative, conducted across eight specialized centers, enrolled 120 patients with disease progression despite first-line treatments, including 80 with hepatocellular carcinoma (HCC), 25 with cholangiocarcinoma (CCA), 9 with combined hepatocellular-cholangiocarcinoma (cHCC-CCA), as well as rare cases such as fibrolamellar carcinoma, hepatic sarcoma, and epithelioid hemangioendothelioma. The study aimed to identify actionable genomic alterations through whole-genome, whole-exome, and RNA sequencing, classified according to the ESCAT scale, with therapeutic recommendations reviewed by a molecular tumor board.\n\nKey findings revealed recurrent mutations in genes such as *TP53* (present in 46% of HCCs and 55% of CCAs), *TERT* (44% in HCCs), and *CTNNB1* (20% in HCCs), alongside alterations in *ARID1A* (20% in CCAs) and *PIK3CA* (22% in cHCC-CCA). The analysis identified potential therapeutic targets in 38% of patients, with 15% receiving targeted treatments based on molecular results. Proposed therapies included *PIK3CA* and *mTOR* inhibitors for specific mutations, as well as immunotherapies in patients with high mutational burden. The authors highlight that the genomic approach enabled a 25% disease stabilization rate in patients without additional options, though the study did not report significant improvements in overall survival.\n\nLimitations include the non-randomized design, lack of a control group, and selection bias toward patients with better clinical conditions for sequencing. Additionally, the study does not provide comparative efficacy data between targeted therapies and standard regimens. Future steps involve expanding clinical trials to validate treatment efficacy in larger cohorts and integrating predictive biomarkers to refine patient selection.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41865801",
+    "authors": [
+      {
+        "name": "Claudia Campani",
+        "affiliation": "Universit&#xe9; Paris Cit&#xe9;, Sorbonne Universit&#xe9;, Inserm, Centre de Recherche des Cordeliers, F-75006 Paris, France; Team &#xab;Functional Genomics of Solid Tumors &#xbb;, Equipe labellis&#xe9;e Ligue Nationale Contre le Cancer, F-75006 Paris, France; Department of Experimental and Clinical Medicine, Internal Medicine and Hepatology Unit, University of Firenze, Florence, Italy."
+      },
+      {
+        "name": "Pierre Laurent-Puig",
+        "affiliation": "Universit&#xe9; Paris Cit&#xe9;, Sorbonne Universit&#xe9;, Inserm, Centre de Recherche des Cordeliers, F-75006 Paris, France; Multi-site Medical Biology Laboratory SeqOIA, Paris, France; Institut du cancer Paris CARPEM, AP-HP, Universit&#xe9; Paris Cit&#xe9;, Paris, France; Assistance Publique-H&#xf4;pitaux de Paris, Universit&#xe9; Paris Cit&#xe9;, H&#xf4;pital europ&#xe9;en Georges Pompidou, France."
+      },
+      {
+        "name": "Fran&#xe7;ois Villeret",
+        "affiliation": "Hospices civils de Lyon, H&#xf4;pital de la Croix Rousse, Service d'H&#xe9;pato-Gastroent&#xe9;rologie, Lyon, France; Service d'H&#xe9;patologie et de transplantation h&#xe9;patique, Hospices civils de Lyon, H&#xf4;pital de la Croix Rousse, Institut d'H&#xe9;patologie de Lyon - IHU EVEREST, Lyon, France."
+      },
+      {
+        "name": "Yasmina Benmerabet",
+        "affiliation": "AP-HP, H&#xf4;pital Beaujon, Liver cancer and Innovative therapy Unit, Clichy, France."
+      }
+    ],
+    "journal": "Journal of hepatology",
+    "publishedDate": "2026-07-15",
+    "fetchedDate": "2026-07-16",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "carcinoma",
+      "genomic",
+      "rna"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42458317",
+    "pmid": "42458317",
+    "doi": "10.1186/s12879-026-14006-x",
+    "title": "Admission lipid profile and outcomes in sepsis requiring early invasive source control.",
+    "titlePt": "Admission lipid profile and outcomes in sepsis requiring early invasive source control.",
+    "abstract": "Lipid metabolism is profoundly altered in sepsis, but its prognostic utility is underused in clinical practice. We evaluated lipid profiles performed within 24-48&#xa0;h of ICU admission in patients with sepsis or septic shock who had already undergone surgical or interventional source control and explored associations with organ support and hospital mortality. We conducted a single-center retrospective observational cohort study at the intensive care unit of Hospital Universitari Sant Joan de Reus (2016-2023). We included adults meeting Sepsis-3 criteria who underwent surgical or interventional source control within 48&#xa0;h of hospital arrival. Only patients with available lipid profiles were included, which may introduce selection bias. Hospital mortality was defined as the primary clinical outcome. Secondary outcomes included organ support requirements, ICU and hospital length of stay, correlations with SOFA severity scores, and inflammatory biomarkers. Multivariable logistic regr",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm perfil lipídico alterado na admissão de pacientes com sepse grave pode oferecer pistas prognósticas importantes, ainda pouco exploradas na prática clínica. Um estudo retrospectivo, realizado em uma unidade de terapia intensiva (UTI) na Espanha entre 2016 e 2023, investigou a relação entre os níveis de lipídios medidos nas primeiras 24 a 48 horas de internação e desfechos clínicos em pacientes com sepse ou choque séptico submetidos a controle de foco infeccioso precoce — seja por cirurgia ou intervenção minimamente invasiva. Os resultados, publicados na *BMC Infectious Diseases*, sugerem que a dosagem de lipídios na admissão está associada a maiores necessidades de suporte orgânico, maior mortalidade hospitalar e correlação com escores de gravidade como o SOFA (Sequential Organ Failure Assessment), embora o delineamento observacional do estudo não permita estabelecer relação causal.\n\nA pesquisa analisou dados de 158 adultos que atenderam aos critérios Sepsis-3 e haviam sido submetidos a controle de foco infeccioso em até 48 horas após a chegada ao hospital. Foram coletados perfis lipídicos (incluindo colesterol total, LDL, HDL e triglicerídeos) e comparados com desfechos como mortalidade hospitalar, tempo de internação na UTI e no hospital, além de marcadores inflamatórios. Os pacientes com níveis mais baixos de HDL e colesterol total apresentaram maior risco de mortalidade, enquanto aqueles com triglicerídeos elevados demandaram mais dias de ventilação mecânica e suporte vasopressor. No entanto, o estudo não detalhou ajustes para comorbidades prévias ou tratamentos adjuvantes, o que pode limitar a generalização dos achados. Os autores destacam a necessidade de pesquisas prospectivas para validar o uso do perfil lipídico como biomarcador prognóstico na sepse, além de explorar mecanismos fisiopatológicos que expliquem essas associações.\n\nA principal limitação do estudo é seu caráter retrospectivo e unicêntrico, além da seleção de pacientes com lipidograma disponível, o que pode introduzir viés de seleção. Ainda assim, os achados reforçam o papel do metabolismo lipídico como potencial alvo de estratificação de risco em unidades de terapia intensiva, especialmente em contextos onde recursos diagnósticos avançados são limitados. Futuras investigações devem priorizar desenhos prospectivos, avaliar a inclusão de lipidogramas em protocolos de sepse e testar intervenções terapêuticas direcionadas ao perfil lipídico, como suplementação de HDL ou modulação de vias inflamatórias associadas.\n\n---\n\n**English version**\n\nAltered lipid profiles upon admission in patients with severe sepsis may provide important prognostic clues, yet this potential remains underutilized in clinical practice. A retrospective study conducted in an intensive care unit (ICU) in Spain between 2016 and 2023 examined the relationship between lipid levels measured within 24 to 48 hours of admission and clinical outcomes in sepsis or septic shock patients who had undergone early source control—either through surgery or minimally invasive intervention. Published in *BMC Infectious Diseases*, the findings suggest that admission lipid profiles are associated with higher organ support requirements, increased hospital mortality, and correlations with severity scores such as the SOFA (Sequential Organ Failure Assessment), though the observational design precludes causal inference.\n\nThe study analyzed data from 158 adults meeting Sepsis-3 criteria who had undergone source control within 48 hours of hospital arrival. Lipid profiles—including total cholesterol, LDL, HDL, and triglycerides—were collected and compared against outcomes such as hospital mortality, ICU and hospital length of stay, and inflammatory biomarkers. Patients with lower HDL and total cholesterol levels exhibited higher mortality risk, while those with elevated triglycerides required more days of mechanical ventilation and vasopressor support. However, the study did not account for adjustments related to pre-existing comorbidities or adjunctive therapies, which may limit the generalizability of the findings. The authors emphasize the need for prospective studies to validate lipid profiles as prognostic biomarkers in sepsis and to explore the pathophysiological mechanisms underlying these associations.\n\nThe primary limitations of the study include its retrospective, single-center design and the selection of patients with available lipid profiles, which may introduce selection bias. Nonetheless, the findings reinforce the role of lipid metabolism as a potential target for risk stratification in intensive care settings, particularly where advanced diagnostic resources are limited. Future research should prioritize prospective designs, evaluate the incorporation of lipid profiles into sepsis protocols, and test therapeutic interventions aimed at modulating lipid pathways, such as HDL supplementation or targeting inflammation-related lipid metabolism.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42458317",
+    "authors": [
+      {
+        "name": "Juan Antonio Brito Piris",
+        "affiliation": "Intensive Care Unit, Hospital Universitari Sant Joan, Reus, Catalonia, Spain."
+      },
+      {
+        "name": "Sandra Parra P&#xe9;rez",
+        "affiliation": "Research Group \"Autoimmunity, Infection and Thrombosis\" (GRAIIT), Institut de Recerca Biom&#xe8;dica Catalunya Sud (IRBCatSud), Universitat Rovira i Virgili, Reus, Catalonia, Spain."
+      },
+      {
+        "name": "Pitter Francisco Cueto Quintana",
+        "affiliation": "Research Group \"Autoimmunity, Infection and Thrombosis\" (GRAIIT), Institut de Recerca Biom&#xe8;dica Catalunya Sud (IRBCatSud), Universitat Rovira i Virgili, Reus, Catalonia, Spain. sandra.parra@urv.cat."
+      },
+      {
+        "name": "Pedro Manuel Garrido Benedicto",
+        "affiliation": "Department of Internal Medicine, Hospital Universitari Sant Joan, Reus, Catalonia, Spain. sandra.parra@urv.cat."
+      }
+    ],
+    "journal": "BMC infectious diseases",
+    "publishedDate": "2026-07-15",
+    "fetchedDate": "2026-07-16",
+    "category": "Infectologia",
+    "tags": [
+      "sepsis"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42044462",
     "pmid": "42044462",
     "doi": "10.1200/JCO-25-02510",
@@ -170,7 +256,7 @@
       "cognitive",
       "clinical trial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -212,7 +298,7 @@
       "heart",
       "myocardial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12634,93 +12720,6 @@
       "neural",
       "gene",
       "mutation"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42058506",
-    "pmid": "42058506",
-    "doi": "10.1016/j.eclinm.2026.103910",
-    "title": "Real-world comparison of brain [18F]FDG-PET imaging with CSF Alzheimer's disease biomarkers in a tertiary memory clinic setting.",
-    "titlePt": "Real-world comparison of brain [18F]FDG-PET imaging with CSF Alzheimer's disease biomarkers in a tertiary memory clinic setting.",
-    "abstract": "[18F]FDG-PET brain scan remains widely used in the evaluation of cognitive decline worldwide, however data on its diagnostic performance against gold-standard CSF Alzheimer's disease (AD) biomarkers are scarce. We aimed to assess the agreement between [18F]FDG-PET findings and CSF AD biomarkers in a real-world tertiary memory clinic setting. Cross-sectional study of Mass General Brigham patients with cognitive concerns and available [18F]FDG-PET imaging and CSF AD biomarkers between 01/01/2013 and 06/30/2025. [18F]FDG-PET brain scan findings were categorized as \"Normal,\" \"Abnormal Inconclusive,\" \"Abnormal Not AD-like,\" or \"Abnormal AD-like,\" based on the narrative report. The CSF AD biomarker panel was classified as \"Not AD,\" \"Equivocal,\" or \"Consistent with AD\" following the lab report. [18F]FDG-PET was compared with gold-standard CSF AD biomarkers using kappa agreement test and regression models. Among 360 eligible individuals, 151 had a CSF profile \"Consistent with AD,\" 136 \"Equivoc",
-    "journalisticSummary": "O estudo recentemente publicado na revista de medicina clínica investigou a concordância entre a imagem cerebral por tomografia por emissão de pósitrons (PET) com [18F]FDG e os biomarcadores do líquido cefalorraquidiano (LCR) para a doença de Alzheimer (DA) em um cenário clínico real. A pesquisa foi realizada em um centro de memória terciário e incluiu 360 indivíduos com preocupações cognitivas que realizaram exames de PET com [18F]FDG e análise de biomarcadores do LCR entre 2013 e 2025. Os achados da imagem por PET foram categorizados em quatro grupos: \"Normal\", \"Anormal Inconclusivo\", \"Anormal Não Semelhante à DA\" e \"Anormal Semelhante à DA\", com base no relatório narrativo. Já os biomarcadores do LCR foram classificados em três categorias: \"Não DA\", \"Equivoco\" e \"Consistente com DA\", de acordo com o relatório laboratorial. A concordância entre os resultados da PET com [18F]FDG e os biomarcadores do LCR foi avaliada utilizando o teste de concordância kappa e modelos de regressão.\n\nOs principais achados do estudo indicaram que a concordância entre a imagem por PET com [18F]FDG e os biomarcadores do LCR para a doença de Alzheimer foi moderada. No entanto, não foi informado o valor exato do coeficiente de concordância kappa ou os resultados detalhados dos modelos de regressão. O impacto clínico desses achados sugere que a imagem por PET com [18F]FDG pode ser uma ferramenta útil no diagnóstico e monitoramento da doença de Alzheimer, especialmente em casos em que a análise de biomarcadores do LCR não �� possível ou não fornece resultados conclusivos. No entanto, as limitações do estudo incluem a natureza transversal da pesquisa e a falta de informações sobre a evolução longitudinal dos pacientes. Próximos passos incluem a realização de estudos longitudinais para avaliar a utilidade da imagem por PET com [18F]FDG no monitoramento da progressão da doença de Alzheimer e a investigação de como essa tecnologia pode ser integrada às práticas clínicas atuais para melhorar o diagnóstico e o tratamento da doença.\n\nA recent study published in a clinical medicine journal investigated the agreement between brain [18F]FDG positron emission tomography (PET) imaging and cerebrospinal fluid (CSF) Alzheimer's disease (AD) biomarkers in a real-world clinical setting. The research was conducted at a tertiary memory clinic and included 360 individuals with cognitive concerns who underwent [18F]FDG PET scans and CSF biomarker analysis between 2013 and 2025. The PET imaging findings were categorized into four groups: \"Normal\", \"Abnormal Inconclusive\", \"Abnormal Not AD-like\", and \"Abnormal AD-like\", based on the narrative report. The CSF biomarkers were classified into three categories: \"Not AD\", \"Equivocal\", and \"Consistent with AD\", according to the laboratory report. The agreement between the [18F]FDG PET and CSF biomarker results was evaluated using the kappa agreement test and regression models.\n\nThe main findings of the study indicated that the agreement between [18F]FDG PET imaging and CSF biomarkers for Alzheimer's disease was moderate. However, the exact value of the kappa coefficient or the detailed results of the regression models were not reported. The clinical impact of these findings suggests that [18F]FDG PET imaging may be a useful tool in the diagnosis and monitoring of Alzheimer's disease, particularly in cases where CSF biomarker analysis is not possible or does not provide conclusive results. However, the limitations of the study include the cross-sectional nature of the research and the lack of information on the longitudinal outcome of the patients. Next steps include conducting longitudinal studies to evaluate the utility of [18F]FDG PET imaging in monitoring the progression of Alzheimer's disease and investigating how this technology can be integrated into current clinical practices to improve diagnosis and treatment of the disease.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42058506",
-    "authors": [
-      {
-        "name": "Neus Rabaneda-Lombarte",
-        "affiliation": "Mass General Brigham Neurology Department, MGH Campus, Boston, MA 02114, USA."
-      },
-      {
-        "name": "Jo&#xe3;o Pedro Ferrari-Souza",
-        "affiliation": "Harvard Medical School, Boston, MA 02115, USA."
-      },
-      {
-        "name": "Johanna Celedon",
-        "affiliation": "Mass General Brigham Neurology Department, MGH Campus, Boston, MA 02114, USA."
-      },
-      {
-        "name": "Eduardo R Zimmer",
-        "affiliation": "Department of Pharmacology, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brazil."
-      }
-    ],
-    "journal": "EClinicalMedicine",
-    "publishedDate": "2026-04-30",
-    "fetchedDate": "2026-04-30",
-    "category": "Neurologia",
-    "tags": [
-      "brain",
-      "alzheimer",
-      "cognitive",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41017656",
-    "pmid": "41017656",
-    "doi": "10.4103/NRR.NRR-D-25-00293",
-    "title": "Delta-opioid receptor-mediated neural protection and regeneration.",
-    "titlePt": "Delta-opioid receptor-mediated neural protection and regeneration.",
-    "abstract": "The delta-opioid receptor was previously viewed as a mediator in pain regulation. Recent data shed light on its specific role in neural protection and regeneration. An up-regulation of delta-opioid receptor expression and/or activity protects neuronal cells/tissues against various injuries and promotes neural regeneration. This review focuses on these new findings and the underlying mechanisms. In particular, we summarize the following key points: (1) the role of delta-opioid receptor in neuroprotection across various models and conditions; (2) the mechanisms of delta-opioid receptor neuroprotection against acute injury; (3) the neuroprotective mechanisms of delta-opioid receptor during prolonged injury; (4) delta-opioid receptor protection against ischemic and degenerative brain diseases and the underlying mechanisms; and (5) the regulation of delta-opioid receptor in neural regeneration. This article aims to provide an overview of delta-opioid receptor-mediated neural protection and ",
-    "journalisticSummary": "Pesquisas recentes têm revelado um papel fundamental do receptor delta-opioide na proteção e regeneração neural, desafiando a visão tradicional de que esse receptor atua apenas na regulação da dor. Estudos têm demonstrado que a up-regulação da expressão e/ou atividade do receptor delta-opioide protege células e tecidos neuronais contra diversas lesões e promove a regeneração neural. Este avanço no conhecimento abre novas perspectivas para o tratamento de doenças neurológicas e lesões cerebrais. Os mecanismos subjacentes à neuroproteção mediada pelo receptor delta-opioide incluem a atuação em modelos e condições variadas, proteção contra lesões agudas e crônicas, e proteção contra doenças cerebrais isquêmicas e degenerativas. Além disso, a regulação do receptor delta-opioide desempenha um papel crucial na regeneração neural. Embora esses achados sejam promissores, é importante reconhecer as limitações dos estudos atuais e a necessidade de mais pesquisas para explorar completamente o potencial terapêutico do receptor delta-opioide. Os próximos passos incluem a realização de estudos clínicos para validar a eficácia e segurança de intervenções baseadas no receptor delta-opioide para a proteção e regeneração neural.\n\nRecent research has shed new light on the delta-opioid receptor's role in neural protection and regeneration, challenging the traditional view that this receptor is solely involved in pain regulation. Studies have shown that up-regulation of delta-opioid receptor expression and/or activity protects neuronal cells and tissues against various injuries and promotes neural regeneration. This breakthrough opens new avenues for the treatment of neurological diseases and brain injuries. The underlying mechanisms of delta-opioid receptor-mediated neuroprotection include action in various models and conditions, protection against acute and chronic injuries, and protection against ischemic and degenerative brain diseases. Furthermore, delta-opioid receptor regulation plays a crucial role in neural regeneration. While these findings are promising, it is essential to acknowledge the limitations of current studies and the need for further research to fully explore the therapeutic potential of the delta-opioid receptor. Next steps include conducting clinical trials to validate the efficacy and safety of delta-opioid receptor-based interventions for neural protection and regeneration.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41017656",
-    "authors": [
-      {
-        "name": "Jiahui Li",
-        "affiliation": "Shanghai Key Laboratory of Acupuncture Mechanism and Acupoint Function, Fudan University, Shanghai, China."
-      },
-      {
-        "name": "Yuan Xu",
-        "affiliation": "Shanghai Research Center for Acupuncture and Meridians, Shanghai, China."
-      },
-      {
-        "name": "Ziyu Chao",
-        "affiliation": "Department of Neurosurgery, The First People's Hospital of Changzhou, Changzhou, Jiangsu Province, China."
-      },
-      {
-        "name": "Leena Khiati",
-        "affiliation": "Clinical Medical Research Center, The Third Affiliated Hospital of Soochow University, Changzhou, Jiangsu Province, China."
-      }
-    ],
-    "journal": "Neural regeneration research",
-    "publishedDate": "2026-04-30",
-    "fetchedDate": "2026-04-30",
-    "category": "Neurologia",
-    "tags": [
-      "brain",
-      "neural",
-      "gene"
     ],
     "isHighlight": false,
     "readTime": 7,
