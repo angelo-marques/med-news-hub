@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-41436719",
+    "pmid": "41436719",
+    "doi": "10.1007/s11255-025-04959-4",
+    "title": "Acute kidney injury prediction and prognostication using machine learning.",
+    "titlePt": "Acute kidney injury prediction and prognostication using machine learning.",
+    "abstract": "Acute Kidney Injury (AKI) is a major health concern with high costs and poor outcomes, partly due to late diagnosis. This paper reviews the application of artificial intelligence (AI) and machine learning (ML) to overcome these limitations by enabling earlier and more accurate prediction and prognostication of AKI. Many studies on AI and ML models used to predict and prognosticate AKI were included in the review. The focus was on models that analyze complex datasets, including real-time data streams like novel biomarkers and continuous vital signs, to achieve earlier and more accurate predictions than conventional methods. ML models show high predictive accuracy for AKI onset and outcomes across various clinical settings, including intensive care units, sepsis, and postoperative and postcontrast situations, with key findings like the successful integration of real-time data to reflect the evolving nature of kidney injury. AI and ML offer a powerful, proactive solution for AKI managemen",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nA lesão renal aguda (LRA) representa um desafio clínico significativo, associado a altos custos hospitalares, morbidade e mortalidade elevadas, muitas vezes decorrentes de diagnósticos tardios. Um estudo recentemente publicado no *PubMed* (DOI: 10.1007/s11255-025-04959-4) investiga o potencial da inteligência artificial (IA) e do aprendizado de máquina (AM) para transformar a abordagem a essa condição. A revisão sistemática avalia modelos que integram dados complexos — incluindo biomarcadores emergentes e sinais vitais contínuos — para antecipar a ocorrência e evolução da LRA com maior precisão do que os métodos convencionais.\n\nOs achados indicam que algoritmos de AM demonstram alta acurácia na predição do início da LRA e em sua prognosticação, abrangendo cenários como unidades de terapia intensiva, sepse, pós-operatório e exposição a meios de contraste. A capacidade de processar fluxos de dados em tempo real destaca-se como um diferencial, permitindo ajustes dinâmicos às mudanças fisiológicas do paciente. Embora os resultados sejam promissores, a revisão não detalha métricas espec��ficas de desempenho (como AUC ou sensibilidade) nem comparações diretas com escores clínicos tradicionais. Além disso, a aplicabilidade em ambientes com recursos limitados permanece uma questão em aberto.\n\nOs autores sugerem que a IA pode viabilizar uma abordagem proativa, reduzindo atrasos no diagnóstico e otimizando intervenções precoces. No entanto, a validação prospectiva em coortes diversificadas e a integração com fluxos de trabalho clínicos — além de considerações éticas e regulatórias — são etapas críticas antes da adoção generalizada. O estudo reforça a necessidade de pesquisas futuras para padronizar protocolos e avaliar o impacto em desfechos reais, como a redução de mortalidade ou a necessidade de terapia de substituição renal.\n\n---\n\n**English version**\n\nAcute kidney injury (AKI) remains a major clinical challenge, linked to high healthcare costs, substantial morbidity, and mortality—often due to delayed diagnosis. A recent study published in *PubMed* (DOI: 10.1007/s11255-025-04959-4) explores how artificial intelligence (AI) and machine learning (ML) could revolutionize AKI management. The systematic review examines models that analyze complex datasets—including novel biomarkers and continuous vital signs—to predict and prognosticate AKI earlier and more accurately than conventional methods.\n\nThe findings highlight that ML algorithms achieve high predictive accuracy for both AKI onset and outcomes across diverse clinical settings, such as intensive care units, sepsis, postoperative care, and post-contrast exposure. A key strength lies in their ability to process real-time data streams, enabling dynamic adaptation to the evolving nature of kidney injury. However, the review does not specify performance metrics (e.g., AUC or sensitivity) or direct comparisons with traditional clinical scores. Additionally, the feasibility of implementation in resource-limited environments remains uncertain.\n\nThe authors propose that AI-driven tools could enable proactive AKI management by reducing diagnostic delays and optimizing early interventions. Yet, prospective validation in diverse cohorts, seamless integration into clinical workflows, and consideration of ethical and regulatory aspects are essential before widespread adoption. The study underscores the need for future research to standardize protocols and assess real-world impact, such as reductions in mortality or dialysis dependency.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41436719",
+    "authors": [
+      {
+        "name": "Senatore Annalisa",
+        "affiliation": "Department of Translational Medicine and Surgery, Universit&#xe0; Cattolica del Sacro Cuore, 00168, Rome, Italy."
+      },
+      {
+        "name": "Fiorentino Marco",
+        "affiliation": "Nephrology, Dialysis and Transplantation Unit, Fondazione Policlinico Universitario A. Gemelli IRCCS, 00168, Rome, Italy."
+      },
+      {
+        "name": "Bonerba Bibiana",
+        "affiliation": "Nephrology, Dialysis and Transplantation Unit, Department of Precision and Regenerative Medicine and Ionian Area (DiMePRe-J), University of Bari, Bari, Italy."
+      },
+      {
+        "name": "Baldassini Moraes Bruno",
+        "affiliation": "Department of Translational Medicine and Surgery, Universit&#xe0; Cattolica del Sacro Cuore, 00168, Rome, Italy."
+      }
+    ],
+    "journal": "International urology and nephrology",
+    "publishedDate": "2026-07-16",
+    "fetchedDate": "2026-07-16",
+    "category": "Infectologia",
+    "tags": [
+      "sepsis"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-41865801",
     "pmid": "41865801",
     "doi": "10.1016/j.jhep.2026.03.019",
@@ -211,7 +252,7 @@
       "genomic",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12683,46 +12724,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41017705",
-    "pmid": "41017705",
-    "doi": "10.4103/NRR.NRR-D-25-00354",
-    "title": "Structure and function of voltage-gated sodium channel Nav1.6: Involvement in the pathological process of neural injury.",
-    "titlePt": "Structure and function of voltage-gated sodium channel Nav1.6: Involvement in the pathological process of neural injury.",
-    "abstract": "The voltage-gated sodium channel Nav1.6, encoded by the sodium voltage-gated channel alpha subunit 8 gene, is a crucial regulator of neuronal excitability, with widespread expression throughout the central and peripheral nervous systems. Recent breakthroughs in structural biology, particularly the elucidation of the cryo-EM architecture of Nav1.6 at a resolution of 0.31 nm, have provided unprecedented insights into its molecular organization and functional modulation. As a key mediator of action potential initiation and propagation, Nav1.6 possesses unique biophysical properties, including persistent and resurgent sodium currents that critically influence neuronal firing patterns. This comprehensive review synthesizes current knowledge on the physiological functions and pathological roles of Nav1.6 in multiple neurological conditions. Key findings include the following: (1) Epilepsy studies reveal more than 250 sodium voltage-gated channel alpha subunit 8 mutations with distinct genoty",
-    "journalisticSummary": "Um estudo recente publicado no PubMed, com DOI 10.4103/NRR.NRR-D-25-00354, trouxe novas luzes sobre o papel do canal de sódio dependente de voltagem Nav1.6 no processo patológico de lesões neurais. O Nav1.6, codificado pelo gene da subunidade alfa 8 do canal de sódio voltagem-dependente, é um regulador crucial da excitabilidade neuronal, com expressão ampla em todo o sistema nervoso central e periférico. Avanços recentes na biologia estrutural, especialmente a elucidação da arquitetura do Nav1.6 por criomicroscopia eletrônica (cryo-EM) com resolução de 0,31 nm, proporcionaram insights sem precedentes sobre sua organização molecular e modulação funcional.\n\nOs resultados do estudo destacam a importância do Nav1.6 na inicição e propagação do potencial de ação, possuindo propriedades biofísicas únicas, como correntes de sódio persistentes e ressurgentes, que influenciam criticamente os padrões de disparo neuronal. A revisão aborda o conhecimento atual sobre as funções fisiológicas e papéis patológicos do Nav1.6 em várias condições neurológicas. Entre os principais achados, destacam-se mais de 250 mutações no gene da subunidade alfa 8 do canal de sódio voltagem-dependente identificadas em estudos sobre epilepsia, com diferentes genótipos.\n\nO impacto clínico desses achados é significativo, pois a compreensão do papel do Nav1.6 em lesões neurais e condições neurológicas pode levar ao desenvolvimento de novas abordagens terapêuticas. No entanto, o estudo não fornece informações detalhadas sobre as limitações metodológicas ou os próximos passos para a investigação. Novas pesquisas são necessárias para explorar completamente o potencial do Nav1.6 como alvo terapêutico e para elucidar os mecanismos subjacentes às suas funções patológicas.\n\nUm futuro com mais estudos sobre o Nav1.6 pode revelar novas oportunidades para o tratamento de condições neurológicas, melhorando a qualidade de vida de pacientes afetados por essas doenças. A comunidade científica aguarda com expectativa os resultados desses estudos, que prometem avançar significativamente o conhecimento sobre o papel do Nav1.6 na fisiologia e patologia neuronal.\n\nA recent study published in PubMed, with DOI 10.4103/NRR.NRR-D-25-00354, shed new light on the role of voltage-gated sodium channel Nav1.6 in the pathological process of neural injury. Nav1.6, encoded by the sodium voltage-gated channel alpha subunit 8 gene, is a crucial regulator of neuronal excitability, with widespread expression throughout the central and peripheral nervous systems. Recent breakthroughs in structural biology, particularly the elucidation of the cryo-EM architecture of Nav1.6 at a resolution of 0.31 nm, have provided unprecedented insights into its molecular organization and functional modulation.\n\nThe study's findings highlight the importance of Nav1.6 in the initiation and propagation of action potentials, possessing unique biophysical properties, such as persistent and resurgent sodium currents, which critically influence neuronal firing patterns. The review addresses the current knowledge on the physiological functions and pathological roles of Nav1.6 in various neurological conditions. Among the main findings, over 250 mutations in the sodium voltage-gated channel alpha subunit 8 gene were identified in epilepsy studies, with different genotypes.\n\nThe clinical impact of these findings is significant, as understanding the role of Nav1.6 in neural injury and neurological conditions may lead to the development of new therapeutic approaches. However, the study does not provide detailed information on methodological limitations or future research directions. Further studies are necessary to fully explore the therapeutic potential of Nav1.6 and to elucidate the underlying mechanisms of its pathological functions.\n\nA future with more studies on Nav1.6 may reveal new opportunities for the treatment of neurological conditions, improving the quality of life for patients affected by these diseases. The scientific community awaits the results of these studies, which promise to significantly advance the knowledge on the role of Nav1.6 in neuronal physiology and pathology.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41017705",
-    "authors": [
-      {
-        "name": "Huaiyuan Wang",
-        "affiliation": "Department of Neurosurgery, The First Hospital of China Medical University, Shenyang, Liaoning Province, China."
-      },
-      {
-        "name": "Yuhang Wei"
-      },
-      {
-        "name": "Junqi Wang"
-      },
-      {
-        "name": "Jiyuan Liu"
-      }
-    ],
-    "journal": "Neural regeneration research",
-    "publishedDate": "2026-04-30",
-    "fetchedDate": "2026-04-30",
-    "category": "Genômica",
-    "tags": [
-      "neural",
-      "gene",
-      "mutation"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
