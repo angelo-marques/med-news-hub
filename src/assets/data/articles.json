@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42462161",
+    "pmid": "42462161",
+    "doi": "10.1093/ejhf/xuag232",
+    "title": "Catheter ablation of atrial fibrillation in patients with heart failure: a trial-level meta-analysis.",
+    "titlePt": "Catheter ablation of atrial fibrillation in patients with heart failure: a trial-level meta-analysis.",
+    "abstract": "Many patients with heart failure (HF) have or develop atrial fibrillation (AF), which may contribute to worsening symptoms, hospitalisations and mortality. Whether catheter ablation improves outcomes in patients with HF and AF receiving guideline-recommended pharmacological therapy (GRPT) is controversial. A systematic review and meta-analysis of relevant randomised controlled trials (RCT)s on the role of catheter ablation in patients with AF and HF. Public databases for trials published prior to 17th March 2025 and investigating the effects of catheter ablation on morbidity and mortality in patients with HF and AF were searched. Outcomes of interest were all-cause and cardiovascular mortality, adverse events due to HF or AF, changes in left ventricular ejection fraction (LVEF), 6-Minute Walking Distance (6-MWD) and Minnesota Living With Heart Failure Questionnaire (MLWHFQ) scores. Altogether, thirteen RCTs including 2,490 patients (predominantly aged &lt;65 years; of whom 73% were men",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo estudo publicado no *European Journal of Heart Failure* lança luz sobre o papel da ablação por cateter em pacientes com insuficiência cardíaca (IC) e fibrilação atrial (FA), uma combinação clínica frequente e associada a piores desfechos. A meta-análise, que compilou dados de 13 ensaios clínicos randomizados envolvendo 2.490 pacientes — majoritariamente homens com menos de 65 anos —, buscou esclarecer se a ablação por cateter, além da terapia farmacológica guiada por diretrizes (GRPT), melhora desfechos clínicos nesses indivíduos. Os resultados sugerem benefícios significativos em parâmetros como fração de ejeção ventricular esquerda (FEVE), capacidade funcional avaliada pelo teste de caminhada de 6 minutos (6-MWD) e qualidade de vida, medida pelo escore *Minnesota Living With Heart Failure Questionnaire* (MLWHFQ). Contudo, a evidência não foi conclusiva quanto à redução de mortalidade global ou cardiovascular, nem de eventos adversos relacionados à IC ou FA, indicando a necessidade de mais pesquisas com amostras maiores e seguimento prolongado.\n\nOs achados reforçam o potencial da ablação por cateter como estratégia adjuvante em pacientes com IC e FA, especialmente para melhora sintomática e função cardíaca. No entanto, a ausência de impacto claro em desfechos duros — como mortalidade — limita a generalização dos resultados. Os autores destacam que a maioria dos estudos incluídos não reportou estratificação por subtipos de IC (com fração de ejeção reduzida, preservada ou intermediária), um fator que poderia influenciar a eficácia do procedimento. Além disso, a heterogeneidade nos protocolos de ablação e nos critérios de seleção dos pacientes dificulta a comparação direta entre os estudos. Como próximos passos, os pesquisadores recomendam ensaios clínicos com desenho padronizado, maior poder estatístico e foco em subgrupos específicos, além das avaliações de custo-efetividade e segurança a longo prazo.\n\n---\n\n**English version**\n\nA new study published in the *European Journal of Heart Failure* provides insights into the role of catheter ablation in patients with heart failure (HF) and atrial fibrillation (AF), a common and clinically challenging combination linked to worse outcomes. The trial-level meta-analysis, pooling data from 13 randomized controlled trials involving 2,490 patients—predominantly men under 65 years—aimed to determine whether catheter ablation, in addition to guideline-recommended pharmacological therapy (GRPT), improves clinical outcomes in this population. The findings suggest significant benefits in key parameters such as left ventricular ejection fraction (LVEF), functional capacity measured by the 6-Minute Walk Distance (6-MWD), and quality of life assessed by the *Minnesota Living With Heart Failure Questionnaire* (MLWHFQ). However, the evidence remained inconclusive regarding reductions in all-cause or cardiovascular mortality, as well as adverse events related to HF or AF, underscoring the need for further research with larger sample sizes and extended follow-up.\n\nThe results support catheter ablation as a potential adjunctive strategy for patients with HF and AF, particularly for symptomatic relief and cardiac function improvement. Yet, the lack of clear impact on hard outcomes—such as mortality—restricts the generalizability of the findings. The authors note that most included studies did not stratify results by HF subtypes (reduced, preserved, or mid-range ejection fraction), a factor that could influence procedure efficacy. Additionally, heterogeneity in ablation protocols and patient selection criteria complicates direct comparisons across studies. Moving forward, researchers advocate for standardized, adequately powered clinical trials focused on specific subgroups, as well as long-term cost-effectiveness and safety evaluations.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462161",
+    "authors": [
+      {
+        "name": "Antonio Iaconelli",
+        "affiliation": "School of Cardiovascular and Metabolic Health, College of Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow, UK."
+      },
+      {
+        "name": "Matteo Busti",
+        "affiliation": "Department of Cardiovascular Medicine, Fondazione Policlinico Universitario A. Gemelli IRCCS, L.go A. Gemelli, 1, 00168 Rome, Italy."
+      },
+      {
+        "name": "Luca Sensini",
+        "affiliation": "Department of Cardiovascular and Pulmonary Sciences, Catholic University of the Sacred Heart, Rome, Italy."
+      },
+      {
+        "name": "Pasquale Dolce",
+        "affiliation": "Department of Cardiovascular and Pulmonary Sciences, Catholic University of the Sacred Heart, Rome, Italy."
+      }
+    ],
+    "journal": "European journal of heart failure",
+    "publishedDate": "2026-07-16",
+    "fetchedDate": "2026-07-16",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "heart",
+      "atrial"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-41436719",
     "pmid": "41436719",
     "doi": "10.1007/s11255-025-04959-4",
@@ -207,7 +250,7 @@
       "rna",
       "metabolic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12529,6 +12572,46 @@
     "aiProvider": "Groq"
   },
   {
+    "id": "pubmed-41017705",
+    "pmid": "41017705",
+    "doi": "10.4103/NRR.NRR-D-25-00354",
+    "title": "Structure and function of voltage-gated sodium channel Nav1.6: Involvement in the pathological process of neural injury.",
+    "titlePt": "Structure and function of voltage-gated sodium channel Nav1.6: Involvement in the pathological process of neural injury.",
+    "abstract": "The voltage-gated sodium channel Nav1.6, encoded by the sodium voltage-gated channel alpha subunit 8 gene, is a crucial regulator of neuronal excitability, with widespread expression throughout the central and peripheral nervous systems. Recent breakthroughs in structural biology, particularly the elucidation of the cryo-EM architecture of Nav1.6 at a resolution of 0.31 nm, have provided unprecedented insights into its molecular organization and functional modulation. As a key mediator of action potential initiation and propagation, Nav1.6 possesses unique biophysical properties, including persistent and resurgent sodium currents that critically influence neuronal firing patterns. This comprehensive review synthesizes current knowledge on the physiological functions and pathological roles of Nav1.6 in multiple neurological conditions. Key findings include the following: (1) Epilepsy studies reveal more than 250 sodium voltage-gated channel alpha subunit 8 mutations with distinct genoty",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm dos principais reguladores da excitabilidade neuronal, o canal de sódio dependente de voltagem Nav1.6 — codificado pelo gene *sodium voltage-gated channel alpha subunit 8* (SCN8A) — apresenta expressão generalizada no sistema nervoso central e periférico. Recentemente, avanços em biologia estrutural permitiram a elucidação de sua arquitetura por meio de microscopia crioeletrônica com resolução de 0,31 nm, oferecendo insights sem precedentes sobre sua organização molecular e modulação funcional. Como mediador essencial na iniciação e propagação de potenciais de ação, o Nav1.6 exibe propriedades biofísicas distintas, como correntes de sódio persistentes e ressurgentes, que influenciam criticamente os padrões de disparo neuronal. Esta revisão sintetiza o conhecimento atual sobre suas funções fisiológicas e seus papéis patológicos em múltiplas condições neurológicas.\n\nEntre os achados centrais, destacam-se mais de 250 mutações no gene SCN8A identificadas em estudos sobre epilepsia, muitas delas associadas a fenótipos clínicos graves, como encefalopatias epilépticas do desenvolvimento e epilepsias refratárias. Além disso, a super-regulação ou disfunção do Nav1.6 tem sido implicada em mecanismos de lesão neural, incluindo doenças neurodegenerativas, dor neuropática e lesões medulares, onde a hiperatividade do canal contribui para a hiperexcitabilidade neuronal. A caracterização estrutural detalhada do Nav1.6 abre possibilidades para o desenvolvimento de terapias direcionadas, como inibidores seletivos que possam modular sua atividade sem afetar outros canais de sódio essenciais.\n\nApesar dos avanços, persistem lacunas significativas. Não há consenso sobre os mecanismos moleculares exatos pelos quais mutações específicas no SCN8A levam a fenótipos distintos, nem sobre como a modulação farmacológica do Nav1.6 poderia ser ajustada para maximizar benefícios terapêuticos com mínimos efeitos adversos. Estudos futuros devem priorizar abordagens integradas, combinando dados estruturais, modelos animais avançados e ensaios clínicos para validar alvos terapêuticos e estratificar pacientes com base no perfil genético. A compreensão refinada da dinâmica do Nav1.6 não apenas aprofundará o conhecimento sobre fisiopatologia neural, mas também poderá impulsionar inovações em medicina personalizada para distúrbios do sistema nervoso.\n\n---\n\n**English version**\n\nOne of the primary regulators of neuronal excitability, the voltage-gated sodium channel Nav1.6 — encoded by the *sodium voltage-gated channel alpha subunit 8* (SCN8A) gene — exhibits widespread expression throughout the central and peripheral nervous systems. Recent breakthroughs in structural biology have enabled the elucidation of its architecture via cryo-electron microscopy at a resolution of 0.31 nm, providing unprecedented insights into its molecular organization and functional modulation. As a key mediator in the initiation and propagation of action potentials, Nav1.6 possesses distinct biophysical properties, including persistent and resurgent sodium currents that critically influence neuronal firing patterns. This review synthesizes current knowledge on its physiological functions and pathological roles across multiple neurological conditions.\n\nAmong the central findings, over 250 SCN8A mutations have been identified in epilepsy studies, many linked to severe clinical phenotypes such as developmental epileptic encephalopathies and refractory epilepsies. Furthermore, the upregulation or dysfunction of Nav1.6 has been implicated in mechanisms of neural injury, including neurodegenerative diseases, neuropathic pain, and spinal cord injuries, where channel hyperactivity contributes to neuronal hyperexcitability. The detailed structural characterization of Nav1.6 offers new avenues for targeted therapies, such as selective inhibitors that could modulate its activity without affecting other essential sodium channels.\n\nDespite these advances, significant gaps remain. There is no consensus on the precise molecular mechanisms by which specific SCN8A mutations lead to distinct phenotypes, nor on how pharmacological modulation of Nav1.6 could be fine-tuned for optimal therapeutic benefit with minimal adverse effects. Future research should prioritize integrated approaches, combining structural data, advanced animal models, and clinical trials to validate therapeutic targets and stratify patients based on genetic profiles. A refined understanding of Nav1.6 dynamics will not only deepen insights into neural pathophysiology but may also drive innovations in personalized medicine for nervous system disorders.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41017705",
+    "authors": [
+      {
+        "name": "Huaiyuan Wang",
+        "affiliation": "Department of Neurosurgery, The First Hospital of China Medical University, Shenyang, Liaoning Province, China."
+      },
+      {
+        "name": "Yuhang Wei"
+      },
+      {
+        "name": "Junqi Wang"
+      },
+      {
+        "name": "Jiyuan Liu"
+      }
+    ],
+    "journal": "Neural regeneration research",
+    "publishedDate": "2026-04-30",
+    "fetchedDate": "2026-07-16",
+    "category": "Genômica",
+    "tags": [
+      "neural",
+      "gene",
+      "mutation"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-41213813",
     "pmid": "41213813",
     "doi": "10.3174/ajnr.A9095",
@@ -12648,82 +12731,6 @@
     ],
     "isHighlight": false,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42057665",
-    "pmid": "42057665",
-    "doi": "10.1080/07853890.2026.2662627",
-    "title": "Effect of intensive versus standard blood pressure control on cardiovascular outcomes: a meta-analysis of randomized controlled trials.",
-    "titlePt": "Effect of intensive versus standard blood pressure control on cardiovascular outcomes: a meta-analysis of randomized controlled trials.",
-    "abstract": "This meta-analysis systematically evaluated the impact of intensive (typically targeting systolic BP [SBP] &lt;120 or &lt;130 mmHg) versus standard (typically targeting SBP &lt;140 mmHg) blood pressure control on cardiovascular outcomes in patients with hypertension. Relevant randomized controlled trials (RCTs) published up to May 2025 were identified through systematic searches of PubMed, Embase, Web of Science, and the Cochrane Library. A random-effects model was used to calculate pooled relative risks (RRs) with 95% confidence intervals (CIs). Thirty-one RCTs involving a total of 156,933 participants (mean age range of trial populations: 36.6 to 83.6 years; proportion of male participants: 34.5% to 69.4%; follow-up duration: 1.8 to 19.3 years) were included in the final meta-analysis. Compared to standard blood pressure control, intensive control significantly reduced the risk of major cardiovascular events (RR: 0.80; 95% CI: 0.75-0.84; p &lt; 0.001), myocardial infarction (RR: 0.83",
-    "journalisticSummary": "Um estudo recente publicado na PubMed investigou os efeitos do controle intensivo versus padrão da pressão arterial sobre os resultados cardiovasculares. Essa meta-análise sistemática avaliou o impacto do controle intensivo da pressão arterial, que geralmente visa uma pressão arterial sistólica (PAS) inferior a 120 ou 130 mmHg, em comparação com o controle padrão, que visa uma PAS inferior a 140 mmHg. Os resultados mostraram que o controle intensivo reduziu significativamente o risco de eventos cardiovasculares importantes, incluindo infarto do miocárdio e acidente vascular cerebral. A análise incluiu 31 estudos clínicos randomizados, com um total de 156.933 participantes, e utilizou um modelo de efeitos aleatórios para calcular os riscos relativos (RR) com intervalos de confiança de 95%. Os achados principais indicaram que o controle intensivo da pressão arterial reduziu o risco de eventos cardiovasculares importantes em 20% em comparação com o controle padrão. No entanto, não foram informados detalhes sobre as possíveis limitações do estudo, como a variabilidade nos protocolos de tratamento e a heterogeneidade nos resultados dos estudos incluídos. Além disso, os próximos passos para a implementação desses achados em práticas clínicas ainda precisam ser definidos.\n\nA recent study published in PubMed investigated the effects of intensive versus standard blood pressure control on cardiovascular outcomes. This systematic meta-analysis evaluated the impact of intensive blood pressure control, which typically targets a systolic blood pressure (SBP) of less than 120 or 130 mmHg, compared to standard control, which targets an SBP of less than 140 mmHg. The results showed that intensive control significantly reduced the risk of major cardiovascular events, including myocardial infarction and stroke. The analysis included 31 randomized controlled trials, with a total of 156,933 participants, and used a random-effects model to calculate relative risks (RR) with 95% confidence intervals. The main findings indicated that intensive blood pressure control reduced the risk of major cardiovascular events by 20% compared to standard control. However, details about potential limitations of the study, such as variability in treatment protocols and heterogeneity in the results of the included studies, were not reported. Furthermore, the next steps for implementing these findings in clinical practice still need to be defined.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42057665",
-    "authors": [
-      {
-        "name": "Qiu Gao",
-        "affiliation": "Department of Cardiology, Yixing People's Hospital, Yixing, Jiangsu Province, China."
-      },
-      {
-        "name": "Yanni Ji",
-        "affiliation": "Department of Cardiology, Yixing People's Hospital, Yixing, Jiangsu Province, China."
-      }
-    ],
-    "journal": "Annals of medicine",
-    "publishedDate": "2026-04-30",
-    "fetchedDate": "2026-04-30",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "myocardial",
-      "hypertension"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42056760",
-    "pmid": "42056760",
-    "doi": "10.1080/0886022X.2026.2656561",
-    "title": "Mineralocorticoid receptor antagonists in dialysis patients after ACHIEVE and ALCHEMIST: updated systematic review and meta-analysis of 14 randomized trials.",
-    "titlePt": "Mineralocorticoid receptor antagonists in dialysis patients after ACHIEVE and ALCHEMIST: updated systematic review and meta-analysis of 14 randomized trials.",
-    "abstract": "End-stage kidney disease (ESKD) patients receiving dialysis bear a heavy burden of cardiovascular disease (CVD), the leading cause of mortality. Mineralocorticoid receptor antagonists (MRAs) have cardiovascular protective effects in non-dialysis patients, but their efficacy and safety in dialysis-dependent individuals remain controversial. This study aimed to clarify their clinical value via an updated systematic review and meta-analysis. Following preferred reporting items for systematic reviews and meta-analyses (PRISMA) guidelines, we systematically searched PubMed, EMBASE, and The Cochrane Library up to 25 August 2025. Eligible studies were parallel-design randomized controlled trials (RCTs) enrolling adults (&#x2265;18&#xa0;years) on maintenance dialysis, comparing MRAs with placebo or no intervention. Two reviewers independently screened studies, extracted data, and assessed quality using the Cochrane Risk of Bias Tool 2.0. Meta-analysis was performed with Cochrane Review Manager",
-    "journalisticSummary": "Pacientes com doença renal em estágio terminal (ESKD) que recebem diálise enfrentam um alto risco de doenças cardiovasculares (CVD), que é a principal causa de mortalidade nesse grupo. Os antagonistas do receptor mineralocorticoid (ARMs) têm demonstrado efeitos protetores cardiovasculares em pacientes não submetidos à diálise, mas sua eficácia e segurança em indivíduos dependentes de diálise ainda são controversas. Com o objetivo de esclarecer o valor clínico desses medicamentos, foi realizada uma revisão sistemática atualizada e metanálise de estudos randomizados. Seguindo as diretrizes do PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses), uma busca sistemática foi realizada nas bases de dados PubMed, EMBASE e The Cochrane Library até 25 de agosto de 2025. Foram incluídos estudos com delineamento paralelo e controle randomizado que recrutaram adultos em diálise de manutenção, comparando ARMs com placebo ou sem intervenção. Dois revisores avaliaram independentemente os estudos, extraíram dados e avaliaram a qualidade utilizando a ferramenta Cochrane Risk of Bias Tool 2.0. A metanálise foi realizada com o software Cochrane Review Manager. Os achados principais e o impacto clínico desses resultados não foram especificados no resumo original, portanto, não é possível fornecer uma análise detalhada sobre as conclusões do estudo. As limitações do estudo e os próximos passos também não foram informados. Novos estudos e análises mais detalhadas seriam necessários para entender melhor o papel dos ARMs na prevenção de doenças cardiovasculares em pacientes em diálise.\n\nPatients with end-stage kidney disease (ESKD) undergoing dialysis face a high risk of cardiovascular disease (CVD), which is the leading cause of mortality in this group. Mineralocorticoid receptor antagonists (MRAs) have shown cardiovascular protective effects in non-dialysis patients, but their efficacy and safety in dialysis-dependent individuals remain controversial. To clarify the clinical value of these medications, an updated systematic review and meta-analysis of randomized trials was conducted. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, a systematic search was performed in the PubMed, EMBASE, and Cochrane Library databases up to August 25, 2025. Eligible studies were parallel-design randomized controlled trials (RCTs) enrolling adults on maintenance dialysis, comparing MRAs with placebo or no intervention. Two reviewers independently screened studies, extracted data, and assessed quality using the Cochrane Risk of Bias Tool 2.0. Meta-analysis was performed with the Cochrane Review Manager software. The main findings and clinical impact of these results were not specified in the original abstract, therefore, it is not possible to provide a detailed analysis of the study's conclusions. The study's limitations and next steps were also not reported. Further studies and more detailed analyses would be necessary to better understand the role of MRAs in preventing cardiovascular disease in dialysis patients.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42056760",
-    "authors": [
-      {
-        "name": "Yifan Zhu",
-        "affiliation": "Department of Nephrology, The First People's Hospital of Huzhou, Huzhou, People's Republic of China."
-      },
-      {
-        "name": "Juan Li",
-        "affiliation": "Huzhou Key Laboratory of Chronic Kidney Disease, Huzhou, People's Republic of China."
-      },
-      {
-        "name": "Zhongping Huang",
-        "affiliation": "Department of Operating Rooms, Tongxiang Chinese Medicine Hospital, Tongxiang, People's Republic of China."
-      },
-      {
-        "name": "Fengping Qiu",
-        "affiliation": "Department of Nephrology, The First People's Hospital of Huzhou, Huzhou, People's Republic of China."
-      }
-    ],
-    "journal": "Renal failure",
-    "publishedDate": "2026-04-30",
-    "fetchedDate": "2026-04-30",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
