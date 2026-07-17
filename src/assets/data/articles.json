@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42464692",
+    "pmid": "42464692",
+    "doi": "10.1080/14728222.2026.2706463",
+    "title": "The evolving bioinformatic approaches to identifying genetic targets of promise in cancers.",
+    "titlePt": "The evolving bioinformatic approaches to identifying genetic targets of promise in cancers.",
+    "abstract": "The search for actionable genetic targets in cancer has evolved substantially over the past decade. Earlier approaches were focused on single genes or individual molecular alterations, but this is insufficient to capture tumor complexity in vivo. Cancer is influenced not only by genomic changes but also by transcriptional plasticity, epigenetic regulation, protein activity, metabolic adaptation, and dynamic interactions with the tumor microenvironment. Consequently, bioinformatic target discovery has shifted toward integrative, systems-level models of tumor biology. This article discusses the evolution of bioinformatic approaches for cancer target identification, underscoring key achievements and persistent challenges. Advances from 2018-2025 are analyzed, including multi-omics integration, single-cell sequencing, and functional genomics, which enhance the identification of context-dependent molecular vulnerabilities. Also, the role of machine learning in analyzing large-scale datasets",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nA identificação de alvos genéticos clinicamente relevantes em câncer tem passado por uma transformação profunda nos últimos anos, impulsionada pela crescente complexidade dos tumores e pela limitação dos métodos tradicionais, que se concentravam em alterações moleculares isoladas. Estudos recentes demonstram que a biologia tumoral é influenciada por múltiplos fatores interconectados, incluindo plasticidade transcricional, regulação epigenética, atividade proteica, adaptação metabólica e interações dinâmicas com o microambiente tumoral. Nesse contexto, abordagens bioinformáticas mais robustas e integrativas têm se tornado essenciais para mapear vulnerabilidades moleculares dependentes do contexto, superando a abordagem reducionista anterior.\n\nEntre as principais inovações destacam-se a integração de multi-ômicas, a aplicação de sequenciamento de célula única e o uso de genômica funcional, que juntos permitem uma análise mais holística do câncer. A integração de dados de genoma, transcriptoma, proteoma e metaboloma possibilita a identificação de assinaturas moleculares associadas a respostas terapêuticas ou à progressão da doença. Além disso, técnicas como o CRISPR-Cas9 em bibliotecas de alto rendimento têm possibilitado a descoberta de genes essenciais em diferentes contextos tumorais, enquanto o sequenciamento de célula única revela a heterogeneidade intratumoral, um fator crítico para a resistência a tratamentos convencionais.\n\nA aplicação de algoritmos de *machine learning* e inteligência artificial tem sido fundamental para lidar com a vastidão de dados gerados por essas tecnologias. Modelos preditivos baseados em aprendizado de máquina permitem não apenas a identificação de alvos potenciais, mas também a priorização deles com base em critérios como viabilidade terapêutica e probabilidade de resposta clínica. No entanto, apesar dos avanços, persistem desafios significativos, como a interpretação biológica dos dados complexos, a necessidade de validação experimental robusta e a integração de informações provenientes de diferentes plataformas tecnológicas.\n\nEmbora o período de 2018 a 2025 tenha testemunhado progressos notáveis, a tradução desses achados em aplicações clínicas ainda enfrenta barreiras, incluindo a falta de padronização metodológica e a dificuldade em replicar resultados em coortes independentes. Além disso, não foi informado no estudo revisado se houve validação clínica de algum alvo específico identificado por essas abordagens. Os próximos passos incluem o desenvolvimento de bancos de dados mais integrados, a colaboração entre centros de pesquisa e a implementação de ensaios clínicos direcionados que testem a eficácia desses alvos em pacientes.\n\n---\n\n**English version**\n\nThe identification of clinically relevant genetic targets in cancer has undergone a profound transformation in recent years, driven by the growing complexity of tumors and the limitations of traditional methods, which focused on isolated molecular alterations. Recent studies show that tumor biology is influenced by multiple interconnected factors, including transcriptional plasticity, epigenetic regulation, protein activity, metabolic adaptation, and dynamic interactions with the tumor microenvironment. In this context, more robust and integrative bioinformatic approaches have become essential for mapping context-dependent molecular vulnerabilities, surpassing the previous reductionist approach.\n\nAmong the key innovations are multi-omics integration, the application of single-cell sequencing, and the use of functional genomics, which together enable a more holistic analysis of cancer. The integration of genome, transcriptome, proteome, and metabolome data allows for the identification of molecular signatures associated with therapeutic responses or disease progression. Additionally, techniques such as CRISPR-Cas9 in high-throughput libraries have enabled the discovery of essential genes in different tumor contexts, while single-cell sequencing reveals intratumoral heterogeneity—a critical factor in resistance to conventional treatments.\n\nThe application of machine learning algorithms and artificial intelligence has been crucial for handling the vast amounts of data generated by these technologies. Predictive models based on machine learning not only identify potential targets but also prioritize them based on criteria such as therapeutic feasibility and likelihood of clinical response. However, despite these advances, significant challenges remain, including the biological interpretation of complex data, the need for robust experimental validation, and the integration of information from different technological platforms.\n\nWhile the period from 2018 to 2025 has witnessed remarkable progress, translating these findings into clinical applications still faces barriers, including the lack of methodological standardization and the difficulty in replicating results in independent cohorts. Furthermore, the reviewed study does not specify whether any specific target identified through these approaches has undergone clinical validation. Future directions include the development of more integrated databases, collaboration among research centers, and the implementation of targeted clinical trials to test the efficacy of these targets in patients.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42464692",
+    "authors": [
+      {
+        "name": "Vijay Kumar",
+        "affiliation": "Amity Institute of Biotechnology (AIB), Amity University, Noida, India."
+      },
+      {
+        "name": "Darin Mansor Mathkor",
+        "affiliation": "Department of Nursing, College of Nursing and Health Sciences, Jazan University, Jazan, Saudi Arabia."
+      },
+      {
+        "name": "Shafiul Haque",
+        "affiliation": "Department of Nursing, College of Nursing and Health Sciences, Jazan University, Jazan, Saudi Arabia."
+      }
+    ],
+    "journal": "Expert opinion on therapeutic targets",
+    "publishedDate": "2026-07-17",
+    "fetchedDate": "2026-07-17",
+    "category": "Genômica",
+    "tags": [
+      "cancer",
+      "tumor",
+      "genomic",
+      "genetic",
+      "gene"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42463637",
     "pmid": "42463637",
     "doi": "10.1038/s41408-026-01569-w",
@@ -198,7 +239,7 @@
       "heart",
       "atrial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12688,47 +12729,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42065181",
-    "pmid": "42065181",
-    "doi": "10.1097/MD.0000000000048511",
-    "title": "Impact of preoperative femoral vein ultrasound localization on puncture success and procedural complications during radiofrequency catheter ablation for atrial fibrillation: A multicenter study.",
-    "titlePt": "Impact of preoperative femoral vein ultrasound localization on puncture success and procedural complications during radiofrequency catheter ablation for atrial fibrillation: A multicenter study.",
-    "abstract": "Safe and accurate femoral venous access is fundamental to the success of radiofrequency catheter ablation (RFCA) for atrial fibrillation (AF), particularly under uninterrupted anticoagulation, where vascular injury may lead to amplified bleeding and thrombotic risk. Conventional landmark-based puncture is limited by anatomical variability, whereas ultrasound guidance has shown potential to enhance puncture safety. This multicenter retrospective cohort study included 300 AF patients undergoing RFCA across 3 tertiary hospitals from September 2024 to December 2025 under uninterrupted anticoagulation. Patients were assigned to a preprocedural ultrasound localization group (n&#x2005;=&#x2005;150) or a conventional anatomical landmark group (n&#x2005;=&#x2005;150). Baseline characteristics were compared, and puncture efficiency, intraoperative events, puncture-related complications, operative metrics, postoperative recovery, and additional intervention requirements were evaluated. Multivaria",
-    "journalisticSummary": "A ablação por cateter de radiofrequência (RFCA) é um procedimento comum para o tratamento da fibrilação atrial (FA), e o acesso venoso femoral seguro e preciso é fundamental para o sucesso desse procedimento, especialmente em pacientes sob anticoagulação ininterrupta. Nesse contexto, um estudo multicêntrico retrospectivo avaliou o impacto da localização ultrassonográfica pré-operatória da veia femoral naTaxa de sucesso da punção e nas complicações procedimentais durante a RFCA para FA. O estudo incluiu 300 pacientes com FA que foram submetidos à RFCA em três hospitais terciários entre setembro de 2024 e dezembro de 2025. Os pacientes foram divididos em dois grupos: um grupo com localização ultrassonográfica pré-operatória da veia femoral (n = 150) e outro grupo com punção convencional baseada em marcos anatômicos (n = 150). Os resultados mostraram que a localização ultrassonográfica pré-operatória melhorou a eficiência da punção e reduziu as complicações relacionadas à punção. No entanto, não foram fornecidos detalhes sobre as limitações do estudo e os próximos passos para validar esses achados.\n\nA RFCA é um procedimento complexo que requer habilidades técnicas avançadas e conhecimento anatômico preciso. A localização ultrassonográfica pré-operatória da veia femoral pode ser uma ferramenta valiosa para melhorar a segurança e a eficiência desse procedimento. No entanto, são necessários mais estudos para confirmar esses achados e avaliar a aplicabilidade clínica dessa técnica. Além disso, a falta de informações sobre as limitações do estudo e os próximos passos para validar esses achados é uma limitação importante que deve ser abordada em futuras pesquisas.\n\nThe radiofrequency catheter ablation (RFCA) is a common procedure for treating atrial fibrillation (AF), and safe and accurate femoral venous access is fundamental to the success of this procedure, especially in patients under uninterrupted anticoagulation. In this context, a multicenter retrospective cohort study evaluated the impact of preoperative ultrasound localization of the femoral vein on puncture success and procedural complications during RFCA for AF. The study included 300 AF patients who underwent RFCA at three tertiary hospitals between September 2024 and December 2025. Patients were divided into two groups: a group with preoperative ultrasound localization of the femoral vein (n = 150) and another group with conventional anatomical landmark-based puncture (n = 150). The results showed that preoperative ultrasound localization improved puncture efficiency and reduced puncture-related complications. However, no details were provided on the study's limitations and next steps to validate these findings.\n\nRFCA is a complex procedure that requires advanced technical skills and precise anatomical knowledge. Preoperative ultrasound localization of the femoral vein may be a valuable tool to improve the safety and efficiency of this procedure. However, further studies are needed to confirm these findings and assess the clinical applicability of this technique. Moreover, the lack of information on the study's limitations and next steps to validate these findings is a significant limitation that should be addressed in future research.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42065181",
-    "authors": [
-      {
-        "name": "Xiaobo Liao",
-        "affiliation": "Department of Cardiovascular Medicine, FuLing Hospital Affiliated to Chongqing University, Chongqing City, China."
-      },
-      {
-        "name": "Qiao Xiao",
-        "affiliation": "Department of Cardiovascular Medicine, The Central Hospital of Yueyang, Yueyang City, Hunan Province, China."
-      },
-      {
-        "name": "Xueyuan Guo",
-        "affiliation": "Department of Arrhythmia Center, Beijing Anzhen Hospital, Capital Medical University, Beijing City, China."
-      },
-      {
-        "name": "Yunong Li",
-        "affiliation": "Department of Cardiovascular Medicine, FuLing Hospital Affiliated to Chongqing University, Chongqing City, China."
-      }
-    ],
-    "journal": "Medicine",
-    "publishedDate": "2026-05-01",
-    "fetchedDate": "2026-05-01",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
