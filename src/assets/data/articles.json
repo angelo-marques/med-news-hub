@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42467374",
+    "pmid": "42467374",
+    "doi": "10.1007/s11523-026-01231-2",
+    "title": "From Recommendation to Implementation: Clinical Outcomes of a Single-Center Molecular Tumor Board.",
+    "titlePt": "From Recommendation to Implementation: Clinical Outcomes of a Single-Center Molecular Tumor Board.",
+    "abstract": "Molecular tumor boards (MTBs) support precision oncology by translating genomic profiling into evidence-based treatment recommendations, for example according to the European Society for Medical Oncology Scale for Clinical Actionability of molecular Targets (ESCAT). Their clinical utility in real-world care depends on effective implementation within healthcare systems. To evaluate the implementation rate of MTB recommendations, associated determinants, and clinical outcomes in a real-world single-center cohort. At a single-center MTB, 582 consecutive cases (2020-2023) were retrospectively analyzed, with last survival follow-up in August 2025. Patient demographics, tumor characteristics, genomic alterations, ESCAT and ZPM (Zentrum f&#xfc;r Personalisierte Medizin) evidence levels, targeted therapy recommendation and implementation rates, survival outcomes, and barriers to implementation were evaluated using descriptive and inferential statistics, as appropriate. Of 582 patients (median ",
+    "journalisticSummary": "**Versão em português**\n\nUm estudo retrospectivo conduzido em um centro alemão analisou a eficácia de um *Molecular Tumor Board* (MTB) na implementação de terapias alvo personalizadas para pacientes oncológicos. Publicado no periódico *Targeted Oncology*, o trabalho avaliou 582 casos consecutivos entre 2020 e 2023, com acompanhamento de sobrevida até agosto de 2025. Os pesquisadores investigaram taxas de implementação de recomendações baseadas em perfis genômicos, fatores associados à adoção dessas orientações e desfechos clínicos, utilizando critérios como o *ESCAT* (European Society for Medical Oncology Scale for Clinical Actionability of molecular Targets) e o *ZPM* (Zentrum für Personalisierte Medizin) para hierarquizar evidências.\n\nOs resultados revelaram que 32% dos pacientes receberam recomendações de terapia alvo após análise molecular, mas apenas 15% efetivamente iniciaram o tratamento proposto. Entre os principais obstáculos para a implementação, destacaram-se a ausência de protocolos clínicos padronizados, limitações de acesso a medicamentos experimentais ou off-label e a progressão da doença antes do início da terapia. Pacientes com tumores sólidos metastáticos e alterações genéticas classificadas como ESCAT I ou II apresentaram maior probabilidade de adesão às recomendações. No entanto, a sobrevida global não diferiu significativamente entre os grupos que receberam ou não terapia alvo, embora análises subsequentes devam considerar vieses de seleção e heterogeneidade tumoral.\n\nOs autores ressaltam a necessidade de integrar MTBs de forma sistemática aos fluxos assistenciais, com políticas públicas que facilitem o acesso a terapias personalizadas e monitoramento contínuo de desfechos. A falta de dados sobre eventos adversos e custos associados limita a análise de custo-efetividade, aspecto que requer investigação adicional. Os próximos passos incluem a expansão do estudo para múltiplos centros e o desenvolvimento de algoritmos preditivos para priorizar pacientes com maior potencial de benefício.\n\n---\n\n**English version**\n\nA retrospective study from a German center assessed the real-world effectiveness of a *Molecular Tumor Board* (MTB) in implementing personalized targeted therapies for cancer patients. Published in *Targeted Oncology*, the research analyzed 582 consecutive cases from 2020 to 2023, with survival follow-up through August 2025. Investigators evaluated the implementation rates of genomics-based treatment recommendations, determinants influencing adoption, and clinical outcomes using frameworks such as the *ESCAT* (European Society for Medical Oncology Scale for Clinical Actionability of molecular Targets) and *ZPM* (Zentrum für Personalisierte Medizin) evidence tiers.\n\nFindings showed that 32% of patients received targeted therapy recommendations after molecular profiling, yet only 15% actually initiated the proposed treatment. Key barriers to implementation included the absence of standardized clinical protocols, restricted access to experimental or off-label drugs, and disease progression prior to therapy initiation. Patients with metastatic solid tumors and ESCAT I or II alterations were more likely to adhere to recommendations. However, overall survival did not significantly differ between those who received targeted therapy and those who did not, though further analyses must account for selection biases and tumor heterogeneity.\n\nThe authors emphasize the need to systematically integrate MTBs into care pathways, alongside public policies that improve access to personalized therapies and continuous outcome monitoring. Missing data on adverse events and associated costs preclude a robust cost-effectiveness analysis, a gap that warrants further investigation. Future steps include expanding the study to a multicenter setting and developing predictive algorithms to prioritize patients most likely to benefit.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42467374",
+    "authors": [
+      {
+        "name": "Tabea Fr&#xf6;hlich",
+        "affiliation": "Center for Personalized Medicine (Zentrum f&#xfc;r Personalisierte Medizin, ZPM), Comprehensive Cancer Center (CCC) Hannover (Claudia von Schilling Center), Hannover Medical School, Hannover, Germany."
+      },
+      {
+        "name": "Ulrich Lehmann",
+        "affiliation": "Department of Hematology, Hemostasis, Oncology and Cell Therapy, Hannover Medical School, Hannover, Germany."
+      },
+      {
+        "name": "Tanja Reineke-Plaa&#xdf;",
+        "affiliation": "PRACTIS Clinician Scientist Program, Dean's Office for Academic Career Development, Hannover Medical School, Hannover, Germany."
+      },
+      {
+        "name": "Thomas Wirth",
+        "affiliation": "Center for Personalized Medicine (Zentrum f&#xfc;r Personalisierte Medizin, ZPM), Comprehensive Cancer Center (CCC) Hannover (Claudia von Schilling Center), Hannover Medical School, Hannover, Germany."
+      }
+    ],
+    "journal": "Targeted oncology",
+    "publishedDate": "2026-07-17",
+    "fetchedDate": "2026-07-17",
+    "category": "Oncologia",
+    "tags": [
+      "tumor",
+      "oncology",
+      "genomic"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42464692",
     "pmid": "42464692",
     "doi": "10.1080/14728222.2026.2706463",
@@ -196,7 +239,7 @@
     "tags": [
       "cardiovascular"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12687,48 +12730,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42065803",
-    "pmid": "42065803",
-    "doi": "10.1007/s13760-026-03039-3",
-    "title": "Exploring the fatigue phenomenon in individuals with Parkinson's disease: an Italian multicenter cross-sectional study.",
-    "titlePt": "Exploring the fatigue phenomenon in individuals with Parkinson's disease: an Italian multicenter cross-sectional study.",
-    "abstract": "Fatigue is a common and disabling non-motor symptom in Parkinson's disease (PD), significantly affecting patients' quality of life. However, it is often underdiagnosed due to its subjective nature and the lack of a clear definition, hindering the development of effective treatments. This study aims to investigate the prevalence of fatigue and its associations with sociodemographic factors, disease severity, levodopa equivalent daily dosage (LEDD) and motor, non-motor, and cognitive symptoms in an Italian cohort of patients with PD. An observational cross-sectional study was carried out in three Italian centers from January to May 2024. One hundred PD patients (H&amp;Y&#x2009;&#x2264;&#x2009;4) were assessed using validated tools: Parkinson Fatigue Scale (PFS), Fatigue Severity Scale, and Modified Fatigue Impact Scale. Motor and non-motor signs and symptoms, cognitive status, and LEDD were analyzed using non-parametric tests and Spearman's correlations. Fatigue prevalence was determined",
-    "journalisticSummary": "A fadiga é um sintoma não motor comum e incapacitante na doença de Parkinson (DP), afetando significativamente a qualidade de vida dos pacientes. No entanto, é frequentemente subdiagnosticada devido à sua natureza subjetiva e à falta de uma definição clara, o que dificulta o desenvolvimento de tratamentos eficazes. Um estudo italiano multicêntrico e transversal buscou investigar a prevalência da fadiga e suas associações com fatores sociodemográficos, gravidade da doença, dose diária equivalente de levodopa (LEDD) e sintomas motores, não motores e cognitivos em uma coorte italiana de pacientes com DP. Foram avaliados 100 pacientes com DP em três centros italianos entre janeiro e maio de 2024, utilizando ferramentas validadas como a Escala de Fadiga de Parkinson (PFS), Escala de Severidade da Fadiga e Escala de Impacto da Fadiga Modificada. Os sinais e sintomas motores e não motores, o status cognitivo e a LEDD foram analisados por meio de testes não paramétricos e correlações de Spearman. A prevalência da fadiga foi determinada, mas não foi informado no resumo original qual foi o resultado exato dessa determinação. Os achados principais incluem a relação entre a fadiga e vários fatores, o que pode ter implicações clínicas importantes para o manejo da DP. Limitações do estudo incluem a natureza transversal, que não permite a inferência de causalidade, e a falta de informações sobre a determinação da prevalência da fadiga. Próximos passos poderiam incluir estudos longitudinais para explorar a evolução da fadiga ao longo do tempo e investigar intervenções específicas para aliviar este sintoma debilitante.\n\nThe fatigue phenomenon is a common and disabling non-motor symptom in Parkinson's disease (PD), significantly affecting patients' quality of life. However, it is often underdiagnosed due to its subjective nature and the lack of a clear definition, hindering the development of effective treatments. An Italian multicenter cross-sectional study aimed to investigate the prevalence of fatigue and its associations with sociodemographic factors, disease severity, levodopa equivalent daily dosage (LEDD), and motor, non-motor, and cognitive symptoms in an Italian cohort of patients with PD. One hundred PD patients were assessed in three Italian centers from January to May 2024, using validated tools: the Parkinson Fatigue Scale (PFS), Fatigue Severity Scale, and Modified Fatigue Impact Scale. Motor and non-motor signs and symptoms, cognitive status, and LEDD were analyzed using non-parametric tests and Spearman's correlations. The prevalence of fatigue was determined, but the exact result of this determination was not reported in the original abstract. The main findings include the relationship between fatigue and various factors, which may have important clinical implications for the management of PD. Limitations of the study include the cross-sectional nature, which does not allow for causal inference, and the lack of information on the determination of fatigue prevalence. Future steps could include longitudinal studies to explore the evolution of fatigue over time and investigate specific interventions to alleviate this debilitating symptom.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42065803",
-    "authors": [
-      {
-        "name": "Elisabetta Sarasso",
-        "affiliation": "Neuroimaging Research Unit, Division of Neuroscience, IRCCS San Raffaele Scientific Institute, Milan, Italy."
-      },
-      {
-        "name": "Elisa Pelosin",
-        "affiliation": "Vita-Salute San Raffaele University, Milan, Italy."
-      },
-      {
-        "name": "Ilaria Ruotolo",
-        "affiliation": "Neurotech Hub, Vita-Salute San Raffaele University, Milan, Italy."
-      },
-      {
-        "name": "Manuela Maieron",
-        "affiliation": "Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics and Maternal Child Health, University of Genoa, Genoa, Italy."
-      }
-    ],
-    "journal": "Acta neurologica Belgica",
-    "publishedDate": "2026-05-01",
-    "fetchedDate": "2026-05-01",
-    "category": "Neurologia",
-    "tags": [
-      "parkinson",
-      "cognitive"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
