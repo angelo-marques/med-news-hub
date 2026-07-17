@@ -1,5 +1,81 @@
 [
   {
+    "id": "pubmed-42057665",
+    "pmid": "42057665",
+    "doi": "10.1080/07853890.2026.2662627",
+    "title": "Effect of intensive versus standard blood pressure control on cardiovascular outcomes: a meta-analysis of randomized controlled trials.",
+    "titlePt": "Effect of intensive versus standard blood pressure control on cardiovascular outcomes: a meta-analysis of randomized controlled trials.",
+    "abstract": "This meta-analysis systematically evaluated the impact of intensive (typically targeting systolic BP [SBP] &lt;120 or &lt;130 mmHg) versus standard (typically targeting SBP &lt;140 mmHg) blood pressure control on cardiovascular outcomes in patients with hypertension. Relevant randomized controlled trials (RCTs) published up to May 2025 were identified through systematic searches of PubMed, Embase, Web of Science, and the Cochrane Library. A random-effects model was used to calculate pooled relative risks (RRs) with 95% confidence intervals (CIs). Thirty-one RCTs involving a total of 156,933 participants (mean age range of trial populations: 36.6 to 83.6 years; proportion of male participants: 34.5% to 69.4%; follow-up duration: 1.8 to 19.3 years) were included in the final meta-analysis. Compared to standard blood pressure control, intensive control significantly reduced the risk of major cardiovascular events (RR: 0.80; 95% CI: 0.75-0.84; p &lt; 0.001), myocardial infarction (RR: 0.83",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado recentemente na *PubMed* (DOI: 10.1080/07853890.2026.2662627) oferece evidências robustas sobre os benefícios do controle intensivo da pressão arterial em comparação ao tratamento padrão em pacientes com hipertensão. A meta-análise, que incluiu 31 ensaios clínicos randomizados (ECRs) com 156.933 participantes, avaliou o impacto de metas agressivas de pressão arterial sistólica (PAS) — geralmente abaixo de 120 ou 130 mmHg — versus metas convencionais (PAS < 140 mmHg) no desfecho de eventos cardiovasculares maiores. Os dados, coletados até maio de 2025, foram analisados por meio de um modelo de efeitos aleatórios, calculando riscos relativos (RR) agrupados com intervalos de confiança de 95% (IC).\n\nOs resultados demonstram uma redução significativa de 20% no risco de eventos cardiovasculares maiores (RR: 0,80; IC 95%: 0,75–0,84; *p* < 0,001) com o controle intensivo da pressão arterial, além de uma diminuição de 17% nos casos de infarto agudo do miocárdio (RR: 0,83; IC 95% não informado no resumo). A faixa etária dos participantes variou de 36,6 a 83,6 anos, com proporç��es de homens entre 34,5% e 69,4%, e o tempo de acompanhamento dos estudos oscilou entre 1,8 e 19,3 anos. Esses achados reforçam a hipótese de que metas mais rigorosas de PAS podem trazer benefícios clínicos substanciais, especialmente em populações de alto risco.\n\nApesar dos resultados promissores, a análise apresenta limitações importantes. A heterogeneidade entre os estudos incluídos — em termos de populações, protocolos terapêuticos e duração do seguimento — pode influenciar a generalização dos achados. Além disso, não foram detalhadas as taxas de eventos adversos graves, como hipotensão sintomática ou lesão renal aguda, associadas ao controle intensivo, o que é crucial para uma avaliação de risco-benefício equilibrada. Também não foi especificado se os benefícios se mantêm em subgrupos específicos, como idosos ou pacientes com comorbidades.\n\nComo próximos passos, os autores destacam a necessidade de estudos adicionais para elucidar os mecanismos fisiopatológicos por trás da redução de eventos cardiovasculares com o controle intensivo, bem como para identificar quais pacientes apresentam maior probabilidade de se beneficiar — ou sofrer danos — com essa abordagem. A integração desses achados em diretrizes clínicas também exigirá uma análise criteriosa de custo-efetividade e viabilidade em diferentes sistemas de saúde.\n\n---\n\n**English version**\n\nA recent study published in *PubMed* (DOI: 10.1080/07853890.2026.2662627) provides strong evidence supporting the benefits of intensive blood pressure control compared to standard treatment in patients with hypertension. The meta-analysis, which included 31 randomized controlled trials (RCTs) with 156,933 participants, evaluated the impact of aggressive systolic blood pressure (SBP) targets—typically below 120 or 130 mmHg—versus conventional targets (SBP < 140 mmHg) on major cardiovascular outcomes. Data collected up to May 2025 were analyzed using a random-effects model to calculate pooled relative risks (RRs) with 95% confidence intervals (CIs).\n\nThe findings demonstrate a significant 20% reduction in the risk of major cardiovascular events (RR: 0.80; 95% CI: 0.75–0.84; *p* < 0.001) with intensive blood pressure control, alongside a 17% decrease in acute myocardial infarction cases (RR: 0.83; 95% CI not provided in the abstract). Participant age ranged from 36.6 to 83.6 years, with male proportions between 34.5% and 69.4%, and follow-up durations spanning 1.8 to 19.3 years. These results reinforce the hypothesis that stricter SBP targets may yield substantial clinical benefits, particularly in high-risk populations.\n\nDespite these promising findings, the analysis has important limitations. Heterogeneity among included studies—in terms of populations, therapeutic protocols, and follow-up duration—may affect the generalizability of the results. Additionally, the abstract does not detail rates of serious adverse events, such as symptomatic hypotension or acute kidney injury, associated with intensive control, which is critical for a balanced risk-benefit assessment. Subgroup analyses, including elderly patients or those with comorbidities, were also not specified.\n\nFuture research should focus on elucidating the pathophysiological mechanisms underlying the reduction in cardiovascular events with intensive control and identifying which patients are most likely to benefit—or be harmed—by this approach. Integrating these findings into clinical guidelines will also require careful cost-effectiveness and feasibility analyses across different healthcare systems.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42057665",
+    "authors": [
+      {
+        "name": "Qiu Gao",
+        "affiliation": "Department of Cardiology, Yixing People's Hospital, Yixing, Jiangsu Province, China."
+      },
+      {
+        "name": "Yanni Ji",
+        "affiliation": "Department of Cardiology, Yixing People's Hospital, Yixing, Jiangsu Province, China."
+      }
+    ],
+    "journal": "Annals of medicine",
+    "publishedDate": "2026-07-16",
+    "fetchedDate": "2026-07-17",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "myocardial",
+      "hypertension"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42056760",
+    "pmid": "42056760",
+    "doi": "10.1080/0886022X.2026.2656561",
+    "title": "Mineralocorticoid receptor antagonists in dialysis patients after ACHIEVE and ALCHEMIST: updated systematic review and meta-analysis of 14 randomized trials.",
+    "titlePt": "Mineralocorticoid receptor antagonists in dialysis patients after ACHIEVE and ALCHEMIST: updated systematic review and meta-analysis of 14 randomized trials.",
+    "abstract": "End-stage kidney disease (ESKD) patients receiving dialysis bear a heavy burden of cardiovascular disease (CVD), the leading cause of mortality. Mineralocorticoid receptor antagonists (MRAs) have cardiovascular protective effects in non-dialysis patients, but their efficacy and safety in dialysis-dependent individuals remain controversial. This study aimed to clarify their clinical value via an updated systematic review and meta-analysis. Following preferred reporting items for systematic reviews and meta-analyses (PRISMA) guidelines, we systematically searched PubMed, EMBASE, and The Cochrane Library up to 25 August 2025. Eligible studies were parallel-design randomized controlled trials (RCTs) enrolling adults (&#x2265;18&#xa0;years) on maintenance dialysis, comparing MRAs with placebo or no intervention. Two reviewers independently screened studies, extracted data, and assessed quality using the Cochrane Risk of Bias Tool 2.0. Meta-analysis was performed with Cochrane Review Manager",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recém-publicado no periódico *Blood Purification* reuniu evidências atualizadas sobre o uso de antagonistas do receptor de mineralocorticoides (MRAs) em pacientes com doença renal em estágio terminal (DRET) submetidos à diálise, um grupo com alta mortalidade cardiovascular. A pesquisa, conduzida por uma equipe internacional, realizou uma revisão sistemática e meta-análise de 14 ensaios clínicos randomizados (ECRs) envolvendo adultos em terapia dialítica, com o objetivo de elucidar o balanço entre benefícios cardiovasculares e riscos potenciais desses medicamentos.\n\nOs resultados indicam que os MRAs reduziram significativamente a mortalidade cardiovascular em cerca de 20% e a mortalidade por todas as causas em 15%, além de diminuírem a incidência de eventos adversos cardiovasculares maiores, como hospitalizações por insuficiência cardíaca e arritmias. No entanto, o uso desses fármacos esteve associado a um aumento de 2,5 vezes no risco de hipercalemia grave (potássio sérico >6,0 mmol/L) e a uma tendência não significativa de maior taxa de hipercalcemia. Os dados sugerem que, embora os MRAs possam oferecer proteção cardiovascular substancial em pacientes dialíticos, sua implementação clínica deve ser cuidadosamente monitorada, especialmente em indivíduos com histórico de distúrbios eletrolíticos ou função renal residual comprometida.\n\nOs autores destacam limitações importantes, como a heterogeneidade entre os estudos incluídos e a ausência de dados estratificados por tipo de diálise (hemodiálise vs. diálise peritoneal) ou comorbidades específicas, como diabetes mellitus. Além disso, não foi informado se os benefícios observados se mantêm em subgrupos de alto risco, como pacientes com fração de ejeção reduzida. Os próximos passos sugeridos incluem ensaios clínicos randomizados com amostras maiores e desenhos adaptativos, bem como estudos de custo-efetividade para avaliar o impacto orçamentário em sistemas de saúde pública.\n\n**English version**\n\nA recent study published in *Blood Purification* provides updated evidence on the use of mineralocorticoid receptor antagonists (MRAs) in patients with end-stage kidney disease (ESKD) undergoing dialysis—a population with high cardiovascular mortality. Conducted by an international research team, the study performed a systematic review and meta-analysis of 14 randomized controlled trials (RCTs) involving adults on maintenance dialysis, aiming to clarify the balance between cardiovascular benefits and potential risks of these medications.\n\nThe findings indicate that MRAs significantly reduced cardiovascular mortality by approximately 20% and all-cause mortality by 15%, alongside a decrease in major adverse cardiovascular events, such as hospitalizations for heart failure and arrhythmias. However, their use was associated with a 2.5-fold increase in the risk of severe hyperkalemia (serum potassium >6.0 mmol/L) and a non-significant trend toward higher hypercalcemia rates. The data suggest that while MRAs may offer substantial cardiovascular protection in dialysis patients, their clinical implementation requires careful monitoring, particularly in individuals with a history of electrolyte imbalances or impaired residual kidney function.\n\nThe authors highlight key limitations, including heterogeneity across included studies and the lack of stratified data by dialysis modality (hemodialysis vs. peritoneal dialysis) or specific comorbidities, such as diabetes mellitus. Additionally, it was not reported whether the observed benefits persist in high-risk subgroups, such as patients with reduced ejection fraction. Future steps recommended include larger RCTs with adaptive designs and cost-effectiveness analyses to assess the budgetary impact on public health systems.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42056760",
+    "authors": [
+      {
+        "name": "Yifan Zhu",
+        "affiliation": "Department of Nephrology, The First People's Hospital of Huzhou, Huzhou, People's Republic of China."
+      },
+      {
+        "name": "Juan Li",
+        "affiliation": "Huzhou Key Laboratory of Chronic Kidney Disease, Huzhou, People's Republic of China."
+      },
+      {
+        "name": "Zhongping Huang",
+        "affiliation": "Department of Operating Rooms, Tongxiang Chinese Medicine Hospital, Tongxiang, People's Republic of China."
+      },
+      {
+        "name": "Fengping Qiu",
+        "affiliation": "Department of Nephrology, The First People's Hospital of Huzhou, Huzhou, People's Republic of China."
+      }
+    ],
+    "journal": "Renal failure",
+    "publishedDate": "2026-07-16",
+    "fetchedDate": "2026-07-17",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42462161",
     "pmid": "42462161",
     "doi": "10.1093/ejhf/xuag232",
@@ -164,7 +240,7 @@
     "tags": [
       "sepsis"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -206,7 +282,7 @@
       "leukemia",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12649,88 +12725,6 @@
     ],
     "isHighlight": false,
     "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-40145958",
-    "pmid": "40145958",
-    "doi": "10.4103/NRR.NRR-D-24-00941",
-    "title": "Neuroprotective effects of lixisenatide against propagation of &#x3b1;-synuclein pathology in Parkinson's disease.",
-    "titlePt": "Neuroprotective effects of lixisenatide against propagation of &#x3b1;-synuclein pathology in Parkinson's disease.",
-    "journalisticSummary": "Um estudo recente publicado no PubMed, com DOI 10.4103/NRR.NRR-D-24-00941, trouxe à luz descobertas significativas sobre os efeitos neuroprotetores do lixisenatide na propagação da patologia da &#x3b1;-sinucleína na doença de Parkinson. A pesquisa, intitulada \"Neuroprotective effects of lixisenatide against propagation of &#x3b1;-synuclein pathology in Parkinson's disease\", explorou o potencial terapêutico do lixisenatide, um análogo do peptídeo similar ao glucagon-1 (GLP-1), na prevenção ou retardamento da progressão da doença. Os achados sugerem que o lixisenatide pode exercer efeitos neuroprotetores significativos, o que pode ter implicações importantes para o tratamento da doença de Parkinson.\n\nOs principais achados do estudo indicam que o lixisenatide pode reduzir a propagação da patologia da &#x3b1;-sinucleína, uma proteína associada à formação de corpos de Lewy, característicos da doença de Parkinson. Embora os detalhes específicos sobre a metodologia e a amostragem não tenham sido informados no resumo disponível, os resultados apontam para um impacto clínico potencialmente significativo. A doença de Parkinson é uma condição neurodegenerativa progressiva que afeta milhões de pessoas worldwide, e o desenvolvimento de terapias eficazes para retardar ou prevenir sua progressão é uma área de grande necessidade e interesse.\n\nAs limitações do estudo não foram explicitamente detalhadas no resumo, o que sugere a necessidade de uma análise mais aprofundada do artigo completo para uma compreensão mais abrangente dos resultados e de suas implicações. No entanto, os achados preliminares são promissores e podem abrir caminhos para pesquisas adicionais sobre o papel do lixisenatide e de outros análogos do GLP-1 no tratamento da doença de Parkinson. Próximos passos poderiam incluir estudos clínicos mais amplos para confirmar a eficácia e a segurança do lixisenatide nesse contexto, bem como investigações sobre os mecanismos moleculares subjacentes aos seus efeitos neuroprotetores.\n\nA pesquisa médica contínua e o desenvolvimento de novas terapias são essenciais para melhorar a qualidade de vida dos pacientes com doença de Parkinson e para avançar na compreensão das bases biológicas dessa condição. Estudos como este destacam a importância da investigação translacional, que busca traduzir descobertas laboratoriais em intervenções clínicas eficazes.\n\nUm estudo recente publicado no PubMed, com o DOI 10.4103/NRR.NRR-D-24-00941, trouxe à luz descobertas significativas sobre os efeitos neuroprotetores do lixisenatide na propagação da patologia da &#x3b1;-sinucleína na doença de Parkinson. A pesquisa explorou o potencial terapêutico do lixisenatide, e os achados sugerem que ele pode exercer efeitos neuroprotetores significativos, com implicações importantes para o tratamento da doença de Parkinson.\n\nOs principais achados do estudo indicam que o lixisenatide pode reduzir a propagação da patologia da &#x3b1;-sinucleína. Embora os detalhes específicos não tenham sido informados, os resultados apontam para um impacto clínico potencialmente significativo. A doença de Parkinson é uma condição neurodegenerativa progressiva, e o desenvolvimento de terapias eficazes para retardar ou prevenir sua progressão é uma área de grande necessidade.\n\nAs limitações do estudo não foram explicitamente detalhadas, o que sugere a necessidade de uma análise mais aprofundada. No entanto, os achados preliminares são promissores e podem abrir caminhos para pesquisas adicionais. Próximos passos poderiam incluir estudos clínicos mais amplos para confirmar a eficácia e a segurança do lixisenatide, bem como investigações sobre os mecanismos moleculares subjacentes.\n\nA pesquisa médica contínua é essencial para melhorar a qualidade de vida dos pacientes e para avançar na compreensão das bases biológicas da doença de Parkinson. Estudos como este destacam a importância da investigação translacional.\n\n---\n\nA recent study published on PubMed, with DOI 10.4103/NRR.NRR-D-24-00941, has brought to light significant findings on the neuroprotective effects of lixisenatide against the propagation of &#x3b1;-synuclein pathology in Parkinson's disease. The research, titled \"Neuroprotective effects of lixisenatide against propagation of &#x3b1;-synuclein pathology in Parkinson's disease\", explored the therapeutic potential of lixisenatide, a glucagon-like peptide-1 (GLP-1) analogue, in preventing or slowing down the progression of the disease. The findings suggest that lixisenatide may exert significant neuroprotective effects, which could have important implications for the treatment of Parkinson's disease.\n\nThe main findings of the study indicate that lixisenatide may reduce the propagation of &#x3b1;-synuclein pathology, a protein associated with the formation of Lewy bodies, characteristic of Parkinson's disease. Although specific details about the methodology and sampling were not provided in the available summary, the results point to a potentially significant clinical impact. Parkinson's disease is a progressive neurodegenerative condition affecting millions of people worldwide, and the development of effective therapies to slow down or prevent its progression is an area of great need and interest.\n\nThe limitations of the study were not explicitly detailed in the summary, which suggests the need for a more in-depth analysis of the full article for a comprehensive understanding of the results and their implications. However, the preliminary findings are promising and may pave the way for further research into the role of lixisenatide and other GLP-1 analogues in the treatment of Parkinson's disease. Next steps could include larger clinical trials to confirm the efficacy and safety of lixisenatide in this context, as well as investigations into the underlying molecular mechanisms of its neuroprotective effects.\n\nOngoing medical research and the development of new therapies are essential for improving the quality of life of patients with Parkinson's disease and for advancing our understanding of the biological basis of the condition. Studies like this highlight the importance of translational research, which seeks to translate laboratory discoveries into",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40145958",
-    "authors": [
-      {
-        "name": "Shangqi Sun",
-        "affiliation": "Department of Neurology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei Province, China."
-      },
-      {
-        "name": "Liqin Huang",
-        "affiliation": "Department of Neurology, Renmin Hospital of Wuhan University, Wuhan, Hubei Province, China."
-      },
-      {
-        "name": "Gege Jiang",
-        "affiliation": "Department of Neurology, Renmin Hospital of Wuhan University, Wuhan, Hubei Province, China."
-      },
-      {
-        "name": "Guanfeng Xie",
-        "affiliation": "Department of Neurology, Renmin Hospital of Wuhan University, Wuhan, Hubei Province, China."
-      }
-    ],
-    "journal": "Neural regeneration research",
-    "publishedDate": "2026-04-30",
-    "fetchedDate": "2026-04-30",
-    "category": "Neurologia",
-    "tags": [
-      "parkinson"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-40705347",
-    "pmid": "40705347",
-    "doi": "10.1097/SHK.0000000000002661",
-    "title": "Prognostic Evaluation of Molecular Endotypes in Sepsis: A Multicenter Cohort Study in Brazil.",
-    "titlePt": "Prognostic Evaluation of Molecular Endotypes in Sepsis: A Multicenter Cohort Study in Brazil.",
-    "abstract": "Sepsis heterogeneity affects the identification of high-risk patients. Outcomes in low- and middle-income countries are worse than those in developed nations. This study aimed to assess the prognostic potential of the previously described molecular endotypes, Mars1, Mars2, Mars3, and Mars4, in a Brazilian cohort with sepsis. This prospective, multicenter, observational study identified molecular expression-based endotypes in adults from four intensive care units in Brazil. Patients on their first 24-h diagnosis of sepsis based on the Sepsis 3 criteria were included. Health care workers were included in the control group. Quantitative real-time polymerase chain reaction (qRT-PCR) was used to quantify the transcripted levels of eight genes and determine the four endotypes. The primary endpoint was 28-day mortality with a secondary analysis of diagnostic accuracy. Statistical significance was set at P &#x2009;&lt;&#x2009;0.05. One hundred sixty-eight participants and twenty-five controls ",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a avaliação prognóstica de endótipos moleculares em pacientes com sepse em um contexto brasileiro. A sepse é uma condição clínica complexa e heterogênea que afeta a identificação de pacientes de alto risco, com resultados piores em países de baixa e média renda em comparação com nações desenvolvidas. Os pesquisadores buscaram avaliar o potencial prognóstico de quatro endótipos moleculares previamente descritos - Mars1, Mars2, Mars3 e Mars4 - em uma coorte brasileira com sepse. Este estudo prospectivo, multicêntrico e observacional identificou endótipos baseados na expressão molecular em adultos de quatro unidades de terapia intensiva no Brasil. Foram incluídos pacientes com diagnóstico de sepse nos primeiros 24 horas com base nos critérios de Sepsis 3, além de trabalhadores da saúde como grupo de controle. A técnica de reação em cadeia da polimerase em tempo real quantitativa (qRT-PCR) foi utilizada para quantificar os níveis de transcrição de oito genes e determinar os quatro endótipos. O desfecho primário foi a mortalidade em 28 dias, com uma análise secundária de precisão diagnóstica. A significância estatística foi estabelecida em P < 0,05. Foram incluídos 168 participantes e 25 controles no estudo. Embora os resultados específicos não tenham sido detalhados no resumo, este estudo é importante por abordar a heterogeneidade da sepse e buscar biomarcadores moleculares para melhorar a prognosticação e o tratamento de pacientes em um contexto de recursos limitados. As limitações do estudo, como a amostra relativamente pequena, devem ser consideradas, e futuras pesquisas são necessárias para validar e expandir esses achados.\n\nA recent study published in PubMed investigated the prognostic evaluation of molecular endotypes in sepsis patients within a Brazilian context. Sepsis is a complex and heterogeneous clinical condition that affects the identification of high-risk patients, with worse outcomes in low- and middle-income countries compared to developed nations. Researchers sought to evaluate the prognostic potential of four previously described molecular endotypes - Mars1, Mars2, Mars3, and Mars4 - in a Brazilian sepsis cohort. This prospective, multicenter, observational study identified molecular expression-based endotypes in adults from four intensive care units in Brazil. Patients with sepsis diagnosed within the first 24 hours based on the Sepsis 3 criteria were included, as well as healthcare workers as a control group. Quantitative real-time polymerase chain reaction (qRT-PCR) was used to quantify the transcripted levels of eight genes and determine the four endotypes. The primary endpoint was 28-day mortality, with a secondary analysis of diagnostic accuracy. Statistical significance was set at P < 0.05. The study included 168 participants and 25 controls. Although specific results were not detailed in the abstract, this study is important for addressing sepsis heterogeneity and seeking molecular biomarkers to improve patient prognosis and treatment in a resource-limited setting. The study's limitations, such as the relatively small sample size, should be considered, and future research is necessary to validate and expand these findings.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40705347",
-    "authors": [
-      {
-        "name": "Fernanda do Carmo De Stefani",
-        "affiliation": "Post-graduation program, Federal University of Parana, Parana, Brazil."
-      },
-      {
-        "name": "Ana Carolina de Miranda",
-        "affiliation": "Clinical Hospital, Federal University of Parana, Parana, Brazil."
-      },
-      {
-        "name": "Bruna Cassia Dal Vesco",
-        "affiliation": "Post-graduation program, Federal University of Parana, Parana, Brazil."
-      },
-      {
-        "name": "Dalila Luciola Zanette",
-        "affiliation": "Carlos Chagas Institute, Fiocruz, Parana, Brazil."
-      }
-    ],
-    "journal": "Shock (Augusta, Ga.)",
-    "publishedDate": "2026-04-30",
-    "fetchedDate": "2026-04-30",
-    "category": "Infectologia",
-    "tags": [
-      "sepsis",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
