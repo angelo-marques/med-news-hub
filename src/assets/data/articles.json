@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42538105",
+    "pmid": "42538105",
+    "doi": "10.1136/bmjopen-2026-120064",
+    "title": "Examining the immune response of participants receiving Modified Vaccinia Ankara vaccine in Africa (MpoxVax AFRIVAC): a prospective cohort study - protocol.",
+    "titlePt": "Examining the immune response of participants receiving Modified Vaccinia Ankara vaccine in Africa (MpoxVax AFRIVAC): a prospective cohort study - protocol.",
+    "abstract": "Mpox remains an ongoing global health concern, driven by an ongoing clade I outbreak in Central Africa, which has caused substantial morbidity and mortality. Despite deployment of the Modified Vaccinia Ankara-Bavarian Nordic (MVA-BN) vaccine, data on the durability of vaccine-induced immune responses remain limited, particularly in African populations, women and people with HIV, highlighting the need for context-specific immunogenicity data. Mpox-Vax AFRIVAC is a prospective, multicentre observational cohort study conducted in Uganda, Tanzania and the Democratic Republic of the Congo (DRC). Adults eligible for MVA-BN vaccination for mpox prevention or who received a first dose within 28 days prior to enrolment are followed for 48 weeks. Serial blood samples are collected to quantify binding antibody responses and assess their durability over time. The primary outcomes are mean geometric MVA-BN-specific antibody titres at week 48 and the rate of antibody decay from week 6 to week 48. Se",
+    "journalisticSummary": "A doença do vírus mpox continua sendo uma preocupação global de saúde, impulsionada por um surto contínuo da clade I na África Central, que causou morbidade e mortalidade significativas. Apesar do desdobramento da vacina Modified Vaccinia Ankara-Bavarian Nordic (MVA-BN), os dados sobre a duração das respostas imunológicas induzidas pela vacina permanecem limitados, particularmente em populações africanas, mulheres e pessoas com HIV, destacando a necessidade de dados de imunogenicidade específicos do contexto. O estudo Mpox-Vax AFRIVAC é um estudo de coorte prospectivo e multicêntrico realizado em Uganda, Tanzânia e República Democrática do Congo (RDC). Adultos elegíveis para vacinação com MVA-BN para prevenção de mpox ou que receberam uma primeira dose dentro de 28 dias antes do recrutamento são acompanhados por 48 semanas. Amostras de sangue seriadas são coletadas para quantificar as respostas de anticorpos de ligação e avaliar sua duração ao longo do tempo. Os principais resultados são os títulos médios geométricos de anticorpos específicos para MVA-BN na semana 48 e a taxa de declínio de anticorpos da semana 6 à semana 48.\n\nOs achados principais deste estudo ainda não foram divulgados, pois o resumo apresentado se refere ao protocolo do estudo. No entanto, é esperado que os resultados forneçam informações valiosas sobre a duração da resposta imunológica induzida pela vacina MVA-BN em populações africanas, incluindo subgrupos como mulheres e pessoas com HIV. Esses dados são cruciais para informar estratégias de vacinação eficazes e garantir a proteção contínua contra a doença mpox. As limitações do estudo incluem a falta de informações sobre os resultados clínicos e a possibilidade de viés de seleção de participantes. Os próximos passos incluem a conclusão do estudo e a publicação dos resultados, que devem fornecer insights importantes para a comunidade científica e os formuladores de políticas de saúde.\n\nA doença do vírus mpox é um desafio contínuo para a saúde global, e estudos como o Mpox-Vax AFRIVAC são essenciais para avançar no conhecimento sobre a prevenção e o controle da doença. A colaboração internacional e a pesquisa científica são fundamentais para desenvolver estratégias eficazes de prevenção e tratamento, especialmente em regiões afetadas pela doença.\n\nThe mpox virus disease remains an ongoing global health concern, driven by a continuing clade I outbreak in Central Africa, which has caused significant morbidity and mortality. Despite the deployment of the Modified Vaccinia Ankara-Bavarian Nordic (MVA-BN) vaccine, data on the durability of vaccine-induced immune responses remain limited, particularly in African populations, women, and people with HIV, highlighting the need for context-specific immunogenicity data. The Mpox-Vax AFRIVAC study is a prospective, multicenter observational cohort study conducted in Uganda, Tanzania, and the Democratic Republic of the Congo (DRC). Adults eligible for MVA-BN vaccination for mpox prevention or who received a first dose within 28 days prior to enrollment are followed for 48 weeks. Serial blood samples are collected to quantify binding antibody responses and assess their durability over time. The primary outcomes are the mean geometric MVA-BN-specific antibody titers at week 48 and the rate of antibody decay from week 6 to week 48.\n\nThe main findings of this study have not been released yet, as the presented abstract refers to the study protocol. However, it is expected that the results will provide valuable information about the duration of the immune response induced by the MVA-BN vaccine in African populations, including subgroups such as women and people with HIV. This data is crucial to inform effective vaccination strategies and ensure continued protection against mpox disease. The limitations of the study include the lack of information on clinical outcomes and the possibility of selection bias of participants. The next steps include completing the study and publishing the results, which should provide important insights for the scientific community and health policymakers.\n\nThe mpox virus disease is an ongoing challenge for global health, and studies like Mpox-Vax AFRIVAC are essential to advance knowledge about disease prevention and control. International collaboration and scientific research are fundamental to developing effective prevention and treatment strategies, especially in regions affected by the disease.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538105",
+    "authors": [
+      {
+        "name": "Joanne Byrne",
+        "affiliation": "Centre for Experimental Pathogen Host Research (CEPHR), University College Dublin, Dublin, Ireland joanne.byrne@ucd.ie."
+      },
+      {
+        "name": "Winters Muttamba",
+        "affiliation": "Department of Infectious Diseases, St Vincent's University Hospital, Dublin, Ireland."
+      },
+      {
+        "name": "Alain Balola Ntaboba",
+        "affiliation": "Interdisciplinary Consortium for Epidemics Research (ICER), Kampala, Uganda."
+      },
+      {
+        "name": "Bariki Mtafya",
+        "affiliation": "Makerere University Lung Institute, Kampala, Central Region, Uganda."
+      }
+    ],
+    "journal": "BMJ open",
+    "publishedDate": "2026-07-31",
+    "fetchedDate": "2026-08-01",
+    "category": "Imunologia",
+    "tags": [
+      "hiv",
+      "immune",
+      "vaccine",
+      "antibody"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42053135",
     "pmid": "42053135",
     "doi": "10.1515/cclm-2026-0370",
@@ -206,7 +250,7 @@
       "atrial",
       "rna"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12683,47 +12727,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42084585",
-    "pmid": "42084585",
-    "doi": "10.1016/j.annemergmed.2026.03.020",
-    "title": "Mothership and Drip-and-Ship Strategies in Mechanical Thrombectomy for Acute Ischemic Stroke.",
-    "titlePt": "Mothership and Drip-and-Ship Strategies in Mechanical Thrombectomy for Acute Ischemic Stroke.",
-    "abstract": "The optimal out-of-hospital referral pathway for patients with acute ischemic stroke due to large vascular occlusion (AIS-LVO)-direct transport to a comprehensive center (mothership) versus initial evaluation at a local hospital followed by transfer (drip-and-ship)-remains controversial. This systematic review and meta-analysis aimed to evaluate the comparative effectiveness of mothership and drip-and-ship strategies on clinical outcomes. We searched PubMed, Embase, Web of Science, and the Cochrane Library from inception to March 18, 2025, to identify studies comparing mothership and drip-and-ship paradigms in AIS-LVO patients treated with mechanical thrombectomy. Random-effects meta-analyses were conducted to calculate pooled odds ratios (ORs) for primary outcomes, including 90-day modified Rankin Scale (mRS) 0 to 2, 90-day mRS 0 to 3, successful recanalization, symptomatic intracranial hemorrhage, and 90-day mortality. A total of 42 studies comprising 25,005 patients were included. C",
-    "journalisticSummary": "A escolha da melhor via de referência para pacientes com acidente vascular cerebral isquêmico agudo (AVCIA) devido a oclusão vascular grande é um tema controverso. Um estudo recente publicado na revista Annals of Emergency Medicine buscou avaliar a eficácia comparativa das estratégias de \"mothership\" (transporte direto para um centro compreensivo) e \"drip-and-ship\" (avaliação inicial em um hospital local seguida de transferência) em pacientes com AVCIA tratados com trombectomia mecânica. A pesquisa incluiu 42 estudos que envolveram 25.005 pacientes e utilizou meta-análises com efeitos aleatórios para calcular as razões de odds (OR) para os resultados primários, incluindo a escala modificada de Rankin (mRS) 0 a 2 e 0 a 3 em 90 dias, recanalização bem-sucedida, hemorragia intracraniana sintomática e mortalidade em 90 dias. No entanto, não foram fornecidos os detalhes específicos dos achados principais, o que limita a capacidade de discutir os resultados com precisão. Além disso, o estudo não forneceu informações sobre as limitações ou os próximos passos, o que é essencial para entender a aplicabilidade clínica e as direções futuras de pesquisa. Portanto, é fundamental considerar que a falta de detalhes específicos sobre os resultados limita a capacidade de discutir o impacto clínico com precisão.\n\nA escolha da melhor via de referência para pacientes com acidente vascular cerebral isquêmico agudo devido a oclusão vascular grande é um tema controverso. O estudo em questão não forneceu informações suficientes sobre os resultados específicos, o que impede uma análise mais profunda do impacto clínico das estratégias de \"mothership\" e \"drip-and-ship\". É fundamental que futuras pesquisas abordem essas lacunas para fornecer orientações claras para a prática clínica.\n\nThe choice of the best referral pathway for patients with acute ischemic stroke due to large vascular occlusion remains a controversial topic. A recent study published in the Annals of Emergency Medicine aimed to evaluate the comparative effectiveness of \"mothership\" (direct transport to a comprehensive center) and \"drip-and-ship\" (initial evaluation at a local hospital followed by transfer) strategies in patients with acute ischemic stroke treated with mechanical thrombectomy. The research included 42 studies involving 25,005 patients and used random-effects meta-analyses to calculate the odds ratios (OR) for primary outcomes, including the modified Rankin Scale (mRS) 0 to 2 and 0 to 3 at 90 days, successful recanalization, symptomatic intracranial hemorrhage, and 90-day mortality. However, the study did not provide specific details of the main findings, which limits the ability to discuss the results with precision. Additionally, the study did not provide information on limitations or next steps, which is essential for understanding clinical applicability and future research directions. Therefore, it is crucial to consider that the lack of specific details on the results limits the ability to discuss the clinical impact with precision.\n\nThe choice of the best referral pathway for patients with acute ischemic stroke due to large vascular occlusion remains a controversial topic. The study in question did not provide sufficient information on the specific outcomes, which precludes a more in-depth analysis of the clinical impact of the \"mothership\" and \"drip-and-ship\" strategies. It is essential that future research addresses these gaps to provide clear guidance for clinical practice.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42084585",
-    "authors": [
-      {
-        "name": "Lei Guo",
-        "affiliation": "Department of Neurology, Xindu District People's Hospital of Chengdu, Chengdu, China."
-      },
-      {
-        "name": "Jun Zhang",
-        "affiliation": "Department of Neurology, Xindu District People's Hospital of Chengdu, Chengdu, China."
-      },
-      {
-        "name": "Guo Tang",
-        "affiliation": "Department of Emergency, West China Hospital, Sichuan University, Chengdu, China."
-      },
-      {
-        "name": "Jianhong Wang",
-        "affiliation": "Department of Neurology, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital, University of Electronic Science and Technology of China, Chengdu, China."
-      }
-    ],
-    "journal": "Annals of emergency medicine",
-    "publishedDate": "2026-05-05",
-    "fetchedDate": "2026-05-05",
-    "category": "Neurologia",
-    "tags": [
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
