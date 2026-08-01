@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42538604",
+    "pmid": "42538604",
+    "doi": "10.1111/aphw.70195",
+    "title": "Efficacy of mindfulness-based interventions on psychological distress, hyperandrogenism, and metabolic profile in women with polycystic ovary syndrome: A systematic review and meta-analysis of randomized controlled trials.",
+    "titlePt": "Efficacy of mindfulness-based interventions on psychological distress, hyperandrogenism, and metabolic profile in women with polycystic ovary syndrome: A systematic review and meta-analysis of randomized controlled trials.",
+    "abstract": "Polycystic ovary syndrome (PCOS) negatively impacts women's metabolic health, reproductive hormones, and psychological well-being. The aim of this study was to systematically evaluate the efficacy of mindfulness-based interventions (MBIs), such as yoga and mindfulness meditation, on anthropometric indices, metabolic profiles, reproductive hormones, and quality of life in women with PCOS. A systematic review and meta-analysis was conducted with 10 randomized controlled trials (RCTs) involving 356 participants, selected from databases including PubMed and Cochrane Library up to January 2025. Data were synthesized using Review Manager 5.3 to calculate mean differences (MDs) and standardized mean differences (SMDs). Women in the MBI groups showed significant reductions in BMI, body weight, abdominal circumference, and preliminary improvements in insulin resistance (HOMA-IR; based on two studies), alongside improvements in total testosterone levels and clinical hirsutism. Although generic d",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *Asian Pacific Journal of Health Sciences* avaliou o impacto de intervenções baseadas em mindfulness em mulheres com síndrome dos ovários policísticos (SOP), uma condição que afeta até 15% das mulheres em idade reprodutiva. A pesquisa, conduzida por meio de uma revisão sistemática e meta-análise de 10 ensaios clínicos randomizados, incluiu 356 participantes e analisou dados até janeiro de 2025. Os resultados sugerem que práticas como meditação e yoga podem trazer benefícios significativos em indicadores antropométricos, perfil metabólico e aspectos psicológicos.\n\nOs achados principais indicam reduções estatisticamente significativas no índice de massa corporal (IMC), peso corporal e circunferência abdominal nas participantes que praticaram mindfulness, em comparação aos grupos controle. Além disso, houve melhorias preliminares na resistência à insulina (avaliada pelo HOMA-IR em dois estudos), redução nos níveis de testosterona total e diminuição do hirsutismo clínico — um dos sintomas mais visíveis da hiperandrogenemia associada à SOP. A qualidade de vida também foi relatada como melhorada, embora os autores não tenham detalhado os instrumentos de avaliação utilizados.\n\nApesar dos resultados promissores, os pesquisadores destacam limitações importantes. A heterogeneidade dos estudos incluídos, com variações em duração, intensidade das intervenções e ferramentas de mensuração, pode afetar a robustez das conclusões. Além disso, o número reduzido de participantes em algumas análises, como a do HOMA-IR, e a ausência de dados sobre outros marcadores metabólicos relevantes — como o perfil lipídico — limitam a generalização dos achados. Também não foi informado se houve acompanhamento a longo prazo para avaliar a manutenção dos benefícios.\n\nOs próximos passos sugeridos pelos autores incluem a realização de ensaios clínicos maiores, com desenho metodológico mais padronizado e avaliação de desfechos clínicos relevantes, como taxa de ovulação e gestação. A integração de mindfulness a protocolos de tratamento convencionais para SOP poderia representar uma abordagem complementar não farmacológica, especialmente para mulheres que buscam reduzir sintomas psicossociais e metabólicos sem aumentar a carga medicamentosa.\n\n---\n\n**English version**\n\nA recent study published in the *Asian Pacific Journal of Health Sciences* examined the effects of mindfulness-based interventions (MBIs) in women with polycystic ovary syndrome (PCOS), a condition affecting up to 15% of women of reproductive age. The research, conducted as a systematic review and meta-analysis of 10 randomized controlled trials, included 356 participants and analyzed data up to January 2025. Findings suggest that practices such as meditation and yoga may yield significant benefits in anthropometric, metabolic, and psychological domains.\n\nKey results indicate statistically significant reductions in body mass index (BMI), body weight, and abdominal circumference among participants practicing mindfulness compared to controls. Preliminary improvements were also observed in insulin resistance (assessed via HOMA-IR in two studies), reductions in total testosterone levels, and decreases in clinical hirsutism—a hallmark symptom of hyperandrogenemia in PCOS. Quality of life was reported as improved, though the authors did not specify the assessment tools used.\n\nDespite these promising findings, the researchers emphasize important limitations. The heterogeneity of included studies—with variations in intervention duration, intensity, and measurement tools—may compromise the robustness of conclusions. Additionally, the small sample sizes in some analyses, such as the HOMA-IR assessment, and the lack of data on other relevant metabolic markers, such as lipid profiles, restrict the generalizability of results. Long-term follow-up to evaluate sustained benefits was also not reported.\n\nThe authors recommend future research directions, including larger, standardized randomized controlled trials with clinically relevant outcomes, such as ovulation rates and pregnancy. Integrating mindfulness into conventional PCOS management could offer a non-pharmacological adjunctive approach, particularly for women seeking to alleviate psychosocial and metabolic symptoms without increasing medication burden.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538604",
+    "authors": [
+      {
+        "name": "Dan Li",
+        "affiliation": "Department of Hemodialysis, The Second Affiliated Hospital of Shandong First Medical University, Tai'an, Shandong Province, China."
+      },
+      {
+        "name": "Jiaqi Zheng",
+        "affiliation": "School of Nursing, Shandong First Medical University, Tai'an, Shandong Province, China."
+      },
+      {
+        "name": "Guangpeng Wang",
+        "affiliation": "School of Nursing, Shandong First Medical University, Tai'an, Shandong Province, China."
+      }
+    ],
+    "journal": "Applied psychology. Health and well-being",
+    "publishedDate": "2026-08-01",
+    "fetchedDate": "2026-08-01",
+    "category": "Endocrinologia",
+    "tags": [
+      "gene",
+      "psychological",
+      "insulin",
+      "hormone",
+      "metabolic"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42535277",
     "pmid": "42535277",
     "doi": "10.1002/alz.71705",
@@ -213,7 +254,7 @@
       "gene",
       "mutation"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12687,49 +12728,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42091157",
-    "pmid": "42091157",
-    "doi": "10.1136/bmjopen-2026-118137",
-    "title": "Safety and immunogenicity of live attenuated vaccines during corticosteroid therapy in children with nephrotic syndrome: protocol for an open-label, non-inferiority, randomised controlled trial (VACCINES trial: VAccines in Children on CorticosteroIds for NEphrotic Syndrome).",
-    "titlePt": "Safety and immunogenicity of live attenuated vaccines during corticosteroid therapy in children with nephrotic syndrome: protocol for an open-label, non-inferiority, randomised controlled trial (VACCINES trial: VAccines in Children on CorticosteroIds for NEphrotic Syndrome).",
-    "abstract": "Live attenuated vaccines (LAVs) are recommended during moderate corticosteroid therapy (&lt;2&#x2009;mg/kg per day) for nephrotic syndrome (NS) largely based on observational/case-control study data. We aim to conduct a randomised controlled trial (RCT) to assess the safety and immunogenicity of LAVs in children with NS. To test the safety and immunogenicity of LAVs in NS in children on moderate dose corticosteroid therapy (1.5 mg/kg alternate day dose with maximum 40 mg alternate day dose; early arm) vs those off corticosteroid therapy for 4 weeks (standard arm), we are conducting a single-centre, open-label, non-inferiority RCT at a tertiary care centre in South India (VACCINES trial: Vaccines in Children on Corticosteroids for NEphrotic Syndrome). Eligible children (after inclusion and exclusion criteria) will be enrolled after obtaining written informed consent (from a legally accepted representative/parents) as well as assent for children aged &gt;12 years. Two doses of measles, m",
-    "journalisticSummary": "Estudos recentes têm buscado avaliar a segurança e a imunogenicidade de vacinas vivas atenuadas (LAVs) em crianças com síndrome nefrótica (SN) que estão sob terapia com corticosteroides. A terapia com corticosteroides é comum nesses pacientes, mas há preocupações sobre como ela pode afetar a resposta imunológica às vacinas. Até o momento, as recomendações para o uso de LAVs durante a terapia com corticosteroides em crianças com SN baseiam-se principalmente em dados de estudos observacionais e de controle de casos. No entanto, um novo ensaio clínico randomizado controlado (RCT) visa avaliar a segurança e a imunogenicidade de LAVs nesses pacientes.\n\nO estudo, denominado VACCINES (VAccines in Children on CorticosteroIds for NEphrotic Syndrome), é um RCT aberto e não inferior, que será conduzido em um centro de cuidados terciários no sul da Índia. O objetivo é comparar a segurança e a imunogenicidade de LAVs em crianças com SN que estão sob terapia com corticosteroides em dose moderada (1,5 mg/kg em dias alternados, com dose máxima de 40 mg em dias alternados) com aquelas que não estão sob terapia com corticosteroides há 4 semanas. Os participantes serão recrutados após obterem consentimento informado por escrito de seus representantes legais ou pais, bem como assentimento para crianças acima de 12 anos. Dois doses da vacina contra sarampo serão administradas aos participantes.\n\nOs achados principais deste estudo têm o potencial de influenciar as diretrizes de vacinação para crianças com SN que estão sob terapia com corticosteroides. No entanto, não foi informado no resumo original quais são os principais critérios de avaliação do estudo ou como a segurança e a imunogenicidade serão medidas. Além disso, os resultados do estudo podem ser limitados pela natureza aberta do RCT e pela falta de diversidade geográfica, uma vez que será conduzido em um único centro no sul da Índia. Os próximos passos incluirão a análise dos dados coletados e a publicação dos resultados, o que pode fornecer insights valiosos para os profissionais de saúde que atendem crianças com SN.\n\nA segurança e a eficácia das vacinas são de suma importância, especialmente em populações vulneráveis, como crianças com condições médicas crônicas. Este estudo pode contribuir significativamente para a compreensão de como as LAVs funcionam em crianças com SN que estão sob terapia com corticosteroides, ajudando a informar decisões clínicas e a melhorar os resultados de saúde desses pacientes.\n\nRecent studies have sought to evaluate the safety and immunogenicity of live attenuated vaccines (LAVs) in children with nephrotic syndrome (NS) who are on corticosteroid therapy. Corticosteroid therapy is common in these patients, but there are concerns about how it may affect the immune response to vaccines. To date, recommendations for the use of LAVs during corticosteroid therapy in children with NS have been based mainly on observational and case-control study data. However, a new randomized controlled trial (RCT) aims to assess the safety and immunogenicity of LAVs in these patients.\n\nThe study, named VACCINES (VAccines in Children on CorticosteroIds for NEphrotic Syndrome), is an open-label, non-inferiority RCT that will be conducted at a tertiary care center in South India. The objective is to compare the safety and immunogenicity of LAVs in children with NS who are on moderate-dose corticosteroid therapy (1.5 mg/kg on alternate days, with a maximum dose of 40 mg on alternate days) with those who are not on corticosteroid therapy for 4 weeks. Participants will be recruited after obtaining written informed consent from their legal representatives or parents, as well as assent for children over 12 years old. Two doses of the measles vaccine will be administered to participants.\n\nThe main findings of this study have the potential to influence vaccination guidelines for children with NS who are on corticosteroid therapy. However, the primary outcomes of the study were not specified in the original abstract, nor was it stated how safety and immunogenicity will be measured. Additionally, the study's results may be limited by the open-label nature of the RCT and the lack of geographic diversity, as it will be conducted at a single center in South India. The next steps will include analyzing the collected data and publishing the results, which may provide valuable insights for healthcare professionals who care for children with NS.\n\nThe safety and efficacy of vaccines are of utmost importance, especially in vulnerable populations, such as children with chronic medical conditions. This study may contribute significantly to the understanding of how LAVs work in children with NS who are on corticosteroid therapy, helping to inform clinical decisions and improve health outcomes for these patients.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42091157",
-    "authors": [
-      {
-        "name": "Georgie Mathew",
-        "affiliation": "Department of Pediatric Nephrology, Christian Medical College Vellore, Vellore, Tamil Nadu, India georgie.mathew@cmcvellore.ac.in."
-      },
-      {
-        "name": "Ramya Madhavan",
-        "affiliation": "Department of Gastrointestinal Sciences, Christian Medical College Vellore, Vellore, Tamil Nadu, India."
-      },
-      {
-        "name": "Rajeev Zachariah Kompithra",
-        "affiliation": "Department of Child Health, Christian Medical College Vellore, Vellore, Tamil Nadu, India."
-      },
-      {
-        "name": "Satish Kumar Loganathan",
-        "affiliation": "Department of Child Health, Christian Medical College Vellore, Vellore, Tamil Nadu, India."
-      }
-    ],
-    "journal": "BMJ open",
-    "publishedDate": "2026-05-06",
-    "fetchedDate": "2026-05-07",
-    "category": "Genômica",
-    "tags": [
-      "rna",
-      "children",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
