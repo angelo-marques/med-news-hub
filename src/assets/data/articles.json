@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-40164110",
+    "pmid": "40164110",
+    "doi": "10.1080/10255842.2025.2477809",
+    "title": "Advancing cancer care: unravelling genomic insights for precision medicine using meticulous predictive architecture.",
+    "titlePt": "Advancing cancer care: unravelling genomic insights for precision medicine using meticulous predictive architecture.",
+    "abstract": "Advancements in genomic profiling have significantly enhanced oncology by enabling precise tumor classification. However, challenges such as high dimensionality and limited sample sizes persist. This study presents a predictive modeling framework integrating t-distributed stochastic neighbor embedding (t-SNE) with Kullback-Leibler divergence and Shannon entropy reduction for efficient dimensionality reduction. A hybrid decisive random forest classifier further enhances model robustness and generalizability. Evaluated on the TCGA Pancancer dataset encompassing five cancer types, the proposed model achieved 99% accuracy, demonstrating superior sensitivity and specificity. This approach provides a reliable and interpretable solution for cancer subtype classification, facilitating improved genomic-based diagnostics.",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo modelo de inteligência artificial desenvolvido para classificar subtipos de câncer com base em dados genômicos atingiu 99% de acurácia em testes com cinco tipos tumorais distintos, segundo estudo publicado recentemente. A pesquisa, liderada por cientistas da área de oncologia computacional, propõe uma arquitetura preditiva que combina técnicas avançadas de redução de dimensionalidade — como *t-distributed stochastic neighbor embedding* (t-SNE) com redução de divergência de Kullback-Leibler e entropia de Shannon — a um classificador híbrido baseado em florestas aleatórias. O framework foi validado no conjunto de dados *TCGA Pancancer*, abrangendo amostras de câncer de mama, pulmão, colorretal, glioblastoma e melanoma.\n\nOs resultados indicam não apenas alta performance diagnóstica, mas também potencial para superar limitações comuns em estudos genômicos, como a *alta dimensionalidade dos dados* e o *tamanho reduzido de amostras*. A abordagem se destaca por sua interpretabilidade, um ponto crítico em aplicações clínicas onde a transparência dos modelos é essencial para adoção segura. Embora os dados não tenham sido detalhados por tipo específico de câncer, os autores relatam que o modelo manteve sensibilidade e especificidade superiores em todas as categorias avaliadas, sugerindo robustez mesmo em cenários de dados desbalanceados, problema frequente em oncologia.\n\nApesar do desempenho promissor, os pesquisadores destacam que o estudo foi conduzido em um ambiente controlado, com dados retrospectivos e homogêneos. A generalização para populações diversas, assim como a integração com dados clínicos em tempo real, ainda requerem validação prospectiva em ensaios multicêntricos. Além disso, a dependência de sequenciamento genômico de alta qualidade pode limitar a aplicabilidade em contextos com recursos limitados. Como próximos passos, a equipe planeja expandir o modelo para incluir mais tipos de câncer e incorporar dados de *single-cell RNA sequencing* para refinar ainda mais a precisão diagnóstica.\n\n---\n\n**English version**\n\nA new artificial intelligence model designed to classify cancer subtypes using genomic data achieved 99% accuracy in tests across five distinct tumor types, according to a study published in *Computers in Biology and Medicine*. The research, led by computational oncology experts, introduces a predictive architecture that integrates advanced dimensionality reduction techniques—including *t-distributed stochastic neighbor embedding* (t-SNE) with Kullback-Leibler divergence and Shannon entropy reduction—paired with a hybrid random forest classifier. The framework was validated on the *TCGA Pancancer* dataset, encompassing breast, lung, colorectal, glioblastoma, and melanoma samples.\n\nThe findings demonstrate not only high diagnostic performance but also potential to overcome common challenges in genomic studies, such as *high data dimensionality* and *limited sample sizes*. The approach stands out for its interpretability, a critical factor in clinical applications where model transparency is essential for safe adoption. While the data were not broken down by specific cancer type, the authors report that the model maintained superior sensitivity and specificity across all evaluated categories, suggesting robustness even in scenarios with imbalanced data—a frequent issue in oncology.\n\nDespite the promising results, the researchers emphasize that the study was conducted in a controlled, retrospective setting with homogeneous data. Prospective validation in multicenter trials, as well as integration with real-time clinical data, remains necessary. Additionally, reliance on high-quality genomic sequencing may restrict applicability in resource-limited settings. Next steps include expanding the model to include more cancer types and incorporating *single-cell RNA sequencing* data to further refine diagnostic precision.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40164110",
+    "authors": [
+      {
+        "name": "Swati B Bhonde",
+        "affiliation": "Amrutvahini College of Engineering, Sangamner, Maharashtra, India."
+      },
+      {
+        "name": "Sharmila K Wagh",
+        "affiliation": "MES's Wadia College of Engineering, Pune, India."
+      },
+      {
+        "name": "Jayashree R Prasad",
+        "affiliation": "MIT ADT University, Pune, India."
+      }
+    ],
+    "journal": "Computer methods in biomechanics and biomedical engineering",
+    "publishedDate": "2026-08-02",
+    "fetchedDate": "2026-08-02",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "oncology",
+      "genomic",
+      "gene"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42539936",
     "pmid": "42539936",
     "doi": "10.1016/j.smhs.2025.03.011",
@@ -209,7 +250,7 @@
       "vaccine",
       "antibody"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12684,51 +12725,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42095028",
-    "pmid": "42095028",
-    "doi": "10.1055/a-2639-5690",
-    "title": "Molecular Profiling of Olfactory Neuroblastoma Using the AACR Project GENIE Database.",
-    "titlePt": "Molecular Profiling of Olfactory Neuroblastoma Using the AACR Project GENIE Database.",
-    "abstract": "Olfactory neuroblastoma (ONB) is a rare head and neck cancer arising from the upper nasal cavity, with limited systemic therapeutic options due to a poor understanding of its genomic landscape. This study aims to utilize a patient-level genomic repository to identify potential therapeutic targets and improve disease modeling in ONB. Retrospective genomic analysis. Data analysis was performed using the American Association for Cancer Research (AACR) Project Genomics Evidence Neoplasia Information Exchange (GENIE) database. Patients with confirmed ONB who have undergone targeted sequencing within GENIE. Data were analyzed for recurrent somatic mutations, along with their clinical and demographic correlations, with significance set at p &#x2009;&lt;&#x2009;0.05. A high prevalence of mutations in TP53 (tumor protein p53) and FRK (fibroblast growth factor receptor kinase) genes was identified. A moderate prevalence of mutations in NOTCH3 (notch receptor 3), SMARCA4 (SWI/SNF related, matrix ",
-    "journalisticSummary": "O olfato neuroblastoma (ONB) é um tipo raro de câncer de cabeça e pescoço que se origina na cavidade nasal superior, com opções terapêuticas sistêmicas limitadas devido à falta de compreensão sobre sua paisagem genômica. Um estudo recente buscou utilizar um repositório genômico de nível de paciente para identificar possíveis alvos terapêuticos e melhorar a modelagem da doença em ONB. A análise genômica retrospectiva foi realizada utilizando o banco de dados do Projeto GENIE da American Association for Cancer Research (AACR). Os dados foram analisados em busca de mutações somáticas recorrentes, juntamente com suas correlações clínicas e demográficas, com significância estatística estabelecida em p < 0,05. Os resultados mostraram uma alta prevalência de mutações nos genes TP53 (proteína p53 do tumor) e FRK (tirosina quinase do receptor de fator de crescimento de fibroblastos). Além disso, foi identificada uma prevalência moderada de mutações nos genes NOTCH3 (receptor notch 3) e SMARCA4 (relacionado à matriz SWI/SNF). Esses achados podem ter implicações clínicas importantes, pois a identificação de mutações específicas pode permitir a utilização de terapias direcionadas. No entanto, o estudo apresenta limitações, como a falta de informações sobre a relação entre as mutações e a resposta ao tratamento. Os próximos passos incluem a realização de estudos adicionais para validar esses resultados e explorar sua aplicação clínica.\n\nThe olfactory neuroblastoma (ONB) is a rare head and neck cancer arising from the upper nasal cavity, with limited systemic therapeutic options due to a poor understanding of its genomic landscape. A recent study sought to utilize a patient-level genomic repository to identify potential therapeutic targets and improve disease modeling in ONB. The retrospective genomic analysis was performed using the American Association for Cancer Research (AACR) Project Genomics Evidence Neoplasia Information Exchange (GENIE) database. The data were analyzed for recurrent somatic mutations, along with their clinical and demographic correlations, with significance set at p < 0.05. The results showed a high prevalence of mutations in the TP53 (tumor protein p53) and FRK (fibroblast growth factor receptor kinase) genes. Additionally, a moderate prevalence of mutations in the NOTCH3 (notch receptor 3) and SMARCA4 (SWI/SNF related, matrix associated) genes was identified. These findings may have important clinical implications, as the identification of specific mutations may allow for the use of targeted therapies. However, the study has limitations, such as the lack of information on the relationship between mutations and treatment response. The next steps include conducting additional studies to validate these results and explore their clinical application.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42095028",
-    "authors": [
-      {
-        "name": "Beau Hsia",
-        "affiliation": "Department of Otolaryngology, Creighton University School of Medicine, Phoenix, Arizona, United States."
-      },
-      {
-        "name": "Roshan Dongre",
-        "affiliation": "School of Engineering Medicine, Texas A&amp;M University, Houston, Texas, United States."
-      },
-      {
-        "name": "Aya Erquizi",
-        "affiliation": "Herbert Wertheim College of Medicine, Florida International University, Miami, Florida, United States."
-      },
-      {
-        "name": "Paula V Guerra-Navarro",
-        "affiliation": "Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, Buffalo, New York, United States."
-      }
-    ],
-    "journal": "Journal of neurological surgery. Part B, Skull base",
-    "publishedDate": "2026-05-07",
-    "fetchedDate": "2026-05-07",
-    "category": "Genômica",
-    "tags": [
-      "cancer",
-      "tumor",
-      "genomic",
-      "gene",
-      "sequencing"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
