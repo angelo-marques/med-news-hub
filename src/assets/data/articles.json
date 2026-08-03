@@ -1,5 +1,91 @@
 [
   {
+    "id": "pubmed-42544771",
+    "pmid": "42544771",
+    "doi": "10.1002/cyto.b.70057",
+    "title": "CD72 as a complementary B-lineage marker for longitudinal measurable residual disease surveillance after CD19 CAR-T therapy in R/R B-ALL.",
+    "titlePt": "CD72 as a complementary B-lineage marker for longitudinal measurable residual disease surveillance after CD19 CAR-T therapy in R/R B-ALL.",
+    "abstract": "This study aimed to evaluate the feasibility of CD72 as a complementary CD19-independent B-lineage gating marker for longitudinal measurable residual disease (MRD) surveillance in relapsed/refractory B-cell acute lymphoblastic leukemia (R/R B-ALL) following CD19 CAR-T therapy. Correlation analyses were performed in 66 B-ALL samples to compare MRD detection using CD72, CD19, and cytoplasmic CD79a. CD72 expression specificity was further evaluated in 129 leukemia patients. In addition, 129 patients with R/R B-ALL treated with autologous CD19 CAR-T therapy in registered clinical trials (ChiCTR-IIh-16008711; NCT03173417) between January 2021 and December 2022 were retrospectively analyzed, with follow-up continued until January 2025. CD72 gating showed excellent concordance with both CD19- and cCD79a-based strategies for MRD assessment. CD72 expression demonstrated high specificity in B-ALL, with a positivity rate of 95.77%, compared with 29.27% in AML and 23.53% in T-ALL. All 129 heavily ",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nPesquisadores avaliaram a viabilidade do marcador CD72 como uma alternativa independente do CD19 para monitoramento longitudinal da doença residual mensurável (DRM) em pacientes com leucemia linfoblástica aguda de células B (LLA-B) recidivada ou refratária (R/R) submetidos à terapia com células CAR-T anti-CD19. O estudo, publicado no *Cytometry Part B*, comparou a detecção de DRM utilizando CD72, CD19 e CD79a citoplasmático em 66 amostras de LLA-B, além de analisar a especificidade da expressão de CD72 em 129 pacientes com diferentes tipos de leucemia. Em uma coorte retrospectiva de 129 pacientes tratados com CAR-T autólogo entre janeiro de 2021 e dezembro de 2022 (seguimento até janeiro de 2025), os resultados demonstraram uma alta concordância entre CD72 e os marcadores convencionais (CD19 e cCD79a) na avaliação de DRM. A positividade de CD72 em LLA-B foi de 95,77%, enquanto em leucemia mieloide aguda (LMA) e leucemia linfoblástica aguda de células T (LLA-T) foi significativamente menor (29,27% e 23,53%, respectivamente), sugerindo uma alta especificidade do marcador para a linhagem B.\n\nOs achados indicam que o CD72 pode ser uma ferramenta robusta para superar a limitação do escape clonal CD19-negativo, um desafio comum após terapia com CAR-T anti-CD19, onde células leucêmicas perdem a expressão do alvo e comprometem a eficácia do monitoramento. A abordagem proposta não apenas mantém a sensibilidade diagnóstica, mas também reduz a dependência de múltiplos marcadores, simplificando protocolos de vigilância. Contudo, o estudo apresenta limitações inerentes ao delineamento retrospectivo e à ausência de validação prospectiva em coortes maiores. Além disso, não foram fornecidos dados sobre a correlação entre a detecção de DRM por CD72 e desfechos clínicos como recidiva ou sobrevida global. Os próximos passos incluem estudos prospectivos para confirmar a utilidade prognóstica de CD72 e explorar sua integração em algoritmos de monitoramento personalizado pós-CAR-T.\n\n---\n\n**English version**\n\nResearchers assessed the feasibility of CD72 as a CD19-independent marker for longitudinal measurable residual disease (MRD) monitoring in patients with relapsed or refractory B-cell acute lymphoblastic leukemia (R/R B-ALL) undergoing CD19 CAR-T cell therapy. Published in *Cytometry Part B*, the study compared MRD detection using CD72, CD19, and cytoplasmic CD79a across 66 B-ALL samples and evaluated CD72 expression specificity in 129 leukemia patients. A retrospective analysis of 129 R/R B-ALL patients treated with autologous CD19 CAR-T between January 2021 and December 2022 (follow-up until January 2025) revealed high concordance between CD72 and conventional markers (CD19 and cCD79a) for MRD assessment. CD72 positivity in B-ALL reached 95.77%, significantly higher than in acute myeloid leukemia (29.27%) and T-cell acute lymphoblastic leukemia (23.53%), indicating strong lineage specificity.\n\nThe findings suggest that CD72 could address the clinical challenge of CD19-negative clonal escape, a common limitation after anti-CD19 CAR-T therapy where leukemic cells lose target expression and undermine monitoring accuracy. This approach enhances diagnostic sensitivity while streamlining protocols by reducing reliance on multiple markers. However, the study’s retrospective design and lack of prospective validation in larger cohorts limit broader applicability. Data on the correlation between CD72-based MRD detection and clinical outcomes, such as relapse or overall survival, were not reported. Future research should prioritize prospective trials to validate CD72’s prognostic utility and integrate it into personalized post-CAR-T monitoring frameworks.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544771",
+    "authors": [
+      {
+        "name": "Man Chen",
+        "affiliation": "Department of Pathology and Laboratory Medicine, Beijing Lu Daopei Hospital, Beijing, China."
+      },
+      {
+        "name": "Jing Zhou",
+        "affiliation": "Department of Clinical Laboratory, Hebei Yanda Lu Daopei Hospital, Langfang, China."
+      },
+      {
+        "name": "Wei Zhao",
+        "affiliation": "Department of Hematopoietic Stem Cell Transplantation, Beijing Lu Daopei Hospital, Beijing, China."
+      },
+      {
+        "name": "Jing Long",
+        "affiliation": "Medical Data Center, Beijing, China."
+      }
+    ],
+    "journal": "Cytometry. Part B, Clinical cytometry",
+    "publishedDate": "2026-08-03",
+    "fetchedDate": "2026-08-03",
+    "category": "Oncologia",
+    "tags": [
+      "leukemia",
+      "clinical trial"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42545076",
+    "pmid": "42545076",
+    "doi": "10.1002/clc.70434",
+    "title": "Impact of Severe Postoperative Multi-Organ Dysfunction on Long-Term Outcomes After Modified Morrow Surgery.",
+    "titlePt": "Impact of Severe Postoperative Multi-Organ Dysfunction on Long-Term Outcomes After Modified Morrow Surgery.",
+    "abstract": "The modified Morrow surgery is the gold standard surgical treatment for hypertrophic obstructive cardiomyopathy (HOCM). While effective, it carries a risk of postoperative severe multi-organ dysfunction and its impact on long-term cardiovascular outcomes remains poorly understood and controversial. This observational cohort study included 380 HOCM patients undergoing the modified Morrow surgery between July 2015 and March 2025. Severe multi-organ dysfunction was defined as a maximum Sequential Organ Failure Assessment (SOFA) score&#x2009;&#x2265;&#x2009;11. The primary endpoint was the long-term incidence of major adverse cardiac and cerebrovascular events (MACCEs). Secondary endpoints included heart failure hospitalization (HFH), postoperative atrial fibrillation (AF) ablation, and cardiovascular mortality. Compared to patients without severe multi-organ dysfunction (SOFA Maximum&#x2009;&lt;&#x2009;11, n&#x2009;=&#x2009;234), those with SOFA Maximum&#x2009;&#x2265;&#x2009;11 (n&#x2009",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo observacional de coorte publicado no *PubMed* (DOI: 10.1002/clc.70434) investigou o impacto da disfunção multissistêmica pós-operatória grave em desfechos cardiovasculares de longo prazo após a cirurgia de Morrow modificada, padrão-ouro para o tratamento da cardiomiopatia hipertrófica obstrutiva (CMHO). Embora a técnica seja eficaz no alívio da obstrução ventricular esquerda, seu risco de complicações multissistêmicas graves — definidas como pontuação máxima ≥11 no *Sequential Organ Failure Assessment* (SOFA) — ainda não havia sido associado de forma clara a desfechos clínicos a longo prazo.\n\nA análise incluiu 380 pacientes submetidos à cirurgia entre julho de 2015 e março de 2025, dos quais 146 apresentaram disfunção multissistêmica grave (SOFA ≥11). Os resultados mostraram que esses pacientes tiveram uma incidência significativamente maior de eventos adversos cardíacos e cerebrovasculares maiores (MACCEs) — desfecho primário — em comparação àqueles sem disfunção grave (SOFA <11). Além disso, observou-se aumento nas taxas de hospitalização por insuficiência cardíaca, necessidade de ablação por fibrilação atrial e mortalidade cardiovascular. Os achados sugerem que a disfunção multissistêmica pós-operatória não apenas reflete a gravidade imediata do quadro, mas também sinaliza um pior prognóstico cardiovascular a longo prazo.\n\nAs limitações do estudo incluem seu caráter observacional, que impede inferências causais, e a ausência de dados sobre fatores de confusão não mensurados, como comorbidades prévias ou variações técnicas intraoperatórias. Os autores destacam a necessidade de estudos prospectivos para validar esses achados e explorar estratégias de estratificação de risco pré-operatório ou intervenções profiláticas que possam mitigar a disfunção multissistêmica e seus desfechos adversos.\n\n---\n\n**English version**\n\nA cohort study published in *PubMed* (DOI: 10.1002/clc.70434) assessed the long-term cardiovascular impact of severe postoperative multi-organ dysfunction (MOD) following modified Morrow surgery, the gold-standard treatment for hypertrophic obstructive cardiomyopathy (HOCM). While the procedure effectively relieves left ventricular outflow tract obstruction, its association with severe systemic complications—defined as a maximum Sequential Organ Failure Assessment (SOFA) score ≥11—and long-term outcomes remained unclear.\n\nThe study analyzed 380 HOCM patients who underwent the surgery between July 2015 and March 2025, with 146 developing severe MOD (SOFA ≥11). Findings revealed that these patients experienced significantly higher rates of major adverse cardiac and cerebrovascular events (MACCEs)—the primary endpoint—compared to those without severe MOD (SOFA <11). Secondary outcomes, including heart failure hospitalization, atrial fibrillation ablation, and cardiovascular mortality, were also elevated in the severe MOD group. These results suggest that postoperative MOD not only reflects immediate clinical severity but may also portend worse long-term cardiovascular prognosis.\n\nKey limitations include the study’s observational design, which precludes causal inference, and the lack of data on unmeasured confounders such as baseline comorbidities or intraoperative technical variations. The authors emphasize the need for prospective studies to validate these findings and explore preoperative risk stratification or prophylactic interventions to reduce MOD and its associated adverse outcomes.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545076",
+    "authors": [
+      {
+        "name": "Tong Wang",
+        "affiliation": "Institute of Cardiac Surgery, Beijing An Zhen Hospital Capital Medical University, Beijing, China."
+      },
+      {
+        "name": "La Ta",
+        "affiliation": "Institute of Cardiac Surgery, Beijing An Zhen Hospital Capital Medical University, Beijing, China."
+      },
+      {
+        "name": "Kui Zhang",
+        "affiliation": "Institute of Cardiac Surgery, Beijing An Zhen Hospital Capital Medical University, Beijing, China."
+      },
+      {
+        "name": "Ran Dong",
+        "affiliation": "Institute of Cardiac Surgery, Beijing An Zhen Hospital Capital Medical University, Beijing, China."
+      }
+    ],
+    "journal": "Clinical cardiology",
+    "publishedDate": "2026-08-03",
+    "fetchedDate": "2026-08-03",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "cardiovascular",
+      "heart",
+      "atrial"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42217235",
     "pmid": "42217235",
     "doi": "10.1080/14737175.2026.2681528",
@@ -151,7 +237,7 @@
       "hormone",
       "metabolic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -196,7 +282,7 @@
       "cognitive",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12629,90 +12715,6 @@
     "tags": [],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42096239",
-    "pmid": "42096239",
-    "doi": "10.1001/jama.2026.5164",
-    "title": "Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial.",
-    "titlePt": "Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial.",
-    "abstract": "Despite high recanalization rates with endovascular thrombectomy for acute ischemic stroke due to large vessel occlusion, functional outcomes remain suboptimal. The benefit of adjunctive intra-arterial thrombolysis after successful thrombectomy is uncertain. To assess whether adjunctive intra-arterial alteplase after successful thrombectomy improves functional outcomes and cerebral reperfusion. Randomized, open-label trial with blinded outcome assessment conducted at 14 stroke centers in Spain from December 11, 2023, through November 26, 2025. A total of 440 patients with acute ischemic stroke due to large vessel occlusion treated with thrombectomy within 24 hours and achieving an expanded Treatment in Cerebral Ischemia score of 2b50 to 3 were randomized. Thrombectomy plus intra-arterial alteplase (0.225 mg/kg; maximum dose, 20 mg/kg) infused over 15 minutes (n&#x2009;=&#x2009;221) or thrombectomy alone (n&#x2009;=&#x2009;219). The primary outcome was an excellent functional outcome at",
-    "journalisticSummary": "O tratamento de acidente vascular cerebral isquêmico agudo devido à oclusão de vasos sanguíneos grandes ainda apresenta desafios significativos, apesar dos altos índices de recanalização alcançados com a trombectomia endovascular. Os resultados funcionais permanecem subótimos, o que levanta questões sobre a eficácia de terapias adicionais para melhorar os desfechos clínicos. Um estudo recente publicado na revista JAMA, intitulado \"CHOICE-2\", investigou o benefício da trombólise intra-arterial com alteplase após trombectomia bem-sucedida. A pesquisa, conduzida em 14 centros de acidente vascular cerebral na Espanha, randomizou 440 pacientes com acidente vascular cerebral isquêmico agudo devido à oclusão de vasos sanguíneos grandes, que foram tratados com trombectomia dentro de 24 horas e alcançaram um escore de Tratamento em Isquemia Cerebral expandido de 2b50 a 3.\n\nOs pacientes foram randomizados para receber trombectomia mais alteplase intra-arterial (0,225 mg/kg, com dose máxima de 20 mg/kg, infundida por 15 minutos) ou apenas trombectomia. O desfecho primário foi um resultado funcional excelente. No entanto, não foram fornecidos detalhes sobre os resultados específicos do estudo, o que limita a análise do impacto clínico da terapia adjuvante com alteplase. Além disso, as limitações do estudo, como a falta de informações sobre os desfechos secundários e a generalização dos resultados para outras populações, precisam ser consideradas. Os próximos passos incluem a análise detalhada dos dados do estudo CHOICE-2 e a investigação de outras terapias adjuvantes para melhorar os resultados funcionais em pacientes com acidente vascular cerebral isquêmico agudo.\n\nThe treatment of acute ischemic stroke due to large vessel occlusion still presents significant challenges, despite the high recanalization rates achieved with endovascular thrombectomy. Functional outcomes remain suboptimal, raising questions about the effectiveness of additional therapies to improve clinical outcomes. A recent study published in the JAMA journal, titled \"CHOICE-2\", investigated the benefit of intra-arterial thrombolysis with alteplase after successful thrombectomy. The research, conducted at 14 stroke centers in Spain, randomized 440 patients with acute ischemic stroke due to large vessel occlusion, who were treated with thrombectomy within 24 hours and achieved an expanded Treatment in Cerebral Ischemia score of 2b50 to 3.\n\nPatients were randomized to receive thrombectomy plus intra-arterial alteplase (0.225 mg/kg, with a maximum dose of 20 mg/kg, infused over 15 minutes) or thrombectomy alone. The primary outcome was an excellent functional outcome. However, specific details about the study's outcomes were not provided, which limits the analysis of the clinical impact of adjunctive therapy with alteplase. Additionally, the study's limitations, such as the lack of information about secondary outcomes and the generalization of results to other populations, need to be considered. The next steps include a detailed analysis of the CHOICE-2 study data and the investigation of other adjunctive therapies to improve functional outcomes in patients with acute ischemic stroke.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42096239",
-    "authors": [
-      {
-        "name": "Arturo Ren&#xfa;",
-        "affiliation": "Comprehensive Stroke Center, Hospital Clinic of Barcelona, University of Barcelona, Barcelona, Spain."
-      },
-      {
-        "name": "Mar&#xed;a Dolores Fern&#xe1;ndez-Couto",
-        "affiliation": "Institut d'Investigacions Biom&#xe9;diques Agust Pi I Sunyer, Barcelona, Spain."
-      },
-      {
-        "name": "Patricia de la Riva",
-        "affiliation": "Department of Neurology, Complexo Hospitalario Universitario A Coru&#xf1;a, Coru&#xf1;a, Spain."
-      },
-      {
-        "name": "Raquel Delgado-Mederos",
-        "affiliation": "Department of Neurology, Donostia Ospitalea, San Sebasti&#xe1;n, Spain."
-      }
-    ],
-    "journal": "JAMA",
-    "publishedDate": "2026-05-07",
-    "fetchedDate": "2026-05-07",
-    "category": "Neurologia",
-    "tags": [
-      "stroke",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42092789",
-    "pmid": "42092789",
-    "doi": "10.1186/s12872-026-05937-z",
-    "title": "The prognostic value of left atrial low-voltage areas in atrial fibrillation recurrence after pulmonary vein isolation: a systematic review and meta-analysis.",
-    "titlePt": "The prognostic value of left atrial low-voltage areas in atrial fibrillation recurrence after pulmonary vein isolation: a systematic review and meta-analysis.",
-    "abstract": "To systematically evaluate the role of left atrial low-voltage areas (LVA) as a preoperative risk marker of atrial fibrillation/atrial tachycardia (AF/AT) recurrence following pulmonary vein isolation (PVI) in patients with non-valvular AF. A comprehensive literature search of PubMed, Embase, Web of Science, and the Cochrane Library was conducted up to November 29, 2025, to identify eligible cohort studies assessing AF/AT recurrence outcomes in patients undergoing PVI. Random- or fixed-effects models were used to calculate pooled hazard ratios (HRs) with 95% confidence intervals (CIs). Subgroup and meta-regression analyses were performed to explore the sources of heterogeneity. Study quality was assessed using the Newcastle-Ottawa Scale. A meta-analysis of 15 observational studies (n&#x2009;=&#x2009;3,957) was performed to assess the association between LVA (defined as bipolar voltage&#x2009;&lt;&#x2009;0.5 mV) and post-PVI recurrence of AF/AT. LVA presence was significantly associated",
-    "journalisticSummary": "A presença de áreas de baixa voltagem no átrio esquerdo tem sido estudada como um marcador de risco pré-operatório para a recorrência de fibrilação atrial/taquicardia atrial após a isolamento das veias pulmonares. Um estudo recente publicado no PubMed realizou uma revisão sistemática e metanálise de 15 estudos observacionais que avaliaram a recorrência de fibrilação atrial/taquicardia atrial em pacientes submetidos à isolamento das veias pulmonares. Os resultados mostraram que a presença de áreas de baixa voltagem no átrio esquerdo, definidas como uma voltagem bipolar inferior a 0,5 mV, estava significativamente associada à recorrência de fibrilação atrial/taquicardia atrial após o procedimento. A metanálise, que incluiu 3.957 pacientes, utilizou modelos de efeitos aleatórios ou fixos para calcular as razões de risco pooladas com intervalos de confiança de 95%. Análises de subgrupos e metarregressão foram realizadas para explorar as fontes de heterogeneidade. A qualidade dos estudos foi avaliada utilizando a Escala de Newcastle-Ottawa. Embora os achados sugiram que as áreas de baixa voltagem no átrio esquerdo podem ser um marcador prognóstico útil para a recorrência de fibrilação atrial/taquicardia atrial, os autores destacam a necessidade de mais pesquisas para confirmar esses resultados e explorar as implicações clínicas. Além disso, não foi informado o impacto específico dessas áreas na tomada de decisões clínicas ou nos resultados dos pacientes.\n\nThe presence of low-voltage areas in the left atrium has been studied as a preoperative risk marker for the recurrence of atrial fibrillation/atrial tachycardia after pulmonary vein isolation. A recent study published on PubMed conducted a systematic review and meta-analysis of 15 observational studies that assessed the recurrence of atrial fibrillation/atrial tachycardia in patients undergoing pulmonary vein isolation. The results showed that the presence of low-voltage areas in the left atrium, defined as a bipolar voltage less than 0.5 mV, was significantly associated with the recurrence of atrial fibrillation/atrial tachycardia after the procedure. The meta-analysis, which included 3,957 patients, used random or fixed effects models to calculate pooled hazard ratios with 95% confidence intervals. Subgroup and meta-regression analyses were performed to explore the sources of heterogeneity. Study quality was assessed using the Newcastle-Ottawa Scale. Although the findings suggest that low-voltage areas in the left atrium may be a useful prognostic marker for the recurrence of atrial fibrillation/atrial tachycardia, the authors highlight the need for further research to confirm these results and explore the clinical implications. Additionally, the specific impact of these areas on clinical decision-making or patient outcomes was not reported.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42092789",
-    "authors": [
-      {
-        "name": "Yihui Cao",
-        "affiliation": "Department of Cardiology, Huashan Hospital, Fudan University, No. 12 Wulumuqi Zhong Road, Jing'an District, Shanghai, 200040, China."
-      },
-      {
-        "name": "Nanqing Xiong",
-        "affiliation": "Department of Cardiology, Huashan Hospital, Fudan University, No. 12 Wulumuqi Zhong Road, Jing'an District, Shanghai, 200040, China."
-      },
-      {
-        "name": "Wen Gao",
-        "affiliation": "Department of Cardiology, Huashan Hospital, Fudan University, No. 12 Wulumuqi Zhong Road, Jing'an District, Shanghai, 200040, China."
-      },
-      {
-        "name": "Wentao Gu",
-        "affiliation": "Department of Cardiology, Huashan Hospital, Fudan University, No. 12 Wulumuqi Zhong Road, Jing'an District, Shanghai, 200040, China."
-      }
-    ],
-    "journal": "BMC cardiovascular disorders",
-    "publishedDate": "2026-05-07",
-    "fetchedDate": "2026-05-07",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
