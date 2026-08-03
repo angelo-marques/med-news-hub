@@ -1,5 +1,38 @@
 [
   {
+    "id": "pubmed-42217235",
+    "pmid": "42217235",
+    "doi": "10.1080/14737175.2026.2681528",
+    "title": "STS101 nasal powder as a new treatment option for acute migraine with or without aura in adults.",
+    "titlePt": "STS101 nasal powder as a new treatment option for acute migraine with or without aura in adults.",
+    "abstract": "Although effective acute migraine therapies are available, unmet treatment needs such as nausea, vomiting, or delayed gastric emptying remain. STS101 is a novel dihydroergotamine (DHE) nasal powder designed to treat acute migraine with a simple single. A targeted PubMed and ClinicalTrials.gov search was performed from database inception through October 2025 using the keywords \"STS101,\" \"dihydroergotamine,\" \"migraine,\" and \"intranasal powder.\" Eligible sources included English-language clinical studies, trial registry records, regulatory documents, and relevant conference abstracts addressing STS101 formulation, pharmacokinetics, efficacy, safety, and/or regulatory development. Data from Phase 1 pharmacokinetic trials, the Phase 3 EMERGE and SUMMIT randomized controlled trials, and the ASCEND long-term safety study are discussed. The pivotal efficacy trials did not meet their 2-hour co-primary endpoints. Later time-point analyses suggested possible clinical benefit, including higher rat",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo dispositivo de administração nasal de di-hidroergotamina (DHE) para o tratamento agudo de enxaqueca, o STS101, não atingiu os desfechos primários de eficácia em dois ensaios clínicos randomizados de fase 3, conforme dados recentes. Desenvolvido como alternativa a formas injetáveis ou orais, o STS101 utiliza um pó nasal de liberação rápida projetado para contornar limitações como náuseas, vômitos e esvaziamento gástrico retardado, comuns em pacientes com crises intensas. A revisão sistemática, que incluiu buscas em PubMed e ClinicalTrials.gov até outubro de 2025, sintetizou evidências de estudos farmacocinéticos de fase 1, dois ensaios pivotais (EMERGE e SUMMIT) e um estudo de segurança de longo prazo (ASCEND).\n\nNos ensaios EMERGE e SUMMIT, o STS101 não demonstrou superioridade em relação ao placebo nos desfechos co-primários de alívio da dor em 2 horas, tampouco na redução de sintomas associados após esse intervalo. No entanto, análises posteriores em pontos temporais estendidos (não especificados nos resumos avaliados) sugeriram benefícios potenciais, como maior taxa de resposta sustentada e redução de recorrência da dor em até 24 horas. A segurança do dispositivo foi considerada aceitável, com eventos adversos leves a moderados predominando, como irritação nasal e gosto amargo. Não foram relatados casos graves de toxicidade sistêmica relacionada ao DHE, embora a ausência de dados sobre interações medicamentosas com triptanos ou outros vasoconstritores mereça atenção clínica.\n\nOs resultados sugerem que, embora o STS101 não cumpra critérios estatísticos para eficácia precoce — um desafio compartilhado por outras terapias intranasais de DHE —, sua formulação pode oferecer vantagens práticas em cenários onde a via oral é inviável. A falta de detalhes sobre a magnitude dos efeitos tardios e a ausência de comparações diretas com tratamentos padrão (como sumatriptano ou zolmitriptano) limitam conclusões definitivas. Estudos adicionais são necessários para elucidar o perfil de pacientes mais suscetíveis a respostas tardias e para explorar combinações terapêuticas. A ausência de dados sobre populações específicas, como idosos ou gestantes, também representa uma lacuna a ser preenchida.\n\n---\n\n**English version**\n\nA novel intranasal dihydroergotamine (DHE) powder formulation, STS101, failed to meet its primary efficacy endpoints in two Phase 3 randomized controlled trials, according to recent clinical data. Designed to address unmet needs in acute migraine treatment—such as nausea, vomiting, and delayed gastric emptying, which often compromise oral or injectable therapies—STS101 employs a rapid-release nasal powder intended to bypass these limitations. A systematic review, encompassing PubMed and ClinicalTrials.gov searches up to October 2025, synthesized evidence from Phase 1 pharmacokinetic studies, two pivotal trials (EMERGE and SUMMIT), and a long-term safety study (ASCEND).\n\nIn the EMERGE and SUMMIT trials, STS101 did not demonstrate superiority over placebo in the co-primary 2-hour pain relief outcomes or associated symptom reduction. However, post-hoc analyses at later time points (not specified in the reviewed abstracts) suggested potential benefits, including higher sustained response rates and reduced pain recurrence within 24 hours. The device’s safety profile was deemed acceptable, with most adverse events being mild to moderate—predominantly nasal irritation and bitter taste. No severe systemic DHE-related toxicities were reported, though the absence of data on drug-drug interactions with triptans or other vasoconstrictors warrants clinical caution.\n\nWhile STS101 did not meet early efficacy benchmarks—a challenge shared by other intranasal DHE formulations—its practical advantages in scenarios where oral administration is unfeasible remain relevant. The lack of granular data on late-stage efficacy and the absence of head-to-head comparisons with standard treatments (e.g., sumatriptan or zolmitriptan) constrain definitive conclusions. Further research is needed to identify patient subgroups most likely to respond to delayed effects and to evaluate potential combination therapies. Additionally, gaps persist regarding the formulation’s performance in understudied populations, such as the elderly or pregnant individuals.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42217235",
+    "authors": [
+      {
+        "name": "Bradley Ong",
+        "affiliation": "Department of Neurology, Neurological Institute, Cleveland Clinic, Cleveland, OH, USA."
+      },
+      {
+        "name": "Teshamae S Monteith",
+        "affiliation": "Department of Neurology, Headache Division, University of Miami, Miller School of Medicine, Miami, FL, USA."
+      }
+    ],
+    "journal": "Expert review of neurotherapeutics",
+    "publishedDate": "2026-08-03",
+    "fetchedDate": "2026-08-03",
+    "category": "Farmacologia",
+    "tags": [
+      "pharmacokinetics"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-40164110",
     "pmid": "40164110",
     "doi": "10.1080/10255842.2025.2477809",
@@ -206,7 +239,7 @@
       "diabetes",
       "obesity"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12680,51 +12713,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42095034",
-    "pmid": "42095034",
-    "doi": "10.1055/a-2639-5790",
-    "title": "Comprehensive Genomic Profiling of Sinonasal Carcinomas: Identification of Common Mutations and Potential Targets for Therapy.",
-    "titlePt": "Comprehensive Genomic Profiling of Sinonasal Carcinomas: Identification of Common Mutations and Potential Targets for Therapy.",
-    "abstract": "Sinonasal cancers are malignant neoplasms arising from the nasal cavity and paranasal sinuses, including squamous cell carcinoma (SCC), adenocarcinoma, and undifferentiated carcinoma. Due to their rarity, comprehensive genomic data remain limited. Treatments include surgery, radiation, and chemotherapy, with ongoing trials investigating agents like cetuximab, cisplatin, and Tazemetostat. We analyzed sinonasal cancer cases from the American Association for Cancer Research (AACR) Project Genomics Evidence Neoplasia Information Exchange (GENIE) database via cBioPortal (v16.1-public, accessed July 22, 2024). Common gene mutations, correlations, and mutual exclusivities were assessed using statistical analyses with false discovery rate correction. Of 2,595 head and neck cancer samples, 122 (4.7%) were sinonasal carcinoma: 70 (57.4%) SCC, 31 (25.4%) undifferentiated carcinoma, and 21 (17.2%) adenocarcinomas. The most frequent mutations were TP53 (tumor protein 53; 40%), PIK3CA (phosphatidyli",
-    "journalisticSummary": "Os cânceres sinusais são neoplasmas malignos que surgem da cavidade nasal e seios paranasais, incluindo carcinoma de células escamosas (SCC), adenocarcinoma e carcinoma indiferenciado. Devido à sua raridade, os dados genômicos abrangentes ainda são limitados. Os tratamentos incluem cirurgia, radiação e quimioterapia, com ensaios clínicos em andamento investigando agentes como cetuximabe, cisplatina e Tazemetostat. Um estudo recente publicado no PubMed analisou casos de câncer sinusal do banco de dados do Projeto Genomics Evidence Neoplasia Information Exchange (GENIE) da American Association for Cancer Research (AACR) por meio do cBioPortal. Os resultados mostraram que, entre 2.595 amostras de câncer de cabeça e pescoço, 122 (4,7%) eram carcinomas sinusais, sendo 70 (57,4%) SCC, 31 (25,4%) carcinomas indiferenciados e 21 (17,2%) adenocarcinomas. As mutações genéticas mais frequentes encontradas foram TP53 (40%) e PIK3CA. Esses achados podem ter implicações importantes para o desenvolvimento de terapias direcionadas para esses tipos de câncer. No entanto, os autores do estudo destacam que mais pesquisas são necessárias para confirmar esses resultados e explorar suas implicações clínicas. Além disso, não foram fornecidos dados sobre as limitações do estudo, o que pode ser um ponto importante a ser considerado em futuras investigações.\n\nThe sinonasal cancers are malignant neoplasms arising from the nasal cavity and paranasal sinuses, including squamous cell carcinoma (SCC), adenocarcinoma, and undifferentiated carcinoma. Due to their rarity, comprehensive genomic data remain limited. Treatments include surgery, radiation, and chemotherapy, with ongoing trials investigating agents like cetuximab, cisplatin, and Tazemetostat. A recent study published on PubMed analyzed sinonasal cancer cases from the American Association for Cancer Research (AACR) Project Genomics Evidence Neoplasia Information Exchange (GENIE) database via cBioPortal. The results showed that, out of 2,595 head and neck cancer samples, 122 (4.7%) were sinonasal carcinomas, with 70 (57.4%) being SCC, 31 (25.4%) undifferentiated carcinomas, and 21 (17.2%) adenocarcinomas. The most frequent gene mutations found were TP53 (40%) and PIK3CA. These findings may have important implications for the development of targeted therapies for these types of cancer. However, the study's authors highlight that more research is needed to confirm these results and explore their clinical implications. Additionally, no data were provided on the study's limitations, which may be an important point to consider in future investigations.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42095034",
-    "authors": [
-      {
-        "name": "Gabriel Bitar",
-        "affiliation": "School of Medicine, Creighton University, Phoenix, Arizona, United States."
-      },
-      {
-        "name": "Beau Hsia",
-        "affiliation": "School of Medicine, Creighton University, Phoenix, Arizona, United States."
-      },
-      {
-        "name": "Saif Alshaka",
-        "affiliation": "School of Medicine, Creighton University, Phoenix, Arizona, United States."
-      },
-      {
-        "name": "Bastien A Valencia",
-        "affiliation": "Department of Otolaryngology-Head and Neck Surgery, Mayo Clinic Florida, Jacksonville, Florida, United States."
-      }
-    ],
-    "journal": "Journal of neurological surgery. Part B, Skull base",
-    "publishedDate": "2026-05-07",
-    "fetchedDate": "2026-05-07",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "carcinoma",
-      "chemotherapy",
-      "genomic"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
