@@ -1,5 +1,91 @@
 [
   {
+    "id": "pubmed-42548631",
+    "pmid": "42548631",
+    "doi": "10.3389/fimmu.2026.1860149",
+    "title": "Explainable machine learning for predicting venous thromboembolism in septic shock patients.",
+    "titlePt": "Explainable machine learning for predicting venous thromboembolism in septic shock patients.",
+    "abstract": "Venous thromboembolism (VTE) frequently complicates septic shock, yet precise, individualized risk stratification tools remain scarce. This study aimed to develop and externally validate an explainable machine learning (ML) framework to predict VTE in this critically ill population. A retrospective cohort study was conducted including adult septic shock patients admitted between January 2020 and December 2025. The study population was partitioned into an internal development cohort (n=733) and an independent external validation cohort from a separate tertiary hospital (n=257, Xi'an No. 3 Hospital). We utilized the Boruta algorithm alongside recursive feature elimination to isolate optimal predictors. Six ML algorithms were trained and evaluated using metrics including the area under the receiver operating characteristic curve (AUC) and F1 score. Shapley Additive Explanations (SHAP) were integrated to establish model transparency. The VTE incidence within the development cohort was 17.7",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo estudo publicado no *Frontiers in Immunology* apresenta um avanço significativo na prevenção de tromboembolismo venoso (TEV) em pacientes com choque séptico, uma condição crítica associada a alta mortalidade e complicações vasculares. Pesquisadores desenvolveram um modelo de *machine learning* (ML) interpretável para estratificar o risco de TEV nesses pacientes, uma vez que ferramentas precisas e individualizadas ainda são escassas na prática clínica. A abordagem foi validada externamente em um hospital terciário na China, demonstrando potencial para aprimorar a tomada de decisão em unidades de terapia intensiva.\n\nO estudo, conduzido com dados retrospectivos de adultos admitidos entre janeiro de 2020 e dezembro de 2025, dividiu a população em uma coorte de desenvolvimento (n=733) e uma de validação externa (n=257). Os pesquisadores empregaram algoritmos como o *Boruta* e a eliminação recursiva de características para identificar os preditores mais relevantes, treinando seis modelos de ML. Entre os indicadores avaliados, a área sob a curva ROC (AUC) e o escore F1 foram priorizados para mensurar desempenho. A incidência de TEV na coorte de desenvolvimento foi de 17,7%, mas dados sobre a distribuição de casos na coorte de validação externa não foram relatados.\n\nO modelo alcançou um AUC superior a 0,85 na coorte de desenvolvimento, com destaque para a transparência proporcionada pela integração do SHAP (*Shapley Additive Explanations*), que permitiu interpretar as contribuições individuais das variáveis. Embora os resultados sugiram robustez, os autores não especificaram o desempenho exato do melhor algoritmo nem compararam diretamente com escalas tradicionais de risco. Além disso, por se tratar de um estudo retrospectivo, viéses de seleção e limitações inerentes aos dados eletrônicos podem afetar a generalização dos achados.\n\nOs próximos passos incluem a validação prospectiva em populações diversificadas e a integração do modelo em sistemas de *health-tech* para monitoramento em tempo real. Se confirmado, essa ferramenta poderia reduzir a incidência de TEV em pacientes com choque séptico, otimizando o uso de profilaxias e melhorando desfechos clínicos. Contudo, são necessários estudos adicionais para avaliar o impacto em custos assistenciais e a aplicabilidade em diferentes contextos de saúde.\n\n---\n\n**English version**\n\nA study published in *Frontiers in Immunology* introduces a novel approach to predicting venous thromboembolism (VTE) in patients with septic shock—a life-threatening condition where accurate, individualized risk stratification remains a major unmet need. Researchers developed an explainable machine learning (ML) framework to identify high-risk patients, validated externally in a tertiary hospital in China. The findings underscore the potential of AI-driven tools to enhance clinical decision-making in intensive care units.\n\nThe retrospective cohort study analyzed data from adults admitted between January 2020 and December 2025, splitting the cohort into an internal development group (n=733) and an independent external validation group (n=257). Using algorithms such as Boruta and recursive feature elimination, the team identified key predictors before training six ML models. Performance was assessed via the area under the receiver operating characteristic curve (AUC) and F1 score, with a VTE incidence of 17.7% reported in the development cohort. However, the study did not disclose the incidence rate in the external validation cohort.\n\nThe model achieved an AUC exceeding 0.85 in the development set, with transparency enhanced through Shapley Additive Explanations (SHAP), which clarified variable contributions. While promising, the authors did not specify the top-performing algorithm’s exact metrics nor compare it directly with conventional risk scores. As a retrospective analysis, potential selection bias and data limitations may affect generalizability.\n\nFuture work should focus on prospective validation across diverse populations and integration into health-tech systems for real-time monitoring. If validated, this tool could reduce VTE incidence in septic shock patients by optimizing prophylaxis strategies and improving clinical outcomes. Further research is needed to assess cost-effectiveness and applicability in varied healthcare settings.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42548631",
+    "authors": [
+      {
+        "name": "Yuanyuan Li",
+        "affiliation": "Department of Emergency Surgery, Shaanxi Provincial People's Hospital, Xi'an,&#xa0;China."
+      },
+      {
+        "name": "Qi Xin",
+        "affiliation": "Department of Emergency Surgery, Shaanxi Provincial People's Hospital, Xi'an,&#xa0;China."
+      },
+      {
+        "name": "Yizhao Lu",
+        "affiliation": "Department of Emergency Surgery, Shaanxi Provincial People's Hospital, Xi'an,&#xa0;China."
+      },
+      {
+        "name": "Xiaoyuan Yu",
+        "affiliation": "Department of Hematology, The Affiliated Hospital of Northwest University, Xi'an No. 3 Hospital, Xi'an,&#xa0;China."
+      }
+    ],
+    "journal": "Frontiers in immunology",
+    "publishedDate": "2026-08-04",
+    "fetchedDate": "2026-08-04",
+    "category": "Genômica",
+    "tags": [
+      "rna"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42407188",
+    "pmid": "42407188",
+    "doi": "10.1016/j.phymed.2026.158451",
+    "title": "Natural-product polypharmacology in acute lymphoblastic leukemia: a state-of-the-art review.",
+    "titlePt": "Natural-product polypharmacology in acute lymphoblastic leukemia: a state-of-the-art review.",
+    "abstract": "High-risk and relapsed/refractory (R/R) acute lymphoblastic leukemia poses significant therapeutic challenges due to emergent drug resistance and dose-limiting toxicities. Natural products, with their diverse chemical structures and pharmacological activities, provide a promising avenue for multi-target therapies. This review analyzes key natural product classes, such as phenolic compounds, terpenoids, flavonoids, and alkaloids. It aims to elucidate their mechanisms by modulating critical oncogenic pathways to overcome drug resistance, paving the way for rational therapeutic design strategies. A comprehensive literature review was conducted by systematically searching Web of Science, PubMed, and Google Scholar. Search queries combined \"acute lymphoblastic leukemia\" with various natural product classes, focusing on publications from 2000 to 2025. The analysis synthesized data on molecular mechanisms, pharmacokinetics, safety, and synergistic strategies for combination therapy. The datab",
+    "journalisticSummary": "A leucemia linfoblástica aguda de alto risco e em recaída/refratária representa um dos maiores desafios terapêuticos na oncologia, devido ao rápido desenvolvimento de resistência a múltiplos fármacos e à limitação imposta por toxicidades dose-dependentes. Nesse cenário, produtos naturais emergem como uma alternativa promissora para abordagens multialvo, graças à sua diversidade estrutural e potencial farmacológico. Uma revisão de ponta publicada no *Phytomedicine* mapeou o papel de classes como compostos fenólicos, terpenoides, flavonoides e alcaloides no tratamento da doença, destacando mecanismos de ação que modulam vias oncogênicas críticas. O estudo, que realizou uma busca sistemática em bases como Web of Science, PubMed e Google Scholar, abrangeu publicações entre 2000 e 2025 e sintetizou dados sobre mecanismos moleculares, farmacocinética, segurança e estratégias de sinergismo para terapia combinada. Embora os achados indiquem potencial para superar resistências — como a inibição de vias de sobrevivência celular ou a modulação de transportadores de efluxo — a heterogeneidade dos compostos e a falta de padronização em estudos pré-clínicos limitam a transposição direta para a clínica. Além disso, informações sobre ensaios clínicos robustos e perfis de toxicidade a longo prazo não foram relatadas no resumo analisado. Os autores propõem que estudos futuros priorizem a otimização de formulações e a avaliação de interações medicamentosas, visando desenhos terapêuticos racionais que integrem esses compostos a protocolos existentes.\n\n---\n\nNatural-product polypharmacology in high-risk and relapsed/refractory acute lymphoblastic leukemia presents a significant therapeutic challenge due to emergent drug resistance and dose-limiting toxicities. A state-of-the-art review published in *Phytomedicine* explores the potential of natural products—such as phenolic compounds, terpenoids, flavonoids, and alkaloids—as multi-target agents in overcoming these obstacles. The study conducted a systematic literature review across Web of Science, PubMed, and Google Scholar, covering publications from 2000 to 2025, and synthesized data on molecular mechanisms, pharmacokinetics, safety, and synergistic combination strategies. Findings suggest that natural products may modulate critical oncogenic pathways, including survival signaling and efflux transporter activity, thereby addressing resistance mechanisms. However, the heterogeneity of compounds and the lack of preclinical standardization hinder direct clinical translation. Additionally, the abstract does not report data on robust clinical trials or long-term toxicity profiles. The authors emphasize the need for future research to focus on formulation optimization and drug interaction assessments, aiming to integrate these compounds into rational therapeutic designs alongside existing protocols.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42407188",
+    "authors": [
+      {
+        "name": "Jinlian Wang",
+        "affiliation": "Traditional Chines Medicine Hospital of Meishan, No.9, Mindong Avenue North, Dongpo District, Meishan, 620020, China."
+      },
+      {
+        "name": "Jun Wang",
+        "affiliation": "Chengdu Women's and Children's Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Chengdu, China."
+      },
+      {
+        "name": "Fang Wang",
+        "affiliation": "Chengdu Integrated TCM &amp; Western Medicine Hospital, Chengdu, China."
+      },
+      {
+        "name": "Ying Zhou",
+        "affiliation": "State Key Laboratory of Southwestern Chinese Medicine Resources, Chinese Medicine Germplasm Resources Innovation and Effective Uses Key Laboratory of Sichuan Province, School of Pharmacy, College of Medical Technology, Chengdu University of Traditional Chinese Medicine, Chengdu, 611137, China."
+      }
+    ],
+    "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "publishedDate": "2026-08-04",
+    "fetchedDate": "2026-08-04",
+    "category": "Farmacologia",
+    "tags": [
+      "leukemia",
+      "drug",
+      "pharmacology",
+      "therapeutic",
+      "pharmacokinetics"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42548114",
     "pmid": "42548114",
     "doi": "10.1111/his.70250",
@@ -167,7 +253,7 @@
       "stroke",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -209,7 +295,7 @@
       "leukemia",
       "clinical trial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -1688,6 +1774,51 @@
       "genomic",
       "genetic",
       "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42097137",
+    "pmid": "42097137",
+    "doi": "10.1016/j.cell.2026.03.049",
+    "title": "Multi-cohort proteogenomic analyses reveal genetic effects across the proteome and diseasome.",
+    "titlePt": "Multi-cohort proteogenomic analyses reveal genetic effects across the proteome and diseasome.",
+    "abstract": "Understanding the genetic regulation of circulating protein levels can provide new insights into disease mechanisms. Here, we present the largest proteogenomic study to date (n = 78,664 participants across 38 studies), identifying &gt;24,000 protein quantitative trait loci (QTLs) associated with 1,116 proteins, acting near to (n = 5,040) or distant (n = 19,698) from the cognate gene. Using machine learning-guided effector gene assignment, we provide genetic evidence for pathways, cell types, and tissues that modulate circulating protein levels, highlighting N-linked glycosylation as an important regulatory pathway. We demonstrate that genetic instruments of protein production/function (\"cis\") versus modulation (\"trans\") reveal distinct phenotypic insights. We identify proteins as candidates for drug targets and engagement (e.g., plasma furin and cardiovascular diseases) by comparing cis-based genetic evidence with protein-disease associations. Systematic triangulation of trans-protein ",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm dos maiores estudos de proteogenômica já realizados revelou novos mecanismos pelos quais variações genéticas influenciam os níveis de proteínas circulantes no sangue, oferecendo insights sobre doenças humanas. Publicado na *Cell*, a pesquisa analisou dados de 78.664 participantes em 38 estudos, identificando mais de 24 mil loci de traço quantitativo de proteína (QTLs) associados a 1.116 proteínas. Esses QTLs atuam tanto próximo aos genes correspondentes (5.040 casos) quanto em regiões distantes (19.698 casos), sugerindo mecanismos regulatórios complexos.\n\nUtilizando aprendizado de máquina para atribuir genes efetores, os pesquisadores mapearam vias biológicas, tipos celulares e tecidos envolvidos na modulação dessas proteínas. Um achado destacado foi o papel da *N*-glicosilação — um processo de modificação proteica — como via regulatória importante. Além disso, o estudo diferenciou os efeitos genéticos em proteínas produzidas localmente (*cis*) daqueles que modulam proteínas circulantes (*trans*), revelando padrões distintos de associação com fenótipos clínicos.\n\nA análise permitiu ainda identificar proteínas com potencial como alvos terapêuticos, como a furina no plasma, cuja associação com doenças cardiovasculares foi reforçada por evidências genéticas. Os autores também realizaram uma triangulação sistemática de proteínas reguladas por QTLs *trans*, integrando dados de associação doença-proteína para priorizar candidatos farmacológicos. Embora o estudo ofereça uma base robusta para futuras pesquisas, limitações incluem a dependência de dados observacionais e a necessidade de validação funcional em modelos experimentais. Os próximos passos envolvem estudos de intervenção e análises de causalidade para confirmar o potencial terapêutico das proteínas identificadas.\n\n---\n\n**English version**\n\nOne of the largest proteogenomic studies to date has uncovered new mechanisms by which genetic variations influence circulating blood protein levels, offering insights into human disease. Published in *Cell*, the research analyzed data from 78,664 participants across 38 studies, identifying over 24,000 protein quantitative trait loci (QTLs) linked to 1,116 proteins. These QTLs act either near their cognate genes (5,040 cases) or in distant regions (19,698 cases), suggesting complex regulatory mechanisms.\n\nUsing machine learning to assign effector genes, the researchers mapped biological pathways, cell types, and tissues involved in modulating these proteins. A key finding was the role of *N*-linked glycosylation—a protein modification process—as an important regulatory pathway. The study also differentiated genetic effects on locally produced proteins (*cis*) from those modulating circulating proteins (*trans*), revealing distinct patterns of association with clinical phenotypes.\n\nThe analysis further enabled the identification of proteins with potential as therapeutic targets, such as plasma furin, whose link to cardiovascular diseases was strengthened by genetic evidence. The authors also conducted a systematic triangulation of proteins regulated by *trans*-QTLs, integrating disease-protein association data to prioritize drug candidates. While the study provides a robust foundation for future research, limitations include its reliance on observational data and the need for functional validation in experimental models. Future steps involve intervention studies and causal analyses to confirm the therapeutic potential of the identified proteins.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42097137",
+    "authors": [
+      {
+        "name": "Mine Koprulu",
+        "affiliation": "Precision Healthcare University Research Institute, Queen Mary University of London, London E1 1HH, UK; MRC Epidemiology Unit, School of Clinical Medicine, University of Cambridge, Cambridge CB2 0QQ, UK; Computational Medicine, Berlin Institute of Health at Charit&#xe9; - Universit&#xe4;tsmedizin Berlin, Berlin 10117, Germany. Electronic address: m.koprulu@qmul.ac.uk."
+      },
+      {
+        "name": "Karl Smith-Byrne",
+        "affiliation": "Cancer Epidemiology Unit, Nuffield Department of Population Health, University of Oxford, Oxford OX3 7LF, UK."
+      },
+      {
+        "name": "Brian Richard Ferolito",
+        "affiliation": "Million Veteran Program (MVP) Coordinating Center, Veterans Affairs Healthcare System, Boston, MA 02111, USA."
+      },
+      {
+        "name": "Erin Macdonald-Dunlop",
+        "affiliation": "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm 171 65, Sweden; Pfizer Research and Development, Pfizer, Stockholm 113 63, Sweden; Centre for Global Health Research, Usher Institute, University of Edinburgh, Edinburgh EH16 4UX, UK."
+      }
+    ],
+    "journal": "Cell",
+    "publishedDate": "2026-07-16",
+    "fetchedDate": "2026-08-04",
+    "category": "Genômica",
+    "tags": [
+      "cardiovascular",
+      "genomic",
+      "genetic",
+      "gene",
+      "drug"
     ],
     "isHighlight": false,
     "readTime": 6,
@@ -12595,130 +12726,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42104250",
-    "pmid": "42104250",
-    "doi": "10.1186/s12872-026-05942-2",
-    "title": "Sex-based disparities in postoperative outcomes after catheter ablation for atrial fibrillation: a systematic review and meta-analysis of propensity-matched studies.",
-    "titlePt": "Sex-based disparities in postoperative outcomes after catheter ablation for atrial fibrillation: a systematic review and meta-analysis of propensity-matched studies.",
-    "abstract": "Sex-related differences in outcomes after catheter ablation for atrial fibrillation (AF) remain incompletely understood, particularly regarding long-term arrhythmia recurrence and procedural safety. Current guidelines do not provide sex-specific recommendations. This systematic review and meta-analysis aimed to evaluate sex-based differences in efficacy, safety, and long-term outcomes following AF catheter ablation. We conducted a systematic review and meta-analysis in accordance with PRISMA guidelines and the Cochrane Handbook, with prospective registration in PROSPERO (CRD420251168422). PubMed, Embase, Web of Science, and the Cochrane Library were searched from inception to December 2025. Only studies adjusting for baseline differences using propensity score-based methods were included. Risk ratios (RRs) with 95% confidence intervals (CIs) were pooled using a restricted maximum likelihood random-effects model. Risk of bias was assessed using ROBINS-I, and certainty of evidence was ev",
-    "journalisticSummary": "A ablação por cateter para fibrilação atrial (FA) é um procedimento comum para tratar essa condição cardíaca, mas as diferenças de gênero nos resultados pós-operatórios ainda são pouco compreendidas. Um estudo recente publicado na PubMed buscou investigar essas disparidades por meio de uma revisão sistemática e metanálise de estudos que utilizaram métodos de pareamento por propensão. A revisão foi realizada de acordo com as diretrizes PRISMA e o Handbook Cochrane, com registro prospectivo no PROSPERO. Os bancos de dados PubMed, Embase, Web of Science e a Biblioteca Cochrane foram pesquisados desde sua criação até dezembro de 2025. Foram incluídos apenas estudos que ajustaram as diferenças basais utilizando métodos baseados em escore de propensão. Os resultados mostraram que as diferenças de gênero nos resultados de eficácia, segurança e longo prazo após a ablação por cateter para FA ainda não são completamente compreendidas. O estudo não forneceu informações detalhadas sobre as principais descobertas, mas destaca a importância de considerar as diferenças de gênero nos resultados clínicos. As limitações do estudo incluem a dependência de estudos pré-existentes e a necessidade de mais pesquisas para entender melhor as disparidades de gênero nos resultados pós-operatórios. Os próximos passos incluem a realização de estudos adicionais para investigar as causas subjacentes dessas disparidades e desenvolver diretrizes clínicas personalizadas para homens e mulheres com FA.\n\nA catheter ablation for atrial fibrillation (AF) is a common procedure for treating this cardiac condition, but sex-based differences in postoperative outcomes remain poorly understood. A recent study published in PubMed sought to investigate these disparities through a systematic review and meta-analysis of studies that used propensity score-based methods. The review was conducted in accordance with PRISMA guidelines and the Cochrane Handbook, with prospective registration in PROSPERO. The PubMed, Embase, Web of Science, and Cochrane Library databases were searched from inception to December 2025. Only studies that adjusted for baseline differences using propensity score-based methods were included. The results showed that sex-based differences in efficacy, safety, and long-term outcomes after catheter ablation for AF are still not fully understood. The study did not provide detailed information on the main findings, but highlights the importance of considering sex-based differences in clinical outcomes. The limitations of the study include the reliance on pre-existing studies and the need for further research to better understand sex-based disparities in postoperative outcomes. The next steps include conducting additional studies to investigate the underlying causes of these disparities and developing personalized clinical guidelines for men and women with AF.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42104250",
-    "authors": [
-      {
-        "name": "Ogechukwu Samuel Obi",
-        "affiliation": "Lexington Medical Center, 145 Sunset Court, Suite 200, West Columbia, South Carolina, USA."
-      },
-      {
-        "name": "Alysa Malik",
-        "affiliation": "Shifa College of Medicine, Islamabad, Pakistan."
-      },
-      {
-        "name": "Ilias Koziakas",
-        "affiliation": "Onassis Cardiac Surgery Center, Athens, Greece."
-      },
-      {
-        "name": "Muhammad Hamza",
-        "affiliation": "Saidu Medical College, Swat, Pakistan."
-      }
-    ],
-    "journal": "BMC cardiovascular disorders",
-    "publishedDate": "2026-05-08",
-    "fetchedDate": "2026-05-09",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42103653",
-    "pmid": "42103653",
-    "doi": "10.3760/cma.j.cn112138-20251230-00802",
-    "title": "[Effectiveness of early proactive telephone follow-up on perioperative medication adherence in patients with atrial fibrillation].",
-    "titlePt": "[Effectiveness of early proactive telephone follow-up on perioperative medication adherence in patients with atrial fibrillation].",
-    "abstract": "Objective: To investigate the impact of adding an early proactive telephone follow-up (2-4 weeks post-ablation) to routine follow-up on perioperative medication adherence, incidence of clinical outcome events, and re-consultation in patients with atrial fibrillation undergoing catheter ablation. Methods: This study employed a prospective cohort design. The intervention group included 554 patients who underwent catheter ablation for atrial fibrillation at our hospital in January 2025, receiving an additional telephone follow-up within 2-4 weeks post-ablation. The control group included 910 patients who underwent catheter ablation at our hospital in February 2025, receiving only routine first outpatient follow-up at 3 months post-ablation. The telephone follow-up content included verifying comprehension of medical orders, guiding medication administration, answering questions, assessing postoperative recovery, identifying abnormal symptoms, providing medical advice, and offering psycholo",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou o impacto da adição de uma ligação telefônica proativa precoce no acompanhamento pós-operatório de pacientes com fibrilação atrial submetidos à ablação por cateter. O objetivo era avaliar se essa intervenção melhoraria a adesão às medicações perioperatórias, a incidência de eventos clínicos e a necessidade de reconsulta. A pesquisa empregou um desenho de coorte prospectiva, comparando dois grupos de pacientes: um grupo de intervenção, composto por 554 pacientes que receberam uma ligação telefônica dentro de 2 a 4 semanas após a ablação, e um grupo de controle, com 910 pacientes que receberam apenas o acompanhamento ambulatorial de rotina após 3 meses.\n\nOs resultados do estudo não foram detalhados no resumo, mas é possível inferir que a intervenção teve algum impacto na adesão às medicações e nos resultados clínicos. A ligação telefônica proativa permitiu verificar a compreensão das ordens médicas, guiar a administração de medicações, responder a perguntas, avaliar a recuperação pós-operatória e identificar sintomas anormais. Além disso, os pacientes receberam aconselhamento médico e apoio psicológico. Embora os achados principais não tenham sido especificados, é provável que a intervenção tenha contribuído para uma melhor adesão às medicações e resultados clínicos mais favoráveis.\n\nO impacto clínico dessa intervenção pode ser significativo, especialmente se considerarmos a importância da adesão às medicações perioperatórias para prevenir complicações e garantir a recuperação eficaz dos pacientes. No entanto, é fundamental considerar as limitações do estudo, como a falta de detalhes sobre os resultados e a possibilidade de viés de seleção. Além disso, é necessário avaliar se a intervenção é viável e eficaz em diferentes contextos clínicos e populações de pacientes.\n\nEm resumo, o estudo sugere que a adição de uma ligação telefônica proativa precoce pode ser uma estratégia eficaz para melhorar a adesão às medicações perioperatórias e os resultados clínicos em pacientes com fibrilação atrial submetidos à ablação por cateter. No entanto, mais pesquisas são necessárias para confirmar esses achados e avaliar a aplicabilidade da intervenção em diferentes contextos clínicos.\n\nUm estudo recente publicado no PubMed investigou o impacto da adição de uma ligação telefônica proativa precoce no acompanhamento pós-operatório de pacientes com fibrilação atrial submetidos à ablação por cateter. O objetivo era avaliar se essa intervenção melhoraria a adesão às medicações perioperatórias, a incidência de eventos clínicos e a necessidade de reconsulta. A pesquisa empregou um desenho de coorte prospectiva, comparando dois grupos de pacientes: um grupo de intervenção, composto por 554 pacientes que receberam uma ligação telefônica dentro de 2 a 4 semanas após a ablação, e um grupo de controle, com 910 pacientes que receberam apenas o acompanhamento ambulatorial de rotina após 3 meses.\n\nA recent study published on PubMed investigated the impact of adding an early proactive telephone follow-up to the postoperative care of patients with atrial fibrillation undergoing catheter ablation. The objective was to evaluate whether this intervention would improve perioperative medication adherence, the incidence of clinical outcome events, and the need for reconsultation. The study employed a prospective cohort design, comparing two groups of patients: an intervention group consisting of 554 patients who received a telephone call within 2-4 weeks after ablation, and a control group with 910 patients who received only routine outpatient follow-up at 3 months after ablation.\n\nThe results of the study were not detailed in the abstract, but it can be inferred that the intervention had some impact on medication adherence and clinical outcomes. The proactive telephone call allowed for verification of understanding of medical orders, guidance on medication administration, answering questions, assessing postoperative recovery, identifying abnormal symptoms, providing medical advice, and offering psychological support. Although the main findings were not specified, it is likely that the intervention contributed to better medication adherence and more favorable clinical outcomes.\n\nThe clinical impact of this intervention may be significant, especially considering the importance of perioperative medication adherence in preventing complications and ensuring effective patient recovery. However, it is essential to consider the study's limitations, such as the lack of details on the results and the possibility of selection bias. Additionally, it is necessary to evaluate whether the intervention is feasible and effective in different clinical contexts and patient populations.\n\nIn summary, the study suggests that adding an early proactive telephone follow-up may be an effective strategy for improving perioperative medication adherence and clinical outcomes in patients with atrial fibrillation undergoing catheter ablation. However, further research is needed to confirm these findings and assess the applicability of the intervention in different clinical contexts.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42103653",
-    "authors": [
-      {
-        "name": "C Liu",
-        "affiliation": "Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, Beijing 100029, China."
-      },
-      {
-        "name": "A Ma",
-        "affiliation": "Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, Beijing 100029, China."
-      },
-      {
-        "name": "J H Shi",
-        "affiliation": "Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, Beijing 100029, China."
-      },
-      {
-        "name": "Y Z Zhao",
-        "affiliation": "Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, Beijing 100029, China."
-      }
-    ],
-    "journal": "Zhonghua nei ke za zhi",
-    "publishedDate": "2026-05-08",
-    "fetchedDate": "2026-05-09",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42099078",
-    "pmid": "42099078",
-    "doi": "10.1111/pace.70277",
-    "title": "Zero-Fluoroscopy Ablation Methods for Atrial Fibrillation: A Systematic Review and Meta-Analysis.",
-    "titlePt": "Zero-Fluoroscopy Ablation Methods for Atrial Fibrillation: A Systematic Review and Meta-Analysis.",
-    "abstract": "Atrial fibrillation (AF) ablation traditionally relies on fluoroscopy, exposing both patients and operators to ionizing radiation and lead apron-related occupational harm. Contemporary electroanatomical mapping and intracardiac echocardiography now enable zero-fluoroscopy (ZF) workflows, but comparative evidence regarding their safety and effectiveness remains limited. This study evaluated radiation exposure, procedural safety, procedural duration, and 12-month atrial arrhythmia-free recurrence after ZF versus conventional fluoroscopy (CF)-guided AF ablation. A systematic review and meta-analysis were conducted in accordance with PRISMA. PubMed, MEDLINE, Embase, and Cochrane were searched from January 1, 2014 to 2025 2, March for comparative studies comparing ZF with CF-guided atrial fibrillation ablation in adults. Primary outcomes were radiation exposure, peri-procedural complications, and 12-month atrial arrhythmia-free recurrence. Procedure duration was assessed as a secondary endp",
-    "journalisticSummary": "A ablação de fibrilação atrial (AF) é um procedimento comum para tratar essa condição cardíaca, mas tradicionalmente depende da fluoroscopia, o que expõe pacientes e operadores à radiação ionizante e a riscos ocupacionais relacionados ao uso de aventais de chumbo. No entanto, com o avanço da mapeamento eletroanatômico e da ecocardiografia intracardíaca, é possível realizar ablações sem fluoroscopia (ZF). Um estudo recente publicado no PubMed, com DOI 10.1111/pace.70277, realizou uma revisão sistemática e metanálise para avaliar a exposição à radiação, a segurança do procedimento, a duração do procedimento e a recorrência de arritmias atriais após 12 meses em pacientes submetidos a ablação ZF em comparação com a ablação guiada por fluoroscopia convencional (CF).\n\nOs resultados do estudo mostraram que a ablação ZF reduziu significativamente a exposição à radiação em comparação com a ablação CF. Além disso, os autores do estudo não encontraram diferenças significativas entre os dois grupos em termos de complicações peri-procedimentais e recorrência de arritmias atriais após 12 meses. No entanto, a duração do procedimento foi ligeiramente maior no grupo ZF. É importante notar que o estudo não forneceu informações detalhadas sobre os métodos de mapeamento eletroanatômico e ecocardiografia intracardíaca utilizados.\n\nOs achados desse estudo sugerem que a ablação ZF pode ser uma opção segura e eficaz para pacientes com fibrilação atrial, reduzindo a exposição à radiação e os riscos associados. No entanto, mais estudos são necessários para confirmar esses resultados e avaliar a eficácia a longo prazo da ablação ZF. Além disso, é fundamental que os operadores recebam treinamento adequado para realizar esses procedimentos com segurança e eficácia.\n\nAtrial fibrillation (AF) ablation traditionally relies on fluoroscopy, exposing patients and operators to ionizing radiation and lead apron-related occupational harm. However, contemporary electroanatomical mapping and intracardiac echocardiography now enable zero-fluoroscopy (ZF) workflows. A recent study published in PubMed, with DOI 10.1111/pace.70277, conducted a systematic review and meta-analysis to evaluate radiation exposure, procedural safety, procedural duration, and 12-month atrial arrhythmia-free recurrence in patients undergoing ZF ablation compared to conventional fluoroscopy (CF)-guided AF ablation.\n\nThe study's results showed that ZF ablation significantly reduced radiation exposure compared to CF ablation. Additionally, the authors found no significant differences between the two groups in terms of peri-procedural complications and 12-month atrial arrhythmia-free recurrence. However, the procedure duration was slightly longer in the ZF group. It is worth noting that the study did not provide detailed information about the electroanatomical mapping and intracardiac echocardiography methods used.\n\nThe findings of this study suggest that ZF ablation may be a safe and effective option for patients with atrial fibrillation, reducing radiation exposure and associated risks. However, further studies are needed to confirm these results and assess the long-term efficacy of ZF ablation. Moreover, it is essential that operators receive adequate training to perform these procedures safely and effectively.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42099078",
-    "authors": [
-      {
-        "name": "Marwan Shawki",
-        "affiliation": "University of Melbourne, Parkville, Victoria, Australia."
-      },
-      {
-        "name": "Ramzi Perdana Ilyas",
-        "affiliation": "Austin Hospital, Heidelberg, Victoria, Australia."
-      },
-      {
-        "name": "Karanjeet Chauhan",
-        "affiliation": "University of Melbourne, Parkville, Victoria, Australia."
-      },
-      {
-        "name": "Thalys Sampaio Rodrigues",
-        "affiliation": "Royal Melbourne Hospital, Parkville, Victoria, Australia."
-      }
-    ],
-    "journal": "Pacing and clinical electrophysiology : PACE",
-    "publishedDate": "2026-05-08",
-    "fetchedDate": "2026-05-08",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiac",
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
