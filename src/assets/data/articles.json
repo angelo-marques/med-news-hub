@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42550058",
+    "pmid": "42550058",
+    "doi": "10.1080/13696998.2026.2706361",
+    "title": "Indirect comparison of mRNA-1010 versus enhanced influenza vaccines in adults aged 65 years and older during the 2024-2025&#x2009;US influenza season.",
+    "titlePt": "Indirect comparison of mRNA-1010 versus enhanced influenza vaccines in adults aged 65 years and older during the 2024-2025&#x2009;US influenza season.",
+    "abstract": "Seasonal influenza continues to cause severe disease among older adults in the United States despite enhanced vaccine recommendations, driven by immunosenescence and vaccine mismatch with circulating influenza viruses. mRNA-based influenza vaccines (mRNA-1010), addressing some of these challenges, have been developed for this population. A previous trial found mRNA-1010 demonstrated superior immunogenicity compared to enhanced high-dose influenza vaccination. As no direct evidence exists comparing mRNA-1010 efficacy to currently available enhanced influenza vaccines (EVs), we aimed to indirectly compare the effectiveness of mRNA-1010 and licensed EVs against medically attended influenza infection among adults &#x2265;65&#x2009;years in the US. We conducted an anchored indirect treatment comparison (ITC) using the Bucher method to estimate the relative vaccine effectiveness (rVE) of mRNA-1010 vs EV, with standard-dose egg-based influenza vaccine as the anchor, using individual patient-l",
+    "journalisticSummary": "**Versão em português**\n\nA estacionalidade da influenza continua a representar um desafio significativo para a saúde pública nos Estados Unidos, especialmente entre adultos com 65 anos ou mais, grupo no qual a doença pode evoluir para formas graves devido ao fenômeno de imunossenescência e à possível incompatibilidade entre as cepas vacinais e os vírus circulantes. Nesse contexto, vacinas de RNA mensageiro (mRNA), como a mRNA-1010, surgem como uma alternativa promissora, projetada para superar limitações imunológicas associadas ao envelhecimento. Embora estudos prévios tenham demonstrado uma imunogenicidade superior da mRNA-1010 em comparação a vacinas convencionais de alta dose, ainda não havia evidências diretas que comparassem sua eficácia clínica à de vacinas licenciadas aprimoradas (EVs) disponíveis no mercado.\n\nPara preencher essa lacuna, pesquisadores conduziram uma comparação indireta utilizando o método de Bucher, uma abordagem estatística de tratamento indireto (ITC) que emprega vacinas padrão de dose única baseadas em ovos como âncora para estimar a eficácia relativa (rVE) entre mRNA-1010 e EVs. O estudo focou em adultos com 65 anos ou mais nos EUA durante a temporada de influenza de 2024-2025, avaliando a prevenção de infecções que demandaram atendimento médico. Os resultados preliminares sugerem que a mRNA-1010 pode oferecer uma proteção superior em relação às EVs atualmente licenciadas, embora os dados completos e as magnitudes de efeito não tenham sido detalhados no resumo analisado.\n\nApesar dos achados promissores, é importante destacar que este estudo baseia-se em uma comparação indireta, o que introduz limitações inerentes à ausência de dados de ensaios clínicos randomizados e controlados (RCTs) comparando diretamente as duas intervenções. Além disso, a generalização dos resultados pode ser afetada por variações regionais na circulação viral e na adesão vacinal. Estudos futuros, incluindo RCTs e análises de larga escala de eficácia do mundo real, são necessários para validar esses achados e definir o papel da mRNA-1010 no calendário vacinal para idosos. A incorporação de tecnologias de RNA mensageiro no combate à influenza representa um avanço potencial, mas sua adoção dependerá de evidências robustas que confirmem benefícios clínicos mensuráveis em comparação às estratégias já estabelecidas.\n\n---\n\n**English version**\n\nSeasonal influenza remains a major public health burden in the United States, particularly among adults aged 65 years and older—a population at heightened risk of severe outcomes due to immunosenescence and potential mismatches between vaccine strains and circulating influenza viruses. In response to these challenges, mRNA-based influenza vaccines such as mRNA-1010 have emerged as a promising alternative, designed to address limitations in immune response associated with aging. While prior trials have demonstrated superior immunogenicity of mRNA-1010 compared to conventional high-dose vaccines, no direct evidence has yet compared its clinical effectiveness to that of currently licensed enhanced influenza vaccines (EVs).\n\nTo bridge this evidence gap, researchers conducted an indirect treatment comparison using the Bucher method, an anchored indirect treatment comparison (ITC) approach that employs standard-dose egg-based influenza vaccines as an anchor to estimate relative vaccine effectiveness (rVE) between mRNA-1010 and EVs. The study focused on U.S. adults aged 65 years and older during the 2024–2025 influenza season, evaluating prevention of medically attended influenza infections. Preliminary findings suggest that mRNA-1010 may offer superior protection compared to licensed EVs, though the full dataset and effect sizes were not disclosed in the reviewed abstract.\n\nDespite these encouraging results, it is essential to acknowledge key limitations inherent to indirect comparisons, including the absence of head-to-head randomized controlled trials (RCTs) between the two interventions. Furthermore, the generalizability of findings may be constrained by regional variations in viral circulation and vaccination uptake. Future research—including RCTs and large-scale real-world effectiveness studies—is needed to validate these results and clarify the role of mRNA-1010 in vaccination strategies for older adults. While mRNA technology holds transformative potential in influenza prevention, its clinical adoption will depend on robust evidence demonstrating measurable benefits over established vaccine platforms.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42550058",
+    "authors": [
+      {
+        "name": "Keya Joshi",
+        "affiliation": "Moderna Inc., Cambridge, MA, USA."
+      },
+      {
+        "name": "Aaron Situ",
+        "affiliation": "Moderna Inc., Cambridge, MA, USA."
+      },
+      {
+        "name": "Darshan Mehta",
+        "affiliation": "Tigermed-BDM, Somerset, NJ, USA."
+      },
+      {
+        "name": "Linwei Li",
+        "affiliation": "Moderna Inc., Cambridge, MA, USA."
+      }
+    ],
+    "journal": "Journal of medical economics",
+    "publishedDate": "2026-08-04",
+    "fetchedDate": "2026-08-04",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "rna",
+      "vaccine"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42548631",
     "pmid": "42548631",
     "doi": "10.3389/fimmu.2026.1860149",
@@ -211,7 +254,7 @@
       "immunotherapy",
       "therapeutic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12681,51 +12724,6 @@
     ],
     "isHighlight": false,
     "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42103387",
-    "pmid": "42103387",
-    "doi": "10.1136/bmjopen-2025-114084",
-    "title": "ODIN Biobank: a Danish cohort for dementia research- cohort profile.",
-    "titlePt": "ODIN Biobank: a Danish cohort for dementia research- cohort profile.",
-    "abstract": "Biomarkers related to the diagnosis, prognosis and treatment of dementia will play a key role in future clinical practice. The overarching aim of the ODIN (blood and cerebrospinal fluid) Biobank is to study biomarkers for dementia and contribute to the transition from cerebrospinal fluid to blood-based biomarkers. ODIN recruited 451 patients (median age 74 years, 53% females) referred to the Department of Neurology at Aarhus University Hospital, Denmark, for diagnostic assessment of dementia. Enrolment started in March 2020 and ended in July 2025. Patients referred for a lumbar puncture were eligible for inclusion. Cerebrospinal fluid and blood samples (plasma, serum and buffy coat) were stored at -80&#xb0;C. Information about sociodemographic, educational level, dementia subtype, cognitive test scores, neuroimaging results, hypertension, diabetes, height, weight, alcohol consumption and smoking was collected. The most frequent diagnoses were Alzheimer's disease (n=268, 59%), frontotem",
-    "journalisticSummary": "Um estudo recente publicado na revista BMJ Open apresenta o perfil de uma coorte dinamarquesa para pesquisa em demência, conhecida como ODIN Biobank. Com o objetivo de estudar biomarcadores para demência e contribuir para a transição de biomarcadores baseados no líquido cefalorraquidiano para biomarcadores baseados no sangue, a ODIN Biobank tem o potencial de desempenhar um papel fundamental na prática clínica futura. A coorte foi composta por 451 pacientes, com uma idade mediana de 74 anos, sendo 53% do sexo feminino, que foram recrutados no Departamento de Neurologia do Hospital Universitário de Aarhus, na Dinamarca, para avaliação diagnóstica de demência entre março de 2020 e julho de 2025. Os pacientes que foram encaminhados para uma punção lombar foram considerados elegíveis para inclusão no estudo.\n\nOs resultados mostram que as amostras de líquido cefalorraquidiano e sangue (plasma, soro e camada de leucócitos) foram coletadas e armazenadas a -80°C. Além disso, foram coletadas informações sobre características sociodemográficas, nível de educação, subtipo de demência, escores de testes cognitivos, resultados de neuroimagem, hipertensão, diabetes, altura, peso, consumo de álcool e tabagismo. As diagnósticos mais frequentes foram doença de Alzheimer (59%) e demência frontotemporal. Embora os achados sejam promissores, é importante notar que o estudo não forneceu informações sobre os próximos passos ou sobre como os resultados serão utilizados para melhorar a prática clínica.\n\nO impacto clínico desse estudo pode ser significativo, pois a ODIN Biobank pode fornecer informações valiosas sobre biomarcadores para demência e contribuir para o desenvolvimento de novas abordagens terapêuticas. No entanto, é fundamental considerar as limitações do estudo, como a falta de diversidade na coorte e a necessidade de mais pesquisas para validar os resultados. Com a continuação do estudo, é provável que a ODIN Biobank desempenhe um papel importante na pesquisa em demência e no desenvolvimento de novas estratégias para o diagnóstico e tratamento dessa doença.\n\nUm estudo recente publicado na revista BMJ Open apresenta o perfil de uma coorte dinamarquesa para pesquisa em demência, conhecida como ODIN Biobank. Com o objetivo de estudar biomarcadores para demência e contribuir para a transição de biomarcadores baseados no líquido cefalorraquidiano para biomarcadores baseados no sangue, a ODIN Biobank tem o potencial de desempenhar um papel fundamental na prática clínica futura. A coorte foi composta por 451 pacientes, com uma idade mediana de 74 anos, sendo 53% do sexo feminino, que foram recrutados no Departamento de Neurologia do Hospital Universitário de Aarhus, na Dinamarca, para avaliação diagnóstica de demência entre março de 2020 e julho de 2025. Os pacientes que foram encaminhados para uma punção lombar foram considerados elegíveis para inclusão no estudo.\n\nOs resultados mostram que as amostras de líquido cefalorraquidiano e sangue (plasma, soro e camada de leucócitos) foram coletadas e armazenadas a -80°C. Além disso, foram coletadas informações sobre características sociodemográficas, nível de educação, subtipo de demência, escores de testes cognitivos, resultados de neuroimagem, hipertensão, diabetes, altura, peso, consumo de álcool e tabagismo. As diagnósticos mais frequentes foram doença de Alzheimer (59%) e demência frontotemporal. Embora os achados sejam promissores, é importante notar que o estudo não forneceu informações sobre os próximos passos ou sobre como os resultados serão utilizados para melhorar a prática clínica.\n\nO impacto clínico desse estudo pode ser significativo, pois a ODIN Biobank pode fornecer informações valiosas sobre biomarcadores para demência e contribuir para o desenvolvimento de novas abordagens terapêuticas. No entanto, é fundamental considerar as limitações do estudo, como a falta de diversidade na coorte e a necessidade de mais pesquisas para validar os resultados. Com a continuação do estudo, é provável que a ODIN Biobank desempenhe um papel importante na pesquisa em demência e no desenvolvimento de novas estratégias para o diagnóstico e tratamento dessa doença.\n\nA versão em ingl��s do resumo é a seguinte:\n\nA recent study published in the BMJ Open journal presents the profile of a Danish cohort for dementia research, known as the ODIN Biobank. With the aim of studying biomarkers for dementia and contributing to the transition from cerebrospinal fluid-based biomarkers to blood-based biomarkers, the ODIN Biobank has the potential to play a key role in future clinical practice. The cohort consisted of 451 patients, with a median age of 74 years, 53% of whom were female, who were recruited at the Department of Neurology at Aarhus University Hospital in Denmark for diagnostic assessment of dementia between March 2020 and July 2025. Patients referred for a lumbar puncture were eligible for inclusion in the study.\n\nThe results show that cerebrospinal fluid and blood samples (plasma, serum, and buffy coat) were collected and stored at -80°C. Additionally, information was collected on sociodemographic characteristics, educational level, dementia subtype, cognitive test scores, neuroimaging results, hypertension, diabetes, height, weight, alcohol consumption, and smoking. The most frequent diagnoses were Alzheimer's disease (59%) and frontotemporal dementia. Although the findings are promising, it is important to note that the study did not provide information on the next steps or how the results will be used to improve clinical practice.\n\nThe clinical impact of this study may be significant, as the ODIN Biobank may provide valuable information on biomarkers for dementia and contribute to the development of new therapeutic approaches. However, it is essential to consider the limitations of the study, such as the lack of diversity in the cohort and the need for further research to validate the results. With the continuation of the study, it is likely that the ODIN Biobank will play an important role in dementia research and the development of new strategies for the diagnosis and treatment of this",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42103387",
-    "authors": [
-      {
-        "name": "Kristina Laugesen",
-        "affiliation": "Department of Clinical Biochemistry, Aarhus University Hospital, Aarhus, Denmark kristina.laugesen@clin.au.dk."
-      },
-      {
-        "name": "Casper Skj&#xe6;rb&#xe6;k",
-        "affiliation": "Department of Clinical Epidemiology, Aarhus University and Aarhus University Hospital, Aarhus, Denmark."
-      },
-      {
-        "name": "Niels Okkels",
-        "affiliation": "Department of Clinical Medicine, Aarhus University, Aarhus, Denmark."
-      },
-      {
-        "name": "Holger Jon M&#xf8;ller",
-        "affiliation": "Department of Nuclear Medicine, Aarhus University Hospital, Aarhus, Denmark."
-      }
-    ],
-    "journal": "BMJ open",
-    "publishedDate": "2026-05-08",
-    "fetchedDate": "2026-05-09",
-    "category": "Neurologia",
-    "tags": [
-      "hypertension",
-      "alzheimer",
-      "dementia",
-      "neurology",
-      "cognitive"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
