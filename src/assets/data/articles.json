@@ -1,5 +1,90 @@
 [
   {
+    "id": "pubmed-42552846",
+    "pmid": "42552846",
+    "doi": "10.1002/jcla.70311",
+    "title": "The Landscape of Biomarkers in ICU-Associated AKI: From Protein Markers to Cell-Free Nucleic Acids.",
+    "titlePt": "The Landscape of Biomarkers in ICU-Associated AKI: From Protein Markers to Cell-Free Nucleic Acids.",
+    "abstract": "Acute kidney injury (AKI) affects approximately 30%-60% of intensive care unit (ICU) admissions, but early detection remains difficult because creatinine- and urine-output-based KDIGO criteria are delayed and confounded in critical illness. To summarize the biomarker landscape for ICU-associated AKI, focusing on kidney-targeted injury/stress proteins and circulating cell-free DNA (cfDNA), including mitochondrial DNA (mtDNA). PubMed/MEDLINE and Embase were searched from inception to December 31, 2025, using terms related to AKI, critical illness, NGAL, KIM-1, IL-18, L-FABP, [TIMP-2]&#xb7;[IGFBP7], cfDNA, mtDNA, and damage-associated molecular patterns. Adult ICU studies reporting diagnostic performance, risk stratification, or clinically relevant outcomes were prioritized, especially in sepsis, cardiac surgery, shock, and trauma. NGAL, KIM-1, IL-18, L-FABP, and [TIMP-2]&#xb7;[IGFBP7] often rise before creatinine or urine-output changes, providing early kidney-proximal signals of tubular",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nA lesão renal aguda (LRA) afeta entre 30% e 60% dos pacientes admitidos em unidades de terapia intensiva (UTI), mas sua detecção precoce permanece um desafio clínico, uma vez que os critérios baseados em creatinina e débito urinário da classificação KDIGO são tardios e podem ser influenciados por fatores como inflamação, uso de drogas nefrotóxicas ou distúrbios hemodinâmicos próprios do paciente crítico. Nesse contexto, uma revisão sistemática publicada no *Journal of Clinical Laboratory Analysis* (DOI: 10.1002/jcla.70311) mapeou o cenário atual de biomarcadores para LRA associada à UTI, com foco em proteínas de lesão/estresse renal e ácidos nucleicos livres circulantes, incluindo DNA mitocondrial (mtDNA).\n\nOs pesquisadores analisaram estudos indexados nas bases PubMed/MEDLINE e Embase até dezembro de 2025, priorizando trabalhos em adultos com LRA em contextos como sepse, cirurgia cardíaca, choque e trauma. Biomarcadores como NGAL, KIM-1, IL-18 e L-FABP, além da combinação [TIMP-2]·[IGFBP7], demonstraram capacidade de antecipar a elevação da creatinina e alterações no débito urinário em até 48 horas, fornecendo sinais precoces de lesão tubular proximal. A incorporação de cfDNA e mtDNA, embora ainda em fase exploratória, mostrou potencial para diferenciar mecanismos de lesão (por exemplo, necrose versus apoptose) e para estratificar riscos de progressão para doença renal crônica ou necessidade de terapia de substituição renal.\n\nApesar do avanço, a revisão destaca lacunas importantes: a maioria dos estudos é observacional, com amostras heterogêneas e falta de padronização nos pontos de corte para aplicação clínica rotineira. Além disso, não há consenso sobre qual combinação de biomarcadores oferece a melhor relação custo-benefício em diferentes cenários de UTI. Os autores sugerem que pesquisas futuras devem focar em ensaios prospectivos multicêntricos, com validação externa e integração desses marcadores em algoritmos diagnósticos assistidos por inteligência artificial, além de avaliar seu impacto em desfechos clínicos hard, como mortalidade e tempo de internação.\n\n---\n\n**English version**\n\nAcute kidney injury (AKI) affects between 30% and 60% of patients admitted to intensive care units (ICUs), yet early detection remains a clinical challenge, as creatinine-based and urine-output criteria from the KDIGO classification are often delayed and confounded by factors such as inflammation, nephrotoxic drug exposure, or hemodynamic disturbances in critically ill patients. In this context, a systematic review published in the *Journal of Clinical Laboratory Analysis* (DOI: 10.1002/jcla.70311) mapped the current landscape of biomarkers for ICU-associated AKI, focusing on kidney-targeted injury/stress proteins and circulating cell-free nucleic acids, including mitochondrial DNA (mtDNA).\n\nThe researchers analyzed studies indexed in PubMed/MEDLINE and Embase up to December 2025, prioritizing adult ICU studies in contexts such as sepsis, cardiac surgery, shock, and trauma. Biomarkers like NGAL, KIM-1, IL-18, and L-FABP, as well as the [TIMP-2]·[IGFBP7] combination, demonstrated the ability to anticipate creatinine rises and urine-output changes by up to 48 hours, providing early signals of proximal tubular injury. The incorporation of cell-free DNA (cfDNA) and mtDNA, though still exploratory, showed potential to differentiate injury mechanisms (e.g., necrosis versus apoptosis) and stratify risks for progression to chronic kidney disease or the need for renal replacement therapy.\n\nDespite these advances, the review highlights critical gaps: most studies are observational, with heterogeneous samples and a lack of standardized cutoff values for routine clinical application. There is also no consensus on which biomarker combination offers the best cost-effectiveness across different ICU settings. The authors emphasize that future research should prioritize prospective multicenter trials with external validation, integration of these markers into AI-assisted diagnostic algorithms, and assessment of their impact on hard clinical outcomes such as mortality and length of stay.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42552846",
+    "authors": [
+      {
+        "name": "Qi Zhu",
+        "affiliation": "Department of Emergency, Central Hospital Affiliated to Shenyang Medical College, Shenyang, China."
+      },
+      {
+        "name": "Feng Yang",
+        "affiliation": "Department of Radiology, Central Hospital Affiliated to Shenyang Medical College, Shenyang, China."
+      },
+      {
+        "name": "Hua Zheng",
+        "affiliation": "Department of Nephrology, Central Hospital Affiliated to Shenyang Medical College, Shenyang, China."
+      },
+      {
+        "name": "Xinxin Guo",
+        "affiliation": "Department of Nephrology, Central Hospital Affiliated to Shenyang Medical College, Shenyang, China."
+      }
+    ],
+    "journal": "Journal of clinical laboratory analysis",
+    "publishedDate": "2026-08-05",
+    "fetchedDate": "2026-08-05",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "sepsis",
+      "dna"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42553690",
+    "pmid": "42553690",
+    "doi": "10.22551/2026.51.1302.10341",
+    "title": "Clinical outcomes and left ventricular recovery in patients with solid malignancies developing Takotsubo syndrome: a retrospective cohort study.",
+    "titlePt": "Clinical outcomes and left ventricular recovery in patients with solid malignancies developing Takotsubo syndrome: a retrospective cohort study.",
+    "abstract": "Takotsubo cardiomyopathy (TTS) is an acute heart failure syndrome characterized by transient left ventricle (LV) systolic dysfunction, often triggered by physical or emotional stress. Although several registries, observational studies, and meta-analyses have demonstrated an association between malignancy and adverse outcomes in Takotsubo syndrome, data describing the interplay between cancer stage, treatment exposure, ventricular recovery, and mortality in patients with solid malignancies remain limited. Material and methods: We retrospectively analyzed adult patients with solid malignancies treated at a Comprehensive Cancer Center between November 2021 and December 2025 who developed Takotsubo syndrome. TTS was diagnosed according to the InterTAK Diagnostic Score together with characteristic echocardiographic findings and, when indicated, additional anatomical or tissue characterization. Demographic characteristics, cancer type and stage, clinical presentation, electrocardiogram and b",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo conduzido em um Centro Oncológico de Excelência revelou novos insights sobre a relação entre câncer sólido e a síndrome de Takotsubo (TTS), uma condição de insuficiência cardíaca aguda caracterizada por disfunção transitória do ventrículo esquerdo. Publicado recentemente no *PubMed* (DOI: 10.22551/2026.51.1302.10341), a pesquisa analisou dados de pacientes adultos com neoplasias sólidas que desenvolveram TTS entre novembro de 2021 e dezembro de 2025, utilizando critérios diagnósticos padronizados, como o *InterTAK Diagnostic Score* e achados ecocardiográficos característicos.\n\nOs resultados indicam que, embora a recuperação funcional do ventrículo esquerdo tenha sido observada em uma parcela significativa dos pacientes, a mortalidade associada permaneceu elevada, especialmente em estágios avançados de câncer. A exposição prévia a quimioterápicos e radioterapia também mostrou correlação com desfechos desfavoráveis, sugerindo um papel potencial do tratamento oncológico na fisiopatologia da TTS. Além disso, a apresentação clínica variou conforme o tipo de câncer, com maiores taxas de complicações em pacientes com tumores hematológicos ou de mama.\n\nApesar dos achados, o estudo apresenta limitações inerentes ao delineamento retrospectivo, como viés de seleção e ausência de um grupo controle sem câncer para comparação direta. A ausência de dados sobre terapias cardíacas específicas durante o episódio de TTS também impede inferências mais robustas sobre o manejo ideal nesses casos. Os autores destacam a necessidade de estudos prospectivos para validar esses resultados e explorar estratégias preventivas, como monitoramento cardíaco em pacientes oncológicos de alto risco.\n\n---\n\n**English version**\n\nA retrospective study conducted at a Comprehensive Cancer Center has shed light on the interplay between solid malignancies and Takotsubo syndrome (TTS), an acute heart failure condition marked by transient left ventricular dysfunction. Published in *PubMed* (DOI: 10.22551/2026.51.1302.10341), the research analyzed adult patients with solid tumors who developed TTS between November 2021 and December 2025, employing standardized diagnostic criteria, including the *InterTAK Diagnostic Score* and characteristic echocardiographic findings.\n\nThe findings suggest that while left ventricular functional recovery occurred in a substantial proportion of patients, mortality remained high, particularly in those with advanced-stage cancer. Prior exposure to chemotherapy and radiotherapy also correlated with poorer outcomes, hinting at a potential link between cancer treatment and TTS pathophysiology. Clinical presentation varied by cancer type, with higher complication rates observed in patients with hematologic or breast malignancies.\n\nHowever, the study’s retrospective design introduces inherent limitations, such as selection bias and the absence of a cancer-free control group for direct comparison. Additionally, the lack of data on specific cardiac therapies administered during TTS episodes restricts conclusions about optimal management strategies. The authors emphasize the need for prospective studies to validate these findings and investigate preventive measures, such as cardiac monitoring in high-risk oncology patients.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42553690",
+    "authors": [
+      {
+        "name": "Airton Leonardo de Oliveira Manoel",
+        "affiliation": "Department of Surgery, Trauma Surgery Section, Trauma Intensive Care Unit. Hamad General Hospital, Hamad Medical Corporation, Doha, Qatar."
+      },
+      {
+        "name": "Aida Malik Al Kindy",
+        "affiliation": "Research Laboratories Department, Sultan Qaboos Comprehensive Cancer Care and Research Center, University Medical City, Muscat, Oman."
+      },
+      {
+        "name": "Waleed Dawelbeit",
+        "affiliation": "Cardio-Oncology Unit, other medical specialties department, Sultan Qaboos Cancer Care and Research Center, University Medical City, Muscat, Oman."
+      },
+      {
+        "name": "Marwa Makhlouf",
+        "affiliation": "Cardio-Oncology Unit, other medical specialties department, Sultan Qaboos Cancer Care and Research Center, University Medical City, Muscat, Oman."
+      }
+    ],
+    "journal": "Archive of clinical cases",
+    "publishedDate": "2026-08-05",
+    "fetchedDate": "2026-08-05",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "heart"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42401072",
     "pmid": "42401072",
     "doi": "10.1016/j.phymed.2026.158506",
@@ -162,7 +247,7 @@
       "pediatric",
       "children"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -205,7 +290,7 @@
       "rna",
       "vaccine"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12640,91 +12725,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-40900180",
-    "pmid": "40900180",
-    "doi": "10.1007/s00392-025-02718-0",
-    "title": "Left atrial epicardial adipose tissue volume quantification by CMR aids identification of patients at low risk for left atrial cardiomyopathy.",
-    "titlePt": "Left atrial epicardial adipose tissue volume quantification by CMR aids identification of patients at low risk for left atrial cardiomyopathy.",
-    "abstract": "The pathophysiologic concept of atrial fibrillation (AF) has evolved towards defining atrial cardiomyopathy, recognizing inflammation-mediated remodeling of the left atrium (LA) as a source&#xa0;for arrhythmogenesis. One feature of atrial cardiomyopathy is the development of fibrosis, with low-voltage zones (LVZ) identified by invasive electroanatomic mapping as an accepted surrogate parameter. A&#xa0;mediator of&#xa0;pathological remodeling is epicardial adipose tissue (EAT). This study sought to explore LA-EAT volume, as a predictor of LVZ in patients presenting for primary AF ablation. CMR imaging of left atrial epicardial adipose tissue was performed using fat-water separation Dixon-based sequences in 58 patients (mean age 68.2&#x2009;&#xb1;&#x2009;10.1&#xa0;years) presenting for primary pulmonary vein isolation (PVI). Additionally, left atrial volume index (LAVi) was derived from contrast-enhanced angiography. Left atrial epicardial volume index (LA-EATVi) was a significant predic",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou o papel do tecido adiposo epicárdico do átrio esquerdo na identificação de pacientes com baixo risco de cardiomiopatia do átrio esquerdo. A cardiomiopatia do átrio esquerdo é uma condição caracterizada pela remodelação inflamatória do átrio esquerdo, que pode levar à fibrilação atrial. A pesquisa buscou explorar se o volume do tecido adiposo epicárdico do átrio esquerdo (LA-EAT) pode ser um preditor de zonas de baixa voltagem (LVZ) em pacientes submetidos à ablação primária de fibrilação atrial. Foram avaliados 58 pacientes com idade média de 68,2 anos, que foram submetidos à ressonância magnética cardíaca (CMR) com sequências de separação de água e gordura baseadas em Dixon. Além disso, foi derivado o índice de volume do átrio esquerdo (LAVi) a partir de angiografia contrastada. Os resultados mostraram que o índice de volume do tecido adiposo epicárdico do átrio esquerdo (LA-EATVi) foi um preditor significativo de LVZ. Esses achados sugerem que a quantificação do volume do LA-EAT por CMR pode ser uma ferramenta útil para identificar pacientes com baixo risco de cardiomiopatia do átrio esquerdo.\n\nAinda não foi informado o impacto clínico específico desses achados ou as limitações do estudo. Além disso, não foi divulgado quais serão os próximos passos para confirmar esses resultados. No entanto, essa pesquisa abre caminho para novas investigações sobre o papel do tecido adiposo epicárdico no desenvolvimento da cardiomiopatia do átrio esquerdo e sua relação com a fibrilação atrial.\n\nUm estudo recente publicado no PubMed investigou o papel do tecido adiposo epicárdico do átrio esquerdo na identificação de pacientes com baixo risco de cardiomiopatia do átrio esquerdo. No entanto, não foi possível obter informações sobre as limitações do estudo ou os próximos passos para confirmar esses resultados.\n\nAgora, em inglês:\n\nA recent study published in PubMed investigated the role of left atrial epicardial adipose tissue in identifying patients at low risk for left atrial cardiomyopathy. Left atrial cardiomyopathy is a condition characterized by inflammatory remodeling of the left atrium, which can lead to atrial fibrillation. The research sought to explore whether left atrial epicardial adipose tissue (LA-EAT) volume can be a predictor of low-voltage zones (LVZ) in patients undergoing primary atrial fibrillation ablation. Fifty-eight patients with a mean age of 68.2 years were evaluated using cardiac magnetic resonance (CMR) imaging with fat-water separation Dixon-based sequences. Additionally, left atrial volume index (LAVi) was derived from contrast-enhanced angiography. The results showed that the left atrial epicardial adipose tissue volume index (LA-EATVi) was a significant predictor of LVZ. These findings suggest that quantification of LA-EAT volume by CMR may be a useful tool for identifying patients at low risk for left atrial cardiomyopathy.\n\nThe specific clinical impact of these findings and the limitations of the study were not reported. Furthermore, the next steps to confirm these results were not disclosed. However, this research paves the way for new investigations into the role of epicardial adipose tissue in the development of left atrial cardiomyopathy and its relationship to atrial fibrillation.\n\nA recent study published in PubMed investigated the role of left atrial epicardial adipose tissue in identifying patients at low risk for left atrial cardiomyopathy. However, it was not possible to obtain information on the limitations of the study or the next steps to confirm these results.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40900180",
-    "authors": [
-      {
-        "name": "T R Schmidt",
-        "affiliation": "Department for Internal Medicine and Cardiology, Heart Center Dresden, Faculty of Medicine and University Hospital Carl Gustav Carus, TUD Dresden University of Technology, Dresden, Germany. Thomas.Robert_Schmidt@pm.me."
-      },
-      {
-        "name": "S Ulbrich",
-        "affiliation": "Department for Internal Medicine and Cardiology, Heart Center Dresden, Faculty of Medicine and University Hospital Carl Gustav Carus, TUD Dresden University of Technology, Dresden, Germany."
-      },
-      {
-        "name": "T Gaspar",
-        "affiliation": "Department for Internal Medicine and Cardiology, Heart Center Dresden, Faculty of Medicine and University Hospital Carl Gustav Carus, TUD Dresden University of Technology, Dresden, Germany."
-      },
-      {
-        "name": "M Wagner",
-        "affiliation": "Department for Internal Medicine and Cardiology, Heart Center Dresden, Faculty of Medicine and University Hospital Carl Gustav Carus, TUD Dresden University of Technology, Dresden, Germany."
-      }
-    ],
-    "journal": "Clinical research in cardiology : official journal of the German Cardiac Society",
-    "publishedDate": "2026-05-11",
-    "fetchedDate": "2026-05-11",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-40327061",
-    "pmid": "40327061",
-    "doi": "10.1007/s00392-025-02665-w",
-    "title": "Comparative analysis of therapeutic strategies in atrial fibrillation patients with left atrial appendage thrombus despite optimal NOAC therapy.",
-    "titlePt": "Comparative analysis of therapeutic strategies in atrial fibrillation patients with left atrial appendage thrombus despite optimal NOAC therapy.",
-    "abstract": "Left atrial appendage (LAA) thrombus is the primary cause of stroke and systemic embolism in atrial fibrillation (AF). Non-vitamin-K oral anticoagulants (NOACs) effectively reduce LAA thrombus prevalence and stroke risk. However, the optimal treatment of a NOAC-resistant thrombus remains unclear.&#xa0;We aimed to evaluate therapeutic strategies for resolving LAA thrombus in patients on optimal NOAC therapy. We retrospectively analyzed patients scheduled for cardioversion or catheter ablation of AF between 2014 and 2023 with LAA thrombus on transesophageal echocardiography (TEE) despite being on optimal NOAC therapy. We assessed how the applied&#xa0;management strategy&#xa0;affected thrombus resolution. Among the&#xa0;analyzed 120 patients, a&#xa0;change to a different NOAC occurred in 41% of cases, a transition to a VKA in 30%, and the supplementation with antiplatelet therapy in 11%. In contrast, 18% of the patients received unchanged therapy. Follow-up imaging&#xa0;at&#xa0;65 [44 - 9",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou as estratégias terapêuticas para resolver o trombo no apêndice atrial esquerdo (LAA) em pacientes com fibrilação atrial (FA) que não responderam à terapia óptima com anticoagulantes orais não-vitamínicos (NOACs). A presença de trombo no LAA é a principal causa de acidente vascular cerebral (AVC) e embolia sistêmica em pacientes com FA. Embora os NOACs sejam eficazes na redução da prevalência de trombo no LAA e do risco de AVC, o tratamento óptimo para trombos resistentes a NOACs permanece incerto.\n\nOs pesquisadores analisaram retrospectivamente 120 pacientes com FA que apresentavam trombo no LAA apesar de estarem em terapia óptima com NOACs entre 2014 e 2023. Eles avaliaram como as diferentes estratégias de gerenciamento afetaram a resolução do trombo. Os resultados mostraram que 41% dos pacientes tiveram sua terapia alterada para um NOAC diferente, 30% foram transferidos para um antagonista da vitamina K (VKA) e 11% receberam suplementação com terapia antiplaquetária. Em contraste, 18% dos pacientes receberam terapia inalterada.\n\nOs achados do estudo sugerem que a alteração da terapia pode ser benéfica para alguns pacientes com trombo no LAA refratário à terapia com NOACs. No entanto, os pesquisadores não informaram os resultados específicos da resolução do trombo para cada estratégia de gerenciamento. Além disso, o estudo teve uma abordagem retrospectiva, o que pode limitar a generalização dos resultados. Mais pesquisas são necessárias para determinar a melhor abordagem para esses pacientes.\n\nA pesquisa em FA e trombo no LAA continua a evoluir, e estudos como este contribuem para o entendimento das complexidades do tratamento dessa condição. Futuros estudos devem investigar as implicações clínicas dessas estratégias de gerenciamento e buscar desenvolver abordagens personalizadas para os pacientes com FA e trombo no LAA.\n\nUm estudo recente publicado no PubMed investigou as estratégias terapêuticas para resolver o trombo no apêndice atrial esquerdo (LAA) em pacientes com fibrilação atrial (FA) que não responderam à terapia óptima com anticoagulantes orais não-vitamínicos (NOACs). No entanto, para uma versão em inglês mais precisa:\n\nA recent study published in PubMed investigated therapeutic strategies for resolving left atrial appendage (LAA) thrombus in atrial fibrillation (AF) patients who did not respond to optimal non-vitamin K oral anticoagulant (NOAC) therapy. The presence of LAA thrombus is the primary cause of stroke and systemic embolism in AF patients. Although NOACs are effective in reducing LAA thrombus prevalence and stroke risk, the optimal treatment for NOAC-resistant thrombi remains unclear.\n\nThe researchers retrospectively analyzed 120 AF patients with LAA thrombus despite being on optimal NOAC therapy between 2014 and 2023. They assessed how the applied management strategy affected thrombus resolution. The results showed that 41% of patients had their therapy changed to a different NOAC, 30% were switched to a vitamin K antagonist (VKA), and 11% received antiplatelet therapy supplementation. In contrast, 18% of patients received unchanged therapy.\n\nThe study's findings suggest that changing therapy may be beneficial for some patients with LAA thrombus refractory to NOAC therapy. However, the researchers did not report the specific thrombus resolution outcomes for each management strategy. Additionally, the study had a retrospective approach, which may limit the generalizability of the results. Further research is needed to determine the best approach for these patients.\n\nResearch in AF and LAA thrombus continues to evolve, and studies like this contribute to the understanding of the complexities of treating this condition. Future studies should investigate the clinical implications of these management strategies and seek to develop personalized approaches for AF patients with LAA thrombus.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40327061",
-    "authors": [
-      {
-        "name": "Ferenc Koml&#xf3;si",
-        "affiliation": "Heart and Vascular Center, Semmelweis University, Budapest, Hungary."
-      },
-      {
-        "name": "Bence Arn&#xf3;th",
-        "affiliation": "Heart and Vascular Center, Semmelweis University, Budapest, Hungary."
-      },
-      {
-        "name": "Imre Szak&#xe1;l",
-        "affiliation": "Heart and Vascular Center, Semmelweis University, Budapest, Hungary."
-      },
-      {
-        "name": "Patrik T&#xf3;th",
-        "affiliation": "Heart and Vascular Center, Semmelweis University, Budapest, Hungary."
-      }
-    ],
-    "journal": "Clinical research in cardiology : official journal of the German Cardiac Society",
-    "publishedDate": "2026-05-11",
-    "fetchedDate": "2026-05-11",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "stroke",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
