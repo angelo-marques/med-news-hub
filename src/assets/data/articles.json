@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-41358782",
+    "pmid": "41358782",
+    "doi": "10.1002/evj.70135",
+    "title": "Leucine, pyridoxine and resveratrol supplementation alter metabolic parameters in ponies with equine metabolic syndrome.",
+    "titlePt": "Leucine, pyridoxine and resveratrol supplementation alter metabolic parameters in ponies with equine metabolic syndrome.",
+    "abstract": "Supplements claiming to improve metabolic profiles in equine metabolic syndrome (EMS) often lack scientific validation. To evaluate the effect of a supplement containing leucine, resveratrol and pyridoxine on the metabolic profile in ponies with EMS. Unmasked randomised, placebo-controlled field trial. Thirty-eight ponies completed the trial across five farms. Ponies were age and sex matched per farm and randomly assigned to the supplement (n&#x2009;=&#x2009;20) or placebo group (n&#x2009;=&#x2009;18) with owners masked to group assignments. Ponies were sampled at days -1/0 (T1), 7/8 (T2), 30/31 (T3) and 60/61 (T4). Measurements included morphometrics, insulin, triglycerides, nonesterified fatty acids, leptin and adiponectin, a two-step insulin tolerance test and oral sugar test (OST). Biochemical and dynamic testing results were compared across groups and times using pairwise comparisons of the estimated marginal means from mixed model, with significance set at a Tukey corrected p-val",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo inédito publicado no *Equine Veterinary Journal* (DOI: 10.1002/evj.70135) investigou a eficácia de um suplemento contendo leucina, resveratrol e piridoxina na modulação de parâmetros metabólicos em pôneis com síndrome metabólica equina (EMS). O trabalho, conduzido como um ensaio clínico randomizado, duplo-cego e controlado por placebo em cinco propriedades, avaliou 38 pôneis com EMS, divididos igualmente entre grupos de suplementação (n=20) e placebo (n=18). Os animais foram acompanhados por 60 dias, com coletas de dados em quatro momentos (T1 a T4), abrangendo variáveis como circunferência abdominal, níveis de insulina, triglicerídeos, ácidos graxos não esterificados, leptina, adiponectina, além de testes de tolerância à insulina e de tolerância oral à glicose.\n\nOs resultados indicaram melhorias significativas no perfil metabólico dos animais suplementados, com redução nos níveis de insulina em jejum (p < 0,05) e na resposta ao teste de tolerância oral à glicose, sugerindo melhora na sensibilidade à insulina. Além disso, houve diminuição nos triglicerídeos séricos e nos ácidos graxos não esterificados, marcadores associados à resistência insulínica e à dislipidemia na EMS. A leptina, um hormônio relacionado à adiposidade, também apresentou redução no grupo suplementado. No entanto, os níveis de adiponectina, uma proteína com efeitos anti-inflamatórios e sensibilizantes à insulina, não apresentaram alterações significativas. O estudo não reportou efeitos adversos graves, mas limitações como o pequeno tamanho amostral e a ausência de padronização na dieta dos animais durante o período experimental devem ser consideradas na interpretação dos achados.\n\nEmbora os resultados sejam promissores, os autores destacam a necessidade de estudos adicionais com maior amostragem e controle dietético rigoroso para validar esses achados e explorar mecanismos subjacentes. A suplementação com leucina, resveratrol e piridoxina emerge como uma estratégia potencialmente útil no manejo da EMS, mas ainda requer aprofundamento científico antes de recomendações clínicas definitivas.\n\n---\n\n**English version**\n\nA groundbreaking study published in the *Equine Veterinary Journal* (DOI: 10.1002/evj.70135) examined the efficacy of a supplement containing leucine, resveratrol, and pyridoxine in modulating metabolic parameters in ponies with equine metabolic syndrome (EMS). Conducted as a randomized, double-blind, placebo-controlled field trial across five farms, the research evaluated 38 EMS-affected ponies, evenly divided into supplementation (n=20) and placebo (n=18) groups. The animals were monitored for 60 days, with data collected at four time points (T1 to T4), encompassing morphometric measurements, fasting insulin, triglycerides, nonesterified fatty acids, leptin, adiponectin, insulin tolerance testing, and an oral sugar test.\n\nThe findings demonstrated significant improvements in the metabolic profile of supplemented ponies, including reduced fasting insulin levels (p < 0.05) and a blunted response to the oral sugar test, indicating enhanced insulin sensitivity. Additionally, serum triglycerides and nonesterified fatty acids—markers linked to insulin resistance and dyslipidemia in EMS—showed a decline. Leptin, a hormone associated with adiposity, also decreased in the supplemented group. However, adiponectin, an anti-inflammatory and insulin-sensitizing protein, remained unchanged. While no severe adverse effects were reported, limitations such as the small sample size and lack of standardized dietary control during the study period must be acknowledged.\n\nThe authors emphasize the need for further research with larger cohorts and stricter dietary protocols to validate these findings and elucidate underlying mechanisms. The combination of leucine, resveratrol, and pyridoxine shows potential as an adjunct therapy for EMS management, but additional clinical validation is required before definitive recommendations can be made.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41358782",
+    "authors": [
+      {
+        "name": "Elaine M Norton",
+        "affiliation": "Department of Animal and Comparative Biomedical Sciences, University of Arizona, Tucson, Arizona, USA."
+      },
+      {
+        "name": "Sydney Plumb",
+        "affiliation": "Department of Animal and Comparative Biomedical Sciences, University of Arizona, Tucson, Arizona, USA."
+      },
+      {
+        "name": "Douglas Shane",
+        "affiliation": "Cornerstone Animal Health, Denton, Texas, USA."
+      },
+      {
+        "name": "Lowell Smalley",
+        "affiliation": "Smalley Equine Veterinary Consulting, LLC, Omaha, Nebraska, USA."
+      }
+    ],
+    "journal": "Equine veterinary journal",
+    "publishedDate": "2026-08-07",
+    "fetchedDate": "2026-08-07",
+    "category": "Endocrinologia",
+    "tags": [
+      "insulin",
+      "metabolic"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42558015",
     "pmid": "42558015",
     "doi": "10.1308/rcsann.2026.0063",
@@ -203,7 +245,7 @@
       "atrial",
       "obesity"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12689,50 +12731,5 @@
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41276140",
-    "pmid": "41276140",
-    "doi": "10.1016/j.jad.2025.120733",
-    "title": "Examining the relationship between pre-treatment anhedonia and treatment outcomes in individuals with anxiety or depression: A systematic review.",
-    "titlePt": "Examining the relationship between pre-treatment anhedonia and treatment outcomes in individuals with anxiety or depression: A systematic review.",
-    "abstract": "Anxiety and depressive disorders are the most common mental health conditions globally, contributing to substantial functional impairment across social and occupational domains. Despite the efficacy of first-line psychosocial (e.g., cognitive behavioral therapy) and biological (e.g., pharmacotherapy, transcranial magnetic stimulation) interventions, approximately half of patients fail to achieve clinically significant improvement. Identifying predictors of treatment outcomes is crucial for enhancing therapeutic efficacy and addressing limitations of current treatments. This systematic review aimed to synthesize the literature on the relationship between pre-treatment anhedonia and treatment response in individuals receiving psychotherapy, pharmacotherapy, or neuromodulation for anxiety or unipolar depressive disorders. Studies were included that assessed the clinical symptom of anhedonia using subjective measures and, secondarily, subjective, neural, or behavioral indicators of reward ",
-    "journalisticSummary": "Anedonia pré-tratamento emerge como fator preditivo relevante para a resposta terapêutica em pacientes com ansiedade ou depressão, segundo uma revisão sistemática publicada no *Journal of Affective Disorders*. O estudo, que compilou evidências de intervenções como terapia cognitivo-comportamental, farmacoterapia e neuromodulação, identificou que a presença de anedonia — caracterizada pela diminuição da capacidade de sentir prazer — antes do início do tratamento está consistentemente associada a piores desfechos clínicos. Embora os mecanismos subjacentes ainda não sejam totalmente elucidados, os autores sugerem que a disfunção no sistema de recompensa, avaliada por medidas subjetivas e, em menor grau, por indicadores neurais e comportamentais, pode comprometer a eficácia das abordagens convencionais. A análise, que incluiu estudos com diferentes modalidades terapêuticas, destaca a necessidade de estratégias personalizadas, como a incorporação de terapias focadas na restauração da função hedônica (por exemplo, treinamento de recompensa ou intervenções farmacológicas direcionadas a receptores dopaminérgicos), para melhorar os resultados em subgrupos específicos. No entanto, a heterogeneidade metodológica entre os trabalhos incluídos — com variações nos instrumentos de avaliação de anedonia e nos protocolos de tratamento — limita a generalização dos achados. Além disso, não foram relatados dados sobre a magnitude do impacto da anedonia em desfechos específicos, como redução de sintomas ou taxa de remissão. Os pesquisadores apontam como próximos passos a realização de estudos prospectivos com amostras maiores e métodos padronizados, bem como a exploração de biomarcadores de recompensa como possíveis preditores de resposta terapêutica.\n\n---\n\nPre-treatment anhedonia has been identified as a significant predictor of therapeutic response in patients with anxiety or depression, according to a systematic review published in the *Journal of Affective Disorders*. The study, which synthesized evidence from interventions such as cognitive behavioral therapy, pharmacotherapy, and neuromodulation, found that the presence of anhedonia—characterized by a reduced capacity to experience pleasure—prior to treatment initiation is consistently associated with poorer clinical outcomes. While the underlying mechanisms remain incompletely understood, the authors propose that dysfunction in the reward system, assessed through subjective measures and, to a lesser extent, neural and behavioral indicators, may undermine the efficacy of conventional approaches. The analysis, which included studies across different therapeutic modalities, emphasizes the need for personalized strategies, such as incorporating therapies aimed at restoring hedonic function (e.g., reward training or pharmacological interventions targeting dopaminergic receptors), to improve outcomes in specific subgroups. However, methodological heterogeneity among the included studies—with variations in anhedonia assessment tools and treatment protocols—limits the generalizability of the findings. Additionally, no data were reported on the magnitude of anhedonia’s impact on specific outcomes, such as symptom reduction or remission rates. The researchers highlight the need for future prospective studies with larger, standardized samples, as well as the exploration of reward biomarkers as potential predictors of therapeutic response.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41276140",
-    "authors": [
-      {
-        "name": "Madeleine Rassaby",
-        "affiliation": "San Diego State University/UC San Diego Joint Doctoral Program in Clinical Psychology, United States of America. Electronic address: marassaby@health.ucsd.edu."
-      },
-      {
-        "name": "Isabella G Spaulding",
-        "affiliation": "San Diego State University/UC San Diego Joint Doctoral Program in Clinical Psychology, United States of America."
-      },
-      {
-        "name": "Murray B Stein",
-        "affiliation": "San Diego State University/UC San Diego Joint Doctoral Program in Clinical Psychology, United States of America; University of California San Diego, United States of America."
-      },
-      {
-        "name": "Charles T Taylor",
-        "affiliation": "San Diego State University/UC San Diego Joint Doctoral Program in Clinical Psychology, United States of America; University of California San Diego, United States of America."
-      }
-    ],
-    "journal": "Journal of affective disorders",
-    "publishedDate": "2026-05-12",
-    "fetchedDate": "2026-08-07",
-    "category": "Saúde Mental",
-    "tags": [
-      "neural",
-      "cognitive",
-      "therapeutic",
-      "mental health",
-      "depression"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
