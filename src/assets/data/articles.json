@@ -12691,47 +12691,48 @@
     "aiProvider": "Groq"
   },
   {
-    "id": "pubmed-41905568",
-    "pmid": "41905568",
-    "doi": "10.1016/j.critrevonc.2026.105306",
-    "title": "Chemoimmunotherapy efficacy in patients with and without liver metastases: A systematic review and meta-analysis.",
-    "titlePt": "Chemoimmunotherapy efficacy in patients with and without liver metastases: A systematic review and meta-analysis.",
-    "abstract": "Liver metastases have been associated with poor prognosis and potentially diminished immunotherapy benefit. Comprehensive evidence regarding whether liver involvement affects the efficacy of immune checkpoint inhibitor plus chemotherapy regimens remains incomplete. Following PRISMA guidelines, we systematically searched five databases through May 2025 for randomized controlled trials comparing chemoimmunotherapy versus chemotherapy alone in solid tumors, with survival data stratified by liver metastasis status. We conducted random-effects meta-analyses with pre-specified subgroup analyses by tumor type, immune checkpoint inhibitor, and chemotherapy backbone. Methodological rigor was ensured through meta-regression analysis, sensitivity testing, formal interaction assessment, and systematic evaluation of publication bias. Forty-two trials with 25,915 patients (18,830 men, 7085 women) met inclusion criteria. Within-trial interaction analyses of 30 trials per outcome yielded pooled intera",
-    "journalisticSummary": "A eficácia da quimioimunoterapia em pacientes com e sem metástases hepáticas é um tópico de grande interesse na comunidade científica. Um estudo publicado recentemente no PubMed, com DOI 10.1016/j.critrevonc.2026.105306, realizou uma revisão sistemática e metanálise para avaliar se a presença de metástases hepáticas afeta a eficácia da combinação de inibidores de pontos de controle imunológico com quimioterapia em pacientes com tumores sólidos. A busca foi realizada em cinco bases de dados até maio de 2025, seguindo as diretrizes do PRISMA, e incluiu ensaios clínicos randomizados que compararam a quimioimunoterapia com a quimioterapia isolada, com dados de sobrevida estratificados por status de metástase hepática.\n\nOs resultados mostraram que 42 ensaios clínicos com 25.915 pacientes (18.830 homens e 7.085 mulheres) atenderam aos critérios de inclusão. As análises de interação dentro dos ensaios de 30 estudos por resultado renderam análises de metanálise com efeitos aleatórios, com análises de subgrupo pré-definidas por tipo de tumor, inibidor de ponto de controle imunológico e esqueleto de quimioterapia. A robustez metodológica foi garantida por meio de análise de metarregressão, testes de sensibilidade, avaliação formal de interação e avaliação sistemática do viés de publicação. No entanto, não foi informado no resumo original quais foram os principais achados e o impacto clínico desses resultados.\n\nÉ importante notar que a presença de metástases hepáticas tem sido associada a um prognóstico pior e a um possível benefício diminuído da imunoterapia. Portanto, entender como a quimioimunoterapia se compara à quimioterapia isolada nesses pacientes é crucial para a tomada de decisões clínicas informadas. No entanto, os resultados do estudo não foram detalhados no resumo original, o que limita a capacidade de discutir as implicações clínicas específicas. Futuros estudos devem buscar aprofundar a compreensão dessas questões, proporcionando insights valiosos para o tratamento de pacientes com tumores sólidos e metástases hepáticas.\n\nA eficácia da quimioimunoterapia em pacientes com e sem metástases hepáticas é um tópico complexo que requer mais investigação. Com a continua evolução da medicina, é fundamental que os profissionais de saúde estejam atualizados sobre as últimas descobertas e diretrizes clínicas para oferecer o melhor tratamento possível para os pacientes. No entanto, sem os dados detalhados do estudo, não é possível discutir as limitações e os próximos passos de forma objetiva.\n\nThe efficacy of chemoimmunotherapy in patients with and without liver metastases is a topic of great interest in the scientific community. A recently published study in PubMed, with DOI 10.1016/j.critrevonc.2026.105306, conducted a systematic review and meta-analysis to evaluate whether the presence of liver metastases affects the efficacy of the combination of immune checkpoint inhibitors with chemotherapy in patients with solid tumors. The search was performed in five databases up to May 2025, following the PRISMA guidelines, and included randomized controlled trials that compared chemoimmunotherapy with chemotherapy alone, with survival data stratified by liver metastasis status.\n\nThe results showed that 42 clinical trials with 25,915 patients (18,830 men and 7,085 women) met the inclusion criteria. The within-trial interaction analyses of 30 studies per outcome yielded random-effects meta-analyses with pre-specified subgroup analyses by tumor type, immune checkpoint inhibitor, and chemotherapy backbone. Methodological rigor was ensured through meta-regression analysis, sensitivity testing, formal interaction assessment, and systematic evaluation of publication bias. However, the original abstract did not provide the main findings and clinical impact of these results.\n\nIt is essential to note that the presence of liver metastases has been associated with a worse prognosis and potentially diminished immunotherapy benefit. Therefore, understanding how chemoimmunotherapy compares to chemotherapy alone in these patients is crucial for informed clinical decision-making. However, the study's results were not detailed in the original abstract, which limits the ability to discuss specific clinical implications. Future studies should seek to deepen the understanding of these issues, providing valuable insights for the treatment of patients with solid tumors and liver metastases.\n\nThe efficacy of chemoimmunotherapy in patients with and without liver metastases is a complex topic that requires further investigation. With the continuous evolution of medicine, it is essential that healthcare professionals stay up-to-date on the latest findings and clinical guidelines to offer the best possible treatment for patients. However, without the detailed data from the study, it is not possible to discuss the limitations and next steps in an objective manner.",
+    "id": "pubmed-41276140",
+    "pmid": "41276140",
+    "doi": "10.1016/j.jad.2025.120733",
+    "title": "Examining the relationship between pre-treatment anhedonia and treatment outcomes in individuals with anxiety or depression: A systematic review.",
+    "titlePt": "Examining the relationship between pre-treatment anhedonia and treatment outcomes in individuals with anxiety or depression: A systematic review.",
+    "abstract": "Anxiety and depressive disorders are the most common mental health conditions globally, contributing to substantial functional impairment across social and occupational domains. Despite the efficacy of first-line psychosocial (e.g., cognitive behavioral therapy) and biological (e.g., pharmacotherapy, transcranial magnetic stimulation) interventions, approximately half of patients fail to achieve clinically significant improvement. Identifying predictors of treatment outcomes is crucial for enhancing therapeutic efficacy and addressing limitations of current treatments. This systematic review aimed to synthesize the literature on the relationship between pre-treatment anhedonia and treatment response in individuals receiving psychotherapy, pharmacotherapy, or neuromodulation for anxiety or unipolar depressive disorders. Studies were included that assessed the clinical symptom of anhedonia using subjective measures and, secondarily, subjective, neural, or behavioral indicators of reward ",
+    "journalisticSummary": "Anedonia pré-tratamento emerge como fator preditivo relevante para a resposta terapêutica em pacientes com ansiedade ou depressão, segundo uma revisão sistemática publicada no *Journal of Affective Disorders*. O estudo, que compilou evidências de intervenções como terapia cognitivo-comportamental, farmacoterapia e neuromodulação, identificou que a presença de anedonia — caracterizada pela diminuição da capacidade de sentir prazer — antes do início do tratamento está consistentemente associada a piores desfechos clínicos. Embora os mecanismos subjacentes ainda não sejam totalmente elucidados, os autores sugerem que a disfunção no sistema de recompensa, avaliada por medidas subjetivas e, em menor grau, por indicadores neurais e comportamentais, pode comprometer a eficácia das abordagens convencionais. A análise, que incluiu estudos com diferentes modalidades terapêuticas, destaca a necessidade de estratégias personalizadas, como a incorporação de terapias focadas na restauração da função hedônica (por exemplo, treinamento de recompensa ou intervenções farmacológicas direcionadas a receptores dopaminérgicos), para melhorar os resultados em subgrupos específicos. No entanto, a heterogeneidade metodológica entre os trabalhos incluídos — com variações nos instrumentos de avaliação de anedonia e nos protocolos de tratamento — limita a generalização dos achados. Além disso, não foram relatados dados sobre a magnitude do impacto da anedonia em desfechos específicos, como redução de sintomas ou taxa de remissão. Os pesquisadores apontam como próximos passos a realização de estudos prospectivos com amostras maiores e métodos padronizados, bem como a exploração de biomarcadores de recompensa como possíveis preditores de resposta terapêutica.\n\n---\n\nPre-treatment anhedonia has been identified as a significant predictor of therapeutic response in patients with anxiety or depression, according to a systematic review published in the *Journal of Affective Disorders*. The study, which synthesized evidence from interventions such as cognitive behavioral therapy, pharmacotherapy, and neuromodulation, found that the presence of anhedonia—characterized by a reduced capacity to experience pleasure—prior to treatment initiation is consistently associated with poorer clinical outcomes. While the underlying mechanisms remain incompletely understood, the authors propose that dysfunction in the reward system, assessed through subjective measures and, to a lesser extent, neural and behavioral indicators, may undermine the efficacy of conventional approaches. The analysis, which included studies across different therapeutic modalities, emphasizes the need for personalized strategies, such as incorporating therapies aimed at restoring hedonic function (e.g., reward training or pharmacological interventions targeting dopaminergic receptors), to improve outcomes in specific subgroups. However, methodological heterogeneity among the included studies—with variations in anhedonia assessment tools and treatment protocols—limits the generalizability of the findings. Additionally, no data were reported on the magnitude of anhedonia’s impact on specific outcomes, such as symptom reduction or remission rates. The researchers highlight the need for future prospective studies with larger, standardized samples, as well as the exploration of reward biomarkers as potential predictors of therapeutic response.",
     "imagePlaceholder": true,
     "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41905568",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41276140",
     "authors": [
       {
-        "name": "Salah Ameen Abdu",
-        "affiliation": "Department of Oral and Maxillofacial Surgery, The First Affiliated Hospital of Fujian Medical University, China; Research Center of Oral and Maxillofacial Tumor, Xiangya Hospital, Central South University, Changsha 410008, China; Faculty of Dentistry, Ibb University, Ibb, Yemen."
+        "name": "Madeleine Rassaby",
+        "affiliation": "San Diego State University/UC San Diego Joint Doctoral Program in Clinical Psychology, United States of America. Electronic address: marassaby@health.ucsd.edu."
       },
       {
-        "name": "Fuad Al-Haddad",
-        "affiliation": "Department of Oral and Maxillofacial Surgery, The First Affiliated Hospital of Fujian Medical University, China; Faculty of Dentistry, Ibb University, Ibb, Yemen."
+        "name": "Isabella G Spaulding",
+        "affiliation": "San Diego State University/UC San Diego Joint Doctoral Program in Clinical Psychology, United States of America."
       },
       {
-        "name": "Wafa Ali Asaad",
-        "affiliation": "Research Center of Oral and Maxillofacial Tumor, Xiangya Hospital, Central South University, Changsha 410008, China; Faculty of Dentistry, Ibb University, Ibb, Yemen; Kunming Medical University School and Hospital of Stomatology, Kunming, 650101, China."
+        "name": "Murray B Stein",
+        "affiliation": "San Diego State University/UC San Diego Joint Doctoral Program in Clinical Psychology, United States of America; University of California San Diego, United States of America."
       },
       {
-        "name": "Maged Ali Al-Aroomi",
-        "affiliation": "Research Center of Oral and Maxillofacial Tumor, Xiangya Hospital, Central South University, Changsha 410008, China; Faculty of Dentistry, Ibb University, Ibb, Yemen."
+        "name": "Charles T Taylor",
+        "affiliation": "San Diego State University/UC San Diego Joint Doctoral Program in Clinical Psychology, United States of America; University of California San Diego, United States of America."
       }
     ],
-    "journal": "Critical reviews in oncology/hematology",
+    "journal": "Journal of affective disorders",
     "publishedDate": "2026-05-12",
-    "fetchedDate": "2026-05-13",
-    "category": "Oncologia",
+    "fetchedDate": "2026-08-07",
+    "category": "Saúde Mental",
     "tags": [
-      "tumor",
-      "chemotherapy",
-      "immunotherapy",
-      "immune"
+      "neural",
+      "cognitive",
+      "therapeutic",
+      "mental health",
+      "depression"
     ],
     "isHighlight": false,
-    "readTime": 8,
+    "readTime": 9,
     "aiProcessed": true,
-    "aiProvider": "Groq"
+    "aiProvider": "Mistral"
   }
 ]
