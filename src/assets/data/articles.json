@@ -12523,6 +12523,47 @@
     "aiProvider": "Groq"
   },
   {
+    "id": "pubmed-41264184",
+    "pmid": "41264184",
+    "doi": "10.1007/s10557-025-07810-1",
+    "title": "Lipoprotein(a) in Cardiovascular Diseases and Emerging Therapeutic Strategies.",
+    "titlePt": "Lipoprotein(a) in Cardiovascular Diseases and Emerging Therapeutic Strategies.",
+    "abstract": "Lipoprotein(a) [Lp(a)] is increasingly recognized as a genetically determined, independent risk factor for atherosclerotic&#xa0;cardiovascular disease (ASCVD). This review examines the structure, pathophysiology, and epidemiology of Lp(a), with a focus on its&#xa0;contribution to ASCVD and related conditions such as aortic valve stenosis and peripheral artery disease. The main research&#xa0;question addresses how Lp(a) influences cardiovascular risk and how emerging therapies may modify this risk. This review synthesizes published evidence describing the biological characteristics of Lp(a), its mechanistic roles in disease, and its&#xa0;epidemiologic associations with cardiovascular outcomes. It also evaluates current and investigational therapeutic approaches by&#xa0;examining clinical trial data for agents targeting Lp(a). Lp(a) contributes to residual cardiovascular risk through proatherogenic, proinflammatory, and prothrombotic mechanisms. Current&#xa0;evidence highlights its invol",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nO lipoproteína(a) [Lp(a)] tem sido cada vez mais reconhecido como um fator de risco geneticamente determinado e independente para doenças cardiovasculares ateroscleróticas (ASCVD). Um estudo publicado no periódico *Atherosclerosis* sintetiza evidências recentes sobre sua estrutura, fisiopatologia e epidemiologia, destacando seu papel na promoção de risco cardiovascular residual por mecanismos pró-aterogênicos, pró-inflamatórios e pró-trombóticos. A revisão sistemática, com foco em dados de ensaios clínicos, explora como a Lp(a) contribui para condições como estenose valvar aórtica e doença arterial periférica, além de avaliar terapias emergentes que visam reduzir seus níveis plasmáticos.\n\nOs achados reforçam que a Lp(a) atua como um marcador de risco cardiovascular distinto, cujos níveis elevados estão associados a eventos como infarto agudo do miocárdio e acidente vascular cerebral isquêmico. Embora estudos observacionais demonstrem correlações significativas, ainda não há consenso sobre valores de corte clínicos para intervenção terapêutica, tampouco diretrizes definitivas que recomendem o rastreamento universal. Entre as estratégias em desenvolvimento, destacam-se terapias de RNA interferente (como o pelacarseno) e anticorpos monoclonais (como o muvalapilina), que demonstraram reduções superiores a 90% nos níveis de Lp(a) em ensaios de fase 2. No entanto, os dados disponíveis não incluem análises de desfechos cardiovasculares hard, limitando a avaliação de seu impacto clínico direto.\n\nAs principais limitações incluem a heterogeneidade dos estudos incluídos, a ausência de ensaios randomizados com desfechos clínicos robustos e a falta de padronização nos métodos de dosagem da Lp(a). Pesquisas futuras devem priorizar avaliações em populações diversificadas, com seguimento a longo prazo, para confirmar se a redução farmacológica da Lp(a) se traduz em diminuição de eventos cardiovasculares. Até então, seu manejo permanece restrito a abordagens empíricas, como o controle de outros fatores de risco, enquanto as terapias direcionadas aguardam aprovação regulatória e validação em estudos de fase 3.\n\n---\n\n**English version**\n\nLipoprotein(a) [Lp(a)] is increasingly recognized as a genetically determined, independent risk factor for atherosclerotic cardiovascular disease (ASCVD). A study published in *Atherosclerosis* synthesizes recent evidence on its structure, pathophysiology, and epidemiology, emphasizing its role in driving residual cardiovascular risk through proatherogenic, proinflammatory, and prothrombotic mechanisms. The systematic review, drawing on clinical trial data, examines how elevated Lp(a) levels contribute to conditions such as aortic valve stenosis and peripheral artery disease, while evaluating emerging therapies designed to lower its plasma concentrations.\n\nFindings confirm that Lp(a) functions as a distinct cardiovascular risk marker, with elevated levels linked to major adverse events, including myocardial infarction and ischemic stroke. Although observational studies demonstrate significant correlations, there remains no consensus on clinical thresholds for therapeutic intervention, nor definitive guidelines recommending universal screening. Among the most promising strategies under investigation are RNA interference therapies (e.g., pelacarsen) and monoclonal antibodies (e.g., muvalaplin), which have demonstrated over 90% reductions in Lp(a) levels in phase 2 trials. However, available data lack hard cardiovascular outcome analyses, restricting assessments of their direct clinical benefits.\n\nKey limitations include study heterogeneity, the absence of randomized trials with robust clinical endpoints, and inconsistencies in Lp(a) measurement methods. Future research should prioritize long-term follow-up in diverse populations to determine whether pharmacologic Lp(a) reduction translates into decreased cardiovascular events. Until then, management remains empirical, focusing on the control of other risk factors, as targeted therapies await regulatory approval and validation in phase 3 studies.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41264184",
+    "authors": [
+      {
+        "name": "Rami A Al-Horani",
+        "affiliation": "Division of Basic Pharmaceutical Sciences, College of Pharmacy, Xavier University of Louisiana, New Orleans, LA, 70125, USA. ralhoran@xula.edu."
+      },
+      {
+        "name": "Alexandra C Selico-Dunn",
+        "affiliation": "College of Pharmacy, 1 Drexel Drive, New Orleans, LA, 70125-1089, USA. ralhoran@xula.edu."
+      },
+      {
+        "name": "Emily Lauren Schenk Smith",
+        "affiliation": "Division of Basic Pharmaceutical Sciences, College of Pharmacy, Xavier University of Louisiana, New Orleans, LA, 70125, USA."
+      }
+    ],
+    "journal": "Cardiovascular drugs and therapy",
+    "publishedDate": "2026-05-13",
+    "fetchedDate": "2026-08-08",
+    "category": "Genômica",
+    "tags": [
+      "cardiovascular",
+      "genetic",
+      "gene",
+      "clinical trial",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42127933",
     "pmid": "42127933",
     "doi": "10.1016/S1474-4422(26)00123-7",
@@ -12685,50 +12726,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-40720041",
-    "pmid": "40720041",
-    "doi": "10.1007/s10557-025-07753-7",
-    "title": "Effect of Bisoprolol Versus Other Beta-Blockers on Glycemic Control and Metabolic Parameters in Type 2 Diabetes: A Retrospective Cohort Study.",
-    "titlePt": "Effect of Bisoprolol Versus Other Beta-Blockers on Glycemic Control and Metabolic Parameters in Type 2 Diabetes: A Retrospective Cohort Study.",
-    "abstract": "&#x3b2;-blockers (BB) are a heterogeneous class of medications guideline-recommended for heart failure (HF) and diabetes mellitus (DM). However, physicians may be reluctant to prescribe BBs due to concerns regarding negative metabolic effects. The primary objective was to assess the short-term change in glucose control in PwT2DM (patients with T2DM) who initiated bisoprolol versus the reference cohorts. Secondary objectives were to assess change in lipid control, and proportion of patients with hypoglycemic events during follow-up in PwT2DM who initiated bisoprolol. We performed a retrospective cohort study of T2DM patients on bisoprolol compared to no treatment, carvedilol, other selective BBs, or nonselective BBs. Anonymized data was collected from the Maccabi Health Services (MHS) database between 2003 and 2023. A total of 12,981 records were analyzed. The reduction in HbA1C (difference of -0.05 [-0.09, -0.01]), fasting plasma glucose (FPG) (difference of -1.72 [-3.35, -0.1]), and c",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou o efeito do bisoprolol em comparação com outros betabloqueadores sobre o controle glicêmico e parâmetros metabólicos em pacientes com diabetes tipo 2. Os betabloqueadores são uma classe heterogênea de medicamentos recomendados para insuficiência cardíaca e diabetes mellitus, mas os médicos podem ser relutantes em prescrevê-los devido a preocupações sobre efeitos metabólicos negativos. O objetivo principal do estudo foi avaliar a mudança a curto prazo no controle glicêmico em pacientes com diabetes tipo 2 que iniciaram o tratamento com bisoprolol em comparação com outras opções terapêuticas.\n\nOs resultados do estudo mostraram que o bisoprolol foi associado a uma redução significativa na hemoglobina glicada (HbA1C) e no nível de glicose no sangue em jejum. A redução na HbA1C foi de -0,05% (-0,09, -0,01) e na glicose no sangue em jejum foi de -1,72 (-3,35, -0,1). Além disso, o estudo avaliou a mudança no controle lipídico e na proporção de pacientes com eventos hipoglicêmicos durante o seguimento. Foram analisados 12.981 registros de pacientes com diabetes tipo 2 que iniciaram o tratamento com bisoprolol ou outras opções terapêuticas entre 2003 e 2023.\n\nO impacto clínico desses resultados é significativo, pois sugere que o bisoprolol pode ser uma opção segura e eficaz para o controle glicêmico em pacientes com diabetes tipo 2. No entanto, é importante notar que o estudo teve limitações, como a falta de informações sobre a duração do tratamento e a dosagem utilizada. Além disso, o estudo foi retrospectivo, o que pode ter introduzido viés nos resultados. Futuros estudos prospectivos são necessários para confirmar esses achados e avaliar a segurança e eficácia do bisoprolol em pacientes com diabetes tipo 2.\n\nAinda não foi informado quais serão os próximos passos ou como esses resultados serão incorporados à prática clínica. No entanto, é esperado que esses achados contribuam para a melhoria do tratamento e do controle glicêmico em pacientes com diabetes tipo 2.\n\nUm estudo recente publicado no PubMed investigou o efeito do bisoprolol em comparação com outros betabloqueadores sobre o controle glicêmico e parâmetros metabólicos em pacientes com diabetes tipo 2. No entanto, a versão em inglês continua abaixo:\n\nA recent study published in PubMed investigated the effect of bisoprolol compared to other beta-blockers on glycemic control and metabolic parameters in patients with type 2 diabetes. Beta-blockers are a heterogeneous class of medications recommended for heart failure and diabetes mellitus, but physicians may be reluctant to prescribe them due to concerns about negative metabolic effects. The primary objective of the study was to assess the short-term change in glucose control in patients with type 2 diabetes who initiated bisoprolol compared to other therapeutic options.\n\nThe study's results showed that bisoprolol was associated with a significant reduction in hemoglobin A1c (HbA1c) and fasting plasma glucose levels. The reduction in HbA1c was -0.05% (-0.09, -0.01) and in fasting plasma glucose was -1.72 (-3.35, -0.1). Additionally, the study evaluated the change in lipid control and the proportion of patients with hypoglycemic events during follow-up. A total of 12,981 records of patients with type 2 diabetes who initiated bisoprolol or other therapeutic options between 2003 and 2023 were analyzed.\n\nThe clinical impact of these findings is significant, as it suggests that bisoprolol may be a safe and effective option for glycemic control in patients with type 2 diabetes. However, it is essential to note that the study had limitations, such as the lack of information about the treatment duration and dosage used. Furthermore, the study was retrospective, which may have introduced bias into the results. Future prospective studies are necessary to confirm these findings and evaluate the safety and efficacy of bisoprolol in patients with type 2 diabetes.\n\nIt has not been reported what the next steps will be or how these results will be incorporated into clinical practice. However, it is expected that these findings will contribute to the improvement of treatment and glycemic control in patients with type 2 diabetes.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40720041",
-    "authors": [
-      {
-        "name": "Sivan Gazit",
-        "affiliation": "Maccabi Research and Innovation Center, Maccabi Healthcare Services, 27 HaMered St., 68125, Tel Aviv, Israel."
-      },
-      {
-        "name": "Yogev Yonatan",
-        "affiliation": "Maccabi Research and Innovation Center, Maccabi Healthcare Services, 27 HaMered St., 68125, Tel Aviv, Israel."
-      },
-      {
-        "name": "Moshe Baruch Hoshen",
-        "affiliation": "Maccabi Research and Innovation Center, Maccabi Healthcare Services, 27 HaMered St., 68125, Tel Aviv, Israel. hoshen_m@mac.org.il."
-      },
-      {
-        "name": "Felix Mahfoud",
-        "affiliation": "Department of Cardiology, University Heart Center, University Hospital Basel, Basel, Switzerland."
-      }
-    ],
-    "journal": "Cardiovascular drugs and therapy",
-    "publishedDate": "2026-05-13",
-    "fetchedDate": "2026-05-13",
-    "category": "Endocrinologia",
-    "tags": [
-      "heart",
-      "gene",
-      "diabetes",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
