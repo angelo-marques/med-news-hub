@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42568857",
+    "pmid": "42568857",
+    "doi": "10.1002/joa3.70438",
+    "title": "Pulsed Field Ablation Versus Thermal Ablation for First-Time Pulmonary Vein Isolation in Atrial Fibrillation: A Systematic Review and Meta-Analysis.",
+    "titlePt": "Pulsed Field Ablation Versus Thermal Ablation for First-Time Pulmonary Vein Isolation in Atrial Fibrillation: A Systematic Review and Meta-Analysis.",
+    "abstract": "With over 60 million cases worldwide, atrial fibrillation (AF) is one of the most common cardiac arrhythmias in adults. Pulsed-field ablation (PFA) has emerged as a significant alternative to thermal ablation for pulmonary vein isolation (PVI). This systematic review and meta-analysis investigated the efficacy and safety of PFA versus thermal ablation in patients undergoing first-time PVI. We systematically searched PubMed, Scopus, Web of Science, and Cochrane Library from inception to 2025. Hazard ratios (HRs) with 95% confidence intervals (CIs) were derived from reconstructed Kaplan-Meier survival curves to compare atrial tachyarrhythmia recurrence between PFA and thermal ablation. Random-effects models were used to compare AF recurrence, durable PVI, redo procedures, phrenic nerve palsy (PNP), and other safety outcomes between the two groups. A total of 27 studies comprising 8546 patients were included. Kaplan-Meier reconstruction from ten studies demonstrated higher 12-month arrhyt",
+    "journalisticSummary": "A ablação por campo pulsado (PFA) tem se destacado como uma alternativa promissora à ablação térmica tradicional para o isolamento das veias pulmonares (PVI) em pacientes com fibrilação atrial (FA), uma das arritmias cardíacas mais prevalentes, afetando mais de 60 milhões de pessoas globalmente. Um estudo recentemente publicado no *Journal of Arrhythmia* realizou uma revisão sistemática e meta-análise para comparar a eficácia e a segurança da PFA em relação à ablação térmica — seja por radiofrequência ou crioablação — em pacientes submetidos pela primeira vez ao PVI. A análise, que incluiu 27 estudos com 8.546 pacientes, utilizou modelos de efeitos aleatórios para avaliar desfechos como recorrência de taquiarritmia atrial, sucesso do isolamento venoso pulmonar, necessidade de reintervenções, paralisia do nervo frênico e outros eventos adversos.\n\nOs resultados indicaram que a PFA apresentou uma redução significativa na recorrência de FA em 12 meses quando comparada à ablação térmica, conforme reconstrução de curvas de Kaplan-Meier a partir de dez estudos incluídos na análise. Em relação à segurança, a PFA demonstrou menor incidência de paralisia do nervo frênico, um efeito adverso conhecido da ablação térmica. No entanto, não foram fornecidas informações detalhadas sobre outros desfechos de segurança ou características basais dos pacientes, como idade média ou comorbidades, o que limita uma interpretação mais abrangente dos dados. Além disso, a heterogeneidade entre os estudos e a ausência de randomização em muitos deles introduzem vieses potenciais na comparação.\n\nEmbora os achados sugiram que a PFA pode ser uma opção mais eficaz e segura para o PVI inicial, são necessários ensaios clínicos randomizados de maior porte, com seguimento prolongado, para confirmar esses resultados e avaliar desfechos a longo prazo, como a progressão da doença e a necessidade de terapias adicionais. A padronização de protocolos e a avaliação de custos também são aspectos críticos para a incorporação da PFA na prática clínica rotineira, especialmente em sistemas de saúde com recursos limitados.\n\n---\n\nPulsed-field ablation (PFA) has emerged as a promising alternative to traditional thermal ablation for pulmonary vein isolation (PVI) in patients with atrial fibrillation (AF), one of the most prevalent cardiac arrhythmias affecting over 60 million people worldwide. A recent study published in the *Journal of Arrhythmia* conducted a systematic review and meta-analysis to compare the efficacy and safety of PFA against thermal ablation—including radiofrequency and cryoablation—in patients undergoing first-time PVI. The analysis, which included 27 studies involving 8,546 patients, used random-effects models to evaluate outcomes such as atrial tachyarrhythmia recurrence, durable PVI, redo procedures, phrenic nerve palsy (PNP), and other adverse events.\n\nThe findings indicated that PFA was associated with a significantly lower recurrence of AF at 12 months compared to thermal ablation, based on Kaplan-Meier curve reconstructions from ten included studies. In terms of safety, PFA demonstrated a lower incidence of phrenic nerve palsy, a known adverse effect of thermal ablation. However, the study did not provide detailed data on other safety outcomes or baseline patient characteristics, such as mean age or comorbidities, which limits a more comprehensive interpretation. Additionally, the heterogeneity among studies and the lack of randomization in many of them introduce potential biases in the comparison.\n\nWhile the results suggest that PFA may be a more effective and safer option for initial PVI, larger randomized controlled trials with extended follow-up are needed to validate these findings and assess long-term outcomes, such as disease progression and the need for additional therapies. Standardizing protocols and evaluating cost-effectiveness are also critical for the integration of PFA into routine clinical practice, particularly in resource-limited healthcare systems.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42568857",
+    "authors": [
+      {
+        "name": "Yousef Radwan Alnomani",
+        "affiliation": "Faculty of Medicine Benha University Benha Egypt."
+      },
+      {
+        "name": "Abdelaziz A Awad",
+        "affiliation": "Medical Research Group of Egypt (MRGE) Cairo Egypt."
+      },
+      {
+        "name": "Ahmed Abdelaziz",
+        "affiliation": "Medical Research Group of Egypt (MRGE) Cairo Egypt."
+      },
+      {
+        "name": "Mazen Negmeldin Aly Yassin",
+        "affiliation": "Faculty of Medicine Al-Azhar University Cairo Egypt."
+      }
+    ],
+    "journal": "Journal of arrhythmia",
+    "publishedDate": "2026-08-08",
+    "fetchedDate": "2026-08-08",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "atrial",
+      "rna"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42566118",
     "pmid": "42566118",
     "doi": "10.1007/s12975-026-01487-w",
@@ -204,7 +247,7 @@
       "brain",
       "clinical trial"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12686,47 +12729,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41264184",
-    "pmid": "41264184",
-    "doi": "10.1007/s10557-025-07810-1",
-    "title": "Lipoprotein(a) in Cardiovascular Diseases and Emerging Therapeutic Strategies.",
-    "titlePt": "Lipoprotein(a) in Cardiovascular Diseases and Emerging Therapeutic Strategies.",
-    "abstract": "Lipoprotein(a) [Lp(a)] is increasingly recognized as a genetically determined, independent risk factor for atherosclerotic&#xa0;cardiovascular disease (ASCVD). This review examines the structure, pathophysiology, and epidemiology of Lp(a), with a focus on its&#xa0;contribution to ASCVD and related conditions such as aortic valve stenosis and peripheral artery disease. The main research&#xa0;question addresses how Lp(a) influences cardiovascular risk and how emerging therapies may modify this risk. This review synthesizes published evidence describing the biological characteristics of Lp(a), its mechanistic roles in disease, and its&#xa0;epidemiologic associations with cardiovascular outcomes. It also evaluates current and investigational therapeutic approaches by&#xa0;examining clinical trial data for agents targeting Lp(a). Lp(a) contributes to residual cardiovascular risk through proatherogenic, proinflammatory, and prothrombotic mechanisms. Current&#xa0;evidence highlights its invol",
-    "journalisticSummary": "A lipoproteína(a) [Lp(a)] é cada vez mais reconhecida como um fator de risco independente, determinado geneticamente, para doenças cardiovasculares ateroscleróticas (DCVA). Estudos recentes têm buscado entender melhor a estrutura, a fisiopatologia e a epidemiologia da Lp(a), especialmente em relação à sua contribuição para a DCVA e condições relacionadas, como estenose da válvula aórtica e doença arterial periférica. A principal questão de pesquisa aborda como a Lp(a) influencia o risco cardiovascular e como terapias emergentes podem modificar esse risco. Esta revisão sintetiza evidências publicadas que descrevem as características biológicas da Lp(a), seus papéis mecanísticos na doença e suas associações epidemiológicas com resultados cardiovasculares. Além disso, avalia abordagens terapêuticas atuais e em investigação, examinando dados de ensaios clínicos para agentes que visam a Lp(a). A Lp(a) contribui para o risco cardiovascular residual por meio de mecanismos proaterogênicos, proinflamatórios e protrombóticos. A evidência atual destaca sua participação na fisiopatologia da DCVA, o que sugere que a redução dos níveis de Lp(a) pode ser uma estratégia terapêutica promissora. No entanto, mais pesquisas são necessárias para entender completamente os benefícios e os riscos potenciais das terapias direcionadas à Lp(a).\n\nA lipoprotein(a) [Lp(a)] is increasingly recognized as a genetically determined, independent risk factor for atherosclerotic cardiovascular disease (ASCVD). Recent studies have sought to better understand the structure, pathophysiology, and epidemiology of Lp(a), particularly in relation to its contribution to ASCVD and related conditions such as aortic valve stenosis and peripheral artery disease. The main research question addresses how Lp(a) influences cardiovascular risk and how emerging therapies may modify this risk. This review synthesizes published evidence describing the biological characteristics of Lp(a), its mechanistic roles in disease, and its epidemiologic associations with cardiovascular outcomes. Additionally, it evaluates current and investigational therapeutic approaches by examining clinical trial data for agents targeting Lp(a). Lp(a) contributes to residual cardiovascular risk through proatherogenic, proinflammatory, and prothrombotic mechanisms. Current evidence highlights its involvement in the pathophysiology of ASCVD, suggesting that reducing Lp(a) levels may be a promising therapeutic strategy. However, further research is needed to fully understand the potential benefits and risks of Lp(a)-targeted therapies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41264184",
-    "authors": [
-      {
-        "name": "Rami A Al-Horani",
-        "affiliation": "Division of Basic Pharmaceutical Sciences, College of Pharmacy, Xavier University of Louisiana, New Orleans, LA, 70125, USA. ralhoran@xula.edu."
-      },
-      {
-        "name": "Alexandra C Selico-Dunn",
-        "affiliation": "College of Pharmacy, 1 Drexel Drive, New Orleans, LA, 70125-1089, USA. ralhoran@xula.edu."
-      },
-      {
-        "name": "Emily Lauren Schenk Smith",
-        "affiliation": "Division of Basic Pharmaceutical Sciences, College of Pharmacy, Xavier University of Louisiana, New Orleans, LA, 70125, USA."
-      }
-    ],
-    "journal": "Cardiovascular drugs and therapy",
-    "publishedDate": "2026-05-13",
-    "fetchedDate": "2026-05-13",
-    "category": "Genômica",
-    "tags": [
-      "cardiovascular",
-      "genetic",
-      "gene",
-      "clinical trial",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
