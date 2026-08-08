@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-42568755",
+    "pmid": "42568755",
+    "doi": "10.1016/j.obpill.2026.100305",
+    "title": "Familial health behavioral change in the context of adult treatment with obesity medications.",
+    "titlePt": "Familial health behavioral change in the context of adult treatment with obesity medications.",
+    "abstract": "Childhood obesity is a serious public health crisis in the United States, affecting millions of children annually and is associated with significant, long-term physical and psychological consequences. Family-based behavioral interventions have been shown to be effective in improving obesity-related outcomes in pediatric populations. However, there is limited insight into how adult participation in medical weight management programs may impact household health behaviors. This study explores parent perception of the impact of participation in weight management programs on child health behaviors. This is a qualitative study in which semi-structured interviews were conducted by trained personnel. Adult participants who were enrolled in a medical weight management clinic, had been prescribed obesity medication(s), and had at least one child aged 18 years old or younger living in the same household were included. Interviews were conducted between December 2024 and July 2025. Data analysis wa",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo qualitativo recente investigou como a participação de adultos em programas de tratamento da obesidade com medicamentos pode influenciar os comportamentos de saúde das crianças no mesmo domicílio. Publicado no periódico *Obesity Pillars* (DOI: 10.1016/j.obpill.2026.100305), a pesquisa destaca que, embora intervenções familiares baseadas em comportamentos sejam eficazes no controle da obesidade infantil nos Estados Unidos, ainda há lacunas sobre o impacto indireto da adesão de pais ou responsáveis a terapias medicamentosas para emagrecimento. Os autores conduziram entrevistas semiestruturadas com adultos que estavam em tratamento em uma clínica especializada, haviam recebido prescrição de medicamentos para obesidade e tinham pelo menos um filho com 18 anos ou menos na mesma casa. As entrevistas ocorreram entre dezembro de 2024 e julho de 2025, mas os resultados detalhados não foram incluídos no resumo avaliado.\n\nOs achados preliminares sugerem que a participação dos pais em programas de controle de peso pode desencadear mudanças positivas no ambiente doméstico, como maior conscientização sobre nutrição e atividade física entre as crianças. No entanto, a pesquisa não quantificou a extensão dessas alterações nem identificou fatores específicos que medeiam esse impacto. Além disso, por se tratar de um estudo qualitativo com uma amostra não especificada, os resultados não podem ser generalizados para toda a população. Entre as limitações apontadas, os autores destacam a ausência de dados sobre a duração do tratamento com medicamentos ou a adesão dos participantes, o que poderia influenciar a validade das percepções relatadas.\n\nDo ponto de vista clínico, os resultados reforçam a importância de abordagens integradas que considerem o núcleo familiar no manejo da obesidade, especialmente quando há crianças envolvidas. Embora o estudo não proponha um modelo de intervenção, ele abre caminho para investigações futuras que possam validar essas percepções com metodologias quantitativas e avaliar o potencial de programas de tratamento adulto como ferramenta indireta de prevenção da obesidade infantil. Os próximos passos incluem a análise completa dos dados e possíveis publicações subsequentes com recortes mais detalhados.\n\n---\n\n**English version**\n\nA recent qualitative study explored how adults’ participation in obesity treatment programs involving medications may influence the health behaviors of children in the same household. Published in *Obesity Pillars* (DOI: 10.1016/j.obpill.2026.100305), the research highlights that while family-based behavioral interventions are effective in addressing childhood obesity in the United States, there remains limited insight into the indirect effects of parents’ adherence to weight-loss medications on household dynamics. The authors conducted semi-structured interviews with adults enrolled in a specialized weight management clinic, prescribed obesity medications, and living with at least one child aged 18 or younger. Interviews were carried out between December 2024 and July 2025, though detailed findings were not provided in the reviewed abstract.\n\nPreliminary findings suggest that parental engagement in weight control programs may trigger positive shifts in home environments, such as increased awareness of nutrition and physical activity among children. However, the study did not quantify the extent of these changes nor identify specific mediating factors. As a qualitative study with an unspecified sample size, the results cannot be generalized to broader populations. The authors acknowledge limitations including the lack of data on medication treatment duration or participant adherence, which could affect the validity of reported perceptions.\n\nFrom a clinical perspective, the findings underscore the value of integrated approaches that consider the family unit in obesity management, particularly when children are involved. While the study does not propose an intervention model, it paves the way for future research to validate these perceptions through quantitative methodologies and assess whether adult treatment programs can serve as indirect tools for preventing childhood obesity. Next steps include full data analysis and potential follow-up publications with more detailed insights.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42568755",
+    "authors": [
+      {
+        "name": "Treah Haggerty",
+        "affiliation": "Department of Family and Community Medicine, West Virginia University School of Medicine, 6040 University Town Centre Drive, Morgantown, WV, 26501, USA."
+      },
+      {
+        "name": "Jennifer M Ludrosky",
+        "affiliation": "Department of Behavioral Medicine &amp; Psychiatry, Rockefeller Neurosciences Institute, West Virginia University School of Medicine, 930 Chestnut Ridge Rd, Morgantown, WV, 26508, USA."
+      },
+      {
+        "name": "Molly Powney",
+        "affiliation": "West Virginia University School of Medicine, 1 Medical Center Drive, Morgantown, WV, 26506, USA."
+      },
+      {
+        "name": "Reagan Sharp",
+        "affiliation": "West Virginia University School of Medicine, 1 Medical Center Drive, Morgantown, WV, 26506, USA."
+      }
+    ],
+    "journal": "Obesity pillars",
+    "publishedDate": "2026-08-08",
+    "fetchedDate": "2026-08-08",
+    "category": "Pediatria",
+    "tags": [
+      "psychological",
+      "pediatric",
+      "children",
+      "childhood",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42568857",
     "pmid": "42568857",
     "doi": "10.1002/joa3.70438",
@@ -204,7 +249,7 @@
     "tags": [
       "obesity"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12685,47 +12730,6 @@
     ],
     "isHighlight": false,
     "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41108451",
-    "pmid": "41108451",
-    "doi": "10.1007/s10557-025-07790-2",
-    "title": "Cardiotoxicity Induced by Targeted Cancer Therapies: Understanding the Risks and Developing Solutions.",
-    "titlePt": "Cardiotoxicity Induced by Targeted Cancer Therapies: Understanding the Risks and Developing Solutions.",
-    "abstract": "Cardiotoxicity has emerged as a major clinical concern associated with targeted cancer therapies. While these agents, including tyrosine kinase inhibitors (TKIs), HER2 inhibitors, angiogenesis inhibitors, and immune checkpoint inhibitors, revolutionize cancer treatment by selectively modulating tumor-associated molecular pathways, they inadvertently disrupt cardiovascular homeostasis due to the overlap of signaling mechanisms between tumorigenesis and cardiac physiology. This review aims to elucidate the mechanisms underlying cardiotoxicity induced by targeted cancer therapies, outline diagnostic and preventive strategies, and highlight emerging approaches in cardio-oncology for optimizing patient outcomes. An integrative review of preclinical and clinical studies was conducted to analyze the cardiovascular effects of major targeted therapeutic classes. Mechanistic insights, diagnostic modalities, monitoring protocols, and ongoing clinical trials were critically examined to establish a",
-    "journalisticSummary": "A cardiotoxicidade induzida por terapias de câncer direcionadas tem se tornado uma preocupação clínica significativa. Esses agentes, incluindo inibidores de tirosina quinase (ITQs), inibidores de HER2, inibidores de angiogênese e inibidores de pontos de controle imunológicos, revolucionam o tratamento do câncer ao modular seletivamente vias moleculares associadas a tumores, mas inadvertidamente perturbam a homeostase cardiovascular devido à sobreposição de mecanismos de sinalização entre a tumorigênese e a fisiologia cardíaca. Um estudo recente publicado na PubMed, com DOI 10.1007/s10557-025-07790-2, realizou uma revisão integrativa de estudos pré-clínicos e clínicos para analisar os efeitos cardiovasculares de classes terapêuticas direcionadas. Os achados principais incluem uma compreensão mais profunda dos mecanismos subjacentes à cardiotoxicidade induzida por essas terapias, destacando a importância de estratégias de diagnóstico e prevenção.\n\nO impacto clínico dessa cardiotoxicidade é significativo, podendo levar a complicações cardiovasculares graves em pacientes com câncer. No entanto, o estudo também ressalta as limitações atuais na detecção e prevenção precoces, indicando a necessidade de mais pesquisas para desenvolver abordagens eficazes em cardio-oncologia. Os próximos passos incluem a realização de ensaios clínicos para avaliar a eficácia de novas estratégias de prevenção e tratamento da cardiotoxicidade associada às terapias de câncer direcionadas. Infelizmente, não foram fornecidos detalhes sobre a amostra de pacientes ou os resultados específicos dos estudos avaliados, o que poderia fornecer uma visão mais detalhada sobre a eficácia das abordagens propostas.\n\nA cardiotoxicidade induzida por terapias de câncer direcionadas é um desafio complexo que requer uma abordagem multidisciplinar, envolvendo oncologistas, cardiologistas e outros profissionais de saúde. A compreensão dos mecanismos subjacentes e o desenvolvimento de estratégias eficazes para prevenir e tratar essa condição são essenciais para otimizar os resultados dos pacientes com câncer. Com a continuação das pesquisas e o avanço das abordagens em cardio-oncologia, é possível que sejam desenvolvidas soluções mais eficazes para mitigar os efeitos cardiovasculares adversos das terapias de câncer direcionadas.\n\nCardiotoxicity induced by targeted cancer therapies has become a significant clinical concern. These agents, including tyrosine kinase inhibitors (TKIs), HER2 inhibitors, angiogenesis inhibitors, and immune checkpoint inhibitors, revolutionize cancer treatment by selectively modulating tumor-associated molecular pathways, but inadvertently disrupt cardiovascular homeostasis due to the overlap of signaling mechanisms between tumorigenesis and cardiac physiology. A recent study published in PubMed, with DOI 10.1007/s10557-025-07790-2, conducted an integrative review of preclinical and clinical studies to analyze the cardiovascular effects of targeted therapeutic classes. The main findings include a deeper understanding of the underlying mechanisms of cardiotoxicity induced by these therapies, highlighting the importance of diagnostic and preventive strategies.\n\nThe clinical impact of this cardiotoxicity is significant, potentially leading to severe cardiovascular complications in cancer patients. However, the study also highlights current limitations in early detection and prevention, indicating the need for further research to develop effective approaches in cardio-oncology. The next steps include conducting clinical trials to evaluate the effectiveness of new prevention and treatment strategies for cardiotoxicity associated with targeted cancer therapies. Unfortunately, details about the patient sample or specific results of the evaluated studies were not provided, which could have provided a more detailed insight into the effectiveness of the proposed approaches.\n\nCardiotoxicity induced by targeted cancer therapies is a complex challenge that requires a multidisciplinary approach, involving oncologists, cardiologists, and other healthcare professionals. Understanding the underlying mechanisms and developing effective strategies to prevent and treat this condition are essential to optimize patient outcomes. With continued research and advancement of approaches in cardio-oncology, it is possible that more effective solutions will be developed to mitigate the adverse cardiovascular effects of targeted cancer therapies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41108451",
-    "authors": [
-      {
-        "name": "Anchal Chhabra",
-        "affiliation": "Chitkara College of Pharmacy, Chitkara University, Rajpura, 140401, Punjab, India."
-      },
-      {
-        "name": "Veerta Sharma",
-        "affiliation": "Chitkara College of Pharmacy, Chitkara University, Rajpura, 140401, Punjab, India."
-      },
-      {
-        "name": "Thakur Gurjeet Singh",
-        "affiliation": "Chitkara College of Pharmacy, Chitkara University, Rajpura, 140401, Punjab, India. gurjeet.singh@chitkara.edu.in."
-      }
-    ],
-    "journal": "Cardiovascular drugs and therapy",
-    "publishedDate": "2026-05-13",
-    "fetchedDate": "2026-05-13",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "oncology",
-      "cardiac",
-      "cardiovascular"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
