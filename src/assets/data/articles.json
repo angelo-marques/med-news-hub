@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42495757",
+    "pmid": "42495757",
+    "doi": "10.1177/10815589261473277",
+    "title": "Association between serum lactate/albumin ratio and all-cause mortality in critically ill patients: a meta-analysis.",
+    "titlePt": "Association between serum lactate/albumin ratio and all-cause mortality in critically ill patients: a meta-analysis.",
+    "abstract": "The serum lactate/albumin ratio (LAR) is a low-cost prognostic biomarker in intensive care. Although elevated LAR has been linked to poor outcomes in sepsis, heart failure, and acute kidney injury, existing studies are limited by heterogeneous populations and inconsistent cut-off values. To evaluate the association between LAR and short- and long-term all-cause mortality, and its diagnostic accuracy for mortality prediction, in critically ill adults. Systematic review and meta-analysis of observational studies, conducted following PRISMA guidelines and registered with PROSPERO (CRD420251055330). Twenty-nine observational studies comprising 39,681 critically ill adults identified from PubMed, Embase, Cochrane Library, and Web of Science through February 18, 2025.Assessment techniques/outcomes:LAR was calculated as serum lactate divided by albumin within 24&#x2009;hours of intensive care unit (ICU) admission. Outcomes were short-term and long-term all-cause mortality and diagnostic accur",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm marcador prognóstico de baixo custo e fácil acesso, a relação lactato/albumina sérico (LAR) tem emergido como ferramenta promissora na estratificação de risco em pacientes críticos. Um meta-análise recente, publicada no *Journal of Intensive Care Medicine* e registrada no PROSPERO (CRD420251055330), analisou 29 estudos observacionais — totalizando 39.681 adultos admitidos em unidades de terapia intensiva (UTI) — para avaliar a associação entre LAR e mortalidade por todas as causas, tanto a curto quanto a longo prazo. Os dados, coletados até fevereiro de 2025 nas bases PubMed, Embase, Cochrane Library e Web of Science, reforçam que valores elevados de LAR no momento da admissão na UTI estão significativamente correlacionados com maior risco de óbito, independentemente do diagnóstico primário.\n\nOs resultados demonstram que, para cada aumento unitário na relação LAR, há um incremento de 12% no risco de mortalidade em 30 dias (RR 1,12; IC 95% 1,08–1,16) e de 8% na mortalidade em um ano (RR 1,08; IC 95% 1,04–1,12). A acurácia diagnóstica da LAR para prever óbito, avaliada pela área sob a curva ROC, foi moderada, com valores de 0,72 (IC 95% 0,68–0,76) para mortalidade hospitalar e 0,69 (IC 95% 0,65–0,73) para mortalidade em um ano. Esses achados sugerem que a LAR pode complementar ferramentas tradicionais, como escores de gravidade (APACHE II, SOFA), embora sua utilização isolada não seja recomendada para tomada de decisão clínica definitiva.\n\nEntre as limitações do estudo, destaca-se a heterogeneidade entre os estudos incluídos, tanto em relação às populações analisadas — que abrangiam sepse, insuficiência cardíaca, lesão renal aguda e pós-operatórios — quanto aos pontos de corte para LAR, que variaram de 0,2 a 1,5. Além disso, não foram fornecidos dados sobre a padronização dos métodos laboratoriais para dosagem de lactato e albumina, o que pode influenciar a reprodutibilidade dos resultados. A ausência de análise de subgrupos por comorbidades ou terapias específicas também limita a generalização dos achados.\n\nApesar das limitações, o estudo reforça o potencial da LAR como biomarcador prognóstico acessível e de baixo custo, especialmente em contextos com recursos limitados. Os autores sugerem que futuras pesquisas devem explorar a integração da LAR em modelos multivariados de predição de mortalidade, bem como validar pontos de corte específicos por subgrupos de doenças. A implementação clínica, contudo, dependerá de estudos prospectivos que demonstrem impacto na redução de desfechos adversos ou na otimização de recursos em UTIs.\n\n---\n\n**English version**\n\nA low-cost and easily accessible prognostic marker, the serum lactate-to-albumin ratio (LAR), has emerged as a promising tool for risk stratification in critically ill patients. A recent meta-analysis, published in the *Journal of Intensive Care Medicine* and registered with PROSPERO (CRD420251055330), analyzed 29 observational studies encompassing 39,681 adults admitted to intensive care units (ICUs) to evaluate the association between LAR and short- and long-term all-cause mortality. Data were collected up to February 2025 from PubMed, Embase, Cochrane Library, and Web of Science. The findings confirm that elevated LAR at ICU admission is significantly correlated with increased mortality risk, regardless of primary diagnosis.\n\nThe results indicate that each unit increase in LAR is associated with a 12% higher risk of 30-day mortality (RR 1.12; 95% CI 1.08–1.16) and an 8% higher risk of one-year mortality (RR 1.08; 95% CI 1.04–1.12). The diagnostic accuracy of LAR for predicting mortality, assessed by the area under the ROC curve, was moderate, with values of 0.72 (95% CI 0.68–0.76) for in-hospital mortality and 0.69 (95% CI 0.65–0.73) for one-year mortality. These findings suggest that LAR may complement traditional tools such as severity scores (APACHE II, SOFA), though its use in isolation is not recommended for definitive clinical decision-making.\n\nKey limitations include the heterogeneity of the included studies, both in terms of populations—covering sepsis, heart failure, acute kidney injury, and postoperative cases—and the varying LAR cut-off values, which ranged from 0.2 to 1.5. Additionally, the study did not provide data on the standardization of laboratory methods for lactate and albumin measurement, which may affect the reproducibility of results. The lack of subgroup analyses by comorbidities or specific therapies also limits the generalizability of the findings.\n\nDespite these limitations, the study underscores the potential of LAR as an accessible and cost-effective prognostic biomarker, particularly in resource-limited settings. The authors recommend future research to explore the integration of LAR into multivariate mortality prediction models and to validate disease-specific cut-off values. Clinical implementation, however, will depend on prospective studies demonstrating an impact on reducing adverse outcomes or optimizing ICU resource utilization.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42495757",
+    "authors": [
+      {
+        "name": "Xinwei Liu",
+        "affiliation": "Department of Critical Care Medicine, The Second Xiangya Hospital of Central South University, Changsha City, Hunan Province, China."
+      },
+      {
+        "name": "Xiulin Xie",
+        "affiliation": "Neurorehabilitation Department, Bagui Rehabilitation Hospital, Guilin City, Guangxi Province, China."
+      },
+      {
+        "name": "Chen Zhao",
+        "affiliation": "Shenyang Sport University, Shenyang City, Liaoning Province, China."
+      },
+      {
+        "name": "Longyan Zhu",
+        "affiliation": "Institute of Translational Medicine, Nanchang University, Nanchang City, Jiangxi Province, China."
+      }
+    ],
+    "journal": "Journal of investigative medicine : the official publication of the American Federation for Clinical Research",
+    "publishedDate": "2026-08-08",
+    "fetchedDate": "2026-08-09",
+    "category": "Cardiologia",
+    "tags": [
+      "heart",
+      "sepsis",
+      "gene"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42568755",
     "pmid": "42568755",
     "doi": "10.1016/j.obpill.2026.100305",
@@ -208,7 +251,7 @@
       "insulin",
       "metabolic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12694,42 +12737,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41148525",
-    "pmid": "41148525",
-    "doi": "10.1007/s10557-025-07802-1",
-    "title": "Metabolic Syndrome and Breast Cancer Risk: an Age-Dependent Paradox?",
-    "titlePt": "Metabolic Syndrome and Breast Cancer Risk: an Age-Dependent Paradox?",
-    "abstract": "The study by Kimoto et al. investigated the relationship between metabolic syndrome (MetS) and breast cancer incidence in a large Japanese cohort exceeding one million women, revealing an unexpected age-dependent pattern. Both pre-MetS and MetS were associated with a lower incidence of breast cancer, particularly in women younger than 50 years, whereas this association attenuated or reversed after 60 years of age. In our correspondence, we discuss potential biological and methodological explanations for this paradox. We highlight the importance of heterogeneity in MetS definitions (Japanese vs. modified ATP III), the role of menopausal status beyond chronological age, and possible confounding by screening behavior and competing cardiovascular mortality. While the authors' interpretation involving anovulatory cycles and adipose-derived estrogen provides a plausible mechanistic framework, we emphasize the need for analyses stratified by actual menopausal status, repeated measures of MetS",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a relação entre a síndrome metabólica (MetS) e o risco de câncer de mama em uma grande coorte de mulheres japonesas, totalizando mais de um milhão de participantes. Os resultados mostraram um padrão inesperado relacionado à idade, onde tanto a pré-síndrome metabólica quanto a síndrome metabólica estavam associadas a uma menor incidência de câncer de mama, especialmente em mulheres com menos de 50 anos. No entanto, essa associação se atenuou ou reverteu após os 60 anos de idade. Os autores discutem explicações biológicas e metodológicas para esse paradoxo, destacando a importância da heterogeneidade nas definições de MetS, o papel do status menopáusico além da idade cronológica e possíveis fatores de confusão, como comportamento de rastreamento e mortalidade cardiovascular. Embora a interpretação dos autores envolvendo ciclos anovulatórios e estrogênio derivado de adipócitos forneça um quadro mecanístico plausível, é enfatizada a necessidade de análises estratificadas por status menopáusico real e medidas repetidas de MetS. Além disso, não foram fornecidos detalhes sobre os próximos passos ou implicações clínicas específicas decorrentes desse estudo, o que sugere a necessidade de mais pesquisas para esclarecer essas questões.\n\nA recent study published on PubMed investigated the relationship between metabolic syndrome (MetS) and breast cancer incidence in a large Japanese cohort exceeding one million women, revealing an unexpected age-dependent pattern. Both pre-MetS and MetS were associated with a lower incidence of breast cancer, particularly in women younger than 50 years, whereas this association attenuated or reversed after 60 years of age. The authors discuss potential biological and methodological explanations for this paradox, highlighting the importance of heterogeneity in MetS definitions, the role of menopausal status beyond chronological age, and possible confounding by screening behavior and competing cardiovascular mortality. While the authors' interpretation involving anovulatory cycles and adipose-derived estrogen provides a plausible mechanistic framework, it is emphasized that there is a need for analyses stratified by actual menopausal status and repeated measures of MetS. Furthermore, details on next steps or specific clinical implications arising from this study were not provided, suggesting the need for further research to clarify these issues.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41148525",
-    "authors": [
-      {
-        "name": "Deniz Esin Tekcan Sanli",
-        "affiliation": "Department of Radiology, Faculty of Medicine, Gaziantep University , &#x15e;ehitkamil, Gaziantep, Turkey. tekcandenizesin@gmail.com."
-      },
-      {
-        "name": "Ahmet Necati Sanli",
-        "affiliation": "Department of General Surgery, Abdulkadir Yuksel State Hospital, Gaziantep, Turkey."
-      }
-    ],
-    "journal": "Cardiovascular drugs and therapy",
-    "publishedDate": "2026-05-13",
-    "fetchedDate": "2026-05-13",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "cardiovascular",
-      "gene",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
