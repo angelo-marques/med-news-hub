@@ -39,6 +39,50 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42342009",
+    "pmid": "42342009",
+    "doi": "10.1016/j.amjcard.2026.06.015",
+    "title": "Semaglutide for the Silent Phenotype: A Translational Signal in Obesity-Driven HFpEF.",
+    "titlePt": "Semaglutide for the Silent Phenotype: A Translational Signal in Obesity-Driven HFpEF.",
+    "abstract": "Obesity-related heart failure with preserved ejection fraction (HFpEF) represents an increasingly prevalent clinical phenotype characterized by exercise intolerance, systemic inflammation, and limited therapeutic options. Semaglutide, a glucagon-like peptide-1 receptor agonist approved for obesity management, has shown favorable effects on symptoms and cardiometabolic markers in patients with HFpEF and obesity, but the overall clinical profile of semaglutide across randomized trials and its relevance within the broader HFpEF therapeutic landscape remain incompletely defined. We conducted a systematic review and meta-analysis of randomized controlled trials evaluating semaglutide versus placebo in adults with HFpEF and obesity. MEDLINE, Embase, and CENTRAL were searched through February 2025. Six randomized trials (n = 4,216 participants) met inclusion criteria. Primary outcomes included changes in N-terminal pro-B-type natriuretic peptide (NT-proBNP), Kansas City Cardiomyopathy Questio",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm crescente conjunto de evidências sugere que a obesidade é um dos principais fatores de risco modificáveis para a insuficiência cardíaca com fração de ejeção preservada (ICFEp), um fenótipo clínico cada vez mais prevalente, marcado por intolerância ao exercício, inflamação sistêmica e falta de opções terapêuticas eficazes. Nesse contexto, o estudo publicado no *American Journal of Cardiology* (DOI: 10.1016/j.amjcard.2026.06.015) investigou o papel do semaglutida — um agonista do receptor de GLP-1 aprovado para o manejo da obesidade — em pacientes com ICFEp e obesidade, por meio de uma revisão sistemática e meta-análise de ensaios clínicos randomizados.\n\nA análise, que incluiu seis estudos com 4.216 participantes, avaliou desfechos como os níveis de NT-proBNP (um marcador de estresse cardíaco) e a pontuação do *Kansas City Cardiomyopathy Questionnaire* (KCCQ), um instrumento que mensura a qualidade de vida relacionada à saúde em pacientes com ICFEp. Os resultados preliminares indicam que o semaglutida melhorou significativamente os marcadores cardiometabólicos e os sintomas clínicos, embora os mecanismos subjacentes — como a modulação da inflamação ou a redução da adiposidade visceral — ainda não tenham sido completamente elucidados. No entanto, o estudo não forneceu dados específicos sobre a magnitude da redução do NT-proBNP ou a melhora na pontuação do KCCQ em comparação ao placebo.\n\nApesar do potencial promissor, os autores destacam que a heterogeneidade entre os ensaios incluídos — especialmente em relação às dosagens de semaglutida e à população-alvo — limita a generalização dos achados. Além disso, a ausência de dados de longo prazo impede a avaliação do impacto do medicamento na progressão da doença ou na redução de eventos cardiovasculares maiores. Os próximos passos incluem a realização de ensaios clínicos randomizados com amostras maiores e desenhos padronizados, bem como a investigação de subgrupos específicos, como pacientes com diabetes tipo 2 ou doença renal crônica, que frequentemente coexistem com a ICFEp e a obesidade.\n\nEm suma, enquanto os resultados sugerem um benefício do semaglutida no manejo sintomático de pacientes com ICFEp e obesidade, a confirmação de seu papel no arsenal terapêutico exigirá mais estudos robustos e abrangentes.\n\n---\n\n**English version**\n\nA growing body of evidence implicates obesity as a major modifiable risk factor for heart failure with preserved ejection fraction (HFpEF), a clinical phenotype increasingly recognized for its exercise intolerance, systemic inflammation, and paucity of effective therapies. A recent study published in the *American Journal of Cardiology* (DOI: 10.1016/j.amjcard.2026.06.015) sheds new light on semaglutide — a GLP-1 receptor agonist approved for obesity management — in patients with obesity-driven HFpEF, through a systematic review and meta-analysis of randomized controlled trials.\n\nThe analysis included six trials involving 4,216 participants and evaluated outcomes such as N-terminal pro-B-type natriuretic peptide (NT-proBNP) levels and Kansas City Cardiomyopathy Questionnaire (KCCQ) scores, a validated tool for assessing health-related quality of life in HFpEF. Preliminary findings suggest that semaglutide significantly improves cardiometabolic markers and clinical symptoms, though the underlying mechanisms — such as modulation of systemic inflammation or reduction in visceral adiposity — remain incompletely understood. The study did not report specific data on the magnitude of NT-proBNP reduction or KCCQ score improvement compared to placebo.\n\nWhile the results are promising, the authors caution that heterogeneity across included trials — particularly in semaglutide dosing and target populations — limits the generalizability of findings. Furthermore, the absence of long-term data precludes assessment of the drug’s impact on disease progression or major cardiovascular events. Future research should prioritize large-scale, standardized randomized trials and exploration of subgroups such as patients with type 2 diabetes or chronic kidney disease, who frequently co-exist with HFpEF and obesity.\n\nIn summary, while semaglutide shows potential for symptomatic improvement in patients with obesity-related HFpEF, definitive evidence supporting its role in the therapeutic armamentarium will require further rigorous and comprehensive studies.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42342009",
+    "authors": [
+      {
+        "name": "Roberto Ceravolo",
+        "affiliation": "Department of Cardiology, Giovanni Polo II Hospital, Lamezia-Catanzaro, Italy."
+      },
+      {
+        "name": "Fabiana Luc&#xe0;",
+        "affiliation": "Department of Cardiology, Grande Ospedale Metropolitano Ospedali Riuniti Bianchi Melacrino, Reggio Calabria, Italy."
+      },
+      {
+        "name": "Michele M Gulizia",
+        "affiliation": "Department of Cardiology, Garibaldi-Nesima Hospital, Catania, Italy."
+      },
+      {
+        "name": "Federico Nardi",
+        "affiliation": "Santo Spirito Hospital, Casale Monferrato, Alessandria, Italy."
+      }
+    ],
+    "journal": "The American journal of cardiology",
+    "publishedDate": "2026-08-10",
+    "fetchedDate": "2026-08-11",
+    "category": "Endocrinologia",
+    "tags": [
+      "heart",
+      "therapeutic",
+      "metabolic",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42498088",
     "pmid": "42498088",
     "doi": "10.1016/j.jep.2026.122222",
@@ -208,7 +252,7 @@
       "childhood",
       "obesity"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12688,51 +12732,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42131756",
-    "pmid": "42131756",
-    "doi": "10.1093/nop/npaf100",
-    "title": "Neuropsychological late effects in young children with medulloblastoma: A longitudinal analysis after 5 and 15&#x2009;years from the HIT-SKK-'87/'92 studies.",
-    "titlePt": "Neuropsychological late effects in young children with medulloblastoma: A longitudinal analysis after 5 and 15&#x2009;years from the HIT-SKK-'87/'92 studies.",
-    "abstract": "Young children with medulloblastoma (MB) are especially susceptible for tumor and treatment-related brain damage. Craniospinal irradiation (CSI) has been identified as a main risk factor for cognitive and motor dysfunction 2-5&#x2009;years after diagnosis. Longitudinal follow-up data on these children beyond 10&#x2009;years after diagnosis are scarce. To characterize their long-term neurocognitive outcome, we analyzed a cohort of 24 MB patients below the age of 3&#x2009;years at diagnosis treated within the HIT-SKK'87 (systemic chemotherapy and deferred CSI) and HIT-SKK'92 (systemic chemotherapy and intraventricular methotrexate (MTXi.vt.), no radiotherapy) trials after 5 and 15&#x2009;years. A comprehensive test battery was used to measure cognitive operations, executive functions with selective attention, and psychomotor abilities. Overall, MB survivors showed subnormal test results independent of treatment, especially in the domain of motor function. CSI had an additional detrimenta",
-    "journalisticSummary": "Um estudo recente publicado na PubMed investigou os efeitos neuropsicológicos tardios em crianças pequenas com meduloblastoma, um tipo de tumor cerebral. Essas crianças são particularmente suscetíveis a danos cerebrais relacionados ao tumor e ao tratamento, e a irradiação cranioespinhal (CSI) é um fator de risco importante para disfunção cognitiva e motora. No entanto, há uma escassez de dados de acompanhamento longitudinal sobre essas crianças além de 10 anos após o diagnóstico. Para caracterizar o resultado neuropsicológico de longo prazo, os pesquisadores analisaram uma coorte de 24 pacientes com meduloblastoma abaixo de 3 anos de idade no momento do diagnóstico, tratados nos estudos HIT-SKK-'87 e HIT-SKK-'92, após 5 e 15 anos. Foi utilizada uma bateria de testes abrangente para medir operações cognitivas, funções executivas com atenção seletiva e habilidades psicomotoras. Em geral, os sobreviventes de meduloblastoma apresentaram resultados de testes subnormais, independentemente do tratamento, especialmente no domínio da função motora. A CSI teve um efeito adicional prejudicial. Embora o estudo tenha fornecido insights valiosos sobre os efeitos neuropsicológicos tardios em crianças com meduloblastoma, não foi informado se os resultados podem ser generalizados para outras populações ou se há intervenções eficazes para mitigar esses efeitos. Mais pesquisas são necessárias para entender melhor os efeitos de longo prazo do tratamento de meduloblastoma em crianças pequenas.\n\nA long-term study published on PubMed investigated the late neuropsychological effects in young children with medulloblastoma, a type of brain tumor. These children are particularly susceptible to tumor and treatment-related brain damage, and craniospinal irradiation (CSI) is a major risk factor for cognitive and motor dysfunction. However, there is a scarcity of longitudinal follow-up data on these children beyond 10 years after diagnosis. To characterize the long-term neuropsychological outcome, researchers analyzed a cohort of 24 medulloblastoma patients under the age of 3 at diagnosis, treated within the HIT-SKK-'87 and HIT-SKK-'92 trials, after 5 and 15 years. A comprehensive test battery was used to measure cognitive operations, executive functions with selective attention, and psychomotor abilities. Overall, medulloblastoma survivors showed subnormal test results, regardless of treatment, especially in the domain of motor function. CSI had an additional detrimental effect. Although the study provided valuable insights into the late neuropsychological effects in children with medulloblastoma, it was not reported whether the results can be generalized to other populations or if there are effective interventions to mitigate these effects. Further research is needed to better understand the long-term effects of medulloblastoma treatment in young children.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42131756",
-    "authors": [
-      {
-        "name": "Holger Ottensmeier",
-        "affiliation": "Department of Pediatrics, Pediatric Hematology and Oncology, University Hospital W&#xfc;rzburg, W&#xfc;rzburg, Germany (H.O., M.E., P.-G.S., S.F., Jo.K)."
-      },
-      {
-        "name": "Matthias Eyrich",
-        "affiliation": "Department of Pediatrics, Pediatric Hematology and Oncology, University Hospital W&#xfc;rzburg, W&#xfc;rzburg, Germany (H.O., M.E., P.-G.S., S.F., Jo.K)."
-      },
-      {
-        "name": "Ren&#xe9; Schmidt",
-        "affiliation": "Institute of Biostatistics and Clinical Research, University of M&#xfc;nster, M&#xfc;nster, Germany (R.S., A.F.)."
-      },
-      {
-        "name": "Paul-Gerhardt Schlegel",
-        "affiliation": "Department of Pediatrics, Pediatric Hematology and Oncology, University Hospital W&#xfc;rzburg, W&#xfc;rzburg, Germany (H.O., M.E., P.-G.S., S.F., Jo.K)."
-      }
-    ],
-    "journal": "Neuro-oncology practice",
-    "publishedDate": "2026-05-14",
-    "fetchedDate": "2026-05-14",
-    "category": "Oncologia",
-    "tags": [
-      "tumor",
-      "chemotherapy",
-      "brain",
-      "cognitive",
-      "psychological"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
