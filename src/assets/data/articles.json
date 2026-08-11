@@ -1,5 +1,44 @@
 [
   {
+    "id": "pubmed-42577116",
+    "pmid": "42577116",
+    "doi": "10.3389/fnut.2026.1871866",
+    "title": "Elevated preoperative red cell distribution width and incident infection after metabolic and bariatric surgery: a cohort study.",
+    "titlePt": "Elevated preoperative red cell distribution width and incident infection after metabolic and bariatric surgery: a cohort study.",
+    "abstract": "Red cell distribution width (RDW), an index of erythrocyte size variability associated with inflammation and nutritional status, may have prognostic utility; however, its role in predicting infection after metabolic and bariatric surgery (MBS) remains unclear. This TriNetX retrospective cohort study included adults undergoing primary MBS from 2010-2025. Elevated preoperative RDW was defined as &#x2265;14.6% across all measurements within 3&#x202f;months before surgery, while normal RDW ranged from 11.5 to 14.5%. Patients with discordant values were excluded. One-to-one propensity score matching was performed. The primary outcome was incident sepsis within 1&#x202f;year, and secondary outcomes included pneumonia, surgical site infection (SSI), urinary tract infection (UTI), and intensive care unit (ICU) admission. After matching, 17,735 patients were included in each group. Elevated RDW was associated with an increased risk of sepsis (hazard ratios [HRs] 1.42, 95% confidence interval [C",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *Frontiers in Nutrition* identificou uma associação entre a elevação da amplitude de distribuição eritrocitária (RDW) no pré-operatório e o risco aumentado de infecções após cirurgias metabólicas e bariátricas (MBS). A pesquisa, conduzida por meio de uma coorte retrospectiva do banco de dados TriNetX, avaliou 35.470 adultos submetidos a MBS primária entre 2010 e 2025, excluindo pacientes com valores discordantes de RDW medidos nos três meses anteriores ao procedimento. A definição de RDW elevado (≥14,6%) foi baseada em limites pré-estabelecidos, enquanto valores normais variaram entre 11,5% e 14,5%.\n\nApós o pareamento por escore de propensão (1:1), os resultados indicaram que pacientes com RDW elevado apresentaram um risco 42% maior de desenvolver sepse no primeiro ano pós-operatório (HR 1,42; IC 95% não informado no resumo). Além disso, foram observados aumentos significativos nas taxas de pneumonia, infecção de sítio cirúrgico (SSI), infecção do trato urinário (ITU) e necessidade de internação em unidade de terapia intensiva (UTI). Os autores destacam que o RDW, marcador tradicionalmente associado a processos inflamatórios e ao estado nutricional, pode ter valor prognóstico na estratificação de risco antes de procedimentos cirúrgicos complexos.\n\nEmbora os achados reforcem a hipótese de que alterações hematológicas pré-operatórias refletem vulnerabilidades clínicas, o estudo apresenta limitações inerentes ao delineamento retrospectivo e à dependência de registros eletrônicos de saúde. Não foram fornecidas informações detalhadas sobre viéses potenciais (como a influência de comorbidades não ajustadas) ou a distribuição de fatores de risco entre os grupos. Pesquisas prospectivas são necessárias para validar esses resultados e explorar mecanismos fisiopatológicos subjacentes, como o papel da inflamação crônica ou da desnutrição na modulação do RDW e sua relação com desfechos infecciosos pós-MBS.\n\n---\n\n**English version**\n\nA recent study published in *Frontiers in Nutrition* has identified an association between elevated red cell distribution width (RDW) in the preoperative period and an increased risk of infections following metabolic and bariatric surgery (MBS). The research, conducted as a retrospective cohort study using the TriNetX database, analyzed 35,470 adults who underwent primary MBS between 2010 and 2025, excluding patients with discordant RDW values measured within the three months prior to surgery. Elevated RDW was defined as ≥14.6%, while normal values ranged from 11.5% to 14.5%.\n\nAfter 1:1 propensity score matching, the results showed that patients with elevated RDW had a 42% higher risk of developing sepsis within the first postoperative year (hazard ratio [HR] 1.42; 95% confidence interval [CI] not reported in the abstract). Significant increases were also observed in the rates of pneumonia, surgical site infection (SSI), urinary tract infection (UTI), and intensive care unit (ICU) admission. The authors suggest that RDW, a marker traditionally linked to inflammation and nutritional status, may have prognostic value in risk stratification prior to complex surgical procedures.\n\nWhile the findings support the hypothesis that preoperative hematologic alterations reflect clinical vulnerabilities, the study has inherent limitations due to its retrospective design and reliance on electronic health records. Detailed information on potential biases—such as the influence of unadjusted comorbidities—or the distribution of risk factors between groups was not provided. Prospective studies are needed to validate these results and further explore underlying pathophysiological mechanisms, including the role of chronic inflammation or malnutrition in modulating RDW and its relationship with postoperative infectious outcomes.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42577116",
+    "authors": [
+      {
+        "name": "Ying-Jen Chang",
+        "affiliation": "Department of Anesthesiology, Chi Mei Medical Center, Tainan City, Taiwan."
+      },
+      {
+        "name": "Ping-Hsin Liu",
+        "affiliation": "Department of Recreation and Health-Care Management, College of Recreation and Health Management, Chia Nan University of Pharmacy and Science, Tainan City, Taiwan."
+      },
+      {
+        "name": "Kuo-Mao Lan",
+        "affiliation": "Department of Anesthesiology, E-Da Hospital, I-Shou University, Kaohsiung City, Taiwan."
+      }
+    ],
+    "journal": "Frontiers in nutrition",
+    "publishedDate": "2026-08-11",
+    "fetchedDate": "2026-08-11",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "sepsis",
+      "metabolic"
+    ],
+    "isHighlight": true,
+    "readTime": 7,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42498088",
     "pmid": "42498088",
     "doi": "10.1016/j.jep.2026.122222",
@@ -212,7 +251,7 @@
       "atrial",
       "rna"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12696,46 +12735,5 @@
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41264184",
-    "pmid": "41264184",
-    "doi": "10.1007/s10557-025-07810-1",
-    "title": "Lipoprotein(a) in Cardiovascular Diseases and Emerging Therapeutic Strategies.",
-    "titlePt": "Lipoprotein(a) in Cardiovascular Diseases and Emerging Therapeutic Strategies.",
-    "abstract": "Lipoprotein(a) [Lp(a)] is increasingly recognized as a genetically determined, independent risk factor for atherosclerotic&#xa0;cardiovascular disease (ASCVD). This review examines the structure, pathophysiology, and epidemiology of Lp(a), with a focus on its&#xa0;contribution to ASCVD and related conditions such as aortic valve stenosis and peripheral artery disease. The main research&#xa0;question addresses how Lp(a) influences cardiovascular risk and how emerging therapies may modify this risk. This review synthesizes published evidence describing the biological characteristics of Lp(a), its mechanistic roles in disease, and its&#xa0;epidemiologic associations with cardiovascular outcomes. It also evaluates current and investigational therapeutic approaches by&#xa0;examining clinical trial data for agents targeting Lp(a). Lp(a) contributes to residual cardiovascular risk through proatherogenic, proinflammatory, and prothrombotic mechanisms. Current&#xa0;evidence highlights its invol",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nO lipoproteína(a) [Lp(a)] tem sido cada vez mais reconhecido como um fator de risco geneticamente determinado e independente para doenças cardiovasculares ateroscleróticas (ASCVD). Um estudo publicado no periódico *Atherosclerosis* sintetiza evidências recentes sobre sua estrutura, fisiopatologia e epidemiologia, destacando seu papel na promoção de risco cardiovascular residual por mecanismos pró-aterogênicos, pró-inflamatórios e pró-trombóticos. A revisão sistemática, com foco em dados de ensaios clínicos, explora como a Lp(a) contribui para condições como estenose valvar aórtica e doença arterial periférica, além de avaliar terapias emergentes que visam reduzir seus níveis plasmáticos.\n\nOs achados reforçam que a Lp(a) atua como um marcador de risco cardiovascular distinto, cujos níveis elevados estão associados a eventos como infarto agudo do miocárdio e acidente vascular cerebral isquêmico. Embora estudos observacionais demonstrem correlações significativas, ainda não há consenso sobre valores de corte clínicos para intervenção terapêutica, tampouco diretrizes definitivas que recomendem o rastreamento universal. Entre as estratégias em desenvolvimento, destacam-se terapias de RNA interferente (como o pelacarseno) e anticorpos monoclonais (como o muvalapilina), que demonstraram reduções superiores a 90% nos níveis de Lp(a) em ensaios de fase 2. No entanto, os dados disponíveis não incluem análises de desfechos cardiovasculares hard, limitando a avaliação de seu impacto clínico direto.\n\nAs principais limitações incluem a heterogeneidade dos estudos incluídos, a ausência de ensaios randomizados com desfechos clínicos robustos e a falta de padronização nos métodos de dosagem da Lp(a). Pesquisas futuras devem priorizar avaliações em populações diversificadas, com seguimento a longo prazo, para confirmar se a redução farmacológica da Lp(a) se traduz em diminuição de eventos cardiovasculares. Até então, seu manejo permanece restrito a abordagens empíricas, como o controle de outros fatores de risco, enquanto as terapias direcionadas aguardam aprovação regulatória e validação em estudos de fase 3.\n\n---\n\n**English version**\n\nLipoprotein(a) [Lp(a)] is increasingly recognized as a genetically determined, independent risk factor for atherosclerotic cardiovascular disease (ASCVD). A study published in *Atherosclerosis* synthesizes recent evidence on its structure, pathophysiology, and epidemiology, emphasizing its role in driving residual cardiovascular risk through proatherogenic, proinflammatory, and prothrombotic mechanisms. The systematic review, drawing on clinical trial data, examines how elevated Lp(a) levels contribute to conditions such as aortic valve stenosis and peripheral artery disease, while evaluating emerging therapies designed to lower its plasma concentrations.\n\nFindings confirm that Lp(a) functions as a distinct cardiovascular risk marker, with elevated levels linked to major adverse events, including myocardial infarction and ischemic stroke. Although observational studies demonstrate significant correlations, there remains no consensus on clinical thresholds for therapeutic intervention, nor definitive guidelines recommending universal screening. Among the most promising strategies under investigation are RNA interference therapies (e.g., pelacarsen) and monoclonal antibodies (e.g., muvalaplin), which have demonstrated over 90% reductions in Lp(a) levels in phase 2 trials. However, available data lack hard cardiovascular outcome analyses, restricting assessments of their direct clinical benefits.\n\nKey limitations include study heterogeneity, the absence of randomized trials with robust clinical endpoints, and inconsistencies in Lp(a) measurement methods. Future research should prioritize long-term follow-up in diverse populations to determine whether pharmacologic Lp(a) reduction translates into decreased cardiovascular events. Until then, management remains empirical, focusing on the control of other risk factors, as targeted therapies await regulatory approval and validation in phase 3 studies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41264184",
-    "authors": [
-      {
-        "name": "Rami A Al-Horani",
-        "affiliation": "Division of Basic Pharmaceutical Sciences, College of Pharmacy, Xavier University of Louisiana, New Orleans, LA, 70125, USA. ralhoran@xula.edu."
-      },
-      {
-        "name": "Alexandra C Selico-Dunn",
-        "affiliation": "College of Pharmacy, 1 Drexel Drive, New Orleans, LA, 70125-1089, USA. ralhoran@xula.edu."
-      },
-      {
-        "name": "Emily Lauren Schenk Smith",
-        "affiliation": "Division of Basic Pharmaceutical Sciences, College of Pharmacy, Xavier University of Louisiana, New Orleans, LA, 70125, USA."
-      }
-    ],
-    "journal": "Cardiovascular drugs and therapy",
-    "publishedDate": "2026-05-13",
-    "fetchedDate": "2026-08-08",
-    "category": "Genômica",
-    "tags": [
-      "cardiovascular",
-      "genetic",
-      "gene",
-      "clinical trial",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
