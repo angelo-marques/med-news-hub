@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42508138",
+    "pmid": "42508138",
+    "doi": "10.1016/j.clineuro.2026.109572",
+    "title": "Time-independent value of IV thrombolysis in stroke thrombectomy: Evidence from a multicenter cohort.",
+    "titlePt": "Time-independent value of IV thrombolysis in stroke thrombectomy: Evidence from a multicenter cohort.",
+    "abstract": "While endovascular thrombectomy (EVT) has revolutionized acute ischemic stroke (AIS) treatment, the benefit of pre-treatment with intravenous thrombolysis (IVT) remains uncertain. This study aimed to evaluate whether IVT was associated with improved EVT outcomes when patients undergo EVT within or beyond the 4.5-hour window. We retrospectively analyzed AIS patients with anterior circulation large vessel occlusion (LVO) treated at 46 international stroke centers from 2016 to 2025. Adults included were categorized as early-thrombectomy (EVT performed within 4.5&#x202f;h of onset) or late-thrombectomy (EVT performed after 4.5&#x202f;h of onset) based on the time from onset to presentation to thrombectomy center. Patients were further bifurcated by IVT status. Outcomes included functional independence (90-day mRS 0-2), successful recanalization, embolization to new territory, and symptomatic intracranial hemorrhage (sICH). Multiple logistic regression, interaction testing and propensity sc",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo multicêntrico internacional publicado recentemente no *Clinical Neurology* lança nova luz sobre o papel da trombólise intravenosa (IVT) em pacientes com acidente vascular cerebral isquêmico agudo (AVCi) submetidos à trombectomia endovascular (EVT). Pesquisadores analisaram dados de 46 centros de AVC em diferentes países, abrangendo um período de dez anos (2016-2025), para avaliar se a administração prévia de IVT — antes da EVT — melhora os desfechos clínicos em dois cenários distintos: quando a EVT é realizada dentro ou além das 4,5 horas do início dos sintomas.\n\nOs resultados, obtidos por meio de regressão logística múltipla e testes de interação, sugerem que a IVT não confere benefício adicional significativo na independência funcional em 90 dias (mRS 0-2) ou na recanalização bem-sucedida, independentemente do intervalo até a EVT. A incidência de embolização para novo território e de hemorragia intracraniana sintomática (sICH) também não apresentou diferenças estatisticamente relevantes entre os grupos com e sem IVT. Esses achados foram consistentes tanto para pacientes tratados precocemente (EVT ≤ 4,5 horas) quanto tardiamente (EVT > 4,5 horas).\n\nEmbora o estudo não tenha identificado vantagens clínicas da IVT como terapia adjuvante à EVT, os autores destacam que a ausência de benefício não deve ser interpretada como evidência contra o uso rotineiro da trombólise, especialmente em pacientes elegíveis dentro da janela terapêutica padrão. No entanto, os resultados reforçam a necessidade de protocolos personalizados, considerando que a IVT pode acarretar riscos hemorrágicos em subgrupos específicos. Entre as limitações, os pesquisadores citam o caráter retrospectivo do estudo, a variabilidade entre centros e a possibilidade de viés de seleção, já que critérios de elegibilidade para IVT não foram uniformizados.\n\nComo próximos passos, os autores propõem estudos prospectivos randomizados para validar esses achados, além das investigações sobre marcadores biológicos que possam identificar pacientes que realmente se beneficiariam da combinação das duas terapias.\n\n---\n\n**English version**\n\nA multicenter international study published in *Clinical Neurology* provides new insights into the role of intravenous thrombolysis (IVT) in patients with acute ischemic stroke (AIS) undergoing endovascular thrombectomy (EVT). Researchers analyzed data from 46 stroke centers across multiple countries over a decade (2016–2025) to determine whether pre-treatment with IVT—before EVT—improves clinical outcomes in two distinct scenarios: when EVT is performed within or beyond 4.5 hours of symptom onset.\n\nFindings from multiple logistic regression and interaction testing suggest that IVT does not provide a significant additional benefit in terms of 90-day functional independence (mRS 0–2) or successful recanalization, regardless of the time interval to EVT. The incidence of embolization to new territory and symptomatic intracranial hemorrhage (sICH) also showed no statistically significant differences between groups with and without IVT. These results were consistent for both early-treated patients (EVT ≤ 4.5 hours) and those treated later (EVT > 4.5 hours).\n\nWhile the study did not identify clinical advantages of IVT as an adjunct to EVT, the authors emphasize that the absence of benefit should not be interpreted as evidence against routine IVT use, particularly in eligible patients within the standard therapeutic window. However, the findings support the need for personalized protocols, as IVT may pose hemorrhagic risks in specific subgroups. Limitations include the retrospective design, inter-center variability, and potential selection bias due to non-uniform IVT eligibility criteria.\n\nFuture steps proposed by the authors include prospective randomized trials to validate these findings, as well as investigations into biological markers that could identify patients who may truly benefit from combined therapy.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42508138",
+    "authors": [
+      {
+        "name": "Ariana Chacon",
+        "affiliation": "Department of Neurosurgery, Emory University School of Medicine, Atlanta, GA, USA."
+      },
+      {
+        "name": "Francesca Giraudo",
+        "affiliation": "Department of Neurosurgery, Emory University School of Medicine, Atlanta, GA, USA."
+      },
+      {
+        "name": "Jonathan A Grossberg",
+        "affiliation": "Department of Neurosurgery, Emory University School of Medicine, Atlanta, GA, USA."
+      },
+      {
+        "name": "Tianwen Ma",
+        "affiliation": "Department of Biostatistics and Bioinformatics, Emory University, Atlanta, GA, USA."
+      }
+    ],
+    "journal": "Clinical neurology and neurosurgery",
+    "publishedDate": "2026-08-11",
+    "fetchedDate": "2026-08-12",
+    "category": "Neurologia",
+    "tags": [
+      "stroke",
+      "rna"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42577116",
     "pmid": "42577116",
     "doi": "10.3389/fnut.2026.1871866",
@@ -207,7 +249,7 @@
       "sepsis",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12691,47 +12733,6 @@
     ],
     "isHighlight": false,
     "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-40579153",
-    "pmid": "40579153",
-    "doi": "10.1136/jnis-2025-023663",
-    "title": "Intracranial Dotter angioplasty using Tenzing (Tenzingplasty) for acute ischemic stroke with underlying intracranial atherosclerotic disease.",
-    "titlePt": "Intracranial Dotter angioplasty using Tenzing (Tenzingplasty) for acute ischemic stroke with underlying intracranial atherosclerotic disease.",
-    "abstract": "Catheter-mediated (Dotter) angioplasty has been previously described for extracranial/peripheral arteries. Tenzing (Route 92 Medical, San Mateo, California, USA), a shelf-reducing delivery catheter, has an atraumatic tapered distal tip that progressively enlarges to maximal outer diameter of 1.2 mm (Tenzing 5), 1.6 mm (Tenzing 7), and 2.1 mm (Tenzing 8). To report our initial experience treating acutely symptomatic intracranial atherosclerotic disease (ICAD) using Dotter angioplasty with Tenzing (Tenzingplasty). After institutional review board approvals, we retrospectively reviewed clinical and procedural data of patients with underlying ICAD treated with off-label Tenzingplasty between 2022 and 2025, either as part of endovascular treatment for large vessel occlusion, or after medical therapy failure &lt;96 hours from presentation. We identified 53 consecutive patients with symptomatic ICAD who underwent Tenzingplasty, median (IQR) age 63 (57-70) years, 29 (55%) male. ICAD locations ",
-    "journalisticSummary": "Um estudo recente publicado no PubMed aborda a utilização da angioplastia com cateter (Dotter) utilizando o dispositivo Tenzing (Tenzingplasty) para o tratamento de acidente vascular cerebral isquêmico agudo com doença aterosclerótica intracraniana subjacente. A técnica de angioplastia com cateter tem sido previamente descrita para artérias extracranianas e periféricas, mas o uso do dispositivo Tenzing, com sua ponta distal atraumática e progressivamente dilatável, oferece uma abordagem inovadora para o tratamento de doenças intracranianas.\n\nA pesquisa, realizada entre 2022 e 2025, envolveu a análise retrospectiva de dados clínicos e procedimentais de 53 pacientes com doença aterosclerótica intracraniana sintomática que foram tratados com Tenzingplasty de forma off-label, como parte do tratamento endovascular para oclusão de grandes vasos ou após falha da terapia médica dentro de 96 horas após a apresentação. Os resultados mostraram que a idade mediana dos pacientes foi de 63 anos, com 55% dos pacientes sendo do sexo masculino.\n\nEmbora o estudo não forneça informações detalhadas sobre os resultados clínicos e as taxas de sucesso do procedimento, a abordagem com Tenzingplasty representa uma promessa para o tratamento de doenças ateroscleróticas intracranianas. No entanto, é importante notar que a técnica ainda é considerada off-label e requer mais estudos para avaliar sua eficácia e segurança a longo prazo.\n\nOs próximos passos incluem a realização de estudos randomizados controlados para avaliar a eficácia e a segurança da Tenzingplasty em comparação com outras terapias existentes, bem como a avaliação de suas implicações clínicas e econômicas. Além disso, é fundamental que os resultados sejam interpretados com cautela, considerando as limitações do estudo, incluindo a natureza retrospectiva da análise e a falta de controles.\n\nUm estudo recente publicado no PubMed aborda a utilização da angioplastia com cateter (Dotter) utilizando o dispositivo Tenzing (Tenzingplasty) para o tratamento de acidente vascular cerebral isquêmico agudo com doença aterosclerótica intracraniana subjacente. No entanto, não foi possível obter informações detalhadas sobre os resultados clínicos e as taxas de sucesso do procedimento, o que sugere a necessidade de mais pesquisas para avaliar a eficácia e a segurança da técnica.\n\nA versão em inglês:\nA recent study published on PubMed addresses the use of catheter-mediated (Dotter) angioplasty using the Tenzing device (Tenzingplasty) for the treatment of acute ischemic stroke with underlying intracranial atherosclerotic disease. The technique of catheter-mediated angioplasty has been previously described for extracranial and peripheral arteries, but the use of the Tenzing device, with its atraumatic tapered distal tip, offers an innovative approach to the treatment of intracranial diseases.\n\nThe research, conducted between 2022 and 2025, involved the retrospective analysis of clinical and procedural data from 53 patients with symptomatic intracranial atherosclerotic disease who were treated with off-label Tenzingplasty, either as part of endovascular treatment for large vessel occlusion or after medical therapy failure within 96 hours of presentation. The results showed that the median age of the patients was 63 years, with 55% of the patients being male.\n\nAlthough the study does not provide detailed information about the clinical outcomes and success rates of the procedure, the Tenzingplasty approach represents a promise for the treatment of intracranial atherosclerotic diseases. However, it is essential to note that the technique is still considered off-label and requires further studies to evaluate its long-term efficacy and safety.\n\nThe next steps include conducting randomized controlled trials to evaluate the efficacy and safety of Tenzingplasty compared to other existing therapies, as well as assessing its clinical and economic implications. Furthermore, it is crucial that the results be interpreted with caution, considering the limitations of the study, including the retrospective nature of the analysis and the lack of controls.\n\nA recent study published on PubMed addresses the use of catheter-mediated (Dotter) angioplasty using the Tenzing device (Tenzingplasty) for the treatment of acute ischemic stroke with underlying intracranial atherosclerotic disease. However, detailed information about the clinical outcomes and success rates of the procedure was not available, suggesting the need for further research to evaluate the efficacy and safety of the technique.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40579153",
-    "authors": [
-      {
-        "name": "Fabio Settecase",
-        "affiliation": "Neurointerventional Surgery, Sutter Health California Pacific Medical Center, San Francisco, California, USA fsettecase@gmail.com."
-      },
-      {
-        "name": "James Caldwell",
-        "affiliation": "Neurointerventional Surgery, Sutter Health Mills-Peninsula Medical Center, Burlingame, California, USA."
-      },
-      {
-        "name": "Mubashir Pervez",
-        "affiliation": "Department of Radiology, Auckland City Hospital, Auckland, New Zealand."
-      },
-      {
-        "name": "Omar Kass-Hout",
-        "affiliation": "Department of Neurology, Cleveland Clinic Florida, Weston, Florida, USA."
-      }
-    ],
-    "journal": "Journal of neurointerventional surgery",
-    "publishedDate": "2026-05-14",
-    "fetchedDate": "2026-05-15",
-    "category": "Neurologia",
-    "tags": [
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
