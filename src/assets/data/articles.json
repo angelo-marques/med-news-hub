@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-41427863",
+    "pmid": "41427863",
+    "doi": "10.1097/SHK.0000000000002759",
+    "title": "Pancreatic Stone Protein as an Early Prognostic Biomarker of Outcome in Clostridioides Difficile Infection.",
+    "titlePt": "Pancreatic Stone Protein as an Early Prognostic Biomarker of Outcome in Clostridioides Difficile Infection.",
+    "abstract": "Clostridioides difficile infection (CDI) remains a major healthcare-associated infection, leading to severe complications. Early identification of patients at high risk for unfavorable outcomes remains challenging. Pancreatic stone protein (PSP) has emerged as a promising biomarker in sepsis; however, its role in CDI has not been investigated. We conducted a prospective multicenter study of adult patients with CDI from 13 study sites in Greece. PSP was measured within 24 hours of CDI onset. The primary outcome was the association between PSP and unfavorable outcome, defined as at least one of the following: organ failure, severe disease progression, relapse, or death. Receiver operating characteristic curve was performed to assess diagnostic performance, and multivariate logistic regression to evaluate independent predictors of adverse outcome. One hundred forty-seven patients were enrolled, and unfavorable outcomes occurred in 52. PSP levels were significantly higher in these patients",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo estudo prospectivo multicêntrico, publicado no *Shock*, investigou o potencial do biomarcador *Pancreatic Stone Protein* (PSP) como preditor precoce de desfechos adversos em pacientes com infecção por *Clostridioides difficile* (CDI). A pesquisa, conduzida em 13 centros na Grécia e envolvendo 147 adultos, avaliou se níveis elevados de PSP, medidos nas primeiras 24 horas após o início da infecção, poderiam identificar indivíduos com maior risco de complicações graves — como falência de órgãos, progressão para doença severa, recidiva ou óbito.\n\nOs resultados revelaram que pacientes com desfechos desfavoráveis apresentaram concentrações significativamente mais altas de PSP em comparação àqueles com evolução clínica favorável. A análise por curva ROC demonstrou capacidade discriminatória moderada do biomarcador, enquanto a regressão logística multivariada identificou o PSP como fator independente associado a pior prognóstico. Embora os achados sugiram que a dosagem precoce de PSP possa auxiliar na estratificação de risco em CDI, os autores destacam a necessidade de validação em coortes maiores e em diferentes contextos clínicos. Além disso, o estudo não reportou dados sobre custos, viabilidade operacional ou impacto em protocolos assistenciais, limitando conclusões sobre sua aplicabilidade imediata na prática clínica.\n\n**English version**\n\nA new prospective multicenter study published in *Shock* explored the potential of *Pancreatic Stone Protein* (PSP) as an early predictor of adverse outcomes in patients with *Clostridioides difficile* infection (CDI). Conducted across 13 centers in Greece with 147 adults, the research assessed whether elevated PSP levels—measured within 24 hours of symptom onset—could identify individuals at higher risk for severe complications, including organ failure, disease progression to severe stages, recurrence, or death.\n\nThe findings showed that patients with unfavorable outcomes had significantly higher PSP concentrations compared to those with favorable clinical progression. Receiver operating characteristic analysis indicated moderate discriminatory power for PSP, while multivariate logistic regression identified it as an independent predictor of poor prognosis. While the results suggest that early PSP measurement could aid in risk stratification for CDI, the authors emphasize the need for validation in larger cohorts and diverse clinical settings. The study did not report data on cost-effectiveness, operational feasibility, or impact on clinical protocols, limiting conclusions about its immediate applicability in practice.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41427863",
+    "authors": [
+      {
+        "name": "Renatos-Nikolaos Tziolos",
+        "affiliation": "Fourth Department of Internal Medicine, Medical School, National and Kapodistrian University of Athens, Athens, Greece."
+      },
+      {
+        "name": "Christos Psarrakis",
+        "affiliation": "Fourth Department of Internal Medicine, Medical School, National and Kapodistrian University of Athens, Athens, Greece."
+      },
+      {
+        "name": "Panagiotis Koufargyris",
+        "affiliation": "Fourth Department of Internal Medicine, Medical School, National and Kapodistrian University of Athens, Athens, Greece."
+      },
+      {
+        "name": "George Chrysos",
+        "affiliation": "Second Department of Internal Medicine, Tzaneio Piraeus General Hospital, Piraeus, Greece."
+      }
+    ],
+    "journal": "Shock (Augusta, Ga.)",
+    "publishedDate": "2026-08-12",
+    "fetchedDate": "2026-08-12",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "sepsis"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42583105",
     "pmid": "42583105",
     "doi": "10.1002/joa3.70441",
@@ -200,7 +242,7 @@
       "stroke",
       "rna"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -3167,6 +3209,51 @@
     ],
     "isHighlight": false,
     "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42142262",
+    "pmid": "42142262",
+    "doi": "10.1007/s11033-026-11968-8",
+    "title": "Circulating lncRNA as Biomarkers and Therapeutics in Oral Cancer: Silent Scripts with Loud Impact.",
+    "titlePt": "Circulating lncRNA as Biomarkers and Therapeutics in Oral Cancer: Silent Scripts with Loud Impact.",
+    "abstract": "Oral squamous cell carcinoma (OSCC) remains a major global health challenge due to late diagnosis, high recurrence, and limited therapeutic success. This review focuses on circulating long non-coding RNAs (lncRNAs) as emerging biomarkers and therapeutic targets that can transform the clinical management of OSCC. Unlike earlier studies restricted to tissue-based analyses, this work emphasizes circulating lncRNAs detectable in saliva, plasma, and serum, highlighting their non-invasive diagnostic potential and mechanistic relevance in tumor progression, metastasis, and therapy resistance. Relevant studies published up to 2025 were systematically reviewed from PubMed and Google Scholar to synthesize current knowledge on their biogenesis, secretion through extracellular vesicles and RNA-binding proteins, detection technologies, and clinical applicability. Several circulating lncRNAs, including HOTAIR, MALAT1, MEG3, ANRIL, and LINC00657, show strong associations with tumor stage, prognosis, ",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nO carcinoma de células escamosas oral (OSCC) persiste como um desafio global devido ao diagnóstico tardio, altas taxas de recidiva e limitações nos resultados terapêuticos. Uma revisão publicada recentemente na *Medical Oncology* explora o potencial dos RNAs não codificantes longos (lncRNAs) circulantes como biomarcadores e alvos terapêuticos, com foco em sua detecção não invasiva em saliva, plasma e soro. Diferentemente de estudos anteriores, centrados em análises de tecido tumoral, este trabalho sintetiza evidências até 2025 sobre a biogênese, secreção por vesículas extracelulares e proteínas de ligação a RNA, além das tecnologias de detecção e aplicabilidade clínica desses biomarcadores.\n\nEntre os lncRNAs circulantes avaliados, destacam-se HOTAIR, MALAT1, MEG3, ANRIL e LINC00657, cujas associações com estágio tumoral, prognóstico, progressão metastática e resistência a terapias foram consistentemente relatadas. A revisão ainda aborda mecanismos moleculares, como a modulação de vias oncogênicas e a regulação da plasticidade tumoral, sugerindo que esses RNAs possam atuar não apenas como marcadores diagnósticos, mas também como alvos para intervenções terapêuticas direcionadas. A detecção em fluidos biológicos, especialmente saliva, oferece vantagens significativas em termos de acessibilidade e monitoramento dinâmico da doença.\n\nApesar do avanço promissor, os autores ressaltam limitações importantes, como a falta de padronização nos métodos de quantificação e a necessidade de validação prospectiva em coortes maiores e diversificadas. Além disso, embora alguns lncRNAs apresentem potencial translacional, ainda não há ensaios clínicos robustos que confirmem sua eficácia como biomarcadores prognósticos ou alvos terapêuticos específicos para OSCC. Os próximos passos incluem estudos multicêntricos para validar painéis de lncRNAs em diferentes populações e o desenvolvimento de plataformas de diagnóstico point-of-care baseadas em tecnologias de sequenciamento de terceira geração ou biossensores.\n\n---\n\n**English version**\n\nOral squamous cell carcinoma (OSCC) remains a global health challenge due to late-stage diagnosis, high recurrence rates, and limited therapeutic success. A recent review in *Medical Oncology* examines the potential of circulating long non-coding RNAs (lncRNAs) as biomarkers and therapeutic targets, emphasizing their non-invasive detection in saliva, plasma, and serum. Unlike earlier studies focused on tissue-based analyses, this work synthesizes evidence up to 2025 on the biogenesis, secretion via extracellular vesicles and RNA-binding proteins, detection technologies, and clinical applicability of these biomarkers.\n\nAmong the circulating lncRNAs evaluated—including HOTAIR, MALAT1, MEG3, ANRIL, and LINC00657—consistent associations with tumor stage, prognosis, metastatic progression, and therapy resistance were reported. The review also explores molecular mechanisms, such as modulation of oncogenic pathways and regulation of tumor plasticity, suggesting that these RNAs could serve not only as diagnostic markers but also as targets for precision interventions. The detection in biological fluids, particularly saliva, offers significant advantages in terms of accessibility and dynamic disease monitoring.\n\nDespite these promising advances, the authors highlight key limitations, including the lack of standardized quantification methods and the need for prospective validation in larger, diverse cohorts. Additionally, while several lncRNAs show translational potential, robust clinical trials confirming their efficacy as prognostic biomarkers or therapeutic targets for OSCC are still lacking. Future steps include multicenter studies to validate lncRNA panels across populations and the development of point-of-care diagnostic platforms based on third-generation sequencing or biosensor technologies.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42142262",
+    "authors": [
+      {
+        "name": "Riddhiman Bhattacharyya",
+        "affiliation": "Cancer and Translational Research Centre, Dr. D.Y. Patil Biotechnology and Bioinformatics Institute, Dr. D. Y. Patil Vidyapeeth (DPU), Tathawade, Pune, 411033, India."
+      },
+      {
+        "name": "Chandra Biswas",
+        "affiliation": "Cancer and Translational Research Centre, Dr. D.Y. Patil Biotechnology and Bioinformatics Institute, Dr. D. Y. Patil Vidyapeeth (DPU), Tathawade, Pune, 411033, India."
+      },
+      {
+        "name": "Md Sadi Khan",
+        "affiliation": "Department of Oncogene Regulation, Chittaranjan National Cancer Institution, Kolkata, 700026, India."
+      },
+      {
+        "name": "Sankhadeep Dutta",
+        "affiliation": "Department of Oncogene Regulation, Chittaranjan National Cancer Institution, Kolkata, 700026, India. sankhadeepdutta@cnci.ac.in."
+      }
+    ],
+    "journal": "Molecular biology reports",
+    "publishedDate": "2026-07-16",
+    "fetchedDate": "2026-08-12",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "carcinoma",
+      "gene",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   },
@@ -12647,84 +12734,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41763907",
-    "pmid": "41763907",
-    "doi": "10.1016/j.vasdi.2026.02.007",
-    "title": "Physician knowledge and practices regarding cardiovascular risk assessment and LDL-cholesterol targets determination: A monocentric cross-sectional survey.",
-    "titlePt": "Physician knowledge and practices regarding cardiovascular risk assessment and LDL-cholesterol targets determination: A monocentric cross-sectional survey.",
-    "abstract": "Cardiovascular diseases (CVD) remain the leading global cause of mortality. Approximately 50% of the CVD burden is attributable to five modifiable risk factors, including dyslipidemia. Effective management of low-density lipoprotein cholesterol (LDL-C) through accurate cardiovascular (CV) risk stratification is fundamental to prevention. However, in daily practice, significant variability exists in how clinicians assess CV risk and determine appropriate LDL-C targets, potentially leading to suboptimal patient care. This cross-sectional survey aimed to evaluate the consistency and alignment with current guidelines of CV risk assessment and LDL-C target selection among clinicians working at Avicenne University Hospital, Assistance publique-H&#xf4;pitaux de Paris (Bobigny, France), when presented with diverse and challenging clinical scenarios, that formal risk calculation tools cannot assess. Between September and November 2025, a questionnaire-based cross-sectional survey was conducted ",
-    "journalisticSummary": "As doenças cardiovasculares (DCV) continuam a ser a principal causa global de mortalidade, com aproximadamente 50% da carga de DCV atribuída a cinco fatores de risco modificáveis, incluindo a dislipidemia. O gerenciamento eficaz do colesterol de lipoproteína de baixa densidade (LDL-C) por meio da estratificação de risco cardiovascular (CV) precisa é fundamental para a prevenção. No entanto, na prática diária, existe uma variabilidade significativa em como os clínicos avaliam o risco CV e determinam as metas adequadas de LDL-C, o que pode levar a um cuidado subótimo para os pacientes. Um estudo recente publicado no PubMed, com DOI 10.1016/j.vasdi.2026.02.007, buscou avaliar a consistência e a alinhamento com as diretrizes atuais da avaliação do risco CV e da seleção de metas de LDL-C entre clínicos que trabalham no Hospital Universitário Avicenne, em Paris, França. O estudo foi realizado por meio de uma pesquisa transversal baseada em questionário, conduzida entre setembro e novembro de 2025. Os resultados do estudo não foram informados no resumo original, portanto, não é possível discutir os achados principais e o impacto clínico. Além disso, não foi possível identificar as limitações do estudo e os próximos passos, devido à falta de informações. \n\nThe cardiovascular diseases (CVD) remain the leading global cause of mortality, with approximately 50% of the CVD burden attributed to five modifiable risk factors, including dyslipidemia. Effective management of low-density lipoprotein cholesterol (LDL-C) through accurate cardiovascular (CV) risk stratification is fundamental to prevention. However, in daily practice, significant variability exists in how clinicians assess CV risk and determine appropriate LDL-C targets, potentially leading to suboptimal patient care. A recent study published on PubMed, with DOI 10.1016/j.vasdi.2026.02.007, aimed to evaluate the consistency and alignment with current guidelines of CV risk assessment and LDL-C target selection among clinicians working at Avicenne University Hospital, in Paris, France. The study was conducted through a cross-sectional survey based on a questionnaire, carried out between September and November 2025. The results of the study were not reported in the original abstract, therefore, it is not possible to discuss the main findings and clinical impact. Additionally, it was not possible to identify the study's limitations and next steps, due to the lack of information.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41763907",
-    "authors": [
-      {
-        "name": "Giovanni Orecchio",
-        "affiliation": "Universit&#xe0; degli studi dell'Insubria, Varese, 21100 Lombardia, Italy; Vascular Internal Medicine, Avicenne Hospital, University Paris Sorbonne Paris Nord, 93000 Bobigny, France."
-      },
-      {
-        "name": "Sylvain Le Jeune",
-        "affiliation": "Vascular Internal Medicine, Avicenne Hospital, University Paris Sorbonne Paris Nord, 93000 Bobigny, France."
-      },
-      {
-        "name": "Antonio Morabito",
-        "affiliation": "Vascular Internal Medicine, Avicenne Hospital, University Paris Sorbonne Paris Nord, 93000 Bobigny, France. Electronic address: antonio.morabito@aphp.fr."
-      }
-    ],
-    "journal": "Vascular diseases (Paris, France)",
-    "publishedDate": "2026-05-16",
-    "fetchedDate": "2026-05-17",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42143213",
-    "pmid": "42143213",
-    "doi": "10.1080/07853890.2026.2673631",
-    "title": "Endovascular thrombectomy versus best medical therapy for acute vertebrobasilar artery occlusion in patients with low NIHSS scores: a&#xa0;meta-analysis.",
-    "titlePt": "Endovascular thrombectomy versus best medical therapy for acute vertebrobasilar artery occlusion in patients with low NIHSS scores: a&#xa0;meta-analysis.",
-    "abstract": "The efficacy of endovascular thrombectomy (EVT) for acute vertebrobasilar artery occlusion (VBAO) presenting with mild symptoms (National Institutes of Health Stroke Scale [NIHSS] score &#x2264;10) remains uncertain. This meta-analysis aimed to compare the effectiveness and safety of EVT versus best medical therapy (BMT) in this population. We systematically searched PubMed, Embase, and the Cochrane Central Register of Controlled Trials from inception to September 2025 for comparative studies. The primary outcome was 90-day excellent functional outcome (modified Rankin Scale [mRS] score 0-1). Secondary outcomes included functional independence (mRS 0-2), symptomatic intracranial hemorrhage (sICH), and all-cause mortality. Pooled odds ratios (OR) with 95% confidence intervals (CI) were calculated using a random-effects model. Seven observational studies involving 3,107 patients were included. In unadjusted analyses, EVT was associated with a higher rate of excellent functional outcome (",
-    "journalisticSummary": "Um estudo recente publicado na literatura médica investigou a eficácia da trombectomia endovascular (EVT) em comparação com a melhor terapia médica (BMT) para pacientes com oclusão aguda da artéria vertebrobasilar (VBAO) apresentando sintomas leves, definidos por um escore no National Institutes of Health Stroke Scale (NIHSS) igual ou inferior a 10. A incerteza sobre a eficácia da EVT nesses casos motivou essa meta-análise, que visou comparar a efetividade e segurança da EVT em relação à BMT nessa população específica. A pesquisa sistemática foi realizada em bases de dados como PubMed, Embase e o Cochrane Central Register of Controlled Trials, abrangendo estudos desde a sua criação até setembro de 2025. O desfecho primário foi o resultado funcional excelente em 90 dias, medido pela escala modificada de Rankin (mRS) com escore 0-1. Os desfechos secundários incluíram independência funcional (mRS 0-2), hemorragia intracraniana sintomática (sICH) e mortalidade por todas as causas. Foram incluídos sete estudos observacionais que envolveram 3.107 pacientes. Nas análises não ajustadas, a EVT esteve associada a uma taxa mais alta de resultado funcional excelente. No entanto, não foi informado o detalhamento completo dos resultados ajustados ou as conclusões finais sobre a segurança e eficácia da EVT em relação à BMT nesse contexto específico. Além disso, os próximos passos e implicações clínicas não foram especificados no resumo disponível.\n\nUm estudo recente publicado na literatura médica investigou a eficácia da trombectomia endovascular (EVT) em comparação com a melhor terapia médica (BMT) para pacientes com oclusão aguda da artéria vertebrobasilar (VBAO) apresentando sintomas leves. A pesquisa sistemática foi realizada em bases de dados como PubMed, Embase e o Cochrane Central Register of Controlled Trials, abrangendo estudos desde a sua criação até setembro de 2025. Foram incluídos sete estudos observacionais que envolveram 3.107 pacientes. A EVT esteve associada a uma taxa mais alta de resultado funcional excelente em análises não ajustadas. No entanto, o resumo não forneceu informações detalhadas sobre os resultados ajustados ou as conclusões finais sobre a segurança e eficácia da EVT em relação à BMT nesse contexto específico.\n\n---\n\nA recent study published in the medical literature investigated the efficacy of endovascular thrombectomy (EVT) compared to best medical therapy (BMT) for patients with acute vertebrobasilar artery occlusion (VBAO) presenting with mild symptoms, defined by a National Institutes of Health Stroke Scale (NIHSS) score of 10 or less. The uncertainty surrounding the efficacy of EVT in these cases motivated this meta-analysis, which aimed to compare the effectiveness and safety of EVT versus BMT in this specific population. A systematic search was conducted in databases such as PubMed, Embase, and the Cochrane Central Register of Controlled Trials, covering studies from their inception to September 2025. The primary outcome was excellent functional outcome at 90 days, measured by the modified Rankin Scale (mRS) score 0-1. Secondary outcomes included functional independence (mRS 0-2), symptomatic intracranial hemorrhage (sICH), and all-cause mortality. Seven observational studies involving 3,107 patients were included. In unadjusted analyses, EVT was associated with a higher rate of excellent functional outcome. However, the detailed results of adjusted analyses or the final conclusions on the safety and efficacy of EVT compared to BMT in this specific context were not reported in the available summary. Furthermore, the next steps and clinical implications were not specified in the provided summary.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42143213",
-    "authors": [
-      {
-        "name": "Yaqin Qin",
-        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
-      },
-      {
-        "name": "Zhuo Min",
-        "affiliation": "Department of Neurology and Centre for Clinical Neuroscience, Daping Hospital, Army Medical Centre of PLA, Army Medical University, Chongqing, China."
-      },
-      {
-        "name": "Guangxin Sun",
-        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
-      },
-      {
-        "name": "Hui Xu",
-        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
-      }
-    ],
-    "journal": "Annals of medicine",
-    "publishedDate": "2026-05-16",
-    "fetchedDate": "2026-05-17",
-    "category": "Neurologia",
-    "tags": [
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
