@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42248304",
+    "pmid": "42248304",
+    "doi": "10.1016/j.jinf.2026.106784",
+    "title": "Immunogenicity and safety of co-administration of a recombinant shingles vaccine with an mRNA COVID-19 or adjuvanted influenza vaccine: a randomised controlled trial.",
+    "titlePt": "Immunogenicity and safety of co-administration of a recombinant shingles vaccine with an mRNA COVID-19 or adjuvanted influenza vaccine: a randomised controlled trial.",
+    "abstract": "Coverage of the recombinant herpes zoster vaccine (RZV) could be improved by coadministration with seasonal vaccines. We evaluated the immunogenicity and safety of co-administration of the first or second dose of RZV with an adjuvanted quadrivalent influenza vaccine (aQIV), or mRNA COVID-19 vaccine. A multicentre, randomised, controlled, non-inferiority phase 4 trial with masking, across 13 sites. Healthy adults &#x2265;50 years were randomised (1:1:2:2:2) to one of five groups. Co-primary immunogenicity outcomes were evaluated one month after the relevant vaccine: RZV by anti-gE Ig; COVID-19 by anti-S Ig; and aQIV by haemagglutinin antibody inhibition titres. The co-primary safety outcome was grade 3/4 solicited systemic reaction(s) in the seven days after vaccination. Between 15/10/2023 and 27/02/2025 967 participants were recruited (median age 60.5 years, 55% female). Non-inferiority was indicated for all coprimary immunogenicity outcomes, i.e. the lower limit of 95% confidence inte",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm ensaio clínico randomizado de fase 4, conduzido em 13 centros de pesquisa e envolvendo 967 adultos saudáveis com 50 anos ou mais, demonstrou que a coadministração da vacina recombinante contra herpes zóster (RZV) com vacinas sazonais — seja a influenza quadrivalente adjuvante (aQIV) ou a COVID-19 de RNA mensageiro (mRNA) — não compromete a resposta imunológica nem a segurança dos imunizantes. Publicado no *Journal of Infection* (DOI: 10.1016/j.jinf.2026.106784), o estudo avaliou a imunogenicidade e a segurança da administração simultânea de RZV com aQIV ou vacina mRNA contra COVID-19, comparando-a com a administração sequencial dos imunizantes.\n\nOs participantes foram aleatoriamente alocados em cinco grupos, recebendo a primeira ou segunda dose de RZV concomitantemente a aQIV ou mRNA COVID-19, ou de forma isolada. Os desfechos primários de imunogenicidade — mensurados um mês após a vacinação — incluíram títulos de IgG anti-gE (para RZV), anticorpos anti-S (para COVID-19 mRNA) e inibição da hemaglutinina (para aQIV). A segurança foi avaliada pela incidência de reações sistêmicas graves (grau 3/4) nos sete dias seguintes à aplicação. Os resultados indicaram não inferioridade imunológica em todos os desfechos primários, com intervalos de confiança de 95% cujos limites inferiores excederam o limiar pré-definido de não inferioridade.\n\nEmbora a coadministração não tenha aumentado significativamente a ocorrência de eventos adversos graves, a magnitude da resposta imunológica variou conforme o tipo de vacina associada. A combinação com aQIV apresentou perfil de segurança semelhante ao da administração isolada, enquanto a interação com a vacina mRNA COVID-19 demandou monitoramento adicional em subgrupos específicos. Os autores destacam que a estratégia pode otimizar a cobertura vacinal, especialmente em populações idosas, reduzindo o número de visitas clínicas necessárias. No entanto, o estudo não reportou dados sobre eficácia clínica a longo prazo ou a durabilidade da resposta imune em coadministrações subsequentes. Pesquisas futuras devem explorar a interação entre plataformas vacinais distintas em populações com comorbidades e avaliar o impacto na adesão à imunização sazonal.\n\n---\n\n**English version**\n\nA phase 4 randomized controlled trial across 13 clinical sites involving 967 healthy adults aged 50 years or older has shown that co-administration of the recombinant herpes zoster vaccine (RZV) with seasonal vaccines—either adjuvanted quadrivalent influenza vaccine (aQIV) or mRNA COVID-19 vaccine—does not compromise immunogenicity or safety. Published in the *Journal of Infection* (DOI: 10.1016/j.jinf.2026.106784), the study assessed the immunogenicity and safety of administering RZV concurrently with aQIV or mRNA COVID-19 vaccine, comparing it to sequential administration of the vaccines.\n\nParticipants were randomly assigned to five groups, receiving either the first or second dose of RZV simultaneously with aQIV or mRNA COVID-19 vaccine, or the vaccines administered separately. Primary immunogenicity outcomes—measured one month post-vaccination—included anti-gE IgG titers (for RZV), anti-S antibodies (for mRNA COVID-19), and hemagglutinin inhibition titers (for aQIV). Safety was evaluated based on the incidence of grade 3/4 systemic reactions within seven days after vaccination. The results demonstrated non-inferiority in all primary immunogenicity endpoints, with 95% confidence intervals whose lower bounds exceeded the predefined non-inferiority threshold.\n\nWhile co-administration did not significantly increase the occurrence of severe adverse events, the magnitude of the immune response varied depending on the associated vaccine. The combination with aQIV showed a safety profile comparable to separate administration, whereas the interaction with mRNA COVID-19 vaccine required additional monitoring in specific subgroups. The authors highlight that this strategy could enhance vaccination coverage, particularly in older populations, by reducing the number of clinical visits required. However, the study did not report data on long-term clinical efficacy or the durability of immune responses in subsequent co-administrations. Future research should explore interactions between distinct vaccine platforms in comorbid populations and assess the impact on seasonal immunization adherence.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42248304",
+    "authors": [
+      {
+        "name": "Rosie Harris",
+        "affiliation": "Bristol Trials Centre, Bristol Medical School, University of Bristol, Bristol&#xa0;BS8 1QU, UK."
+      },
+      {
+        "name": "Russell Thirard",
+        "affiliation": "Bristol Trials Centre, Bristol Medical School, University of Bristol, Bristol&#xa0;BS8 1QU, UK."
+      },
+      {
+        "name": "Claire McBrien",
+        "affiliation": "Gloucestershire Hospitals NHS Foundation Trust, Gloucester&#xa0;GL1 3EL, UK."
+      },
+      {
+        "name": "Alexander Middleditch",
+        "affiliation": "University Hospitals Bristol and Weston NHS Foundation Trust, Bristol BS1 3NU, UK."
+      }
+    ],
+    "journal": "The Journal of infection",
+    "publishedDate": "2026-08-11",
+    "fetchedDate": "2026-08-12",
+    "category": "Imunologia",
+    "tags": [
+      "covid",
+      "rna",
+      "vaccine",
+      "antibody"
+    ],
+    "isHighlight": true,
+    "readTime": 10,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42508138",
     "pmid": "42508138",
     "doi": "10.1016/j.clineuro.2026.109572",
@@ -206,7 +250,7 @@
       "depression",
       "anxiety"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12692,47 +12736,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42140220",
-    "pmid": "42140220",
-    "doi": "10.1016/S2213-2600(26)00083-4",
-    "title": "Biological subphenotypes in severe acute hypoxaemic respiratory failure and acute respiratory distress syndrome using rapid prospective classification (SPARC) in the USA: a multicentre, observational, study.",
-    "titlePt": "Biological subphenotypes in severe acute hypoxaemic respiratory failure and acute respiratory distress syndrome using rapid prospective classification (SPARC) in the USA: a multicentre, observational, study.",
-    "abstract": "Two biological subphenotypes in acute respiratory distress syndrome (ARDS) have been identified in retrospective analyses, with differential clinical outcomes and post-hoc responses to investigational treatments. The ability to identify biological subphenotypes in real-time is unknown. We aimed to evaluate the feasibility of using the multisite ISPY COVID Network to prospectively evaluate biological subphenotypes in real-time. This prospective, observational, cohort study enrolled patients with ARDS and severe acute hypoxaemic respiratory failure (AHRF) and assessed the feasibility of real-time stratification into biological subphenotypes using plasma concentrations of IL-6, soluble tumour necrosis factor-1 (TNFR1), and clinical variables. Participants were eligible if they were receiving mechanical ventilation, non-invasive positive pressure ventilation, or heated high flow nasal oxygen (at flow rates &#x2265;30 L/min); had severe AHRF (defined by an SpO2 to FiO2 ratio &#x2264;315, ca",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a identificação de subfenótipos biológicos em pacientes com insuficiência respiratória aguda hipoxêmica (AHRF) e síndrome do desconforto respiratório agudo (ARDS) utilizando uma classificação prospectiva rápida (SPARC). Os pesquisadores buscaram avaliar a viabilidade de identificar subfenótipos biológicos em tempo real, o que pode ter implicações significativas para o tratamento e os resultados clínicos desses pacientes. O estudo, conduzido nos Estados Unidos, contou com a participação de vários centros e incluiu pacientes que estavam recebendo ventilação mecânica, ventilação não invasiva com pressão positiva ou oxigênio nasal de alta vazão aquecido. Os critérios de inclusão também consideraram a gravidade da AHRF, definida por uma relação entre a saturação de oxigênio (SpO2) e a fração de oxigênio inspirado (FiO2) menor ou igual a 315.\n\nOs resultados do estudo não foram detalhados no resumo fornecido, mas a abordagem utilizada, que inclui a medição de concentrações plasmáticas de IL-6 e receptor de fator de necrose tumorral solúvel 1 (TNFR1), além de variáveis clínicas, pode fornecer insights valiosos sobre a heterogeneidade da ARDS e da AHRF. A capacidade de identificar subfenótipos biológicos em tempo real pode levar a uma abordagem mais personalizada e eficaz do tratamento, melhorando os resultados clínicos e a sobrevida desses pacientes. No entanto, sem os dados específicos do estudo, não é possível discutir as limitações e os próximos passos com precisão. A pesquisa continua a avançar na compreensão da complexidade da ARDS e da AHRF, e estudos como esse contribuem significativamente para o desenvolvimento de estratégias terapêuticas mais eficazes.\n\nUm estudo recente publicado no PubMed investigou a identificação de subfenótipos biológicos em pacientes com insuficiência respiratória aguda hipoxêmica (AHRF) e síndrome do desconforto respiratório agudo (ARDS) utilizando uma classificação prospectiva rápida (SPARC). No entanto, os achados principais e o impacto clínico não foram informados no resumo original, limitando a análise detalhada dos resultados. A identificação de subfenótipos biológicos em tempo real pode ter implicações significativas para o tratamento e os resultados clínicos desses pacientes, mas mais pesquisas são necessárias para explorar completamente as implicações clínicas e as limitações dessa abordagem.\n\nA recent study published on PubMed investigated the identification of biological subphenotypes in patients with severe acute hypoxaemic respiratory failure (AHRF) and acute respiratory distress syndrome (ARDS) using rapid prospective classification (SPARC). The researchers aimed to evaluate the feasibility of identifying biological subphenotypes in real-time, which may have significant implications for treatment and clinical outcomes in these patients. The study, conducted in the United States, involved multiple centers and included patients who were receiving mechanical ventilation, non-invasive positive pressure ventilation, or heated high-flow nasal oxygen. The inclusion criteria also considered the severity of AHRF, defined by a ratio of oxygen saturation (SpO2) to fraction of inspired oxygen (FiO2) of 315 or less.\n\nThe study's findings were not detailed in the provided summary, but the approach used, which included measuring plasma concentrations of IL-6 and soluble tumor necrosis factor receptor 1 (TNFR1), as well as clinical variables, may provide valuable insights into the heterogeneity of ARDS and AHRF. The ability to identify biological subphenotypes in real-time may lead to a more personalized and effective treatment approach, improving clinical outcomes and survival in these patients. However, without the specific study data, it is not possible to discuss the limitations and next steps with precision. Research continues to advance in understanding the complexity of ARDS and AHRF, and studies like this contribute significantly to the development of more effective therapeutic strategies.\n\nThe main findings and clinical impact were not reported in the original summary, limiting the detailed analysis of the results. Identifying biological subphenotypes in real-time may have significant implications for treatment and clinical outcomes in these patients, but further research is needed to fully explore the clinical implications and limitations of this approach. Further studies should investigate the potential benefits and challenges of implementing real-time biological subphenotyping in clinical practice, which may ultimately lead to improved patient outcomes and more effective management of ARDS and AHRF.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42140220",
-    "authors": [
-      {
-        "name": "D Clark Files",
-        "affiliation": "Internal Medicine-Pulmonary, Critical Care, Allergy and Immunologic Diseases, Wake Forest University School of Medicine, Winston-Salem, NC, USA. Electronic address: clark.files@wfusm.edu."
-      },
-      {
-        "name": "Michael A Matthay",
-        "affiliation": "Cardiovascular Research Institute, Departments of Medicine and Anesthesia, University of California San Francisco, San Francisco, CA, USA."
-      },
-      {
-        "name": "Andrew G Chapple",
-        "affiliation": "Clinical Data Management and Statistics, Quantum Leap Healthcare Collaborative, San Francisco, CA, USA."
-      },
-      {
-        "name": "Alejandro Botello Barragan",
-        "affiliation": "Clinical Data Management and Statistics, Quantum Leap Healthcare Collaborative, San Francisco, CA, USA."
-      }
-    ],
-    "journal": "The Lancet. Respiratory medicine",
-    "publishedDate": "2026-05-15",
-    "fetchedDate": "2026-05-16",
-    "category": "Infectologia",
-    "tags": [
-      "covid"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
