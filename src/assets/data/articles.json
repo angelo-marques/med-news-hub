@@ -168,6 +168,49 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42573994",
+    "pmid": "42573994",
+    "doi": "10.1001/jamaneurol.2026.2650",
+    "title": "Plasma Biomarkers for Neocortical Tau Burden.",
+    "titlePt": "Plasma Biomarkers for Neocortical Tau Burden.",
+    "abstract": "Phosphorylated tau-217 (p-tau217) is now an established plasma biomarker for assessing amyloid-&#x3b2; pathology in individuals at risk of Alzheimer disease. However, its performance in identifying advanced neocortical neurofibrillary tangle burden remains suboptimal. Precise assessment of tau pathology is increasingly critical for the rational implementation of anti-amyloid therapies and developing anti-tau interventions. Improved biofluid biomarker-based tau staging could enhance patient stratification and optimize participant selection for clinical care and therapeutic trials. To develop and validate a multiprotein plasma panel to improve identification of neocortical tau pathology beyond p-tau217 alone. This multicenter cohort study included 2 independent observational cohorts, Swedish BioFINDER study and Translational Biomarkers in Aging and Dementia (TRIAD). Cross-sectional clinical data and blood samples were collected between 2017 and 2024. Participants included 560 individuals",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm painel de biomarcadores plasmáticos composto por múltiplas proteínas demonstrou capacidade superior ao p-tau217 isolado na identificação de cargas avançadas de emaranhados neurofibrilares corticais, um marcador crítico da progressão da doença de Alzheimer. Publicado no *JAMA Neurology*, o estudo multicêntrico analisou dados de dois grandes consórcios suecos — o *BioFINDER* e o *TRIAD* — envolvendo 560 participantes recrutados entre 2017 e 2024. Os resultados indicam que a combinação de proteínas plasmáticas, quando comparada ao p-tau217 sozinho, apresentou melhora significativa na sensibilidade e especificidade para detectar estágios avançados de tauopatia neocortical, condição associada à conversão para demência em indivíduos com comprometimento cognitivo leve.\n\nAté então, o p-tau217 era considerado um biomarcador sanguíneo consolidado para estimar a patologia amiloide, mas sua eficácia em prever a deposição de tau no córtex cerebral — etapa-chave na cascata fisiopatológica do Alzheimer — mostrava-se limitada. A nova abordagem, baseada em um painel multiproteico, poderia refinar a estratificação de pacientes em estágios precoces, permitindo uma seleção mais precisa para terapias anti-amiloide e futuras intervenções anti-tau. Os autores destacam que a metodologia proposta não apenas melhora a acurácia diagnóstica, mas também pode reduzir a necessidade de exames invasivos e de alto custo, como a PET-tau, atualmente padrão ouro para avaliação da tauopatia.\n\nEmbora promissor, o estudo apresenta limitações importantes. A população analisada foi composta predominantemente por indivíduos de origem europeia, o que limita a generalização dos achados para outros grupos étnicos. Além disso, tratou-se de um estudo transversal, sem acompanhamento longitudinal para avaliar a progressão da doença ao longo do tempo. Os autores não reportaram a idade média dos participantes, a distribuição por sexo ou a prevalência de comorbidades, fatores que podem influenciar os níveis de biomarcadores. Também não foram fornecidos dados sobre a reprodutibilidade do painel em diferentes laboratórios ou plataformas tecnológicas.\n\nOs próximos passos incluem a validação prospectiva do painel em coortes mais diversas e heterogêneas, bem como a integração com dados clínicos e de imagem para aprimorar modelos preditivos. A implementação clínica dependerá ainda de estudos que demonstrem impacto na tomada de decisão terapêutica e na redução de custos em saúde. A descoberta reforça, contudo, o potencial dos biomarcadores plasmáticos como ferramentas não invasivas para monitorar a progressão do Alzheimer, especialmente em cenários de triagem populacional e recrutamento para ensaios clínicos.\n\n---\n\n**English version**\n\nA multiprotein plasma biomarker panel outperformed phosphorylated tau-217 (p-tau217) alone in identifying advanced neocortical neurofibrillary tangle burden, a critical marker of Alzheimer’s disease progression, according to a multicenter cohort study published in *JAMA Neurology*. The research analyzed data from two Swedish cohorts—the *BioFINDER* and *TRIAD* studies—enrolling 560 participants between 2017 and 2024. The findings suggest that the combined protein panel significantly enhances sensitivity and specificity for detecting late-stage neocortical tau pathology compared to p-tau217 alone, a distinction linked to conversion to dementia in individuals with mild cognitive impairment.\n\nWhile p-tau217 has been established as a reliable blood-based biomarker for amyloid-β pathology, its performance in predicting cortical tau accumulation—an intermediate step in Alzheimer’s pathophysiology—remains suboptimal. The proposed multiprotein approach could refine patient stratification in early disease stages, improving selection for anti-amyloid therapies and future anti-tau interventions. The authors emphasize that this method not only enhances diagnostic accuracy but also has the potential to reduce reliance on invasive and costly procedures, such as tau PET imaging, currently the gold standard for tauopathy assessment.\n\nDespite its promise, the study has notable limitations. The cohorts were predominantly composed of individuals of European descent, restricting the generalizability of findings to other ethnic groups. Additionally, the research was cross-sectional, lacking longitudinal follow-up to assess disease progression over time. The mean age of participants, sex distribution, and prevalence of comorbidities—factors that may influence biomarker levels—were not reported. The reproducibility of the panel across different laboratories or assay platforms was also not addressed.\n\nFuture research should focus on prospective validation in more diverse and heterogeneous populations, as well as integration with clinical and imaging data to refine predictive models. Clinical implementation will require studies demonstrating impact on therapeutic decision-making and cost-effectiveness in healthcare settings. Nevertheless, the findings underscore the potential of plasma biomarkers as non-invasive tools for monitoring Alzheimer’s progression, particularly in population screening and clinical trial recruitment scenarios.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573994",
+    "authors": [
+      {
+        "name": "Guglielmo Di Molfetta",
+        "affiliation": "Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, The Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden."
+      },
+      {
+        "name": "Wagner S Brum",
+        "affiliation": "Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, The Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden."
+      },
+      {
+        "name": "Ilaria Pola",
+        "affiliation": "Graduate Program in Biological Sciences: Biochemistry, Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, Brazil."
+      },
+      {
+        "name": "K&#xfc;bra Tan",
+        "affiliation": "Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, The Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden."
+      }
+    ],
+    "journal": "JAMA neurology",
+    "publishedDate": "2026-08-10",
+    "fetchedDate": "2026-08-12",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "dementia",
+      "therapeutic"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42342009",
     "pmid": "42342009",
     "doi": "10.1016/j.amjcard.2026.06.015",
@@ -206,7 +249,7 @@
       "metabolic",
       "obesity"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12692,50 +12735,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41249709",
-    "pmid": "41249709",
-    "doi": "10.1007/s00380-025-02634-3",
-    "title": "Impact of red cell distribution width in school-age children with congenital heart disease.",
-    "titlePt": "Impact of red cell distribution width in school-age children with congenital heart disease.",
-    "abstract": "Red cell distribution width is a prognostic marker of adverse outcomes in adults with heart disease, including congenital heart disease. However, its significance has not been clarified in pediatric patients. We investigated the relationship between red cell distribution width and cardiovascular events in school-age children with congenital heart disease and uniform reference intervals. We performed a retrospective cohort study of pediatric patients with congenital heart disease between January 2018 and March 2023. Children aged 7-15 years were included, and the results of the first blood test during the study period were considered as baseline data. Cardiovascular events were defined as all-cause mortality, non-scheduled hospitalizations for cardiovascular reasons, heart failure, arrhythmias, thromboembolism, and unplanned intervention. In total, 101 children were included. The median red cell distribution width was 12.3% (interquartile range 11.9-12.8%). Cardiovascular events occurre",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a relação entre a distribuição de largura de células vermelhas (red cell distribution width, RDW) e eventos cardiovasculares em crianças em idade escolar com doença cardíaca congênita. Embora a RDW seja um marcador prognóstico de resultados adversos em adultos com doença cardíaca, incluindo doença cardíaca congênita, sua importância em pacientes pediátricos ainda não havia sido esclarecida. Os pesquisadores realizaram um estudo de coorte retrospectivo de pacientes pediátricos com doença cardíaca congênita entre janeiro de 2018 e março de 2023, incluindo crianças com idades entre 7 e 15 anos. Os resultados do primeiro exame de sangue durante o período de estudo foram considerados como dados de linha de base. Foram definidos eventos cardiovasculares como morte por qualquer causa, hospitalizações não agendadas por razões cardiovasculares, insuficiência cardíaca, arritmias, tromboembolismo e intervenções não planejadas. No total, 101 crianças foram incluídas no estudo, com uma mediana de RDW de 12,3% (intervalo interquartil 11,9-12,8%). Infelizmente, não foi informado o número exato de eventos cardiovasculares ocorridos durante o estudo. O impacto clínico dos achados ainda precisa ser mais bem compreendido, mas o estudo sugere que a RDW pode ser um marcador importante para monitorar a saúde cardiovascular de crianças com doença cardíaca congênita. Limitações do estudo incluem a natureza retrospectiva e a falta de informações sobre o seguimento a longo prazo. Próximos passos incluem a realização de estudos prospectivos para confirmar os achados e explorar a utilidade da RDW como ferramenta de previsão de eventos cardiovasculares em pacientes pediátricos.\n\nA recent study published in PubMed investigated the relationship between red cell distribution width (RDW) and cardiovascular events in school-age children with congenital heart disease. Although RDW is a prognostic marker of adverse outcomes in adults with heart disease, including congenital heart disease, its significance in pediatric patients had not been clarified. The researchers conducted a retrospective cohort study of pediatric patients with congenital heart disease between January 2018 and March 2023, including children aged 7-15 years. The results of the first blood test during the study period were considered as baseline data. Cardiovascular events were defined as all-cause mortality, non-scheduled hospitalizations for cardiovascular reasons, heart failure, arrhythmias, thromboembolism, and unplanned intervention. A total of 101 children were included in the study, with a median RDW of 12.3% (interquartile range 11.9-12.8%). Unfortunately, the exact number of cardiovascular events that occurred during the study was not reported. The clinical impact of the findings still needs to be better understood, but the study suggests that RDW may be an important marker for monitoring the cardiovascular health of children with congenital heart disease. Limitations of the study include the retrospective nature and the lack of information on long-term follow-up. Next steps include conducting prospective studies to confirm the findings and exploring the utility of RDW as a tool for predicting cardiovascular events in pediatric patients.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41249709",
-    "authors": [
-      {
-        "name": "Kota Nagaoka",
-        "affiliation": "Pediatric Heart Disease and Adult Congenital Heart Disease Center, Showa Medical University Hospital, 1-5-8, Hatanodai, Shinagawa-ku, Tokyo, 142-8666, Japan. kotanagaoka@yahoo.co.jp."
-      },
-      {
-        "name": "Daishiro Yamaoka",
-        "affiliation": "Pediatric Heart Disease and Adult Congenital Heart Disease Center, Showa Medical University Hospital, 1-5-8, Hatanodai, Shinagawa-ku, Tokyo, 142-8666, Japan."
-      },
-      {
-        "name": "Mariko Saito",
-        "affiliation": "Pediatric Heart Disease and Adult Congenital Heart Disease Center, Showa Medical University Hospital, 1-5-8, Hatanodai, Shinagawa-ku, Tokyo, 142-8666, Japan."
-      },
-      {
-        "name": "Yoko Ishii",
-        "affiliation": "Pediatric Heart Disease and Adult Congenital Heart Disease Center, Showa Medical University Hospital, 1-5-8, Hatanodai, Shinagawa-ku, Tokyo, 142-8666, Japan."
-      }
-    ],
-    "journal": "Heart and vessels",
-    "publishedDate": "2026-05-15",
-    "fetchedDate": "2026-05-16",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "heart",
-      "pediatric",
-      "children"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
