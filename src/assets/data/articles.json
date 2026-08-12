@@ -3129,6 +3129,47 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42143213",
+    "pmid": "42143213",
+    "doi": "10.1080/07853890.2026.2673631",
+    "title": "Endovascular thrombectomy versus best medical therapy for acute vertebrobasilar artery occlusion in patients with low NIHSS scores: a&#xa0;meta-analysis.",
+    "titlePt": "Endovascular thrombectomy versus best medical therapy for acute vertebrobasilar artery occlusion in patients with low NIHSS scores: a&#xa0;meta-analysis.",
+    "abstract": "The efficacy of endovascular thrombectomy (EVT) for acute vertebrobasilar artery occlusion (VBAO) presenting with mild symptoms (National Institutes of Health Stroke Scale [NIHSS] score &#x2264;10) remains uncertain. This meta-analysis aimed to compare the effectiveness and safety of EVT versus best medical therapy (BMT) in this population. We systematically searched PubMed, Embase, and the Cochrane Central Register of Controlled Trials from inception to September 2025 for comparative studies. The primary outcome was 90-day excellent functional outcome (modified Rankin Scale [mRS] score 0-1). Secondary outcomes included functional independence (mRS 0-2), symptomatic intracranial hemorrhage (sICH), and all-cause mortality. Pooled odds ratios (OR) with 95% confidence intervals (CI) were calculated using a random-effects model. Seven observational studies involving 3,107 patients were included. In unadjusted analyses, EVT was associated with a higher rate of excellent functional outcome (",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recém-publicado no *PubMed* (DOI: 10.1080/07853890.2026.2673631) investigou a eficácia da trombectomia endovascular (EVT) em comparação ao tratamento médico otimizado (BMT) para oclusões agudas da artéria vertebrobasilar (VBAO) em pacientes com sintomas leves, definidos por escores ≤10 na *National Institutes of Health Stroke Scale* (NIHSS). A pesquisa, conduzida por meio de meta-análise de sete estudos observacionais (n=3.107 pacientes), buscou esclarecer se a intervenção mecânica supera a terapia convencional em desfechos funcionais e segurança.\n\nOs resultados preliminares, ainda não ajustados para variáveis de confusão, indicaram uma associação entre EVT e maior probabilidade de alcançar excelentes desfechos funcionais em 90 dias (escala *modified Rankin Scale*, mRS 0–1). No entanto, os achados não esclareceram diferenças significativas em relação à independência funcional (mRS 0–2), hemorragia intracraniana sintomática (sICH) ou mortalidade por todas as causas. A ausência de dados ajustados e a heterogeneidade metodológica entre os estudos incluídos limitam a robustez das conclusões, reforçando a necessidade de ensaios clínicos randomizados para validar esses achados. Até o momento, a literatura mantém lacunas sobre protocolos ideais para VBAO com NIHSS baixo, um cenário clínico ainda pouco explorado.\n\n---\n\n**English version**\n\nA recent study published in *PubMed* (DOI: 10.1080/07853890.2026.2673631) examined the efficacy of endovascular thrombectomy (EVT) compared to best medical therapy (BMT) for acute vertebrobasilar artery occlusion (VBAO) in patients with mild symptoms, defined by *National Institutes of Health Stroke Scale* (NIHSS) scores ≤10. The meta-analysis, which included seven observational studies (n=3,107 patients), aimed to determine whether mechanical thrombectomy outperforms conventional treatment in functional outcomes and safety.\n\nPreliminary findings, based on unadjusted analyses, suggested EVT was associated with a higher likelihood of achieving excellent functional outcomes at 90 days (*modified Rankin Scale*, mRS 0–1). However, no significant differences were observed in functional independence (mRS 0–2), symptomatic intracranial hemorrhage (sICH), or all-cause mortality. The lack of adjusted data and methodological heterogeneity across included studies constrain the strength of conclusions, underscoring the need for randomized controlled trials to validate these results. Current literature remains inconclusive regarding optimal management strategies for VBAO with low NIHSS, a clinical scenario that remains underexplored.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42143213",
+    "authors": [
+      {
+        "name": "Yaqin Qin",
+        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
+      },
+      {
+        "name": "Zhuo Min",
+        "affiliation": "Department of Neurology and Centre for Clinical Neuroscience, Daping Hospital, Army Medical Centre of PLA, Army Medical University, Chongqing, China."
+      },
+      {
+        "name": "Guangxin Sun",
+        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
+      },
+      {
+        "name": "Hui Xu",
+        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
+      }
+    ],
+    "journal": "Annals of medicine",
+    "publishedDate": "2026-07-17",
+    "fetchedDate": "2026-08-12",
+    "category": "Neurologia",
+    "tags": [
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42467374",
     "pmid": "42467374",
     "doi": "10.1007/s11523-026-01231-2",
@@ -12689,51 +12730,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42144689",
-    "pmid": "42144689",
-    "doi": "10.1002/ccd.70656",
-    "title": "Renal Denervation in Cardiovascular Diseases: Mechanisms, Evidence, and Expanding Applications.",
-    "titlePt": "Renal Denervation in Cardiovascular Diseases: Mechanisms, Evidence, and Expanding Applications.",
-    "abstract": "Renal denervation (RDN) is a minimally invasive technique that disrupts renal sympathetic nerve activity, reducing sympathetic overdrive implicated in hypertension and other cardiovascular disorders. After early enthusiasm waned following SYMPLICITY HTN-3, subsequent rigorously designed trials re-established its efficacy. This review summarizes mechanistic insights, clinical evidence, and emerging applications of RDN. Data from randomized trials, meta-analyses, registries, and translational studies were evaluated to assess their safety, efficacy, and broader therapeutic potential. Recent trials (SPYRAL HTN-OFF MED, RADIANCE HTN-TRIO, RADIANCE II) show consistent and durable systolic blood pressure reductions of approximately 5-10&#x2009;mmHg with excellent safety. Beyond resistant hypertension, preliminary studies suggest benefits in heart failure (HFrEF and HFpEF), atrial fibrillation when combined with pulmonary vein isolation, chronic kidney disease, and metabolic syndrome. Mechanis",
-    "journalisticSummary": "A desativação renal (RDN) é uma técnica minimamente invasiva que interrompe a atividade nervosa simpática renal, reduzindo o excesso de atividade simpática implicada na hipertensão e em outros distúrbios cardiovasculares. Após o entusiasmo inicial ter diminuído após o estudo SYMPLICITY HTN-3, ensaios clínicos subsequentes e rigorosamente projetados reestabeleceram sua eficácia. Este resumo visa sintetizar as perspectivas mecanísticas, as evidências clínicas e as aplicações emergentes da RDN. Foram avaliados dados de ensaios clínicos randomizados, meta-análises, registros e estudos de tradução para avaliar sua segurança, eficácia e potencial terapêutico mais amplo. Ensaios clínicos recentes (SPYRAL HTN-OFF MED, RADIANCE HTN-TRIO, RADIANCE II) mostram reduções consistentes e duradouras da pressão arterial sistólica de aproximadamente 5-10 mmHg, com excelente segurança. Além da hipertensão resistente, estudos preliminares sugerem benefícios na insuficiência cardíaca (HFrEF e HFpEF), fibrilação atrial quando combinada com isolamento da veia pulmonar, doença renal crônica e síndrome metabólica. No entanto, não foi especificado no resumo original quais são os próximos passos para a implementação e expansão da RDN em diferentes contextos clínicos.\n\nA desativação renal é uma técnica promissora que pode ser útil em uma variedade de condições cardiovasculares. No entanto, é necessário mais pesquisa para entender melhor seus mecanismos e aplicações. Limitações do estudo incluem a falta de informação sobre os próximos passos para a implementação da RDN. Mais estudos são necessários para confirmar os achados e explorar novas aplicações para a desativação renal.\n\nThe renal denervation (RDN) is a minimally invasive technique that disrupts renal sympathetic nerve activity, reducing sympathetic overdrive implicated in hypertension and other cardiovascular disorders. After the initial enthusiasm waned following the SYMPLICITY HTN-3 study, subsequent rigorously designed trials re-established its efficacy. This review aims to synthesize the mechanistic insights, clinical evidence, and emerging applications of RDN. Data from randomized trials, meta-analyses, registries, and translational studies were evaluated to assess their safety, efficacy, and broader therapeutic potential. Recent trials (SPYRAL HTN-OFF MED, RADIANCE HTN-TRIO, RADIANCE II) show consistent and durable systolic blood pressure reductions of approximately 5-10 mmHg, with excellent safety. Beyond resistant hypertension, preliminary studies suggest benefits in heart failure (HFrEF and HFpEF), atrial fibrillation when combined with pulmonary vein isolation, chronic kidney disease, and metabolic syndrome. However, the original abstract did not specify the next steps for the implementation and expansion of RDN in different clinical contexts.\n\nRDN is a promising technique that may be useful in a variety of cardiovascular conditions. However, further research is needed to better understand its mechanisms and applications. Limitations of the study include the lack of information on the next steps for RDN implementation. More studies are needed to confirm the findings and explore new applications for renal denervation.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42144689",
-    "authors": [
-      {
-        "name": "Ameer Awashra",
-        "affiliation": "Department of Medicine, An Najah National University, Nablus, Palestine."
-      },
-      {
-        "name": "Haroun Neiroukh",
-        "affiliation": "Department of Medicine, An Najah National University, Nablus, Palestine."
-      },
-      {
-        "name": "Lubna Alnatour",
-        "affiliation": "School of Medicine, The University of Jordan, Amman, Jordan."
-      },
-      {
-        "name": "Nada S Jibril",
-        "affiliation": "Faculty of Medicine, Menoufia University, Menoufia, Egypt."
-      }
-    ],
-    "journal": "Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography &amp; Interventions",
-    "publishedDate": "2026-05-18",
-    "fetchedDate": "2026-05-18",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "heart",
-      "atrial",
-      "hypertension",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
