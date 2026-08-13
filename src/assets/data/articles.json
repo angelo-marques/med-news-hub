@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-42589583",
+    "pmid": "42589583",
+    "doi": "10.3390/ijms27156930",
+    "title": "Next-Generation Sequencing in Colorectal Cancer: Real-World Molecular Profiling and Clinical Correlations.",
+    "titlePt": "Next-Generation Sequencing in Colorectal Cancer: Real-World Molecular Profiling and Clinical Correlations.",
+    "abstract": "Next-generation sequencing (NGS) has become a cornerstone of precision oncology in colorectal cancer (CRC), although its role in routine patient stratification remains incompletely defined. This retrospective single-centre study characterised the molecular landscape of clinically selected CRC patients undergoing routine NGS and explored associations between genomic alterations and clinicopathological features. 97 eligible patients who underwent targeted NGS using two validated sequencing platforms were selected. Demographic, clinicopathological, and molecular data were integrated, and associations were evaluated using descriptive statistics, exploratory association testing, principal component analysis, and multiple correspondence analysis. At least one reportable genetic alteration was identified in 91 patients (93.8%), comprising 198 alteration events across multiple cancer-related genes. The most frequently altered genes with pathogenic or likely pathogenic variants were TP53 (55.7%",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo de centro único avaliou o perfil molecular de pacientes com câncer colorretal (CCR) submetidos a sequenciamento de nova geração (NGS) em ambiente clínico, buscando correlacionar alterações genômicas com características clinicopatológicas. Publicado na *International Journal of Molecular Sciences*, a pesquisa analisou dados de 97 pacientes elegíveis submetidos a NGS direcionado por duas plataformas validadas, integrando informações demográficas, clínicas e moleculares. Os resultados revelaram que 93,8% dos pacientes apresentaram pelo menos uma alteração genética reportável, totalizando 198 eventos em genes relacionados ao câncer. Entre os genes mais frequentemente alterados com variantes patogênicas ou provavelmente patogênicas, o *TP53* destacou-se com 55,7% dos casos, seguido por *APC* (44,3%) e *KRAS* (32,0%). Além disso, foram identificadas alterações em genes menos comuns, como *ERBB2* (8,2%) e *FGFR1* (6,2%), sugerindo potenciais alvos terapêuticos em subgrupos específicos.\n\nEmbora o estudo tenha demonstrado a viabilidade do NGS na estratificação molecular de pacientes com CCR em um contexto real, suas limitações incluem o desenho retrospectivo e a amostra reduzida de um único centro, o que pode restringir a generalização dos achados. A ausência de dados sobre desfechos clínicos, como resposta terapêutica ou sobrevida, impede uma análise mais robusta do impacto dessas alterações na prática clínica. Os autores destacam a necessidade de estudos prospectivos multicêntricos para validar essas correlações e explorar o potencial do NGS na personalização de terapias-alvo, especialmente em pacientes com mutações menos frequentes. Esses achados reforçam o papel do NGS como ferramenta complementar na oncologia de precisão, mas também sublinham os desafios na integração desses dados em protocolos assistenciais padronizados.\n\n---\n\n**English version**\n\nA single-centre retrospective study has mapped the molecular landscape of clinically selected colorectal cancer (CRC) patients undergoing next-generation sequencing (NGS), aiming to correlate genomic alterations with clinicopathological features. Published in the *International Journal of Molecular Sciences*, the research analysed data from 97 eligible patients who underwent targeted NGS using two validated sequencing platforms, integrating demographic, clinical, and molecular data. The findings revealed that 93.8% of patients harboured at least one reportable genetic alteration, totalling 198 events across cancer-related genes. Among the most frequently altered genes with pathogenic or likely pathogenic variants, *TP53* was the most common (55.7%), followed by *APC* (44.3%) and *KRAS* (32.0%). Less common alterations, such as in *ERBB2* (8.2%) and *FGFR1* (6.2%), were also identified, suggesting potential therapeutic targets in specific subgroups.\n\nWhile the study demonstrates the feasibility of NGS for molecular stratification in CRC within a real-world setting, its retrospective design and single-centre cohort limit the generalisability of the results. The absence of clinical outcome data, such as treatment response or survival, precludes a more comprehensive assessment of the impact of these alterations on patient care. The authors emphasise the need for prospective multicentre studies to validate these correlations and further explore the role of NGS in personalised targeted therapies, particularly for patients with rare mutations. These findings underscore NGS as a complementary tool in precision oncology, while also highlighting the challenges in integrating genomic data into standardised clinical protocols.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42589583",
+    "authors": [
+      {
+        "name": "Afonso Cunha",
+        "affiliation": "School of Medicine and Biomedical Sciences, University of Porto, Rua Jorge de Viterbo Ferreira, 228, 4050-313 Porto, Portugal."
+      },
+      {
+        "name": "Carolina Robalo",
+        "affiliation": "Unidade de Cirurgia Colorretal, Servi&#xe7;o de Cirurgia Digestiva e Extradigestiva, Unidade Local de Sa&#xfa;de de Santo Ant&#xf3;nio, 4050-313 Porto, Portugal."
+      },
+      {
+        "name": "Carolina Lemos",
+        "affiliation": "Unit for Multidisciplinary Research in Biomedicine, School of Medicine and Biomedical Sciences, University of Porto, Rua Jorge de Viterbo Ferreira, 228, 4050-313 Porto, Portugal."
+      },
+      {
+        "name": "Nuno Jorge Lamas",
+        "affiliation": "ITR-Laboratory for Integrative and Translational Research in Population Health, 4050-313 Porto, Portugal."
+      }
+    ],
+    "journal": "International journal of molecular sciences",
+    "publishedDate": "2026-08-13",
+    "fetchedDate": "2026-08-13",
+    "category": "Genômica",
+    "tags": [
+      "cancer",
+      "oncology",
+      "genomic",
+      "genetic",
+      "gene"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42565556",
     "pmid": "42565556",
     "doi": "10.1093/oncolo/oyag308",
@@ -201,7 +246,7 @@
       "gene",
       "rna"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12689,48 +12734,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42149320",
-    "pmid": "42149320",
-    "doi": "10.1007/s10840-026-02286-x",
-    "title": "Same-day discharge versus overnight stay after catheter ablation for atrial fibrillation: a systematic review and meta-analysis.",
-    "titlePt": "Same-day discharge versus overnight stay after catheter ablation for atrial fibrillation: a systematic review and meta-analysis.",
-    "abstract": "The safety of same day discharge after atrial fibrillation ablation remains uncertain because prior evidence relied mainly on heterogeneous observational studies with limited control of confounding. This systematic review and meta-analysis compared structured same day discharge with overnight stay. We searched MEDLINE, Embase, Web of Science, Scopus, CENTRAL, Epistemonikos and LILACS from 1994 to May 2025 for randomized and nonrandomized controlled studies of adults undergoing atrial fibrillation ablation with pulmonary vein isolation. Comparisons were protocolized same day discharge versus overnight hospitalization. Outcomes were all-cause mortality, short term (30-day) unplanned medical contact (readmissions or emergency visits), and procedural complications. Random-effects models generated pooled odds ratios (ORs) with 95% confidence intervals. Nineteen studies (26,335 patients) met inclusion criteria, including two randomized trials and seventeen non-randomized studies. Same day di",
-    "journalisticSummary": "A segurança da alta hospitalar no mesmo dia após ablação de fibrilação atrial ainda é um tema de debate, pois as evidências anteriores se baseavam principalmente em estudos observacionais heterogêneos com controle limitado de fatores de confusão. Um estudo recente publicado no PubMed, com DOI 10.1007/s10840-026-02286-x, realizou uma revisão sistemática e metanálise para comparar a alta hospitalar no mesmo dia com a internação noturna após ablação de fibrilação atrial. Os autores buscaram estudos randomizados e não randomizados controlados em bancos de dados como MEDLINE, Embase, Web of Science, Scopus, CENTRAL, Epistemonikos e LILACS, de 1994 a maio de 2025, que avaliassem adultos submetidos à ablação de fibrilação atrial com isolamento de veias pulmonares. As comparações foram feitas entre a alta hospitalar no mesmo dia e a internação noturna, com desfechos como mortalidade por todas as causas, contato médico não planejado a curto prazo (30 dias) e complicações procedimentais.\n\nOs resultados mostraram que 19 estudos, incluindo 26.335 pacientes, atenderam aos critérios de inclusão, sendo dois estudos randomizados e 17 não randomizados. A análise utilizou modelos de efeitos aleatórios para gerar razões de odds (ORs) com intervalos de confiança de 95%. Infelizmente, não foi possível acessar os detalhes completos dos achados principais, como as razões de odds e os intervalos de confiança, pois essa informação não foi fornecida no resumo original. No entanto, é importante destacar que o impacto clínico dessa pesquisa pode ser significativo, pois a alta hospitalar no mesmo dia pode reduzir os custos e melhorar a experiência do paciente, desde que seja segura e eficaz. As limitações do estudo incluem a heterogeneidade dos estudos incluídos e a falta de controle de fatores de confusão em alguns estudos. Os próximos passos incluem a realização de estudos adicionais para confirmar os achados e avaliar a segurança e eficácia a longo prazo da alta hospitalar no mesmo dia após ablação de fibrilação atrial.\n\nA segurança da alta hospitalar no mesmo dia após ablação de fibrilação atrial é um tema importante que requer mais pesquisas para esclarecer as incertezas atuais. Com a continuação das investigações, é possível que os resultados obtenham uma maior clareza e contribuam para a melhoria da assistência aos pacientes com fibrilação atrial.\n\nThe safety of same-day discharge after atrial fibrillation ablation remains uncertain, as prior evidence relied mainly on heterogeneous observational studies with limited control of confounding factors. A recent study published on PubMed, with DOI 10.1007/s10840-026-02286-x, conducted a systematic review and meta-analysis to compare same-day discharge with overnight hospitalization after atrial fibrillation ablation. The authors searched for randomized and non-randomized controlled studies in databases such as MEDLINE, Embase, Web of Science, Scopus, CENTRAL, Epistemonikos, and LILACS, from 1994 to May 2025, that evaluated adults undergoing atrial fibrillation ablation with pulmonary vein isolation. Comparisons were made between same-day discharge and overnight hospitalization, with outcomes including all-cause mortality, short-term (30-day) unplanned medical contact, and procedural complications.\n\nThe results showed that 19 studies, including 26,335 patients, met the inclusion criteria, with two randomized trials and 17 non-randomized studies. Unfortunately, it was not possible to access the complete details of the main findings, such as the odds ratios and confidence intervals, as this information was not provided in the original abstract. However, it is essential to highlight that the clinical impact of this research may be significant, as same-day discharge can reduce costs and improve patient experience, as long as it is safe and effective. The limitations of the study include the heterogeneity of the included studies and the lack of control of confounding factors in some studies. The next steps include conducting additional studies to confirm the findings and evaluate the long-term safety and efficacy of same-day discharge after atrial fibrillation ablation.\n\nThe safety of same-day discharge after atrial fibrillation ablation is an important topic that requires further research to clarify the current uncertainties. With continued investigation, it is possible that the results will become clearer and contribute to improved patient care for those with atrial fibrillation.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42149320",
-    "authors": [
-      {
-        "name": "Mart&#xed;n Rebolledo Del Toro",
-        "affiliation": "Division of Electrophysiology, Hospital Universitario San Ignacio, Bogota, Colombia. rebolledom@javeriana.edu.co."
-      },
-      {
-        "name": "Maria Alejandra Robledo Gomez",
-        "affiliation": "Department of Internal Medicine, Pontificia Universidad Javeriana, Bogota, Colombia. rebolledom@javeriana.edu.co."
-      },
-      {
-        "name": "Oscar Mauricio Mu&#xf1;oz-Velandia",
-        "affiliation": "Department of Internal Medicine, Pontificia Universidad Javeriana, Bogota, Colombia."
-      },
-      {
-        "name": "Juan Felipe Betancourt Rodriguez",
-        "affiliation": "Department of Internal Medicine, Pontificia Universidad Javeriana, Bogota, Colombia."
-      }
-    ],
-    "journal": "Journal of interventional cardiac electrophysiology : an international journal of arrhythmias and pacing",
-    "publishedDate": "2026-05-18",
-    "fetchedDate": "2026-05-18",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
