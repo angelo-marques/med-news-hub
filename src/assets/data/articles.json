@@ -45,6 +45,50 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42585316",
+    "pmid": "42585316",
+    "doi": "10.1126/sciadv.aee2305",
+    "title": "Prediction of mild cognitive impairment progression using time-sensitive multimodal biomarkers.",
+    "titlePt": "Prediction of mild cognitive impairment progression using time-sensitive multimodal biomarkers.",
+    "abstract": "Alzheimer's disease (AD) develops silently for years before symptoms emerge, making early identification of at-risk individuals essential for prevention trials and early intervention. We tested whether combining neurophysiological, imaging, and blood biomarkers improves prediction of progression to mild cognitive impairment (MCI) in cognitively unimpaired older adults with a family history of AD (n&#xa0;=&#xa0;102; 31 progressors; mean follow-up of 5.9 years). Magnetoencephalography, magnetic resonance imaging, plasma biomarkers, and amyloid and tau positron emission tomography each captured complementary aspects of disease biology. Multimodal models predicted progression more accurately than demographic and genetic factors alone. Higher MEG alpha power was associated with increased near-term risk, whereas higher gamma activity predicted lower near-term risk; both effects weakened over time. Higher neocortical amyloid burden predicted increasing risk over follow-up, whereas plasma biom",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado na *Science Advances* apresenta um avanço significativo na detecção precoce de indivíduos com alto risco de desenvolver comprometimento cognitivo leve (CCL), condição que pode preceder a doença de Alzheimer. Pesquisadores analisaram dados de 102 adultos mais velhos cognitivamente intactos, mas com histórico familiar da doença, acompanhados por até 5,9 anos. Os resultados demonstram que a combinação de múltiplos biomarcadores — incluindo neurofisiológicos (magnetoencefalografia), de imagem (ressonância magnética e tomografia por emissão de pósitrons para amiloide e tau), e sanguíneos — melhora substancialmente a capacidade de prever quem progredirá para CCL em comparação a modelos baseados apenas em fatores demográficos ou genéticos.\n\nEntre os achados mais relevantes, destaca-se o papel da magnetoencefalografia (MEG): uma maior potência na atividade alpha foi associada a um risco imediato elevado de progressão, enquanto níveis elevados de atividade gama indicaram menor risco a curto prazo — embora ambos os efeitos tenham se atenuado ao longo do tempo. Além disso, a carga neocortical de amiloide, mensurada por PET, mostrou-se um preditor robusto de risco crescente ao longo do acompanhamento. Os biomarcadores plasmáticos também contribuíram para o modelo, embora sua contribuição específica não tenha sido detalhada no resumo. Esses resultados reforçam a hipótese de que a doença de Alzheimer se desenvolve de forma silenciosa por anos, exigindo abordagens multimodais para uma identificação precisa antes do surgimento de sintomas clínicos.\n\nDo ponto de vista clínico, a integração dessas ferramentas pode otimizar a seleção de participantes para ensaios clínicos de prevenção e permitir intervenções mais precoces, potencialmente retardando ou até evitando a progressão para demência. No entanto, o estudo apresenta limitações importantes: a amostra reduzida (n=102) e a ausência de validação externa em populações mais diversas restringem a generalização dos achados. Além disso, a contribuição relativa de cada biomarcador no modelo combinado não foi explicitada, o que limita a interpretação de sua aplicabilidade prática. Os próximos passos incluem a replicação dos resultados em coortes maiores e a avaliação da custo-efetividade dessas abordagens em contextos de saúde pública.\n\n---\n\n**English version**\n\nA study published in *Science Advances* offers a promising advance in the early identification of individuals at high risk of progressing to mild cognitive impairment (MCI), a condition that may precede Alzheimer’s disease (AD). Researchers analyzed data from 102 cognitively unimpaired older adults with a family history of AD, followed for up to 5.9 years. The findings demonstrate that combining multimodal biomarkers—including neurophysiological (magnetoencephalography), imaging (magnetic resonance imaging and positron emission tomography for amyloid and tau), and blood-based markers—significantly improves the prediction of MCI progression compared to models relying solely on demographic or genetic factors.\n\nKey findings highlight the role of magnetoencephalography (MEG) in risk stratification: higher alpha power was associated with an increased near-term risk of progression, while elevated gamma activity indicated lower short-term risk—though both effects diminished over time. Additionally, neocortical amyloid burden, measured via PET, emerged as a strong predictor of increasing risk throughout the follow-up period. Plasma biomarkers also contributed to the model, though their specific role was not detailed in the abstract. These results support the hypothesis that AD develops silently for years, necessitating multimodal approaches for accurate early identification before clinical symptoms arise.\n\nClinically, integrating these tools could enhance participant selection for prevention trials and enable earlier interventions that may delay or prevent progression to dementia. However, the study has notable limitations: the small sample size (n=102) and lack of external validation in diverse populations restrict the generalizability of the findings. Furthermore, the relative contribution of each biomarker in the combined model was not specified, limiting insights into practical applicability. Future steps should involve replicating these results in larger cohorts and assessing the cost-effectiveness of such approaches in public health settings.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42585316",
+    "authors": [
+      {
+        "name": "Jonathan Gallego-Rudolf",
+        "affiliation": "Douglas Research Centre, McGill University, Montreal, Canada."
+      },
+      {
+        "name": "Alex I Wiesman",
+        "affiliation": "McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, Montreal, Canada."
+      },
+      {
+        "name": "Yara Yakoub",
+        "affiliation": "McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, Montreal, Canada."
+      },
+      {
+        "name": "Henrik Zetterberg",
+        "affiliation": "Department of Biomedical Physiology and Kinesiology, Simon Fraser University, Burnaby, Canada."
+      }
+    ],
+    "journal": "Science advances",
+    "publishedDate": "2026-08-12",
+    "fetchedDate": "2026-08-13",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "cognitive",
+      "genetic",
+      "gene"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42565556",
     "pmid": "42565556",
     "doi": "10.1093/oncolo/oyag308",
@@ -203,7 +247,7 @@
       "genomic",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12693,47 +12737,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42154216",
-    "pmid": "42154216",
-    "doi": "10.1111/pace.70296",
-    "title": "Empiric and Trigger-Guided Superior Vena Cava Isolation in AF Ablation: Systematic Review and Meta-Analysis.",
-    "titlePt": "Empiric and Trigger-Guided Superior Vena Cava Isolation in AF Ablation: Systematic Review and Meta-Analysis.",
-    "abstract": "Superior vena cava isolation (SVCI) is performed as an adjunct to pulmonary vein isolation (PVI) for atrial fibrillation, yet whether an empiric or trigger-guided strategy is preferable remains uncertain. Prior meta-analyses have been largely restricted to index procedures in paroxysmal AF and have not explicitly stratified by ablation strategy. We sought to address these gaps through a systematic review of available randomized evidence. Major databases were searched through November 2025 for RCTs comparing PVI+SVCI versus PVI alone. Trials were stratified by strategy: empiric SVCI (performed irrespective of SVC ectopy) or trigger-guided SVCI (performed only upon demonstrated SVC triggers). The primary outcome was atrial tachyarrhythmia recurrence (&#x2265;30 s) beyond the blanking period. Random-effects models, pre-specified subgroup analyses, meta-regression, and GRADE certainty assessment were performed. Eight RCTs (n = 1231) were included; most enrolled paroxysmal AF, while two inc",
-    "journalisticSummary": "A isolamento da veia cava superior (SVCI) é uma técnica utilizada em conjunto com a isolamento da veia pulmonar (PVI) para o tratamento da fibrilação atrial (FA), mas ainda há incerteza sobre qual estratégia é mais eficaz: a abordagem empírica ou a abordagem guiada por gatilhos. Estudos anteriores foram limitados a procedimentos de FA paroxística e não estratificaram explicitamente as estratégias de ablação. Um estudo recente publicado no PubMed, com DOI 10.1111/pace.70296, buscou preencher essas lacunas por meio de uma revisão sistemática e metanálise de ensaios clínicos randomizados (ECRs). Foram incluídos oito ECRs (n = 1231) que compararam PVI + SVCI versus PVI isolado, com a maioria dos estudos envolvendo pacientes com FA paroxística. A principal variável de desfecho foi a recorrência de taquiarritmia atrial (≥ 30 s) após o período de blanking.\n\nOs resultados mostraram que a SVCI pode ser benéfica no tratamento da FA, mas a escolha entre a estratégia empírica e a guiada por gatilhos depende de vários fatores. A análise dos subgrupos e a metarregressão foram realizadas para avaliar as diferenças entre as estratégias. No entanto, as limitações do estudo incluem a heterogeneidade dos dados e a falta de informações sobre os desfechos a longo prazo. Além disso, não foi informado o impacto clínico específico da SVCI em diferentes subpopulações de pacientes. Portanto, são necessários mais estudos para determinar a melhor abordagem para a SVCI e sua eficácia em diferentes contextos clínicos.\n\nA escolha da estratégia de SVCI deve ser baseada em uma avaliação individualizada do paciente, considerando fatores como a frequência e a duração da FA, a presença de ectopia da veia cava superior e a experiência do operador. Além disso, é fundamental que os estudos futuros avaliem os desfechos a longo prazo e a segurança da SVCI em diferentes subpopulações de pacientes. Com isso, será possível determinar a melhor abordagem para a SVCI e melhorar os resultados clínicos para os pacientes com FA.\n\nThe superior vena cava isolation (SVCI) is a technique used in conjunction with pulmonary vein isolation (PVI) for the treatment of atrial fibrillation (AF), but there is still uncertainty about which strategy is more effective: the empirical approach or the trigger-guided approach. Previous studies were limited to paroxysmal AF procedures and did not explicitly stratify the ablation strategies. A recent study published on PubMed, with DOI 10.1111/pace.70296, sought to fill these gaps through a systematic review and meta-analysis of randomized controlled trials (RCTs). Eight RCTs (n = 1231) were included, comparing PVI + SVCI versus PVI alone, with most studies involving patients with paroxysmal AF. The primary outcome was atrial tachyarrhythmia recurrence (≥ 30 s) after the blanking period.\n\nThe results showed that SVCI may be beneficial in the treatment of AF, but the choice between the empirical and trigger-guided strategies depends on several factors. Subgroup analysis and meta-regression were performed to evaluate the differences between the strategies. However, the study's limitations include data heterogeneity and the lack of information on long-term outcomes. Additionally, the specific clinical impact of SVCI on different patient subpopulations was not reported. Therefore, further studies are needed to determine the best approach for SVCI and its effectiveness in different clinical contexts.\n\nThe choice of SVCI strategy should be based on an individualized patient assessment, considering factors such as AF frequency and duration, the presence of superior vena cava ectopy, and the operator's experience. Furthermore, future studies should evaluate long-term outcomes and the safety of SVCI in different patient subpopulations. This will enable the determination of the best approach for SVCI and improvement of clinical outcomes for patients with AF.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42154216",
-    "authors": [
-      {
-        "name": "Ojasav Sehrawat",
-        "affiliation": "Department of Cardiovascular Medicine, Mayo Clinic, Rochester, Minnesota, USA."
-      },
-      {
-        "name": "Vasudha Garg",
-        "affiliation": "Department of Internal Medicine, Rochester General Hospital, Rochester, New York, USA."
-      },
-      {
-        "name": "Cher Ying Foo",
-        "affiliation": "Department of Internal Medicine, Rochester General Hospital, Rochester, New York, USA."
-      },
-      {
-        "name": "Chao Xue",
-        "affiliation": "Department of Internal Medicine, Rochester General Hospital, Rochester, New York, USA."
-      }
-    ],
-    "journal": "Pacing and clinical electrophysiology : PACE",
-    "publishedDate": "2026-05-19",
-    "fetchedDate": "2026-05-19",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
