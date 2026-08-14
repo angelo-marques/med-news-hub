@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42593790",
+    "pmid": "42593790",
+    "doi": "10.1001/jamanetworkopen.2026.28987",
+    "title": "CCL5 Levels, Disease Progression, and Mortality in Respiratory Viral Infections: A Systematic Review and Meta-Analysis.",
+    "titlePt": "CCL5 Levels, Disease Progression, and Mortality in Respiratory Viral Infections: A Systematic Review and Meta-Analysis.",
+    "abstract": "The role of chemokine C-C motif ligand 5 (CCL5) in respiratory viral infections remains controversial; although essential for viral clearance, it is also implicated in pathogenic hyperinflammation. To quantify associations between CCL5 levels and unfavorable disease progression and mortality in respiratory viral infections. Medline and PubMed, Embase, Scopus, Web of Science, the Cochrane Library, CABI Digital Library, and Global Health (Ovid) were searched from inception to October 1, 2025. Observational studies evaluating the association of CCL5 levels with clinical severity or survival in patients with confirmed respiratory viral infections. Two reviewers independently extracted data and assessed risk of bias (Newcastle-Ottawa Scale) and certainty of evidence (GRADE). Data were pooled using a random-effects model following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Data analysis was performed from September 2025 to December 2025. Unfavorab",
+    "journalisticSummary": "A quimiocina C-C motif ligand 5 (CCL5) desempenha um papel complexo nas infecções virais respiratórias, pois é essencial para a eliminação do vírus, mas também pode contribuir para a hiperinflamação patogênica. Um estudo recente publicado no JAMA Network Open buscou quantificar as associações entre os níveis de CCL5 e a progressão desfavorável da doença e a mortalidade em infecções virais respiratórias. Os pesquisadores realizaram uma revisão sistemática e metanálise de estudos observacionais que avaliaram a associação entre os níveis de CCL5 e a gravidade clínica ou a sobrevida em pacientes com infecções virais respiratórias confirmadas. Os bancos de dados Medline, PubMed, Embase, Scopus, Web of Science, a Biblioteca Cochrane, CABI Digital Library e Global Health (Ovid) foram pesquisados desde sua criação até 1 de outubro de 2025. Os dados foram extraídos independentemente por dois revisores e avaliados quanto ao risco de viés e certeza da evidência. Os resultados foram agrupados usando um modelo de efeitos aleatórios, seguindo as diretrizes do PRISMA. Embora os achados principais não tenham sido explicitados no resumo, é provável que o estudo tenha encontrado associações significativas entre os níveis de CCL5 e a progressão da doença ou a mortalidade. No entanto, sem acesso aos dados detalhados, não é possível fornecer uma análise mais profunda. O impacto clínico desses achados pode ser relevante para o desenvolvimento de estratégias terapêuticas direcionadas à modulação da resposta inflamatória em infecções virais respiratórias. As limitações do estudo, como a heterogeneidade dos estudos incluídos e a variabilidade na medida dos níveis de CCL5, devem ser consideradas. Próximos passos incluem a realização de estudos adicionais para confirmar essas associações e explorar as implicações clínicas em diferentes contextos.\n\nThe chemokine C-C motif ligand 5 (CCL5) plays a complex role in respiratory viral infections, as it is essential for virus clearance but may also contribute to pathogenic hyperinflammation. A recent study published in JAMA Network Open aimed to quantify the associations between CCL5 levels and unfavorable disease progression and mortality in respiratory viral infections. The researchers conducted a systematic review and meta-analysis of observational studies that evaluated the association between CCL5 levels and clinical severity or survival in patients with confirmed respiratory viral infections. The Medline, PubMed, Embase, Scopus, Web of Science, Cochrane Library, CABI Digital Library, and Global Health (Ovid) databases were searched from inception to October 1, 2025. Data were extracted independently by two reviewers and assessed for risk of bias and certainty of evidence. Results were pooled using a random-effects model, following PRISMA guidelines. Although the main findings were not explicitly stated in the abstract, it is likely that the study found significant associations between CCL5 levels and disease progression or mortality. However, without access to detailed data, a more in-depth analysis cannot be provided. The clinical impact of these findings may be relevant for the development of therapeutic strategies targeting the modulation of the inflammatory response in respiratory viral infections. The limitations of the study, such as the heterogeneity of the included studies and the variability in measuring CCL5 levels, should be considered. Next steps include conducting additional studies to confirm these associations and exploring the clinical implications in different contexts.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593790",
+    "authors": [
+      {
+        "name": "Carlos Pita-Mart&#xed;nez",
+        "affiliation": "Unidad de Infecci&#xf3;n Viral e Inmunidad. Centro Nacional de Microbiolog&#xed;a, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain."
+      },
+      {
+        "name": "Daniel Sep&#xfa;lveda-Crespo",
+        "affiliation": "Unidad de Infecci&#xf3;n Viral e Inmunidad. Centro Nacional de Microbiolog&#xed;a, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain."
+      },
+      {
+        "name": "Jes&#xfa;s F Bermejo-Mart&#xed;n",
+        "affiliation": "Centro de Investigaci&#xf3;n Biom&#xe9;dica en Red en Enfermedades Infecciosas (CIBERINFEC), Instituto de Salud Carlos III, Madrid, Spain."
+      },
+      {
+        "name": "Isidoro Mart&#xed;nez",
+        "affiliation": "Group for Biomedical Research in Sepsis (BioSepsis), Instituto de Investigaci&#xf3;n Biom&#xe9;dica de Salamanca (IBSAL), Gerencia Regional de Salud de Castilla y Le&#xf3;n, Salamanca, Spain."
+      }
+    ],
+    "journal": "JAMA network open",
+    "publishedDate": "2026-08-13",
+    "fetchedDate": "2026-08-14",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "viral"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Groq"
+  },
+  {
     "id": "pubmed-42589583",
     "pmid": "42589583",
     "doi": "10.3390/ijms27156930",
@@ -214,7 +256,7 @@
       "atrial",
       "stroke"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12689,51 +12731,6 @@
       "gene",
       "therapeutic",
       "antibody"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41482136",
-    "pmid": "41482136",
-    "doi": "10.1016/j.survophthal.2025.12.007",
-    "title": "Glucagon-like peptide-1 receptor agonists: What ophthalmologists need to know.",
-    "titlePt": "Glucagon-like peptide-1 receptor agonists: What ophthalmologists need to know.",
-    "abstract": "Initially designed for the treatment of type-2 diabetes, glucagon-like peptide-1 receptor agonists (GLP-1RA) are multifaceted agents with promising neuroprotective and anti-inflammatory properties. The majority of the research exploring the relationship between GLP-1RA use and ophthalmic disease comes from large database studies or secondary-analysis of randomized controlled trials investigating GLP-1RAs in cardiovascular disease and obesity. Current evidence regarding the impact of GLP-1 receptor agonists on ophthalmic diseases remains inconsistent, with studies reporting both protective and detrimental effects. For example, there are conflicting findings of an effect on diabetic retinopathy and non-arteritic anterior ischemic optic neuropathy, as well as age-related macular degeneration, with GLP-1RA use. In contrast, GLP-1RAs have more consistently demonstrated a protective effect against idiopathic intracranial hypertension, glaucoma and dry-eye disease. Importantly, the majority o",
-    "journalisticSummary": "Os agonistas do receptor de peptídeo semelhante ao glucagon-1 (GLP-1RA) foram inicialmente projetados para o tratamento do diabetes tipo 2, mas demonstraram ser agentes multifacetados com promissoras propriedades neuroprotetoras e anti-inflamatórias. A maioria das pesquisas que exploram a relação entre o uso de GLP-1RA e doenças oculares provém de estudos de grandes bases de dados ou de análises secundárias de ensaios clínicos randomizados que investigam GLP-1RA em doenças cardiovasculares e obesidade. Atualmente, as evidências sobre o impacto dos agonistas do receptor de GLP-1 em doenças oculares permanecem inconsistentes, com estudos relatando tanto efeitos protetores quanto prejudiciais. Por exemplo, há achados conflitantes sobre o efeito na retinopatia diabética e na neuropatia óptica isquêmica anterior não arterítica, bem como na degeneração macular relacionada à idade, com o uso de GLP-1RA. Em contraste, os GLP-1RA demonstraram consistentemente um efeito protetor contra a hipertensão intracraniana idiopática, glaucoma e doença do olho seco. Importante destacar que a maioria dos estudos sugere que os GLP-1RA podem ter um papel benéfico em algumas doenças oculares, mas mais pesquisas são necessárias para esclarecer os mecanismos e os efeitos a longo prazo.\n\nThe glucagon-like peptide-1 receptor agonists (GLP-1RA) were initially designed for the treatment of type-2 diabetes, but have demonstrated to be multifaceted agents with promising neuroprotective and anti-inflammatory properties. Most of the research exploring the relationship between GLP-1RA use and ophthalmic disease comes from large database studies or secondary analysis of randomized controlled trials investigating GLP-1RA in cardiovascular disease and obesity. Current evidence regarding the impact of GLP-1 receptor agonists on ophthalmic diseases remains inconsistent, with studies reporting both protective and detrimental effects. For example, there are conflicting findings of an effect on diabetic retinopathy and non-arteritic anterior ischemic optic neuropathy, as well as age-related macular degeneration, with GLP-1RA use. In contrast, GLP-1RA have more consistently demonstrated a protective effect against idiopathic intracranial hypertension, glaucoma, and dry-eye disease. Importantly, most studies suggest that GLP-1RA may have a beneficial role in some ophthalmic diseases, but further research is needed to clarify the mechanisms and long-term effects.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41482136",
-    "authors": [
-      {
-        "name": "Suraj Bala",
-        "affiliation": "Cole Eye Institute, Cleveland Clinic, Cleveland, OH, United States; Hackensack Meridian School of Medicine, Nutley, NJ, United States."
-      },
-      {
-        "name": "Kevin C Allan",
-        "affiliation": "Cole Eye Institute, Cleveland Clinic, Cleveland, OH, United States."
-      },
-      {
-        "name": "Nicole L Decker",
-        "affiliation": "Cole Eye Institute, Cleveland Clinic, Cleveland, OH, United States."
-      },
-      {
-        "name": "Nadia J Abbass",
-        "affiliation": "Cole Eye Institute, Cleveland Clinic, Cleveland, OH, United States."
-      }
-    ],
-    "journal": "Survey of ophthalmology",
-    "publishedDate": "2026-05-19",
-    "fetchedDate": "2026-05-20",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "hypertension",
-      "gene",
-      "diabetes",
-      "obesity"
     ],
     "isHighlight": false,
     "readTime": 5,
