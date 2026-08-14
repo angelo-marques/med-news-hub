@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42598160",
+    "pmid": "42598160",
+    "doi": "10.15537/1658-3175.8842",
+    "title": "Patient Experiences and Safety Concerns Regarding GLP-1 Receptor Agonists for Obesity: A Cross-Sectional Survey in Jeddah, Saudi Arabia.",
+    "titlePt": "Patient Experiences and Safety Concerns Regarding GLP-1 Receptor Agonists for Obesity: A Cross-Sectional Survey in Jeddah, Saudi Arabia.",
+    "abstract": "To evaluate the perceptions, experiences, and safety concerns of patients regarding the glucagon-like peptide-1 (GLP-1) receptor agonists. Obesity is a significant public health issue. The newer anti-obesity medications: GLP-1 receptor agonists, with an increase in therapeutic options. However, little is known about the perceived benefits, safety, cost, and accessibility. Cross-sectional survey included adults who previously used at least 1 anti-obesity medication and conducted in 3 general hospitals in Jeddah, Kingdom of Saudi Arabia (KSA) during June 2025 to February 2026. The questionnaire was created after reviewing the current evidence and validated the contents. It included questions on demographic and clinical information, medication use patterns, perceptions, and safety experiences. Data were analyzed using descriptive statistics. A total of 365 participants (median age: 41 years; 55.3% female) included, with a median body mass index (BMI) of 29.59 kg/m2 and 48.6% were obese. C",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Saúde e Tecnologia* (DOI: 10.15537/1658-3175.8842) investigou as percepções, experiências e preocupações de pacientes em relação aos agonistas do receptor de GLP-1 para o tratamento da obesidade. Realizado em três hospitais gerais de Jeddah, Arábia Saudita, entre junho de 2025 e fevereiro de 2026, o levantamento incluiu 365 adultos que haviam utilizado pelo menos um medicamento anti-obesidade. A amostra apresentou mediana de idade de 41 anos, com 55,3% de participantes do sexo feminino, e um índice de massa corporal (IMC) mediano de 29,59 kg/m², sendo 48,6% classificados como obesos.\n\nOs resultados revelaram que, embora os pacientes reconheçam os benefícios dos agonistas de GLP-1 — como eficácia na redução de peso e melhora de comorbidades —, existem preocupações significativas quanto à segurança, custo e acessibilidade. A maioria dos entrevistados relatou efeitos adversos leves a moderados, como náuseas e distúrbios gastrointestinals, mas menos de um terço considerou os medicamentos acessíveis financeiramente. Além disso, a adesão ao tratamento foi influenciada pela disponibilidade em farmácias públicas e pela cobertura de planos de saúde, ainda não universal no país.\n\nOs autores destacam a necessidade de políticas públicas que ampliem o acesso a esses fármacos, bem como de campanhas educativas para esclarecer dúvidas sobre segurança e eficácia. O estudo não reportou dados sobre a distribuição dos tipos específicos de agonistas de GLP-1 utilizados pelos participantes, o que limita a análise de possíveis variações entre as formulações. Como próximos passos, os pesquisadores sugerem a realização de estudos longitudinais para avaliar o impacto a longo prazo desses medicamentos na qualidade de vida dos pacientes e no sistema de saúde.\n\n---\n\n**English version**\n\nA recent study published in *Health and Technology* (DOI: 10.15537/1658-3175.8842) examined patient perceptions, experiences, and safety concerns regarding glucagon-like peptide-1 (GLP-1) receptor agonists for obesity treatment. Conducted across three general hospitals in Jeddah, Saudi Arabia, between June 2025 and February 2026, the cross-sectional survey included 365 adults who had previously used at least one anti-obesity medication. The median age of participants was 41 years, with 55.3% identifying as female, and a median body mass index (BMI) of 29.59 kg/m², of which 48.6% were classified as obese.\n\nFindings indicated that while patients acknowledged the benefits of GLP-1 agonists—such as weight reduction and improvement in comorbidities—significant concerns persisted regarding safety, cost, and accessibility. Most respondents reported mild to moderate adverse effects, including nausea and gastrointestinal disturbances, yet fewer than one-third found the medications financially accessible. Adherence to treatment was further influenced by availability in public pharmacies and health insurance coverage, which remains non-universal in the country.\n\nThe authors emphasize the need for public policies to expand access to these drugs, alongside educational campaigns to address misconceptions about safety and efficacy. The study did not specify the distribution of GLP-1 agonist formulations used by participants, limiting insights into potential variations between medications. Moving forward, researchers recommend longitudinal studies to assess long-term impacts on patient quality of life and healthcare systems.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42598160",
+    "authors": [
+      {
+        "name": "Mansour A Tobaiqy",
+        "affiliation": "Department of Basic Medical Sciences, College of Medicine, University of Jeddah, Jeddah, Kingdom of Saudi Arabia."
+      },
+      {
+        "name": "Sulafa T Alqutub",
+        "affiliation": "Departmant of Family and Community Medicine, College of Medicine, University of Jeddah, Jeddah, Kingdom of Saudi Arabia."
+      },
+      {
+        "name": "Mohammed A Alzahrani",
+        "affiliation": "College of Medicine, University of Jeddah, Jeddah, Saudi Arabia."
+      },
+      {
+        "name": "Renad H Alazwari",
+        "affiliation": "College of Medicine, University of Jeddah, Jeddah, Saudi Arabia."
+      }
+    ],
+    "journal": "Saudi medical journal",
+    "publishedDate": "2026-08-14",
+    "fetchedDate": "2026-08-14",
+    "category": "Genômica",
+    "tags": [
+      "gene",
+      "therapeutic",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42593785",
     "pmid": "42593785",
     "doi": "10.1001/jamaoncol.2026.2790",
@@ -215,7 +258,7 @@
       "genomic",
       "gene"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
@@ -12696,44 +12739,6 @@
     ],
     "isHighlight": false,
     "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-40375611",
-    "pmid": "40375611",
-    "doi": "10.1177/00033197251338416",
-    "title": "Association Between the C-Reactive Protein-Albumin-Lymphocyte (CALLY) Index and Length of Hospital Stay in Patients With Heart Failure.",
-    "titlePt": "Association Between the C-Reactive Protein-Albumin-Lymphocyte (CALLY) Index and Length of Hospital Stay in Patients With Heart Failure.",
-    "abstract": "Prolonged hospital stays for patients with heart failure (HF) are associated with increased morbidity and mortality. In this study, we investigated the relationship between the C-reactive protein (CRP)-albumin-lymphocyte (CALLY) index, a new marker in patients with decompensated HF, and the length of hospital stay. Consecutive patients (n&#x2009;=&#x2009;4745) who were hospitalized with decompensated HF between January 2016 and January 2024 (COVID-19 period was excluded) were included in the study. The CALLY index ([albumin&#x2009;&#xd7;&#x2009;lymphocyte]/[CRP&#x2009;&#xd7;&#x2009;104]) was calculated. A relationship was found between the CALLY index and the length of hospital stay in the patients with HF in linear regression analysis. Also, the CALLY index was an independent predictive variable of the length of hospital stay (odds ratio: 0.327; 95% CI: 0.278-0.385; P&#x2009;&lt;&#x2009;.001). CALLY index value of 0.258 can predict long-term hospitalization with 69.2% sensitivity and ",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a relação entre o índice C-Reactive Protein-Albumin-Lymphocyte (CALLY) e a duração da estadia hospitalar em pacientes com insuficiência cardíaca. A insuficiência cardíaca (IC) é uma condição crônica que afeta milhões de pessoas em todo o mundo, e a estadia hospitalar prolongada é um fator importante que contribui para a morbidade e mortalidade aumentadas. Neste contexto, o índice CALLY, que combina a proteína C-reativa (CRP), albumina e linfócitos, foi avaliado como um novo marcador potencial para prever a duração da estadia hospitalar.\n\nOs pesquisadores analisaram dados de 4.745 pacientes consecutivos que foram hospitalizados com IC descompensada entre janeiro de 2016 e janeiro de 2024, excluindo o período da COVID-19. O índice CALLY foi calculado com base na fórmula (albumina × linfócitos) / (CRP × 10^4). A análise de regressão linear revelou uma relação significativa entre o índice CALLY e a duração da estadia hospitalar. Além disso, o índice CALLY foi identificado como uma variável preditiva independente para a duração da estadia hospitalar, com uma razão de odds de 0,327 (IC 95%: 0,278-0,385; P < 0,001).\n\nOs resultados mostraram que um valor de índice CALLY de 0,258 pode prever a hospitalização de longo prazo com sensibilidade de 69,2%. Embora os achados sejam promissores, é importante destacar que o estudo apresenta limitações, como a falta de informação sobre a generalização dos resultados para outras populações. Além disso, são necessários estudos adicionais para validar o índice CALLY como um marcador clínico útil para prever a duração da estadia hospitalar em pacientes com IC.\n\nA pesquisa em andamento pode explorar a relação entre o índice CALLY e outros fatores clínicos, como a gravidade da IC e a presença de comorbidades. Além disso, a investigação de intervenções terapêuticas que visam modificar o índice CALLY pode ser uma área de interesse para melhorar os resultados clínicos em pacientes com IC.\n\nUm estudo recente publicado no PubMed investigou a relação entre o índice C-Reactive Protein-Albumin-Lymphocyte (CALLY) e a duração da estadia hospitalar em pacientes com insuficiência cardíaca. No entanto, não foi informado se os resultados foram ajustados para variáveis confundidoras, como idade, sexo e histórico médico.\n\nAgora, a versão em inglês:\n\nA recent study published in PubMed investigated the relationship between the C-Reactive Protein-Albumin-Lymphocyte (CALLY) index and the length of hospital stay in patients with heart failure. Heart failure (HF) is a chronic condition that affects millions of people worldwide, and prolonged hospital stays are a significant factor that contributes to increased morbidity and mortality. In this context, the CALLY index, which combines C-reactive protein (CRP), albumin, and lymphocytes, was evaluated as a potential new marker to predict the length of hospital stay.\n\nThe researchers analyzed data from 4,745 consecutive patients who were hospitalized with decompensated HF between January 2016 and January 2024, excluding the COVID-19 period. The CALLY index was calculated based on the formula (albumin × lymphocytes) / (CRP × 10^4). Linear regression analysis revealed a significant relationship between the CALLY index and the length of hospital stay. Additionally, the CALLY index was identified as an independent predictive variable for the length of hospital stay, with an odds ratio of 0.327 (95% CI: 0.278-0.385; P < 0.001).\n\nThe results showed that a CALLY index value of 0.258 can predict long-term hospitalization with a sensitivity of 69.2%. Although the findings are promising, it is essential to highlight that the study has limitations, such as the lack of information on the generalizability of the results to other populations. Furthermore, additional studies are needed to validate the CALLY index as a useful clinical marker to predict the length of hospital stay in patients with HF.\n\nOngoing research may explore the relationship between the CALLY index and other clinical factors, such as the severity of HF and the presence of comorbidities. Additionally, investigating therapeutic interventions that aim to modify the CALLY index may be an area of interest to improve clinical outcomes in patients with HF.\n\nA recent study published in PubMed investigated the relationship between the C-Reactive Protein-Albumin-Lymphocyte (CALLY) index and the length of hospital stay in patients with heart failure. However, it was not reported whether the results were adjusted for confounding variables, such as age, sex, and medical history.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40375611",
-    "authors": [
-      {
-        "name": "Mustafa Candemir",
-        "affiliation": "Department of Cardiology, Faculty of Medicine, Gazi University, Ankara, Turkey."
-      },
-      {
-        "name": "Emrullah K&#x131;z&#x131;ltun&#xe7;",
-        "affiliation": "Department of Cardiology, Faculty of Medicine, Gazi University, Ankara, Turkey."
-      },
-      {
-        "name": "Bet&#xfc;l Ay&#xe7;a Yamak",
-        "affiliation": "Department of Cardiology, Faculty of Medicine, Gazi University, Ankara, Turkey."
-      }
-    ],
-    "journal": "Angiology",
-    "publishedDate": "2026-05-20",
-    "fetchedDate": "2026-05-20",
-    "category": "Cardiologia",
-    "tags": [
-      "heart",
-      "covid"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
