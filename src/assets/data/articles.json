@@ -4810,6 +4810,48 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42223336",
+    "pmid": "42223336",
+    "doi": "10.1080/13696998.2026.2678778",
+    "title": "Cost-effectiveness analysis of apixaban compared with other oral anticoagulants for the treatment of non-valvular atrial fibrillation in a Belgian healthcare setting.",
+    "titlePt": "Cost-effectiveness analysis of apixaban compared with other oral anticoagulants for the treatment of non-valvular atrial fibrillation in a Belgian healthcare setting.",
+    "abstract": "Direct oral anticoagulants (DOACs) are recommended for stroke and systemic embolism prevention in patients with non-valvular atrial fibrillation (NVAF) in preference to vitamin K antagonists (VKAs, e.g. warfarin). This study assessed the cost-effectiveness of apixaban versus warfarin, dabigatran, edoxaban, and rivaroxaban for patients with NVAF from the Belgian payer perspective. Based on a previously-validated model, a lifetime cohort-level Markov model was built in Microsoft Excel for the Belgian setting, incorporating costs (2025) representative of a DOAC market following patent expiry. The cohort (n&#x2009;=&#x2009;1,000) included patients with NVAF eligible for oral anticoagulation. Different study types provided clinical inputs for event risk in the base case analysis (based on a network meta-analysis of randomised controlled trials) and in a scenario analysis (based on real-world evidence). The primary model outcome was the incremental cost-effectiveness ratio (ICER), measured b",
+    "journalisticSummary": "**Versão em português brasileiro:**\n\nUm estudo recente publicado no *Journal of Medical Economics* avaliou a relação custo-efetividade do apixabana em comparação com outros anticoagulantes orais diretos (DOACs) e varfarina no tratamento de pacientes com fibrilação atrial não valvar (FANV) no contexto do sistema de saúde belga. Utilizando um modelo de Markov de coorte ao longo da vida, os pesquisadores simularam os desfechos clínicos e econômicos de 1.000 pacientes elegíveis para anticoagulação oral, com dados de custos projetados para 2025, após o vencimento de patentes de DOACs no mercado belga.\n\nOs resultados, baseados em uma meta-análise em rede de ensaios clínicos randomizados, indicaram que o apixabana apresentou um perfil custo-efetivo em relação à varfarina, com uma relação de custo-efetividade incremental (ICER) favorável. No entanto, quando comparado a outros DOACs — dabigatrana, edoxabana e rivaroxabana —, os achados foram menos conclusivos, sugerindo que a escolha entre esses agentes pode depender de fatores como perfil de risco do paciente, disponibilidade de preços e preferências clínicas. Uma análise de cenário com dados do mundo real reforçou a robustez dos resultados, embora tenha sido observada uma variabilidade considerável nos desfechos quando comparados aos dados de ensaios clínicos.\n\nEmbora o estudo ofereça insights valiosos para formuladores de políticas e clínicos na Bélgica, algumas limitações devem ser consideradas. Primeiramente, o modelo não incorporou possíveis variações regionais nos custos de saúde dentro do país, o que pode influenciar os resultados em diferentes contextos. Além disso, a ausência de dados específicos sobre adesão ao tratamento e interrupções terapêuticas limita a generalização dos achados. Os autores destacam a necessidade de pesquisas futuras que incluam avaliações de subgrupos, como pacientes com comorbidades ou idosos, para refinar as estimativas de custo-efetividade. Também seria relevante explorar o impacto de estratégias de gerenciamento de doenças concomitantes no custo global do tratamento.\n\n---\n\n**English version:**\n\nA recent study published in the *Journal of Medical Economics* assessed the cost-effectiveness of apixaban compared with other direct oral anticoagulants (DOACs) and warfarin for the treatment of patients with non-valvular atrial fibrillation (NVAF) within the Belgian healthcare system. Using a lifetime cohort-level Markov model, researchers simulated clinical and economic outcomes for 1,000 patients eligible for oral anticoagulation, with cost data projected for 2025 following the expiration of DOAC patents in the Belgian market.\n\nFindings, based on a network meta-analysis of randomized controlled trials, indicated that apixaban demonstrated a cost-effective profile relative to warfarin, with a favorable incremental cost-effectiveness ratio (ICER). However, when compared to other DOACs—dabigatran, edoxaban, and rivaroxaban—the results were less conclusive, suggesting that the choice among these agents may depend on factors such as patient risk profiles, pricing availability, and clinical preferences. A scenario analysis incorporating real-world evidence reinforced the robustness of the results, though considerable variability in outcomes was observed when compared to trial data.\n\nWhile the study provides valuable insights for policymakers and clinicians in Belgium, several limitations should be acknowledged. First, the model did not account for potential regional variations in healthcare costs within the country, which may influence results across different settings. Additionally, the absence of specific data on treatment adherence and therapeutic interruptions limits the generalizability of the findings. The authors emphasize the need for future research that includes subgroup evaluations, such as patients with comorbidities or the elderly, to refine cost-effectiveness estimates. Exploring the impact of strategies for managing concomitant diseases on the overall treatment cost would also be relevant.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42223336",
+    "authors": [
+      {
+        "name": "Hannah Goovaerts",
+        "affiliation": "Pfizer NV-SA, Brussels, Belgium."
+      },
+      {
+        "name": "Rupesh Subash",
+        "affiliation": "Pfizer Ltd, Surrey, UK."
+      },
+      {
+        "name": "Chloe Salter",
+        "affiliation": "Health Economics and Outcomes Research Ltd, Cardiff, UK."
+      },
+      {
+        "name": "Carissa Dickerson",
+        "affiliation": "Health Economics and Outcomes Research Ltd, Cardiff, UK."
+      }
+    ],
+    "journal": "Journal of medical economics",
+    "publishedDate": "2026-07-17",
+    "fetchedDate": "2026-09-01",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial",
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42202217",
     "pmid": "42202217",
     "doi": "10.1080/21645515.2026.2665969",
@@ -12661,48 +12703,6 @@
     ],
     "isHighlight": false,
     "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42084557",
-    "pmid": "42084557",
-    "doi": "10.1002/oby.70197",
-    "title": "Disseminating and Implementing the Science of Pediatric Obesity Treatment and Prevention.",
-    "titlePt": "Disseminating and Implementing the Science of Pediatric Obesity Treatment and Prevention.",
-    "abstract": "Pennington Biomedical Research Center convened a scientific symposium in March-April 2025, which brought together leaders in dissemination and implementation science to identify what is known and what is needed to foster the rapid dissemination and implementation of evidence-based, guideline-backed pediatric obesity prevention and treatment interventions. The primary aim of the symposium was to identify effective dissemination and implementation strategies, contextual factors related to strategy selection, and mechanisms of successful intervention reach, adoption, implementation, and maintenance. Through this symposium, the overarching goal was to accelerate the rate of translation of evidence-based interventions for the prevention and treatment of pediatric obesity into practice while advancing dissemination and implementation science in settings including health care, schools, and the community. This article summarizes the state of the scientific evidence discussed at the symposium, ",
-    "journalisticSummary": "Um recente simpósio científico realizado pelo Pennington Biomedical Research Center, em março-abril de 2025, reuniu líderes em ciência de disseminação e implementação para discutir estratégias eficazes para prevenir e tratar a obesidade infantil. O objetivo principal do simpósio foi identificar estratégias de disseminação e implementação eficazes, fatores contextuais relacionados à seleção de estratégias e mecanismos de alcance, adoção, implementação e manutenção de intervenções bem-sucedidas. Os participantes buscaram acelerar a tradução de intervenções baseadas em evidências para a prevenção e tratamento da obesidade infantil em práticas reais, avançando a ciência de disseminação e implementação em ambientes de saúde, escolas e comunidades. Embora o resumo não forneça detalhes específicos sobre os achados principais, é claro que o simpósio teve como objetivo fornecer uma base científica sólida para o desenvolvimento de estratégias eficazes de prevenção e tratamento da obesidade infantil.\n\nNão foi informado no resumo original quais foram as limitações específicas do estudo ou quais os próximos passos propostos pelos participantes do simpósio. No entanto, é provável que os resultados desse simpósio sejam cruciais para o desenvolvimento de políticas públicas e intervenções clínicas mais eficazes na prevenção e tratamento da obesidade infantil, um problema de saúde pública crescente em todo o mundo.\n\nA implementação eficaz de estratégias de prevenção e tratamento da obesidade infantil pode ter um impacto significativo na saúde e no bem-estar das crianças e adolescentes, reduzindo o risco de doenças crônicas, como diabetes e doenças cardíacas, e melhorando a qualidade de vida desses jovens. Além disso, a disseminação de intervenções baseadas em evidências pode ajudar a reduzir as desigualdades em saúde e a promover a equidade em saúde, especialmente em populações vulneráveis.\n\nUm recente simpósio científico realizado pelo Pennington Biomedical Research Center, em março-abril de 2025, reuniu líderes em ciência de disseminação e implementação para discutir estratégias eficazes para prevenir e tratar a obesidade infantil. O objetivo principal do simpósio foi identificar estratégias de disseminação e implementação eficazes, fatores contextuais relacionados à seleção de estratégias e mecanismos de alcance, adoção, implementação e manutenção de intervenções bem-sucedidas. Os participantes buscaram acelerar a tradução de intervenções baseadas em evidências para a prevenção e tratamento da obesidade infantil em práticas reais, avançando a ciência de disseminação e implementação em ambientes de saúde, escolas e comunidades.\n\nAqui está a versão em inglês:\n\nA recent scientific symposium held by the Pennington Biomedical Research Center, in March-April 2025, brought together leaders in dissemination and implementation science to discuss effective strategies for preventing and treating childhood obesity. The primary aim of the symposium was to identify effective dissemination and implementation strategies, contextual factors related to strategy selection, and mechanisms of successful intervention reach, adoption, implementation, and maintenance. The participants sought to accelerate the translation of evidence-based interventions for the prevention and treatment of childhood obesity into real-world practice, advancing dissemination and implementation science in healthcare, school, and community settings. Although the abstract does not provide specific details about the main findings, it is clear that the symposium aimed to provide a solid scientific foundation for the development of effective strategies for preventing and treating childhood obesity.\n\nThe abstract does not inform about the specific limitations of the study or the next steps proposed by the symposium participants. However, it is likely that the results of this symposium will be crucial for the development of more effective public health policies and clinical interventions in preventing and treating childhood obesity, a growing public health problem worldwide.\n\nThe effective implementation of childhood obesity prevention and treatment strategies can have a significant impact on the health and well-being of children and adolescents, reducing the risk of chronic diseases such as diabetes and heart disease, and improving the quality of life of these young people. Furthermore, the dissemination of evidence-based interventions can help reduce health inequalities and promote health equity, especially in vulnerable populations.\n\nThe symposium's focus on dissemination and implementation science can help address the gap between research and practice, ensuring that evidence-based interventions are widely adopted and sustained over time. By advancing the science of dissemination and implementation, the symposium participants aimed to accelerate the translation of research findings into real-world practice, ultimately improving the health and well-being of children and adolescents affected by obesity.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42084557",
-    "authors": [
-      {
-        "name": "Amanda E Staiano",
-        "affiliation": "Pennington Biomedical Research Center, Baton Rouge, Louisiana, USA."
-      },
-      {
-        "name": "Paul A Estabrooks",
-        "affiliation": "Department of Health and Kinesiology, University of Utah, Salt Lake City, Utah, USA."
-      },
-      {
-        "name": "Gabriela Buccini",
-        "affiliation": "Department of Social and Behavioral Health, School of Public Health, University of Nevada, Las Vegas, Nevada, USA."
-      },
-      {
-        "name": "Stephen R Cook",
-        "affiliation": "University of Rochester Medical Center, Rochester, New York, USA."
-      }
-    ],
-    "journal": "Obesity (Silver Spring, Md.)",
-    "publishedDate": "2026-06-02",
-    "fetchedDate": "2026-06-02",
-    "category": "Pediatria",
-    "tags": [
-      "pediatric",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
