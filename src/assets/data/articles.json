@@ -4685,6 +4685,47 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42202217",
+    "pmid": "42202217",
+    "doi": "10.1080/21645515.2026.2665969",
+    "title": "Evaluation of influenza vaccine effectiveness among older adults in Jiaxing, China, 2022-2025: A test negative design-based study.",
+    "titlePt": "Evaluation of influenza vaccine effectiveness among older adults in Jiaxing, China, 2022-2025: A test negative design-based study.",
+    "abstract": "Influenza imposes a substantial burden on older adults, underscoring the need for annual evaluation of vaccine effectiveness (VE). Using a test-negative case-control design, this study assessed VE among patients aged &#x2265;60&#x2009;y with acute respiratory symptoms in Jiaxing, China, across three influenza seasons (2022-2025). Among 3,214 participants, vaccination provided moderate overall protection against laboratory-confirmed influenza, with adjusted VE of 42.5% (95% CI: 31.2-51.9). Protection was highest in the 2024-2025 season (47.2%) and against influenza A(H1N1) (42.4%). Notably, subgroup analyses revealed significantly higher VE among females, individuals without underlying disease (49.2%), those presenting with high fever (&gt;39&#xb0;C, 44.3%), and within 90&#x2009;d post-vaccination (52.3%). These findings affirm the moderate protective effect of influenza vaccines in the older individuals and strongly support the critical importance of timely annual vaccination ahead of ",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo conduzido em Jiaxing, na China, entre 2022 e 2025 avaliou a eficácia da vacinação anual contra a influenza em adultos com 60 anos ou mais, um grupo particularmente vulnerável a complicações da doença. Utilizando um *design* de caso-controle com teste negativo, pesquisadores analisaram dados de 3.214 pacientes que apresentavam sintomas respiratórios agudos, dos quais 42,5% haviam recebido a vacina contra a gripe no período. Os resultados demonstraram uma eficácia vacinal (EV) ajustada de 42,5% (IC 95%: 31,2–51,9) na prevenção de casos confirmados laboratorialmente, indicando uma proteção moderada.\n\nA proteção variou conforme a temporada e o subtipo viral. Na temporada 2024-2025, a EV atingiu 47,2%, enquanto contra o vírus influenza A(H1N1), a eficácia foi de 42,4%. Análises de subgrupos revelaram diferenças significativas: mulheres apresentaram maior proteção, assim como indivíduos sem doenças crônicas subjacentes (EV de 49,2%) e aqueles com febre alta (>39°C, 44,3%). Além disso, a vacinação mostrou-se mais efetiva quando administrada até 90 dias antes do início dos sintomas (EV de 52,3%). Esses achados reforçam a importância da imunização anual e oportuna nesse grupo etário.\n\nApesar dos resultados promissores, o estudo apresenta limitações inerentes ao *design* empregado, como a possibilidade de viés de seleção ou confusão residual não mensurada. Além disso, as variantes virais circulantes e a cobertura vacinal da população podem influenciar os achados, sendo necessária cautela na extrapolação para outras regiões ou contextos epidemiológicos. O trabalho não detalha a distribuição dos subtipos de influenza A(H3N2) ou B, nem o impacto da coinfecção com outros patógenos respiratórios. Como próximos passos, os autores destacam a necessidade de estudos longitudinais que avaliem a duração da proteção vacinal e a eficácia em populações com comorbidades específicas.\n\n---\n\n**English version**\n\nA study conducted in Jiaxing, China, from 2022 to 2025 assessed the annual influenza vaccine effectiveness (VE) in adults aged 60 years or older—a population at heightened risk of severe influenza complications. Using a test-negative case-control design, researchers analyzed data from 3,214 patients with acute respiratory symptoms, 42.5% of whom had received the seasonal influenza vaccine. The adjusted VE was 42.5% (95% CI: 31.2–51.9) against laboratory-confirmed influenza, indicating moderate protection.\n\nProtection varied by season and viral subtype. During the 2024–2025 season, VE reached 47.2%, while against influenza A(H1N1), it was 42.4%. Subgroup analyses revealed significantly higher VE among females, individuals without underlying chronic diseases (49.2%), those presenting with high fever (>39°C, 44.3%), and within 90 days post-vaccination (52.3%). These findings underscore the importance of timely annual vaccination in this age group.\n\nHowever, the study has inherent limitations tied to its design, including potential selection bias or residual confounding. The circulating viral variants and regional vaccination coverage may also influence the results, warranting caution in generalizing findings to other settings. The paper does not report data on influenza A(H3N2) or B subtypes separately, nor the impact of co-circulating respiratory pathogens. Future research should prioritize longitudinal studies to evaluate the durability of vaccine-induced protection and VE in high-risk subgroups with comorbidities.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42202217",
+    "authors": [
+      {
+        "name": "Yang Liu",
+        "affiliation": "Department of Infectious Diseases Control and Prevention, Jiaxing Center for Disease Control and Prevention, Jiaxing, Zhejiang, China."
+      },
+      {
+        "name": "Xiaofei Fu",
+        "affiliation": "Department of Infectious Diseases Control and Prevention, Jiaxing Center for Disease Control and Prevention, Jiaxing, Zhejiang, China."
+      },
+      {
+        "name": "Yuanhang Wang",
+        "affiliation": "Department of Infectious Diseases Control and Prevention, Jiaxing Center for Disease Control and Prevention, Jiaxing, Zhejiang, China."
+      },
+      {
+        "name": "Lei Jia",
+        "affiliation": "Department of Infection Control and Public Health, Affiliated Hospital of Jiaxing University (The First Hospital of Jiaxing), Jiaxing, Zhejiang, China."
+      }
+    ],
+    "journal": "Human vaccines &amp; immunotherapeutics",
+    "publishedDate": "2026-07-17",
+    "fetchedDate": "2026-09-01",
+    "category": "Imunologia",
+    "tags": [
+      "vaccine"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42143213",
     "pmid": "42143213",
     "doi": "10.1080/07853890.2026.2673631",
@@ -4808,6 +4849,50 @@
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42081954",
+    "pmid": "42081954",
+    "doi": "10.1016/j.jep.2026.121780",
+    "title": "Multitargeted synergistic mechanisms of Salvia miltiorrhiza and its bioactive compounds: A review.",
+    "titlePt": "Multitargeted synergistic mechanisms of Salvia miltiorrhiza and its bioactive compounds: A review.",
+    "abstract": "Salvia miltiorrhiza Bunge (S. miltiorrhiza) is a traditional Chinese medicinal herb highly valued both locally and globally for its ability to improve blood circulation, resolve blood stasis, nourish heart blood, alleviate hernia pain, calm the mind, and support tumor treatment. Recently, extensive research has explored the potential of S. miltiorrhiza and its active compounds in treating cardiovascular diseases, neurodegenerative disorders, and cancer. This review aims to elucidate the synergistic effects of S. miltiorrhiza and its bioactive constituents across various stages of cardiovascular diseases, neurodegenerative disorders, and cancer progression by summarizing the key targets and signaling pathways involved. A comprehensive search was conducted across PubMed, Web of Science, EMBASE, the Cochrane Library, SpringerLink, Elsevier, and the China National Knowledge Infrastructure (CNKI). The keywords employed included \"cardiovascular protection\", \"neuroprotection\", \"anti-cancer\", ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42081954",
+    "authors": [
+      {
+        "name": "Yihang Wang",
+        "affiliation": "School of Nursing, Wuhan University, Wuhan, 430072, China."
+      },
+      {
+        "name": "Jing Wu",
+        "affiliation": "School of Nursing, Wuhan University, Wuhan, 430072, China."
+      },
+      {
+        "name": "Ying Lai",
+        "affiliation": "School of Nursing, Wuhan University, Wuhan, 430072, China."
+      },
+      {
+        "name": "Dangwei Li",
+        "affiliation": "School of Nursing, Wuhan University, Wuhan, 430072, China. Electronic address: ldw926@whu.edu.cn."
+      }
+    ],
+    "journal": "Journal of ethnopharmacology",
+    "publishedDate": "2026-07-16",
+    "fetchedDate": "2026-09-01",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "cardiovascular",
+      "heart",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"oyWLjF4-2kFHot-a34292bb5c62e5f1\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 503: upstream connect error or disconnect/reset before headers. reset reason: connection timeout | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   },
   {
     "id": "pubmed-42142262",
@@ -12620,91 +12705,6 @@
       "stroke",
       "gene",
       "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41770542",
-    "pmid": "41770542",
-    "doi": "10.1001/jamapediatrics.2026.0015",
-    "title": "Plasma Biomarkers of Brain Injury in Critically Ill Children Receiving Extracorporeal Membrane Oxygenation.",
-    "titlePt": "Plasma Biomarkers of Brain Injury in Critically Ill Children Receiving Extracorporeal Membrane Oxygenation.",
-    "abstract": "Timely identification of acute brain injury (ABI) in children receiving extracorporeal membrane oxygenation (ECMO) support is critical for early neuroprotective interventions. To determine if elevations in plasma glial fibrillary acidic protein (GFAP), neurofilament light chain (NfL), and tau levels in children receiving ECMO precede new ABI confirmed by neuroimaging, and if they are associated with mortality and functional outcomes. This was a prospective observational cohort study conducted from 2019 to 2023, with 18-month follow-up completed in 2025. Children aged 2 days to younger than 18 years at ECMO cannulation were recruited from 11 US children's hospitals. Study data were analyzed from May to August 2025. GFAP, NfL, and tau measured in plasma samples collected serially during the ECMO course. Unfavorable short-term outcome was a composite of in-hospital mortality or discharge Pediatric Cerebral Performance Category score of 3 or greater with decline of at least 1 point from ba",
-    "journalisticSummary": "Um estudo recente publicado na revista JAMA Pediatrics investigou a utilização de biomarcadores plasmáticos para identificar lesões cerebrais agudas em crianças criticamente doentes que recebem suporte de oxigenação de membrana extracorpórea (ECMO). A identificação precoce dessas lesões é fundamental para implementar intervenções neuroprotetoras oportunas. O estudo avaliou se os níveis plasmáticos de proteína ácida fibrilar glial (GFAP), corrente leve de neurofilamento (NfL) e tau em crianças que recebem ECMO precedem novas lesões cerebrais agudas confirmadas por neuroimagem e se esses biomarcadores estão associados à mortalidade e aos resultados funcionais.\n\nOs pesquisadores conduziram um estudo de coorte prospectivo observacional em 11 hospitais pediátricos nos EUA, recrutando crianças com idades entre 2 dias e menos de 18 anos que receberam ECMO entre 2019 e 2023. Os níveis de GFAP, NfL e tau foram medidos em amostras plasmáticas coletadas serialmente durante o curso do ECMO. Os resultados mostraram que os biomarcadores plasmáticos podem ser úteis na identificação precoce de lesões cerebrais agudas em crianças que recebem ECMO. No entanto, não foram fornecidos detalhes específicos sobre os achados principais, como a sensibilidade e a especificidade desses biomarcadores.\n\nO impacto clínico desse estudo é significativo, pois a identificação precoce de lesões cerebrais agudas pode permitir intervenções neuroprotetoras mais eficazes, melhorando os resultados funcionais e reduzindo a mortalidade em crianças criticamente doentes. No entanto, o estudo também apresenta limitações, como a necessidade de mais pesquisas para validar os resultados e determinar a utilidade clínica prática desses biomarcadores. Além disso, não foi informado se os pesquisadores planejam realizar estudos adicionais para explorar a aplicação clínica desses biomarcadores.\n\nOs próximos passos incluem a realização de estudos mais amplos e longitudinais para confirmar os resultados e explorar a utilidade clínica desses biomarcadores em diferentes contextos. Além disso, é fundamental investigar a relação entre os níveis plasmáticos desses biomarcadores e os resultados funcionais a longo prazo em crianças que recebem ECMO.\n\nUm estudo recente publicado na revista JAMA Pediatrics investigou a utilização de biomarcadores plasmáticos para identificar lesões cerebrais agudas em crianças criticamente doentes que recebem suporte de oxigenação de membrana extracorpórea (ECMO). Infelizmente, não foi possível obter mais informações sobre os resultados específicos do estudo, como as taxas de sensibilidade e especificidade dos biomarcadores avaliados.\n\nAqui está a versão em inglês:\n\nA recent study published in JAMA Pediatrics investigated the use of plasma biomarkers to identify acute brain injuries in critically ill children receiving extracorporeal membrane oxygenation (ECMO) support. Early identification of these injuries is crucial for implementing timely neuroprotective interventions. The study evaluated whether plasma levels of glial fibrillary acidic protein (GFAP), neurofilament light chain (NfL), and tau in children receiving ECMO precede new acute brain injuries confirmed by neuroimaging and whether these biomarkers are associated with mortality and functional outcomes.\n\nThe researchers conducted a prospective observational cohort study in 11 US children's hospitals, recruiting children aged 2 days to less than 18 years who received ECMO between 2019 and 2023. GFAP, NfL, and tau levels were measured in plasma samples collected serially during the ECMO course. The results showed that plasma biomarkers may be useful in the early identification of acute brain injuries in children receiving ECMO. However, specific details about the main findings, such as the sensitivity and specificity of these biomarkers, were not provided.\n\nThe clinical impact of this study is significant, as early identification of acute brain injuries can enable more effective neuroprotective interventions, improving functional outcomes and reducing mortality in critically ill children. However, the study also has limitations, such as the need for further research to validate the results and determine the practical clinical utility of these biomarkers. Additionally, it was not reported whether the researchers plan to conduct additional studies to explore the clinical application of these biomarkers.\n\nThe next steps include conducting larger and longitudinal studies to confirm the results and explore the clinical utility of these biomarkers in different contexts. Furthermore, it is essential to investigate the relationship between plasma levels of these biomarkers and long-term functional outcomes in children receiving ECMO.\n\nA recent study published in JAMA Pediatrics investigated the use of plasma biomarkers to identify acute brain injuries in critically ill children receiving extracorporeal membrane oxygenation (ECMO) support. Unfortunately, it was not possible to obtain more information about the specific results of the study, such as the sensitivity and specificity rates of the evaluated biomarkers.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41770542",
-    "authors": [
-      {
-        "name": "Matthew L Friedman",
-        "affiliation": "Department of Pediatrics, Indiana University School of Medicine, Indianapolis."
-      },
-      {
-        "name": "Michael J Bell",
-        "affiliation": "Department of Pediatrics, UT Southwestern, Dallas, Texas."
-      },
-      {
-        "name": "Bonnie A Brooks",
-        "affiliation": "Division of Pediatric Critical Care Medicine, Mattel Children's Hospital, University of California Los Angeles."
-      },
-      {
-        "name": "Adam S Himebauch",
-        "affiliation": "Division of Critical Care Medicine, Department of Anesthesiology and Critical Care Medicine, Perelman School of Medicine at the University of Pennsylvania and the Children's Hospital of Philadelphia, Philadelphia."
-      }
-    ],
-    "journal": "JAMA pediatrics",
-    "publishedDate": "2026-06-01",
-    "fetchedDate": "2026-06-01",
-    "category": "Pediatria",
-    "tags": [
-      "brain",
-      "pediatric",
-      "children"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-40997264",
-    "pmid": "40997264",
-    "doi": "10.1097/SHK.0000000000002720",
-    "title": "Pancreatic Stone Protein in Co-Evaluation With QSOFA and News2 for Early Sepsis Detection at the Emergency Department.",
-    "titlePt": "Pancreatic Stone Protein in Co-Evaluation With QSOFA and News2 for Early Sepsis Detection at the Emergency Department.",
-    "abstract": "Early sepsis identification at the emergency department (ED) triage is essential for timely treatment and improved outcomes. This study evaluated the diagnostic performance of pancreatic stone protein (PSP) in combination with the quick Sequential Organ Failure Assessment (qSOFA) and the National Early Warning Score (NEWS2) for early sepsis detection. As part of the PROMPT study-a noninterventional, multicenter trial across six Greek hospitals-blood samples were collected within the first hour of admission in the emergency department. PSP levels were retrospectively assessed using a nanofluidic near-patient immunoassay device (abioSCOPE, Abionic SA, Switzerland) in 362 adult patients with suspected infections and evaluated their qSOFA and NEWS2 scores. Objectives included evaluating qSOFA's performance, assessing the performance of PSP to identify high-risk patients with qSOFA &#x2264;1, and determining the added value of combining PSP with qSOFA or NEWS2 (cutoff &#x2265;7), using stan",
-    "journalisticSummary": "A detecção precoce de sepse no departamento de emergência é fundamental para o tratamento oportuno e melhoria dos resultados clínicos. Um estudo recente avaliou o desempenho diagnóstico da proteína de pedra pancreática (PSP) em combinação com a avaliação rápida da falência de órgãos sequencial (qSOFA) e o Escore de Aviso Precoce Nacional (NEWS2) para detecção precoce de sepse. Os pesquisadores coletaram amostras de sangue de 362 pacientes adultos com suspeita de infecção dentro da primeira hora após a admissão no departamento de emergência e avaliaram os níveis de PSP por meio de um dispositivo de imunoensaio de proximidade nanofluidico (abioSCOPE, Abionic SA, Suíça). Os objetivos incluíram avaliar o desempenho da qSOFA, avaliar o desempenho da PSP para identificar pacientes de alto risco com qSOFA ≤1 e determinar o valor adicionado da combinação de PSP com qSOFA ou NEWS2 (corte ≥7). Embora os resultados específicos não tenham sido informados no resumo, estudos como esse são essenciais para explorar novas abordagens para a detecção precoce de sepse, que é uma condição clínica grave e potencialmente fatal. A identificação de biomarcadores e a integração de escores clínicos podem melhorar a capacidade de diagnóstico e, consequentemente, os resultados dos pacientes. No entanto, é importante considerar as limitações e os próximos passos, incluindo a necessidade de mais estudos para validar essas abordagens e garantir sua aplicabilidade clínica.\n\nA detecção precoce de sepse no departamento de emergência é crucial para o tratamento oportuno e melhoria dos resultados clínicos. Um estudo recente avaliou o desempenho diagnóstico da proteína de pedra pancreática (PSP) em combinação com a avaliação rápida da falência de órgãos sequencial (qSOFA) e o Escore de Aviso Precoce Nacional (NEWS2) para detecção precoce de sepse. No entanto, os resultados específicos não foram divulgados no resumo original, portanto, não podemos fornecer detalhes sobre os achados principais. Estudos como esse são fundamentais para explorar novas abordagens para a detecção precoce de sepse, que é uma condição clínica grave e potencialmente fatal. A identificação de biomarcadores e a integração de escores clínicos podem melhorar a capacidade de diagnóstico e, consequentemente, os resultados dos pacientes.\n\nThe early detection of sepsis in the emergency department is essential for timely treatment and improved clinical outcomes. A recent study evaluated the diagnostic performance of pancreatic stone protein (PSP) in combination with the quick Sequential Organ Failure Assessment (qSOFA) and the National Early Warning Score (NEWS2) for early sepsis detection. The researchers collected blood samples from 362 adult patients with suspected infections within the first hour after admission to the emergency department and assessed PSP levels using a nanofluidic near-patient immunoassay device (abioSCOPE, Abionic SA, Switzerland). The objectives included evaluating the performance of qSOFA, assessing the performance of PSP to identify high-risk patients with qSOFA ≤1, and determining the added value of combining PSP with qSOFA or NEWS2 (cutoff ≥7). Although the specific results were not reported in the abstract, studies like this are crucial for exploring new approaches to early sepsis detection, which is a severe and potentially fatal clinical condition. The identification of biomarkers and the integration of clinical scores can improve diagnostic capabilities and, consequently, patient outcomes. However, it is essential to consider the limitations and next steps, including the need for further studies to validate these approaches and ensure their clinical applicability. The impact of this study on clinical practice remains to be seen, and further research is needed to fully understand the potential benefits and limitations of using PSP in combination with qSOFA and NEWS2 for early sepsis detection.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40997264",
-    "authors": [
-      {
-        "name": "Asimina Safarika",
-        "affiliation": "Fourth Department of Internal Medicine, National and Kapodistrian University of Athens, Athens, Greece."
-      },
-      {
-        "name": "Georgia Damoraki",
-        "affiliation": "Fourth Department of Internal Medicine, National and Kapodistrian University of Athens, Athens, Greece."
-      },
-      {
-        "name": "Konstantinos Katsaros",
-        "affiliation": "Department of Surgery, Nafplion General Hospital, Nafplio, Greece."
-      },
-      {
-        "name": "Soraya Hannane",
-        "affiliation": "Abionic SA, Epalinges, Switzerland."
-      }
-    ],
-    "journal": "Shock (Augusta, Ga.)",
-    "publishedDate": "2026-06-01",
-    "fetchedDate": "2026-06-01",
-    "category": "Infectologia",
-    "tags": [
-      "infection",
-      "sepsis"
     ],
     "isHighlight": false,
     "readTime": 9,
