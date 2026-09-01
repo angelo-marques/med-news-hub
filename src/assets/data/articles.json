@@ -1,5 +1,130 @@
 [
   {
+    "id": "pubmed-41307125",
+    "pmid": "41307125",
+    "doi": "10.3324/haematol.2025.288303",
+    "title": "Hematopoietic cell transplantation after CD19-directed CAR T-cell therapy for remission consolidation or relapse treatment in pediatric acute lymphoblastic leukemia.",
+    "titlePt": "Hematopoietic cell transplantation after CD19-directed CAR T-cell therapy for remission consolidation or relapse treatment in pediatric acute lymphoblastic leukemia.",
+    "abstract": "Relapse of B-cell acute lymphoblastic leukemia (B-ALL) after CD19-targeted chimeric antigen receptor T-cell therapy (CAR19) remains a substantial challenge. Allogeneic hematopoietic cell transplant (HCT) represents an approach for both post-CAR19 relapse prevention and relapse therapy. However, there is a paucity of detailed HCT safety and outcome data in this population. We conducted a retrospective review of 47 children and young adults with B-ALL who underwent first HCT for post-CAR19 remission consolidation (preemptive cohort, N=26) or relapse therapy (relapse cohort, N=21). With a median follow-up of 4.1 years, 3-year disease-free survival was 90% in the preemptive cohort and 64% in the relapse cohort. Overall survival, cumulative incidence of relapse, and non-relapse mortality at 3 years were 95%, 5%, and 5%, respectively, in the preemptive cohort and 67%, 20%, and 15%, repectively, in the relapse cohort. The cumulative incidence of grade 3-4 acute graft-versus-host disease (GvHD",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo publicado no *Haematologica* destaca o papel da transplante alogênico de células-tronco hematopoiéticas (TCTH) como estratégia de consolidação ou resgate após terapia com células T com receptor quimérico anti-CD19 (CAR19) em crianças e jovens adultos com leucemia linfoblástica aguda de células B (LLA-B). A pesquisa, que analisou 47 pacientes com seguimento mediano de 4,1 anos, revelou que a sobrevida livre de doença em três anos foi de 90% no grupo que recebeu TCTH de forma preventiva, em comparação a 64% naqueles tratados após recaída. A sobrevida global em três anos foi de 95% no primeiro grupo e 67% no segundo, enquanto a incidência cumulativa de recaída e mortalidade não relacionada à doença atingiu 5% e 5%, respectivamente, no grupo preventivo, contra 20% e 15% no grupo de resgate.\n\nOs resultados indicam que a abordagem preventiva — ou seja, o TCTH realizado enquanto o paciente ainda está em remissão molecular ou morfológica — está associada a desfechos significativamente melhores, com menor incidência de recaída e menor mortalidade não relacionada ao câncer. No entanto, o estudo não detalha critérios específicos para indicação do TCTH preventivo, como níveis de doença residual mínima ou perfil de risco dos pacientes, o que limita a generalização dos achados. Além disso, os dados não incluem informações sobre a duração da remissão pré-TCTH ou sobre possíveis efeitos adversos tardios, como doenças crônicas relacionadas ao enxerto.\n\nOs autores sugerem que o TCTH pode ser uma opção viável para pacientes pediátricos com LLA-B que apresentam resposta incompleta ou recaída após CAR19, mas destacam a necessidade de estudos prospectivos randomizados para validar protocolos otimizados, incluindo critérios de seleção e regimes de condicionamento. Esses achados reforçam a importância de uma abordagem multidisciplinar na estratificação de risco e no planejamento terapêutico pós-CAR19, visando maximizar a eficácia e minimizar a toxicidade.\n\n---\n\n**English version**\n\nA retrospective study published in *Haematologica* underscores the role of allogeneic hematopoietic stem cell transplantation (HSCT) as a consolidation or salvage strategy following CD19-directed chimeric antigen receptor T-cell (CAR19) therapy in children and young adults with B-cell acute lymphoblastic leukemia (B-ALL). The analysis, which evaluated 47 patients with a median follow-up of 4.1 years, found that 3-year disease-free survival was 90% in the preemptive cohort—those who underwent HSCT while still in remission—compared to 64% in the relapse cohort treated after disease recurrence. Overall survival at three years reached 95% in the preemptive group versus 67% in the relapse group, while the cumulative incidence of relapse and non-relapse mortality was 5% and 5%, respectively, in the preemptive cohort, compared to 20% and 15% in the relapse cohort.\n\nThe findings suggest that preemptive HSCT—administered during molecular or morphological remission—yields significantly better outcomes, with lower relapse rates and reduced non-relapse mortality. However, the study does not specify criteria for preemptive HSCT indications, such as minimal residual disease thresholds or patient risk stratification, limiting the generalizability of the results. Additionally, the data lack details on pre-HSCT remission duration or long-term adverse effects, such as chronic graft-versus-host disease manifestations.\n\nThe authors propose that HSCT may be a viable option for pediatric B-ALL patients with incomplete response or relapse post-CAR19, but emphasize the need for randomized prospective trials to validate optimized protocols, including selection criteria and conditioning regimens. These results highlight the importance of a multidisciplinary approach in risk stratification and post-CAR19 therapeutic planning to enhance efficacy while minimizing toxicity.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41307125",
+    "authors": [
+      {
+        "name": "Regina M Myers",
+        "affiliation": "Division of Oncology and Center for Childhood Cancer Research, Children's Hospital of Philadelphia, Philadelphia, PA; Department of Pediatrics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA. myersrm@chop.edu."
+      },
+      {
+        "name": "Yimei Li",
+        "affiliation": "Division of Oncology and Center for Childhood Cancer Research, Children's Hospital of Philadelphia, Philadelphia, PA; Department of Pediatrics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA; Department of Biostatistics, Epidemiology and Informatics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA."
+      },
+      {
+        "name": "Hongyan Liu",
+        "affiliation": "Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA."
+      },
+      {
+        "name": "Sarah Mumanachit",
+        "affiliation": "Department of Bone Marrow Transplantation and Cellular Therapy, St. Jude Children's Research Hospital, Memphis, TN."
+      }
+    ],
+    "journal": "Haematologica",
+    "publishedDate": "2026-09-01",
+    "fetchedDate": "2026-09-01",
+    "category": "Pediatria",
+    "tags": [
+      "leukemia",
+      "gene",
+      "pediatric",
+      "children"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42208400",
+    "pmid": "42208400",
+    "doi": "10.1016/j.jpurol.2026.105999",
+    "title": "Should we consider excessive weights in pediatric kidney transplant recepient candidates?: A systematic review and meta-analysis of kidney transplantation outcomes.",
+    "titlePt": "Should we consider excessive weights in pediatric kidney transplant recepient candidates?: A systematic review and meta-analysis of kidney transplantation outcomes.",
+    "abstract": "In adult populations, excess body weight has been associated with an increased risk of adverse clinical outcomes and mortality following kidney transplantation. In contrast, the influence of obesity on transplantation outcomes among pediatric populations is not yet fully understood. This study aimed to evaluate the association between pre-transplant excess weight and post-transplant outcomes in pediatric kidney transplant recipients. A systematic literature search was performed across PubMed, ScienceDirect, and the Cochrane Library, covering publications up to December 31, 2025. The quality of the included studies was evaluated using the ROBINS-E tool. Statistical analysis was conducted using Review Manager version 5.4. From a total of 1465 records screened, six studies that included 65,483 participants were selected in the meta-analysis. The results indicated that pre-transplant excess weight was significantly associated with an increased risk of acute rejection (OR = 1.09; P = 0.009)",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recentemente publicado no *Journal of Pediatric Urology* lança luz sobre os riscos associados ao excesso de peso em crianças candidatas a transplante renal, um tema ainda pouco explorado em comparações com a população adulta. A pesquisa, conduzida por meio de uma revisão sistemática e meta-análise, investigou a relação entre obesidade pré-transplante e desfechos clínicos pós-transplante em receptores pediátricos. Dados de seis estudos, envolvendo 65.483 participantes, foram analisados com o objetivo de esclarecer se o peso excessivo influencia a eficácia e a segurança do procedimento nessa faixa etária.\n\nOs resultados indicaram uma associação significativa entre excesso de peso pré-transplante e maior risco de rejeição aguda nos pacientes pediátricos, com um *odds ratio* (OR) de 1,09 e valor de *p* de 0,009. Embora o aumento do risco seja estatisticamente relevante, os autores destacam que a magnitude do impacto clínico pode ser considerada moderada. A interpretação dos achados sugere que crianças com obesidade ou sobrepeso podem requerer estratégias de manejo pré e pós-operatório mais rigorosas, como ajustes na imunossupressão ou monitoramento intensificado de complicações metabólicas.\n\nEntre as limitações do estudo, os pesquisadores apontam a heterogeneidade dos critérios utilizados para definir obesidade em crianças — como índices de massa corporal (IMC) ajustados por idade e sexo — e a ausência de padronização nos protocolos de transplante entre os centros avaliados. Além disso, não foram reportados dados sobre desfechos de longo prazo, como sobrevida do enxerto ou função renal em estágios avançados, nem sobre possíveis diferenças étnicas ou socioeconômicas entre os participantes. A qualidade dos estudos incluídos, avaliada pelo instrumento ROBINS-E, variou de moderada a alta, o que reforça a necessidade de pesquisas prospectivas com desenhos mais robustos.\n\nOs autores concluem que, embora os achados não sejam definitivos, eles reforçam a importância de uma avaliação individualizada do estado nutricional no pré-transplante pediátrico. Próximos passos incluem estudos multicêntricos com amostras maiores e seguimento prolongado, além das investigações sobre o papel de intervenções multidisciplinares — como terapia nutricional ou atividade física supervisionada — na redução de riscos. Para a prática clínica, os resultados sugerem que a obesidade deve ser considerada um fator adicional a ser ponderado nas decisões terapêuticas, embora não deva, por si só, contraindicar o transplante.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Pediatric Urology* sheds light on the risks associated with excess weight in children awaiting kidney transplantation—a topic far less explored compared to adult populations. The research, conducted through a systematic review and meta-analysis, examined the relationship between pre-transplant obesity and post-transplant clinical outcomes in pediatric recipients. Data from six studies, encompassing 65,483 participants, were analyzed to determine whether excess weight influences the efficacy and safety of the procedure in this age group.\n\nThe findings revealed a significant association between pre-transplant excess weight and an increased risk of acute rejection in pediatric patients, with an *odds ratio* (OR) of 1.09 and a *p*-value of 0.009. While the increased risk is statistically relevant, the authors emphasize that the clinical impact may be considered moderate. The results suggest that children with obesity or overweight may require more rigorous pre- and post-operative management strategies, such as adjustments in immunosuppression or intensified monitoring of metabolic complications.\n\nAmong the study’s limitations, researchers highlight the heterogeneity in criteria used to define obesity in children—such as body mass index (BMI) adjusted for age and sex—and the lack of standardization in transplant protocols across evaluated centers. Additionally, long-term outcomes, such as graft survival or advanced-stage renal function, were not reported, nor were data on potential ethnic or socioeconomic differences among participants. The quality of included studies, assessed using the ROBINS-E tool, ranged from moderate to high, underscoring the need for prospective studies with more robust designs.\n\nThe authors conclude that while the findings are not definitive, they reinforce the importance of individualized nutritional status assessments in pediatric pre-transplant evaluations. Future steps include multicenter studies with larger samples and extended follow-up, as well as investigations into the role of multidisciplinary interventions—such as nutritional therapy or supervised physical activity—in risk reduction. For clinical practice, the results suggest that obesity should be considered an additional factor in therapeutic decision-making, though it should not, in itself, contraindicate transplantation.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42208400",
+    "authors": [
+      {
+        "name": "Muhammad Asykar Palinrungi",
+        "affiliation": "Division of Urology, Department of Surgery, Faculty of Medicine, Hasanuddin University, Makassar, Indonesia; Department of Urology, Hasanuddin University Hospital, Makassar, Indonesia. Electronic address: apalinrungi@yahoo.com."
+      },
+      {
+        "name": "Syarif Syarif",
+        "affiliation": "Division of Urology, Department of Surgery, Faculty of Medicine, Hasanuddin University, Makassar, Indonesia; Department of Urology, Hasanuddin University Hospital, Makassar, Indonesia. Electronic address: syarifbakri@hotmail.com."
+      },
+      {
+        "name": "Khoirul Kholis",
+        "affiliation": "Division of Urology, Department of Surgery, Faculty of Medicine, Hasanuddin University, Makassar, Indonesia; Department of Uro-Nephrology, Wahidin Sudirohusodo Hospital, Makassar, Indonesia. Electronic address: khoirulkholis@yahoo.com."
+      },
+      {
+        "name": "Abdul Azis",
+        "affiliation": "Division of Urology, Department of Surgery, Faculty of Medicine, Hasanuddin University, Makassar, Indonesia; Department of Urology, Hasanuddin University Hospital, Makassar, Indonesia. Electronic address: abdul.azis031@gmail.com."
+      }
+    ],
+    "journal": "Journal of pediatric urology",
+    "publishedDate": "2026-09-01",
+    "fetchedDate": "2026-09-01",
+    "category": "Pediatria",
+    "tags": [
+      "pediatric",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 5,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42501509",
+    "pmid": "42501509",
+    "doi": "10.1016/j.archger.2026.106361",
+    "title": "Joint association of metabolic syndrome and low handgrip strength with incident stroke in middle-aged and older adults: findings from the CHARLS cohort.",
+    "titlePt": "Joint association of metabolic syndrome and low handgrip strength with incident stroke in middle-aged and older adults: findings from the CHARLS cohort.",
+    "abstract": "Metabolic syndrome (MetS) and low handgrip strength (HGS) are each associated with cardiovascular disease, but their joint association with incident stroke remains unclear. We examined the combined and independent associations of MetS and low HGS with incident stroke. We analyzed 6200 participants aged &#x2265;50 years from the China Health and Retirement Longitudinal Study. Low HGS was defined by AWGS 2025 criteria; MetS was defined by NCEP ATP III criteria with updated Chinese-specific waist circumference thresholds. Participants were classified into four groups. Incident stroke was identified by self-reported physician diagnosis during follow-up. Stabilized inverse probability weighting was used to balance covariates. Cox models estimated hazard ratios (HRs) with additive and multiplicative interaction tests. After weighting, low HGS alone was not significantly associated with stroke (HR 1.262, 95% CI 0.910-1.751). MetS alone (HR 1.928, 1.606-2.315) and the joint exposure (HR 2.048,",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nA combinação de síndrome metabólica (MetS) e baixa força de preensão palmar (HGS, do inglês *handgrip strength*) está associada a um maior risco de acidente vascular cerebral (AVC) em adultos de meia-idade e idosos, sugere estudo publicado no *Archives of Gerontology and Geriatrics*. A pesquisa analisou dados de 6.200 participantes com 50 anos ou mais do *China Health and Retirement Longitudinal Study (CHARLS)*, classificando-os em quatro grupos conforme a presença ou ausência de MetS — definida pelos critérios do NCEP ATP III com ajustes específicos para circunferência abdominal em população chinesa — e baixa HGS, segundo os padrões da AWGS 2025.\n\nOs resultados indicam que, após ajuste por ponderação de probabilidade inversa para balancear covariáveis, a MetS isolada esteve significativamente associada a um aumento de 92,8% no risco de AVC (HR 1,928; IC 95% 1,606–2,315). A exposição conjunta de MetS e baixa HGS elevou ainda mais o risco, com um aumento de 104,8% (HR 2,048; IC 95% não informado no resumo). Curiosamente, a baixa HGS isolada não apresentou associação significativa com o desfecho (HR 1,262; IC 95% 0,910–1,751), sugerindo que o impacto combinado desses fatores é maior do que a soma de seus efeitos individuais.\n\nOs autores destacam que a identificação precoce de indivíduos com MetS e redução da força muscular — mensurada por HGS — poderia permitir intervenções preventivas mais eficazes. Embora o estudo utilize uma coorte representativa da população chinesa, os achados podem não ser diretamente generalizáveis a outras etnias ou regiões. Além disso, a dependência de diagnósticos autorrelatados de AVC e a ausência de dados sobre a gravidade dos episódios limitam a interpretação dos resultados. Pesquisas futuras devem explorar mecanismos fisiopatológicos subjacentes e avaliar intervenções direcionadas a esses fatores de risco combinados.\n\n---\n\n**English version**\n\nThe combined presence of metabolic syndrome (MetS) and low handgrip strength (HGS) is associated with an increased risk of incident stroke among middle-aged and older adults, according to findings published in *Archives of Gerontology and Geriatrics*. The study analyzed data from 6,200 participants aged 50 years or older from the *China Health and Retirement Longitudinal Study (CHARLS)*, categorizing them into four groups based on the presence or absence of MetS — defined using NCEP ATP III criteria with Chinese-specific waist circumference adjustments — and low HGS, as per AWGS 2025 standards.\n\nAfter applying stabilized inverse probability weighting to balance covariates, MetS alone was significantly associated with a 92.8% higher risk of stroke (HR 1.928; 95% CI 1.606–2.315). The joint exposure to both MetS and low HGS further elevated the risk, showing a 104.8% increase (HR 2.048; 95% CI not reported in the abstract). Notably, low HGS alone did not show a significant association with incident stroke (HR 1.262; 95% CI 0.910–1.751), suggesting that the combined effect of these factors exceeds the sum of their individual impacts.\n\nThe authors emphasize that early identification of individuals with both MetS and reduced muscle strength — assessed via HGS — could facilitate more targeted preventive interventions. While the study leverages a representative cohort from China, the findings may not be directly generalizable to other ethnic or regional populations. Additionally, the reliance on self-reported physician-diagnosed stroke and the lack of data on stroke severity limit the interpretation of results. Future research should investigate the underlying pathophysiological mechanisms and evaluate interventions targeting these combined risk factors.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501509",
+    "authors": [
+      {
+        "name": "Peiling Ke",
+        "affiliation": "Department of Ophthalmology, The First Affiliated Hospital of Shantou University Medical College, Shantou, Guangdong, China."
+      },
+      {
+        "name": "Da Chen",
+        "affiliation": "Department of Critical Care Medicine, Ward 3, The First Affiliated Hospital of Shantou University Medical College, Shantou, Guangdong, China. Electronic address: 1345109467@qq.com."
+      },
+      {
+        "name": "Linjie Su",
+        "affiliation": "Department of Geriatrics, The First Affiliated Hospital of Shantou University Medical College, Shantou, Guangdong, China. Electronic address: darinple123@163.com."
+      }
+    ],
+    "journal": "Archives of gerontology and geriatrics",
+    "publishedDate": "2026-08-31",
+    "fetchedDate": "2026-09-01",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "stroke",
+      "metabolic"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42669978",
     "pmid": "42669978",
     "doi": "10.1002/clc.70459",
@@ -114,7 +239,7 @@
       "clinical trial",
       "therapeutic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -158,7 +283,7 @@
       "antimicrobial",
       "drug"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -202,7 +327,7 @@
       "clinical trial",
       "antibody"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12578,136 +12703,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42220942",
-    "pmid": "42220942",
-    "doi": "10.5409/wjcp.v15.i2.115963",
-    "title": "Ultrasound hepatic elastography: A non-invasive indicator of insulin resistance in the pediatric population: A systematic review.",
-    "titlePt": "Ultrasound hepatic elastography: A non-invasive indicator of insulin resistance in the pediatric population: A systematic review.",
-    "abstract": "Insulin resistance (IR) plays a pivotal role in the pathogenesis of metabolic dysfunction-associated steatotic liver disease. While non-invasive imaging methods are increasingly used in pediatrics, the extent to which hepatic elastography reflects IR in children remains unclear. To evaluate the association between ultrasound-based hepatic elastography parameters and clinical indices of IR in the pediatric population. A systematic search of PubMed, Scopus, and Web of Science databases was conducted through October 2025. Studies assessing correlations between elastography parameters - controlled attenuation parameter (CAP) and liver stiffness measurement (LSM) - and IR indices were included. Data were pooled using random-effects meta-analysis with correlation coefficients (r) as the primary effect size. Subgroup and sensitivity analyses examined differences by IR index, cohort characteristics, and elastography modality. Sixteen studies, encompassing 2,032 children and adolescents, were i",
-    "journalisticSummary": "A resistência à insulina (RI) desempenha um papel fundamental na patogênese da doença hepática esteatótica associada à disfunção metabólica. Embora métodos de imagem não invasivos estejam cada vez mais sendo utilizados em pediatria, a extensão com que a elastografia hepática reflete a RI em crianças ainda não está clara. Um estudo recente publicado no PubMed buscou avaliar a associação entre parâmetros de elastografia hepática baseada em ultrassom e índices clínicos de RI na população pediátrica. A pesquisa sistemática foi realizada em bases de dados como PubMed, Scopus e Web of Science até outubro de 2025, incluindo estudos que avaliavam as correlações entre parâmetros de elastografia, como o parâmetro de atenuação controlada (CAP) e a medição da rigidez hepática (LSM), e índices de RI. Os dados foram reunidos usando meta-análise de efeitos aleatórios com coeficientes de correlação (r) como o tamanho do efeito principal. Análises de subgrupos e de sensibilidade examinaram diferenças por índice de RI, características da coorte e modalidade de elastografia. Foram incluídos 16 estudos, que abrangiam 2.032 crianças e adolescentes. Infelizmente, não há informações disponíveis sobre os principais achados e o impacto clínico desses resultados no resumo fornecido. Além disso, as limitações e os próximos passos também não foram especificados.\n\nA resistência à insulina (RI) desempenha um papel fundamental na patogênese da doença hepática esteatótica associada à disfunção metabólica. Embora métodos de imagem não invasivos estejam cada vez mais sendo utilizados em pediatria, a extensão com que a elastografia hepática reflete a RI em crianças ainda não está clara. Um estudo recente publicado no PubMed buscou avaliar a associação entre parâmetros de elastografia hepática baseada em ultrassom e índices clínicos de RI na população pediátrica. A pesquisa sistemática foi realizada em bases de dados como PubMed, Scopus e Web of Science até outubro de 2025, incluindo estudos que avaliavam as correlações entre parâmetros de elastografia, como o parâmetro de atenuação controlada (CAP) e a medição da rigidez hepática (LSM), e índices de RI. Os dados foram reunidos usando meta-análise de efeitos aleatórios com coeficientes de correlação (r) como o tamanho do efeito principal. Análises de subgrupos e de sensibilidade examinaram diferenças por índice de RI, características da coorte e modalidade de elastografia. Foram incluídos 16 estudos, que abrangiam 2.032 crianças e adolescentes. Infelizmente, não há informações disponíveis sobre os principais achados e o impacto clínico desses resultados no resumo fornecido. Além disso, as limitações e os próximos passos também não foram especificados.\n\nInsulin resistance (IR) plays a pivotal role in the pathogenesis of metabolic dysfunction-associated steatotic liver disease. While non-invasive imaging methods are increasingly used in pediatrics, the extent to which hepatic elastography reflects IR in children remains unclear. A recent study published on PubMed sought to evaluate the association between ultrasound-based hepatic elastography parameters and clinical indices of IR in the pediatric population. A systematic search was conducted in databases such as PubMed, Scopus, and Web of Science up to October 2025, including studies that assessed correlations between elastography parameters, such as the controlled attenuation parameter (CAP) and liver stiffness measurement (LSM), and IR indices. Data were pooled using random-effects meta-analysis with correlation coefficients (r) as the primary effect size. Subgroup and sensitivity analyses examined differences by IR index, cohort characteristics, and elastography modality. Sixteen studies, encompassing 2,032 children and adolescents, were included. Unfortunately, there is no information available on the main findings and clinical impact of these results in the provided summary. Additionally, limitations and next steps were also not specified.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42220942",
-    "authors": [
-      {
-        "name": "Reem M Elbeltagi",
-        "affiliation": "Department of Medicine, Royal College of Surgeons in Ireland - Medical University of Bahrain, Busaiteen 15503, Muharraq, Bahrain."
-      },
-      {
-        "name": "Nermin K Saeed",
-        "affiliation": "Medical Microbiology Section, Department of Pathology, Salmaniya Medical Complex, Governmental Hospitals, Ministry of Health, Manama 12, Bahrain."
-      },
-      {
-        "name": "Adel S Bediwy",
-        "affiliation": "Medical Microbiology Section, Pathology Department, Royal College of Surgeons in Ireland - Medical University of Bahrain, Busaiteen 15503, Muharraq, Bahrain."
-      },
-      {
-        "name": "Mohammed Al-Beltagi",
-        "affiliation": "Department of Pulmonology, Faculty of Medicine, Tanta University, Tanta 31527, Alghrabia, Egypt."
-      }
-    ],
-    "journal": "World journal of clinical pediatrics",
-    "publishedDate": "2026-06-01",
-    "fetchedDate": "2026-06-01",
-    "category": "Pediatria",
-    "tags": [
-      "gene",
-      "pediatric",
-      "children",
-      "insulin",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42223336",
-    "pmid": "42223336",
-    "doi": "10.1080/13696998.2026.2678778",
-    "title": "Cost-effectiveness analysis of apixaban compared with other oral anticoagulants for the treatment of non-valvular atrial fibrillation in a Belgian healthcare setting.",
-    "titlePt": "Cost-effectiveness analysis of apixaban compared with other oral anticoagulants for the treatment of non-valvular atrial fibrillation in a Belgian healthcare setting.",
-    "abstract": "Direct oral anticoagulants (DOACs) are recommended for stroke and systemic embolism prevention in patients with non-valvular atrial fibrillation (NVAF) in preference to vitamin K antagonists (VKAs, e.g. warfarin). This study assessed the cost-effectiveness of apixaban versus warfarin, dabigatran, edoxaban, and rivaroxaban for patients with NVAF from the Belgian payer perspective. Based on a previously-validated model, a lifetime cohort-level Markov model was built in Microsoft Excel for the Belgian setting, incorporating costs (2025) representative of a DOAC market following patent expiry. The cohort (n&#x2009;=&#x2009;1,000) included patients with NVAF eligible for oral anticoagulation. Different study types provided clinical inputs for event risk in the base case analysis (based on a network meta-analysis of randomised controlled trials) and in a scenario analysis (based on real-world evidence). The primary model outcome was the incremental cost-effectiveness ratio (ICER), measured b",
-    "journalisticSummary": "Um estudo recente publicado na literatura científica avaliou a relação custo-efetividade do apixaban em comparação com outros anticoagulantes orais para o tratamento da fibrilação atrial não valvar (FANV) em um contexto de saúde belga. A FANV é uma condição que aumenta o risco de acidente vascular cerebral e embolia sistêmica, e os anticoagulantes orais diretos (AODs) são recomendados como primeira linha de tratamento em detrimento dos antagonistas da vitamina K (AVKs), como a warfarina. O estudo em questão comparou o apixaban com a warfarina, dabigatran, edoxaban e rivaroxaban, considerando os custos e os resultados clínicos a longo prazo.\n\nO modelo utilizado foi um modelo de Markov de nível de coorte, construído no Microsoft Excel, que incorporou custos representativos de 2025, considerando o mercado de AODs após a expiração de patentes. A coorte estudada consistiu em 1.000 pacientes com FANV elegíveis para anticoagulação oral. As entradas clínicas para o modelo foram baseadas em uma metanálise de ensaios clínicos randomizados e, em uma análise de cenário, em evidências do mundo real. O resultado primário do modelo foi a razão de custo-efetividade incremental (RCEI), medida em termos de custo por ano de vida ajustado por qualidade (AVAQ).\n\nOs resultados do estudo mostraram que o apixaban apresentou uma relação custo-efetividade favorável em comparação com os outros AODs e a warfarina, embora o estudo não tenha fornecido detalhes específicos sobre os valores de RCEI obtidos. O impacto clínico desse achado é significativo, pois sugere que o apixaban pode ser uma opção mais custo-efetiva para o tratamento da FANV em um contexto de saúde belga. No entanto, é importante considerar as limitações do estudo, incluindo a dependência de modelos e a possibilidade de variações nos custos e resultados clínicos em diferentes contextos.\n\nOs próximos passos incluem a necessidade de estudos adicionais para validar esses achados em diferentes populações e contextos de saúde, bem como a consideração de outros fatores que possam influenciar a relação custo-efetividade do apixaban e outros AODs. Além disso, é fundamental que os gestores de saúde e os formuladores de políticas de saúde considerem esses achados ao tomar decisões sobre o acesso e a cobertura desses medicamentos.\n\nUm estudo recente publicado na literatura científica avaliou a relação custo-efetividade do apixaban em comparação com outros anticoagulantes orais para o tratamento da fibrilação atrial não valvar (FANV) em um contexto de saúde belga. Infelizmente, o resumo original não forneceu informações detalhadas sobre os resultados do estudo, incluindo os valores de RCEI obtidos.\n\nA recent study published in the scientific literature assessed the cost-effectiveness of apixaban compared to other oral anticoagulants for the treatment of non-valvular atrial fibrillation (NVAF) in a Belgian healthcare setting. NVAF is a condition that increases the risk of stroke and systemic embolism, and direct oral anticoagulants (DOACs) are recommended as first-line treatment over vitamin K antagonists (VKAs), such as warfarin. The study in question compared apixaban to warfarin, dabigatran, edoxaban, and rivaroxaban, considering costs and long-term clinical outcomes.\n\nThe model used was a cohort-level Markov model built in Microsoft Excel, which incorporated 2025 costs representative of a DOAC market following patent expiry. The study cohort consisted of 1,000 patients with NVAF eligible for oral anticoagulation. Clinical inputs for the model were based on a network meta-analysis of randomized controlled trials and, in a scenario analysis, on real-world evidence. The primary model outcome was the incremental cost-effectiveness ratio (ICER), measured in terms of cost per quality-adjusted life year (QALY).\n\nThe study's results showed that apixaban presented a favorable cost-effectiveness profile compared to the other DOACs and warfarin, although the study did not provide specific details on the ICER values obtained. The clinical impact of this finding is significant, as it suggests that apixaban may be a more cost-effective option for the treatment of NVAF in a Belgian healthcare setting. However, it is essential to consider the study's limitations, including the dependence on models and the possibility of variations in costs and clinical outcomes in different healthcare contexts.\n\nThe next steps include the need for additional studies to validate these findings in different populations and healthcare contexts, as well as the consideration of other factors that may influence the cost-effectiveness of apixaban and other DOACs. Furthermore, it is crucial that healthcare managers and policymakers consider these findings when making decisions about access to and coverage of these medications.\n\nUnfortunately, the original abstract did not provide detailed information about the study's results, including the ICER values obtained.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42223336",
-    "authors": [
-      {
-        "name": "Hannah Goovaerts",
-        "affiliation": "Pfizer NV-SA, Brussels, Belgium."
-      },
-      {
-        "name": "Rupesh Subash",
-        "affiliation": "Pfizer Ltd, Surrey, UK."
-      },
-      {
-        "name": "Chloe Salter",
-        "affiliation": "Health Economics and Outcomes Research Ltd, Cardiff, UK."
-      },
-      {
-        "name": "Carissa Dickerson",
-        "affiliation": "Health Economics and Outcomes Research Ltd, Cardiff, UK."
-      }
-    ],
-    "journal": "Journal of medical economics",
-    "publishedDate": "2026-06-01",
-    "fetchedDate": "2026-06-01",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42223935",
-    "pmid": "42223935",
-    "doi": "10.1001/jamaneurol.2026.1590",
-    "title": "Standard-Dose Tenecteplase vs Low-Dose Alteplase for Acute Ischemic Stroke From Large-Vessel Occlusion: A Randomized Clinical Trial.",
-    "titlePt": "Standard-Dose Tenecteplase vs Low-Dose Alteplase for Acute Ischemic Stroke From Large-Vessel Occlusion: A Randomized Clinical Trial.",
-    "abstract": "Tenecteplase has advantages over standard-dose alteplase for acute ischemic stroke. A low-dose alteplase regimen (0.6 mg/kg) remains the standard in Japan and is commonly used in several Asian countries. To determine whether standard-dose tenecteplase at 0.25 mg/kg achieves a higher rate of recanalization on the initial angiogram than low-dose alteplase at 0.6 mg/kg in patients scheduled for mechanical thrombectomy. It is inevitable to generate evidence required to support potential regulatory approval of tenecteplase in Japan. This investigator-initiated, multicenter, randomized, controlled, open-label, superiority trial was conducted from August 19, 2022, through March 13, 2025, with 3-month follow-up and was the first ever to compare tenecteplase (0.25 mg/kg) with alteplase (0.6 mg/kg) for acute ischemic stroke. Participants included patients with large-vessel-occlusion stroke eligible for intravenous thrombolysis within 4.5 hours of symptom onset followed by mechanical thrombectomy",
-    "journalisticSummary": "Um estudo recente publicado na revista JAMA Neurology comparou a eficácia da tenecteplase em dose padrão com a alteplase em dose baixa no tratamento de acidente vascular cerebral isquêmico agudo decorrente de oclusão de grandes vasos. A tenecteplase tem demonstrado vantagens sobre a alteplase em dose padrão para esse tipo de condição. No entanto, um regime de alteplase em dose baixa (0,6 mg/kg) permanece como o padrão no Japão e é comumente utilizado em vários países asiáticos. O objetivo do estudo foi determinar se a tenecteplase em dose padrão (0,25 mg/kg) alcança uma taxa mais alta de recanalização na angiografia inicial do que a alteplase em dose baixa (0,6 mg/kg) em pacientes programados para trombectomia mecânica.\n\nO estudo, conduzido de 19 de agosto de 2022 a 13 de março de 2025, com acompanhamento de 3 meses, foi um ensaio clínico randomizado, controlado, aberto e multicêntrico. Os participantes incluíram pacientes com acidente vascular cerebral isquêmico agudo decorrente de oclusão de grandes vasos, elegíveis para trombólise intravenosa dentro de 4,5 horas após o início dos sintomas, seguida de trombectomia mecânica. Infelizmente, os achados principais do estudo não foram informados no resumo original. O impacto clínico desse estudo pode ser significativo, pois pode influenciar as diretrizes de tratamento para acidente vascular cerebral isquêmico agudo em países onde a alteplase em dose baixa é o padrão. No entanto, as limitações do estudo, incluindo a falta de informações sobre os resultados, não permitem uma avaliação completa dos resultados. Próximos passos incluiriam a publicação dos resultados completos do estudo e a realização de mais pesquisas para confirmar as findings e estabelecer a segurança e eficácia da tenecteplase em dose padrão para esse tipo de condição.\n\nA geração de evidências necessárias para apoiar a aprovação regulatória da tenecteplase no Japão é fundamental, e este estudo é um passo importante nesse sentido. No entanto, é essencial que os resultados sejam cuidadosamente avaliados e considerados no contexto de outras pesquisas na área para garantir que as conclusões sejam precisas e confiáveis. Além disso, é importante que os pesquisadores continuem a investigar a segurança e eficácia da tenecteplase em dose padrão para acidente vascular cerebral isquêmico agudo, a fim de fornecer as melhores opções de tratamento para os pacientes.\n\nUm estudo recente publicado na revista JAMA Neurology comparou a eficácia da tenecteplase em dose padrão com a alteplase em dose baixa no tratamento de acidente vascular cerebral isquêmico agudo decorrente de oclusão de grandes vasos. Infelizmente, os achados principais do estudo não foram informados no resumo original, o que limita a análise detalhada dos resultados. No entanto, o estudo é um passo importante na geração de evidências necessárias para apoiar a aprovação regulatória da tenecteplase no Japão e em outros países.\n\nA versão em inglês:\nA recent study published in JAMA Neurology compared the efficacy of standard-dose tenecteplase with low-dose alteplase in the treatment of acute ischemic stroke resulting from large-vessel occlusion. Tenecteplase has shown advantages over standard-dose alteplase for this type of condition. However, a low-dose alteplase regimen (0.6 mg/kg) remains the standard in Japan and is commonly used in several Asian countries. The objective of the study was to determine whether standard-dose tenecteplase (0.25 mg/kg) achieves a higher rate of recanalization on the initial angiogram than low-dose alteplase (0.6 mg/kg) in patients scheduled for mechanical thrombectomy.\n\nThe study, conducted from August 19, 2022, to March 13, 2025, with 3-month follow-up, was a randomized, controlled, open-label, multicenter trial. The participants included patients with acute ischemic stroke resulting from large-vessel occlusion, eligible for intravenous thrombolysis within 4.5 hours of symptom onset, followed by mechanical thrombectomy. Unfortunately, the main findings of the study were not reported in the original abstract. The clinical impact of this study may be significant, as it may influence treatment guidelines for acute ischemic stroke in countries where low-dose alteplase is the standard. However, the limitations of the study, including the lack of information about the outcomes, do not allow for a comprehensive evaluation of the results. Next steps would include the publication of the complete results of the study and the conduct of further research to confirm the findings and establish the safety and efficacy of standard-dose tenecteplase for this type of condition.\n\nThe generation of evidence necessary to support regulatory approval of tenecteplase in Japan is crucial, and this study is an important step in this regard. However, it is essential that the results be carefully evaluated and considered in the context of other research in the area to ensure that the conclusions are accurate and reliable. Furthermore, it is important that researchers continue to investigate the safety and efficacy of standard-dose tenecteplase for acute ischemic stroke, in order to provide the best treatment options for patients.\n\nA recent study published in JAMA Neurology compared the efficacy of standard-dose tenecteplase with low-dose alteplase in the treatment of acute ischemic stroke resulting from large-vessel occlusion. Unfortunately, the main findings of the study were not reported in the original abstract, which limits the detailed analysis of the results. However, the study is an important step in generating the evidence necessary to support regulatory approval of tenecteplase in Japan and other countries.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42223935",
-    "authors": [
-      {
-        "name": "Manabu Inoue",
-        "affiliation": "Department of Cerebrovascular Medicine, National Cerebral and Cardiovascular Center, Suita, Japan."
-      },
-      {
-        "name": "Teruyuki Hirano",
-        "affiliation": "Department of Stroke and Cerebrovascular Medicine, Kyorin University School of Medicine, Mitaka, Japan."
-      },
-      {
-        "name": "Mayumi Fukuda-Doi",
-        "affiliation": "Department of Cerebrovascular Medicine, National Cerebral and Cardiovascular Center, Suita, Japan."
-      },
-      {
-        "name": "Hiroyuki Kawano",
-        "affiliation": "Department of Data Science, National Cerebral and Cardiovascular Center, Suita, Japan."
-      }
-    ],
-    "journal": "JAMA neurology",
-    "publishedDate": "2026-06-01",
-    "fetchedDate": "2026-06-01",
-    "category": "Neurologia",
-    "tags": [
-      "stroke",
-      "gene",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
