@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-42498744",
+    "pmid": "42498744",
+    "doi": "10.1038/s41416-026-03522-x",
+    "title": "Chinese expert consensus on precision testing and molecular diagnosis of pancreatic cancer (2025).",
+    "titlePt": "Chinese expert consensus on precision testing and molecular diagnosis of pancreatic cancer (2025).",
+    "abstract": "This consensus by the CSCO Pancreatic Cancer Expert Committee establishes evidence-based guidelines for molecular testing in pancreatic ductal adenocarcinoma. It details recommendations for biomarkers (e.g., KRAS, BRCA, MSI), liquid biopsy, and precision imaging to direct targeted therapies and immunotherapy, aiming to standardize diagnosis and optimize individualized patient care. Pancreatic ductal adenocarcinoma (PDAC) is the most common pathological type of primary pancreatic malignancy, accounting for ~95% of cases and generally referred to as pancreatic cancer [1]. Its prognosis is extremely poor and its incidence continues to rise [2]. According to the most recent global cancer statistics, the incidence of pancreatic cancer ranks 12th among all cancers, and its mortality ranks 6th, making it one of the deadliest malignancies worldwide [3]. Approximately 57% of patients have metastatic disease at diagnosis and require systemic therapy, for which chemotherapy remains the standard f",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm consenso de especialistas chineses, publicado em 2025, estabelece diretrizes baseadas em evidências para testes moleculares em pacientes com adenocarcinoma ductal pancreático (PDAC), o tipo mais comum de câncer pancreático primário, responsável por cerca de 95% dos casos. O documento, elaborado pelo Comitê de Especialistas em Câncer Pancreático da Sociedade Chinesa de Oncologia Clínica (CSCO), padroniza a abordagem diagnóstica e terapêutica por meio da identificação de biomarcadores como KRAS, BRCA e instabilidade de microssatélites (MSI), além de recomendar o uso de biópsia líquida e técnicas de imagem de precisão para direcionar terapias-alvo e imunoterapia.\n\nO PDAC apresenta prognóstico extremamente reservado, com incidência crescente e mortalidade que ocupa a sexta posição entre todos os tipos de câncer globalmente. Segundo dados recentes, cerca de 57% dos pacientes são diagnosticados em estágio metastático, demandando terapia sistêmica, cuja principal opção ainda é a quimioterapia. Nesse contexto, a integração de testes moleculares surge como estratégia promissora para personalizar o tratamento, especialmente diante da limitada eficácia das abordagens convencionais. Embora o consenso não especifique critérios de implementação em diferentes sistemas de saúde, ele reforça a necessidade de protocolos padronizados para otimizar a estratificação de pacientes e o acesso a terapias direcionadas, como inibidores de PARP em casos com mutações BRCA ou imunoterápicos em tumores MSI-high.\n\nEntre as principais limitações destacadas estão a heterogeneidade biológica do PDAC, a variabilidade na disponibilidade de tecnologias avançadas em diferentes regiões e a escassez de dados prospectivos que validem o impacto clínico dessas estratégias em populações diversas. Os autores sugerem que estudos futuros devem priorizar a validação de biomarcadores em coortes multirregionais e o desenvolvimento de algoritmos preditivos para guiar a combinação de terapias. Além disso, a integração de dados clínicos, genômicos e radiômicos emerge como caminho para aprimorar a acurácia diagnóstica e terapêutica, embora ainda não haja consenso sobre os padrões ideais para sua implementação.\n\n---\n\n**English version**\n\nA 2025 expert consensus from China outlines evidence-based molecular testing guidelines for pancreatic ductal adenocarcinoma (PDAC), the most common primary pancreatic malignancy, accounting for approximately 95% of cases. Developed by the Chinese Society of Clinical Oncology (CSCO) Pancreatic Cancer Expert Committee, the consensus standardizes diagnostic and therapeutic approaches through the identification of key biomarkers such as KRAS, BRCA, and microsatellite instability (MSI), alongside recommendations for liquid biopsy and precision imaging to guide targeted therapies and immunotherapy.\n\nPDAC carries an exceptionally poor prognosis, with rising incidence and mortality ranking sixth globally. Recent data indicate that about 57% of patients are diagnosed with metastatic disease, necessitating systemic therapy where chemotherapy remains the standard. In this context, molecular testing integration emerges as a promising strategy to personalize treatment, particularly given the limited efficacy of conventional approaches. While the consensus does not specify implementation criteria across healthcare systems, it underscores the need for standardized protocols to optimize patient stratification and access to targeted therapies, such as PARP inhibitors in BRCA-mutated cases or immunotherapy for MSI-high tumors.\n\nKey limitations include the biological heterogeneity of PDAC, disparities in access to advanced technologies across regions, and the lack of prospective data validating the clinical impact of these strategies in diverse populations. The authors propose that future research prioritize biomarker validation in multi-regional cohorts and the development of predictive algorithms to guide therapy combinations. Additionally, the integration of clinical, genomic, and radiomic data is highlighted as a potential path to enhance diagnostic and therapeutic accuracy, though consensus on optimal implementation standards remains unresolved.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498744",
+    "authors": [
+      {
+        "name": "Dan Cao",
+        "affiliation": "Division of Abdominal Tumor Multimodality Treatment, West China Hospital of Sichuan University, Chengdu, China."
+      },
+      {
+        "name": "Jianhui Wu",
+        "affiliation": "Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Department of Hepato-Pancreato-Biliary Surgery, Peking University Cancer Hospital and Institute, Beijing, China."
+      },
+      {
+        "name": "Jiujie Cui",
+        "affiliation": "Department of Oncology and State Key Laboratory of Systems Medicine for Cancer of Shanghai Cancer Institute, Renji Hospital, School of Medicine, Shanghai Jiaotong University, Shanghai, China."
+      },
+      {
+        "name": "Chen Xun",
+        "affiliation": "Hepatobiliary and Pancreatic Tumor Department, Nanjing Tianyinshan Hospital Affiliated to China Pharmaceutical University, Nanjing, China."
+      }
+    ],
+    "journal": "British journal of cancer",
+    "publishedDate": "2026-09-02",
+    "fetchedDate": "2026-09-02",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "carcinoma",
+      "chemotherapy",
+      "immunotherapy",
+      "gene"
+    ],
+    "isHighlight": true,
+    "readTime": 11,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42681987",
     "pmid": "42681987",
     "doi": "10.1097/MCO.0000000000001253",
@@ -201,7 +246,7 @@
       "hormone",
       "metabolic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12660,46 +12705,5 @@
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42234368",
-    "pmid": "42234368",
-    "doi": "10.1007/s10840-026-02357-z",
-    "title": "Safety and performance of the novel balloon-in-basket pulsed field ablation system: initial 100-patient experience at a high-volume electrophysiology center.",
-    "titlePt": "Safety and performance of the novel balloon-in-basket pulsed field ablation system: initial 100-patient experience at a high-volume electrophysiology center.",
-    "abstract": "The balloon-in-basket(BiB) pulsed field ablation(PFA) system integrates real-time electroanatomic mapping and contact sensing to streamline workflows, but clinical experience remain limited. The aim was to descriptively evaluate procedural performance, acute safety, and feasibility of the BiB-PFA-system in consecutive atrial fibrillation(AF) patients treated at a high-volume electrophysiology center. This prospective study included the first 100 consecutive patients undergoing pulmonary vein isolation(PVI) with the BiB-PFA-system between 01/2024 and 10/2025. The initial 30 patients were part of VOLTTM-CE-Mark-study and 25 of VOLTTM-CE-Mark-extended-study. It included a 20-minute waiting periode, pre-/postablation left-atrial mapping and phrenic nerve pacing; subsequent procedures relied solely on BiB-PFA-system. Additional linear or extra-pulmonary ablations were performed at operator discretion. Follow-up(&#x2265;&#x2009;6 months) as per institutional standart was available in 52 pati",
-    "journalisticSummary": "Um estudo recente publicado no PubMed avaliou a segurança e o desempenho de um sistema inovador de ablação por campo pulsado, conhecido como sistema balloon-in-basket (BiB), em pacientes com fibrilação atrial. O sistema BiB integra mapeamento eletroanatômico em tempo real e sensor de contato para otimizar os fluxos de trabalho, mas a experiência clínica ainda é limitada. O objetivo do estudo foi avaliar o desempenho procedimental, a segurança aguda e a viabilidade do sistema BiB em pacientes consecutivos com fibrilação atrial tratados em um centro de eletrofisiologia de alto volume. O estudo prospectivo incluiu os primeiros 100 pacientes consecutivos submetidos à isolamento das veias pulmonares (PVI) com o sistema BiB entre janeiro de 2024 e outubro de 2025. Os resultados mostraram que o sistema BiB é seguro e eficaz, com uma taxa de sucesso de 92% na PVI. Além disso, o estudo encontrou que o sistema BiB reduziu o tempo de procedimento em comparação com métodos convencionais. No entanto, o estudo também destacou limitações, incluindo a necessidade de mais dados de acompanhamento a longo prazo. Os próximos passos incluem a realização de estudos adicionais para avaliar a eficácia e a segurança do sistema BiB em uma população mais ampla de pacientes.\n\nA recent study published on PubMed evaluated the safety and performance of a novel pulsed field ablation system, known as the balloon-in-basket (BiB) system, in patients with atrial fibrillation. The BiB system integrates real-time electroanatomic mapping and contact sensing to streamline workflows, but clinical experience remains limited. The aim of the study was to descriptively evaluate procedural performance, acute safety, and feasibility of the BiB system in consecutive atrial fibrillation patients treated at a high-volume electrophysiology center. The prospective study included the first 100 consecutive patients undergoing pulmonary vein isolation (PVI) with the BiB system between January 2024 and October 2025. The results showed that the BiB system is safe and effective, with a success rate of 92% in PVI. Additionally, the study found that the BiB system reduced procedure time compared to conventional methods. However, the study also highlighted limitations, including the need for more long-term follow-up data. The next steps include conducting additional studies to evaluate the efficacy and safety of the BiB system in a larger patient population. Further research is needed to fully understand the potential benefits and limitations of this innovative technology.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42234368",
-    "authors": [
-      {
-        "name": "Roland Richard Tilz",
-        "affiliation": "Department of Rhythmology, University Heart Center L&#xfc;beck, University Hospital Schleswig-Holstein, Campus L&#xfc;beck, L&#xfc;beck, Germany."
-      },
-      {
-        "name": "Sascha Hatahet",
-        "affiliation": "German Center for Cardiovascular Research (DZHK), Partner Site Hamburg/Kiel/L&#xfc;beck, L&#xfc;beck, Germany."
-      },
-      {
-        "name": "Charlotte Eitel",
-        "affiliation": "Department of Rhythmology, University Heart Center L&#xfc;beck, University Hospital Schleswig-Holstein, Campus L&#xfc;beck, L&#xfc;beck, Germany. Sascha.hatahet@uksh.de."
-      },
-      {
-        "name": "Sorin Popescu",
-        "affiliation": "Department of Rhythmology, University Heart Center L&#xfc;beck, University Hospital Schleswig-Holstein, Campus L&#xfc;beck, L&#xfc;beck, Germany."
-      }
-    ],
-    "journal": "Journal of interventional cardiac electrophysiology : an international journal of arrhythmias and pacing",
-    "publishedDate": "2026-06-03",
-    "fetchedDate": "2026-06-03",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
