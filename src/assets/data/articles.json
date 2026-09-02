@@ -167,6 +167,47 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42677929",
+    "pmid": "42677929",
+    "doi": "10.1080/17568919.2026.2726194",
+    "title": "VEGFR-2 as a druggable target: recent advances (2025) in the development of five-membered heterocyclic anticancer agents.",
+    "titlePt": "VEGFR-2 as a druggable target: recent advances (2025) in the development of five-membered heterocyclic anticancer agents.",
+    "abstract": "The global burden of cancer continues to escalate, with angiogenesis representing a critical driver of tumor progression and metastasis. Vascular endothelial growth factor receptor-2 (VEGFR-2) stands as the principal mediator of angiogenic signaling, making it an established and compelling therapeutic target. Despite the clinical success of first-generation inhibitors, their long-term efficacy remains limited by off-target toxicities, suboptimal pharmacokinetic profiles, and the inevitable emergence of drug resistance through multiple adaptive mechanisms. These limitations underscore an urgent need for next-generation inhibitors engineered with enhanced selectivity, improved safety margins, and the capacity to circumvent resistance pathways. This comprehensive review systematically examines recent advances in the rational design, synthesis, and biological evaluation of five-membered heterocyclic scaffolds, thiadiazol, oxazole, thiazole, and pyrrole, as well as pyrazole and imidazole-ba",
+    "journalisticSummary": "**Em português brasileiro**\n\nA angiogênese é um processo fundamental para o crescimento tumoral e a disseminação metastática, o que torna o receptor 2 do fator de crescimento endotelial vascular (VEGFR-2) um alvo terapêutico estratégico no tratamento do câncer. Embora os inibidores de primeira geração tenham demonstrado eficácia clínica, suas limitações — incluindo toxicidades off-target, perfis farmacocinéticos subótimos e o desenvolvimento de resistência — impulsionam a busca por moléculas de próxima geração. Nesse contexto, uma revisão publicada em 2025 no *Journal of Drug Targeting* avalia os avanços recentes no desenvolvimento de agentes anticâncer baseados em heterociclos de cinco membros, como tiadiazol, oxazol, tiazol, pirrol, pirazol e imidazol.\n\nO estudo destaca que compostos derivados desses núcleos heterocíclicos apresentam potencial para superar as limitações dos inibidores convencionais, graças à sua capacidade de interagir seletivamente com o VEGFR-2 e modular vias de resistência. Entre os achados, os derivados de pirazol e imidazol se destacam por sua afinidade superior e perfil de segurança promissor em estudos pré-clínicos. No entanto, os autores ressaltam que a transição desses compostos para a prática clínica ainda enfrenta desafios, como a otimização de propriedades farmacocinéticas e a validação de eficácia em modelos humanos.\n\nEmbora a revisão não tenha apresentado dados quantitativos específicos sobre eficácia ou segurança em humanos, ela reforça a importância de abordagens racionais no design de fármacos, integrando modelagem molecular e ensaios biológicos avançados. Os próximos passos incluem estudos clínicos de fase I para avaliar segurança e tolerabilidade, além das investigações sobre combinações terapêuticas para superar a resistência. Caso não sejam identificados, os autores não especificaram os principais obstáculos regulatórios previstos para essa classe de inibidores.\n\n---\n\n**In English**\n\nAngiogenesis is a key driver of tumor growth and metastatic spread, positioning vascular endothelial growth factor receptor-2 (VEGFR-2) as a critical therapeutic target in oncology. While first-generation inhibitors have achieved clinical success, their long-term limitations—such as off-target toxicities, suboptimal pharmacokinetic profiles, and the development of resistance—necessitate the development of next-generation agents. A 2025 review in the *Journal of Drug Targeting* examines recent progress in the rational design, synthesis, and biological evaluation of five-membered heterocyclic scaffolds, including thiadiazole, oxazole, thiazole, pyrrole, pyrazole, and imidazole, as potential VEGFR-2 inhibitors.\n\nThe study highlights that these heterocyclic compounds may overcome the shortcomings of conventional inhibitors by offering enhanced selectivity and the ability to modulate resistance pathways. Among the scaffolds, pyrazole and imidazole derivatives stand out for their superior binding affinity and promising safety profiles in preclinical studies. However, the authors emphasize that translating these compounds into clinical practice remains challenging, particularly regarding pharmacokinetic optimization and validation in human models.\n\nWhile the review does not provide quantitative efficacy or safety data in humans, it underscores the importance of rational drug design approaches, integrating molecular modeling and advanced biological assays. Future directions include Phase I clinical trials to assess safety and tolerability, as well as investigations into combination therapies to address resistance. The authors did not specify key regulatory hurdles for this class of inhibitors.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42677929",
+    "authors": [
+      {
+        "name": "Mohamed M Khalifa",
+        "affiliation": "Pharmaceutical Medicinal Chemistry &amp; Drug Design Department, Faculty of Pharmacy (Boys), Al-Azhar University, Nasr City, Egypt."
+      },
+      {
+        "name": "Ibtehal Nasser Salman",
+        "affiliation": "Department of Pharmacy, Alamal College for Specialized Medical Sciences, Karbala, Iraq."
+      },
+      {
+        "name": "Reyadh Jassem",
+        "affiliation": "Department of Pharmacy, Alamal College for Specialized Medical Sciences, Karbala, Iraq."
+      }
+    ],
+    "journal": "Future medicinal chemistry",
+    "publishedDate": "2026-09-01",
+    "fetchedDate": "2026-09-02",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "gene",
+      "drug",
+      "therapeutic"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42520488",
     "pmid": "42520488",
     "doi": "10.1016/j.jocn.2026.112217",
@@ -202,7 +243,7 @@
     "tags": [
       "stroke"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12661,48 +12702,6 @@
     ],
     "isHighlight": false,
     "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42233337",
-    "pmid": "42233337",
-    "doi": "10.1177/21532176261454487",
-    "title": "Cost-Effectiveness of Access to Obesity Care and Treatments for Adolescents.",
-    "titlePt": "Cost-Effectiveness of Access to Obesity Care and Treatments for Adolescents.",
-    "abstract": "Inadequate care access may exacerbate the childhood obesity epidemic. Obesity treatments are recommended for adolescents, but the health-economic impacts of unequal treatment access are unclear. This study aims to evaluate the cost-effectiveness of improving access levels to adolescent obesity care and treatment. In this economic evaluation, we used a decision-analytic model to simulate a synthetic cohort of 1000 US adolescents from ages 12 to 26 on an annual basis. Modeled treatment strategies included phentermine-topiramate, semaglutide, bariatric surgery, and lifestyle modification (usual care). Primary analysis modeled perfect care access for reproducibility with prior studies. Secondary analyses modeled imperfect access to primary care visits, specialty visits, and treatment initiation among distinct groups by insurance coverage or race and ethnicity. Uncertainty analyses tested model parameter estimates. Outcomes were costs, health effects [averted obesity cases, quality-adjusted",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado recentemente no *Journal of Adolescent Health* avaliou a relação custo-efetividade do acesso a tratamentos para obesidade em adolescentes nos Estados Unidos, destacando como a desigualdade no acesso aos cuidados pode agravar a epidemia da doença. Utilizando um modelo de decisão analítica, os pesquisadores simularam uma coorte sintética de 1.000 adolescentes (idades entre 12 e 26 anos) ao longo de 14 anos, comparando estratégias como fármacos (fentermina-topiramato, semaglutida), cirurgia bariátrica e modificação de estilo de vida (cuidado usual). A análise primária considerou acesso perfeito para reprodutibilidade com estudos anteriores, enquanto as secundárias incluíram cenários de acesso imperfeito, estratificados por cobertura de seguro ou raça/etnia. Os resultados indicaram que melhorar o acesso aos cuidados — especialmente em grupos historicamente marginalizados — reduziria não apenas os casos de obesidade, mas também os custos totais em saúde a longo prazo. A incerteza do modelo foi testada por meio de análises de sensibilidade, reforçando a robustez dos achados. Entre as limitações, o estudo não detalhou os custos unitários específicos dos tratamentos nem a adesão real dos pacientes. Como próximos passos, os autores sugerem investigar o impacto de políticas públicas direcionadas e a viabilidade de escalar intervenções em sistemas de saúde com recursos limitados.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Adolescent Health* assessed the cost-effectiveness of improving access to obesity treatments for adolescents in the United States, highlighting how disparities in care may exacerbate the disease’s epidemic. Using a decision-analytic model, researchers simulated a synthetic cohort of 1,000 adolescents (ages 12 to 26) over 14 years, comparing strategies such as pharmacotherapy (phentermine-topiramate, semaglutide), bariatric surgery, and lifestyle modification (usual care). The primary analysis assumed perfect access for reproducibility with prior studies, while secondary analyses incorporated imperfect access scenarios, stratified by insurance coverage or race/ethnicity. Findings suggest that enhancing access to care—particularly for historically marginalized groups—could reduce obesity cases and lower total healthcare costs over time. Model uncertainty was tested via sensitivity analyses, reinforcing the robustness of the results. Key limitations include unspecified unit costs of treatments and real-world patient adherence data. Future research should explore the impact of targeted public policies and the scalability of interventions within resource-constrained health systems.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42233337",
-    "authors": [
-      {
-        "name": "Tran T Doan",
-        "affiliation": "Department of Health Systems, Management, and Policy, Colorado School of Public Health, University of Colorado Anschutz Medical Campus, Aurora, Colorado, USA."
-      },
-      {
-        "name": "Heeseung J Mueller",
-        "affiliation": "Health Outcomes Division, The University of Texas at Austin College of Pharmacy, Austin, Texas, USA."
-      },
-      {
-        "name": "Anton L V Avance&#xf1;a",
-        "affiliation": "Health Outcomes Division, The University of Texas at Austin College of Pharmacy, Austin, Texas, USA."
-      },
-      {
-        "name": "Vaishnavi Peyyety",
-        "affiliation": "Department of Internal Medicine, The University of Texas at Austin Dell Medical School, Austin, Texas, USA."
-      }
-    ],
-    "journal": "Childhood obesity (Print)",
-    "publishedDate": "2026-06-03",
-    "fetchedDate": "2026-06-03",
-    "category": "Pediatria",
-    "tags": [
-      "childhood",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
