@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42683976",
+    "pmid": "42683976",
+    "doi": "10.1227/neu.0000000000004186",
+    "title": "Superlarge-Bore Versus Large-Bore Aspiration Catheters in Mechanical Thrombectomy: A Multicenter Propensity-Matched Analysis.",
+    "titlePt": "Superlarge-Bore Versus Large-Bore Aspiration Catheters in Mechanical Thrombectomy: A Multicenter Propensity-Matched Analysis.",
+    "abstract": "Aspiration catheters are an integral component of mechanical thrombectomy for acute ischemic stroke (AIS). Following early series demonstrating increasing procedural efficiency and improved outcomes with use of large-bore (LB) aspiration catheters, there is increased interest in the use of emerging superlarge-bore (SLB) catheters. We retrospectively analyzed AIS patients with large vessel occlusion treated at 34 international centers (2018-2025) using SLB or LB aspiration catheters on the first attempt. We used propensity score matching (1:6) to define a balanced cohort based on baseline and technical confounders between the catheter groups. Safety, efficacy, and technical outcomes were compared, with the primary outcome being the first pass effect (FPE). A total of 2032 patients treated with aspiration as the frontline technique were included (SLB n = 107; LB n = 1925). After propensity score matching (SLB n = 107; LB n = 642), there was no significant difference in FPE between the SL",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo multicêntrico retrospectivo, publicado no *Journal of Neurosurgery*, comparou a eficácia de cateteres de aspiração *superlarge-bore* (SLB) e *large-bore* (LB) em trombectomias mecânicas para acidente vascular cerebral isquêmico (AVCi) com oclusão de grande vaso. A análise incluiu dados de 34 centros internacionais entre 2018 e 2025, totalizando 2.032 pacientes tratados com aspiração como técnica inicial. Após pareamento por escore de propensão (1:6), o grupo SLB (n=107) foi comparado a um subgrupo pareado do grupo LB (n=642).\n\nOs resultados não demonstraram diferença significativa no *first pass effect* (FPE) entre os dois tipos de cateteres, indicando que SLB não ofereceu vantagem clínica imediata em relação a LB no primeiro procedimento. Dados sobre desfechos funcionais (escala de Rankin modificada em 90 dias) e complicações como hemorragia intracraniana não foram relatados no resumo avaliado. Os autores destacam que a eficiência técnica e a segurança dos dispositivos devem ser avaliadas em estudos prospectivos, considerando variáveis como localização do trombo e experiência do operador. A ausência de diferenças no FPE sugere que outros fatores, como técnica de aspiração ou dispositivos auxiliares, podem influenciar mais os resultados do que o diâmetro do cateter.\n\nA equipe conclui que, embora cateteres SLB sejam uma opção emergente, sua adoção não garante melhora imediata nos desfechos de trombectomia em comparação aos LB. São necessários estudos randomizados com amostras maiores para elucidar o impacto a longo prazo e identificar subgrupos de pacientes que possam se beneficiar desses dispositivos.\n\n---\n\n**English version**\n\nA multicenter retrospective study published in the *Journal of Neurosurgery* compared the efficacy of *superlarge-bore* (SLB) and *large-bore* (LB) aspiration catheters in mechanical thrombectomy for acute ischemic stroke (AIS) with large vessel occlusion. The analysis included data from 34 international centers between 2018 and 2025, encompassing 2,032 patients treated with aspiration as the initial technique. After propensity score matching (1:6), the SLB group (n=107) was compared to a matched subgroup of the LB group (n=642).\n\nThe findings showed no significant difference in the *first pass effect* (FPE) between the two catheter types, indicating that SLB did not provide an immediate clinical advantage over LB in the first procedure. Data on functional outcomes (modified Rankin Scale at 90 days) and complications such as intracranial hemorrhage were not reported in the reviewed summary. The authors emphasize that technical efficiency and device safety should be evaluated in prospective studies, considering variables like thrombus location and operator experience. The lack of difference in FPE suggests that other factors, such as aspiration technique or auxiliary devices, may influence results more than catheter diameter.\n\nThe team concludes that while SLB catheters are an emerging option, their adoption does not guarantee improved thrombectomy outcomes compared to LB. Larger randomized trials are needed to clarify long-term impacts and identify patient subgroups that may benefit from these devices.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42683976",
+    "authors": [
+      {
+        "name": "Ariana Chacon",
+        "affiliation": "Department of Neurosurgery, Emory University School of Medicine, Atlanta, Georgia, USA."
+      },
+      {
+        "name": "Ali M Alawieh",
+        "affiliation": "Department of Neurosurgery, Emory University School of Medicine, Atlanta, Georgia, USA."
+      },
+      {
+        "name": "Mustafa Motiwala",
+        "affiliation": "Department of Neurosurgery, University of Tennessee Health Science Center, Memphis, Tennessee, USA."
+      },
+      {
+        "name": "Dareen Hijazi",
+        "affiliation": "Semmes-Murphey Neurologic and Spine Institute, Memphis, Tennessee, USA."
+      }
+    ],
+    "journal": "Neurosurgery",
+    "publishedDate": "2026-09-02",
+    "fetchedDate": "2026-09-02",
+    "category": "Neurologia",
+    "tags": [
+      "stroke",
+      "rna"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42520488",
     "pmid": "42520488",
     "doi": "10.1016/j.jocn.2026.112217",
@@ -201,7 +243,7 @@
     "tags": [
       "cognitive"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12666,49 +12708,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42231129",
-    "pmid": "42231129",
-    "doi": "10.1093/oncolo/oyag220",
-    "title": "Clinicopathologic, Molecular, and Treatment Features of Metastatic and Distantly Recurrent Extramammary Paget Disease: Mayo Clinic Experience.",
-    "titlePt": "Clinicopathologic, Molecular, and Treatment Features of Metastatic and Distantly Recurrent Extramammary Paget Disease: Mayo Clinic Experience.",
-    "abstract": "Extramammary Paget Disease (EMPD) is a rare cutaneous adenocarcinoma. While localized disease has an excellent prognosis, metastatic EMPD is aggressive with no standardized systemic therapy. This study characterizes the clinicopathologic and molecular landscape of metastatic/recurrent EMPD to identify therapeutic vulnerabilities. We conducted a retrospective cohort study of 26 patients with metastatic or distantly recurrent EMPD treated at Mayo Clinic (2000-2025). Descriptive statistics were used to summarize baseline characteristics. Survival outcomes were estimated using Kaplan-Meier methods, with group comparisons performed using log-rank testing. Continuous variables were compared using nonparametric tests, and categorical variables were analyzed using appropriate comparative tests. Pathway-level genomic correlations with TCGA reference cohorts were assessed using Spearman rank correlation. Treatment responses were retrospectively evaluated from radiologic reports. The cohort was p",
-    "journalisticSummary": "A doença de Paget extramamária (EMPD) é um tipo raro de adenocarcinoma cutâneo que, embora tenha um prognóstico excelente quando localizado, se torna agressivo e desafiador de tratar quando metastático. Devido à falta de uma terapia sistêmica padronizada para o EMPD metastático, estudos que visam caracterizar sua paisagem clínica, patológica e molecular são cruciais para identificar possíveis vulnerabilidades terapêuticas. Um estudo retrospectivo realizado na Mayo Clinic, abrangendo 26 pacientes com EMPD metastático ou recorrente distante entre 2000 e 2025, buscou descrever as características basais desses pacientes e avaliar os resultados de sobrevida. Os métodos estatísticos incluíram análises descritivas, estimação de sobrevida mediante o método de Kaplan-Meier e comparações entre grupos utilizando o teste log-rank. Além disso, foram realizadas análises de correlação genômica em nível de via com referência a coortes do The Cancer Genome Atlas (TCGA) e avaliações retrospectivas das respostas ao tratamento com base em relatórios radiológicos. Embora os detalhes específicos sobre as descobertas principais e os resultados clínicos não tenham sido informados, estudos como este são essenciais para avançar no entendimento e no tratamento do EMPD metastático. As limitações incluem a natureza retrospectiva do estudo e o tamanho relativamente pequeno da amostra, o que pode afetar a generalização dos resultados. Próximos passos poderiam incluir a realização de estudos prospectivos em larga escala e a exploração de abordagens terapêuticas inovadoras com base nas vulnerabilidades molecularmente identificadas.\n\nThe extramammary Paget disease (EMPD) is a rare cutaneous adenocarcinoma that, while having an excellent prognosis when localized, becomes aggressive and challenging to treat when metastatic. Due to the lack of a standardized systemic therapy for metastatic EMPD, studies aimed at characterizing its clinical, pathological, and molecular landscape are crucial to identify potential therapeutic vulnerabilities. A retrospective study conducted at the Mayo Clinic, covering 26 patients with metastatic or distantly recurrent EMPD between 2000 and 2025, sought to describe the baseline characteristics of these patients and evaluate survival outcomes. The statistical methods included descriptive analyses, survival estimation using the Kaplan-Meier method, and group comparisons using log-rank testing. Additionally, pathway-level genomic correlations with The Cancer Genome Atlas (TCGA) reference cohorts were assessed, and retrospective evaluations of treatment responses were based on radiologic reports. Although specific details about the main findings and clinical outcomes were not reported, studies like this are essential to advance the understanding and treatment of metastatic EMPD. Limitations include the retrospective nature of the study and the relatively small sample size, which may affect the generalization of the results. Next steps could include conducting large-scale prospective studies and exploring innovative therapeutic approaches based on molecularly identified vulnerabilities.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42231129",
-    "authors": [
-      {
-        "name": "Riham Suleiman",
-        "affiliation": "Department of Oncology, Mayo Clinic, 200 First Street SW, Rochester, MN, 55905, USA."
-      },
-      {
-        "name": "Ray Guo",
-        "affiliation": "Department of Laboratory Medicine and Pathology, Mayo clinic, Jacksonville, FL, 32224, USA."
-      },
-      {
-        "name": "Mary E Lohman",
-        "affiliation": "Department of Dermatology, Division of Dermatologic Surgery, Mayo Clinic, Rochester, MN, 55905, USA."
-      },
-      {
-        "name": "Stephan D Thome",
-        "affiliation": "Department of Oncology, Mayo Clinic, 200 First Street SW, Rochester, MN, 55905, USA."
-      }
-    ],
-    "journal": "The oncologist",
-    "publishedDate": "2026-06-03",
-    "fetchedDate": "2026-06-03",
-    "category": "Oncologia",
-    "tags": [
-      "carcinoma",
-      "genomic",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
