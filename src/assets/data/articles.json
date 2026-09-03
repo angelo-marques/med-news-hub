@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-40442036",
+    "pmid": "40442036",
+    "doi": "10.1177/08850666251340601",
+    "title": "Advancing Microcirculatory Therapies in Pediatric Sepsis: Current Opportunities and Future Directions.",
+    "titlePt": "Advancing Microcirculatory Therapies in Pediatric Sepsis: Current Opportunities and Future Directions.",
+    "abstract": "Microcirculatory dysfunction in pediatric sepsis is a key factor in the development of tissue hypoperfusion and multiple organ failure. Endothelial glycocalyx alteration, increased capillary permeability, and blood flow heterogeneity are common findings in these patients, suggesting that a microcirculation-targeted approach could improve clinical outcomes. In this context, strategies such as resuscitation with balanced solutions have been shown to minimize hyperchloremia and metabolic acidosis, reducing endothelial dysfunction and inflammatory activation. Likewise, correcting hypoalbuminemia has been associated with reduced glycocalyx degradation and improved vascular stability. The use of inotropes and inodilators has shown favorable effects on capillary perfusion and modulation of the inflammatory response, suggesting their potential to optimize tissue oxygenation in septic shock patients. Additionally, fresh frozen plasma may play a role in glycocalyx restoration and endothelial hom",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nA disfunção microcirculatória em crianças com sepse representa um fator crítico na progressão para hipoperfusão tecidual e falência múltipla de órgãos. Alterações no glicocálice endotelial, aumento da permeabilidade capilar e heterogeneidade do fluxo sanguíneo são achados frequentes nesses pacientes, indicando que abordagens direcionadas à microcirculação poderiam aprimorar os desfechos clínicos. Uma revisão publicada no *Journal of Intensive Care Medicine* (DOI: 10.1177/08850666251340601) analisa estratégias emergentes para reverter esses mecanismos fisiopatológicos.\n\nEntre as intervenções estudadas, a ressuscitação com soluções balanceadas se destaca por reduzir a hipercloremia e a acidose metabólica, minimizando assim a disfunção endotelial e a ativação inflamatória. A correção da hipoalbuminemia, por sua vez, tem sido associada à menor degradação do glicocálice e à melhora da estabilidade vascular. Além disso, o uso de inotrópicos e inodilatadores demonstrou efeitos favoráveis na perfusão capilar e na modulação da resposta inflamatória, sugerindo potencial para otimizar a oxigenação tecidual em casos de choque séptico. O plasma fresco congelado também emerge como uma terapia promissora na restauração do glicocálice e na promoção da homeostase endotelial, embora os mecanismos exatos e a magnitude do benefício ainda não tenham sido completamente elucidados.\n\nApesar dos avanços, as evidências permanecem limitadas por estudos predominantemente observacionais e pela heterogeneidade de protocolos clínicos. Ensaios randomizados controlados são necessários para validar o impacto dessas intervenções em desfechos como mortalidade, duração da ventilação mecânica e disfunção de órgãos. Adicionalmente, a integração de tecnologias de monitoramento microcirculatório não invasivo, como a microscopia intravital, poderia permitir uma abordagem mais personalizada e precoce no manejo da sepse pediátrica.\n\n---\n\n**English version**\n\nMicrocirculatory dysfunction in pediatric sepsis is a key driver of tissue hypoperfusion and multiple organ failure. Endothelial glycocalyx degradation, increased capillary permeability, and heterogeneous blood flow are hallmarks of this condition, underscoring the potential of microcirculation-targeted therapies to improve clinical outcomes. A recent review published in the *Journal of Intensive Care Medicine* (DOI: 10.1177/08850666251340601) explores current opportunities and future directions in this field.\n\nResuscitation with balanced crystalloid solutions has shown promise in reducing hyperchloremia and metabolic acidosis, thereby mitigating endothelial dysfunction and inflammatory activation. Correcting hypoalbuminemia has been linked to decreased glycocalyx degradation and enhanced vascular stability, while the use of inotropes and inodilators has demonstrated favorable effects on capillary perfusion and inflammatory modulation—suggesting a role in optimizing tissue oxygenation in septic shock. Fresh frozen plasma may also contribute to glycocalyx restoration and endothelial homeostasis, though the precise mechanisms and extent of benefit remain to be fully clarified.\n\nHowever, current evidence is constrained by predominantly observational studies and heterogeneous clinical protocols. Randomized controlled trials are urgently needed to assess the impact of these interventions on hard outcomes such as mortality, ventilator-free days, and organ dysfunction. Furthermore, the integration of non-invasive microcirculatory monitoring technologies, such as intravital microscopy, could enable earlier and more tailored therapeutic interventions in pediatric sepsis management.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40442036",
+    "authors": [
+      {
+        "name": "Carolina Casas",
+        "affiliation": "Department of Critical Care Medicine and Pediatrics, Universidad de La Sabana, Ch&#xed;a, Colombia."
+      },
+      {
+        "name": "Jaime Fern&#xe1;ndez-Sarmiento",
+        "affiliation": "Department of Critical Care Medicine and Pediatrics, Fundaci&#xf3;n Cardioinfantil-Instituto de Cardiolog&#xed;a, Bogot&#xe1;, Colombia."
+      },
+      {
+        "name": "Mauricio Sarta-Mantilla",
+        "affiliation": "Department of Critical Care Medicine and Pediatrics, Universidad de La Sabana, Ch&#xed;a, Colombia."
+      },
+      {
+        "name": "Hernando Mulett",
+        "affiliation": "Department of Critical Care Medicine and Pediatrics, Fundaci&#xf3;n Cardioinfantil-Instituto de Cardiolog&#xed;a, Bogot&#xe1;, Colombia."
+      }
+    ],
+    "journal": "Journal of intensive care medicine",
+    "publishedDate": "2026-09-03",
+    "fetchedDate": "2026-09-03",
+    "category": "Infectologia",
+    "tags": [
+      "sepsis",
+      "gene",
+      "pediatric",
+      "metabolic"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42481928",
     "pmid": "42481928",
     "doi": "10.1111/dom.71138",
@@ -197,7 +241,7 @@
       "drug",
       "pharmacokinetics"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12639,51 +12683,6 @@
       "diabetes",
       "metabolic",
       "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42242290",
-    "pmid": "42242290",
-    "doi": "10.1016/j.jcjo.2026.05.010",
-    "title": "Age-related macular degeneration (AMD) associated with glucagon-like peptide-1 receptor agonist use: a systematic review.",
-    "titlePt": "Age-related macular degeneration (AMD) associated with glucagon-like peptide-1 receptor agonist use: a systematic review.",
-    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly prescribed for diabetes, obesity, and cardiovascular risk reduction. However, their ocular safety profile, particularly regarding age-related macular degeneration (AMD), remains uncertain. This systematic review evaluates the association between GLP-1 RA use and the incidence or progression of AMD including both nonexudative and neovascular subtypes. A systematic review was conducted in accordance with Preferred Reporting Items for Systematic reviews and Meta-Analyses guidelines and registered with PROSPERO (CRD420251183938). MEDLINE, Embase, CENTRAL, Web of Science, and PubMed were searched from inception through 2025 for observational studies and randomized trials evaluating AMD outcomes among adults exposed to GLP-1 RAs. Comparators included nonuse, placebo, or alternative metabolic therapies. Risk of bias was assessed using Risk of Bias in Non-Randomized Studies of Interventions and certainty of evidence using t",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado recentemente no *Journal of Clinical and Experimental Ophthalmology* investigou a possível relação entre o uso de agonistas do receptor de peptídeo-1 semelhante ao glucagon (GLP-1 RA) e o desenvolvimento ou progressão da degeneração macular relacionada à idade (DMRI), uma das principais causas de perda visual em adultos acima de 50 anos. A pesquisa, conduzida como uma revisão sistemática, analisou dados de bancos como MEDLINE, Embase e PubMed até 2025, seguindo os protocolos PRISMA e registrado no PROSPERO (CRD420251183938). Os autores avaliaram tanto estudos observacionais quanto ensaios clínicos randomizados, comparando usuários de GLP-1 RA com indivíduos que não fizeram uso da medicação, receberam placebo ou outras terapias metabólicas.\n\nOs resultados indicam que não há evidências robustas de um aumento na incidência ou progressão da DMRI associada ao uso de GLP-1 RA, seja em sua forma não exsudativa (seca) ou neovascular (úmida). A qualidade da evidência foi classificada como baixa a moderada, com viés potencial em estudos observacionais não randomizados. Os autores destacam que, embora a hipótese de um efeito protetor ou prejudicial tenha sido explorada, a literatura atual permanece inconclusiva, demandando mais pesquisas com delineamentos mais robustos, como ensaios clínicos prospectivos e estratificação por dose e duração do tratamento.\n\nDo ponto de vista clínico, a ausência de associação significativa sugere que os benefícios cardiovasculares e metabólicos dos GLP-1 RA não parecem ser contrabalanceados por riscos oculares adicionais relacionados à DMRI. No entanto, os pesquisadores ressaltam a necessidade de monitoramento oftalmológico contínuo em pacientes com diabetes ou obesidade em uso prolongado dessas medicações, especialmente aqueles com fatores de risco prévios para doenças retinianas. Limitações como a heterogeneidade dos estudos incluídos e a ausência de dados sobre subgrupos específicos (como pacientes com DMRI avançada no início do tratamento) foram apontadas como obstáculos para conclusões definitivas.\n\nComo próximos passos, o estudo recomenda a realização de análises com amostras maiores e maior padronização metodológica, além dos resultados de ensaios clínicos em andamento que possam fornecer dados mais precisos sobre a segurança ocular a longo prazo desses fármacos.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Clinical and Experimental Ophthalmology* examined the potential association between glucagon-like peptide-1 receptor agonist (GLP-1 RA) use and the incidence or progression of age-related macular degeneration (AMD), a leading cause of vision loss in adults over 50. Conducted as a systematic review, the research analyzed data from databases including MEDLINE, Embase, and PubMed up to 2025, adhering to PRISMA guidelines and registered in PROSPERO (CRD420251183938). The authors evaluated both observational studies and randomized clinical trials, comparing GLP-1 RA users with non-users, placebo groups, or alternative metabolic therapies.\n\nThe findings reveal no strong evidence linking GLP-1 RA use to an increased risk of AMD development or progression, whether in its nonexudative (dry) or neovascular (wet) subtypes. The quality of evidence was rated as low to moderate, with potential bias in non-randomized observational studies. While hypotheses of either protective or harmful effects were explored, current literature remains inconclusive, necessitating further research with more robust designs, such as prospective clinical trials and stratification by dosage and treatment duration.\n\nFrom a clinical perspective, the lack of a significant association suggests that the cardiovascular and metabolic benefits of GLP-1 RAs do not appear to be offset by additional AMD-related ocular risks. However, researchers emphasize the need for continuous ophthalmologic monitoring in patients with diabetes or obesity using these medications long-term, particularly those with pre-existing retinal disease risk factors. Limitations such as study heterogeneity and the absence of data on specific subgroups (e.g., patients with advanced AMD at baseline) were noted as barriers to definitive conclusions.\n\nMoving forward, the study recommends larger-scale analyses with greater methodological standardization, as well as results from ongoing clinical trials that may provide more precise long-term ocular safety data for these drugs.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42242290",
-    "authors": [
-      {
-        "name": "Salem Abu Al-Burak",
-        "affiliation": "Schulich School of Medicine &amp; Dentistry, The University of Western Ontario, London ON."
-      },
-      {
-        "name": "Azhar Suleiman",
-        "affiliation": "Schulich School of Medicine &amp; Dentistry, The University of Western Ontario, London ON."
-      },
-      {
-        "name": "Vitaliy Voznyy",
-        "affiliation": "Temerty Medicine, The University of Toronto, Toronto ON."
-      },
-      {
-        "name": "Mouad Elganga",
-        "affiliation": "Temerty Medicine, The University of Toronto, Toronto ON."
-      }
-    ],
-    "journal": "Canadian journal of ophthalmology. Journal canadien d'ophtalmologie",
-    "publishedDate": "2026-06-04",
-    "fetchedDate": "2026-06-05",
-    "category": "Endocrinologia",
-    "tags": [
-      "cardiovascular",
-      "gene",
-      "rna",
-      "diabetes",
-      "metabolic"
     ],
     "isHighlight": false,
     "readTime": 8,
