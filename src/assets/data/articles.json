@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42446920",
+    "pmid": "42446920",
+    "doi": "10.1158/2643-3230.BCD-26-0186",
+    "title": "Safety and Clinical Outcomes of a First-in-Human Trial of Point-of-Care Manufactured Trispecific CAR T Cells Targeting CD19, CD20, and CD22.",
+    "titlePt": "Safety and Clinical Outcomes of a First-in-Human Trial of Point-of-Care Manufactured Trispecific CAR T Cells Targeting CD19, CD20, and CD22.",
+    "abstract": "Disease recurrence is the main cause of treatment failure after CD19-directed chimeric antigen receptor (CAR) T cells, often due to CD19 antigen loss, stability, and/or coverage. To overcome single-antigen escape, we evaluated a trispecific CAR targeting CD19, CD20, and CD22 with an OX40 costimulatory domain. Preclinical studies demonstrated potent, antigen-specific cytotoxicity in in vitro and in vivo lymphoma models. We then conducted a first-in-human phase I trial in patients with relapsed/refractory B-cell malignancies. Sixteen patients received infusions at a median vein-to-vein time of 7 days, at doses of 0.5 to 2 &#xd7; 106 cells/kg. No severe cytokine release syndrome or neurotoxicity occurred. The overall response rate was 50%, including complete responses in 83% of patients with lymphoma. The 1-year overall survival rate was 61%, with durable remissions observed in lymphoma. CAR T expansion did not correlate with dose or response. T-cell exhaustion in apheresis cells correlat",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm avanço no tratamento de cânceres hematológicos foi demonstrado em estudo pioneiro que avaliou a segurança e eficácia de células CAR T *trispecíficas* direcionadas a três antígenos simultaneamente — CD19, CD20 e CD22. Publicado no periódico *Blood Cancer Discovery*, o ensaio clínico de fase I, conduzido com células fabricadas à beira do leito (*point-of-care*), mostrou que a estratégia pode reduzir a recorrência de doenças causadas pela perda de expressão de um único antígeno-alvo, problema comum em terapias convencionais com CAR T anti-CD19. Os resultados indicam resposta global de 50%, com remissões completas em 83% dos pacientes com linfoma, além de ausência de eventos adversos graves como síndrome de liberação de citocinas (CRS) ou neurotoxicidade.\n\nOs pesquisadores recrutaram 16 pacientes com neoplasias de células B recidivadas ou refratárias, que receberam infusões em um tempo mediano de sete dias entre a coleta de células e a administração do produto — um intervalo consideravelmente reduzido em comparação a protocolos convencionais. As doses variaram de 0,5 a 2 milhões de células por quilo, sem correlação entre a expansão das células CAR T no organismo e a resposta clínica ou a dose administrada. A taxa de sobrevida global em um ano atingiu 61%, com remissões duradouras observadas especificamente nos casos de linfoma. Embora os dados de exaustão celular tenham sido correlacionados com células de aférese, o estudo não forneceu detalhes sobre o impacto desses achados na eficácia a longo prazo ou na segurança.\n\nA abordagem *trispecífica* representa uma estratégia promissora para superar a resistência observada em terapias direcionadas a um único antígeno, um desafio recorrente em doenças como leucemia linfoblástica aguda e linfomas. No entanto, limitações como o pequeno tamanho amostral e a ausência de grupo controle exigem cautela na interpretação dos resultados. Os próximos passos incluem estudos com coortes maiores e avaliação de estratégias para otimizar a expansão e persistência das células CAR T, além de investigar possíveis biomarcadores de resposta.\n\n---\n\n**English version**\n\nA breakthrough in the treatment of hematologic cancers has been demonstrated in a pioneering study evaluating the safety and efficacy of *trispecific* CAR T cells targeting three antigens simultaneously — CD19, CD20, and CD22. Published in *Blood Cancer Discovery*, the phase I clinical trial, conducted with point-of-care manufactured cells, suggests the strategy may reduce disease recurrence caused by loss of expression of a single antigen-target, a common issue in conventional anti-CD19 CAR T therapies. Results indicate an overall response rate of 50%, with complete remissions in 83% of lymphoma patients, alongside an absence of severe adverse events such as cytokine release syndrome (CRS) or neurotoxicity.\n\nResearchers enrolled 16 patients with relapsed or refractory B-cell malignancies, who received infusions within a median vein-to-vein time of seven days — a significantly reduced interval compared to conventional protocols. Doses ranged from 0.5 to 2 million cells per kilogram, with no correlation observed between CAR T cell expansion and clinical response or administered dose. The one-year overall survival rate reached 61%, with durable remissions specifically observed in lymphoma cases. While T-cell exhaustion data correlated with apheresis cells, the study did not provide details on the impact of these findings on long-term efficacy or safety.\n\nThe trispecific approach represents a promising strategy to overcome resistance seen in single-antigen targeted therapies, a recurring challenge in diseases such as acute lymphoblastic leukemia and lymphomas. However, limitations including the small sample size and the absence of a control group warrant caution in interpreting the results. Future steps include larger cohort studies and evaluation of strategies to optimize CAR T cell expansion and persistence, along with investigation into potential response biomarkers.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446920",
+    "authors": [
+      {
+        "name": "Sumithira Vasu",
+        "affiliation": "Division of Hematology, The Ohio State University James Comprehensive Cancer Center and Solove Research Institute, Columbus, Ohio."
+      },
+      {
+        "name": "Nathan Denlinger",
+        "affiliation": "Division of Hematology, The Ohio State University James Comprehensive Cancer Center and Solove Research Institute, Columbus, Ohio."
+      },
+      {
+        "name": "No-Joon Song",
+        "affiliation": "Division of Medical Oncology, The Ohio State University James Comprehensive Cancer Center and Solove Research Institute, Columbus, Ohio."
+      },
+      {
+        "name": "Danielle Elsberry",
+        "affiliation": "Pelotonia Institute for Immuno-Oncology, The Ohio State University Comprehensive Cancer Center, Columbus, Ohio."
+      }
+    ],
+    "journal": "Blood cancer discovery",
+    "publishedDate": "2026-09-03",
+    "fetchedDate": "2026-09-03",
+    "category": "Oncologia",
+    "tags": [
+      "lymphoma",
+      "cytokine"
+    ],
+    "isHighlight": true,
+    "readTime": 8,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42556172",
     "pmid": "42556172",
     "doi": "10.1016/j.jcyt.2026.102898",
@@ -203,7 +245,7 @@
     "tags": [
       "cardiovascular"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12654,51 +12696,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41986816",
-    "pmid": "41986816",
-    "doi": "10.1007/s00125-026-06722-5",
-    "title": "Nature vs nurture of glucose homeostasis trajectories in children from the ALSPAC study.",
-    "titlePt": "Nature vs nurture of glucose homeostasis trajectories in children from the ALSPAC study.",
-    "abstract": "Dysglycaemia in youth results from complex interactions between genetic and environmental factors, yet their individual and combined contributions remain unclear. We aimed to: (1) evaluate the predictive performance of polygenic risk scores (PRSs) for glycaemic traits from childhood to early adulthood; (2) identify gene-environment interactions shaping glucose homeostasis trajectories; and (3) explore underlying mechanisms using pathway-specific PRSs. Data from 8783 participants (aged 7-24 years) from the Avon Longitudinal Study of Parents and Children (ALSPAC) were used to compute 12 PRSs for type 2 diabetes, fasting glucose, insulin and BMI. Glycaemic outcomes, including insulin resistance, prediabetes (impaired fasting glucose) and type 2 diabetes, were assessed using fasting glucose and insulin (ages 7, 15, 18 and 24 years) and HbA1c (age 9 years). We evaluated whether PRSs could distinguish between transient (resolved by adulthood) and persistent glycaemic abnormalities using mult",
-    "journalisticSummary": "**Versão em português brasileiro:**\n\nUm estudo recente publicado na *Diabetologia* analisou as trajetórias de homeostase glicêmica em crianças e jovens, com foco na contribuição relativa de fatores genéticos e ambientais no desenvolvimento de disglicemias. Utilizando dados de 8.783 participantes do *Avon Longitudinal Study of Parents and Children* (ALSPAC), com idades entre 7 e 24 anos, os pesquisadores avaliaram o desempenho preditivo de 12 *poligenic risk scores* (PRS) para diabetes tipo 2, glicemia de jejum, insulina e IMC. Os desfechos incluíram resistência à insulina, pré-diabetes (glicemia de jejum alterada) e diabetes tipo 2, mensurados por meio de glicemia de jejum, insulina e HbA1c em diferentes faixas etárias.\n\nOs resultados indicam que os PRSs apresentaram capacidade moderada de predizer alterações glicêmicas persistentes ao longo do tempo, especialmente para diabetes tipo 2 e glicemia de jejum. No entanto, a interação entre genes e ambiente mostrou-se crucial na definição de trajetórias glicêmicas, com influências mais pronunciadas em idades específicas. Análises de PRSs específicos por vias biológicas sugerem mecanismos subjacentes distintos, como vias inflamatórias e de sinalização insulínica, embora os achados não tenham sido detalhados no resumo disponível.\n\nApesar do avanço na compreensão da interação gene-ambiente, o estudo apresenta limitações inerentes ao desenho observacional, como viés de seleção e ausência de validação externa dos PRSs. Além disso, não foram informados dados sobre a magnitude dos efeitos observados ou a performance discriminativa dos modelos. Os autores destacam a necessidade de estudos longitudinais adicionais, com amostras diversificadas e abordagens mecanísticas mais profundas, para validar e expandir esses achados.\n\n---\n\n**English version:**\n\nA recent study published in *Diabetologia* examined glucose homeostasis trajectories in children and young adults, focusing on the relative contributions of genetic and environmental factors to dysglycemia development. Using data from 8,783 participants in the *Avon Longitudinal Study of Parents and Children* (ALSPAC), aged 7 to 24 years, researchers evaluated the predictive performance of 12 *polygenic risk scores* (PRS) for type 2 diabetes, fasting glucose, insulin, and BMI. Outcomes included insulin resistance, prediabetes (impaired fasting glucose), and type 2 diabetes, assessed via fasting glucose, insulin, and HbA1c at multiple time points.\n\nThe findings suggest that PRSs moderately predicted persistent glycemic abnormalities over time, particularly for type 2 diabetes and fasting glucose. However, gene-environment interactions played a key role in shaping glycemic trajectories, with stronger influences at specific ages. Analyses of pathway-specific PRSs indicated distinct underlying mechanisms, such as inflammatory and insulin signaling pathways, though details were not provided in the available abstract.\n\nWhile advancing understanding of gene-environment interplay, the study has inherent limitations due to its observational design, including selection bias and lack of external validation for the PRSs. Additionally, no data were reported on the effect sizes or discriminative performance of the models. The authors emphasize the need for further longitudinal studies with diverse cohorts and deeper mechanistic approaches to validate and expand these findings.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41986816",
-    "authors": [
-      {
-        "name": "Isabel Gamache",
-        "affiliation": "Research Center, CHU Sainte-Justine, Montr&#xe9;al, Qu&#xe9;bec, Canada."
-      },
-      {
-        "name": "Kaossarath Fagbemi",
-        "affiliation": "Centre for Structural and Functional Genomics, Biology Department, Concordia University, Montr&#xe9;al, Qu&#xe9;bec, Canada."
-      },
-      {
-        "name": "Soren Harnois-Leblanc",
-        "affiliation": "Research Center, CHU Sainte-Justine, Montr&#xe9;al, Qu&#xe9;bec, Canada."
-      },
-      {
-        "name": "Celia M T Greenwood",
-        "affiliation": "Department of Population Medicine, Harvard Pilgrim Health Care Institute and Harvard Medical School, Boston, MA, USA."
-      }
-    ],
-    "journal": "Diabetologia",
-    "publishedDate": "2026-06-04",
-    "fetchedDate": "2026-06-04",
-    "category": "Genômica",
-    "tags": [
-      "genetic",
-      "gene",
-      "children",
-      "childhood",
-      "diabetes"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
