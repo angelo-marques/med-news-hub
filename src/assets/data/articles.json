@@ -1,5 +1,89 @@
 [
   {
+    "id": "pubmed-42556172",
+    "pmid": "42556172",
+    "doi": "10.1016/j.jcyt.2026.102898",
+    "title": "A scoping review of gene editing in clinical trials: identifying aspects of trial design to accelerate clinical adoption.",
+    "titlePt": "A scoping review of gene editing in clinical trials: identifying aspects of trial design to accelerate clinical adoption.",
+    "abstract": "Initial clinical trials of gene editing have recently emerged and generated significant interest in this promising therapy. A scoping review is needed to understand aspects of study design that may accelerate further clinical translation. A systematic search of published clinical trials was conducted to May 22, 2025. Twenty-nine published trials were identified for analysis (420 patients; median ages 6 months to 90 years). The most common gene editing technology used was CRISPR-Cas9 (23 studies, 79%). Hematopoietic cells were targeted most frequently, and leukemias and lymphomas were the most common clinical indications (8 studies; 27.5%), followed by hemoglobin disorders (6; 20.6%), solid tumors (6; 20.6%), rare genetic diseases (5; 17.2%), and others (4; 13.8%). All trials were early-phase (Phase I/II) with only 1 controlled study (29 patients). Six studies used in vivo approaches while all others performed gene editing ex vivo. Gene transfection was by electroporation (9 studies; 31",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm levantamento recente publicado no *Journal of Cytotherapy* mapeou os primeiros ensaios clínicos de edição gênica, revelando padrões e lacunas que podem influenciar a adoção acelerada dessa terapia promissora. O estudo, uma revisão de escopo conduzida até maio de 2025, analisou 29 ensaios clínicos publicados, envolvendo 420 pacientes com idades entre 6 meses e 90 anos. A tecnologia mais empregada foi o CRISPR-Cas9, presente em 79% dos estudos (23 casos), seguida por outras técnicas menos frequentes.\n\nOs alvos terapêuticos mais comuns foram células hematopoiéticas, com leucemias e linfomas representando 27,5% das indicações clínicas (8 estudos), seguidos por distúrbios de hemoglobina (20,6%), tumores sólidos (20,6%), doenças genéticas raras (17,2%) e outras condições (13,8%). Todos os ensaios eram de fases iniciais (I/II), com apenas um estudo controlado, envolvendo 29 pacientes. A maioria dos procedimentos (23 estudos) utilizou abordagens *ex vivo*, enquanto seis empregaram técnicas *in vivo*. A transfecção gênica foi majoritariamente realizada por eletroporação (31% dos casos), embora o método não tenha sido especificado em 48% dos estudos.\n\nEmbora os resultados confirmem o potencial da edição gênica como ferramenta terapêutica — especialmente em doenças oncológicas e hematológicas —, a ausência de estudos controlados e a heterogeneidade nos métodos de transfecção limitam conclusões robustas sobre eficácia e segurança. A predominância de fases iniciais reflete a ainda incipiente maturidade clínica da técnica, sugerindo que mais pesquisas são necessárias para padronizar protocolos e avaliar desfechos a longo prazo. Os próximos passos incluem a realização de ensaios randomizados e a uniformização de técnicas de entrega gênica, essenciais para a transposição dessa tecnologia da bancada para a prática clínica rotineira.\n\n---\n\n**English version**\n\nA recent scoping review published in *Journal of Cytotherapy* has mapped the early landscape of clinical trials in gene editing, highlighting design patterns and gaps that may shape the accelerated adoption of this promising therapy. Conducted up to May 2025, the study analyzed 29 published clinical trials involving 420 patients aged between 6 months and 90 years. The most commonly used technology was CRISPR-Cas9, employed in 79% of the studies (23 trials), with other gene-editing techniques used less frequently.\n\nHematopoietic cells were the most frequent target, with leukemias and lymphomas accounting for 27.5% of clinical indications (8 studies), followed by hemoglobin disorders (20.6%), solid tumors (20.6%), rare genetic diseases (17.2%), and other conditions (13.8%). All trials were in early phases (Phase I/II), with only one controlled study involving 29 patients. The majority of procedures (23 studies) used *ex vivo* approaches, while six employed *in vivo* techniques. Gene transfection was predominantly performed via electroporation in 31% of cases, though the method was unspecified in 48% of the studies.\n\nWhile the findings underscore the potential of gene editing as a therapeutic tool—particularly for oncological and hematological diseases—the lack of controlled studies and heterogeneity in transfection methods constrain robust conclusions regarding efficacy and safety. The predominance of early-phase trials reflects the field's still-nascent clinical maturity, indicating that further research is needed to standardize protocols and assess long-term outcomes. Future directions include the implementation of randomized trials and the harmonization of gene delivery techniques, critical steps for translating this technology from bench to routine clinical practice.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42556172",
+    "authors": [
+      {
+        "name": "Gabrielle Khare",
+        "affiliation": "Faculty of Medicine, University of Ottawa, Ottawa, Canada."
+      },
+      {
+        "name": "An Duong",
+        "affiliation": "Cancer Research Program, Ottawa Hospital Research Institute, Ottawa, Canada."
+      },
+      {
+        "name": "Justine Hanotaux",
+        "affiliation": "Stem Cells, Canadian Blood Services, Ottawa, Canada."
+      },
+      {
+        "name": "Risa Shorr",
+        "affiliation": "Information Services, The Ottawa Hospital, Ottawa, Canada."
+      }
+    ],
+    "journal": "Cytotherapy",
+    "publishedDate": "2026-09-02",
+    "fetchedDate": "2026-09-03",
+    "category": "Oncologia",
+    "tags": [
+      "tumor",
+      "leukemia",
+      "lymphoma",
+      "genetic",
+      "crispr"
+    ],
+    "isHighlight": true,
+    "readTime": 9,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42685611",
+    "pmid": "42685611",
+    "doi": "10.1016/j.tranon.2026.103006",
+    "title": "Decoding cancer with artificial intelligence: Transforming research, diagnosis, and therapy with future insights.",
+    "titlePt": "Decoding cancer with artificial intelligence: Transforming research, diagnosis, and therapy with future insights.",
+    "abstract": "Cancer remains one of the leading global health burdens, with increasing complexity in genomic, imaging, and clinical datasets presenting significant challenges for effective management. Artificial intelligence (AI) has emerged as a powerful tool to address these challenges by enabling pattern recognition, knowledge integration, and data-driven decision-making. This review highlights recent advances in the application of AI across cancer research, diagnosis, and therapy. In research, AI accelerates drug discovery and repurposing, enhances genomic data interpretation, and facilitates biomarker identification through multi-omics integration. In diagnosis, AI has demonstrated high technical performance in radiology for lesion detection and image segmentation, in pathology for tumour grading and molecular prediction, and in liquid biopsy for non-invasive biomarker analysis. In therapy, AI supports precision medicine by predicting treatment responses, monitoring disease progression, and opt",
+    "journalisticSummary": "A inteligência artificial (IA) tem se consolidado como uma ferramenta transformadora no enfrentamento do câncer, doença que permanece como um dos principais desafios de saúde global, com complexidade crescente em dados genômicos, de imagem e clínicos. Um estudo publicado no *Translational Oncology* (DOI: 10.1016/j.tranon.2026.103006) analisa como a IA está redefinindo a pesquisa, o diagnóstico e o tratamento oncológico, destacando avanços recentes em três frentes principais. Na pesquisa, a tecnologia acelera a descoberta e reposicionamento de fármacos, melhora a interpretação de dados genômicos e facilita a identificação de biomarcadores por meio da integração de multiômicas. No diagnóstico, a IA demonstra alto desempenho técnico em radiologia — com detecção de lesões e segmentação de imagens —, em patologia — para gradação tumoral e predição molecular — e em biópsias líquidas, onde permite análises não invasivas de biomarcadores. Na terapia, a IA apoia a medicina de precisão ao prever respostas ao tratamento, monitorar a progressão da doença e otimizar protocolos terapêuticos, embora o estudo não especifique casos clínicos ou ensaios prospectivos que validem tais aplicações em larga escala.\n\nApesar dos resultados promissores, os autores ressaltam limitações críticas, como a dependência de grandes volumes de dados de alta qualidade, vieses inerentes a conjuntos amostrais desbalanceados e a necessidade de padronização de protocolos para integração de múltiplas fontes de informação. Além disso, a reprodutibilidade dos modelos em cenários clínicos reais ainda requer validação robusta, especialmente em populações diversas e em contextos de saúde pública. Os próximos passos incluem o desenvolvimento de frameworks regulatórios para aprovação de ferramentas baseadas em IA, a expansão de estudos prospectivos multicêntricos e a colaboração interdisciplinar para superar barreiras técnicas e éticas. Embora o artigo não forneça métricas quantitativas detalhadas ou comparações diretas com métodos convencionais, ele reforça o potencial da IA como catalisador de inovações na oncologia, desde a bancada até o leito do paciente.\n\n---\n\nArtificial intelligence (AI) has emerged as a transformative tool in the fight against cancer, a disease that remains one of the leading global health burdens with increasingly complex genomic, imaging, and clinical datasets. A study published in *Translational Oncology* (DOI: 10.1016/j.tranon.2026.103006) examines how AI is reshaping cancer research, diagnosis, and therapy by highlighting recent advances across three key domains. In research, AI accelerates drug discovery and repurposing, enhances genomic data interpretation, and facilitates biomarker identification through multi-omics integration. In diagnosis, the technology demonstrates high technical performance in radiology—enabling lesion detection and image segmentation—pathology—supporting tumor grading and molecular prediction—and liquid biopsy, where it enables non-invasive biomarker analysis. In therapy, AI aids precision medicine by predicting treatment responses, monitoring disease progression, and optimizing therapeutic protocols, though the study does not specify clinical cases or prospective trials validating these applications at scale.\n\nWhile the findings are promising, the authors underscore critical limitations, including the reliance on large volumes of high-quality data, biases inherent in unbalanced datasets, and the need for standardized protocols to integrate diverse data sources. Additionally, the reproducibility of AI models in real-world clinical settings remains contingent on robust validation, particularly across diverse populations and public health contexts. Future directions include the development of regulatory frameworks for AI-based tools, the expansion of multicenter prospective studies, and interdisciplinary collaboration to address technical and ethical challenges. Although the paper does not provide detailed quantitative metrics or direct comparisons with conventional methods, it underscores AI’s potential as a catalyst for innovation in oncology, from bench to bedside.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42685611",
+    "authors": [
+      {
+        "name": "Muneera Anwer",
+        "affiliation": "School of Pharmacy and Medical Sciences, Griffith University, Queensland, Australia. Electronic address: muneera.anwer@griffithuni.edu.au."
+      },
+      {
+        "name": "Krupa Bhaliya",
+        "affiliation": "School of Pharmacy and Medical Sciences, Griffith University, Queensland, Australia."
+      },
+      {
+        "name": "Ming Q Wei",
+        "affiliation": "School of Pharmacy and Medical Sciences, Griffith University, Queensland, Australia."
+      }
+    ],
+    "journal": "Translational oncology",
+    "publishedDate": "2026-09-02",
+    "fetchedDate": "2026-09-03",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "genomic",
+      "drug"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42498744",
     "pmid": "42498744",
     "doi": "10.1038/s41416-026-03522-x",
@@ -161,7 +245,7 @@
       "stroke",
       "rna"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -202,7 +286,7 @@
       "drug",
       "therapeutic"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12615,93 +12699,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42237242",
-    "pmid": "42237242",
-    "doi": "10.1186/s12872-026-06053-8",
-    "title": "Association of epicardial fat volume with early outcomes in patients undergoing cryoablation for atrial fibrillation.",
-    "titlePt": "Association of epicardial fat volume with early outcomes in patients undergoing cryoablation for atrial fibrillation.",
-    "abstract": "Epicardial fat is a metabolically active visceral adipose tissue that has been implicated in atrial remodeling and atrial fibrillation (AF) pathophysiology. Although increased epicardial fat volume has been associated with AF presence and recurrence after radiofrequency ablation, its role in predicting early outcomes after cryoballoon ablation (CBA) remains incompletely defined. This study aimed to evaluate the association between computed tomography (CT)-derived epicardial fat volume and early arrhythmia recurrence following CBA for paroxysmal AF. We retrospectively analyzed 61 consecutive patients who underwent CBA for paroxysmal AF. Epicardial fat volume was quantified on pre-procedural non-contrast cardiac CT using automated segmentation with predefined attenuation thresholds (-&#x2009;30 to -&#x2009;190 HU). Patients were followed for 6 months after a 3-month blanking period. AF recurrence was defined as any documented atrial fibrillation, atrial flutter, or atrial tachycardia las",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *BMC Cardiovascular Disorders* investigou a relação entre o volume de gordura epicárdica — um tecido adiposo visceral metabolicamente ativo — e os desfechos precoces em pacientes submetidos à crioablação por fibrilação atrial paroxística. A pesquisa, conduzida com 61 pacientes consecutivos, utilizou tomografia computadorizada (TC) cardíaca não contrastada para quantificar o volume de gordura epicárdica por meio de segmentação automatizada com limiares de atenuação pré-definidos (-30 a -190 UH). Após um período de 3 meses de \"blanking\" (para descartar recorrências transitórias), os pacientes foram acompanhados por 6 meses, com recorrência de arritmia definida como qualquer documentação de fibrilação atrial, flutter atrial ou taquicardia atrial.\n\nOs resultados indicaram que um maior volume de gordura epicárdica esteve significativamente associado a um maior risco de recorrência precoce de arritmia após a crioablação. Essa associação sugere que a gordura epicárdica pode desempenhar um papel na remodelação atrial e na persistência da fibrilação atrial, mesmo em procedimentos de ablação com crioenergia. Embora estudos anteriores já tivessem demonstrado uma correlação entre o volume de gordura epicárdica e a recorrência de fibrilação atrial após ablação por radiofrequência, esta é uma das primeiras evidências a apontar para um impacto semelhante em pacientes submetidos à crioablação.\n\nApesar dos achados promissores, o estudo apresenta limitações importantes, como o delineamento retrospectivo, o tamanho amostral reduzido e a ausência de padronização nos protocolos de seguimento pós-procedimento. Além disso, não foram relatados dados sobre possíveis fatores de confusão, como comorbidades metabólicas ou uso de medicamentos antiarrítmicos, que poderiam influenciar os resultados. Pesquisas futuras, com amostras maiores e delineamentos prospectivos, são necessárias para validar esses achados e explorar estratégias que integrem a avaliação da gordura epicárdica na estratificação de risco pré-ablativa.\n\n---\n\n**English version**\n\nA recent study published in *BMC Cardiovascular Disorders* examined the relationship between epicardial fat volume—a metabolically active visceral adipose tissue—and early outcomes in patients undergoing cryoballoon ablation (CBA) for paroxysmal atrial fibrillation (AF). The retrospective analysis included 61 consecutive patients who underwent pre-procedural non-contrast cardiac computed tomography (CT) with automated segmentation to quantify epicardial fat volume using predefined attenuation thresholds (-30 to -190 HU). Following a 3-month blanking period to exclude transient recurrences, patients were followed for an additional 6 months, with arrhythmia recurrence defined as any documented atrial fibrillation, atrial flutter, or atrial tachycardia.\n\nThe findings revealed a significant association between higher epicardial fat volume and increased risk of early arrhythmia recurrence after CBA. This suggests that epicardial fat may contribute to atrial remodeling and the persistence of AF, even in cryoenergy-based ablation procedures. While prior research has linked epicardial fat volume to AF recurrence after radiofrequency ablation, this study provides early evidence of a similar impact in patients undergoing cryoablation.\n\nDespite these promising results, the study has notable limitations, including its retrospective design, small sample size, and lack of standardized post-procedural follow-up protocols. Additionally, potential confounding factors such as metabolic comorbidities or antiarrhythmic drug use were not reported, which could influence the outcomes. Future research with larger, prospective cohorts is needed to validate these findings and explore strategies for integrating epicardial fat assessment into pre-ablation risk stratification.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42237242",
-    "authors": [
-      {
-        "name": "Mustafa U&#xe7;ar",
-        "affiliation": "Department of Cardiology, Faculty of Medicine, Manisa Celal Bayar University, Manisa, T&#xfc;rkiye."
-      },
-      {
-        "name": "Nurullah &#xc7;etin",
-        "affiliation": "Department of Cardiology, Faculty of Medicine, Manisa Celal Bayar University, Manisa, T&#xfc;rkiye."
-      },
-      {
-        "name": "Mustafa &#xd6;zcan Soylu",
-        "affiliation": "Department of Cardiology, Faculty of Medicine, Manisa Celal Bayar University, Manisa, T&#xfc;rkiye."
-      },
-      {
-        "name": "Muhammed &#x130;kbal &#x15e;a&#x15f;maz",
-        "affiliation": "Department of Emergency Medicine, Faculty of Medicine, Manisa Celal Bayar University, Manisa, T&#xfc;rkiye. ikbalsasmaz84@gmail.com."
-      }
-    ],
-    "journal": "BMC cardiovascular disorders",
-    "publishedDate": "2026-06-04",
-    "fetchedDate": "2026-06-04",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiac",
-      "atrial",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41178353",
-    "pmid": "41178353",
-    "doi": "10.1093/brain/awaf413",
-    "title": "Estimating the time course of biomarker changes in Alzheimer's disease.",
-    "titlePt": "Estimating the time course of biomarker changes in Alzheimer's disease.",
-    "abstract": "Recent advancements in biomarkers have transformed Alzheimer's disease (AD) diagnosis from being purely symptom-based to include biological criteria. With new treatments targeting the core biology of Alzheimer's disease, understanding the timeline of biological changes is crucial as the disease progresses over decades. Longitudinal data from amyloid-beta (A&#x3b2;) PET and cognitive tests [Mini-Mental State Examination (MMSE) and Alzheimer's Disease Assessment Scale-Cognitive Subscale (ADAS-cog)] from the Alzheimer's Disease Neuroimaging Initiative (n = 1448) and BioFINDER (n = 2088) were used to stage patients against an estimated continuous disease timeline (predicted time since A&#x3b2;-PET positivity). The estimated timeline was validated by comparing correlations with unseen biomarkers and cognitive measures against alternative staging approaches. Trajectories for plasma, CSF, MRI and PET biomarkers, measuring A&#x3b2;, tau and neurodegeneration, were mapped along this Alzheimer's",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo estudo publicado na *Brain* mapeou a progressão temporal de biomarcadores associados ao Alzheimer, oferecendo insights cruciais para o diagnóstico precoce e o desenvolvimento de terapias direcionadas. Pesquisadores analisaram dados longitudinais de dois grandes consórcios — o *Alzheimer’s Disease Neuroimaging Initiative* (ADNI, n=1.448) e o *BioFINDER* (n=2.088) — combinando exames de PET para detecção de placas de amiloide-beta (Aβ), testes cognitivos (como o *Mini-Mental State Examination* e a *Alzheimer’s Disease Assessment Scale-Cognitive Subscale*) e outros biomarcadores sanguíneos, liquóricos e de imagem (RM e PET). O objetivo foi estimar uma linha do tempo contínua da doença, calculando o tempo decorrido desde a positividade do PET para Aβ até a manifestação de alterações em outros marcadores biológicos e cognitivos.\n\nOs resultados revelaram que as alterações em biomarcadores seguem uma ordem previsível: a deposição de Aβ precede em anos as mudanças em tau e neurodegeneração, enquanto a disfunção cognitiva surge mais tardiamente. A abordagem proposta, validada por correlações com biomarcadores não vistos durante o treinamento, superou métodos convencionais de estadiamento, como a classificação por estágios clínicos. Essa modelagem contínua permite uma estratificação mais precisa dos pacientes, especialmente em fases assintomáticas ou prodrômicas, quando intervenções terapêuticas podem ser mais eficazes.\n\nApesar do avanço, o estudo apresenta limitações importantes. A generalização dos achados depende da representatividade dos bancos de dados, que incluem predominantemente populações de alto rendimento e etnias específicas, potencialmente enviesando os resultados. Além disso, a modelagem não incorpora fatores genéticos (como a presença do alelo *APOE-ε4*), ambientais ou comorbidades, que podem influenciar a progressão da doença. Outra lacuna é a ausência de dados sobre a variabilidade interindividual em resposta a tratamentos anti-amiloides, ainda não amplamente testados na prática clínica.\n\nOs próximos passos incluem a validação da metodologia em coortes mais diversificadas e a integração de algoritmos de *machine learning* para refinar as predições individuais. A longo prazo, a aplicação dessa linha do tempo em ensaios clínicos poderá otimizar a seleção de participantes para terapias precoces, bem como monitorar a eficácia de intervenções com maior precisão. Para a saúde pública, a abordagem sinaliza um passo rumo à medicina de precisão no Alzheimer, embora ainda sejam necessários estudos complementares para confirmar sua aplicabilidade em larga escala.\n\n---\n\n**English version**\n\nA new study published in *Brain* has mapped the temporal progression of Alzheimer’s disease (AD) biomarkers, providing critical insights for early diagnosis and targeted therapies. Researchers analyzed longitudinal data from two major consortia—the *Alzheimer’s Disease Neuroimaging Initiative* (ADNI, n=1,448) and *BioFINDER* (n=2,088)—combining amyloid-beta (Aβ) PET scans, cognitive tests (such as the *Mini-Mental State Examination* and *Alzheimer’s Disease Assessment Scale-Cognitive Subscale*), and additional biomarkers from blood, cerebrospinal fluid (CSF), MRI, and PET imaging. The goal was to estimate a continuous disease timeline, calculating the time elapsed since Aβ-PET positivity until the onset of changes in other biological and cognitive markers.\n\nThe findings revealed a predictable sequence of biomarker alterations: Aβ accumulation precedes tau pathology and neurodegeneration by years, while cognitive decline emerges later. The proposed approach, validated by correlations with unseen biomarkers, outperformed conventional staging methods, such as clinical stage classification. This continuous modeling enables more precise patient stratification, particularly in asymptomatic or prodromal phases, when therapeutic interventions may be most effective.\n\nDespite these advances, the study has important limitations. Generalizability depends on the representativeness of the datasets, which predominantly include high-income, ethnically specific populations, potentially biasing the results. Additionally, the model does not account for genetic factors (such as *APOE-ε4* carriage), environmental influences, or comorbidities that may affect disease progression. Another gap is the lack of data on interindividual variability in response to anti-amyloid treatments, which are not yet widely tested in clinical practice.\n\nFuture steps include validating the methodology in more diverse cohorts and integrating *machine learning* algorithms to refine individual predictions. In the long term, applying this timeline in clinical trials could optimize participant selection for early therapies and improve the monitoring of treatment efficacy. For public health, this approach represents a step toward precision medicine in Alzheimer’s, though further studies are needed to confirm its scalability and real-world applicability.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41178353",
-    "authors": [
-      {
-        "name": "Lars Lau Raket",
-        "affiliation": "Clinical Memory Research Unit, Department of Clinical Sciences in Malm&#xf6;, Lund University, Lund 223 62, Sweden."
-      },
-      {
-        "name": "Alexa Pichet Binette",
-        "affiliation": "Eli Lilly and Company, Indianapolis, IN 46285, USA."
-      },
-      {
-        "name": "Niklas Mattsson-Carlgren",
-        "affiliation": "Clinical Memory Research Unit, Department of Clinical Sciences in Malm&#xf6;, Lund University, Lund 223 62, Sweden."
-      },
-      {
-        "name": "Shorena Janelidze",
-        "affiliation": "Clinical Memory Research Unit, Department of Clinical Sciences in Malm&#xf6;, Lund University, Lund 223 62, Sweden."
-      }
-    ],
-    "journal": "Brain : a journal of neurology",
-    "publishedDate": "2026-06-03",
-    "fetchedDate": "2026-06-04",
-    "category": "Neurologia",
-    "tags": [
-      "alzheimer",
-      "cognitive",
-      "gene",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
