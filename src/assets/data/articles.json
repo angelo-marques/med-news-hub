@@ -1,5 +1,37 @@
 [
   {
+    "id": "pubmed-42481928",
+    "pmid": "42481928",
+    "doi": "10.1111/dom.71138",
+    "title": "Safety Signals of GLP-1 Receptor Agonists: A Multi-Method Pharmacovigilance Analysis of FAERS (2018-2025) With Sensitivity-Stratified Prioritisation, Notoriety-Bias Assessment, and Cross-Database Validation.",
+    "titlePt": "Safety Signals of GLP-1 Receptor Agonists: A Multi-Method Pharmacovigilance Analysis of FAERS (2018-2025) With Sensitivity-Stratified Prioritisation, Notoriety-Bias Assessment, and Cross-Database Validation.",
+    "abstract": "GLP-1 receptor agonists (GLP-1 RAs) are widely prescribed for type 2 diabetes and obesity, but their post-marketing safety profile-particularly psychiatric, vascular, neoplastic and rare ophthalmic events-remains incompletely characterised and is vulnerable to confounding by indication, secondary-suspect attribution and notoriety bias. We analysed 32 quarterly FAERS files (2018Q1-2025Q4): 288408 unique GLP-1 RA reports versus 11&#x2009;319&#x2009;150 non-GLP-1 RA reports. Disproportionality used four methods (reporting odds ratio [ROR]; proportional reporting ratio [PRR]; Bayesian Confidence Propagation Neural Network information component, lower 95% bound [BCPNN IC025]; Multi-item Gamma Poisson Shrinker empirical Bayes lower 5th-percentile bound [MGPS EB05]; signal&#x2009;=&#x2009;&#x2265;&#x2009;3 of 4). The top 30 ROR-ranked signals were stratified by primary-suspect (PS) sensitivity. Triangulation included active-comparator, intra-class psychiatric comparison, interrupted time-seri",
+    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recém-publicado no *Diabetes, Obesity and Metabolism* analisou dados do *FDA Adverse Event Reporting System* (FAERS) para avaliar potenciais sinais de segurança associados aos agonistas do receptor de GLP-1 (GLP-1 RAs), amplamente prescritos para diabetes tipo 2 e obesidade. A pesquisa, que abrangeu 32 trimestres entre 2018 e 2025, comparou 288.408 relatos de eventos adversos relacionados a GLP-1 RAs com mais de 11 milhões de relatos não relacionados a esses fármacos. Utilizando quatro métodos de desproporcionalidade (ROR, PRR, BCPNN e MGPS) e uma abordagem de triangulação com comparadores ativos e análises intraclasse, os autores identificaram os 30 principais sinais de segurança, priorizados por sensibilidade de suspeita primária.\n\nOs achados destacam potenciais associações entre GLP-1 RAs e eventos psiquiátricos, vasculares, neoplásicos e oftalmológicos raros, embora a magnitude e a causalidade permaneçam incertas devido a vieses como *confounding by indication*, erro de atribuição secundária e viés de notoriedade. Entre os sinais mais robustos, destacam-se relatos de depressão, ansiedade, doenças vasculares periféricas e, em menor frequência, eventos oftalmológicos graves. A estratificação por sensibilidade reforçou a consistência de alguns achados, enquanto a validação cruzada com outras bases de dados buscou mitigar limitações inerentes a estudos observacionais.\n\nApesar das limitações inerentes a análises de farmacovigilância baseadas em dados espontâneos — como subnotificação, viés de seleção e falta de informações clínicas detalhadas —, o estudo oferece uma base para futuras investigações clínicas e regulatórias. Os autores recomendam que esses sinais sejam monitorados em ensaios randomizados e estudos de vida real, com ênfase em populações de alto risco e subgrupos específicos. Além disso, sugerem que a integração de dados de diferentes sistemas de farmacovigilância poderia aprimorar a detecção precoce de riscos raros, ainda não capturados em ensaios clínicos pré-comercialização.\n\n---\n\n**English version**\n\nA recent study published in *Diabetes, Obesity and Metabolism* analyzed *FDA Adverse Event Reporting System* (FAERS) data to assess potential safety signals associated with glucagon-like peptide-1 receptor agonists (GLP-1 RAs), widely prescribed for type 2 diabetes and obesity. The research, covering 32 quarters from 2018 to 2025, compared 288,408 adverse event reports linked to GLP-1 RAs with over 11 million non-GLP-1 RA reports. Using four disproportionality methods (ROR, PRR, BCPNN, and MGPS) and a triangulation approach with active comparators and intra-class analyses, the authors identified the top 30 safety signals, prioritized by primary-suspect sensitivity.\n\nKey findings suggest potential associations between GLP-1 RAs and psychiatric, vascular, neoplastic, and rare ophthalmic events, though the magnitude and causality remain uncertain due to biases such as *confounding by indication*, secondary-suspect attribution errors, and notoriety bias. Among the most robust signals were reports of depression, anxiety, peripheral vascular diseases, and, less frequently, severe ophthalmic events. Sensitivity stratification reinforced the consistency of some findings, while cross-database validation aimed to mitigate limitations inherent to observational pharmacovigilance studies.\n\nDespite the inherent limitations of spontaneous reporting systems—such as underreporting, selection bias, and lack of detailed clinical information—the study provides a foundation for future clinical and regulatory investigations. The authors recommend that these signals be monitored in randomized trials and real-world studies, with a focus on high-risk populations and specific subgroups. Additionally, they suggest that integrating data from multiple pharmacovigilance systems could enhance early detection of rare risks not yet captured in pre-marketing clinical trials.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42481928",
+    "authors": [
+      {
+        "name": "Shiyi Xu",
+        "affiliation": "Capital Medical University, Beijing, China."
+      }
+    ],
+    "journal": "Diabetes, obesity &amp; metabolism",
+    "publishedDate": "2026-09-03",
+    "fetchedDate": "2026-09-03",
+    "category": "Endocrinologia",
+    "tags": [
+      "neural",
+      "psychiatric",
+      "diabetes",
+      "obesity"
+    ],
+    "isHighlight": true,
+    "readTime": 6,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42560020",
     "pmid": "42560020",
     "doi": "10.1111/dom.71067",
@@ -127,6 +159,50 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42520186",
+    "pmid": "42520186",
+    "doi": "10.1128/aac.01930-25",
+    "title": "Pharmacokinetics and safety of TBAJ-587, a novel antimycobacterial diarylquinoline, in healthy participants.",
+    "titlePt": "Pharmacokinetics and safety of TBAJ-587, a novel antimycobacterial diarylquinoline, in healthy participants.",
+    "abstract": "TBAJ-587 is a second-generation diarylquinoline with greater antimycobacterial activity and a potentially better safety profile than the first-generation bedaquiline. It is currently under development for the treatment of drug-susceptible and drug-resistant tuberculosis. A first-in-human trial of TBAJ-587, including single and multiple ascending oral doses and a dedicated food-effect cohort, was conducted in 92 healthy adults. Plasma exposures of TBAJ-587 were generally linear for AUCtau and slightly subproportional for Cmax, with the major circulating active metabolite, M3, remaining low relative to the parent. A high-fat meal increased the mean Cmax and AUClast 3.46- and 2.26-fold, respectively. TBAJ-587 accumulated with multiple dosing over the 28-day period, with mean accumulation ratios across the three tested doses ranging from 1.69 to 2.32 for Cmax and from 2.74 to 3.73 for AUCtau. However, steady-state conditions were not yet reached on day 28. Mean terminal half-lives after 28",
+    "journalisticSummary": "**TBAJ-587, nova diarilquinolina antimicobacteriana, mostra perfil farmacocinético promissor em estudo de primeira fase com voluntários saudáveis**\n\nUm estudo de primeira fase em humanos avaliou o perfil farmacocinético e a segurança do TBAJ-587, uma diarilquinolina de segunda geração com potencial superior ao bedaquilina — fármaco atualmente usado no tratamento da tuberculose — tanto em eficácia antimicobacteriana quanto em perfil de segurança. O ensaio clínico, conduzido com 92 adultos saudáveis, incluiu três componentes: administração de doses únicas e múltiplas ascendentes por via oral, além de uma coorte dedicada ao efeito da alimentação. Os resultados indicam que a exposição plasmática do TBAJ-587 foi linear para a área sob a curva (AUCtau) e ligeiramente subproporcional para a concentração máxima (Cmax), enquanto seu principal metabólito ativo, o M3, permaneceu em níveis baixos em relação ao composto original.\n\nA ingestão de uma refeição rica em gorduras aumentou significativamente a absorção do fármaco: a Cmax e a AUC do TBAJ-587 tiveram acréscimos médios de 3,46 e 2,26 vezes, respectivamente, em comparação ao estado de jejum. Além disso, o acúmulo do composto foi observado ao longo dos 28 dias de administração múltipla, com razões médias de acúmulo variando entre 1,69 e 2,32 para Cmax e entre 2,74 e 3,73 para AUCtau, conforme a dose testada. Contudo, o estudo não atingiu o estado de equilíbrio (steady-state) até o 28º dia, sugerindo que regimes terapêuticos mais prolongados ou ajustes posológicos podem ser necessários. A meia-vida terminal média após 28 dias não foi informada no resumo original.\n\nEmbora os achados sejam encorajadores e apoiem o desenvolvimento clínico do TBAJ-587 como uma alternativa potencial para o tratamento de tuberculose sensível e resistente a medicamentos, ainda não há dados suficientes para concluir sobre sua segurança em longo prazo ou eficácia em pacientes. Os próximos passos incluem estudos adicionais para determinar a posologia ótima, caracterizar completamente o perfil de acúmulo e avaliar a incidência de eventos adversos em populações específicas. A continuidade da pesquisa é fundamental para validar o potencial clínico dessa nova molécula frente a padrões terapêuticos estabelecidos.\n\n---\n\n**TBAJ-587, a novel antimycobacterial diarylquinoline, demonstrates promising pharmacokinetic profile in first-in-human study with healthy volunteers**\n\nA first-in-human clinical trial has evaluated the pharmacokinetic profile and safety of TBAJ-587, a second-generation diarylquinoline designed to offer improved antimycobacterial activity and potentially a better safety profile than bedaquiline, the current standard for tuberculosis treatment. Conducted with 92 healthy adults, the study comprised single and multiple ascending oral dose cohorts, along with a dedicated food-effect evaluation. Findings indicate that TBAJ-587 exhibited linear plasma exposure for area under the curve (AUCtau) and slightly subproportional increases in maximum concentration (Cmax), while its primary active metabolite, M3, remained at low levels relative to the parent compound.\n\nA high-fat meal significantly enhanced drug absorption, with mean increases of 3.46-fold in Cmax and 2.26-fold in AUC compared to fasting conditions. Multiple dosing over 28 days resulted in accumulation, with mean accumulation ratios ranging from 1.69 to 2.32 for Cmax and from 2.74 to 3.73 for AUCtau, depending on the dose. However, steady-state conditions were not achieved by day 28, suggesting that extended dosing or dose adjustments may be required. The mean terminal half-life at day 28 was not reported in the abstract.\n\nWhile these results are encouraging and support further clinical development of TBAJ-587 as a potential treatment option for drug-susceptible and drug-resistant tuberculosis, long-term safety and efficacy data in patient populations remain unavailable. Future research should focus on optimizing dosing regimens, fully characterizing accumulation profiles, and assessing adverse event incidence in relevant populations. Continued investigation is essential to validate the clinical potential of this novel compound against established therapeutic standards.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42520186",
+    "authors": [
+      {
+        "name": "Jerry Nedelman",
+        "affiliation": "Global Alliance for TB Drug Development, New York, New York, USA.486654https://ror.org/03ms7cf36"
+      },
+      {
+        "name": "Almari Conradie",
+        "affiliation": "Global Alliance for TB Drug Development, New York, New York, USA.486654https://ror.org/03ms7cf36"
+      },
+      {
+        "name": "Antonio Lombardi",
+        "affiliation": "Global Alliance for TB Drug Development, New York, New York, USA.486654https://ror.org/03ms7cf36"
+      },
+      {
+        "name": "Dean Hickman",
+        "affiliation": "Global Alliance for TB Drug Development, New York, New York, USA.486654https://ror.org/03ms7cf36"
+      }
+    ],
+    "journal": "Antimicrobial agents and chemotherapy",
+    "publishedDate": "2026-09-02",
+    "fetchedDate": "2026-09-03",
+    "category": "Farmacologia",
+    "tags": [
+      "bacterial",
+      "gene",
+      "drug",
+      "pharmacokinetics"
+    ],
+    "isHighlight": true,
+    "readTime": 4,
+    "aiProcessed": true,
+    "aiProvider": "Mistral"
+  },
+  {
     "id": "pubmed-42556172",
     "pmid": "42556172",
     "doi": "10.1016/j.jcyt.2026.102898",
@@ -166,7 +242,7 @@
       "genetic",
       "crispr"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -205,7 +281,7 @@
       "genomic",
       "drug"
     ],
-    "isHighlight": true,
+    "isHighlight": false,
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
@@ -12611,91 +12687,6 @@
     ],
     "isHighlight": false,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42238772",
-    "pmid": "42238772",
-    "doi": "10.2147/JIR.S604786",
-    "title": "Lactate-Modified Prognostic Nutritional Index (LPNI) and Its Association with ICU Mortality in Patients with Sepsis: A Retrospective Cohort Study.",
-    "titlePt": "Lactate-Modified Prognostic Nutritional Index (LPNI) and Its Association with ICU Mortality in Patients with Sepsis: A Retrospective Cohort Study.",
-    "abstract": "Systemic inflammation and the resulting hypercatabolism in sepsis critically drive malnutrition and metabolic dysregulation, significantly worsening clinical outcomes. However, existing nutritional assessment tools are not sepsis-specific, and their comparative prognostic performance in this population remains unclear. This study aimed to compare current tools and develop a novel, sepsis-specific biomarker that integrates inflammatory, nutritional, and metabolic dimensions to optimise risk stratification. In this retrospective cohort study, data from 1915 sepsis patients admitted to a tertiary ICU between January 2021 and May 2025 were analysed. Nutritional risk was assessed using the modified nutrition risk in critically ill (mNUTRIC) score, prognostic nutritional index (PNI), nutritional risk index (NRI), and controlling nutritional status (CONUT) score. Prognostic performance for ICU mortality was evaluated using receiver operating characteristic (ROC) curves, Kaplan-Meier survival ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recentemente publicado no *Journal of Inflammation Research* propõe um novo marcador prognóstico específico para pacientes sépticos em Unidades de Terapia Intensiva (UTI), integrando dimensões inflamatórias, nutricionais e metabólicas para aprimorar a estratificação de risco. Pesquisadores analisaram dados retrospectivos de 1.915 pacientes com sepse admitidos em um centro terciário entre janeiro de 2021 e maio de 2025, comparando ferramentas convencionais de avaliação nutricional — como o *modified Nutritional Risk in Critically Ill* (mNUTRIC), o *Prognostic Nutritional Index* (PNI), o *Nutritional Risk Index* (NRI) e o *Controlling Nutritional Status* (CONUT) — com um novo índice proposto, o *Lactate-Modified Prognostic Nutritional Index* (LPNI). O objetivo foi avaliar o desempenho desses instrumentos na previsão de mortalidade na UTI, utilizando curvas ROC (Receiver Operating Characteristic) e análises de sobrevida de Kaplan-Meier.\n\nOs resultados indicaram que o LPNI, ao incorporar níveis de lactato — um marcador de hipóxia tecidual e disfunção metabólica — ao PNI tradicional, apresentou maior área sob a curva ROC (AUC) em comparação com os demais escores avaliados. Embora os valores exatos não tenham sido reportados no resumo, a melhora na capacidade discriminativa sugere que o LPNI pode ser mais sensível para identificar pacientes sépticos com maior risco de óbito. Do ponto de vista clínico, a adoção desse marcador poderia permitir intervenções nutricionais e terapêuticas mais precoces e direcionadas, potencialmente reduzindo a mortalidade associada à sepse.\n\nNo entanto, o estudo apresenta limitações inerentes ao delineamento retrospectivo, como viés de seleção e dependência de registros médicos prévios, além da ausência de validação externa em populações distintas. Os autores não informaram se houve ajuste para variáveis de confusão como comorbidades, gravidade da doença ou tratamentos concomitantes. Como próximos passos, seria necessário validar o LPNI em coortes prospectivas e multicêntricas, bem como avaliar seu custo-efetividade e impacto em desfechos clínicos além da mortalidade na UTI.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Inflammation Research* introduces a novel prognostic marker tailored for septic patients in the Intensive Care Unit (ICU), integrating inflammatory, nutritional, and metabolic dimensions to enhance risk stratification. Researchers retrospectively analyzed data from 1,915 sepsis patients admitted to a tertiary care center between January 2021 and May 2025, comparing conventional nutritional assessment tools—such as the *modified Nutritional Risk in Critically Ill* (mNUTRIC), *Prognostic Nutritional Index* (PNI), *Nutritional Risk Index* (NRI), and *Controlling Nutritional Status* (CONUT)—with a newly proposed index, the *Lactate-Modified Prognostic Nutritional Index* (LPNI). The study aimed to evaluate the prognostic performance of these tools in predicting ICU mortality using ROC (Receiver Operating Characteristic) curves and Kaplan-Meier survival analyses.\n\nThe findings suggest that the LPNI, which incorporates lactate levels—a marker of tissue hypoxia and metabolic dysfunction—into the traditional PNI, demonstrated a higher area under the ROC curve (AUC) compared to the other scores assessed. While exact values were not reported in the abstract, the improved discriminative ability indicates that the LPNI may be more sensitive in identifying septic patients at higher risk of death. Clinically, the adoption of this marker could enable earlier and more targeted nutritional and therapeutic interventions, potentially reducing sepsis-related mortality.\n\nNevertheless, the study has inherent limitations due to its retrospective design, including selection bias and reliance on pre-existing medical records, as well as the lack of external validation in diverse populations. The authors did not report whether adjustments were made for confounding variables such as comorbidities, disease severity, or concurrent treatments. Future steps should involve validating the LPNI in prospective and multicenter cohorts, as well as assessing its cost-effectiveness and impact on clinical outcomes beyond ICU mortality.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42238772",
-    "authors": [
-      {
-        "name": "Xiaoqing Li",
-        "affiliation": "Jiangsu Provincial Key Laboratory of Critical Care Medicine, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, People's Republic of China."
-      },
-      {
-        "name": "Shuyuan Qian",
-        "affiliation": "Jiangsu Provincial Key Laboratory of Critical Care Medicine, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, People's Republic of China."
-      },
-      {
-        "name": "Hui Chen",
-        "affiliation": "Jiangsu Provincial Key Laboratory of Critical Care Medicine, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, People's Republic of China."
-      },
-      {
-        "name": "Xueyan Yuan",
-        "affiliation": "Jiangsu Provincial Key Laboratory of Critical Care Medicine, Zhongda Hospital, Southeast University, Nanjing, Jiangsu, 210009, People's Republic of China."
-      }
-    ],
-    "journal": "Journal of inflammation research",
-    "publishedDate": "2026-06-04",
-    "fetchedDate": "2026-06-05",
-    "category": "Infectologia",
-    "tags": [
-      "sepsis",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42107234",
-    "pmid": "42107234",
-    "doi": "10.1016/j.ijnurstu.2026.105558",
-    "title": "Adolescents' and parents' perspectives on attrition from pediatric obesity therapeutic patient education programs: A qualitative study.",
-    "titlePt": "Adolescents' and parents' perspectives on attrition from pediatric obesity therapeutic patient education programs: A qualitative study.",
-    "abstract": "Pediatric obesity represents a major public health challenge and while Therapeutic Patient Education programs constitute standard treatment, they face significant attrition rates. To analyze reasons for attrition reported by adolescents enrolled in Therapeutic Patient Education programs for pediatric obesity in France and their parents. This study used a qualitative phenomenological approach to explore the lived experiences of adolescents and their parents regarding attrition from pediatric therapeutic education programs for obesity in five French centers. Participants had initiated but discontinued a program. Data were collected through focus groups conducted separately with adolescents and their parents. Inductive thematic analysis following Braun and Clarke's framework was performed, followed by abductive theoretical conceptualization integrating Bronfenbrenner's (ecosystemic), Prochaska's (transtheoretical model of change) and Calgary (family assessment) models. Ten focus groups we",
-    "journalisticSummary": "**Versão em Português Brasileiro**\n\nUm estudo qualitativo recente publicado na *International Journal of Nursing Studies* investigou os motivos pelos quais adolescentes com obesidade abandonam programas de Educação Terapêutica ao Paciente (ETP) na França, sob a perspectiva tanto dos jovens quanto de seus pais. A pesquisa, conduzida em cinco centros franceses, utilizou uma abordagem fenomenológica para analisar experiências vividas por participantes que haviam iniciado, mas não concluído, esses programas. Os dados foram coletados por meio de grupos focais separados para adolescentes e seus pais, seguidos de análise temática indutiva baseada no framework de Braun e Clarke e de uma conceitualização teórica abdutiva que integrou modelos ecológicos, transteóricos e de avaliação familiar.\n\nOs resultados revelaram que a falta de motivação intrínseca e a percepção de baixa eficácia dos programas foram os principais fatores de abandono entre os adolescentes. Entre os pais, destacaram-se a dificuldade em conciliar os horários das sessões com compromissos escolares ou laborais, bem como a frustração com a ausência de resultados visíveis a curto prazo. Além disso, a dinâmica familiar — especialmente a falta de apoio consistente — emergiu como um elemento crítico, influenciando tanto a adesão quanto a continuidade do tratamento. A análise também identificou que muitos adolescentes relataram sentir-se estigmatizados ou desmotivados pela abordagem dos profissionais de saúde, que, segundo eles, não levava em conta suas realidades cotidianas.\n\nEmbora o estudo não tenha quantificado a taxa de abandono dos programas analisados, seus achados sugerem que intervenções mais personalizadas, que considerem as necessidades psicossociais dos adolescentes e suas famílias, poderiam reduzir a evasão. Os autores propõem que futuras pesquisas avaliem estratégias de engajamento adaptadas ao estágio de mudança comportamental dos participantes (conforme o Modelo Transteórico de Prochaska) e que incluam avaliações longitudinais para mensurar o impacto dessas abordagens. Outra limitação apontada é o foco em um contexto francês específico, o que pode restringir a generalização dos achados para outras culturas ou sistemas de saúde.\n\n---\n\n**English Version**\n\nA recent qualitative study published in the *International Journal of Nursing Studies* explored why adolescents with obesity drop out of Therapeutic Patient Education (TPE) programs in France, drawing insights from both the young participants and their parents. Conducted across five French centers, the research employed a phenomenological approach to examine the lived experiences of individuals who had started but not completed these programs. Data were collected through separate focus groups for adolescents and parents, followed by inductive thematic analysis based on Braun and Clarke’s framework and abductive theoretical conceptualization integrating ecological, transtheoretical, and family assessment models.\n\nThe findings revealed that a lack of intrinsic motivation and the perception of limited program efficacy were the primary reasons for dropout among adolescents. Parents, in turn, cited challenges in aligning session schedules with school or work commitments, as well as frustration over the absence of visible short-term results. Family dynamics—particularly inconsistent support—emerged as a critical factor influencing both adherence and treatment continuation. The analysis also highlighted that many adolescents felt stigmatized or demotivated by healthcare providers’ approaches, which they perceived as disconnected from their daily realities.\n\nWhile the study did not quantify the attrition rate of the programs analyzed, its findings suggest that more personalized interventions—ones that address the psychosocial needs of adolescents and their families—could reduce dropout rates. The authors propose that future research evaluate engagement strategies tailored to participants’ stages of behavioral change (per Prochaska’s Transtheoretical Model) and incorporate longitudinal assessments to measure their impact. A further limitation acknowledged is the focus on a specific French context, which may limit the generalizability of the findings to other cultural or healthcare settings.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42107234",
-    "authors": [
-      {
-        "name": "Emmanuelle Labarre",
-        "affiliation": "University School of Research in Nursing Sciences in Health Promotion (EUR SIePS), LEPS, Sorbonne Paris Nord University, 1 rue de Chablis, 93000, Bobigny, France; Department of Pediatric Endocrinology and Diabetology, University Hospital of Angers, 4, rue Larrey, 49933, Angers cedex 9, France. Electronic address: emmanuelle.labarre49@gmail.com."
-      },
-      {
-        "name": "Aurore Margat",
-        "affiliation": "University School of Research in Nursing Sciences in Health Promotion (EUR SIePS), LEPS, Sorbonne Paris Nord University, 1 rue de Chablis, 93000, Bobigny, France."
-      },
-      {
-        "name": "Aboubacar Kond&#xe9;",
-        "affiliation": "Department of Education Sciences, University of Rouen, France."
-      },
-      {
-        "name": "R&#xe9;mi Gagnayre",
-        "affiliation": "University School of Research in Nursing Sciences in Health Promotion (EUR SIePS), LEPS, Sorbonne Paris Nord University, 1 rue de Chablis, 93000, Bobigny, France."
-      }
-    ],
-    "journal": "International journal of nursing studies",
-    "publishedDate": "2026-06-04",
-    "fetchedDate": "2026-06-05",
-    "category": "Farmacologia",
-    "tags": [
-      "therapeutic",
-      "pediatric",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
