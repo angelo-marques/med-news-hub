@@ -1,5 +1,84 @@
 [
   {
+    "id": "pubmed-42693593",
+    "pmid": "42693593",
+    "doi": "10.1111/ajco.70176",
+    "title": "Comprehensive Genomic Profiling Timeliness Beyond Laboratory Turnaround Time: A Patient-Facing Pathway Analysis.",
+    "titlePt": "Comprehensive Genomic Profiling Timeliness Beyond Laboratory Turnaround Time: A Patient-Facing Pathway Analysis.",
+    "abstract": "We evaluated the timeliness of the patient-facing comprehensive genomic profiling (CGP) pathway by separating laboratory and post-laboratory intervals within an expert panel-mediated process, using direct disclosure of results to patients as the endpoint. This single-center retrospective study included adult CGP test episodes performed under government-funded cancer genomic medicine at a Japanese university hospital between October 2019 and November 2025. The primary outcome was patient-centered turnaround time (TAT), defined as the interval from informed consent to direct disclosure of the CGP result to the patient. Laboratory TAT and pathway intervals were summarized descriptively, and laboratory TAT was compared across assays. Among 882 CGP test episodes, median laboratory TAT was 14 days (interquartile range [IQR], 12-16) among 871 evaluable episodes. Among 828 evaluable episodes, median patient-centered TAT was 41 days (IQR 35-45). The laboratory analysis retained observed long in",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693593",
+    "authors": [
+      {
+        "name": "Shinya Kajiura",
+        "affiliation": "Department of Medical Oncology and Palliative Medicine, Toyama University Hospital, Toyama, Japan."
+      },
+      {
+        "name": "Naohiko Nakamura",
+        "affiliation": "Department of Medical Oncology and Palliative Medicine, Toyama University Hospital, Toyama, Japan."
+      },
+      {
+        "name": "Ryuji Hayashi",
+        "affiliation": "Department of Medical Oncology and Palliative Medicine, Toyama University Hospital, Toyama, Japan."
+      }
+    ],
+    "journal": "Asia-Pacific journal of clinical oncology",
+    "publishedDate": "2026-09-04",
+    "fetchedDate": "2026-09-04",
+    "category": "Genômica",
+    "tags": [
+      "cancer",
+      "genomic",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"oyvDUjP-2kFHot-a35c56f4a9ef5396\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42322070",
+    "pmid": "42322070",
+    "doi": "10.1111/ejh.70240",
+    "title": "Project Sickle Cure: A Prospective, International Observational Study of Hematopoietic Cell Transplantation for Sickle Cell Disease.",
+    "titlePt": "Project Sickle Cure: A Prospective, International Observational Study of Hematopoietic Cell Transplantation for Sickle Cell Disease.",
+    "abstract": "Sickle cell disease (SCD) is a chronic and life-limiting hemoglobin and systemic vascular disease. While over 1000 people have undergone hematopoietic cell transplantation (HCT) over the last 40&#x2009;years, long-term disease-specific and health-related quality of life data are lacking. The American Society of Hematology 2021 Guidelines for SCD emphasized the need for more detailed registry data to inform patients and providers with decision-making and practice recommendations. In January 2021, the Sickle Cell Transplant Advocacy and Research Alliance (STAR) launched Project Sickle Cure (PSC). This multi-center, prospective study of patients who have undergone HCT for SCD includes baseline demographics and SCD-specific post-HCT outcomes, serial neurocognitive testing, health-related quality of life measures, health equity evaluations, a neuroimaging bank, detailed evaluation of neurologic status pre- and post-transplant, and chronic pain evaluation. A biorepository is in the planning ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42322070",
+    "authors": [
+      {
+        "name": "Gregory M T Guilcher",
+        "affiliation": "Section of Pediatric Oncology/Transplant, Alberta Children's Hospital, Cumming School of Medicine, University of Calgary, Calgary, Canada."
+      },
+      {
+        "name": "Allistair Abraham",
+        "affiliation": "Center for Cancer and Immunology Research, CETI, Children's National Hospital, Washington, DC, USA."
+      },
+      {
+        "name": "Staci D Arnold",
+        "affiliation": "Aflac Cancer and Blood Center, Children's Healthcare of Atlanta and Emory University School of Medicine, Atlanta, Georgia, USA."
+      },
+      {
+        "name": "Christine Camacho-Bydume",
+        "affiliation": "Department of Pediatric Hematology/Oncology, Joseph M. Sanzari Children's Hospital, Hackensack University Medical Center, Hackensack, New Jersey, USA."
+      }
+    ],
+    "journal": "European journal of haematology",
+    "publishedDate": "2026-09-04",
+    "fetchedDate": "2026-09-04",
+    "category": "Neurologia",
+    "tags": [
+      "cognitive",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"oyvE9p1-2kFHot-a35c5a2a6fab252d\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42692950",
     "pmid": "42692950",
     "doi": "10.1080/21645515.2026.2721105",
@@ -12602,92 +12681,6 @@
     ],
     "isHighlight": false,
     "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42248677",
-    "pmid": "42248677",
-    "doi": "10.1136/jnis-2026-025486",
-    "title": "GLP-1 receptor agonist use and aspiration pneumonia risk following endovascular thrombectomy.",
-    "titlePt": "GLP-1 receptor agonist use and aspiration pneumonia risk following endovascular thrombectomy.",
-    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) delay gastric emptying and may increase aspiration risk, but their impact in patients with acute ischemic stroke patients who are undergoing endovascular thrombectomy (EVT) is unknown. We performed a retrospective cohort study of consecutive patients undergoing EVT for acute ischemic stroke at a tertiary care center between 1 January 2020 and 5 May 2025. GLP-1 RA use was defined as documented active therapy at hospital presentation. The primary outcome was aspiration pneumonia within 30 days of EVT. Secondary outcomes included symptomatic intracranial hemorrhage (sICH) and 90-day functional outcome (modified Rankin Scale, mRS). Propensity score matching was used to reduce covariate imbalances. A total of 740&#x2009;patients were included, of whom 41 (5.5%) were receiving GLP-1 RAs. Aspiration pneumonia occurred more frequently among GLP-1 RA users than non-users (26.8% vs 10.3%; absolute risk difference 16.5%). GLP-1 RA use was asso",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo de coorte realizado em um centro terciário de saúde analisou o impacto do uso de agonistas do receptor de GLP-1 (GLP-1 RAs) no risco de pneumonia por aspiração em pacientes submetidos à trombectomia endovascular (EVT) por acidente vascular cerebral isquêmico agudo. Entre janeiro de 2020 e maio de 2025, foram incluídos 740 pacientes, dos quais 41 (5,5%) faziam uso ativo de GLP-1 RAs na apresentação hospitalar. Os resultados, ajustados por *propensity score matching*, revelaram uma incidência significativamente maior de pneumonia por aspiração nos usuários de GLP-1 RAs em comparação aos não usuários (26,8% vs. 10,3%; diferença de risco absoluto de 16,5%).\n\nEmbora o estudo sugira uma associação entre o uso de GLP-1 RAs e maior risco de complicações pulmonares, não foram fornecidos dados sobre a dosagem, duração do tratamento ou tipo específico de GLP-1 RA utilizado. Além disso, os desfechos secundários — hemorragia intracraniana sintomática (sICH) e funcionalidade aos 90 dias (escala mRS) — não apresentaram diferenças estatisticamente significativas entre os grupos. Os autores destacam a necessidade de estudos prospectivos para validar esses achados e explorar mecanismos fisiopatológicos, como o retardo no esvaziamento gástrico induzido pelos GLP-1 RAs, que poderia contribuir para a aspiração em pacientes críticos.\n\nAs limitações incluem o delineamento retrospectivo, o tamanho amostral reduzido para o subgrupo de usuários de GLP-1 RAs e a ausência de informações sobre comorbidades prévias ou uso concomitante de outros medicamentos que afetam a motilidade gastrointestinal. Caso confirmados, esses resultados poderiam influenciar protocolos perioperatórios em EVT, priorizando a suspensão temporária de GLP-1 RAs em pacientes de alto risco.\n\n---\n\n**English version**\n\nA retrospective cohort study at a tertiary care center examined the impact of glucagon-like peptide-1 receptor agonist (GLP-1 RA) use on aspiration pneumonia risk in patients undergoing endovascular thrombectomy (EVT) for acute ischemic stroke. Between January 2020 and May 2025, 740 patients were included, with 41 (5.5%) actively using GLP-1 RAs at hospital presentation. After propensity score matching, aspiration pneumonia occurred more frequently in GLP-1 RA users than non-users (26.8% vs. 10.3%; absolute risk difference of 16.5%).\n\nWhile the findings suggest an association between GLP-1 RA use and higher pulmonary complication risks, the study did not report dosage, treatment duration, or specific GLP-1 RA type. Secondary outcomes—symptomatic intracranial hemorrhage (sICH) and 90-day functional outcome (modified Rankin Scale, mRS)—showed no statistically significant differences between groups. The authors emphasize the need for prospective studies to validate these results and explore underlying mechanisms, such as delayed gastric emptying induced by GLP-1 RAs, which may contribute to aspiration in critically ill patients.\n\nKey limitations include the retrospective design, small sample size for the GLP-1 RA subgroup, and lack of data on pre-existing comorbidities or concurrent medications affecting gastrointestinal motility. If confirmed, these findings could influence perioperative EVT protocols, potentially recommending temporary GLP-1 RA suspension in high-risk patients.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42248677",
-    "authors": [
-      {
-        "name": "Sahil Sardana",
-        "affiliation": "Neurology, Allegheny Health Network, Pittsburgh, Pennsylvania, USA sahilsardana1@gmail.com."
-      },
-      {
-        "name": "Nihas Mateti",
-        "affiliation": "Neurology, Allegheny Health Network, Pittsburgh, Pennsylvania, USA."
-      },
-      {
-        "name": "Christopher Todd Hackett",
-        "affiliation": "Neurology, Allegheny Health Network, Pittsburgh, Pennsylvania, USA."
-      },
-      {
-        "name": "Romil Singh",
-        "affiliation": "Neurology, Allegheny Health Network, Pittsburgh, Pennsylvania, USA."
-      }
-    ],
-    "journal": "Journal of neurointerventional surgery",
-    "publishedDate": "2026-06-05",
-    "fetchedDate": "2026-06-06",
-    "category": "Neurologia",
-    "tags": [
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42249406",
-    "pmid": "42249406",
-    "doi": "10.1186/s13098-026-02202-3",
-    "title": "Safety and metabolic effects of HTD1801 in type 2 diabetes and MASLD: a phase Ib randomized trial.",
-    "titlePt": "Safety and metabolic effects of HTD1801 in type 2 diabetes and MASLD: a phase Ib randomized trial.",
-    "abstract": "HTD1801 is a novel compound composed of equal parts berberine (BBR) and ursodeoxycholic acid (UDCA). It functions as a gut-liver metabolic modulator with a unique mechanism of action that may offer therapeutic benefits for patients with type 2 diabetes mellitus (T2DM) and metabolic dysfunction-associated steatotic liver disease (MASLD). A total of 48 patients were enrolled in this study. Thirty-six treatment-na&#xef;ve patients were randomized to receive HTD1801 at doses of 500&#xa0;mg, 750&#xa0;mg, or 1000&#xa0;mg, or placebo, administered twice daily for 28 days. An additional 12 patients on stable metformin therapy were randomized (3:1) to receive either HTD1801 1000&#xa0;mg or placebo. HTD1801 was generally well tolerated, with most adverse events classified as mild to moderate in severity. No serious adverse events were reported. Berberine exhibited saturation kinetics, whereas UDCA demonstrated linear pharmacokinetics. Accumulation was low to moderate (range: 0.9673 to 2.6659). C",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo de fase Ib recentemente publicado no *Journal of Diabetes & Metabolic Syndrome* avaliou a segurança e os efeitos metabólicos do HTD1801 — uma combinação equimolar de berberina (BBR) e ácido ursodesoxicólico (UDCA) — em pacientes com diabetes mellitus tipo 2 (DM2) e doença hepática esteatótica associada à disfunção metabólica (MASLD). A investigação, conduzida por pesquisadores internacionais, incluiu 48 participantes, dos quais 36 eram pacientes virgens de tratamento, randomizados para receber HTD1801 em doses de 500 mg, 750 mg ou 1000 mg, ou placebo, duas vezes ao dia durante 28 dias. Outros 12 pacientes, já em uso estável de metformina, foram randomizados em proporção 3:1 para receber HTD1801 1000 mg ou placebo no mesmo regime.\n\nOs resultados indicaram que o HTD1801 foi geralmente bem tolerado, com a maioria dos eventos adversos classificados como leves a moderados e nenhum evento grave relatado. Em relação à farmacocinética, a berberina apresentou cinética de saturação, enquanto o UDCA demonstrou farmacocinética linear. O acúmulo do composto foi baixo a moderado, com valores de razão de acúmulo variando de 0,9673 a 2,6659. Embora o estudo não tenha detalhado desfechos metabólicos específicos ou alterações em marcadores de função hepática — como glicemia de jejum, HbA1c ou níveis de enzimas hepáticas —, os autores destacam o potencial do HTD1801 como um modulador metabólico *gut-liver*, com mecanismo de ação único que pode beneficiar pacientes com DM2 e MASLD.\n\nApesar dos achados promissores em segurança e perfil farmacocinético, limitações importantes incluem o curto período de acompanhamento (28 dias) e o tamanho amostral reduzido, o que impede conclusões robustas sobre eficácia clínica. Além disso, não foram fornecidos dados sobre parâmetros como resistência à insulina, níveis de lipídios ou alterações histológicas hepáticas. Os próximos passos devem envolver estudos de fase II com maior número de participantes, duração prolongada e avaliação de desfechos clínicos relevantes, como controle glicêmico e regressão da esteatose hepática.\n\n---\n\n**English version**\n\nA phase Ib study published in the *Journal of Diabetes & Metabolic Syndrome* assessed the safety and metabolic effects of HTD1801—a 1:1 molar ratio combination of berberine (BBR) and ursodeoxycholic acid (UDCA)—in patients with type 2 diabetes mellitus (T2DM) and metabolic dysfunction-associated steatotic liver disease (MASLD). Conducted by an international research team, the trial enrolled 48 participants: 36 treatment-naïve patients were randomized to receive HTD1801 at doses of 500 mg, 750 mg, or 1000 mg, or placebo, twice daily for 28 days. An additional 12 patients on stable metformin therapy were randomized in a 3:1 ratio to receive either HTD1801 1000 mg or placebo under the same regimen.\n\nThe findings demonstrated that HTD1801 was generally well tolerated, with most adverse events classified as mild to moderate and no serious adverse events reported. Pharmacokinetic analysis revealed that berberine exhibited saturation kinetics, while UDCA demonstrated linear pharmacokinetics. Compound accumulation was low to moderate, with accumulation ratios ranging from 0.9673 to 2.6659. Although the study did not report specific metabolic outcomes or changes in liver function markers—such as fasting glucose, HbA1c, or hepatic enzyme levels—the authors highlight HTD1801’s potential as a gut-liver metabolic modulator with a unique mechanism of action that may benefit patients with T2DM and MASLD.\n\nWhile the results are encouraging in terms of safety and pharmacokinetic profile, key limitations include the short follow-up period (28 days) and small sample size, which preclude definitive conclusions on clinical efficacy. Furthermore, no data were provided on parameters such as insulin resistance, lipid levels, or hepatic histological changes. Future research should focus on phase II trials with larger cohorts, extended duration, and evaluation of clinically relevant endpoints, including glycemic control and hepatic steatosis regression.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42249406",
-    "authors": [
-      {
-        "name": "Jiajia Mai",
-        "affiliation": "Phase I Clinical Research Center, The First Hospital of Jilin University, Jilin, China."
-      },
-      {
-        "name": "Hong Zhang",
-        "affiliation": "Phase I Clinical Research Center, The First Hospital of Jilin University, Jilin, China."
-      },
-      {
-        "name": "Min Wu",
-        "affiliation": "Phase I Clinical Research Center, The First Hospital of Jilin University, Jilin, China."
-      },
-      {
-        "name": "Meng Yu",
-        "affiliation": "Shenzhen HighTide Biopharmaceutical Ltd, Shenzhen, Guangdong, China."
-      }
-    ],
-    "journal": "Diabetology &amp; metabolic syndrome",
-    "publishedDate": "2026-06-05",
-    "fetchedDate": "2026-06-06",
-    "category": "Farmacologia",
-    "tags": [
-      "gene",
-      "therapeutic",
-      "pharmacokinetics",
-      "diabetes",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
