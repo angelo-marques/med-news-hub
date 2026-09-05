@@ -1,5 +1,88 @@
 [
   {
+    "id": "pubmed-39993596",
+    "pmid": "39993596",
+    "doi": "10.1016/j.jtct.2025.02.017",
+    "title": "Infections in Patients with Solid Tumors Undergoing Adoptive Cellular Therapy.",
+    "titlePt": "Infections in Patients with Solid Tumors Undergoing Adoptive Cellular Therapy.",
+    "abstract": "Adoptive cellular therapy (ACT) is an increasingly widely used treatment approach for malignancy. While infectious complications of ACT have been well described in patients with hematologic malignancies, limited data are available on the epidemiology of infections in patients with solid tumors. The purpose of this study was to describe the epidemiology of infections occurring within the first 180 days in adult patients with solid tumors treated with ACT and to identify risk factors predisposing these patients to infection. Data on 132 adult patients with solid tumors undergoing ACT between August 2014 and November 2021 at Memorial Sloan Kettering Cancer Center were collected. Infections were documented from the day of ACT infusion through day 180 postinfusion. Overall, 28 of 132 patients (21.2%) experienced 33 infections within the first 30 days of ACT, and 17 of 131 surviving patients (13%) were diagnosed with 24 infections between day 31 and day 180. Infection-related mortality was l",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/39993596",
+    "authors": [
+      {
+        "name": "Viswatej Avutu",
+        "affiliation": "Department of Medicine, Sarcoma Medical Oncology Service, Memorial Sloan Kettering Cancer Center, New York, NY; Department of Medicine, Weill Cornell Medical College, New York, NY. Electronic address: avutuv@mskcc.org."
+      },
+      {
+        "name": "Jumanah N Algazaq",
+        "affiliation": "Department of Medicine, Infectious Disease Service, Memorial Sloan Kettering Cancer Center, New York, NY."
+      },
+      {
+        "name": "Kenneth Seier",
+        "affiliation": "Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer Center, New York, NY."
+      },
+      {
+        "name": "Rhoena Desir-Camille",
+        "affiliation": "Department of Medicine, Sarcoma Medical Oncology Service, Memorial Sloan Kettering Cancer Center, New York, NY."
+      }
+    ],
+    "journal": "Transplantation and cellular therapy",
+    "publishedDate": "2026-09-04",
+    "fetchedDate": "2026-09-05",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "infection"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"oz2D2Qa-2kFHot-a362ce7b7fbfcb7a\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42697303",
+    "pmid": "42697303",
+    "doi": "10.1016/j.hrthm.2026.08.056",
+    "title": "Catheter Ablation of Atrial Arrhythmias After Orthotopic Heart Transplantation.",
+    "titlePt": "Catheter Ablation of Atrial Arrhythmias After Orthotopic Heart Transplantation.",
+    "abstract": "Orthotopic heart transplantation (OHT) creates a surgically altered electrophysiologic substrate defined by the suture-line scar, residual recipient atrial tissue, and autonomic denervation, that fundamentally alters the mechanisms, presentation, and management of atrial tachyarrhythmias. This narrative review synthesizes current evidence on the mechanisms, mapping strategies, procedural safety considerations, and outcomes of catheter ablation (CA) for atrial arrhythmias after OHT, based on a structured search of PubMed and Embase (1995-2025). Atrial flutter (AFL), particularly cavotricuspid isthmus (CTI)-dependent macro-reentry, is the dominant arrhythmia in stable OHT recipients. The ablation isthmus is anatomically redefined by suture lines rather than the native inferior vena cava, and CA achieves acute success rates exceeding 90% for CTI-dependent flutter, with a significant survival benefit over medical management alone (median 11.3 vs. 5.8 years; p = 0.026). Atrial fibrillation ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42697303",
+    "authors": [
+      {
+        "name": "Deena Sukhon",
+        "affiliation": "Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas, TX. Electronic address: Deena.sukhon@UTsouthwestern.edu."
+      },
+      {
+        "name": "Nolan Shoukri",
+        "affiliation": "Department of Internal Medicine, Loyola University Medical Center, Maywood, IL."
+      },
+      {
+        "name": "Frans Serpa",
+        "affiliation": "Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas, TX."
+      },
+      {
+        "name": "Abhishek Deshmukh",
+        "affiliation": "Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN."
+      }
+    ],
+    "journal": "Heart rhythm",
+    "publishedDate": "2026-09-04",
+    "fetchedDate": "2026-09-05",
+    "category": "Cardiologia",
+    "tags": [
+      "heart",
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"oz2D9oT-2kFHot-a362cf172a70192c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42693593",
     "pmid": "42693593",
     "doi": "10.1111/ajco.70176",
@@ -12596,91 +12679,6 @@
     ],
     "isHighlight": false,
     "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41534803",
-    "pmid": "41534803",
-    "doi": "10.1016/j.tcm.2026.01.002",
-    "title": "Myocarditis and pericarditis in focus: A critical appraisal of the 2025 ESC vs ACC position statements from the Italian society of cardiology working group on cardiomyopathies and pericardial diseases.",
-    "titlePt": "Myocarditis and pericarditis in focus: A critical appraisal of the 2025 ESC vs ACC position statements from the Italian society of cardiology working group on cardiomyopathies and pericardial diseases.",
-    "abstract": "The 2025 European Society of Cardiology (ESC) guidelines and the 2024-2025 American College of Cardiology (ACC) consensus documents redefine the management of myocarditis and pericarditis, with notable convergence, yet key differences. Both emphasize early, accurate diagnosis, particularly through cardiac magnetic resonance (CMR), which now often supersedes immediate biopsy in stable, uncomplicated cases of acute myocarditis. The ESC introduces a unified \"inflammatory myopericardial syndrome\" (IMPS) framework encompassing myocarditis, pericarditis, and overlap syndromes, while the ACC provides separate pathways, including a novel four-stage clinical classification of myocarditis. Therapeutically, both endorse non-steroidal anti-inflammatory drugs (NSAIDs) and colchicine for pericarditis and myopericarditis, and heart failure-directed therapy for myocarditis, while reserving immunosuppression for select cases. Importantly, interleukin-1 (IL-1) blockade has emerged as a pivotal therapy i",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nEm 2025, as diretrizes da Sociedade Europeia de Cardiologia (ESC) e os documentos de consenso do Colégio Americano de Cardiologia (ACC) de 2024-2025 apresentam atualizações significativas no manejo de miocardite e pericardite, com pontos de convergência e divergências relevantes. Ambos os documentos destacam a importância do diagnóstico precoce e preciso, com a ressonância magnética cardíaca (RMC) consolidando-se como ferramenta central — muitas vezes substituindo a biópsia imediata em casos estáveis e não complicados de miocardite aguda. A ESC introduz um novo paradigma, o \"síndrome inflamatória miopericárdica\" (IMPS), que unifica miocardite, pericardite e condições de sobreposição, enquanto o ACC mantém vias separadas, incluindo uma classificação clínica inovadora em quatro estágios para miocardite.\n\nNo âmbito terapêutico, tanto a ESC quanto o ACC recomendam anti-inflamatórios não esteroides (AINEs) e colchicina para pericardite e miopericardite, além de terapias direcionadas à insuficiência cardíaca em casos de miocardite. A imunossupressão fica reservada a situações específicas. Um avanço notável é o reconhecimento do bloqueio da interleucina-1 (IL-1) como terapia pivotal em subgrupos selecionados, embora os critérios para sua aplicação não tenham sido detalhados no resumo. A ausência de protocolos padronizados para estratificação de risco e critérios de elegibilidade para terapias imunomoduladoras representa uma lacuna a ser endereçada em estudos futuros.\n\nEmbora os documentos sinalizem um progresso na padronização do cuidado, a heterogeneidade nas abordagens — especialmente na classificação e manejo de casos limítrofes — pode gerar inconsistências na prática clínica. Pesquisas adicionais são necessárias para validar os novos algoritmos diagnósticos e terapêuticos, bem como para explorar o papel de marcadores bioquímicos e genéticos na estratificação de risco. Até que esses pontos sejam esclarecidos, a interpretação criteriosa das diretrizes e a adaptação às realidades locais permanecerão essenciais para otimizar os desfechos em pacientes com doenças inflamatórias do coração.\n\n---\n\n**English version**\n\nThe 2025 European Society of Cardiology (ESC) guidelines and the 2024-2025 American College of Cardiology (ACC) consensus documents introduce significant updates in the management of myocarditis and pericarditis, with key convergences and notable differences. Both emphasize early and accurate diagnosis, with cardiac magnetic resonance (CMR) emerging as the cornerstone — often replacing immediate biopsy in stable, uncomplicated cases of acute myocarditis. The ESC introduces a novel framework, the \"inflammatory myopericardial syndrome\" (IMPS), unifying myocarditis, pericarditis, and overlap conditions, while the ACC maintains separate pathways, including an innovative four-stage clinical classification for myocarditis.\n\nTherapeutically, both ESC and ACC endorse non-steroidal anti-inflammatory drugs (NSAIDs) and colchicine for pericarditis and myopericarditis, alongside heart failure-directed therapy for myocarditis. Immunosuppression is reserved for select cases. A pivotal advancement is the recognition of interleukin-1 (IL-1) blockade as a key therapy in specific subgroups, though the criteria for its use were not detailed in the abstract. The lack of standardized risk stratification protocols and eligibility criteria for immunomodulatory therapies remains an unresolved gap requiring further investigation.\n\nWhile the documents signal progress toward care standardization, heterogeneity in approaches — particularly in classifying and managing borderline cases — may lead to inconsistencies in clinical practice. Future research is needed to validate the new diagnostic and therapeutic algorithms, as well as to explore the role of biochemical and genetic markers in risk stratification. Until these issues are clarified, cautious interpretation of the guidelines and adaptation to local contexts will remain critical to optimizing outcomes in patients with inflammatory heart diseases.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41534803",
-    "authors": [
-      {
-        "name": "Massimo Imazio",
-        "affiliation": "Department of Medicine (DMED), University of Udine, Udine, Italy; Cardiothoracic Department, University Hospital Santa Maria della Misericordia, Udine, Italy. Electronic address: massimo.imazio@uniud.it."
-      },
-      {
-        "name": "Valentino Collini",
-        "affiliation": "Cardiothoracic Department, University Hospital Santa Maria della Misericordia, Udine, Italy."
-      },
-      {
-        "name": "Marco Merlo",
-        "affiliation": "Cardiothoracovascular Department, Division of Cardiology, University of Trieste, Trieste, Italy."
-      },
-      {
-        "name": "Alberto Aimo",
-        "affiliation": "Interdisciplinary Center for Health Sciences, Scuola Superiore Sant'Anna, Pisa, Italy; Cardiology and Cardiovascular Medicine Division, Fondazione Toscana Gabriele Monasterio, Pisa, Italy."
-      }
-    ],
-    "journal": "Trends in cardiovascular medicine",
-    "publishedDate": "2026-06-05",
-    "fetchedDate": "2026-06-06",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiac",
-      "heart",
-      "drug",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42249160",
-    "pmid": "42249160",
-    "doi": "10.1007/s00062-026-01687-9",
-    "title": "Super-Bore Aspiration Catheters (&#x2265;&#x202f;0.088&#x2033;) in Acute Ischemic Stroke: a&#xa0;Systematic Review and Meta-analysis.",
-    "titlePt": "Super-Bore Aspiration Catheters (&#x2265;&#x202f;0.088&#x2033;) in Acute Ischemic Stroke: a&#xa0;Systematic Review and Meta-analysis.",
-    "abstract": "Super-bore aspiration catheters with an inner diameter &#x2265;&#x202f;0.088 inches have been developed to enhance clot ingestion, improve first-pass reperfusion, and reduce the need for adjunctive thrombectomy techniques in acute ischemic stroke. A&#xa0;comprehensive synthesis of their technical performance, angiographic efficacy, and safety profile is lacking. A&#xa0;systematic review and meta-analysis were conducted in accordance with PRISMA guidelines. MEDLINE, Web of Science, and Scopus were searched from inception through December&#xa0;7, 2025. Eligible studies included patients with acute ischemic stroke treated with super-bore aspiration catheters (inner diameter &#x2265;&#x202f;0.088 inches). Pooled estimates were calculated using random-effects models. Eleven studies comprising 835 patients were included. Successful delivery of the aspiration catheter to the target clot was achieved in 90.4% of cases (95% CI 84.82-94.13). Cross-over to stent retriever occurred in 11.95% (95% ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nCateteres de aspiração de grande calibre (≥ 0,088 polegadas de diâmetro interno) têm sido cada vez mais adotados no tratamento do acidente vascular cerebral isquêmico agudo (AVCi) por sua capacidade de remover coágulos com maior eficiência em comparação aos dispositivos convencionais. Um estudo publicado no *Acta Neurochirurgica* (DOI: 10.1007/s00062-026-01687-9) realizou uma revisão sistemática com meta-análise para avaliar o desempenho técnico, eficácia angiográfica e perfil de segurança desses dispositivos. A análise, conduzida conforme as diretrizes PRISMA, incluiu 11 estudos com 835 pacientes, sintetizando dados de bases como MEDLINE, Web of Science e Scopus até dezembro de 2025.\n\nOs resultados indicam que a entrega bem-sucedida do cateter de aspiração ao local do coágulo foi alcançada em 90,4% dos casos (IC 95%: 84,82–94,13), demonstrando alta viabilidade técnica. A taxa de conversão para técnicas adjuvantes, como o uso de *stent retriever*, foi de 11,95% (IC 95% não relatado no resumo). Embora os dados indiquem uma tendência favorável à redução do número de passagens necessárias para reperfusão completa, não foram fornecidas estimativas pooled específicas sobre a eficácia angiográfica ou desfechos clínicos, como taxa de recanalização (TICI 2b/3) ou incidência de complicações hemorrágicas. A segurança do procedimento foi avaliada de forma limitada, sem detalhamento sobre eventos adversos graves ou comparação direta com cateteres de menor calibre.\n\nOs autores destacam a necessidade de estudos randomizados controlados para validar esses achados e estabelecer protocolos otimizados de uso, incluindo critérios de seleção de pacientes e estratégias de combinação com outros dispositivos. Além disso, a ausência de dados sobre custos e curva de aprendizado limita a generalização dos resultados para diferentes cenários clínicos.\n\n---\n\n**English version**\n\nLarge-bore aspiration catheters (≥ 0.088 inches inner diameter) are increasingly used in the treatment of acute ischemic stroke (AIS) due to their potential to enhance clot removal efficiency compared to conventional devices. A study published in *Acta Neurochirurgica* (DOI: 10.1007/s00062-026-01687-9) conducted a systematic review and meta-analysis to assess the technical performance, angiographic efficacy, and safety profile of these devices. The analysis, conducted in accordance with PRISMA guidelines, included 11 studies with 835 patients, synthesizing data from MEDLINE, Web of Science, and Scopus up to December 2025.\n\nThe findings indicate that successful delivery of the aspiration catheter to the target clot was achieved in 90.4% of cases (95% CI: 84.82–94.13), demonstrating high technical feasibility. The crossover rate to adjunctive techniques, such as stent retriever use, was 11.95% (95% CI not reported in the abstract). While the data suggest a trend toward fewer passes required for complete reperfusion, specific pooled estimates on angiographic efficacy—such as recanalization rates (TICI 2b/3)—or clinical outcomes, including hemorrhagic complications, were not provided. Safety assessment remained limited, with no detailed reporting on severe adverse events or direct comparison to smaller-bore catheters.\n\nThe authors emphasize the need for randomized controlled trials to validate these findings and establish optimized protocols, including patient selection criteria and device combination strategies. Additionally, the lack of cost-effectiveness data and learning curve assessments restricts the generalizability of the results to broader clinical settings.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42249160",
-    "authors": [
-      {
-        "name": "Alperen Elek",
-        "affiliation": "Ege University Faculty of Medicine, Izmir, Turkey. alperenelek13@gmail.com."
-      },
-      {
-        "name": "Mohammed Seifuldin",
-        "affiliation": "Alfaisal University, Riyadh, Saudi Arabia."
-      },
-      {
-        "name": "Semra Yucel",
-        "affiliation": "Department of Internal Medicine, Izmir City Hospital, Izmir, Turkey."
-      },
-      {
-        "name": "Cem Bilgin",
-        "affiliation": "Department of Radiology, Mayo Clinic, Rochester, United States."
-      }
-    ],
-    "journal": "Clinical neuroradiology",
-    "publishedDate": "2026-06-05",
-    "fetchedDate": "2026-06-06",
-    "category": "Neurologia",
-    "tags": [
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
