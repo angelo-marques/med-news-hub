@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42600214",
+    "pmid": "42600214",
+    "doi": "10.1016/j.pscychresns.2026.112303",
+    "title": "Neuroimaging anxious children and adolescents before and after cognitive behavioral therapy: a systematic review.",
+    "titlePt": "Neuroimaging anxious children and adolescents before and after cognitive behavioral therapy: a systematic review.",
+    "abstract": "This systematic review investigates brain changes in youths with anxiety disorders following cognitive behavioral therapy (CBT) and neural markers that predict CBT responses. We conducted a systematic search using the electronic databases PubMed, Web of Science, and ProQuest. The inclusion deadline was set to October 27, 2025. We included fifteen peer-reviewed neuroimaging studies that examined the effects of CBT in youths under 19 years old with a primary clinical diagnosis of an anxiety disorder based on DSM-5 criteria. Although the existing literature is marked by substantial diversity in methods and outcomes, task-related neural response in the anterior cingulate cortex (ACC, 2/8, 25.0%), insula (1/8, 12.5%) increased from pre to post CBT and these changes were further correlated with clinical symptom improvements. Moreover, CBT outcomes were predicted by pre-treatment activity or connectivity in the ACC and amygdala (3/13, 23.0%). A smaller proportion of studies (2/13, 15.3%) foun",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42600214",
+    "authors": [
+      {
+        "name": "Oana-Georgiana Munteanu-Forij",
+        "affiliation": "Doctoral School Evidence-Based Psychological Assessment and Interventions, Babe&#x219;-Bolyai University, Cluj-Napoca, Romania; Clinic of Pediatric Psychiatry and Addiction, Clinical Emergency Hospital for Children, 54C M&#x103;n&#x103;&#x219;tur Road, 400372 Cluj-Napoca, Romania."
+      },
+      {
+        "name": "Costina-Ruxandra Poetar",
+        "affiliation": "Department of Clinical Psychology and Psychotherapy, Babe&#x219;-Bolyai University, Cluj-Napoca, Romania; The International Institute for the Advanced Studies of Psychotherapy and Applied Mental Health, Babe&#x219;-Bolyai University, Cluj-Napoca, Romania."
+      },
+      {
+        "name": "Ondrej Zika",
+        "affiliation": "Department of Clinical Psychology and Psychotherapy, Babe&#x219;-Bolyai University, Cluj-Napoca, Romania; Centre for Psychiatry Research, Department of Clinical Neuroscience, Karolinska Institutet, SE-11364, Stockholm, Sweden; University of Bielefeld, Biological Psychology and Cognitive Neuroscience, Bielefeld, Germany; School of Psychology, University College Dublin, Stillorgan Road, Dublin 4, D04 F6X4, Dublin, Ireland."
+      },
+      {
+        "name": "Elena Predescu",
+        "affiliation": "Department of Neuroscience, Psychiatry and Pediatric Psychiatry, \"Iuliu Hatieganu\" University of Medicine and Pharmacy, 54C M&#x103;n&#x103;&#x219;tur Road, 400372 Cluj-Napoca, Romania."
+      }
+    ],
+    "journal": "Psychiatry research. Neuroimaging",
+    "publishedDate": "2026-09-06",
+    "fetchedDate": "2026-09-07",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "neural",
+      "cognitive",
+      "anxiety",
+      "children"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozHdKmS-2kFHot-a3737274fddfcb9f\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42442671",
     "pmid": "42442671",
     "doi": "10.1016/j.jad.2026.122257",
@@ -12635,48 +12679,5 @@
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41555529",
-    "pmid": "41555529",
-    "doi": "10.1080/22221751.2026.2620222",
-    "title": "Emergence of the novel PA-D27G mutation conferring reduced baloxavir susceptibility in influenza A viruses circulating in China, 2018-2025.",
-    "titlePt": "Emergence of the novel PA-D27G mutation conferring reduced baloxavir susceptibility in influenza A viruses circulating in China, 2018-2025.",
-    "abstract": "Seasonal influenza A viruses evolve rapidly, yet the emergence and molecular basis of resistance to the polymerase acidic (PA) inhibitor baloxavir marboxil (BXM), which is widely used in China, remain elusive. To address this, 3938 PA gene sequences were collected from influenza patients across mainland China between 2018 and 2025, from the national surveillance network and GISAID. By screening post-market mutations in the N-terminal domain of PA (PAN) that appeared in at least two samples and at a frequency below 50%, twenty-five single-point mutations were identified and additionally six linked mutations potentially associated with drug pressure. The impact of these mutations on BXM sensitivity was subsequently evaluated. Our analysis revealed the emergence of known mutations associated with reduced BXM sensitivity, including L28P, K34R, E198&#x2005;K, although their prevalence remained low (2/3850, 0.05%). Notably, we identified a novel substitution, D27G, which conferred an approxi",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Emerging Microbes & Infections* identificou uma nova mutação no vírus influenza A que reduz a eficácia do baloxavir marboxil, um antiviral amplamente utilizado na China. Analisando 3.938 sequências gênicas do vírus influenza A coletadas entre 2018 e 2025 em pacientes chineses, os pesquisadores detectaram 25 mutações pontuais no domínio N-terminal da proteína PA (PAN), além de seis mutações associadas, que surgiram sob pressão seletiva do medicamento. Entre os achados, destacou-se a mutação D27G, até então não descrita, que demonstrou reduzir significativamente a sensibilidade ao baloxavir em testes laboratoriais.\n\nEmbora mutações previamente conhecidas, como L28P, K34R e E198K, tenham sido observadas em baixas frequências (0,05%), a D27G emergiu como um fator de resistência mais relevante, com implicações clínicas ainda não totalmente esclarecidas. Os autores alertam para a necessidade de monitoramento contínuo da circulação viral, visto que a disseminação dessa mutação poderia comprometer a eficácia do tratamento em larga escala. O estudo reforça a importância da vigilância genômica como ferramenta de saúde pública para acompanhar a evolução da resistência antiviral, especialmente em países onde o baloxavir é amplamente prescrito. Limitações incluem a ausência de dados sobre a transmissibilidade da mutação D27G em humanos e a necessidade de estudos clínicos para avaliar seu impacto real no desfecho terapêutico.\n\n---\n\n**English version**\n\nA recent study published in *Emerging Microbes & Infections* has identified a novel mutation in influenza A virus that reduces the effectiveness of baloxavir marboxil, an antiviral widely used in China. By analyzing 3,938 PA gene sequences from influenza patients across mainland China between 2018 and 2025, researchers detected 25 single-point mutations in the N-terminal domain of the PA protein (PAN), along with six linked mutations that emerged under drug pressure. Among the findings, the previously unreported D27G substitution stood out, demonstrating a significant reduction in baloxavir susceptibility in laboratory tests.\n\nWhile previously known mutations such as L28P, K34R, and E198K were observed at low frequencies (0.05%), the D27G mutation emerged as a more relevant resistance factor, with clinical implications yet to be fully understood. The authors emphasize the need for continuous viral surveillance, as the spread of this mutation could compromise treatment efficacy on a large scale. The study underscores the importance of genomic surveillance as a public health tool to track antiviral resistance evolution, particularly in countries where baloxavir is widely prescribed. Limitations include the lack of data on the transmissibility of the D27G mutation in humans and the need for clinical studies to assess its real impact on therapeutic outcomes.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41555529",
-    "authors": [
-      {
-        "name": "Binhuang Sun",
-        "affiliation": "Department of Infectious Diseases, National Medical Center for Infectious Diseases, Huashan Hospital, Fudan University, Shanghai, People's Republic of China."
-      },
-      {
-        "name": "Yulei Sun",
-        "affiliation": "Department of Infectious Diseases, National Medical Center for Infectious Diseases, Huashan Hospital, Fudan University, Shanghai, People's Republic of China."
-      },
-      {
-        "name": "Hongyu Wang",
-        "affiliation": "Shanghai Sci-Tech Inno Center for Infection &amp; Immunity, Institute of Infection and Health, Fudan University, Shanghai, People's Republic of China."
-      },
-      {
-        "name": "Xiaolu Tang",
-        "affiliation": "Department of Infectious Diseases, National Medical Center for Infectious Diseases, Huashan Hospital, Fudan University, Shanghai, People's Republic of China."
-      }
-    ],
-    "journal": "Emerging microbes &amp; infections",
-    "publishedDate": "2026-06-06",
-    "fetchedDate": "2026-06-06",
-    "category": "Genômica",
-    "tags": [
-      "gene",
-      "mutation",
-      "drug"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
