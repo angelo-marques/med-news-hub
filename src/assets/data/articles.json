@@ -1,5 +1,87 @@
 [
   {
+    "id": "pubmed-42557233",
+    "pmid": "42557233",
+    "doi": "10.1111/bju.70403",
+    "title": "Response evaluation of neoadjuvant therapy in MIBC: clinical trial-derived evidence to guide practice.",
+    "titlePt": "Response evaluation of neoadjuvant therapy in MIBC: clinical trial-derived evidence to guide practice.",
+    "abstract": "To review how response to neoadjuvant therapy (NAT) is assessed in clinical trials of muscle-invasive bladder cancer (MIBC), and to determine whether trial-derived evidence can inform response evaluation in contemporary practice. We searched PubMed, Embase and ClinicalTrials.gov through August 2025 for randomised controlled trials (RCTs) of neoadjuvant chemotherapy, chemo-immunotherapy or immunotherapy in non-metastatic MIBC (cT2-T4a N0-1 M0), and for prospective single-arm chemo-immunotherapy or immunotherapy trials. We extracted data on imaging modality and coverage, endoscopic and biomarker-based assessment, timing, correlation with final pathology and diagnostic accuracy. Given heterogeneity in definitions and reporting, no meta-analysis was performed. We identified 22 studies, including 14 RCTs. Most incorporated response evaluation, yet methods differed widely. Computed tomography (CT) was the most frequent modality in RCTs, whereas bladder magnetic resonance imaging (MRI) predom",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42557233",
+    "authors": [
+      {
+        "name": "Roberto Contieri",
+        "affiliation": "Department of Urology, Istituto Nazionale Tumori di Napoli, IRCCS 'G. Pascale', Naples, Italy."
+      },
+      {
+        "name": "Bas W G van Rhijn",
+        "affiliation": "Department of Surgical Oncology (Urology), Netherlands Cancer Institute, Amsterdam, The Netherlands."
+      },
+      {
+        "name": "Richard Cathomas",
+        "affiliation": "Department of Urology, Leiden University Medical Centre, Leiden, The Netherlands."
+      },
+      {
+        "name": "Anja Lorch",
+        "affiliation": "Department of Urology, Caritas St. Josef Medical Centre, University of Regensburg, Regensburg, Germany."
+      }
+    ],
+    "journal": "BJU international",
+    "publishedDate": "2026-09-08",
+    "fetchedDate": "2026-09-08",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "chemotherapy",
+      "immunotherapy",
+      "gene",
+      "clinical trial"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozSkG3c-2kFHot-a37d4a079d4ce578\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42705247",
+    "pmid": "42705247",
+    "doi": "10.1016/S2468-2667(26)00168-4",
+    "title": "Global, regional, and national prevalence of second-hand smoke and attributable disease burden in 204 countries and territories, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+    "titlePt": "Global, regional, and national prevalence of second-hand smoke and attributable disease burden in 204 countries and territories, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+    "abstract": "Second-hand smoke (SHS) exposure remains a major source of morbidity and mortality among non-smokers. This study presents the first dedicated Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) publication to systematically quantify SHS prevalence and evaluate its effect as a global risk factor across a broader range of outcomes. Using the GBD 2023 comparative risk assessment framework, we estimated SHS exposure prevalence and attributable disease burden across 204 countries and territories from 1990 to 2023, stratified by age and sex. Exposure estimates were derived by synthesising population-based surveys and household composition data through spatiotemporal Gaussian process regression. Relative risks for nine health outcomes, now including asthma, were estimated using the Burden of Proof methodology, and applied to calculate attributable deaths and disability-adjusted life-years (DALYs). In 2023, an estimated 2&#xb7;71 billion (95% UI 2&#xb7;44-3&#xb7;02) people worldw",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42705247",
+    "authors": [
+      {
+        "name": "Luisa S Flor",
+        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA; Department of Health Metrics Sciences, School of Medicine, University of Washington, Seattle, WA, USA."
+      },
+      {
+        "name": "Jason A Anderson",
+        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA."
+      },
+      {
+        "name": "Brooks W Morgan",
+        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA."
+      },
+      {
+        "name": "Marie Ng",
+        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA; NUS-IHME Global Burden of Disease Research Centre, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore."
+      }
+    ],
+    "journal": "The Lancet. Public health",
+    "publishedDate": "2026-09-07",
+    "fetchedDate": "2026-09-08",
+    "category": "Farmacologia",
+    "tags": [],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozSkkJP-2kFHot-a37d4c59d977b2dc\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42600214",
     "pmid": "42600214",
     "doi": "10.1016/j.pscychresns.2026.112303",
@@ -12602,82 +12684,5 @@
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42250835",
-    "pmid": "42250835",
-    "doi": "10.1016/j.neuroimage.2026.122039",
-    "title": "Cascaded Deep Learning enables multimodal brain PET spatial normalization and quantification for Alzheimer's disease.",
-    "titlePt": "Cascaded Deep Learning enables multimodal brain PET spatial normalization and quantification for Alzheimer's disease.",
-    "abstract": "Semi-quantitative positron emission tomography (PET) analysis, particularly Centiloid and CenTauRz scaling, is essential for Alzheimer's disease (AD) research and diagnosis. However, standard quantification workflows often depend on structural MRI for spatial normalization (SN) or rely on computationally intensive software, limiting clinical accessibility. In this retrospective, multi-center study (3,539 patients; 6,531 scans; 2005-2025), we compiled data across 7 modalities and 13 tracers to develop and validate the Deep Cascaded Cerebral Calculator (DCCC). This fully automated, PET-only framework employs cascaded CNN-based rigid/affine and VoxelMorph-based elastic registration modules for rapid SN. We benchmarked DCCC against the standard MRI-guided SPM12 pipeline and other PET-only tools using meta region-of-interest (ROI) Standard Uptake Value ratio (SUVr) and correlation analyses. DCCC achieved a mean absolute relative SUVr error of 1.34&#xb1;0.59% and a Pearson correlation of 0.9",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm avanço significativo na quantificação de exames de PET cerebral para doença de Alzheimer acaba de ser apresentado em estudo publicado no *NeuroImage*. A pesquisa, conduzida por uma equipe internacional, propõe um framework totalmente automatizado — o *Deep Cascaded Cerebral Calculator* (DCCC) — capaz de realizar normalização espacial (SN) e quantificação de imagens de PET sem depender de ressonância magnética estrutural (MRI), um passo tradicionalmente necessário, mas que limita a acessibilidade clínica devido à complexidade e ao tempo de processamento.\n\nO estudo, retrospectivo e multicêntrico, analisou 3.539 pacientes e 6.531 exames de PET obtidos entre 2005 e 2025, abrangendo sete modalidades e 13 tipos de traçadores. Os pesquisadores desenvolveram um sistema baseado em redes neurais convolucionais (CNN) em cascata, combinando módulos de registro rígido/afim e deformação elástica (VoxelMorph), para normalizar espacialmente as imagens de PET de forma rápida e independente de MRI. Ao comparar o DCCC com o padrão-ouro — o pipeline guiado por MRI do *SPM12* — e outras ferramentas baseadas apenas em PET, os resultados demonstraram alta precisão: o erro médio absoluto relativo na razão de captação padrão (SUVr) foi de 1,34 ± 0,59%, com correlação de Pearson de 0,97. Esses dados sugerem que a abordagem proposta pode replicar, com confiabilidade comparável, os achados obtidos com métodos convencionais, mas com maior eficiência operacional.\n\nDo ponto de vista clínico, a eliminação da necessidade de MRI prévia para a normalização espacial representa um avanço considerável, especialmente em contextos onde o acesso a exames de ressonância é limitado ou inviável. Além disso, a velocidade de processamento — não especificada no estudo, mas inferida como significativamente superior ao SPM12 — pode viabilizar a implementação em fluxos de trabalho de rotina, reduzindo custos e tempo de espera para diagnósticos. No entanto, o estudo não detalha a performance do DCCC em subgrupos específicos de pacientes, como aqueles com doenças neurodegenerativas avançadas ou artefatos de imagem, o que poderia influenciar a generalização dos resultados. Também não são apresentados dados sobre a reprodutibilidade interscanner ou a robustez em traçadores menos comuns, aspectos críticos para validação em ambientes clínicos reais.\n\nOs próximos passos incluem a realização de estudos prospectivos para validar a aplicabilidade do DCCC em cenários clínicos diversificados, bem como a expansão do treinamento dos modelos para incluir uma gama mais ampla de traçadores e populações étnicas sub-representadas. A integração do framework a sistemas de *health-tech* existentes poderá, futuramente, democratizar o acesso a ferramentas avançadas de quantificação de PET, alinhando-se às demandas por medicina de precisão na neurodegeneração.\n\n---\n\n**English version**\n\nA significant advancement in the quantification of brain PET scans for Alzheimer’s disease has been reported in a study published in *NeuroImage*. Conducted by an international team, the research introduces a fully automated framework—the *Deep Cascaded Cerebral Calculator* (DCCC)—that performs spatial normalization (SN) and quantification of PET images without relying on structural MRI, a traditionally required but often cumbersome step that limits clinical accessibility due to complexity and processing time.\n\nThe retrospective, multi-center study analyzed 3,539 patients and 6,531 PET scans collected between 2005 and 2025, covering seven imaging modalities and 13 different tracers. The researchers developed a cascaded convolutional neural network (CNN)-based system, integrating rigid/affine registration and VoxelMorph-based elastic deformation modules to spatially normalize PET images rapidly and independently of MRI. When benchmarked against the gold-standard MRI-guided pipeline from *SPM12* and other PET-only tools, the DCCC demonstrated high accuracy: the mean absolute relative error in Standard Uptake Value ratio (SUVr) was 1.34 ± 0.59%, with a Pearson correlation of 0.97. These results indicate that the proposed approach can reliably replicate findings from conventional methods while offering superior operational efficiency.\n\nFrom a clinical perspective, eliminating the need for prior MRI for spatial normalization represents a major step forward, particularly in settings where access to MRI is constrained or impractical. Additionally, the processing speed—though not explicitly quantified in the study, it is implied to be significantly faster than SPM12—could facilitate integration into routine workflows, reducing costs and diagnostic wait times. However, the study does not provide performance data for specific patient subgroups, such as those with advanced neurodegenerative diseases or image artifacts, which could affect the generalizability of the results. It also lacks information on inter-scanner reproducibility or robustness with less common tracers, both critical factors for validation in real-world clinical environments.\n\nFuture work should focus on prospective studies to validate the DCCC’s applicability across diverse clinical scenarios, as well as expanding model training to include a broader range of tracers and underrepresented ethnic populations. Integration of the framework into existing health-tech systems could ultimately democratize access to advanced PET quantification tools, aligning with the growing demand for precision medicine in neurodegeneration.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42250835",
-    "authors": [
-      {
-        "name": "Cheng Tang",
-        "affiliation": "Department of Nuclear Medicine, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China; First School of Clinical Medicine, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China."
-      },
-      {
-        "name": "Anqi Tang",
-        "affiliation": "Department of Nuclear Medicine, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China; Hubei Key Laboratory of Molecular Imaging, Wuhan, 430022, China; Key Laboratory of Biological Targeted Therapy, the Ministry of Education, Wuhan, 430022, Hubei Province, China."
-      },
-      {
-        "name": "Mengyu Wan",
-        "affiliation": "Department of Nuclear Medicine, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China; Hubei Key Laboratory of Molecular Imaging, Wuhan, 430022, China; Key Laboratory of Biological Targeted Therapy, the Ministry of Education, Wuhan, 430022, Hubei Province, China."
-      },
-      {
-        "name": "Chunyan Li",
-        "affiliation": "Department of Nuclear Medicine, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China; Hubei Key Laboratory of Molecular Imaging, Wuhan, 430022, China; Key Laboratory of Biological Targeted Therapy, the Ministry of Education, Wuhan, 430022, Hubei Province, China."
-      }
-    ],
-    "journal": "NeuroImage",
-    "publishedDate": "2026-06-06",
-    "fetchedDate": "2026-06-07",
-    "category": "Neurologia",
-    "tags": [
-      "brain",
-      "alzheimer"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42155605",
-    "pmid": "42155605",
-    "doi": "10.1016/j.diabres.2026.113333",
-    "title": "Glucagon-like peptide-1 receptor agonists and hair loss: A systematic review and meta-analysis.",
-    "titlePt": "Glucagon-like peptide-1 receptor agonists and hair loss: A systematic review and meta-analysis.",
-    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are widely used drugs with applications beyond the management of obesity and diabetes mellitus. This study aimed to investigate the association between GLP-1 RA use and hair loss. Four electronic databases were systematically searched for relevant studies published from inception to August 20, 2025. We included randomized controlled trials (RCTs) or prospective nonrandomized interventional studies that reported hair loss following GLP-1 RA therapy. A random-effects model was used for meta-analysis. A total of nine interventional studies, including 7 RCTs and 2 non-RCTs, were included in the final meta-analysis. Data from a total of 4114 GLP-1 RA users were analyzed. The pooled analysis revealed a significantly higher risk of hair loss in GLP-1 RA users than in placebo users (risk ratio [RR]: 3.252; 95% confidence interval [CI]: 1.437 to 7.358). The significant results persisted even when the analysis was restricted to RCTs focusing ",
-    "journalisticSummary": "Um estudo recente publicado na literatura científica investigou a associação entre o uso de agonistas do receptor de peptídeo semelhante ao glucagon-1 (GLP-1 RAs) e a perda de cabelo. Esses medicamentos são amplamente utilizados para tratar obesidade e diabetes mellitus, e sua eficácia tem sido comprovada em diversas aplicações clínicas. No entanto, a relação entre o uso desses medicamentos e a perda de cabelo ainda não havia sido completamente explorada. Os pesquisadores realizaram uma revisão sistemática e metanálise de estudos publicados até agosto de 2025, incluindo ensaios clínicos randomizados e estudos prospectivos não randomizados que relataram perda de cabelo após a terapia com GLP-1 RAs.\n\nA análise incluiu nove estudos, dos quais sete eram ensaios clínicos randomizados e dois eram estudos não randomizados, totalizando 4114 usuários de GLP-1 RAs. Os resultados da metanálise revelaram um risco significativamente maior de perda de cabelo nos usuários de GLP-1 RAs em comparação com os usuários de placebo, com uma razão de risco de 3,252 e um intervalo de confiança de 95% de 1,437 a 7,358. Esses resultados persistiram mesmo quando a análise foi restrita a ensaios clínicos randomizados. Embora os achados sejam intrigantes, é importante notar que o estudo não forneceu informações sobre a duração da terapia com GLP-1 RAs e a gravidade da perda de cabelo. Além disso, os mecanismos subjacentes à associação entre o uso de GLP-1 RAs e a perda de cabelo ainda não são completamente compreendidos.\n\nO impacto clínico desses resultados é significativo, pois sugere que os pacientes que utilizam GLP-1 RAs devem ser monitorados para perda de cabelo. No entanto, é fundamental considerar as limitações do estudo, incluindo a heterogeneidade dos estudos incluídos e a falta de informações sobre a população estudada. Futuras pesquisas devem investigar os mecanismos subjacentes à associação entre o uso de GLP-1 RAs e a perda de cabelo, bem como avaliar a eficácia de estratégias para prevenir ou tratar a perda de cabelo nesses pacientes. Além disso, é importante que os profissionais de saúde estejam cientes desses resultados e monitorem os pacientes que utilizam GLP-1 RAs para perda de cabelo, a fim de fornecer orientação e suporte adequados.\n\nA recente descoberta da associação entre o uso de GLP-1 RAs e a perda de cabelo abre novas perspectivas para a investigação e o tratamento de doenças relacionadas à perda de cabelo. No entanto, é fundamental que os resultados sejam interpretados com cautela e que sejam realizadas mais pesquisas para confirmar esses achados e entender melhor os mecanismos subjacentes. Com a continuação das pesquisas, é possível que sejam desenvolvidas estratégias eficazes para prevenir ou tratar a perda de cabelo associada ao uso de GLP-1 RAs, melhorando a qualidade de vida dos pacientes que utilizam esses medicamentos.\n\nUm estudo recente investigou a associação entre o uso de agonistas do receptor de peptídeo semelhante ao glucagon-1 (GLP-1 RAs) e a perda de cabelo, e os resultados sugerem que os pacientes que utilizam esses medicamentos devem ser monitorados para perda de cabelo. No entanto, é fundamental considerar as limitações do estudo e realizar mais pesquisas para confirmar esses achados e entender melhor os mecanismos subjacentes. Com a continuação das pesquisas, é possível que sejam desenvolvidas estratégias eficazes para prevenir ou tratar a perda de cabelo associada ao uso de GLP-1 RAs.\n\nAqui está a versão em inglês:\n\nA recent study published in the scientific literature investigated the association between the use of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and hair loss. These medications are widely used to treat obesity and diabetes mellitus, and their efficacy has been proven in various clinical applications. However, the relationship between the use of these medications and hair loss had not been fully explored. The researchers conducted a systematic review and meta-analysis of studies published up to August 2025, including randomized controlled trials and prospective non-randomized interventional studies that reported hair loss after GLP-1 RA therapy.\n\nThe analysis included nine studies, of which seven were randomized controlled trials and two were non-randomized studies, totaling 4114 GLP-1 RA users. The results of the meta-analysis revealed a significantly higher risk of hair loss in GLP-1 RA users compared to placebo users, with a risk ratio of 3.252 and a 95% confidence interval of 1.437 to 7.358. These results persisted even when the analysis was restricted to randomized controlled trials. Although the findings are intriguing, it is essential to note that the study did not provide information on the duration of GLP-1 RA therapy and the severity of hair loss. Additionally, the underlying mechanisms of the association between GLP-1 RA use and hair loss are not yet fully understood.\n\nThe clinical impact of these results is significant, as it suggests that patients using GLP-1 RAs should be monitored for hair loss. However, it is crucial to consider the limitations of the study, including the heterogeneity of the included studies and the lack of information on the study population. Future research should investigate the underlying mechanisms of the association between GLP-1 RA use and hair loss, as well as evaluate the effectiveness of strategies to prevent or treat hair loss in these patients. Furthermore, it is essential that healthcare professionals are aware of these results and monitor patients using GLP-1 RAs for hair loss, in order to provide adequate guidance and support.\n\nThe recent discovery of the association between GLP-1 RA use and hair loss opens new perspectives for the investigation and treatment of hair loss-related diseases. However, it is essential that the results are interpreted with caution and that further research is conducted to confirm these findings and understand the underlying mechanisms. With the continuation of research, it is possible that effective strategies will be developed to prevent or treat hair loss associated with GLP-1 RA use, improving the quality of life of patients using these medications.\n\nA recent study investigated the association between the use of glucagon-like peptide-1 receptor agon",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42155605",
-    "authors": [
-      {
-        "name": "Po-Lung Cheng",
-        "affiliation": "Department of Dermatology, Taipei Medical University Hospital, Taipei, Taiwan."
-      },
-      {
-        "name": "Hua-Ching Chang",
-        "affiliation": "Department of Dermatology, Taipei Medical University Hospital, Taipei, Taiwan; Department of Dermatology, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan; Research Center of Big Data and Meta-Analysis, Wan Fang Hospital, Taipei Medical University, Taipei, Taiwan; Department of Pharmacology, College of Medicine, National Taiwan University, Taipei, Taiwan. Electronic address: hc.chang@tmu.edu.tw."
-      }
-    ],
-    "journal": "Diabetes research and clinical practice",
-    "publishedDate": "2026-06-06",
-    "fetchedDate": "2026-06-07",
-    "category": "Endocrinologia",
-    "tags": [
-      "drug",
-      "diabetes",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
