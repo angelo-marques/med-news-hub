@@ -1,5 +1,40 @@
 [
   {
+    "id": "pubmed-42709250",
+    "pmid": "42709250",
+    "doi": "10.1007/s10072-026-09364-y",
+    "title": "Cross-disease protein aggregate interactions in neurodegeneration: from molecular mechanisms to therapeutic strategies.",
+    "titlePt": "Cross-disease protein aggregate interactions in neurodegeneration: from molecular mechanisms to therapeutic strategies.",
+    "abstract": "Neurodegenerative diseases have traditionally been classified by their predominant protein pathology. However, accumulating evidence reveals extensive molecular cross-talk between distinct pathological proteins, particularly in Alzheimer's disease (AD). This review examines cross-disease protein interactions and their implications for diagnosis and treatment. We systematically reviewed peer-reviewed literature published between 2020 and 2025, complemented by seminal earlier studies, examining molecular mechanisms of protein cross-seeding, clinical evidence of co-pathology, and emerging therapeutic strategies. Cross-seeding between amyloid-&#x3b2; (A&#x3b2;), tau, &#x3b1;-synuclein, and TDP-43 has been demonstrated in vitro and in vivo. Harmonized autopsy studies reveal that 91% of individuals over 80 years harbor multiple neuropathologies. Co-pathology accelerates cognitive decline and complicates biomarker interpretation. Anti-amyloid immunotherapies lecanemab and donanemab demonstrat",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42709250",
+    "authors": [
+      {
+        "name": "Wenqi Yang",
+        "affiliation": "Key Laboratory of Health Ministry in Congenital Malformation, Affiliated Shengjing Hospital of China Medical University, Shenyang, 110004, Liaoning, China."
+      },
+      {
+        "name": "Yan Lu",
+        "affiliation": "Key Laboratory of Health Ministry in Congenital Malformation, Affiliated Shengjing Hospital of China Medical University, Shenyang, 110004, Liaoning, China. luy1@sj-hospital.org."
+      }
+    ],
+    "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+    "publishedDate": "2026-09-08",
+    "fetchedDate": "2026-09-08",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "cognitive",
+      "gene",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozWJDMV-2kFHot-a3811f15998c6a42\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42557233",
     "pmid": "42557233",
     "doi": "10.1111/bju.70403",
@@ -12636,49 +12671,6 @@
     ],
     "isHighlight": false,
     "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41992023",
-    "pmid": "41992023",
-    "doi": "10.1111/dom.70742",
-    "title": "Cardiometabolic Profiles of Oral and Subcutaneous Glucagon-Like Peptide-1 Receptor Mono-Agonists in Adults With Overweight or Obesity: A Systematic Review and Network Meta-Analysis.",
-    "titlePt": "Cardiometabolic Profiles of Oral and Subcutaneous Glucagon-Like Peptide-1 Receptor Mono-Agonists in Adults With Overweight or Obesity: A Systematic Review and Network Meta-Analysis.",
-    "abstract": "To characterize the cardiometabolic profiles of oral and subcutaneous glucagon-like peptide-1 (GLP-1) receptor mono-agonists in adults with overweight or obesity, with or without type 2 diabetes (T2D), using network meta-analysis (NMA). PubMed, Embase and CENTRAL were searched (January 2014-November 2025) for randomized controlled trials (RCTs) evaluating GLP-1 receptor mono-agonists (semaglutide, liraglutide and orforglipron) in adults with overweight or obesity. The primary outcome was the cardiometabolic efficacy index (CEI), a ranking-based composite (0 to 1) summarizing performance across seven cardiometabolic endpoints: total body weight loss percentage, triglycerides, HDL cholesterol-C, LDL-C, waist circumference, HbA1c and systolic blood pressure. Secondary outcomes included treatment effects for each individual CEI component. Nineteen RCTs (N&#x2009;=&#x2009;13&#x2009;117) were analysed. Semaglutide 7.2&#x2009;mg achieved the highest CEI (0.86), followed by orforglipron 36&#x2",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *Diabetes, Obesity and Metabolism* analisou, por meio de uma revisão sistemática com meta-análise em rede, o perfil cardiometabólico de agonistas do receptor de GLP-1 (GLP-1 RA) administrados por via oral ou subcutânea em adultos com sobrepeso ou obesidade, com ou sem diabetes tipo 2 (T2D). A pesquisa, que incluiu ensaios clínicos randomizados (ECRs) indexados nas bases PubMed, Embase e CENTRAL até novembro de 2025, buscou comparar a eficácia desses fármacos — semaglutida, liraglutida e orforglipron — em sete desfechos cardiometabólicos: redução percentual do peso corporal, triglicerídeos, HDL-colesterol, LDL-colesterol, circunferência da cintura, HbA1c e pressão arterial sistólica. O principal achado foi a superioridade da semaglutida na dose de 7,2 mg, que atingiu o maior índice de eficácia cardiometabólica (CEI) de 0,86, seguida pelo orforglipron 36 mg, enquanto a liraglutida apresentou desempenho inferior.\n\nOs resultados indicam que a semaglutida 7,2 mg foi a mais eficaz na melhora global do perfil cardiometabólico, com benefícios significativos em múltiplos parâmetros, incluindo redução de peso e controle glicêmico. O orforglipron, um agonista oral em investigação, também demonstrou potencial competitivo, embora os dados detalhados sobre sua segurança a longo prazo ainda não tenham sido amplamente publicados. A liraglutida, embora consolidada no tratamento da obesidade e do T2D, mostrou-se menos eficaz nesse contexto comparativo. Entre as limitações do estudo, destacam-se a heterogeneidade dos ensaios incluídos e a ausência de dados sobre desfechos cardiovasculares diretos, como eventos adversos graves ou mortalidade. Além disso, o período de acompanhamento variou entre os estudos, o que pode influenciar a interpretação dos resultados.\n\nOs autores sugerem que mais pesquisas são necessárias para validar esses achados em populações mais diversas e avaliar o impacto clínico a longo prazo, especialmente no que diz respeito à segurança cardiovascular. A comparação entre formulações orais e injetáveis também permanece um campo aberto para investigações futuras, considerando a crescente preferência por terapias não invasivas. Esses resultados reforçam o papel central dos GLP-1 RA no manejo da obesidade e do T2D, mas enfatizam a necessidade de personalização terapêutica com base em perfis individuais de risco e preferências do paciente.\n\n---\n\n**English version**\n\nA recent study published in *Diabetes, Obesity and Metabolism* evaluated, through a systematic review with network meta-analysis, the cardiometabolic profiles of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) administered orally or subcutaneously in adults with overweight or obesity, with or without type 2 diabetes (T2D). The research, which included randomized controlled trials (RCTs) indexed in PubMed, Embase, and CENTRAL databases up to November 2025, aimed to compare the efficacy of these drugs—semaglutide, liraglutide, and orforglipron—across seven cardiometabolic outcomes: percentage body weight loss, triglycerides, HDL-cholesterol, LDL-cholesterol, waist circumference, HbA1c, and systolic blood pressure. The key finding was the superiority of semaglutide at a 7.2 mg dose, which achieved the highest cardiometabolic efficacy index (CEI) of 0.86, followed by orforglipron 36 mg, while liraglutide performed less effectively.\n\nThe results indicate that semaglutide 7.2 mg was the most effective in overall improvement of the cardiometabolic profile, with significant benefits across multiple parameters, including weight reduction and glycemic control. Orforglipron, an investigational oral GLP-1 RA, also demonstrated competitive potential, though detailed long-term safety data remain limited. Liraglutide, although well-established in obesity and T2D management, was less effective in this comparative analysis. Among the study's limitations are the heterogeneity of included trials and the lack of direct cardiovascular outcome data, such as serious adverse events or mortality. Additionally, follow-up durations varied across studies, which may influence result interpretation.\n\nThe authors suggest that further research is needed to validate these findings in more diverse populations and assess long-term clinical impact, particularly regarding cardiovascular safety. The comparison between oral and injectable formulations also remains an open field for future investigations, considering the growing preference for non-invasive therapies. These results reinforce the central role of GLP-1 RAs in obesity and T2D management but emphasize the need for personalized therapeutic approaches based on individual risk profiles and patient preferences.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41992023",
-    "authors": [
-      {
-        "name": "Ying Lu",
-        "affiliation": "Ividence Inc, Newark, Delaware, USA."
-      },
-      {
-        "name": "Jiajie Chen",
-        "affiliation": "Ividence Inc, Newark, Delaware, USA."
-      },
-      {
-        "name": "Yuqing Guo",
-        "affiliation": "Ividence Inc, Newark, Delaware, USA."
-      },
-      {
-        "name": "Hao Ding",
-        "affiliation": "Ividence Inc, Newark, Delaware, USA."
-      }
-    ],
-    "journal": "Diabetes, obesity &amp; metabolism",
-    "publishedDate": "2026-06-08",
-    "fetchedDate": "2026-06-08",
-    "category": "Endocrinologia",
-    "tags": [
-      "diabetes",
-      "metabolic",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
