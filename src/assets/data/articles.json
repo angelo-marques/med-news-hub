@@ -1,5 +1,45 @@
 [
   {
+    "id": "pubmed-42709394",
+    "pmid": "42709394",
+    "doi": "10.1007/s12013-026-02157-2",
+    "title": "Necrosis by Sodium Overload: Mechanisms, Pathophysiological Roles, and Therapeutic Prospects of a Novel Form of Regulated Cell Death.",
+    "titlePt": "Necrosis by Sodium Overload: Mechanisms, Pathophysiological Roles, and Therapeutic Prospects of a Novel Form of Regulated Cell Death.",
+    "abstract": "Sodium ion (Na&#x207a;), the predominant cation in the extracellular space, is essential for maintaining fundamental cellular activities via preservation of the transmembrane Na&#x207a; gradient. While intracellular Ca&#xb2;&#x207a; overload has long been recognized as the core driver of cell injury and death, accumulating evidence indicates that Na&#x207a; overload, defined as abnormal intracellular Na&#x207a; accumulation, may act as an independent trigger of irreversible cellular damage, rather than merely a preceding event or concomitant phenomenon of Ca&#xb2;&#x207a; overload. In 2025, the term Necrosis by Na&#x207a; Overload (NECSO) was first coined to describe a novel form of regulated necrosis directly triggered by sustained and excessive Na&#x207a; influx, which is primarily mediated by the transient receptor potential melastatin 4 (TRPM4) channel. Distinct from apoptosis and other established forms of regulated cell death, NECSO is characterized by early cellular and organell",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42709394",
+    "authors": [
+      {
+        "name": "Teng Qi",
+        "affiliation": "The Chinese University of Hong Kong, Shenzhen, Shenzhen, 518172, Guangdong, China."
+      },
+      {
+        "name": "Pei-Lin Xie",
+        "affiliation": "The Chinese University of Hong Kong, Shenzhen, Shenzhen, 518172, Guangdong, China."
+      },
+      {
+        "name": "Ting-Xuan Huang",
+        "affiliation": "School of Medicine, Northwest University, Xi'an, 710069, Shaanxi, China."
+      },
+      {
+        "name": "Jin-Suo Xiao",
+        "affiliation": "School of Medicine, Northwest University, Xi'an, 710069, Shaanxi, China."
+      }
+    ],
+    "journal": "Cell biochemistry and biophysics",
+    "publishedDate": "2026-09-08",
+    "fetchedDate": "2026-09-08",
+    "category": "Farmacologia",
+    "tags": [
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozWz5kg-2kFHot-a381dcffbcf1ff48\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42709250",
     "pmid": "42709250",
     "doi": "10.1007/s10072-026-09364-y",
@@ -12639,38 +12679,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42237969",
-    "pmid": "42237969",
-    "doi": "10.15537/1658-3175.1061",
-    "title": "Translational Barriers to AAV and CRISPR Gene Therapy in Diabetes.",
-    "titlePt": "Translational Barriers to AAV and CRISPR Gene Therapy in Diabetes.",
-    "abstract": "Gene therapy targets diabetes pathophysiology rather than symptoms, yet clinical translation is slower than preclinical success. This review synthesizes 143 registered trials (ClinicalTrials.gov, 2010-2025) identifying systematic implementation barriers. Despite &gt;15 years of development, 83% of trials remain in Phase I-II. Only zimislecel achieved Phase III outcomes (83% insulin independence at 12 months, n=12, requiring immunosuppression). VM202 for diabetic neuropathy failed Phase III despite positive extension results. Three systematic barriers emerged: (1) human transduction efficiency is 6-8.7-fold lower than preclinical models; (2) pre-existing immunity excludes 58-78% of candidates; (3) manufacturing capacity serves &lt;2.5% of target population (40-400 years to treat at maximum capacity). These constraints explain why ex vivo cell therapies advanced to efficacy trials while in vivo gene delivery remains in Phase I despite longer development timelines. Research priorities sho",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nA terapia gênica para diabetes enfrenta um paradoxo: enquanto os avanços pré-clínicos são promissores, a tradução para a prática clínica mostra-se lenta e repleta de obstáculos. Uma revisão publicada no *Frontiers in Endocrinology* analisou 143 ensaios clínicos registrados entre 2010 e 2025, revelando que 83% permanecem nas fases I e II, apesar de mais de 15 anos de desenvolvimento. Dos poucos que avançaram, apenas o zimislecel — uma terapia gênica baseada em AAV (vírus adenoassociado) — atingiu a fase III, alcançando 83% de independência insulínica em 12 meses em um estudo com 12 pacientes, embora com a necessidade de imunossupressão. Por outro lado, o VM202, destinado ao tratamento da neuropatia diabética, não cumpriu os critérios de eficácia na fase III, mesmo com resultados positivos em extensões posteriores.\n\nTrês barreiras sistemáticas explicam esse cenário. A primeira diz respeito à eficiência de transdução em humanos, que é entre 6 e 8,7 vezes menor do que em modelos pré-clínicos — um gap que limita a eficácia dos vetores virais. A segunda é a imunidade pré-existente contra AAV, que exclui de 58% a 78% dos candidatos elegíveis, reduzindo o pool de pacientes potenciais. Por fim, a capacidade de manufatura atual atende a menos de 2,5% da população-alvo, com projeções indicando que, no ritmo atual, seriam necessários entre 40 e 400 anos para tratar todos os pacientes elegíveis.\n\nOs achados sugerem que terapias gênicas *in vivo*, apesar de seu potencial transformador, enfrentam desafios maiores do que as terapias celulares *ex vivo*, que já avançaram para ensaios de eficácia. As prioridades de pesquisa incluem o desenvolvimento de vetores mais eficientes, estratégias para contornar a imunidade pré-existente e expansão da capacidade produtiva. Enquanto isso, o campo segue dependente de avanços tecnológicos e regulatórios para superar essas limitações e viabilizar tratamentos duradouros para o diabetes.\n\n---\n\n**English version**\n\nGene therapy for diabetes presents a paradox: while preclinical advances are promising, translation to clinical practice remains slow and fraught with barriers. A review published in *Frontiers in Endocrinology* analyzed 143 clinical trials registered between 2010 and 2025, revealing that 83% remain in Phase I and II despite over 15 years of development. Among the few that advanced, only zimislecel—a gene therapy based on adeno-associated virus (AAV)—reached Phase III, achieving 83% insulin independence at 12 months in a 12-patient study, though requiring immunosuppression. In contrast, VM202, aimed at treating diabetic neuropathy, failed Phase III efficacy criteria despite positive extension results.\n\nThree systematic barriers explain this gap. First, human transduction efficiency is 6 to 8.7 times lower than in preclinical models, limiting the effectiveness of viral vectors. Second, pre-existing immunity to AAV excludes 58% to 78% of eligible candidates, shrinking the potential patient pool. Third, current manufacturing capacity serves less than 2.5% of the target population, with projections indicating it would take between 40 and 400 years to treat all eligible patients at maximum capacity.\n\nThe findings suggest that *in vivo* gene therapies face greater challenges than *ex vivo* cell therapies, which have already progressed to efficacy trials. Research priorities include developing more efficient vectors, strategies to overcome pre-existing immunity, and scaling up production capacity. Until then, the field remains dependent on technological and regulatory breakthroughs to overcome these limitations and enable durable diabetes treatments.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42237969",
-    "authors": [
-      {
-        "name": "Abdulrahman G Alharbi",
-        "affiliation": "Department of Pharmacology and Toxicology, College of Pharmacy, Taibah University, Al Medina Al Munawara, Kingdom of Saudi Arabia."
-      }
-    ],
-    "journal": "Saudi medical journal",
-    "publishedDate": "2026-06-08",
-    "fetchedDate": "2026-06-08",
-    "category": "Genômica",
-    "tags": [
-      "crispr",
-      "gene",
-      "diabetes",
-      "insulin"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
