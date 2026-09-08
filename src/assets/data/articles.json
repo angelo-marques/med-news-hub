@@ -4861,6 +4861,47 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42250835",
+    "pmid": "42250835",
+    "doi": "10.1016/j.neuroimage.2026.122039",
+    "title": "Cascaded deep learning enables multimodal brain PET spatial normalization and quantification for Alzheimer's disease.",
+    "titlePt": "Cascaded deep learning enables multimodal brain PET spatial normalization and quantification for Alzheimer's disease.",
+    "abstract": "Semi-quantitative positron emission tomography (PET) analysis, particularly Centiloid and CenTauRz scaling, is essential for Alzheimer's disease (AD) research and diagnosis. However, standard quantification workflows often depend on structural MRI for spatial normalization (SN) or rely on computationally intensive software, limiting clinical accessibility. In this retrospective, multi-center study (3539 patients; 6535 scans; 2005-2025), we compiled data across 7 modalities and 13 tracers to develop and validate the Deep Cascaded Cerebral Calculator (DCCC). This fully automated, PET-only framework employs cascaded CNN-based rigid/affine and VoxelMorph-based elastic registration modules for rapid SN. We benchmarked DCCC against the standard MRI-guided SPM12 pipeline and other PET-only tools using meta region-of-interest (ROI) standard uptake value ratio (SUVr) and correlation analyses. DCCC achieved a mean absolute relative SUVr error of 1.34&#xb1;0.59% and a voxelwise Pearson correlatio",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42250835",
+    "authors": [
+      {
+        "name": "Cheng Tang",
+        "affiliation": "Department of Nuclear Medicine, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China; First School of Clinical Medicine, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China."
+      },
+      {
+        "name": "Anqi Tang",
+        "affiliation": "Department of Nuclear Medicine, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China; Hubei Key Laboratory of Molecular Imaging, Wuhan, 430022, China; Key Laboratory of Biological Targeted Therapy, the Ministry of Education, Wuhan, 430022, Hubei Province, China."
+      },
+      {
+        "name": "Mengyu Wan",
+        "affiliation": "Department of Nuclear Medicine, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China; Hubei Key Laboratory of Molecular Imaging, Wuhan, 430022, China; Key Laboratory of Biological Targeted Therapy, the Ministry of Education, Wuhan, 430022, Hubei Province, China."
+      },
+      {
+        "name": "Chunyan Li",
+        "affiliation": "Department of Nuclear Medicine, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China; Hubei Key Laboratory of Molecular Imaging, Wuhan, 430022, China; Key Laboratory of Biological Targeted Therapy, the Ministry of Education, Wuhan, 430022, Hubei Province, China."
+      }
+    ],
+    "journal": "NeuroImage",
+    "publishedDate": "2026-07-31",
+    "fetchedDate": "2026-09-08",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "alzheimer"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozSrxRT-2kFHot-a37d69ec0c244cba\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42535277",
     "pmid": "42535277",
     "doi": "10.1002/alz.71705",
@@ -12638,50 +12679,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42251458",
-    "pmid": "42251458",
-    "doi": "10.1186/s40959-026-00518-7",
-    "title": "Diagnostic and prognostic biomarkers in heart failure and myeloproliferative neoplasms: clinical applications and risk scores - a narrative review.",
-    "titlePt": "Diagnostic and prognostic biomarkers in heart failure and myeloproliferative neoplasms: clinical applications and risk scores - a narrative review.",
-    "abstract": "Heart failure (HF) remains a leading cause of morbidity and mortality worldwide and frequently coexists with Philadelphia-negative myeloproliferative neoplasms (MPNs), which share thrombo-inflammatory pathways that increase cardiovascular risk. HF is often underestimated in this population, and current risk models rarely include variables specific to this complex cardio-hematologic setting. From a cardio-oncology perspective, MPNs represent a prototypical at-risk cancer population in whom chronic inflammation, clonal hematopoiesis, and cancer therapy converge to accelerate cardiovascular damage.This narrative review summarizes current evidence on diagnostic and prognostic biomarkers, imaging parameters, and validated HF and MPNs risk scores, and proposes a pragmatic hybrid framework for integrated HF-MPNs cardiovascular risk assessment. PubMed, Embase, and Web of Science were searched up to December 2025 using combinations of terms related to HF, MPNs, biomarkers, imaging, and risk mod",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm dos principais desafios no manejo de pacientes com insuficiência cardíaca (IC) e neoplasias mieloproliferativas (NMPs) Philadelphia-negativas reside na sobreposição de mecanismos trombo-inflamatórios que elevam o risco cardiovascular, frequentemente subestimado nesses casos. Um estudo publicado recentemente na *BMC Cardiovascular Disorders* destaca a necessidade de modelos de risco integrados que contemplem as interações entre essas condições, já que os sistemas atuais não incluem variáveis específicas para esse cenário cardio-hematológico complexo. A revisão narrativa, baseada em buscas sistemáticas nas bases PubMed, Embase e Web of Science até dezembro de 2025, sintetiza evidências sobre biomarcadores diagnósticos e prognósticos, parâmetros de imagem e escores de risco validados para IC e NMPs, propondo um framework híbrido para avaliação de risco cardiovascular conjunto.\n\nOs autores ressaltam que as NMPs — como policitemia vera, trombocitemia essencial e mielofibrose — atuam como modelos prototípicos de populações oncológicas cronicamente inflamadas, nas quais a hematopoiese clonal e os efeitos adversos de terapias oncológicas convergem para acelerar danos cardiovasculares. Entre os biomarcadores discutidos, destacam-se marcadores de inflamação (como proteína C reativa e interleucina-6), peptídeos natriuréticos e troponinas, além de parâmetros hematológicos como contagem de plaquetas e leucócitos, que podem sinalizar progressão da doença ou eventos trombóticos. A revisão também aborda o papel de técnicas de imagem, como ecocardiografia e ressonância magnética cardíaca, na detecção precoce de disfunção ventricular esquerda ou fibrose miocárdica, mesmo na ausência de sintomas evidentes.\n\nDo ponto de vista clínico, a integração desses dados em escores de risco — como o *HFA-PEFF* para IC com fração de ejeção preservada ou o *International Prognostic Score for Essential Thrombocythemia (IPSET)* — poderia aprimorar a estratificação de pacientes com IC e NMPs, permitindo intervenções precoces e personalizadas. No entanto, os autores reconhecem limitações significativas: a maioria dos estudos revisados é observacional, com vieses de seleção e heterogeneidade metodológica, além de lacunas sobre a validade externa dos modelos propostos em populações diversas. Além disso, não há consenso sobre quais combinações de biomarcadores oferecem maior acurácia prognóstica nesse contexto específico, nem sobre a viabilidade de implementação de tais ferramentas em ambientes de saúde com recursos limitados.\n\nComo próximos passos, os pesquisadores sugerem a realização de estudos prospectivos multicêntricos que validem os achados em coortes maiores, além do desenvolvimento de algoritmos de inteligência artificial capazes de integrar múltiplas variáveis clínicas, laboratoriais e de imagem. A colaboração entre cardiologistas, hematologistas e especialistas em cardio-oncologia se mostra essencial para traduzir essas evidências em protocolos clínicos robustos. Enquanto isso, a adoção de estratégias de monitoramento contínuo — como a telemedicina para pacientes de alto risco — poderia mitigar parte do impacto dessas comorbidades sobre a saúde cardiovascular.\n\n---\n\n**English version**\n\nHeart failure (HF) and Philadelphia-negative myeloproliferative neoplasms (MPNs) share thrombo-inflammatory pathways that elevate cardiovascular risk, yet this interplay remains underrecognized in clinical practice. A recent narrative review in *BMC Cardiovascular Disorders* underscores the need for integrated risk models that account for this complex cardio-hematologic interplay, as current scoring systems lack variables tailored to this setting. Based on systematic searches in PubMed, Embase, and Web of Science up to December 2025, the study synthesizes evidence on diagnostic and prognostic biomarkers, imaging parameters, and validated HF and MPN risk scores, proposing a pragmatic hybrid framework for joint cardiovascular risk assessment.\n\nThe authors emphasize that MPNs—such as polycythemia vera, essential thrombocythemia, and myelofibrosis—serve as prototypical models of chronically inflamed oncologic populations, where clonal hematopoiesis and cancer therapies converge to accelerate cardiovascular damage. Among the biomarkers discussed are inflammatory markers (e.g., C-reactive protein and interleukin-6), natriuretic peptides, troponins, and hematologic parameters like platelet and leukocyte counts, which may signal disease progression or thrombotic events. The review also highlights the role of imaging techniques, including echocardiography and cardiac MRI, in detecting early left ventricular dysfunction or myocardial fibrosis, even in asymptomatic patients.\n\nClinically, integrating these data into risk scores—such as the *HFA-PEFF* for HF with preserved ejection fraction or the *International Prognostic Score for Essential Thrombocythemia (IPSET)*—could enhance risk stratification for patients with concurrent HF and MPNs, enabling earlier and personalized interventions. However, the authors acknowledge significant limitations: most studies are observational, with selection biases and methodological heterogeneity, and there is no consensus on which biomarker combinations offer the highest prognostic accuracy in this specific context. Additionally, the external validity of proposed models in diverse populations remains untested, and their feasibility in resource-limited healthcare settings is unclear.\n\nLooking ahead, the researchers call for prospective multicenter studies to validate these findings in larger cohorts, as well as the development of AI-driven algorithms capable of integrating clinical, laboratory, and imaging variables. Collaboration among cardiologists, hematologists, and cardio-oncology specialists is critical to translate these insights into robust clinical protocols. In the interim, adopting continuous monitoring strategies—such as telemedicine for high-risk patients—could help mitigate the cardiovascular burden of these comorbidities.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42251458",
-    "authors": [
-      {
-        "name": "Ionela-Raluca Muraretu",
-        "affiliation": "\"Carol Davila\" University of Medicine and Pharmacy, Bucharest, 050474, Romania."
-      },
-      {
-        "name": "Adriana Luminita Gurghean",
-        "affiliation": "Department of Internal Medicine and Cardiology, Coltea Clinical Hospital, Bucharest, 030167, Romania."
-      },
-      {
-        "name": "Adrian Gradinaru",
-        "affiliation": "\"Carol Davila\" University of Medicine and Pharmacy, Bucharest, 050474, Romania. adriana.gurghean@umfcd.ro."
-      },
-      {
-        "name": "Mircea Bajdechi",
-        "affiliation": "Department of Internal Medicine and Cardiology, Coltea Clinical Hospital, Bucharest, 030167, Romania. adriana.gurghean@umfcd.ro."
-      }
-    ],
-    "journal": "Cardio-oncology (London, England)",
-    "publishedDate": "2026-06-06",
-    "fetchedDate": "2026-06-07",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "oncology",
-      "cardiovascular",
-      "heart"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
