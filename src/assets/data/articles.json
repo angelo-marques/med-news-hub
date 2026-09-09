@@ -1,5 +1,45 @@
 [
   {
+    "id": "pubmed-42710700",
+    "pmid": "42710700",
+    "doi": "10.1016/j.jstrokecerebrovasdis.2026.108744",
+    "title": "Carotid Revascularization is Associated with Reduced Recurrence in Symptomatic Carotid Web.",
+    "titlePt": "Carotid Revascularization is Associated with Reduced Recurrence in Symptomatic Carotid Web.",
+    "abstract": "Carotid artery web is a rare and underrecognized cause of ischemic stroke. Current literature emphasizes their underdiagnosis and association with high recurrence rates despite medical management. We report a single-center experience of carotid revascularization in patients with ischemic stroke and ipsilateral carotid webs. This retrospective case series includes 20 patients who presented with acute strokes attributed to ipsilateral carotid webs and subsequently underwent carotid revascularization at a Comprehensive Stroke Center between January 2015 and December 2025. Data on demographics, clinical presentation, and imaging findings were collected via chart review. Descriptive statistics summarize patient characteristics and outcomes. Twenty patients with ischemic stroke and ipsilateral carotid artery web underwent carotid revascularization. The median age was 54 years (IQR: 45-62), and 70% were female. Median NIHSS was 9 (IQR: 5-15). Fifteen (75%) underwent mechanical thrombectomy an",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42710700",
+    "authors": [
+      {
+        "name": "Skylar Lewis",
+        "affiliation": "Department of Neurology, Brown University. Electronic address: slewis7@brownhealth.org."
+      },
+      {
+        "name": "Joshua Feler",
+        "affiliation": "Department of Neurosurgery, Brown University."
+      },
+      {
+        "name": "Dylan Wolman",
+        "affiliation": "Department of Neurosurgery, Brown University."
+      },
+      {
+        "name": "Radmehr Torabi",
+        "affiliation": "Department of Neurosurgery, Brown University."
+      }
+    ],
+    "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+    "publishedDate": "2026-09-08",
+    "fetchedDate": "2026-09-09",
+    "category": "Neurologia",
+    "tags": [
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozaSw8P-2kFHot-a38599bf696819ca\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42501951",
     "pmid": "42501951",
     "doi": "10.1016/j.ahj.2026.107544",
@@ -12633,50 +12673,6 @@
     "category": "Cardiologia",
     "tags": [
       "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42263112",
-    "pmid": "42263112",
-    "doi": "10.1371/journal.pmed.1005125",
-    "title": "Molecular Tumor Boards clinical impact on patient care and structural features: A systematic review and meta-analysis.",
-    "titlePt": "Molecular Tumor Boards clinical impact on patient care and structural features: A systematic review and meta-analysis.",
-    "abstract": "Molecular Tumor Boards (MTBs) bring together multidisciplinary experts to translate genomic data into clinical decisions in oncology, however, their overall clinical impact remains unclear. The aim of this systematic review is to assess the clinical impact of MTB-recommended therapies on patients with cancer outcomes. In this systematic review and meta-analysis, we searched PubMed, Embase, Scopus, and CENTRAL up to July 2025. We included studies of any design, both single-arm studies and studies with a comparator group, that reported the clinical impact of MTBs in patients who received MTB-guided therapy. Meta-analyses were performed separately by study design, using hazard ratios (HRs) for overall survival (OS) and progression-free survival (PFS), relative risks (RRs) for objective response rate (ORR) and disease control rate (DCR), and pooled proportions for PFS ratio &#x2265;1.3. All meta-analyses were conducted using random-effects models based on the inverse variance method. We ev",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado recentemente na *PLOS Medicine* avaliou o impacto clínico dos *Molecular Tumor Boards* (MTBs) — equipes multidisciplinares que interpretam dados genômicos para orientar terapias personalizadas em oncologia — por meio de uma revisão sistemática e meta-análise. Os resultados indicam que as recomendações dos MTBs estão associadas a benefícios clínicos significativos em pacientes com câncer, embora a magnitude desses efeitos varie conforme o desenho do estudo e as características da população.\n\nA análise incluiu dados de bases como PubMed, Embase, Scopus e CENTRAL até julho de 2025, abrangendo estudos de diferentes delineamentos, desde séries de casos até estudos comparativos. Os pesquisadores avaliaram desfechos como sobrevida global (OS), sobrevida livre de progressão (PFS), taxa de resposta objetiva (ORR) e taxa de controle da doença (DCR). Nos modelos de efeitos aleatórios, os *hazard ratios* (HRs) para OS e PFS sugeriram uma redução do risco de progressão ou morte em pacientes submetidos a terapias guiadas por MTB, embora os valores exatos não tenham sido detalhados no resumo. A ORR e a DCR também apresentaram melhora, com proporções agrupadas indicando um aumento na estabilidade da doença (PFS ratio ≥1.3) em uma parcela considerável dos casos.\n\nEmbora os achados reforcem o potencial dos MTBs para otimizar o tratamento de pacientes com câncer avançado ou resistente, os autores destacam limitações importantes. Muitos estudos incluídos eram retrospectivos e sem grupo controle, o que pode introduzir viés de seleção. Além disso, a heterogeneidade entre as populações e os critérios de elegibilidade para as terapias guiadas por MTB dificulta a generalização dos resultados. Outra lacuna identificada foi a ausência de dados sobre custos e a viabilidade de implementação dessas abordagens em sistemas de saúde públicos.\n\nOs próximos passos incluem a realização de ensaios clínicos randomizados para validar esses achados em contextos controlados, além das investigações sobre estratégias para integrar os MTBs de forma sustentável nos fluxos de atendimento oncológico. A revisão também aponta para a necessidade de padronização nos critérios de avaliação de resposta e na coleta de dados longitudinais, visando aprimorar a reprodutibilidade e o impacto clínico dessas intervenções.\n\n---\n\n**English version**\n\nA recent study published in *PLOS Medicine* assessed the clinical impact of *Molecular Tumor Boards* (MTBs)—multidisciplinary teams that interpret genomic data to guide personalized cancer therapies—through a systematic review and meta-analysis. The findings suggest that MTB recommendations are associated with significant clinical benefits in cancer patients, though the magnitude of these effects varies depending on study design and population characteristics.\n\nThe analysis incorporated data from PubMed, Embase, Scopus, and CENTRAL up to July 2025, including studies of varying designs, from case series to comparative studies. Researchers evaluated outcomes such as overall survival (OS), progression-free survival (PFS), objective response rate (ORR), and disease control rate (DCR). In random-effects models, hazard ratios (HRs) for OS and PFS indicated a reduced risk of progression or death among patients receiving MTB-guided therapies, though exact values were not provided in the abstract. ORR and DCR also showed improvement, with pooled proportions suggesting increased disease stability (PFS ratio ≥1.3) in a substantial subset of cases.\n\nWhile the results support the potential of MTBs to optimize treatment for patients with advanced or treatment-resistant cancers, the authors highlight key limitations. Many included studies were retrospective and lacked control groups, potentially introducing selection bias. Additionally, heterogeneity in patient populations and eligibility criteria for MTB-guided therapies complicates the generalizability of the findings. Another notable gap was the absence of data on costs and the feasibility of implementing these approaches in public health systems.\n\nFuture research directions include randomized clinical trials to validate these findings in controlled settings, as well as investigations into strategies for sustainably integrating MTBs into oncology care workflows. The review also emphasizes the need for standardized response assessment criteria and longitudinal data collection to enhance reproducibility and clinical impact.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42263112",
-    "authors": [
-      {
-        "name": "Luigi Russo",
-        "affiliation": "Section of Hygiene, Department of Life Sciences and Public Health, Universit&#xe0; Cattolica del Sacro Cuore, Rome, Italy."
-      },
-      {
-        "name": "Erika Giacobini",
-        "affiliation": "Section of Hygiene, Department of Life Sciences and Public Health, Universit&#xe0; Cattolica del Sacro Cuore, Rome, Italy."
-      },
-      {
-        "name": "Nicol&#xf2; Lentini",
-        "affiliation": "Section of Hygiene, Department of Life Sciences and Public Health, Universit&#xe0; Cattolica del Sacro Cuore, Rome, Italy."
-      },
-      {
-        "name": "Tommaso Osti",
-        "affiliation": "Section of Hygiene, Department of Life Sciences and Public Health, Universit&#xe0; Cattolica del Sacro Cuore, Rome, Italy."
-      }
-    ],
-    "journal": "PLoS medicine",
-    "publishedDate": "2026-06-09",
-    "fetchedDate": "2026-06-09",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "oncology",
-      "genomic"
     ],
     "isHighlight": false,
     "readTime": 11,
