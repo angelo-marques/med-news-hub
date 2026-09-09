@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42391695",
+    "pmid": "42391695",
+    "doi": "10.1016/j.talanta.2026.130187",
+    "title": "Mapping the analytical toolbox for next-generation adjuvant immunology: A bibliometric analysis of characterization techniques and emerging trends (2006-2025).",
+    "titlePt": "Mapping the analytical toolbox for next-generation adjuvant immunology: A bibliometric analysis of characterization techniques and emerging trends (2006-2025).",
+    "abstract": "This study presents a comprehensive bibliometric analysis of next-generation immunomodulatory adjuvants (NIAs) and advanced immune characterisation research from 2006 to 2025, aiming to delineate the global landscape, thematic structure, and emerging frontiers in adjuvant immunology. A total of 8637 unique publications retrieved from the Web of Science Core Collection and Scopus were analysed using bibliometric, network, and co-occurrence approaches. The results show a sharp surge in research output since 2020, driven by mRNA-lipid nanoparticle vaccine development, with the United States and China emerging as dual global research hubs. Publications are distributed across five disciplinary domains centred on general/vaccine immunology, and institutional collaboration forms three major clusters dominated by the U.S., China, and Europe-Oceania respectively. Co-citation and keyword analyses reveal lipid nanoparticle/cGAS-STING signalling and mRNA vaccine/COVID-19 as the core mechanistic an",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42391695",
+    "authors": [
+      {
+        "name": "Lan Deng",
+        "affiliation": "Hematology Department, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, China."
+      },
+      {
+        "name": "Hongli Zhang",
+        "affiliation": "Hospital Infection Prevention and Control Management, The Third Affiliated Hospital of Southern Medical University, Guangdong, China."
+      },
+      {
+        "name": "Wanpei Liang",
+        "affiliation": "Foshan Clinical Technology Innovation Base of Traditional Chinese Medicine for Integrated Traditional Chinese and Western Medicine in Cancer Prevention and Treatment, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China; Key Laboratory of Tumor Microenvironment Regulation of Guangdong Higher Education Institutes, Southern Medical University, Guangdong, China; Foshan Engineering Technology Research Center of Molecular Medicine, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China; Shunde Regional Medical Research Center, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China."
+      },
+      {
+        "name": "Liming Zeng",
+        "affiliation": "Foshan Clinical Technology Innovation Base of Traditional Chinese Medicine for Integrated Traditional Chinese and Western Medicine in Cancer Prevention and Treatment, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China; Key Laboratory of Tumor Microenvironment Regulation of Guangdong Higher Education Institutes, Southern Medical University, Guangdong, China; Foshan Engineering Technology Research Center of Molecular Medicine, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China; Shunde Regional Medical Research Center, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China."
+      }
+    ],
+    "journal": "Talanta",
+    "publishedDate": "2026-09-09",
+    "fetchedDate": "2026-09-09",
+    "category": "Imunologia",
+    "tags": [
+      "covid",
+      "gene",
+      "rna",
+      "immune",
+      "immunology"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozcf79F-2kFHot-a387fc4c7b598075\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42710700",
     "pmid": "42710700",
     "doi": "10.1016/j.jstrokecerebrovasdis.2026.108744",
@@ -12635,47 +12679,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42261786",
-    "pmid": "42261786",
-    "doi": "10.1111/pace.70317",
-    "title": "Impact of GLP-1 Receptor Agonist on Atrial Fibrillation Recurrence After Catheter Ablation in Non-Obese Patients.",
-    "titlePt": "Impact of GLP-1 Receptor Agonist on Atrial Fibrillation Recurrence After Catheter Ablation in Non-Obese Patients.",
-    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) have been associated with reduced atrial fibrillation (AF) recurrence after catheter ablation in obese and diabetic populations, largely attributed to weight reduction. Whether these agents provide weight-independent antiarrhythmic benefits remains unclear. We evaluated the association between GLP-1 RA therapy and long-term clinical outcomes following AF ablation in non-obese patients. We conducted a retrospective cohort study using the TriNetX U.S. Collaborative Network. Adults (&#x2265;18 years) with body mass index (BMI) &#x2264;29.9&#xa0;kg/m2 who underwent AF ablation between 2010 and 2025 were identified. Patients receiving GLP-1 RAs within 6 months of ablation were compared with non-users. Propensity score matching (1:1) balanced demographics, comorbidities, medications, and laboratory variables. Outcomes were assessed at 1 and 3 years following a 3-month blanking period. Primary endpoints included atrial flutter, cardioversi",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Pacing and Clinical Electrophysiology* investigou se os agonistas do receptor de GLP-1 (GLP-1 RAs) podem reduzir a recorrência de fibrilação atrial (FA) após ablação por cateter em pacientes não obesos. Embora esses fármacos já tenham demonstrado benefícios na redução de recorrências em populações com obesidade ou diabetes — muitas vezes associados à perda de peso —, ainda não estava claro se atuam independentemente do peso corporal como agentes antiarrítmicos.\n\nPara abordar essa lacuna, pesquisadores conduziram um estudo retrospectivo de coorte utilizando dados do *TriNetX U.S. Collaborative Network*. Foram incluídos adultos (≥18 anos) com índice de massa corporal (IMC) ≤29,9 kg/m² submetidos à ablação de FA entre 2010 e 2025. Os pacientes que fizeram uso de GLP-1 RAs nos seis meses seguintes ao procedimento foram comparados a não usuários, com pareamento por escore de propensão para equilibrar variáveis como demografia, comorbidades, medicamentos e exames laboratoriais. Os desfechos foram avaliados em 1 e 3 anos, após um período de \"blanking\" de três meses, excluindo eventos precoces. Os principais desfechos incluíram flutter atrial, cardioversão e nova ablação por FA.\n\nOs resultados preliminares sugerem uma associação entre o uso de GLP-1 RAs e menor recorrência de FA em pacientes não obesos, embora os detalhes específicos dos achados não tenham sido informados no resumo analisado. Esse possível efeito antiarrítmico independente do peso corporal amplia o espectro de benefícios desses medicamentos, tradicionalmente estudados em contextos metabólicos. Contudo, por se tratar de um estudo observacional, não é possível estabelecer causalidade, e fatores de confusão não mensurados podem influenciar os resultados.\n\nAs limitações incluem a natureza retrospectiva do estudo, a dependência de registros eletrônicos de saúde e a ausência de dados sobre dose, duração do tratamento com GLP-1 RAs ou adesão terapêutica. Além disso, o estudo não detalhou o tipo de ablação realizado (por exemplo, cateter convencional vs. crioblação) ou a presença de comorbidades específicas, como hipertensão ou doença cardiovascular estrutural, que poderiam modular o risco de recorrência.\n\nOs próximos passos devem incluir ensaios clínicos randomizados para validar esses achados e explorar os mecanismos fisiopatológicos envolvidos, como a modulação direta de canais iônicos ou a redução de inflamação atrial. Caso confirmados, os GLP-1 RAs poderiam representar uma estratégia adjuvante promissora na prevenção de recorrências de FA em pacientes não obesos submetidos à ablação.\n\n---\n\n**English version**\n\nA recent study published in *Pacing and Clinical Electrophysiology* examined whether glucagon-like peptide-1 receptor agonists (GLP-1 RAs) can reduce atrial fibrillation (AF) recurrence after catheter ablation in non-obese patients. While these drugs have previously shown benefits in reducing recurrences among obese or diabetic populations—often linked to weight loss—it remained unclear whether they exert weight-independent antiarrhythmic effects.\n\nTo address this question, researchers conducted a retrospective cohort study using data from the TriNetX U.S. Collaborative Network. The study included adults (≥18 years) with a body mass index (BMI) ≤29.9 kg/m² who underwent AF ablation between 2010 and 2025. Patients who received GLP-1 RAs within six months post-procedure were compared to non-users, with propensity score matching applied to balance variables such as demographics, comorbidities, medications, and laboratory results. Outcomes were assessed at 1 and 3 years, following a three-month blanking period to exclude early events. Primary endpoints included atrial flutter, cardioversion, and repeat AF ablation.\n\nPreliminary findings suggest an association between GLP-1 RA use and reduced AF recurrence in non-obese patients, though specific results were not detailed in the abstract reviewed. This potential weight-independent antiarrhythmic effect expands the known benefits of these medications, which have primarily been studied for metabolic indications. However, as an observational study, causality cannot be established, and unmeasured confounding factors may influence the results.\n\nKey limitations include the retrospective design, reliance on electronic health records, and lack of data on GLP-1 RA dosing, treatment duration, or adherence. The study also did not specify the type of ablation performed (e.g., conventional catheter vs. cryoablation) or the presence of specific comorbidities—such as hypertension or structural heart disease—that could impact recurrence risk.\n\nFuture research should prioritize randomized controlled trials to validate these findings and elucidate underlying mechanisms, such as direct modulation of ion channels or reduction of atrial inflammation. If confirmed, GLP-1 RAs could emerge as a promising adjunctive strategy for preventing AF recurrence in non-obese patients undergoing ablation.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42261786",
-    "authors": [
-      {
-        "name": "Saeed Abughazaleh",
-        "affiliation": "Department of Cardiovascular Medicine, Division of Cardiovascular Medicine, Baystate Medical Center, University of Massachusetts-Baystate, Springfield, Massachusetts, USA."
-      },
-      {
-        "name": "Khalid Sawalha",
-        "affiliation": "Department of Cardiovascular Medicine, Division of Cardiovascular Medicine, Baystate Medical Center, University of Massachusetts-Baystate, Springfield, Massachusetts, USA."
-      },
-      {
-        "name": "Ahmad Al Nawaiseh",
-        "affiliation": "Division of Cardiovascular Disease, University of Connecticut School of Medicine/Hartford Hospital, Hartford, Connecticut, USA."
-      },
-      {
-        "name": "Shaker Al-Nabulsi",
-        "affiliation": "Royal College of Surgeons in Irland, Dublin 2, Bahrain."
-      }
-    ],
-    "journal": "Pacing and clinical electrophysiology : PACE",
-    "publishedDate": "2026-06-09",
-    "fetchedDate": "2026-06-09",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
