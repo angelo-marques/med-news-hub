@@ -8180,6 +8180,47 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-41730003",
+    "pmid": "41730003",
+    "doi": "10.1080/13696998.2026.2633930",
+    "title": "Economic evaluation of perioperative pembrolizumab plus standard of care as treatment for resectable locally advanced head and neck squamous cell carcinoma in the United States.",
+    "titlePt": "Economic evaluation of perioperative pembrolizumab plus standard of care as treatment for resectable locally advanced head and neck squamous cell carcinoma in the United States.",
+    "abstract": "In the phase 3 KEYNOTE-689 trial (NCT03765918) among patients with resectable locally advanced head and neck squamous cell carcinoma (LA HNSCC), perioperative pembrolizumab (pembrolizumab before surgery, then continued with standard-of-care [SOC] radiotherapy +/- cisplatin after surgery followed by pembrolizumab alone) significantly prolonged event-free survival vs. SOC alone, both in the intention-to-treat population and PD-L1 combined positive score (CPS) &#x2265;1 subgroup. Perioperative pembrolizumab&#x2009;+&#x2009;SOC received Food and Drug Administration approval in June 2025 for resectable LA HNSCC expressing PD-L1 (CPS &#x2265; 1). The present study evaluated the cost-effectiveness of perioperative pembrolizumab&#x2009;+&#x2009;SOC versus SOC in this indication, from a US healthcare payer perspective. A Markov cohort model with four states (event-free, local recurrence, incurable recurrence/progression, death) was developed to estimate lifetime costs, life years (LYs), and qua",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41730003",
+    "authors": [
+      {
+        "name": "Feng Qian",
+        "affiliation": "Merck &amp; Co., Inc., Rahway, NJ, USA."
+      },
+      {
+        "name": "Arielle G Bensimon",
+        "affiliation": "Analysis Group, Inc, Boston, MA, USA."
+      },
+      {
+        "name": "Anjela Tzontcheva",
+        "affiliation": "Merck &amp; Co., Inc., Rahway, NJ, USA."
+      },
+      {
+        "name": "Kimberly Benjamin",
+        "affiliation": "Merck &amp; Co., Inc., Rahway, NJ, USA."
+      }
+    ],
+    "journal": "Journal of medical economics",
+    "publishedDate": "2026-07-08",
+    "fetchedDate": "2026-09-09",
+    "category": "Oncologia",
+    "tags": [
+      "carcinoma",
+      "drug"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozZrvTk-2kFHot-a384f7bbee12d133\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42419876",
     "pmid": "42419876",
     "doi": "10.1136/openhrt-2026-004137",
@@ -12639,47 +12680,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42260395",
-    "pmid": "42260395",
-    "doi": "10.1186/s12883-026-05011-3",
-    "title": "Endovascular treatment versus standard medical management in primary M3 or M4 occlusion stroke in clinical practice: the oriental-MeVO registry.",
-    "titlePt": "Endovascular treatment versus standard medical management in primary M3 or M4 occlusion stroke in clinical practice: the oriental-MeVO registry.",
-    "abstract": "Clinical evidence of the potential treatment benefit of endovascular treatment (EVT) for M3 occlusion of the middle cerebral artery (MCA) is sparse. This study aims to compare EVT versus standard medical management (SMM) for acute M3 and M4 occlusion stroke. This multicenter, retrospective study collected data on patients with acute ischemic stroke from an M3 or M4 occlusion from 25 comprehensive stroke centers between 09/2019 and 09/2024. The primary endpoint was the proportion of excellent outcome (modified Rankin Scale [mRS] 0-1) at 90 days. Safety measures included symptomatic intracranial hemorrhage (sICH) within 24&#xa0;h and mortality at 90 days. A total of 342 patients with M3 or M4 occlusions were enrolled in the final analysis (EVT, 170; SMM, 172). In the primary analysis, there was no significant difference in EVT cohort versus SMM cohort regarding the rates of excellent outcome (mRS 0-1, 36.5% versus 37.2%, adjusted risk ratio [aRR], 0.88 [95% CI, 0.64-1.22]; P&#x2009;=&#x2",
-    "journalisticSummary": "**Versão em português brasileiro:**\n\nUm estudo multicêntrico retrospectivo, publicado recentemente no *BMC Neurology* e registrado no PubMed (DOI: 10.1186/s12883-026-05011-3), investigou o impacto do tratamento endovascular (EVT) em comparação à terapia médica padrão (SMM) para oclusões agudas de artéria cerebral média (MCA) nos segmentos M3 ou M4 — porções mais distais do vaso. Embora o EVT seja amplamente validado para oclusões proximais de grande vaso, como M1 ou carótida interna, sua eficácia nessas localizações mais periféricas permanecia incerta devido à escassez de evidências clínicas robustas.\n\nA análise incluiu 342 pacientes de 25 centros de AVC de alta complexidade, recrutados entre setembro de 2019 e setembro de 2024. Os participantes foram divididos em dois grupos: 170 receberam EVT (trombectomia mecânica ou aspiração) e 172 foram tratados com SMM (terapia anticoagulante ou antiplaquetária, conforme protocolo padrão). O desfecho primário avaliado foi a proporção de pacientes com excelente recuperação funcional, definida como pontuação 0-1 na Escala de Rankin Modificada (mRS) aos 90 dias. Como medidas de segurança, foram analisados a incidência de hemorragia intracraniana sintomática (sICH) nas primeiras 24 horas e a mortalidade aos 90 dias.\n\nOs resultados não demonstraram vantagem estatisticamente significativa do EVT sobre a SMM na obtenção de desfechos funcionais favoráveis (36,5% vs. 37,2%, respectivamente; razão de risco ajustada [aRR] 0,88 [IC 95%: 0,64–1,22]; *P* = 0,27). Além disso, não houve diferenças significativas entre os grupos em relação à sICH (2,4% no grupo EVT vs. 1,7% no grupo SMM; *P* = 0,68) ou à mortalidade aos 90 dias (14,1% vs. 15,1%; *P* = 0,79). Os autores destacam que esses achados sugerem que, no contexto de oclusões distais de MCA, o benefício do EVT pode não se sobrepor aos riscos potenciais do procedimento, especialmente em centros com experiência variável em trombectomia.\n\nDentre as limitações do estudo, os pesquisadores apontam seu delineamento retrospectivo, que está sujeito a vieses de seleção e variabilidade na prática clínica entre os centros participantes. Além disso, não foi informado no resumo original se houve padronização nos critérios de elegibilidade para EVT ou na experiência dos operadores. Como próximos passos, os autores recomendam estudos prospectivos randomizados para validar esses achados, além das investigações sobre fatores preditivos de resposta ao EVT em oclusões distais, como o tempo de isquemia, colateralização vascular ou características do trombo.\n\n---\n\n**English version:**\n\nA recent multicenter retrospective study published in *BMC Neurology* (PubMed DOI: 10.1186/s12883-026-05011-3) evaluated the efficacy of endovascular treatment (EVT) compared to standard medical management (SMM) for acute middle cerebral artery (MCA) occlusions in the M3 or M4 segments — the more distal portions of the vessel. While EVT is well-established for large-vessel occlusions such as M1 or internal carotid artery, its benefit in these peripheral locations has remained unclear due to limited clinical evidence.\n\nThe analysis included 342 patients from 25 high-volume stroke centers, enrolled between September 2019 and September 2024. Participants were divided into two groups: 170 underwent EVT (mechanical thrombectomy or aspiration), while 172 received SMM (anticoagulation or antiplatelet therapy per standard protocols). The primary outcome was the proportion of patients achieving excellent functional recovery, defined as a modified Rankin Scale (mRS) score of 0–1 at 90 days. Safety endpoints included symptomatic intracranial hemorrhage (sICH) within 24 hours and 90-day mortality.\n\nThe findings showed no statistically significant advantage of EVT over SMM in achieving favorable functional outcomes (36.5% vs. 37.2%, respectively; adjusted risk ratio [aRR] 0.88 [95% CI: 0.64–1.22]; *P* = 0.27). Additionally, there were no significant differences between groups in sICH rates (2.4% in EVT vs. 1.7% in SMM; *P* = 0.68) or 90-day mortality (14.1% vs. 15.1%; *P* = 0.79). The authors emphasize that these results suggest EVT may not confer superior benefits over medical therapy for distal MCA occlusions, particularly when considering procedural risks, especially in centers with varying thrombectomy experience.\n\nStudy limitations include its retrospective design, which is prone to selection biases and variability in clinical practices across centers. The abstract did not specify whether standardized criteria for EVT eligibility or operator experience were applied. Future research should prioritize prospective randomized trials to validate these findings, alongside investigations into predictive factors for EVT response in distal occlusions, such as ischemia time, collateral circulation, or thrombus characteristics.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42260395",
-    "authors": [
-      {
-        "name": "Yuyou Zhu",
-        "affiliation": "Department of Neurology, Division of Life Sciences and Medicine, The First Affiliated Hospital of USTC, University of Science and Technology of China, Hefei, Anhui, China."
-      },
-      {
-        "name": "Chao Zhang",
-        "affiliation": "Department of Neurology, Division of Life Sciences and Medicine, The First Affiliated Hospital of USTC, University of Science and Technology of China, Hefei, Anhui, China."
-      },
-      {
-        "name": "HuiJia Yang",
-        "affiliation": "Department of Neurology, Division of Life Sciences and Medicine, The First Affiliated Hospital of USTC, University of Science and Technology of China, Hefei, Anhui, China."
-      },
-      {
-        "name": "Chunrong Tao",
-        "affiliation": "Department of Neurology, Division of Life Sciences and Medicine, The First Affiliated Hospital of USTC, University of Science and Technology of China, Hefei, Anhui, China."
-      }
-    ],
-    "journal": "BMC neurology",
-    "publishedDate": "2026-06-09",
-    "fetchedDate": "2026-06-09",
-    "category": "Neurologia",
-    "tags": [
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
