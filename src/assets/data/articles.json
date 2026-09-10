@@ -1,5 +1,92 @@
 [
   {
+    "id": "pubmed-42716687",
+    "pmid": "42716687",
+    "doi": "10.1136/bmjopen-2026-118786",
+    "title": "Ebetsu Active Future Study (EAFS): cognitive function and physical and mental health in elderly residents of Ebetsu City, Japan - cohort profile.",
+    "titlePt": "Ebetsu Active Future Study (EAFS): cognitive function and physical and mental health in elderly residents of Ebetsu City, Japan - cohort profile.",
+    "abstract": "Ebetsu Active Future Study (EAFS) conducts comprehensive annual surveys of individuals who are independent in activities of daily living (ADLs) to track age-related physical and mental changes. These surveys include a variety of assessments such as cognitive function tests, physical function tests, blood tests, self-administered questionnaires about lifestyle and health, and interviews regarding medical and family history. In addition, serum, plasma and DNA samples from these assessments are stored at -80&#xb0;C to facilitate future analyses and accommodate the potential addition of new measurement items. The purposes of this study are: (1) to identify potential blood-based biomarkers applicable to the detection of various types of mild cognitive impairment (MCI), (2) to explore diet-based strategies for preventing MCI and the progression of dementia, (3) to examine the relationship between urban characteristics, individual attributes and healthy life expectancy in Ebetsu City and (4) ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716687",
+    "authors": [
+      {
+        "name": "Hiroyo Kagami-Katsuyama",
+        "affiliation": "Department of Medical Management and Informatics, Hokkaido Information University, Ebetsu, Japan."
+      },
+      {
+        "name": "Naohito Ito",
+        "affiliation": "Department of Medical Management and Informatics, Hokkaido Information University, Ebetsu, Japan."
+      },
+      {
+        "name": "Makoto Hazama",
+        "affiliation": "Department of Medical Management and Informatics, Hokkaido Information University, Ebetsu, Japan."
+      },
+      {
+        "name": "Nobuyuki Toya",
+        "affiliation": "Department of Medical Management and Informatics, Hokkaido Information University, Ebetsu, Japan."
+      }
+    ],
+    "journal": "BMJ open",
+    "publishedDate": "2026-09-09",
+    "fetchedDate": "2026-09-10",
+    "category": "Neurologia",
+    "tags": [
+      "dementia",
+      "cognitive",
+      "dna",
+      "mental health"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozfsuLN-2kFHot-a38b7618ed24a20c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42716078",
+    "pmid": "42716078",
+    "doi": "10.1016/S1474-4422(26)00313-3",
+    "title": "Plasma phosphorylated tau 217 concentrations, APOE genotype, and timing of cognitive impairment in individuals across diverse racial and ethnic groups: a pooled analysis of prospective cohort studies.",
+    "titlePt": "Plasma phosphorylated tau 217 concentrations, APOE genotype, and timing of cognitive impairment in individuals across diverse racial and ethnic groups: a pooled analysis of prospective cohort studies.",
+    "abstract": "Plasma tau phosphorylated at threonine 217 (p-tau217), a biomarker of Alzheimer's disease neuropathological changes, can increase before overt symptoms occur. However, individuals with similar p-tau217 concentrations but different genetic backgrounds might differ in their risk or timing of cognitive decline. We aimed to determine whether APOE genotype provides additional prognostic information beyond plasma p-tau217 concentration for estimating the risk and timing of cognitive impairment. We did a pooled analysis of participant-level data from seven multi-ethnic prospective cohorts of older adults, including individuals with no cognitive impairment at increased risk of dementia and individuals with mild cognitive impairment or dementia, recruited through academic research centres and community-based settings in Canada, Dominican Republic, and USA. Data were collected from 1992 to 2025. This study included data from participants with plasma p-tau217 measurements, clinical cognitive stat",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716078",
+    "authors": [
+      {
+        "name": "Yuexuan Xu",
+        "affiliation": "Taub Institute for Research on Alzheimer's Disease and the Aging Brain, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA; G H Sergievsky Center, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+      },
+      {
+        "name": "Tamil Iniyan Gunasekaran",
+        "affiliation": "Taub Institute for Research on Alzheimer's Disease and the Aging Brain, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA; G H Sergievsky Center, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+      },
+      {
+        "name": "Yian Gu",
+        "affiliation": "Taub Institute for Research on Alzheimer's Disease and the Aging Brain, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA; G H Sergievsky Center, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA; Department of Neurology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+      },
+      {
+        "name": "Dolly Reyes-Dumeyer",
+        "affiliation": "Taub Institute for Research on Alzheimer's Disease and the Aging Brain, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA; G H Sergievsky Center, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
+      }
+    ],
+    "journal": "The Lancet. Neurology",
+    "publishedDate": "2026-09-09",
+    "fetchedDate": "2026-09-10",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "dementia",
+      "cognitive",
+      "genetic",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozfswuX-2kFHot-a38b764dcb88acdb\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42391695",
     "pmid": "42391695",
     "doi": "10.1016/j.talanta.2026.130187",
@@ -12593,92 +12680,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41764030",
-    "pmid": "41764030",
-    "doi": "10.1080/13696998.2026.2624967",
-    "title": "Modeling the cost-effectiveness of the next-generation COVID-19 mRNA-1283 vaccine in the United States.",
-    "titlePt": "Modeling the cost-effectiveness of the next-generation COVID-19 mRNA-1283 vaccine in the United States.",
-    "abstract": "COVID-19 disease burden in United States (US) adults &#x2265;65&#x2009;years and persons with underlying medical conditions remains high. This modeling study estimated the cost-effectiveness of the next-generation COVID-19 mRNA-1283 vaccine in persons aged 12-64 at high risk of severe COVID-19 outcomes and all adults &#x2265;65&#x2009;years. mRNA-1283 was compared with no annual vaccination and originally licensed mRNA vaccines mRNA-1273 and BNT162b2. Analyses were conducted using a static decision-analytic model (1-year horizon). Vaccine effectiveness (VE) against infection and hospitalization for mRNA-1283 versus no vaccination was based on relative VE (rVE) from the Phase 3 pivotal randomized controlled trial comparing mRNA-1283 against mRNA-1273, and mRNA-1273 real-world data. rVE estimates for mRNA-1283 versus BNT162b2 were based on an indirect treatment comparison. The societal incremental cost per quality-adjusted life-year (QALY) gained and the benefit-cost ratio (BCR) were cal",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo de modelagem publicado recentemente avaliou a relação custo-efetividade da próxima geração da vacina de mRNA-1283 contra a COVID-19 nos Estados Unidos, com foco em populações de alto risco. A pesquisa, conduzida por meio de um modelo estático de decisão analítica com horizonte de um ano, estimou os benefícios clínicos e econômicos da vacina em adultos com 65 anos ou mais e em indivíduos com idades entre 12 e 64 anos considerados de alto risco para desfechos graves da doença.\n\nOs resultados indicam que a mRNA-1283 apresentou maior efetividade relativa contra infecção e hospitalização em comparação com a ausência de vacinação anual, bem como em relação às vacinas originalmente licenciadas mRNA-1273 e BNT162b2. A efetividade relativa da vacina foi derivada de dados do ensaio clínico randomizado de fase 3, que comparou diretamente a mRNA-1283 com a mRNA-1273, além de dados do mundo real da mRNA-1273. Para a comparação indireta com a BNT162b2, foi utilizado um método de comparação de tratamentos. Embora o resumo não forneça valores numéricos específicos de custo por ano de vida ajustado pela qualidade (QALY) ou da relação benefício-custo (BCR), o estudo destaca que a vacina pode representar uma estratégia economicamente viável para reduzir a carga da COVID-19 nessas populações.\n\nOs autores não apresentaram limitações detalhadas no resumo disponível, mas é comum em estudos de modelagem que os resultados dependam de pressupostos sobre a dinâmica da doença, a duração da proteção vacinal e os custos indiretos associados. Além disso, a análise não incluiu dados sobre a aceitação da vacina pela população ou possíveis variações regionais nos Estados Unidos. Como próximos passos, seriam necessários estudos prospectivos para validar esses achados em cenários reais e avaliar o impacto a longo prazo da mRNA-1283 em diferentes grupos etários e comorbidades.\n\n---\n\n**English version**\n\nA recent modeling study assessed the cost-effectiveness of the next-generation COVID-19 mRNA-1283 vaccine in the United States, targeting high-risk populations. Conducted using a static decision-analytic model with a one-year horizon, the research estimated clinical and economic benefits in adults aged 65 and older, as well as individuals aged 12 to 64 with underlying medical conditions.\n\nThe findings suggest that mRNA-1283 demonstrated higher relative effectiveness against infection and hospitalization compared to no annual vaccination, as well as against the originally licensed mRNA-1273 and BNT162b2 vaccines. Relative vaccine effectiveness was derived from a Phase 3 randomized controlled trial comparing mRNA-1283 directly with mRNA-1273, supplemented by real-world data for mRNA-1273. For the indirect comparison with BNT162b2, an indirect treatment comparison method was employed. While the abstract does not provide specific numerical values for incremental cost per quality-adjusted life-year (QALY) gained or the benefit-cost ratio (BCR), the study implies that the vaccine could represent a cost-effective strategy for reducing COVID-19 burden in these populations.\n\nThe authors did not outline detailed limitations in the available abstract, though modeling studies typically depend on assumptions regarding disease dynamics, vaccine durability, and indirect costs. Additionally, the analysis did not account for population vaccine uptake or potential regional variations across the U.S. Future research should validate these findings through prospective real-world studies and evaluate the long-term impact of mRNA-1283 across different age groups and comorbidity profiles.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41764030",
-    "authors": [
-      {
-        "name": "Kelly Fust",
-        "affiliation": "Quadrant Health Economics, Inc, Cambridge, ON, Canada."
-      },
-      {
-        "name": "Michele Kohli",
-        "affiliation": "Quadrant Health Economics, Inc, Cambridge, ON, Canada."
-      },
-      {
-        "name": "Keya Joshi",
-        "affiliation": "Moderna, Inc, Cambridge, MA, USA."
-      },
-      {
-        "name": "Shannon Cartier",
-        "affiliation": "Quadrant Health Economics, Inc, Cambridge, ON, Canada."
-      }
-    ],
-    "journal": "Journal of medical economics",
-    "publishedDate": "2026-06-09",
-    "fetchedDate": "2026-06-10",
-    "category": "Infectologia",
-    "tags": [
-      "infection",
-      "covid",
-      "gene",
-      "rna",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42190578",
-    "pmid": "42190578",
-    "doi": "10.1016/j.sleep.2026.109021",
-    "title": "The Italian registry for narcolepsy and central disorders of hypersomnolence (ReN&amp;IS): Baseline clinical and diagnostic findings.",
-    "titlePt": "The Italian registry for narcolepsy and central disorders of hypersomnolence (ReN&amp;IS): Baseline clinical and diagnostic findings.",
-    "abstract": "Central disorders of hypersomnolence, a wide and heterogeneous group of neurological disorders including narcolepsy type 1 (NT1), narcolepsy type 2 (NT2), and idiopathic hypersomnia (IH), are chronic, rare, under-recognized, and disabling conditions characterized by excessive daytime sleepiness (EDS) and other symptoms adversely impacting patients' lives. Large, harmonized real-world datasets are needed to improve phenotypic characterization, diagnostic accuracy, and translational research. The Italian Registry for Narcolepsy and Central Disorders of Hypersomnolence (ReN&amp;IS) is a national, multicenter, observational registry established in 2022. This preliminary analysis presents and compares demographic features, disease presentation, diagnostic assessment, medical comorbidities, current treatment patterns, and symptoms' evolution across diagnostic NT1, NT2, and IH groups of patients enrolled across 20 Italian referral centers. From March 2022 to September 2025, 480 cases were ent",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm dos principais desafios no manejo dos distúrbios centrais de hipersonolência — grupo heterogêneo e pouco reconhecido de condições neurológicas que inclui a narcolepsia tipo 1 (NT1), narcolepsia tipo 2 (NT2) e hipersonia idiopática (IH) — reside na escassez de dados real-world padronizados. Essas doenças, caracterizadas por sonolência excessiva diurna (SED) e sintomas associados como cataplexia, alucinações hipnagógicas e fragmentação do sono, impactam severamente a qualidade de vida dos pacientes, muitas vezes com diagnóstico tardio ou incorreto. Nesse contexto, o *Registro Italiano de Narcolepsia e Distúrbios Centrais de Hipersonolência* (ReN&IS) surge como uma iniciativa pioneira na Itália, reunindo dados de 20 centros de referência desde sua implementação em 2022.\n\nO estudo, cuja análise preliminar foi publicada no *Sleep*, apresenta os primeiros achados do ReN&IS, comparando características demográficas, apresentação clínica, avaliação diagnóstica, comorbidades médicas, padrões terapêuticos e evolução dos sintomas entre pacientes com NT1, NT2 e IH. Entre março de 2022 e setembro de 2025, 480 casos foram incluídos, mas o resumo não detalha a distribuição exata por subtipo diagnóstico nem a idade média dos participantes. Os resultados destacam diferenças significativas na apresentação clínica: pacientes com NT1 apresentaram maior frequência de cataplexia (dado não quantificado no resumo) e alucinações hipnagógicas em comparação aos outros grupos, enquanto a IH foi associada a episódios prolongados de sono não reparador, sem relação com o ritmo circadiano. No entanto, o documento não especifica a metodologia diagnóstica padronizada adotada nos centros participantes, o que limita a generalização dos achados.\n\nQuanto ao tratamento, o estudo aponta que a maioria dos pacientes com NT1 fazia uso de modafinila ou metilfenidato como primeira linha, enquanto aqueles com IH frequentemente recebiam combinações de estimulantes e agentes noradrenérgicos. A adesão aos protocolos terapêuticos não foi relatada. Os autores enfatizam a necessidade de harmonizar critérios diagnósticos e ampliar o recrutamento, já que a amostra pode não refletir a prevalência real dessas condições na população italiana. Embora o ReN&IS represente um avanço na caracterização fenotípica dessas doenças raras, a ausência de dados sobre seguimento longitudinal impede avaliar a eficácia das intervenções a longo prazo. Próximos passos incluem a integração de biomarcadores e a expansão do registro para incluir dados genéticos e polissonográficos, visando aprimorar a estratificação de risco e personalizar abordagens terapêuticas.\n\n---\n\n**English version**\n\nOne of the key challenges in managing central disorders of hypersomnolence — a heterogeneous and under-recognized group of neurological conditions including narcolepsy type 1 (NT1), narcolepsy type 2 (NT2), and idiopathic hypersomnia (IH) — is the lack of standardized real-world data. These disorders, characterized by excessive daytime sleepiness (EDS) and associated symptoms such as cataplexy, hypnagogic hallucinations, and disrupted sleep, severely impact patients' quality of life, often leading to delayed or misdiagnosis. In this context, the *Italian Registry for Narcolepsy and Central Disorders of Hypersomnolence* (ReN&IS) emerges as a pioneering initiative in Italy, compiling data from 20 referral centers since its establishment in 2022.\n\nThe study, whose preliminary analysis was published in *Sleep*, presents the first findings from ReN&IS, comparing demographic features, clinical presentation, diagnostic assessment, medical comorbidities, treatment patterns, and symptom evolution among patients with NT1, NT2, and IH. Between March 2022 and September 2025, 480 cases were included, though the summary does not detail the exact distribution by diagnostic subtype or the average age of participants. The results highlight significant differences in clinical presentation: NT1 patients showed a higher frequency of cataplexy (quantitative data not provided in the summary) and hypnagogic hallucinations compared to other groups, while IH was associated with prolonged episodes of non-restorative sleep unrelated to circadian rhythm. However, the document does not specify the standardized diagnostic methodology used across participating centers, limiting the generalizability of the findings.\n\nRegarding treatment, the study notes that most NT1 patients were on modafinil or methylphenidate as first-line therapy, while those with IH often received combinations of stimulants and noradrenergic agents. Adherence to therapeutic protocols was not reported. The authors stress the need to harmonize diagnostic criteria and expand recruitment, as the sample may not reflect the true prevalence of these conditions in the Italian population. While ReN&IS represents a step forward in phenotypic characterization, the absence of longitudinal follow-up data prevents assessment of long-term intervention efficacy. Future steps include integrating biomarkers and expanding the registry to include genetic and polysomnographic data, aiming to improve risk stratification and personalized therapeutic approaches.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42190578",
-    "authors": [
-      {
-        "name": "Paola Torreri",
-        "affiliation": "National Center Rare Diseases - Istituto Superiore di Sanit&#xe0;, Rome, Italy."
-      },
-      {
-        "name": "Giorgia Buoncuore",
-        "affiliation": "National Center Rare Diseases - Istituto Superiore di Sanit&#xe0;, Rome, Italy. Electronic address: giorgia.buoncuore@iss.it."
-      },
-      {
-        "name": "Adele Rocchetti",
-        "affiliation": "National Center Rare Diseases - Istituto Superiore di Sanit&#xe0;, Rome, Italy."
-      },
-      {
-        "name": "Lorenzo Facciaroni",
-        "affiliation": "National Center Rare Diseases - Istituto Superiore di Sanit&#xe0;, Rome, Italy."
-      }
-    ],
-    "journal": "Sleep medicine",
-    "publishedDate": "2026-06-09",
-    "fetchedDate": "2026-06-10",
-    "category": "Genômica",
-    "tags": [
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
