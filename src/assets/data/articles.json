@@ -80,6 +80,135 @@
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozp9icB-2kFHot-a39463afbcaa6d41\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   },
   {
+    "id": "pubmed-42716680",
+    "pmid": "42716680",
+    "doi": "10.1136/bmjopen-2026-120256",
+    "title": "Timing of anticoagulation after emergency endovascular therapy for acute ischaemic stroke with atrial fibrillation (TIMERS): protocol for a randomised controlled trial.",
+    "titlePt": "Timing of anticoagulation after emergency endovascular therapy for acute ischaemic stroke with atrial fibrillation (TIMERS): protocol for a randomised controlled trial.",
+    "abstract": "The optimal timing for direct oral anticoagulants (DOACs) initiation after acute ischaemic stroke in patients with atrial fibrillation (AF) remains unclear, particularly in those undergoing endovascular thrombectomy (EVT), who are at higher risk of both haemorrhagic transformation and early embolic recurrence. Patients undergoing thrombectomy have been under-represented in previous randomised trials, resulting in limited evidence for guiding management in this high-risk population. The TIMERS trial aims to evaluate the efficacy and safety of early versus delayed initiation of DOACs therapy after EVT in patients with large vessel occlusion stroke and AF. This is a multicentre, prospective, randomised, open-label trial with a blinded outcome assessment. In total, 438 patients with acute ischaemic stroke and AF treated with EVT will be enrolled in this study. Patients will be randomised in a 1:1 ratio within 72&#x2009;hours after stroke onset to early initiation (&#x2264;4&#x2009;days) or",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716680",
+    "authors": [
+      {
+        "name": "Yibing Guo",
+        "affiliation": "Department of Neurology, Xuanwu Hospital Capital Medical University, Beijing, China."
+      },
+      {
+        "name": "Xiaole Jia",
+        "affiliation": "Department of Neurology, Xuanwu Hospital Capital Medical University, Beijing, China."
+      },
+      {
+        "name": "Wanqing Liu",
+        "affiliation": "Department of Neurology, Xuanwu Hospital Capital Medical University, Beijing, China."
+      },
+      {
+        "name": "Wanwan Zhang",
+        "affiliation": "Department of Neurology, Xuanwu Hospital Capital Medical University, Beijing, China."
+      }
+    ],
+    "journal": "BMJ open",
+    "publishedDate": "2026-09-09",
+    "fetchedDate": "2026-09-11",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial",
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozqfcGq-2kFHot-a396065a0ec1a682\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-41706060",
+    "pmid": "41706060",
+    "doi": "10.1016/j.jacc.2025.12.032",
+    "title": "Polygenic Risk Based Detection and Treatment of Subclinical Coronary Atherosclerosis in the PROACT Clinical Trials.",
+    "titlePt": "Polygenic Risk Based Detection and Treatment of Subclinical Coronary Atherosclerosis in the PROACT Clinical Trials.",
+    "abstract": "Coronary artery disease (CAD) polygenic risk scores (PRS) may identify individuals at elevated genetic risk \"flying under the radar\" in contemporary practice. The aims of the PROACT (Polygenic Risk Based Detection and Treatment of Subclinical Coronary Atherosclerosis) trials are to prospectively identify these individuals, quantify subclinical coronary plaque, and slow its progression with pharmacologic interventions. The aim of this study is to report interim feasibility and implementation findings from PROACT, a genotype-first, biobank-enabled trial, characterizing eligibility yield, callback engagement, and subclinical coronary atherosclerosis on coronary computed tomographic angiography among individuals with high CAD PRS. Within a hospital-based biobank, adults 40 to 75 years of age with high CAD PRS, without cardiovascular disease, and not on lipid-lowering therapy were invited. The authors characterize 2,495 eligible individuals with high CAD PRS, report on the feasibility and e",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41706060",
+    "authors": [
+      {
+        "name": "Roukoz Abou-Karam",
+        "affiliation": "Cardiovascular Research Center, Department of Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, USA; Cardiovascular Disease Initiative, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA."
+      },
+      {
+        "name": "Min Seo Kim",
+        "affiliation": "Cardiovascular Research Center, Department of Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, USA; Cardiovascular Disease Initiative, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA."
+      },
+      {
+        "name": "So Mi Jemma Cho",
+        "affiliation": "Cardiovascular Research Center, Department of Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, USA; Cardiovascular Disease Initiative, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA."
+      },
+      {
+        "name": "Fouad Bitar",
+        "affiliation": "Cardiovascular Research Center, Department of Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, USA; Cardiovascular Disease Initiative, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA."
+      }
+    ],
+    "journal": "Journal of the American College of Cardiology",
+    "publishedDate": "2026-09-09",
+    "fetchedDate": "2026-09-11",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "coronary",
+      "genetic",
+      "gene",
+      "clinical trial"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozqfi4Y-2kFHot-a39606d3ebc2a682\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42541895",
+    "pmid": "42541895",
+    "doi": "10.1016/j.currproblcancer.2026.101328",
+    "title": "Blinatumomab versus chemotherapy in pediatric B-ALL: A meta-analysis of randomized trials in relapsed and high-risk frontline disease.",
+    "titlePt": "Blinatumomab versus chemotherapy in pediatric B-ALL: A meta-analysis of randomized trials in relapsed and high-risk frontline disease.",
+    "abstract": "B-cell acute lymphoblastic leukemia (B-ALL) is the most common pediatric cancer, comprising almost 25 % of childhood malignancies. Despite advances in chemotherapy, relapse remains a major cause of treatment failure, particularly in high-risk patients. Blinatumomab, a CD19-directed bispecific T-cell engager, approved for relapsed/refractory and measurable residual disease (MRD)-positive B-ALL, but its benefit in pediatric patients at increased risk of relapse remains uncertain. To evaluate whether adding blinatumomab to chemotherapy improves survival and MRD outcomes in pediatric patients with relapsed/refractory or high-risk frontline B-ALL. We searched PubMed, EMBASE, and Cochrane Library through March 2025, following PRISMA 2020 guidelines. Randomized controlled trials (RCTs) evaluating blinatumomab versus chemotherapy in pediatric B-ALL patients at increased risk of relapse. Primary outcomes were disease-free survival (DFS). Overall survival (OS), MRD, and adverse effects were also",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42541895",
+    "authors": [
+      {
+        "name": "Adeena Musheer",
+        "affiliation": "Department of Medicine, Dow Medical College, Pakistan."
+      },
+      {
+        "name": "Muhammad Shaheer Mannan",
+        "affiliation": "Department of Internal Medicine, Marshfield Clinic, Marshfield, WI, USA."
+      },
+      {
+        "name": "Muhammad Waqas Khan",
+        "affiliation": "Department of Internal Medicine, Medical University of South Carolina, SC, USA. Electronic address: khanmuha@musc.edu."
+      },
+      {
+        "name": "Ayesha Junaid",
+        "affiliation": "Department of Medicine, Dow Medical College, Pakistan."
+      }
+    ],
+    "journal": "Current problems in cancer",
+    "publishedDate": "2026-09-09",
+    "fetchedDate": "2026-09-11",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "leukemia",
+      "chemotherapy",
+      "pediatric",
+      "childhood"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozqgMpm-2kFHot-a39609edbb991e0f\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42716687",
     "pmid": "42716687",
     "doi": "10.1136/bmjopen-2026-118786",
@@ -12545,136 +12674,6 @@
     ],
     "isHighlight": false,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42184906",
-    "pmid": "42184906",
-    "doi": "10.1016/j.pbb.2026.174217",
-    "title": "GLP-1 receptor agonists at the crossroads of obesity and addiction: A review of shared neurobiology and translational evidence.",
-    "titlePt": "GLP-1 receptor agonists at the crossroads of obesity and addiction: A review of shared neurobiology and translational evidence.",
-    "abstract": "Obesity and substance use disorders (SUDs) are chronic relapsing conditions that may co-occur through convergent pathophysiological mechanisms involving dysregulated reward circuitry. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) - originally developed for type 2 diabetes and obesity - act on both peripheral metabolic and central reward pathways, positioning them as potential candidates for repurposing in addiction medicine. In this narrative review, we sought to synthesize the shared neurobiology of obesity and SUDs and critically evaluate emerging translational evidence supporting GLP-1 RAs as adjunctive treatments in addictive disorders. We conducted comprehensive searches of PubMed/MEDLINE, Embase, PsycINFO, and Web of Science from January 2015 through December 2025, supplemented by manual reference screening. Eligible studies included preclinical investigations of GLP-1 signaling on substance-related behaviors and pilot clinical trials assessing GLP-1 RAs in SUDs. Preclini",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm crescente corpo de evidências sugere que os agonistas do receptor de GLP-1 (GLP-1 RAs), inicialmente desenvolvidos para o tratamento de diabetes tipo 2 e obesidade, podem ter um papel terapêutico além do metabolismo. Um estudo publicado recentemente no *Pharmacology, Biochemistry and Behavior* explora como esses fármacos atuam em vias de recompensa compartilhadas entre a obesidade e os transtornos por uso de substâncias (TUS), oferecendo perspectivas para seu reposicionamento no tratamento de dependências. A revisão narrativa, baseada em buscas sistemáticas em bases como PubMed, Embase e PsycINFO entre 2015 e 2025, sintetiza mecanismos neurobiológicos convergentes entre essas condições e avalia estudos pré-clínicos e clínicos piloto que investigam o uso de GLP-1 RAs como adjuvantes em TUS.\n\nOs achados indicam que os GLP-1 RAs modulam circuitos de recompensa dopaminérgicos e glutamatérgicos, reduzindo comportamentos compulsivos associados ao consumo de substâncias em modelos animais — como álcool, nicotina, cocaína e opioides. Em humanos, ensaios clínicos preliminares com liraglutida e semaglutida demonstraram redução no desejo por substâncias e no consumo de álcool ou nicotina, embora com amostras pequenas e duração limitada. A hipótese central é que a ativação do receptor de GLP-1 no sistema nervoso central atenue a hiperativação da via mesolímbica, comum tanto à obesidade quanto aos TUS, por meio de mecanismos como a modulação da liberação de dopamina e a plasticidade sináptica.\n\nDo ponto de vista clínico, a possibilidade de reposicionar fármacos já aprovados e com perfil de segurança conhecido representa uma estratégia promissora, especialmente para populações com comorbidades. No entanto, as evidências atuais são insuficientes para recomendações terapêuticas definitivas. A maioria dos estudos clínicos é de fase inicial, com amostras heterogêneas e falta de padronização nos desfechos. Além disso, não há dados robustos sobre o uso de GLP-1 RAs em TUS graves ou em combinação com outras terapias, como a terapia de reposição de nicotina ou medicamentos para cessação de álcool.\n\nOs próximos passos incluem ensaios randomizados e controlados com maior poder estatístico, avaliação de diferentes moléculas da classe (como dulaglutida ou tirzepatida) e estudos de farmacogenômica para identificar subgrupos de pacientes mais responsivos. Outra lacuna crítica é a investigação dos mecanismos de tolerância ou resistência ao tratamento a longo prazo. Se confirmados, esses achados poderiam redefinir o paradigma de tratamento de dependências, integrando abordagens metabólicas e neuropsiquiátricas.\n\n---\n\n**English version**\n\nEmerging evidence suggests that glucagon-like peptide-1 receptor agonists (GLP-1 RAs), initially developed for type 2 diabetes and obesity, may exert therapeutic effects beyond metabolic regulation. A recent study published in *Pharmacology, Biochemistry and Behavior* examines how these drugs interact with shared reward pathways in obesity and substance use disorders (SUDs), offering new avenues for their repurposing in addiction medicine. The narrative review synthesizes convergent neurobiological mechanisms between these conditions and evaluates preclinical and pilot clinical studies investigating GLP-1 RAs as adjunctive treatments for SUDs. The analysis draws from systematic searches in PubMed, Embase, PsycINFO, and Web of Science conducted between 2015 and 2025.\n\nFindings indicate that GLP-1 RAs modulate dopaminergic and glutamatergic reward circuits, reducing compulsive substance-seeking behaviors in animal models exposed to alcohol, nicotine, cocaine, and opioids. Preliminary human trials with liraglutide and semaglutide have shown reductions in craving and consumption of alcohol or nicotine, though these studies are limited by small sample sizes and short durations. The leading hypothesis is that central GLP-1 receptor activation dampens hyperactivity in the mesolimbic pathway—a shared feature of both obesity and SUDs—by modulating dopamine release and synaptic plasticity.\n\nClinically, repurposing approved GLP-1 RAs with established safety profiles presents a compelling strategy, particularly for patients with comorbid conditions. However, current evidence remains insufficient for definitive therapeutic recommendations. Most clinical studies are early-phase, with heterogeneous designs and no standardized outcome measures. Robust data on GLP-1 RAs in severe SUDs or in combination with other therapies—such as nicotine replacement therapy or alcohol cessation medications—is notably absent.\n\nFuture research should prioritize randomized controlled trials with adequate statistical power, comparative studies across different GLP-1 RAs (e.g., dulaglutide, tirzepatide), and pharmacogenomic analyses to identify responsive patient subgroups. A critical unaddressed question is the potential for long-term tolerance or resistance to these treatments. If validated, these findings could reshape addiction treatment paradigms by bridging metabolic and neuropsychiatric approaches.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42184906",
-    "authors": [
-      {
-        "name": "Simone Lista",
-        "affiliation": "i+HeALTH Strategic Research Group, Department of Health Sciences, Miguel de Cervantes European University (UEMC), 47012, Valladolid, Spain."
-      },
-      {
-        "name": "Martina Ballerio",
-        "affiliation": "Center for Research in Medical Pharmacology, University of Insubria, 21100, Varese, Italy; Cantonal Psychiatric Clinic, Cantonal Sociopsychiatric Organization, 6850, Mendrisio, Switzerland."
-      },
-      {
-        "name": "Susana L&#xf3;pez-Ortiz",
-        "affiliation": "i+HeALTH Strategic Research Group, Department of Health Sciences, Miguel de Cervantes European University (UEMC), 47012, Valladolid, Spain."
-      },
-      {
-        "name": "Kayvan Khoramipour",
-        "affiliation": "i+HeALTH Strategic Research Group, Department of Health Sciences, Miguel de Cervantes European University (UEMC), 47012, Valladolid, Spain."
-      }
-    ],
-    "journal": "Pharmacology, biochemistry, and behavior",
-    "publishedDate": "2026-06-10",
-    "fetchedDate": "2026-06-11",
-    "category": "Endocrinologia",
-    "tags": [
-      "clinical trial",
-      "diabetes",
-      "metabolic",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42271067",
-    "pmid": "42271067",
-    "doi": "10.1007/s00210-026-05510-7",
-    "title": "Repurposing doxycycline as an adjunct to sitagliptin in type 2 diabetes mellitus: a randomized controlled study on glycemic, inflammatory, and cardiometabolic outcomes.",
-    "titlePt": "Repurposing doxycycline as an adjunct to sitagliptin in type 2 diabetes mellitus: a randomized controlled study on glycemic, inflammatory, and cardiometabolic outcomes.",
-    "abstract": "Type 2 diabetes mellitus (T2DM) is characterized by insulin resistance, &#x3b2;-cell dysfunction, and chronic low-grade inflammation. Doxycycline exhibits anti-inflammatory properties, suggesting potential benefit as an adjunctive therapy in T2DM.&#xa0;To evaluate the efficacy and safety of adjunctive doxycycline in patients with T2DM receiving sitagliptin.&#xa0;In this randomized controlled trial, 57 patients with T2DM were assigned to receive sitagliptin alone (n&#x2009;=&#x2009;29) or sitagliptin plus doxycycline (n&#x2009;=&#x2009;28) for 12 weeks. Glycemic indices, insulin sensitivity measures, lipid profile, cardiometabolic risk indices, and inflammatory markers were assessed before and after treatment. Parametric outcomes were analyzed using analysis of covariance (ANCOVA) adjusted for baseline values, while non-parametric biomarkers were analyzed using Hodges-Lehmann estimators. Multivariable linear regression identified independent determinant of treatment response. Between-gr",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo randomizado controlado avaliou o potencial do antibiótico doxiciclina como terapia adjuvante ao sitagliptina em pacientes com diabetes mellitus tipo 2 (DM2). Publicado recentemente no periódico *Naunyn-Schmiedeberg’s Archives of Pharmacology*, a pesquisa incluiu 57 adultos com DM2, divididos aleatoriamente para receber sitagliptina isoladamente (n=29) ou associada à doxiciclina (n=28) por 12 semanas. O objetivo foi analisar o impacto da combinação terapêutica em marcadores glicêmicos, inflamatórios e cardiometabólicos, além de avaliar a segurança do regime.\n\nOs resultados indicaram melhora significativa nos níveis de hemoglobina glicada (HbA1c) e na sensibilidade à insulina no grupo que recebeu doxiciclina como adjuvante, em comparação ao grupo controle. Além disso, observou-se redução nos marcadores inflamatórios — como proteína C reativa (PCR) e interleucina-6 (IL-6) —, sugerindo um efeito anti-inflamatório adicional do fármaco, alinhado ao seu mecanismo de inibição da metaloproteinase de matriz (MMP). A análise multivariada identificou a doxiciclina como determinante independente da resposta terapêutica. Contudo, o estudo não reportou dados sobre eventos adversos graves nem comparou a incidência de hipoglicemia entre os grupos.\n\nAs limitações incluem o curto período de seguimento (12 semanas), a amostra reduzida e a ausência de estratificação por comorbidades ou uso de outras medicações antidiabéticas. Embora os achados sejam promissores para um reposicionamento terapêutico, são necessários estudos maiores e de longo prazo para confirmar a eficácia clínica e o perfil de segurança da doxiciclina nesse contexto, bem como para elucidar os mecanismos moleculares envolvidos na interação com o sitagliptina.\n\n---\n\n**English version**\n\nA randomized controlled trial recently published in *Naunyn-Schmiedeberg’s Archives of Pharmacology* investigated the repurposing of doxycycline as an adjunctive therapy to sitagliptin in patients with type 2 diabetes mellitus (T2DM). The study enrolled 57 adults with T2DM, randomly assigned to receive either sitagliptin monotherapy (n=29) or sitagliptin combined with doxycycline (n=28) for 12 weeks. The primary outcomes included glycemic control, insulin sensitivity, lipid profile, cardiometabolic risk indices, and inflammatory biomarkers, with assessments conducted at baseline and after treatment.\n\nFindings demonstrated a significant reduction in glycated hemoglobin (HbA1c) and improved insulin sensitivity in the doxycycline adjunct group compared to sitagliptin alone. Additionally, inflammatory markers such as C-reactive protein (CRP) and interleukin-6 (IL-6) decreased, supporting doxycycline’s anti-inflammatory effects—likely mediated by matrix metalloproteinase (MMP) inhibition. Multivariable regression analysis identified doxycycline as an independent determinant of treatment response. However, the study did not report data on serious adverse events or compare hypoglycemia incidence between groups.\n\nKey limitations include the short follow-up duration (12 weeks), small sample size, and lack of stratification by comorbidities or concurrent antidiabetic therapies. While results suggest potential therapeutic repurposing, larger and longer-term studies are required to validate efficacy, safety, and the molecular interplay between doxycycline and sitagliptin in T2DM management.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42271067",
-    "authors": [
-      {
-        "name": "Eman El-Khateeb",
-        "affiliation": "Clinical Pharmacy Department, Faculty of Pharmacy, Tanta University, Tanta, Egypt."
-      },
-      {
-        "name": "Mohannad O Khrieba",
-        "affiliation": "Pharmacy Practice Department, Faculty of Pharmacy, Horus University, New Damietta, Egypt."
-      },
-      {
-        "name": "Amal Mohammad Badawoud",
-        "affiliation": "Pharmacy Practice Department, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt."
-      },
-      {
-        "name": "Ahmed A Morsy",
-        "affiliation": "Department of Pharmacy Practice, College of Pharmacy, Princess Nourah bint Abdulrahman University, Riyadh, 11671, Saudi Arabia. ambadawoud@pnu.edu.sa."
-      }
-    ],
-    "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
-    "publishedDate": "2026-06-10",
-    "fetchedDate": "2026-06-11",
-    "category": "Endocrinologia",
-    "tags": [
-      "diabetes",
-      "insulin",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42265882",
-    "pmid": "42265882",
-    "doi": "10.1111/head.70114",
-    "title": "The pharmacology of gepants in migraine: A scoping review on mechanisms, clinical applications, and combination strategies.",
-    "titlePt": "The pharmacology of gepants in migraine: A scoping review on mechanisms, clinical applications, and combination strategies.",
-    "abstract": "Calcitonin gene-related peptide (CGRP) is a key mediator in migraine pathophysiology, and the development of gepants, novel CGRP receptor antagonists, has expanded therapeutic options for both acute and preventive treatment. This scoping review aims to synthesize current evidence on the pharmacology, clinical applications, safety, and combination strategies of gepants. A scoping review was conducted following PRISMA-ScR recommendations. A comprehensive search of PubMed/MEDLINE and Scopus was performed from database inception to July 2025, with an additional search in January 2026 for real-world studies. Data were extracted and summarized narratively without quantitative synthesis. Second- and third-generation gepants, including ubrogepant, rimegepant, atogepant, and zavegepant, overcome the hepatotoxicity and bioavailability limitations of earlier compounds. Pharmacokinetic properties determine their suitability for both acute and preventive use, and their lack of vasoconstrictive acti",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nO calcitonin gene-related peptide (CGRP) desempenha papel central na fisiopatologia da enxaqueca, impulsionando o desenvolvimento de gepantes — antagonistas seletivos dos receptores de CGRP — como uma classe terapêutica inovadora para o tratamento agudo e preventivo da doença. Uma revisão de escopo publicada recentemente no *Headache* sintetiza o estado atual do conhecimento sobre a farmacologia, aplicações clínicas, segurança e estratégias de combinação com essas moléculas. O estudo, conduzido segundo as diretrizes PRISMA-ScR, revisou evidências publicadas desde a criação dos bancos de dados até julho de 2025, com busca adicional em janeiro de 2026 para estudos do mundo real. Embora não tenha realizado metanálise quantitativa, a análise narrativa identificou avanços significativos na segunda e terceira gerações de gepantes — como ubrogepant, rimegepant, atogepant e zavegepant — que superaram limitações anteriores, como hepatotoxicidade e baixa biodisponibilidade.\n\nAs propriedades farmacocinéticas desses fármacos determinam sua adequação para diferentes perfis de pacientes e regimes terapêuticos. Além disso, a ausência de atividade vasoconstritora — ao contrário dos triptanos — amplia seu espectro de segurança, especialmente em indivíduos com comorbidades cardiovasculares. Clinicamente, os gepantes demonstram eficácia tanto no alívio sintomático de crises quanto na prevenção, com perfis de tolerabilidade favoráveis em estudos controlados e observacionais. No entanto, a revisão destaca lacunas importantes: a falta de dados robustos sobre o uso concomitante com outras terapias preventivas, como anticorpos monoclonais anti-CGRP, e a escassez de estudos em populações específicas, como gestantes ou pacientes com enxaqueca crônica refratária. Os autores também sinalizam a necessidade de pesquisas que avaliem a eficácia a longo prazo e o impacto na qualidade de vida, além de estratégias para otimizar a adesão ao tratamento.\n\nOs próximos passos incluem a realização de ensaios clínicos randomizados que comparem gepantes com outras classes terapêuticas, bem como estudos farmacoeconômicos para subsidiar políticas públicas de incorporação. Enquanto isso, a classe consolida-se como uma alternativa promissora, sobretudo para pacientes com contraindicações a triptanos ou que não respondem a tratamentos convencionais.\n\n---\n\n**English version**\n\nCalcitonin gene-related peptide (CGRP) is a key mediator in migraine pathophysiology, driving the development of gepants—selective CGRP receptor antagonists—as an innovative therapeutic class for both acute and preventive treatment. A scoping review published in *Headache* synthesizes current evidence on the pharmacology, clinical applications, safety, and combination strategies of these molecules. Conducted according to PRISMA-ScR guidelines, the study reviewed evidence from database inception to July 2025, with an additional search in January 2026 for real-world studies. While no quantitative meta-analysis was performed, the narrative review identified significant advances in second- and third-generation gepants, including ubrogepant, rimegepant, atogepant, and zavegepant, which have overcome prior limitations such as hepatotoxicity and low bioavailability.\n\nThe pharmacokinetic properties of these drugs determine their suitability for different patient profiles and therapeutic regimens. Additionally, their lack of vasoconstrictive activity—unlike triptans—expands their safety profile, particularly for individuals with cardiovascular comorbidities. Clinically, gepants demonstrate efficacy in both acute symptom relief and prevention, with favorable tolerability profiles in controlled and observational studies. However, the review highlights important gaps: limited robust data on concomitant use with other preventive therapies, such as anti-CGRP monoclonal antibodies, and a scarcity of studies in specific populations, such as pregnant individuals or those with refractory chronic migraine. The authors also emphasize the need for long-term efficacy and quality-of-life assessments, as well as strategies to improve treatment adherence.\n\nFuture directions include randomized clinical trials comparing gepants with other therapeutic classes, as well as pharmacoeconomic studies to inform public health policies. Meanwhile, the class is consolidating itself as a promising alternative, particularly for patients with contraindications to triptans or those who do not respond to conventional treatments.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42265882",
-    "authors": [
-      {
-        "name": "Luigi Francesco Iannone",
-        "affiliation": "Department of Biomedical, Metabolic and Neural Sciences, University of Modena and Reggio Emilia, Modena, Italy."
-      },
-      {
-        "name": "Marcello Silvestro",
-        "affiliation": "Inter-Departmental Program of Headache Medicine and Primary Pain Syndromes, Department of Medical, Surgical, Neurological, Metabolic and Aging Sciences, University of Campania \"Luigi Vanvitelli\", Naples, Italy."
-      },
-      {
-        "name": "Antonio Munaf&#xf2;",
-        "affiliation": "Department of Neurosciences, Psychology, Drug Research and Child Health, University of Florence, Florence, Italy."
-      },
-      {
-        "name": "Marina Romozzi",
-        "affiliation": "Dipartimento Universitario di Neuroscienze, Universit&#xe0; Cattolica del Sacro Cuore, Rome, Italy."
-      }
-    ],
-    "journal": "Headache",
-    "publishedDate": "2026-06-10",
-    "fetchedDate": "2026-06-10",
-    "category": "Farmacologia",
-    "tags": [
-      "gene",
-      "pharmacology",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
