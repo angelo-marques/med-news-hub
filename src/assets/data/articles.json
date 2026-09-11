@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42723627",
+    "pmid": "42723627",
+    "doi": "10.1002/mds.70495",
+    "title": "Novel and Emerging Therapies for Childhood-Onset Movement Disorders.",
+    "titlePt": "Novel and Emerging Therapies for Childhood-Onset Movement Disorders.",
+    "abstract": "Childhood-onset movement disorders comprise a heterogeneous group of rare conditions with substantial unmet therapeutic needs. Recent advances in disease gene discovery, mechanistic modeling, and translational platforms have accelerated the development of targeted therapies and enabled innovative clinical trial designs for small patient populations. To review novel and emerging therapies for childhood-onset movement disorders, with a focus on pharmacologic strategies, disease-modifying approaches, and patient-centered precision therapies. We surveyed the literature, major conference proceedings, and expert networks to identify therapies approved, in clinical development, or supported by compelling preclinical data between 2022 and 2025. We focused on small molecules and genetic therapies for conditions in which movement disorders represent a prominent clinical feature. Small molecules were categorized as repurposed or novel drugs, whereas genetic therapies included gene replacement, ge",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42723627",
+    "authors": [
+      {
+        "name": "Claudio M de Gusmao",
+        "affiliation": "Division of Movement Disorders, Department of Neurology, Massachusetts General Brigham Hospitals, Harvard University, Boston, Massachusetts, USA."
+      },
+      {
+        "name": "Vladimir L Katanaev",
+        "affiliation": "Department of Cell Physiology and Metabolism, Faculty of Medicine, University of Geneva, Geneva, Switzerland."
+      },
+      {
+        "name": "Laura Silveira-Moriyama",
+        "affiliation": "Qatar Biomedical Research Institute, Hamad Bin Khalifa University, Doha, Qatar."
+      },
+      {
+        "name": "Tamara Pringsheim",
+        "affiliation": "Neurology Department, State University of Campinas (UNICAMP), Campinas, Brazil."
+      }
+    ],
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "publishedDate": "2026-09-11",
+    "fetchedDate": "2026-09-11",
+    "category": "Farmacologia",
+    "tags": [
+      "genetic",
+      "gene",
+      "drug",
+      "clinical trial",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozsrBys-2kFHot-a39861516ccbf95f\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42669307",
     "pmid": "42669307",
     "doi": "10.1016/S0140-6736(26)01558-8",
@@ -12636,49 +12680,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42217849",
-    "pmid": "42217849",
-    "doi": "10.1016/j.jocn.2026.112089",
-    "title": "GLP-1 receptor agonists and post-endovascular thrombectomy outcomes in acute ischemic stroke: a multicenter propensity score matched analysis.",
-    "titlePt": "GLP-1 receptor agonists and post-endovascular thrombectomy outcomes in acute ischemic stroke: a multicenter propensity score matched analysis.",
-    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1As) have demonstrated cardiovascular and cerebrovascular benefits in high-risk populations, but their impact in patients with acute ischemic stroke (AIS) requiring endovascular thrombectomy (EVT) remains uncertain. We performed a retrospective cohort analysis using the TriNetX Network, identifying adults (&#x2265;18&#xa0;years) with AIS treated with EVT from January 1, 2016 through December 31, 2025. Patients with GLP-1A exposure within three months prior to EVT constituted the exposure cohort; those without served as comparators. This pre-index window was specified to eliminate immortal time bias, with follow-up beginning on the EVT date for both cohorts. Three-year outcomes included all-cause mortality and inpatient hospitalizations. One-to-one propensity score matching was applied using demographic, comorbidity, medication, and metabolic variables including individual National Institute of Health Stroke Scale scores, Hemoglobin A1c, an",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nEstudo pioneiro investiga o impacto dos agonistas do receptor de GLP-1 em pacientes submetidos à trombectomia endovascular por AVC isquêmico agudo\n\nUm estudo recente publicado no *Journal of Clinical Neuroscience* avaliou se o uso prévio de agonistas do receptor de GLP-1 (GLP-1As) melhora os desfechos clínicos em pacientes com acidente vascular cerebral isquêmico agudo (AVCi) submetidos à trombectomia endovascular (EVT). A pesquisa, que analisou dados de mais de 1.200 pacientes em 52 centros médicos nos Estados Unidos, não identificou diferença significativa na mortalidade em três anos ou nas taxas de reinternação hospitalar entre aqueles que haviam utilizado GLP-1As nos três meses anteriores ao procedimento e os que não haviam feito uso da medicação.\n\nOs resultados, obtidos por meio de uma análise retrospectiva de coorte com pareamento por escore de propensão — técnica que minimiza vieses por meio da comparação de grupos com características basais semelhantes —, sugerem que, embora os GLP-1As tenham demonstrado benefícios cardiovasculares em populações de alto risco, seu papel em pacientes submetidos à EVT permanece incerto. Os autores destacam que a ausência de efeitos observados pode estar relacionada ao curto período de exposição avaliado (três meses antes do AVC) ou à gravidade intrínseca dos casos encaminhados para trombectomia, que muitas vezes apresentam comorbidades graves e prognósticos já comprometidos.\n\nApesar das limitações inerentes ao desenho retrospectivo e à impossibilidade de controlar variáveis não mensuradas, como a adesão ao tratamento com GLP-1As, o estudo abre caminho para investigações prospectivas que explorem janelas temporais mais longas de exposição ou estratifiquem os resultados por subtipos de AVCi. Os pesquisadores também sugerem que futuros ensaios clínicos randomizados poderiam esclarecer se o início precoce de GLP-1As após a EVT — e não apenas antes do evento — influencia a recuperação funcional ou reduz complicações pós-procedimento. Até lá, os dados reforçam a necessidade de cautela na extrapolação dos benefícios cardiovasculares dos GLP-1As para o contexto agudo do AVCi.\n\n---\n\n**English version**\n\nLandmark study examines GLP-1 receptor agonists’ impact on outcomes after endovascular thrombectomy for acute ischemic stroke\n\nA recent study published in the *Journal of Clinical Neuroscience* assessed whether prior use of glucagon-like peptide-1 receptor agonists (GLP-1As) improves clinical outcomes in patients with acute ischemic stroke (AIS) undergoing endovascular thrombectomy (EVT). The analysis, which included data from over 1,200 patients across 52 U.S. medical centers, found no significant difference in three-year all-cause mortality or inpatient hospitalization rates between those who had used GLP-1As within three months prior to the procedure and those who had not.\n\nThe findings, derived from a retrospective cohort study using propensity score matching—a method that reduces bias by comparing similar baseline characteristics—suggest that while GLP-1As have shown cardiovascular benefits in high-risk populations, their role in EVT-treated patients remains unclear. The authors note that the lack of observed effects may be due to the short exposure window evaluated (three months prior to stroke) or the inherent severity of cases referred for thrombectomy, which often involve severe comorbidities and compromised prognoses.\n\nDespite the limitations of a retrospective design and the inability to control for unmeasured variables such as adherence to GLP-1A therapy, the study paves the way for prospective research exploring longer exposure periods or stratifying results by AIS subtypes. The researchers also propose that future randomized clinical trials could clarify whether initiating GLP-1As early after EVT—and not just before the event—affects functional recovery or reduces post-procedural complications. Until then, the data underscore the need for caution in extrapolating GLP-1As’ cardiovascular benefits to the acute AIS setting.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42217849",
-    "authors": [
-      {
-        "name": "Pranjal Rai",
-        "affiliation": "Department of Radiology, Mayo Clinic, Rochester, MN, USA. Electronic address: rai.pranjal@mayo.edu."
-      },
-      {
-        "name": "Girish Bathla",
-        "affiliation": "Department of Radiology, Mayo Clinic, Rochester, MN, USA. Electronic address: bathla.girish@mayo.edu."
-      },
-      {
-        "name": "Niharika Praveen",
-        "affiliation": "Department of Radiology, Mayo Clinic, Rochester, MN, USA. Electronic address: niharika.praveen@outlook.com."
-      },
-      {
-        "name": "Jay Kakadiya",
-        "affiliation": "Department of Radiology and Radiological Sciences, Johns Hopkins Medical Center, Baltimore, MD, USA. Electronic address: jaykakadiya07@gmail.com."
-      }
-    ],
-    "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
-    "publishedDate": "2026-06-10",
-    "fetchedDate": "2026-06-11",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "stroke",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
