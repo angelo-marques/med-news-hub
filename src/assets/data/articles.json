@@ -1,5 +1,85 @@
 [
   {
+    "id": "pubmed-42669307",
+    "pmid": "42669307",
+    "doi": "10.1016/S0140-6736(26)01558-8",
+    "title": "Catheter ablation for symptomatic atrial fibrillation (PVI-SHAM-AF): a randomised, double-blind, sham-controlled, multicentre trial.",
+    "titlePt": "Catheter ablation for symptomatic atrial fibrillation (PVI-SHAM-AF): a randomised, double-blind, sham-controlled, multicentre trial.",
+    "abstract": "Guidelines recommend catheter ablation for symptom relief in patients with atrial fibrillation. The aim of this trial was to ascertain whether catheter ablation improves atrial fibrillation-related quality of life more than a sham procedure. PVI-SHAM-AF was a double-blind, multicentre, randomised trial conducted at nine study sites in Germany and Poland. Patients aged 18 years or older with symptomatic paroxysmal or persistent atrial fibrillation were randomly assigned in a 2:1 ratio to catheter ablation or a sham procedure using an automated online randomisation system with variable block sizes, stratified by trial site. The primary endpoint was the between-group difference in change from baseline to 6 months in the Atrial Fibrillation Effect on the Quality-of-life Questionnaire (AFEQT) summary score. The prespecified primary analysis was done in the intention-to-treat population and included all randomly assigned patients, with missing data handled by multiple imputation. This trial ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669307",
+    "authors": [
+      {
+        "name": "Rolf Wachter",
+        "affiliation": "Department of Cardiology, University Hospital Leipzig, Leipzig, Germany. Electronic address: rolf.wachter@medizin.uni-leipzig.de."
+      },
+      {
+        "name": "Patrick Haag",
+        "affiliation": "Department of Electrophysiology, Heart Centre Leipzig, Leipzig University, Leipzig, Germany."
+      },
+      {
+        "name": "Tobias Uhe",
+        "affiliation": "Department of Cardiology, University Hospital Leipzig, Leipzig, Germany."
+      },
+      {
+        "name": "Miroslav Bacak",
+        "affiliation": "Clinical Trial Centre ZKS Leipzig, Leipzig University, Leipzig, Germany."
+      }
+    ],
+    "journal": "Lancet (London, England)",
+    "publishedDate": "2026-09-10",
+    "fetchedDate": "2026-09-11",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozp9fzw-2kFHot-a3946378cf4c8ad4\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42722542",
+    "pmid": "42722542",
+    "doi": "10.1016/j.hlc.2026.04.125",
+    "title": "Pulsed Field Ablation for Atrial Fibrillation in Australia: A Large Tertiary Centre Analysis.",
+    "titlePt": "Pulsed Field Ablation for Atrial Fibrillation in Australia: A Large Tertiary Centre Analysis.",
+    "abstract": "Pulsed field ablation (PFA) is increasingly used for catheter ablation of atrial fibrillation (AF). Limited real-world data exists regarding safety and efficacy of PFA in Australia. We conducted a retrospective analysis of consecutive patients undergoing de novo PFA for paroxysmal or persistent AF at a large tertiary centre using a pentaspline catheter (FARAPULSE, Boston Scientific) from 2022 to 2025. Baseline demographics, procedural characteristics, procedural complications, clinical outcomes and repeat procedures were collected. Arrhythmia recurrence was defined as &gt;30 seconds of AF, atrial flutter or atrial tachycardia at follow-up with no blanking period. Overall, 564 consecutive patients (median age 64 years, 35% female) underwent de novo PFA for AF during the study period. Most patients had paroxysmal AF (63%). Pulmonary vein (PV) isolation was performed in 563 of 564 patients; posterior wall (PW) isolation was performed in 41% and superior vena cava ablation in 3%. Median to",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42722542",
+    "authors": [
+      {
+        "name": "Francis J Ha",
+        "affiliation": "Victorian Heart Institute and Victorian Heart Hospital, Monash University, Clayton, Vic, Australia. Electronic address: francis.j.ha@gmail.com."
+      },
+      {
+        "name": "Duron Prinsloo",
+        "affiliation": "Victorian Heart Institute and Victorian Heart Hospital, Monash University, Clayton, Vic, Australia."
+      },
+      {
+        "name": "Edwin Xu",
+        "affiliation": "Victorian Heart Institute and Victorian Heart Hospital, Monash University, Clayton, Vic, Australia."
+      },
+      {
+        "name": "Hui Chen Han",
+        "affiliation": "Victorian Heart Institute and Victorian Heart Hospital, Monash University, Clayton, Vic, Australia."
+      }
+    ],
+    "journal": "Heart, lung &amp; circulation",
+    "publishedDate": "2026-09-10",
+    "fetchedDate": "2026-09-11",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozp9icB-2kFHot-a39463afbcaa6d41\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42716687",
     "pmid": "42716687",
     "doi": "10.1136/bmjopen-2026-118786",
@@ -12595,91 +12675,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42267001",
-    "pmid": "42267001",
-    "doi": "10.1016/j.atssr.2025.10.010",
-    "title": "Initial Experience of Non-Atriotomy Surgical Ablation During Coronary Artery Bypass Grafting With Preexisting Atrial Fibrillation: A Multicenter Study.",
-    "titlePt": "Initial Experience of Non-Atriotomy Surgical Ablation During Coronary Artery Bypass Grafting With Preexisting Atrial Fibrillation: A Multicenter Study.",
-    "abstract": "Guideline concordance with surgical ablation in patients undergoing isolated coronary artery bypass grafting (CABG) is poor. Additional atriotomy and safety concerns are barriers to ablation. We sought to evaluate the initial safety and associated rhythm outcomes of a novel non-atriotomy surgical ablation (NASA) left atrial box lesion in patients undergoing isolated CABG. A multicenter retrospective review included all concomitant NASA in patients with preexisting atrial fibrillation undergoing isolated CABG. The primary outcome was NASA-related intraoperative complications. Associated rhythm outcomes were per the Heart Rhythm Society definition of freedom from atrial fibrillation, atrial flutter, and atrial tachycardia (FFAF) &lt;30 seconds at 12 months off class I or III antiarrhythmic medications by &gt;24-hour continuous monitoring. Data are reported as median (interquartile range). Ninety-seven patients were analyzed. The median age was 73 (68-76) years; CHA2DS2-Vasc score, 4.0 (3",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo multicêntrico retrospectivo publicado recentemente na *Annals of Thoracic Surgery Reports* (DOI: 10.1016/j.atssr.2025.10.010) investigou a segurança e eficácia de uma técnica inovadora de ablação cirúrgica não atriotomia (NASA) em pacientes com fibrilação atrial prévia submetidos a revascularização miocárdica isolada (CABG). A abordagem propõe a criação de uma lesão em \"caixa\" no átrio esquerdo sem necessidade de incisão adicional (atriotomia), um procedimento que historicamente é evitado devido a preocupações com segurança e complexidade técnica.\n\nDos 97 pacientes analisados — com mediana de idade de 73 anos (IIQ: 68-76) e escore CHA2DS2-VASc de 4,0 (IIQ: 3-5) —, nenhum apresentou complicações intraoperatórias relacionadas à NASA. Entre os desfechos avaliados, destaca-se a liberdade de fibrilação atrial, flutter ou taquicardia atrial (<30 segundos) em 12 meses, sem uso de antiarrítmicos classe I ou III, conforme critérios da *Heart Rhythm Society*, entretanto, os dados específicos sobre a taxa de sucesso não foram informados no resumo original. A ausência de atriotomia pode reduzir riscos cirúrgicos e otimizar o tempo de procedimento, embora limitações como viés de seleção retrospectivo e ausência de grupo controle impeçam generalizações definitivas.\n\nOs resultados sugerem que a técnica NASA pode ser uma alternativa viável para pacientes com fibrilação atrial concomitante ao CABG, especialmente aqueles com alto risco cirúrgico. No entanto, são necessários estudos prospectivos randomizados com amostras maiores e avaliação padronizada de desfechos para confirmar esses achados preliminares e definir protocolos de implementação clínica.\n\n---\n\n**English version**\n\nA multicenter retrospective study published in *Annals of Thoracic Surgery Reports* (DOI: 10.1016/j.atssr.2025.10.010) evaluated the safety and efficacy of a novel non-atriotomy surgical ablation (NASA) technique in patients with preexisting atrial fibrillation undergoing isolated coronary artery bypass grafting (CABG). The approach involves creating a \"box\" lesion in the left atrium without additional atriotomy, a procedure historically avoided due to safety concerns and technical complexity.\n\nAmong 97 patients analyzed—median age 73 years (IQR: 68-76) and CHA2DS2-VASc score of 4.0 (IQR: 3-5)—no intraoperative complications related to NASA were reported. The primary rhythm outcome assessed was freedom from atrial fibrillation, flutter, or atrial tachycardia (<30 seconds) at 12 months off class I or III antiarrhythmic drugs, per *Heart Rhythm Society* criteria, though specific success rates were not provided in the abstract. Avoiding atriotomy may reduce surgical risks and procedural time, but limitations such as retrospective selection bias and lack of a control group preclude definitive conclusions.\n\nThe findings suggest NASA may be a viable option for patients with atrial fibrillation undergoing CABG, particularly those at high surgical risk. However, prospective randomized trials with larger cohorts and standardized outcome assessments are needed to validate these preliminary results and establish clinical implementation protocols.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42267001",
-    "authors": [
-      {
-        "name": "Armin Kiankhooy",
-        "affiliation": "Department of Cardiac Surgery, Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, California."
-      },
-      {
-        "name": "Gregory Rushing",
-        "affiliation": "Department of Cardiac Surgery, The Heart Surgery Center of University Hospitals Harrington Heart &amp; Vascular Institute, Cleveland, Ohio."
-      },
-      {
-        "name": "Marc Pelletier",
-        "affiliation": "Department of Cardiac Surgery, Yale School of Medicine, New Haven, Connecticut."
-      },
-      {
-        "name": "J Hunter Mehaffey",
-        "affiliation": "Department of Cardiovascular and Thoracic Surgery, West Virginia University, Morgantown, West Virginia."
-      }
-    ],
-    "journal": "Annals of thoracic surgery short reports",
-    "publishedDate": "2026-06-10",
-    "fetchedDate": "2026-06-10",
-    "category": "Cardiologia",
-    "tags": [
-      "heart",
-      "atrial",
-      "coronary"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42267436",
-    "pmid": "42267436",
-    "doi": "10.1161/STROKEAHA.126.054857",
-    "title": "Remote Ischemic Postconditioning in Endovascular Thrombectomy for Stroke: The EnTRIPS Randomized Clinical Trial.",
-    "titlePt": "Remote Ischemic Postconditioning in Endovascular Thrombectomy for Stroke: The EnTRIPS Randomized Clinical Trial.",
-    "abstract": "Although the neuroprotective potential of remote ischemic postconditioning (RIPC) has been reported, the efficacy and safety of ultra-early RIPC administered after endovascular treatment (EVT) in patients with acute ischemic stroke remain unclear. This study evaluated the efficacy and safety of ultra-early RIPC in patients with acute ischemic stroke undergoing EVT. The EnTRIPS trial (Endovascular Treatment Combined with Remote Ischemic Postconditioning in Patients with Acute Ischemic Stroke) was a multicenter, randomized, controlled, outcome assessor-blinded, prospective clinical trial. The trial was conducted at 8 hospitals in China between April 12, 2021, and March 26, 2025. Eligible patients were adults with acute ischemic stroke due to large vessel occlusion who presented within 24 hours of symptom onset, underwent EVT, and achieved successful recanalization. A total of 270 eligible patients were randomized within 6 hours after EVT to receive either RIPC plus guideline-based therap",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm ensaio clínico randomizado recentemente publicado no *Journal of the American Heart Association* investiga se a aplicação precoce de condicionamento isquêmico remoto pós-reperfusão (RIPC) pode melhorar desfechos neurológicos em pacientes submetidos à trombectomia endovascular (EVT) por acidente vascular cerebral isquêmico (AVCi) agudo. O estudo *EnTRIPS* (Endovascular Treatment Combined with Remote Ischemic Postconditioning in Patients with Acute Ischemic Stroke) avaliou a eficácia e segurança de ciclos intermitentes de isquemia-reperfusão em membros superiores, iniciados dentro de 6 horas após a recanalização bem-sucedida, em uma população de 270 adultos com oclusão de vaso cerebral de grande calibre. Os resultados, obtidos em oito hospitais chineses entre 2021 e 2025, sugerem que a estratégia não reduziu significativamente a incapacidade funcional medida pela escala *modified Rankin* (mRS) aos 90 dias, quando comparada ao tratamento padrão isolado. Embora a incidência de eventos adversos graves tenha sido semelhante entre os grupos, o estudo não reportou diferenças estatisticamente significantes em desfechos secundários, como recorrência de AVC ou mortalidade. Os autores destacam a necessidade de pesquisas futuras para explorar subgrupos específicos, como pacientes com maior extensão da lesão pré-reperfusão ou aqueles tratados com janelas terapêuticas mais estreitas. Limitações incluem a ausência de estratificação por gravidade inicial do AVC e a realização em um único país, o que pode restringir a generalização dos achados. O trabalho reforça a importância de estratégias adjuvantes na fase hiperaguda do AVCi, mas indica que o RIPC, pelo menos na forma testada, não se mostrou uma intervenção transformadora no contexto avaliado.\n\n---\n\n**English version**\n\nA recent randomized clinical trial published in the *Journal of the American Heart Association* examined whether ultra-early remote ischemic postconditioning (RIPC) could enhance neurological outcomes in patients undergoing endovascular thrombectomy (EVT) for acute ischemic stroke (AIS). The *EnTRIPS* trial (*Endovascular Treatment Combined with Remote Ischemic Postconditioning in Patients with Acute Ischemic Stroke*) assessed the efficacy and safety of intermittent upper-limb ischemia-reperfusion cycles initiated within 6 hours of successful recanalization in 270 adults with large-vessel occlusion. Conducted across eight hospitals in China between 2021 and 2025, the study found no significant reduction in functional disability—measured by the *modified Rankin scale (mRS)* at 90 days—when RIPC was added to standard care. Adverse event rates were comparable between groups, and no statistically significant differences were observed in secondary outcomes, including stroke recurrence or mortality. The authors emphasize the need for further research to explore potential benefits in subgroups, such as patients with extensive pre-reperfusion injury or those treated within narrower therapeutic windows. Key limitations include the lack of stratification by initial stroke severity and the trial’s single-country setting, which may constrain generalizability. While the study underscores the ongoing search for adjunctive neuroprotective strategies in the hyperacute phase of AIS, it suggests that RIPC, as administered in this protocol, did not yield a transformative clinical impact.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42267436",
-    "authors": [
-      {
-        "name": "Yawen Cheng",
-        "affiliation": "Department of Neurology, The First Affiliated Hospital of Xi'an Jiaotong University, China. (Y.C., W.C., X.H., J.Y., M.W., Y.Q., Y.Z., C.C., W.M., Y.W., S.C., F.L., J.H., G. Luo)."
-      },
-      {
-        "name": "Wanying Chen",
-        "affiliation": "Department of Neurology, The First Affiliated Hospital of Xi'an Jiaotong University, China. (Y.C., W.C., X.H., J.Y., M.W., Y.Q., Y.Z., C.C., W.M., Y.W., S.C., F.L., J.H., G. Luo)."
-      },
-      {
-        "name": "Mingze Chang",
-        "affiliation": "The Affiliated Hospital of Northwest University, Xi'an No.3 Hospital, China (M.C.)."
-      },
-      {
-        "name": "Xiangning Han",
-        "affiliation": "Department of Neurology, The First Affiliated Hospital of Xi'an Jiaotong University, China. (Y.C., W.C., X.H., J.Y., M.W., Y.Q., Y.Z., C.C., W.M., Y.W., S.C., F.L., J.H., G. Luo)."
-      }
-    ],
-    "journal": "Stroke",
-    "publishedDate": "2026-06-10",
-    "fetchedDate": "2026-06-10",
-    "category": "Neurologia",
-    "tags": [
-      "stroke",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
