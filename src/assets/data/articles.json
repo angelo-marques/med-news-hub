@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42724964",
+    "pmid": "42724964",
+    "doi": "10.1016/j.resplu.2026.101466",
+    "title": "Neurofilament light chain for assessment of brain injury in four porcine cardiac arrest models.",
+    "titlePt": "Neurofilament light chain for assessment of brain injury in four porcine cardiac arrest models.",
+    "abstract": "Anoxic brain injury is the leading cause of death following successful resuscitation after out-of-hospital cardiac arrest. No experimental neuroprotective therapy has translated into clinical benefit. Collaborative efforts to harmonize methods may be essential for translational success. Neurofilament light chain (NfL) is a biomarker of neuroaxonal injury with emerging use in clinical practice, but data on its robustness and association with outcomes in porcine models is limited. Our aim was to use NfL as a quantitative marker to compare brain injury severity in different porcine cardiac arrest models. Forty-four pigs (Sus scrofa domestica) were resuscitated after cardiac arrest in different experimental models in four laboratories. Plasma samples were collected prior to the arrest and at 4 and 24&#xa0;h after return of spontaneous circulation. NfL concentration was measured using a Single molecule array (Simoa) immunoassay. NfL levels changed significantly over time (p&#xa0;&lt;&#xa0;0",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42724964",
+    "authors": [
+      {
+        "name": "Olof Persson",
+        "affiliation": "Department of Clinical Sciences, Anesthesiology and Intensive Care, Lund University, Lund, Sweden."
+      },
+      {
+        "name": "Attila Frigyesi",
+        "affiliation": "Department of Intensive and Perioperative Care, Sk&#xe5;ne University Hospital, Lund, Sweden."
+      },
+      {
+        "name": "Anna Valerianova",
+        "affiliation": "Department of Clinical Sciences, Anesthesiology and Intensive Care, Lund University, Lund, Sweden."
+      },
+      {
+        "name": "Mikul&#xe1;&#x161; Ml&#x10d;ek",
+        "affiliation": "Department of Intensive and Perioperative Care, Sk&#xe5;ne University Hospital, Lund, Sweden."
+      }
+    ],
+    "journal": "Resuscitation plus",
+    "publishedDate": "2026-09-11",
+    "fetchedDate": "2026-09-11",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "brain"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozuAruX-2kFHot-a399ce8968ab9614\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42723627",
     "pmid": "42723627",
     "doi": "10.1002/mds.70495",
@@ -12637,49 +12678,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42269861",
-    "pmid": "42269861",
-    "doi": "10.1016/j.jjcc.2026.06.004",
-    "title": "Does early catheter ablation (&lt;1&#x202f;year) reduce atrial fibrillation recurrence compared with delayed ablation: A systematic review and Meta-analysis.",
-    "titlePt": "Does early catheter ablation (&lt;1&#x202f;year) reduce atrial fibrillation recurrence compared with delayed ablation: A systematic review and Meta-analysis.",
-    "abstract": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide. Catheter ablation (CA) is an effective therapy for symptomatic AF. Emerging evidence indicates that early CA may attenuate disease progression and reduce major adverse cardiovascular and cerebrovascular events (MACCE). There is a lack of high-quality pooled data comparing clinical outcomes of early versus delayed CA using a standardized diagnosis-to-ablation time. This meta-analysis evaluates whether early CA (&lt;12&#x202f;months) versus delayed CA (&gt;12&#x202f;months) after AF diagnosis is linked to differences in clinical outcomes, including AF/atrial arrhythmia recurrence, mortality, AF-related hospitalization, and MACCE. A systematic literature search of PubMed, EMBASE, Scopus and the Cochrane Central Register of Controlled Trials and observational cohort studies until December 1, 2025, was conducted. The primary outcome was AF recurrence. A total of 10 studies including 22,748 patients were analyzed. For ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nEstudo recente publicado no *Journal of the Japanese College of Cardiology* (DOI: 10.1016/j.jjcc.2026.06.004) investiga se a realização de ablação por cateter em até 12 meses após o diagnóstico de fibrilação atrial (FA) reduz a recorrência da arritmia em comparação com procedimentos realizados após esse período. A FA, condição cardíaca mais comum em todo o mundo, afeta milhões de pessoas e está associada a maior risco de eventos cardiovasculares e cerebrovasculares adversos (MACCE). Embora a ablação por cateter seja reconhecida como terapia eficaz para FA sintomática, ainda não havia consenso sobre o impacto do timing do procedimento nos desfechos clínicos.\n\nOs pesquisadores realizaram uma revisão sistemática e meta-análise de estudos observacionais e ensaios clínicos controlados publicados até dezembro de 2025, incluindo dados de mais de 22 mil pacientes. Os resultados indicam que a ablação precoce (<12 meses do diagnóstico) está associada a uma redução significativa na recorrência de FA ou outras arritmias atriais em comparação com a abordagem tardia. Além disso, houve tendência de menor frequência de hospitalizações relacionadas à FA e eventos MACCE no grupo de ablação precoce, embora a mortalidade não tenha apresentado diferença estatística entre os grupos.\n\nApesar dos achados promissores, os autores destacam limitações importantes. A maioria dos estudos incluídos foi observacional, o que pode introduzir viés de seleção. Além disso, não foi definido um padrão único para o intervalo \"precoce\" versus \"tardio\", e a heterogeneidade clínica entre os estudos pode ter influenciado os resultados. A ausência de randomização limita a causalidade, e dados sobre terapias farmacológicas concomitantes não foram uniformemente reportados. Pesquisas futuras com desenhos prospectivos e randomizados são necessárias para confirmar esses achados e avaliar o custo-efetividade da estratégia de ablação precoce em diferentes populações.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of the Japanese College of Cardiology* (DOI: 10.1016/j.jjcc.2026.06.004) examines whether catheter ablation performed within 12 months of atrial fibrillation (AF) diagnosis reduces arrhythmia recurrence compared to procedures performed after this period. AF, the most prevalent cardiac arrhythmia worldwide, affects millions and is linked to increased risks of major adverse cardiovascular and cerebrovascular events (MACCE). While catheter ablation is an established therapy for symptomatic AF, the optimal timing for intervention has remained uncertain.\n\nResearchers conducted a systematic review and meta-analysis of observational studies and controlled trials published up to December 2025, encompassing data from over 22,000 patients. Findings suggest that early ablation (<12 months from diagnosis) is associated with a significant reduction in AF or atrial arrhythmia recurrence compared to delayed ablation. A trend toward fewer AF-related hospitalizations and MACCE events was also observed in the early ablation group, though no statistically significant difference in mortality was detected between the two approaches.\n\nThe authors acknowledge key limitations. Most included studies were observational, potentially introducing selection bias. Additionally, the lack of a standardized definition for \"early\" versus \"delayed\" ablation intervals and clinical heterogeneity among studies may have influenced outcomes. The absence of randomization further restricts causal inference, and data on concurrent pharmacological therapies were inconsistently reported. Future prospective, randomized trials are needed to validate these findings and assess the cost-effectiveness of early ablation strategies across diverse patient populations.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42269861",
-    "authors": [
-      {
-        "name": "Daniel Bradach",
-        "affiliation": "St. George's University School of Medicine, University Centre, Grenada. Electronic address: dbradach@sgu.edu."
-      },
-      {
-        "name": "Srilakshmi Ajith",
-        "affiliation": "University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK."
-      },
-      {
-        "name": "Thuslim Sheik",
-        "affiliation": "Gulf Medical University, Ajman, United Arab Emirates."
-      },
-      {
-        "name": "Syed Ateeba Qadri",
-        "affiliation": "Bangladesh Medical College, Dhaka, Bangladesh."
-      }
-    ],
-    "journal": "Journal of cardiology",
-    "publishedDate": "2026-06-10",
-    "fetchedDate": "2026-06-11",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiac",
-      "cardiovascular",
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
