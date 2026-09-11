@@ -9669,6 +9669,48 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42271067",
+    "pmid": "42271067",
+    "doi": "10.1007/s00210-026-05510-7",
+    "title": "Repurposing doxycycline as an adjunct to sitagliptin in type 2 diabetes mellitus: a randomized controlled study on glycemic, inflammatory, and cardiometabolic outcomes.",
+    "titlePt": "Repurposing doxycycline as an adjunct to sitagliptin in type 2 diabetes mellitus: a randomized controlled study on glycemic, inflammatory, and cardiometabolic outcomes.",
+    "abstract": "Type 2 diabetes mellitus (T2DM) is characterized by insulin resistance, &#x3b2;-cell dysfunction, and chronic low-grade inflammation. Doxycycline exhibits anti-inflammatory properties, suggesting potential benefit as an adjunctive therapy in T2DM.&#xa0;To evaluate the efficacy and safety of adjunctive doxycycline in patients with T2DM receiving sitagliptin.&#xa0;In this randomized controlled trial, 57 patients with T2DM were assigned to receive sitagliptin alone (n&#x2009;=&#x2009;29) or sitagliptin plus doxycycline (n&#x2009;=&#x2009;28) for 12 weeks. Glycemic indices, insulin sensitivity measures, lipid profile, cardiometabolic risk indices, and inflammatory markers were assessed before and after treatment. Parametric outcomes were analyzed using analysis of covariance (ANCOVA) adjusted for baseline values, while non-parametric biomarkers were analyzed using Hodges-Lehmann estimators. Multivariable linear regression identified independent determinant of treatment response. Between-gr",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42271067",
+    "authors": [
+      {
+        "name": "Eman El-Khateeb",
+        "affiliation": "Clinical Pharmacy Department, Faculty of Pharmacy, Tanta University, Tanta, Egypt."
+      },
+      {
+        "name": "Mohannad O Khrieba",
+        "affiliation": "Pharmacy Practice Department, Faculty of Pharmacy, Horus University, New Damietta, Egypt."
+      },
+      {
+        "name": "Amal Mohammad Badawoud",
+        "affiliation": "Pharmacy Practice Department, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt."
+      },
+      {
+        "name": "Ahmed A Morsy",
+        "affiliation": "Department of Pharmacy Practice, College of Pharmacy, Princess Nourah bint Abdulrahman University, Riyadh, 11671, Saudi Arabia. ambadawoud@pnu.edu.sa."
+      }
+    ],
+    "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+    "publishedDate": "2026-07-05",
+    "fetchedDate": "2026-09-11",
+    "category": "Endocrinologia",
+    "tags": [
+      "diabetes",
+      "insulin",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozqmnAu-2kFHot-a39623beacc82cac\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42402265",
     "pmid": "42402265",
     "doi": "10.1016/j.jhep.2026.06.025",
@@ -12637,43 +12679,6 @@
     ],
     "isHighlight": false,
     "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42143884",
-    "pmid": "42143884",
-    "doi": "10.1016/j.jocn.2026.112099",
-    "title": "Temperature management in malignant infarction requiring decompressive craniectomy: real-world experience and hemorrhagic outcomes.",
-    "titlePt": "Temperature management in malignant infarction requiring decompressive craniectomy: real-world experience and hemorrhagic outcomes.",
-    "abstract": "Targeted temperature management (TTM) is commonly used in patients with acute brain injury for multiple indications, including control of cerebral edema, intracranial pressure, and fever. However, its use in patients with malignant infarction requiring decompressive craniectomy remains controversial due to concerns regarding hemorrhagic complications. We aimed to evaluate real-world patterns of TTM and its association with hemorrhagic outcomes in this high-risk population. We conducted a retrospective observational study of consecutive patients with anterior circulation infarction who underwent decompressive craniectomy at a single tertiary referral center between 2011 and 2025. Patients were divided into TTM and non-TTM groups. The primary outcome was the occurrence of parenchymal hematoma type 2 (PH2). Secondary outcomes included any hemorrhagic transformation (HT) and in-hospital mortality. Temporal relationships between HT, decompressive craniectomy, and TTM were also assessed. A t",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo publicado na *Journal of Clinical Neuroscience* investigou o impacto do controle seletivo de temperatura (TTM) em pacientes com infarto cerebral maligno submetidos a craniectomia descompressiva, um grupo de alto risco para complicações hemorrágicas. A pesquisa, conduzida em um centro terciário de referência entre 2011 e 2025, analisou 14 anos de dados de pacientes com infarto de circulação anterior que necessitaram do procedimento cirúrgico. Os resultados lançam luz sobre uma prática ainda controversa na neurointensivismo, especialmente quanto ao risco de transformação hemorrágica após o uso de TTM.\n\nDe acordo com os achados, os pesquisadores compararam dois grupos: pacientes que receberam TTM (controle seletivo de temperatura) e aqueles que não receberam a intervenção. O desfecho primário avaliado foi a ocorrência de hematoma parenquimatoso tipo 2 (PH2), enquanto os secundários incluíram qualquer transformação hemorrágica (HT) e mortalidade hospitalar. A análise também investigou a relação temporal entre a hemorragia, a craniectomia descompressiva e a aplicação do TTM. Embora o estudo não tenha detalhado os protocolos específicos de temperatura ou critérios de inclusão/exclusão no resumo disponível, os autores destacam que o TTM não foi associado a um aumento significativo de PH2 ou HT em comparação ao grupo controle, sugerindo um perfil de segurança aceitável para essa população crítica.\n\nDo ponto de vista clínico, os resultados são relevantes, pois a craniectomia descompressiva é frequentemente realizada em casos de edema cerebral grave decorrente de infartos extensos, uma condição associada a alta mortalidade e morbidade. O uso de TTM poderia, teoricamente, agravar o risco de sangramento em tecidos já comprometidos pela isquemia, mas os dados preliminares do estudo indicam que o manejo térmico não piorou os desfechos hemorrágicos. No entanto, é importante ressaltar que se trata de um estudo observacional retrospectivo, o que limita a capacidade de estabelecer causalidade. Além disso, a ausência de randomização e o viés de seleção inerente a desenhos retrospectivos exigem cautela na interpretação dos achados.\n\nOs próximos passos sugeridos pelos autores incluem a realização de ensaios clínicos randomizados para validar esses achados em uma população mais ampla e diversificada, bem como a exploração de protocolos otimizados de TTM que possam equilibrar o controle da pressão intracraniana e o risco hemorrágico. Até lá, a decisão de implementar TTM em pacientes com infarto cerebral maligno submetidos a craniectomia descompressiva deve ser individualizada, considerando os riscos e benefícios de forma multidisciplinar.\n\n---\n\n**English version**\n\nA retrospective study published in the *Journal of Clinical Neuroscience* examined the impact of targeted temperature management (TTM) in patients with malignant cerebral infarction undergoing decompressive craniectomy, a high-risk group for hemorrhagic complications. The research, conducted at a single tertiary referral center between 2011 and 2025, analyzed 14 years of data from patients with anterior circulation infarction requiring surgical intervention. The findings provide insights into a still controversial practice in neurocritical care, particularly regarding the risk of hemorrhagic transformation following TTM use.\n\nAccording to the results, researchers compared two groups: patients who received TTM and those who did not. The primary outcome was the occurrence of parenchymal hematoma type 2 (PH2), while secondary outcomes included any hemorrhagic transformation (HT) and in-hospital mortality. The analysis also assessed the temporal relationship between hemorrhage, decompressive craniectomy, and TTM application. Although the study did not specify temperature protocols or inclusion/exclusion criteria in the available abstract, the authors highlight that TTM was not significantly associated with an increased risk of PH2 or HT compared to the control group, suggesting an acceptable safety profile for this critical population.\n\nFrom a clinical perspective, the findings are significant, as decompressive craniectomy is often performed in cases of severe cerebral edema resulting from extensive infarcts—a condition associated with high mortality and morbidity. While TTM could theoretically exacerbate bleeding risk in already compromised ischemic tissues, preliminary data from the study indicate that temperature management did not worsen hemorrhagic outcomes. However, it is important to note that this is a retrospective observational study, limiting the ability to establish causality. Additionally, the lack of randomization and inherent selection bias in retrospective designs warrant caution in interpreting the findings.\n\nThe authors suggest that future steps include conducting randomized clinical trials to validate these findings in a broader and more diverse population, as well as exploring optimized TTM protocols that balance intracranial pressure control and hemorrhagic risk. Until then, the decision to implement TTM in patients with malignant cerebral infarction undergoing decompressive craniectomy should be individualized, weighing risks and benefits in a multidisciplinary approach.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42143884",
-    "authors": [
-      {
-        "name": "Young Ju Lee",
-        "affiliation": "Department of Neurosurgery, Ajou University School of Medicine, Suwon, South Korea."
-      },
-      {
-        "name": "Jihye Song",
-        "affiliation": "Department of Neurosurgery, Ajou University School of Medicine, Suwon, South Korea."
-      },
-      {
-        "name": "Yong Cheol Lim",
-        "affiliation": "Department of Neurosurgery, Ajou University School of Medicine, Suwon, South Korea. Electronic address: earthlim@aumc.ac.kr."
-      }
-    ],
-    "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
-    "publishedDate": "2026-06-10",
-    "fetchedDate": "2026-06-11",
-    "category": "Neurologia",
-    "tags": [
-      "brain"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
