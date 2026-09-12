@@ -12290,6 +12290,47 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42219066",
+    "pmid": "42219066",
+    "doi": "10.1016/j.jep.2026.121928",
+    "title": "A systematic review and meta-analysis of randomized controlled trials on the efficacy of Shensong Yangxin capsule for recurrence of atrial fibrillation after catheter ablation.",
+    "titlePt": "A systematic review and meta-analysis of randomized controlled trials on the efficacy of Shensong Yangxin capsule for recurrence of atrial fibrillation after catheter ablation.",
+    "abstract": "Shensong Yangxin (SSYX) capsule, a well-known Chinese patent medicine, is widely applied in the treatment of atrial fibrillation (AF). To determine the efficacy and safety of SSYX as adjunctive therapy on recurrence after ablation in AF patients. A systematic search was conducted across eight databases to identify randomized controlled trials (RCTs) involving SSYX therapy after first AF ablation until 1st July 2025. The primary outcome was AF recurrence, and safety endpoint was also examined. The quality of evidence was assessed using the GRADE framework. The protocol was prospectively registered on PROSPERO (CRD420251012453). Nine studies comprising 2199 patients were included. Anti-arrhythmic drugs (AADs) plus SSYX reduced early recurrence by 45% (RR 0.55, 95% CI: 0.42 to 0.71, P&#x202f;&lt;&#x202f;0.001; I2&#x202f;=&#x202f;0%) in overall AF populations, and late recurrence by 38% (RR 0.62, 95% CI: 0.47 to 0.81, P&#x202f;&lt;&#x202f;0.001; I2&#x202f;=&#x202f;0%) in persistent AF. Mor",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42219066",
+    "authors": [
+      {
+        "name": "Tianshi Mao",
+        "affiliation": "Department of Cardiology, Dongzhimen Hospital, Beijing University of Chinese Medicine, No. 5 Hai Yun Cang, Dongcheng District, Beijing, 100700, China."
+      },
+      {
+        "name": "Yuxuan Li",
+        "affiliation": "Department of Cardiology, Dongzhimen Hospital, Beijing University of Chinese Medicine, No. 5 Hai Yun Cang, Dongcheng District, Beijing, 100700, China."
+      },
+      {
+        "name": "Jie Chen",
+        "affiliation": "Department of Integrated Traditional Chinese and Western Medicine, The First Affiliated Hospital of Anhui Medical University, Hefei, 230032, China."
+      },
+      {
+        "name": "Xinyan Qu",
+        "affiliation": "Department of Cardiology, Dongzhimen Hospital, Beijing University of Chinese Medicine, No. 5 Hai Yun Cang, Dongcheng District, Beijing, 100700, China."
+      }
+    ],
+    "journal": "Journal of ethnopharmacology",
+    "publishedDate": "2026-06-12",
+    "fetchedDate": "2026-09-12",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial",
+      "drug"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p11Da3Q-2kFHot-a3a05522ab329814\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42190636",
     "pmid": "42190636",
     "doi": "10.1016/j.ajem.2026.05.031",
@@ -12626,49 +12667,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41615824",
-    "pmid": "41615824",
-    "doi": "10.1080/07853890.2026.2622208",
-    "title": "Combined B-vitamin supplementation on homocysteine and vascular outcomes in coronary heart disease: a meta-analysis.",
-    "titlePt": "Combined B-vitamin supplementation on homocysteine and vascular outcomes in coronary heart disease: a meta-analysis.",
-    "abstract": "Hyperhomocysteinemia (Hcy) independently predicts coronary heart disease (CHD) and adverse cardiovascular events. Although folic acid plays a key role in Hcy metabolism, the effect of combined B-vitamin supplementation (folic acid, VB6, and VB12) on clinical outcomes in CHD remains uncertain. A systematic search of PubMed, Embase, and the Cochrane Library was conducted from inception through April 2025 using MeSH terms including \"folic acid,\" \"vitamin B6,\" \"vitamin B12,\" \"coronary heart disease,\" and \"homocysteine.\" A random-effects model was used for meta-analysis. Thirteen studies involving 14,539 participants were included in the meta-analysis (7,338 patients treated with folic acid combined with vitamin B complex and 7,301 controls). Combined B-vitamin supplementation significantly reduced serum Hcy levels [mean difference: -2.36; 95% confidence interval (CI): (-3.09 to -1.62); p&#x2009;&lt;&#x2009;0.01] compared with any single-nutrient regimen. The incidence of vascular restenosi",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo meta-análise publicado na *Acta Cardiologica* revela que a suplementação combinada de vitaminas do complexo B — incluindo ácido fólico, vitamina B6 e B12 — reduz de forma significativa os níveis séricos de homocisteína em pacientes com doença arterial coronariana (DAC), embora seu impacto em desfechos vasculares clínicos permaneça inconclusivo. O estudo, que analisou 13 ensaios clínicos randomizados envolvendo 14.539 participantes, demonstrou que a terapia combinada diminuiu a homocisteína em 2,36 µmol/L em média (IC 95%: -3,09 a -1,62; p < 0,01) em comparação a regimes com nutrientes isolados. No entanto, não foi relatado efeito estatisticamente significativo na incidência de reestenose vascular ou outros eventos cardiovasculares maiores, como infarto agudo do miocárdio ou acidente vascular cerebral, segundo os dados disponíveis no resumo.\n\nOs resultados reforçam o papel bem estabelecido do ácido fólico na metabolização da homocisteína, um marcador inflamatório associado ao risco cardiovascular. Contudo, a ausência de benefícios clínicos claros em desfechos duros sugere que a redução bioquímica de homocisteína por si só pode não ser suficiente para prevenir complicações na DAC. Os autores destacam que futuras pesquisas devem investigar subgrupos específicos — como pacientes com deficiência prévia de vitaminas B ou níveis basais elevados de homocisteína — e explorar combinações com outras terapias cardiovasculares. Além disso, a segurança a longo prazo da suplementação, especialmente em doses elevadas de B12, permanece um ponto de atenção não abordado neste estudo.\n\nEmbora a suplementação combinada de vitaminas B não deva ser considerada uma estratégia terapêutica isolada para a DAC, os achados abrem caminho para estudos mais robustos que integrem biomarcadores e desfechos clínicos, possibilitando uma medicina personalizada baseada em substratos metabólicos. A heterogeneidade entre os ensaios incluídos — incluindo variações nas doses e duração do tratamento — limita a generalização dos resultados e aponta para a necessidade de ensaios prospectivos bem delineados.\n\n---\n\n**English version**\n\nA recent meta-analysis published in *Acta Cardiologica* indicates that combined B-vitamin supplementation—including folic acid, vitamin B6, and B12—significantly lowers serum homocysteine levels in patients with coronary heart disease (CHD), though its impact on clinical vascular outcomes remains uncertain. The study, which analyzed 13 randomized controlled trials involving 14,539 participants, found that the combined therapy reduced homocysteine levels by an average of 2.36 µmol/L (95% CI: -3.09 to -1.62; p < 0.01) compared to single-nutrient regimens. However, no statistically significant effect was reported on the incidence of vascular restenosis or major cardiovascular events such as acute myocardial infarction or stroke based on the provided data.\n\nThe findings reinforce the established role of folic acid in homocysteine metabolism, a pro-inflammatory marker linked to cardiovascular risk. Yet, the absence of clear clinical benefits in hard endpoints suggests that biochemical homocysteine reduction alone may not suffice to prevent complications in CHD. The authors emphasize that future research should investigate specific subgroups—such as patients with prior vitamin B deficiencies or elevated baseline homocysteine levels—and explore combinations with other cardiovascular therapies. Additionally, long-term safety, particularly with high-dose B12 supplementation, remains an unaddressed concern in this analysis.\n\nWhile combined B-vitamin supplementation should not be considered a standalone therapeutic strategy for CHD, the findings pave the way for more robust studies integrating biomarkers and clinical endpoints to enable precision medicine based on metabolic substrates. The heterogeneity among included trials—including variations in dosage and treatment duration—limits the generalizability of results and underscores the need for well-designed prospective trials.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41615824",
-    "authors": [
-      {
-        "name": "Liping Guo",
-        "affiliation": "Department of Pharmacy, The 7th People's Hospital of Zhengzhou, Zhengzhou, Henan Province, People's Republic of China."
-      },
-      {
-        "name": "Xiangfen Shi",
-        "affiliation": "Department of Pharmacy, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan Province, People's Republic of China."
-      },
-      {
-        "name": "Gaobiao Wang",
-        "affiliation": "Clinical Trial Institution for Drugs, The 7th People's Hospital of Zhengzhou, Zhengzhou, Henan Province, People's Republic of China."
-      },
-      {
-        "name": "Wenchao Han",
-        "affiliation": "Department of Pharmacy, The 7th People's Hospital of Zhengzhou, Zhengzhou, Henan Province, People's Republic of China."
-      }
-    ],
-    "journal": "Annals of medicine",
-    "publishedDate": "2026-06-10",
-    "fetchedDate": "2026-06-12",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "heart",
-      "coronary"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
