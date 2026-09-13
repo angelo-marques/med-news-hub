@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42728590",
+    "pmid": "42728590",
+    "doi": "10.1186/s12880-026-02686-5",
+    "title": "Speckle-tracking carotid strain ultrasonography for assessment of vascular dysfunction in metabolic syndrome: a cross-sectional study.",
+    "titlePt": "Speckle-tracking carotid strain ultrasonography for assessment of vascular dysfunction in metabolic syndrome: a cross-sectional study.",
+    "abstract": "Metabolic syndrome (MetS) is associated with increased cardiovascular risk, which rises with the number of MetS components. Conventional carotid ultrasound markers may not fully characterize dynamic arterial wall mechanics, whereas speckle-tracking carotid strain ultrasonography (STCS-US) enables integrated assessment of carotid stiffness and deformation throughout the cardiac cycle. This study aimed to assess multidimensional carotid mechanics in individuals with MetS and their association with cumulative metabolic burden. This retrospective cross-sectional study included 100 participants:50 patients with MetS diagnosed according to the National Cholesterol Education ProgramAdult Treatment Panel III (ATP III) criteria and 50 age and sex matched controls without MetS Carotid Doppler US images were analyzed using the Arterial Analysis software program, which quantified 22 vascular parameters per participant, comprising five stiffness parameters (&#x3b2;-stiffness index [&#x3b2;-SI], art",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42728590",
+    "authors": [
+      {
+        "name": "Elif Duygu Topan",
+        "affiliation": "Department of Internal Medicine, Ayd&#x131;n Adnan Menderes University Faculty of Medicine, Ayd&#x131;n, T&#xfc;rkiye."
+      },
+      {
+        "name": "Aral Varol",
+        "affiliation": "Department of Radiology, Ayd&#x131;n Adnan Menderes University Faculty of Medicine, Ayd&#x131;n, T&#xfc;rkiye."
+      },
+      {
+        "name": "Hilal Bekta&#x15f; Uysal",
+        "affiliation": "Department of Internal Medicine, Ayd&#x131;n Adnan Menderes University Faculty of Medicine, Ayd&#x131;n, T&#xfc;rkiye."
+      },
+      {
+        "name": "&#x130;mran Kurt &#xd6;m&#xfc;rl&#xfc;",
+        "affiliation": "Department of Biostatistics, Ayd&#x131;n Adnan Menderes University Faculty of Medicine, Ayd&#x131;n, T&#xfc;rkiye."
+      }
+    ],
+    "journal": "BMC medical imaging",
+    "publishedDate": "2026-09-12",
+    "fetchedDate": "2026-09-13",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "cardiovascular",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p15QXU8-2kFHot-a3a4da728d542ca6\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-41895845",
     "pmid": "41895845",
     "doi": "10.1136/jnis-2026-025001",
@@ -12626,47 +12668,6 @@
     ],
     "isHighlight": false,
     "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42037110",
-    "pmid": "42037110",
-    "doi": "10.1111/dom.70810",
-    "title": "Six-Month Real-World Effectiveness, Persistence and Safety of Low-to-Moderate Dose Tirzepatide in Adults With Obesity: A Multicentre Observational Study.",
-    "titlePt": "Six-Month Real-World Effectiveness, Persistence and Safety of Low-to-Moderate Dose Tirzepatide in Adults With Obesity: A Multicentre Observational Study.",
-    "abstract": "To evaluate 6-month weight-loss outcomes, treatment persistence, and safety of low- to moderate-dose tirzepatide in a real-world clinical setting. This multicentre retrospective observational study evaluated adults with obesity who initiated tirzepatide in routine clinical practice across 15 endocrinology clinics in Greece between December 2024 and May 2025. Patients with available baseline and 6-month follow-up (&#xb1;2&#x2009;weeks) data were included. Changes in body weight and body mass index (BMI) were assessed, while treatment persistence, reasons for discontinuation, and adverse events were recorded. Continuous variables were analysed using paired parametric or non-parametric tests as appropriate. A total of 260 patients initiated tirzepatide, of whom 208 (80%) completed 6&#x2009;months of therapy. Median percentage weight loss was substantial, with 94.2% achieving &#x2265;&#x2009;5% weight loss, 77.9% &#x2265;&#x2009;10%, 47.1% &#x2265;&#x2009;15% and approximately 20% &#x2265;",
-    "journalisticSummary": "Um estudo multicêntrico observacional retrospectivo, conduzido em 15 clínicas de endocrinologia na Grécia entre dezembro de 2024 e maio de 2025, avaliou a eficácia, persistência e segurança de doses baixas a moderadas de tirzepatida em pacientes adultos com obesidade durante seis meses de uso real. Entre os 260 participantes que iniciaram o tratamento, 208 (80%) completaram o acompanhamento, permitindo análise robusta dos desfechos. Os resultados demonstraram uma perda de peso substancial, com 94,2% dos pacientes atingindo redução &#x2265;5% do peso corporal, 77,9% &#x2265;10%, 47,1% &#x2265;15% e aproximadamente 20% alcançando &#x2265;20%. A mediana de perda de peso não foi reportada no resumo original, mas a proporção de pacientes que alcançaram marcos clínicos significativos reforça o potencial terapêutico da tirzepatida em doses moderadas. A persistência ao tratamento foi alta, embora não tenham sido detalhadas as razões específicas para interrupção nos dados disponíveis. Quanto à segurança, não houve relato de eventos adversos graves no período analisado, mas o estudo não forneceu dados sobre a frequência ou gravidade de efeitos colaterais não graves. As limitações incluem o desenho retrospectivo e observacional, que impede inferências causais, além da ausência de um grupo controle para comparação. Os autores destacam a necessidade de estudos prospectivos randomizados com acompanhamento prolongado para confirmar esses achados e avaliar a sustentabilidade dos benefícios, bem como a segurança em longo prazo. Os resultados sugerem que a tirzepatida em doses baixas a moderadas pode ser uma estratégia eficaz para o manejo da obesidade em contextos clínicos reais, mas exigem validação adicional.\n\n---\n\nA multicenter observational retrospective study conducted across 15 endocrinology clinics in Greece between December 2024 and May 2025 assessed the real-world effectiveness, persistence, and safety of low-to-moderate dose tirzepatide in adults with obesity over a six-month period. Of the 260 patients who initiated treatment, 208 (80%) completed the follow-up, enabling robust analysis of outcomes. The findings demonstrated substantial weight loss, with 94.2% of participants achieving &#x2265;5% reduction in body weight, 77.9% &#x2265;10%, 47.1% &#x2265;15%, and approximately 20% reaching &#x2265;20%. The median percentage weight loss was not reported in the original abstract, though the proportion of patients meeting clinically meaningful thresholds underscores tirzepatide’s therapeutic potential at moderate doses. Treatment persistence was high, though specific reasons for discontinuation were not detailed in the available data. Regarding safety, no serious adverse events were reported during the study period; however, the study did not provide data on the frequency or severity of non-serious side effects. Key limitations include the retrospective and observational design, which precludes causal inferences, as well as the lack of a control group for comparison. The authors emphasize the need for prospective randomized trials with extended follow-up to validate these findings, assess the durability of benefits, and evaluate long-term safety. While the results suggest that low-to-moderate dose tirzepatide may be an effective strategy for obesity management in real-world clinical settings, further validation is required.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42037110",
-    "authors": [
-      {
-        "name": "Nikolaos Angelopoulos",
-        "affiliation": "Hellenic Endocrine Network, Athens, Greece."
-      },
-      {
-        "name": "Dimitra Zianni",
-        "affiliation": "Hellenic Endocrine Network, Athens, Greece."
-      },
-      {
-        "name": "Sarantis Livadas",
-        "affiliation": "Hellenic Endocrine Network, Athens, Greece."
-      },
-      {
-        "name": "Ioannis Androulakis",
-        "affiliation": "Hellenic Endocrine Network, Athens, Greece."
-      }
-    ],
-    "journal": "Diabetes, obesity &amp; metabolism",
-    "publishedDate": "2026-06-11",
-    "fetchedDate": "2026-06-11",
-    "category": "Endocrinologia",
-    "tags": [
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
