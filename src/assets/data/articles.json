@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42734063",
+    "pmid": "42734063",
+    "doi": "10.1161/STROKEAHA.126.056159",
+    "title": "Sodium-Glucose Cotransporter 2 Inhibitor Use and Functional Outcomes After Endovascular Thrombectomy in Diabetic Stroke.",
+    "titlePt": "Sodium-Glucose Cotransporter 2 Inhibitor Use and Functional Outcomes After Endovascular Thrombectomy in Diabetic Stroke.",
+    "abstract": "Although preclinical studies and limited clinical evidence suggest potential benefits of sodium-glucose cotransporter 2 inhibitors (SGLT2i) after acute ischemic stroke, their effects in patients with moderate-to-severe acute ischemic stroke requiring endovascular thrombectomy remain unclear. This study aimed to evaluate whether SGLT2i use after endovascular thrombectomy is associated with improved 3-month functional outcomes in diabetic patients with acute ischemic stroke. This retrospective cohort study analyzed prospectively collected data from January 2020 to March 2025 across 4 comprehensive stroke centers in Korea, Italy, and Switzerland. Consecutive adult patients with diabetes were grouped according to whether SGLT2i was used after their endovascular thrombectomy. Propensity score-based methods-including overlap weighting, inverse probability of treatment weighting, and 1:1 propensity score matching-were applied. Outcomes included the shift in 3-month modified Rankin Scale score",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42734063",
+    "authors": [
+      {
+        "name": "Wookjin Yang",
+        "affiliation": "Department of Neurology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea (W.Y., B.J.K., J.Y.C., D.-W.K., S.U.K.)."
+      },
+      {
+        "name": "Ji Sung Lee",
+        "affiliation": "Clinical Research Center, Asan Medical Center, Seoul, Korea (J.S.L.).65526"
+      },
+      {
+        "name": "Bum Joon Kim",
+        "affiliation": "Department of Neurology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea (W.Y., B.J.K., J.Y.C., D.-W.K., S.U.K.)."
+      },
+      {
+        "name": "Jun Young Chang",
+        "affiliation": "Department of Neurology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea (W.Y., B.J.K., J.Y.C., D.-W.K., S.U.K.)."
+      }
+    ],
+    "journal": "Stroke",
+    "publishedDate": "2026-09-14",
+    "fetchedDate": "2026-09-14",
+    "category": "Neurologia",
+    "tags": [
+      "stroke",
+      "diabetes"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1HEbqL-2kFHot-a3b19e8c7def179d\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42733825",
     "pmid": "42733825",
     "doi": "10.2147/IJWH.S614787",
@@ -12616,49 +12657,6 @@
     ],
     "isHighlight": false,
     "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42277880",
-    "pmid": "42277880",
-    "doi": "10.1186/s12967-026-08385-7",
-    "title": "Dihydrotanshinone I as a novel signal transducer and activator of transcription 3 inhibitor for glioblastoma treatment.",
-    "titlePt": "Dihydrotanshinone I as a novel signal transducer and activator of transcription 3 inhibitor for glioblastoma treatment.",
-    "abstract": "Among tumors affecting the central nervous system (CNS), glioblastoma multiforme (GBM) is the most aggressive and lethal form. Given the complex mechanisms of the CNS and the blood-brain barrier (BBB), effective therapies for GBM remain limited. To identify potential therapeutic candidates for glioma, we developed a small-molecule library to screen for compounds with potent anti-proliferative effects and BBB permeability. The mechanisms underlying their anti-glioma activity were further elucidated to provide insights into new treatment strategies. A library of small molecules was screened to identify agents that significantly inhibit glioma cells activity. The effects of the lead compound (Dihydrotanshinone I, DHT) on glioma progression were evaluated through a series of experimental approaches, including cell counting kit-8 assays, cell cycle analysis, apoptosis detection, wound healing, transwell migration, reactive oxygen measurement, subcutaneous xenograft mouse models, and intracr",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na revista *Journal of Translational Medicine* identificou o composto **Dihydrotanshinone I (DHT)** como potencial inibidor da via **STAT3 (Signal Transducer and Activator of Transcription 3)**, abrindo novas perspectivas para o tratamento do glioblastoma multiforme (GBM), o tumor cerebral mais agressivo e de pior prognóstico. A pesquisa, conduzida por uma equipe multidisciplinar, partiu da limitação terapêutica atual — agravada pela complexidade da barreira hematoencefálica (BHE) e pela heterogeneidade molecular do GBM — para explorar compostos com capacidade de permear o sistema nervoso central (SNC) e exercer atividade antitumoral.\n\nOs pesquisadores desenvolveram uma biblioteca de pequenas moléculas e realizaram triagem in vitro e in vivo para avaliar seu potencial anti-proliferativo contra células de glioma. O DHT emergiu como composto líder, demonstrando capacidade de inibir a proliferação celular, induzir apoptose e reduzir a migração e invasão de células tumorais em modelos experimentais. Testes com kits de contagem celular (como o CCK-8), análises do ciclo celular, ensaios de cicatrização de feridas (*wound healing*) e migração em câmaras de transwell revelaram que o DHT atua não apenas como agente citotóxico, mas também como modulador de vias críticas para a progressão do GBM. Em modelos de xenotransplante subcutâneo em camundongos, o composto reduziu significativamente o crescimento tumoral, enquanto experimentos com administração intracraniana sugerem viabilidade para aplicação direta no SNC, embora dados mais detalhados sobre essa via não tenham sido reportados no estudo.\n\nOs mecanismos moleculares elucidados indicam que o DHT exerce sua ação principalmente pela inibição da via **STAT3**, uma via de sinalização frequentemente hiperativada em gliomas e associada à resistência a terapias convencionais, como a quimioterapia com temozolomida. A inibição de STAT3 está relacionada à diminuição da expressão de genes pró-sobrevivência (como *Bcl-2* e *Survivin*) e à redução da produção de espécies reativas de oxigênio (ERO), que contribuem para a agressividade tumoral. Embora os resultados sejam promissores, o estudo apresenta limitações importantes: os modelos experimentais empregados (xenotransplantes subcutâneos e intracranianos) não replicam completamente a microambiente tumoral humano, e a farmacocinética do DHT no SNC — incluindo biodisponibilidade, metabolismo e toxicidade em longo prazo — ainda não foi elucidada. Além disso, a ausência de comparação direta com terapias padrão (como radioterapia associada à quimioterapia) impede uma avaliação precisa de sua eficácia relativa.\n\nOs próximos passos incluem a realização de ensaios clínicos pré-clínicos mais robustos, com modelos animais que mimetizem a progressão natural do GBM, além dos estudos de toxicidade e farmacodinâmica. A validação do DHT como adjuvante em combinação com terapias existentes também se faz necessária, uma vez que abordagens multimodais são essenciais para o manejo do GBM. Caso os resultados sejam confirmados, o composto poderia representar uma alternativa para contornar a resistência aos tratamentos atuais, embora sua aplicação clínica ainda esteja a anos de distância.\n\n---\n\n**English version**\n\nA recent study published in *Journal of Translational Medicine* has identified **Dihydrotanshinone I (DHT)** as a promising **STAT3 (Signal Transducer and Activator of Transcription 3) inhibitor**, offering new therapeutic avenues for glioblastoma multiforme (GBM), the most aggressive and lethal primary brain tumor. Given the disease’s resistance to conventional treatments and the challenges posed by the blood-brain barrier (BBB), researchers screened a library of small molecules to identify compounds with both anti-proliferative efficacy and BBB permeability, a critical requirement for central nervous system (CNS) drug development.\n\nThe team employed a multi-step screening process, including cell viability assays (e.g., CCK-8), cell cycle analysis, apoptosis detection, wound healing, and transwell migration assays, to assess the anti-glioma potential of candidate compounds. DHT emerged as the lead molecule, demonstrating significant inhibitory effects on glioma cell proliferation, migration, and invasion, while inducing apoptosis. In vivo experiments using subcutaneous xenograft mouse models further confirmed its anti-tumor activity, with notable tumor growth suppression. Although intracranial administration was explored, the study did not provide detailed data on its efficacy or safety in this context.\n\nMechanistic investigations revealed that DHT exerts its effects primarily by inhibiting the **STAT3 signaling pathway**, which is frequently hyperactivated in gliomas and linked to therapy resistance, including resistance to temozolomide. Inhibition of STAT3 led to reduced expression of pro-survival genes such as *Bcl-2* and *Survivin*, alongside a decrease in reactive oxygen species (ROS) production—factors that contribute to tumor aggressiveness. While these findings are encouraging, several limitations must be addressed. The preclinical models used (subcutaneous and intracranial xenografts) do not fully replicate the human tumor microenvironment, and critical pharmacokinetic parameters—such as BBB penetration efficiency, metabolism, and long-term toxicity—remain uncharacterized. Additionally, the study lacks a direct comparison with standard-of-care therapies, leaving unanswered questions about DHT’s relative efficacy.\n\nFuture research should prioritize more clinically relevant animal models that better mimic GBM progression, as well as comprehensive toxicity and pharmacodynamic studies. Combination therapy evaluations—assessing DHT alongside radiotherapy or chemotherapy—will also be essential, given that multimodal approaches are often required for GBM management. If validated, DHT could represent a novel adjunctive treatment option to overcome resistance to existing therapies, though clinical translation remains years away.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42277880",
-    "authors": [
-      {
-        "name": "Kai-Wen Cheng",
-        "affiliation": "Department of Medical Research Center, Shaoxing People's Hospital, School of Medicine, ShaoXing University, Shaoxing, 312000, China."
-      },
-      {
-        "name": "Shao-Jun Zhou",
-        "affiliation": "Department of Neurology, Shaoxing People's Hospital, Shaoxing, 312000, China."
-      },
-      {
-        "name": "Jie Zeng",
-        "affiliation": "Institute of Drug Metabolism and Pharmaceutical Analysis, College of Pharmaceutical Sciences, Zhejiang University, Hangzhou, 310058, China."
-      },
-      {
-        "name": "Yang-Rui Zhang",
-        "affiliation": "National Key Laboratory of Advanced Drug Delivery and Release Systems, Zhejiang University, Hangzhou, 310058, China."
-      }
-    ],
-    "journal": "Journal of translational medicine",
-    "publishedDate": "2026-06-12",
-    "fetchedDate": "2026-06-12",
-    "category": "Oncologia",
-    "tags": [
-      "tumor",
-      "brain",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
