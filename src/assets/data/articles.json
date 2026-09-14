@@ -12368,6 +12368,46 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42257867",
+    "pmid": "42257867",
+    "doi": "10.1080/21645515.2026.2678679",
+    "title": "From awareness to action: Overcoming knowledge gaps and enhancing herpes zoster vaccination counseling among Chinese rheumatologists - Results from a nationwide survey.",
+    "titlePt": "From awareness to action: Overcoming knowledge gaps and enhancing herpes zoster vaccination counseling among Chinese rheumatologists - Results from a nationwide survey.",
+    "abstract": "To assess the knowledge, attitudes, and practices (KAP) regarding herpes zoster (HZ) and its vaccination among rheumatologists in China. A nationwide cross-sectional survey was conducted between April 1 and May 31, 2025, using the Questionnaire Star online platform. The questionnaire assessed sociodemographic characteristics, knowledge of HZ and its vaccine (via a 13-item scale), attitudes and behaviors regarding vaccination, and willingness to disseminate information. Ordinal logistic regression was applied to identify associated factors of knowledge scores, while subgroup analyses were conducted to evaluate attitude-related factors. A total of 1,772 rheumatologists from a wide range of provinces participated (mean age: 41.4&#x2009;y; 67.3% female). Regarding professional background, most held a master's degree (44.1%), followed by a bachelor's (38.9%) and doctoral degree (17.0%). Clinical titles were distributed as associate chief (31.3%), chief (26.4%), attending (26.2%), and junior",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42257867",
+    "authors": [
+      {
+        "name": "Yan Geng",
+        "affiliation": "Rheumatology and Clinical Immunology Department, Peking University First Hospital, Beijing, China."
+      },
+      {
+        "name": "Yuqing Yang",
+        "affiliation": "Beijing Key Laboratory for Precision Diagnosis, Treatment and Translational Innovation in Major Rheumatic and Immune Diseases, Beijing, China."
+      },
+      {
+        "name": "Bofan Lu",
+        "affiliation": "Rheumatology and Clinical Immunology Department, Peking University First Hospital, Beijing, China."
+      },
+      {
+        "name": "Wenhui Xie",
+        "affiliation": "Beijing Key Laboratory for Precision Diagnosis, Treatment and Translational Innovation in Major Rheumatic and Immune Diseases, Beijing, China."
+      }
+    ],
+    "journal": "Human vaccines &amp; immunotherapeutics",
+    "publishedDate": "2026-06-12",
+    "fetchedDate": "2026-09-14",
+    "category": "Imunologia",
+    "tags": [
+      "vaccine"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1Ga82T-2kFHot-a3b0e7411b635e6f\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42219066",
     "pmid": "42219066",
     "doi": "10.1016/j.jep.2026.121928",
@@ -12621,49 +12661,5 @@
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42258466",
-    "pmid": "42258466",
-    "doi": "10.1080/13696998.2026.2670958",
-    "title": "Modeling the cost-effectiveness of the COVID-19 mRNA-1273 vaccine in the United States.",
-    "titlePt": "Modeling the cost-effectiveness of the COVID-19 mRNA-1273 vaccine in the United States.",
-    "abstract": "The main objective was to estimate the potential public health impact and cost-effectiveness of an annual dose of mRNA-1273 in the United States (US) for a one-year time horizon compared with no vaccination in the mRNA-1273 licensed population (6&#x2009;months-64&#x2009;years with underlying medical conditions and all &#x2265;65&#x2009;years). mRNA-1273 was also compared to BNT162b2 in high-risk adults ages 18-64&#x2009;years and all &#x2265;65&#x2009;years. Analyses were conducted using a previously developed static decision-analytic model (1-year horizon) from the societal cost perspective. Vaccine effectiveness (VE) against infection and hospitalization for mRNA-1273 versus no vaccination was based on a 2024-2025 real world effectiveness study. VE estimates for mRNA-1273 versus BNT162b2 were based on systematic literature reviews and meta-analyses. Cost-effectiveness was assessed in terms of incremental cost per quality-adjusted life-year (QALY) gained and the benefit cost ratio (BC",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a eficácia e a rentabilidade da vacina mRNA-1273 contra a COVID-19 nos Estados Unidos. Com o objetivo de estimar o impacto sobre a saúde pública e a relação custo-eficácia de uma dose anual dessa vacina, os pesquisadores compararam os resultados em uma população com idade entre 6 meses e 64 anos com condições médicas pré-existentes, bem como em indivíduos acima de 65 anos, em um período de um ano. Além disso, a vacina mRNA-1273 foi comparada à vacina BNT162b2 em adultos de alto risco com idades entre 18 e 64 anos e em todos os indivíduos acima de 65 anos. Os resultados foram obtidos por meio de um modelo de análise de decisão estático, considerando a perspectiva dos custos para a sociedade. A eficácia da vacina contra infecções e hospitalizações foi baseada em estudos de eficácia no mundo real realizados entre 2024 e 2025, enquanto as comparações com a vacina BNT162b2 foram fundamentadas em revisões sistemáticas e metanálises. A análise de custo-eficácia foi realizada em termos de custo incremental por ano de vida ajustado por qualidade (QALY) ganho e na relação benefício-custo. Embora os detalhes específicos sobre os resultados não tenham sido informados, esse estudo oferece uma contribuição importante para a compreensão da eficácia e da rentabilidade da vacina mRNA-1273, o que pode ter implicações significativas para as políticas de saúde pública e as decisões clínicas. No entanto, é fundamental considerar as limitações do estudo e os próximos passos para uma avaliação mais aprofundada da vacinação contra a COVID-19.\n\nA recent study published on PubMed investigated the efficacy and cost-effectiveness of the mRNA-1273 COVID-19 vaccine in the United States. With the objective of estimating the public health impact and cost-effectiveness of an annual dose of this vaccine, researchers compared outcomes in a population aged 6 months to 64 years with underlying medical conditions, as well as in individuals above 65 years, over a one-year period. Additionally, the mRNA-1273 vaccine was compared to the BNT162b2 vaccine in high-risk adults aged 18-64 years and in all individuals above 65 years. The results were obtained through a static decision-analytic model, considering the societal cost perspective. The vaccine's effectiveness against infections and hospitalizations was based on real-world effectiveness studies conducted between 2024 and 2025, while comparisons with the BNT162b2 vaccine were grounded in systematic reviews and meta-analyses. The cost-effectiveness analysis was performed in terms of incremental cost per quality-adjusted life-year (QALY) gained and the benefit-cost ratio. Although specific details about the results were not provided, this study offers an important contribution to understanding the efficacy and cost-effectiveness of the mRNA-1273 vaccine, which may have significant implications for public health policies and clinical decisions. However, it is essential to consider the study's limitations and the next steps for a more in-depth evaluation of COVID-19 vaccination.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42258466",
-    "authors": [
-      {
-        "name": "Kelly Fust",
-        "affiliation": "Quadrant Health Economics, Inc, Cambridge, Canada."
-      },
-      {
-        "name": "Ekkehard Beck",
-        "affiliation": "Moderna, Inc, Cambridge, MA, USA."
-      },
-      {
-        "name": "Michele Kohli",
-        "affiliation": "Quadrant Health Economics, Inc, Cambridge, Canada."
-      },
-      {
-        "name": "Shannon Cartier",
-        "affiliation": "Quadrant Health Economics, Inc, Cambridge, Canada."
-      }
-    ],
-    "journal": "Journal of medical economics",
-    "publishedDate": "2026-06-12",
-    "fetchedDate": "2026-06-12",
-    "category": "Infectologia",
-    "tags": [
-      "infection",
-      "covid",
-      "rna",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
