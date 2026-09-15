@@ -1,5 +1,45 @@
 [
   {
+    "id": "pubmed-42739896",
+    "pmid": "42739896",
+    "doi": "10.3390/jcm15176894",
+    "title": "Atrial Fibrillation Ablation Technology Adoption and Procedural Metrics: An 11-Year Longitudinal Service Evaluation at a UK Tertiary Centre.",
+    "titlePt": "Atrial Fibrillation Ablation Technology Adoption and Procedural Metrics: An 11-Year Longitudinal Service Evaluation at a UK Tertiary Centre.",
+    "abstract": "Background: Contemporary AF ablation practice has changed rapidly with the introduction of newer energy-delivery platforms. How these changes translate into longitudinal patterns of technology use and procedural characteristics within routine electrophysiology services is less well described. Methods: We performed a retrospective, procedure-level longitudinal service evaluation of AF ablations performed between April 2014 and June 2025 at a United Kingdom (UK) tertiary center. Index and repeat procedures were included. We describe annual technology use and observed skin-to-skin procedure time, fluoroscopy time, and dose-area product (DAP). These are operational measures, not surrogate clinical endpoints. We undertook no adjusted comparative analysis because technology choice was coupled with calendar era and relevant clinical and operator-level covariates were incomplete. Results: The analysis included 2862 procedures, comprising 1878 (66%) radiofrequency ablation (RFA), 735 (26%) cryo",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42739896",
+    "authors": [
+      {
+        "name": "Ibrahim Antoun",
+        "affiliation": "Department of Cardiology, University Hospitals of Leicester NHS Trust, Glenfield Hospital, Leicester LE3 9QP, UK."
+      },
+      {
+        "name": "Ahmed Abdelrazik",
+        "affiliation": "Department of Cardiovascular Sciences, Clinical Science Wing, Glenfield Hospital, University of Leicester, Leicester LE3 9QP, UK."
+      },
+      {
+        "name": "Thet Su Su",
+        "affiliation": "Department of Cardiovascular Sciences, Clinical Science Wing, Glenfield Hospital, University of Leicester, Leicester LE3 9QP, UK."
+      },
+      {
+        "name": "Sharon H W Man",
+        "affiliation": "Department of Cardiology, University Hospitals of Leicester NHS Trust, Glenfield Hospital, Leicester LE3 9QP, UK."
+      }
+    ],
+    "journal": "Journal of clinical medicine",
+    "publishedDate": "2026-09-15",
+    "fetchedDate": "2026-09-15",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1NMDEr-2kFHot-a3b72372fc6d1d41\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42734063",
     "pmid": "42734063",
     "doi": "10.1161/STROKEAHA.126.056159",
@@ -12615,48 +12655,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-40448323",
-    "pmid": "40448323",
-    "doi": "10.1177/07067437251343291",
-    "title": "Peripheral Alzheimer's Disease Biomarkers Are Related to Change in Subjective Memory in Older Women with Cardiovascular Risk Factors in a Trial of Yoga vs. Memory Training: Lien &#xe9;tabli entre les biomarqueurs p&#xe9;riph&#xe9;riques de la maladie d'Alzheimer et l'am&#xe9;lioration de la m&#xe9;moire subjective chez les femmes &#xe2;g&#xe9;es pr&#xe9;sentant des facteurs de risque cardiovasculaire dans le cadre d'un essai comparant le yoga &#xe0; l'entra&#xee;nement de la m&#xe9;moire.",
-    "titlePt": "Peripheral Alzheimer's Disease Biomarkers Are Related to Change in Subjective Memory in Older Women with Cardiovascular Risk Factors in a Trial of Yoga vs. Memory Training: Lien &#xe9;tabli entre les biomarqueurs p&#xe9;riph&#xe9;riques de la maladie d'Alzheimer et l'am&#xe9;lioration de la m&#xe9;moire subjective chez les femmes &#xe2;g&#xe9;es pr&#xe9;sentant des facteurs de risque cardiovasculaire dans le cadre d'un essai comparant le yoga &#xe0; l'entra&#xee;nement de la m&#xe9;moire.",
-    "abstract": "Older women with cardiovascular risk factors and subjective memory complaints are at greater risk for Alzheimer's disease (AD). We examined the changes in AD peripheral biomarkers, including phosphorylated-tau (p-tau), A&#x3b2;40, A&#x3b2;42, and A&#x3b2;42/40 ratio, in a randomized controlled trial of Kundalini yoga (KY) versus memory enhancement training (MET) in aging women at risk for AD. We recruited women (50+ years) with subjective memory complaints and high cardiovascular risk as defined by the ACC/AHA Guideline on the Assessment of Cardiovascular Risk. Participants were randomized into KY versus MET, each lasting for 12 weeks, with a 24-week follow-up. We obtained blood samples at baseline and week 24 and measured A&#x3b2; 40, A&#x3b2; 42, and p-Tau. Participants completed the Memory Functioning Questionnaire (MFQ) to assess subjective memory at baseline and follow-up. A total of 79 patients (KY&#x2009;=&#x2009;40; MET&#x2009;=&#x2009;39) were randomized, and biomarker data we",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *Canadian Journal of Psychiatry* investigou o impacto de intervenções não farmacológicas sobre biomarcadores periféricos da doença de Alzheimer (DA) em mulheres idosas com fatores de risco cardiovascular e queixas subjetivas de memória. A pesquisa, conduzida por meio de um ensaio clínico randomizado de 12 semanas, comparou os efeitos do *Kundalini Yoga* (KY) com um programa de treinamento de memória (MET) sobre níveis plasmáticos de p-tau, Aβ40, Aβ42 e a razão Aβ42/40 — marcadores associados à fisiopatologia da DA.\n\nParticiparam 79 mulheres com idade igual ou superior a 50 anos, selecionadas com base em critérios do *American College of Cardiology/American Heart Association* para alto risco cardiovascular. Após randomização, 40 mulheres foram alocadas no grupo KY e 39 no MET. Amostras de sangue foram coletadas ao início e após 24 semanas, enquanto a função subjetiva de memória foi avaliada pelo *Memory Functioning Questionnaire* (MFQ) em ambos os momentos. Os resultados indicaram que os níveis de Aβ42 diminuíram significativamente no grupo KY em comparação ao MET, sugerindo um possível efeito neuroprotetor da prática. Contudo, não foram observadas alterações significativas nos demais biomarcadores (p-tau, Aβ40 ou razão Aβ42/40) entre os grupos.\n\nEmbora os achados indiquem uma modulação seletiva de Aβ42 pelo KY, o estudo apresenta limitações importantes. O tamanho amostral reduzido e a ausência de um grupo controle sem intervenção limitam a generalização dos resultados. Além disso, não foram relatados dados sobre adesão às práticas ou possíveis vieses de seleção. Os autores destacam a necessidade de estudos com amostras maiores e desenhos longitudinais para confirmar se a redução de Aβ42 está associada a melhorias clínicas sustentadas na cognição ou na progressão da DA. Esses achados abrem caminho para explorar terapias complementares baseadas em mindfulness e exercícios mente-corpo como estratégias de prevenção em populações de alto risco.\n\n---\n\n**English version**\n\nA recent study published in the *Canadian Journal of Psychiatry* explored the effects of non-pharmacological interventions on peripheral Alzheimer’s disease (AD) biomarkers in older women with cardiovascular risk factors and subjective memory complaints. The randomized controlled trial, conducted over 12 weeks, compared *Kundalini Yoga* (KY) with a memory enhancement training program (MET) to assess changes in plasma levels of phosphorylated tau (p-tau), Aβ40, Aβ42, and the Aβ42/40 ratio—markers linked to AD pathophysiology.\n\nThe trial enrolled 79 women aged 50 or older, selected based on the *American College of Cardiology/American Heart Association* criteria for high cardiovascular risk. After randomization, 40 participants were assigned to the KY group and 39 to the MET group. Blood samples were collected at baseline and 24 weeks, while subjective memory function was assessed using the *Memory Functioning Questionnaire* (MFQ) at both time points. Findings revealed a significant reduction in Aβ42 levels in the KY group compared to MET, suggesting a potential neuroprotective effect of the practice. However, no significant differences were observed in p-tau, Aβ40, or the Aβ42/40 ratio between the groups.\n\nWhile these results indicate a selective modulation of Aβ42 by KY, the study has notable limitations. The small sample size and the absence of a non-intervention control group constrain the generalizability of the findings. Additionally, data on adherence to the interventions and potential selection biases were not reported. The authors emphasize the need for larger, longitudinal studies to determine whether the reduction in Aβ42 translates into sustained cognitive improvements or a slower progression of AD. These findings pave the way for further exploration of mindfulness-based and mind-body therapies as complementary prevention strategies in high-risk populations.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40448323",
-    "authors": [
-      {
-        "name": "Hanadi Ajam Oughli",
-        "affiliation": "Department of Psychiatry &amp; Biobehavioral Sciences, David Geffen School of Medicine at University of California, Los Angeles, CA, USA."
-      },
-      {
-        "name": "Prabha Siddarth",
-        "affiliation": "Department of Psychiatry &amp; Biobehavioral Sciences, David Geffen School of Medicine at University of California, Los Angeles, CA, USA."
-      },
-      {
-        "name": "Meachelle Lum",
-        "affiliation": "Department of Psychiatry, Jane and Terry Semel Institute for Neuroscience and Human Behavior, University of California, Los Angeles, CA, USA."
-      },
-      {
-        "name": "Lara Tang",
-        "affiliation": "David Geffen School of Medicine, University of California Los Angeles, Los Angeles, CA, USA.8783"
-      }
-    ],
-    "journal": "Canadian journal of psychiatry. Revue canadienne de psychiatrie",
-    "publishedDate": "2026-06-12",
-    "fetchedDate": "2026-06-12",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "alzheimer"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
