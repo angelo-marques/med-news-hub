@@ -12535,6 +12535,49 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42261238",
+    "pmid": "42261238",
+    "doi": "10.1080/22221751.2026.2673651",
+    "title": "Transmitted and pretreatment drug resistance among 69 HIV-1 CRFs in China: the first systematic analysis.",
+    "titlePt": "Transmitted and pretreatment drug resistance among 69 HIV-1 CRFs in China: the first systematic analysis.",
+    "abstract": "In recent years, an increasing number of HIV-1 circulating recombinant forms (CRFs) have been identified in China. This study presented the first systematic analysis of the molecular epidemiological characteristics and drug resistance mutations (DRMs) profiles of all 69 CRFs identified in China up to 2025, comprising 13 first-generation, 45 second-generation, 10 third-generation, and one fourth-generation CRF . Several CRFs exhibited moderate transmitted drug resistance (5-15%) and elevated pretreatment drug resistance (10.8-55.1%). Notably, V179D/E were prevalent across multiple CRFs and, in combination with other DRMs, may contribute to reduced susceptibility to non-nucleoside reverse transcriptase inhibitors (NNRTIs). These findings provided critical surveillance data on DRMs and baseline data for NNRTIs selection in China, underscoring the necessity of phenotypic validation in novel CRFs harbouring natural DRMs.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42261238",
+    "authors": [
+      {
+        "name": "Xiaoyi Yin",
+        "affiliation": "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, NHC Key Laboratory of AIDS Prevention and Treatment, National Clinical Research Center for Medical Auxiliary Technology (Laboratory Medicine), The First Hospital of China Medical University, China Medical University, Shenyang, People's Republic of China."
+      },
+      {
+        "name": "Bin Zhao",
+        "affiliation": "Key Laboratory of AIDS Immunology, Chinese Academy of Medical Sciences, Shenyang, People's Republic of China."
+      },
+      {
+        "name": "Minghui An",
+        "affiliation": "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, NHC Key Laboratory of AIDS Prevention and Treatment, National Clinical Research Center for Medical Auxiliary Technology (Laboratory Medicine), The First Hospital of China Medical University, China Medical University, Shenyang, People's Republic of China."
+      },
+      {
+        "name": "Danni Wang",
+        "affiliation": "Key Laboratory of AIDS Immunology, Chinese Academy of Medical Sciences, Shenyang, People's Republic of China."
+      }
+    ],
+    "journal": "Emerging microbes &amp; infections",
+    "publishedDate": "2026-06-12",
+    "fetchedDate": "2026-09-15",
+    "category": "Genômica",
+    "tags": [
+      "hiv",
+      "gene",
+      "mutation",
+      "drug"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1Rqbmw-2kFHot-a3bae783db994859\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42257867",
     "pmid": "42257867",
     "doi": "10.1080/21645515.2026.2678679",
@@ -12614,46 +12657,5 @@
     "readTime": 7,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p11Da3Q-2kFHot-a3a05522ab329814\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42190636",
-    "pmid": "42190636",
-    "doi": "10.1016/j.ajem.2026.05.031",
-    "title": "Early vs delayed opioid administration for pediatric sickle cell vaso-occlusive crisis: A systematic review and meta-analysis.",
-    "titlePt": "Early vs delayed opioid administration for pediatric sickle cell vaso-occlusive crisis: A systematic review and meta-analysis.",
-    "abstract": "Sickle cell disease is frequently complicated by vaso-occlusive events, which represent one of the leading causes of acute pain and emergency care utilization in pediatric patients. However, there is limited and inconsistent data about the time to administer opioids in pediatric patients with sickle cell vaso-occlusive episodes (VOE). We aim to conduct a systematic review and meta-analysis to compare early and delayed opioid administration in pediatric patients with VOE. We systematically searched PubMed, Embase, and Cochrane Library from inception to November 2025. Randomized controlled trials or observational studies comparing early and delayed opioid administration in pediatric patients with sickle cell VOE. Five reviewers independently screened titles and abstracts, followed by full-text evaluation of potentially eligible articles. Disagreements were resolved through discussion and adjudication by a third reviewer. We followed PRISMA guidelines. Data were independently extracted by",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recentemente publicado no *American Journal of Emergency Medicine* investiga a eficácia da administração precoce de opioides no controle da crise vaso-oclusiva (VOE) em crianças com doença falciforme, condição que representa uma das principais causas de dor aguda e atendimentos de emergência nessa população. Apesar da relevância clínica do tema, há escassez e inconsistência de dados sobre o momento ideal para o início da analgesia com opioides nesses episódios, o que motiva a realização de uma revisão sistemática e meta-análise para comparar os desfechos entre administração precoce e tardia.\n\nA pesquisa, conduzida por uma equipe de cinco revisores independentes, seguiu as diretrizes PRISMA e incluiu buscas sistemáticas nas bases PubMed, Embase e Cochrane Library até novembro de 2025. Foram selecionados ensaios clínicos randomizados e estudos observacionais que avaliaram a administração de opioides em crianças com VOE. Os critérios de elegibilidade foram definidos com rigor metodológico, e eventuais divergências foram resolvidas por discussão entre revisores e arbitragem de um terceiro avaliador. Embora o resumo não especifique os desfechos primários ou secundários analisados, o estudo busca preencher uma lacuna crítica na literatura, uma vez que a dor intensa associada à VOE frequentemente leva a múltiplas internações e à utilização de recursos de saúde.\n\nOs achados do estudo podem ter implicações significativas para a prática clínica, especialmente em serviços de emergência pediátrica, onde a demora no alívio da dor é um desafio comum. No entanto, a ausência de dados detalhados no resumo original limita a interpretação dos resultados, como a definição de \"precoce\" versus \"tardio\", os tipos de opioides avaliados e os critérios de segurança adotados. Além disso, não foram relatadas informações sobre possíveis vieses ou heterogeneidade entre os estudos incluídos, aspectos essenciais para a validade das conclusões. Os próximos passos incluem a publicação do artigo completo, que deverá apresentar os dados quantitativos e qualitativos detalhados, permitindo uma análise mais robusta e direcionamentos para protocolos assistenciais.\n\n---\n\n**English version**\n\nA recent study published in the *American Journal of Emergency Medicine* examines the efficacy of early opioid administration in managing vaso-occlusive episodes (VOE) in children with sickle cell disease, a condition that remains one of the leading causes of acute pain and emergency care utilization in this population. Despite the clinical significance of timely pain relief, there is a paucity of consistent data regarding the optimal timing for opioid initiation during these episodes, prompting the authors to conduct a systematic review and meta-analysis comparing early versus delayed administration.\n\nConducted by a team of five independent reviewers, the research adhered to PRISMA guidelines and included systematic searches of PubMed, Embase, and the Cochrane Library up to November 2025. Eligible studies comprised randomized controlled trials and observational research evaluating opioid administration in pediatric patients with VOE. Methodological rigor was maintained through predefined eligibility criteria, with disagreements resolved via reviewer discussion and third-party adjudication. While the abstract does not specify primary or secondary outcomes, the study aims to address a critical gap in the literature, as severe pain associated with VOE often leads to recurrent hospitalizations and significant healthcare resource utilization.\n\nThe findings may hold substantial implications for pediatric emergency care, where delayed pain management remains a persistent challenge. However, the lack of detailed data in the abstract—such as the operational definitions of \"early\" versus \"delayed\" administration, the types of opioids assessed, and safety considerations—limits the interpretability of the results. Additionally, no information was provided regarding potential biases or heterogeneity among included studies, which are crucial for assessing the validity of the conclusions. Further clarification will be necessary upon full publication, which should include quantitative and qualitative data to enable a more rigorous analysis and guide clinical practice.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42190636",
-    "authors": [
-      {
-        "name": "Ayesha Khalid",
-        "affiliation": "Pediatrics, Marshall University Joan C. Edward College of Medicine, Huntington, WV, United States of America. Electronic address: drayshakhalid98@gmail.com."
-      },
-      {
-        "name": "Alexandra Salazar Ria&#xf1;o",
-        "affiliation": "Universidad CES, Medell&#xed;n, Colombia."
-      },
-      {
-        "name": "Jonathan D Mohnkern",
-        "affiliation": "College of Medicine, SUNY Upstate Medical University, Syracuse, NY, United States of America."
-      },
-      {
-        "name": "Marwa Ibrahim",
-        "affiliation": "Elrazi University, Khartoum, Sudan."
-      }
-    ],
-    "journal": "The American journal of emergency medicine",
-    "publishedDate": "2026-06-12",
-    "fetchedDate": "2026-06-13",
-    "category": "Pediatria",
-    "tags": [
-      "pediatric"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
