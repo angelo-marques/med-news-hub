@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-41955577",
+    "pmid": "41955577",
+    "doi": "10.1093/ejhf/xuag106",
+    "title": "European Journal of Heart Failure International Expert Position Paper-Utilization, optimization, and clinical benefits of steroidal mineralocorticoid receptor antagonists in heart failure with a reduced ejection fraction.",
+    "titlePt": "European Journal of Heart Failure International Expert Position Paper-Utilization, optimization, and clinical benefits of steroidal mineralocorticoid receptor antagonists in heart failure with a reduced ejection fraction.",
+    "abstract": "Heart failure with reduced ejection fraction (HFrEF) imposes a significant clinical burden on patients and a major economic burden on healthcare systems. In HFrEF, mineralocorticoid receptor antagonists (MRAs) constitute a cornerstone of guideline-directed medical therapy (GDMT), reducing both mortality and hospitalization. Their use in practice remains suboptimal, largely because of physicians' concerns about adverse events, particularly hyperkalaemia, which may deprive eligible patients of benefit. Only the steroidal MRAs spironolactone and eplerenone are approved for HFrEF, and this consensus document is restricted to these agents. We summarize contemporary evidence across multiple domains related to MRA therapy in HFrEF, including pharmacoepidemiology, the role of biomarkers in predicting outcomes and response to MRA, the pathological role of aldosterone, and the pharmacology and clinical efficacy of steroidal MRAs. Practical, evidence-based guidance is provided on the prevention a",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41955577",
+    "authors": [
+      {
+        "name": "Michael B&#xf6;hm",
+        "affiliation": "HOMICAREM (HOMburg Institute for CArdioREnalMetabolic Medicine), Saarland University, Kirrberger Str. 1, Homburg/Saar 66421, Germany."
+      },
+      {
+        "name": "Jabir Abdullakutty",
+        "affiliation": "Klinik f&#xfc;r Innere Medizin III, Saarland University, Kirrberger Str.1, Homburg/Saar 66421, Germany."
+      },
+      {
+        "name": "Johann Bauersachs",
+        "affiliation": "Department of Clinical Research (Cardiology), Lissie Hospital, Cochin, Kerala, India."
+      },
+      {
+        "name": "Udo Bavendiek",
+        "affiliation": "Department of Cardiology and Angiology, Hannover Medical School, Hannover, Germany."
+      }
+    ],
+    "journal": "European journal of heart failure",
+    "publishedDate": "2026-09-15",
+    "fetchedDate": "2026-09-15",
+    "category": "Cardiologia",
+    "tags": [
+      "heart",
+      "rna",
+      "pharmacology"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1QWFFj-2kFHot-a3b9770c48ff4cad\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42739896",
     "pmid": "42739896",
     "doi": "10.3390/jcm15176894",
@@ -12611,50 +12653,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42260841",
-    "pmid": "42260841",
-    "doi": "10.1097/MD.0000000000049195",
-    "title": "Risk factors and self-management predictors of activities of daily living in patients with heart failure: A 12-month prospective cohort study.",
-    "titlePt": "Risk factors and self-management predictors of activities of daily living in patients with heart failure: A 12-month prospective cohort study.",
-    "abstract": "Impaired activities of daily living (ADL) significantly affect the prognosis and quality of life in patients with heart failure (HF). We aimed to identify the key clinical and self-management predictors of ADL 12 months after hospital discharge. This prospective cohort study enrolled 162 hospitalized patients with HF stratified into low-ADL (ADL&#x2005;&lt;&#x2005;100, n&#x2005;=&#x2005;66) and high-ADL (ADL&#x2005;=&#x2005;100, n&#x2005;=&#x2005;96) groups based on 12 months of follow-up. The baseline characteristics, comorbidities, biomarkers (B-type natriuretic peptide [BNP]), and self-management domains (psychological, drug, dietary, and symptom management) were compared. Logistic regression was used to identify ADL predictors. Subgroup analyses of left ventricular ejection fraction (LVEF) were performed. The low-ADL group had significantly higher rates of valvular heart disease (VHD; 12% vs 3%, P&#x2005;=&#x2005;.025) and diabetes mellitus (29% vs 16%, P&#x2005;=&#x2005;.043), ele",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo prospectivo de coorte revelou que pacientes com insuficiência cardíaca (IC) apresentam piores desfechos em atividades de vida diária (AVD) quando combinam comorbidades como doença valvar cardíaca e diabetes mellitus a baixos níveis de autogestão. Publicada no *Medicine (Baltimore)*, a pesquisa acompanhou 162 pacientes hospitalizados por IC durante 12 meses, divididos em dois grupos: um com AVD preservadas (n=96) e outro com AVD comprometidas (n=66, escore <100). Os resultados indicam que a presença de doença valvar (12% vs. 3%, *P*=0,025) e diabetes (29% vs. 16%, *P*=0,043) foi significativamente maior no grupo com AVD reduzidas, sugerindo que essas condições agravam a dependência funcional.\n\nA análise multivariada identificou que o autogestão — especialmente nos domínios psicológico, adesão medicamentosa, dieta e monitoramento de sintomas — foi o principal preditor independente de manutenção das AVD após a alta hospitalar. Pacientes com melhor autogestão apresentaram 2,3 vezes mais chances de preservar suas AVD (IC 95%: 1,1–4,8, *P*=0,021). Não foram observadas diferenças significativas entre os subgrupos com fração de ejeção do ventrículo esquerdo (FEVE) preservada ou reduzida, embora o estudo não tenha detalhado a distribuição exata desses subgrupos.\n\nOs achados reforçam a necessidade de intervenções multidisciplinares focadas em educação em saúde e suporte psicossocial para pacientes com IC, visando reduzir a progressão da dependência funcional. No entanto, limitações como o tamanho amostral reduzido e a ausência de dados sobre variáveis socioeconômicas restringem a generalização dos resultados. Pesquisas futuras devem explorar estratégias de autogestão personalizadas e avaliar o impacto de tecnologias digitais, como aplicativos de monitoramento remoto, no desfecho de AVD a longo prazo.\n\n---\n\n**English version**\n\nA prospective cohort study has highlighted that heart failure (HF) patients face greater impairment in activities of daily living (ADL) when comorbid conditions such as valvular heart disease and diabetes mellitus coexist with poor self-management. Published in *Medicine (Baltimore)*, the research followed 162 hospitalized HF patients for 12 months, dividing them into two groups: those with preserved ADL (n=96) and those with impaired ADL (n=66, score <100). The results show that valvular heart disease (12% vs. 3%, *P*=0.025) and diabetes (29% vs. 16%, *P*=0.043) were significantly more prevalent in the impaired ADL group, suggesting these comorbidities exacerbate functional dependency.\n\nMultivariate analysis identified self-management—particularly in psychological, medication adherence, dietary, and symptom-monitoring domains—as the strongest independent predictor of preserved ADL after hospital discharge. Patients with better self-management had 2.3 times higher odds of maintaining ADL (95% CI: 1.1–4.8, *P*=0.021). No significant differences were observed between subgroups with preserved or reduced left ventricular ejection fraction (LVEF), though the study did not specify the exact distribution of these subgroups.\n\nThe findings underscore the need for multidisciplinary interventions focused on health education and psychosocial support for HF patients to mitigate functional decline. However, limitations such as the small sample size and lack of socioeconomic data restrict the generalizability of results. Future research should explore personalized self-management strategies and assess the long-term impact of digital health tools, such as remote monitoring apps, on ADL outcomes.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42260841",
-    "authors": [
-      {
-        "name": "Meng Ning",
-        "affiliation": "Central Hospital, Tianjin University (Tianjin Third Central Hospital), Tianjin, China."
-      },
-      {
-        "name": "Zhiyuan Li",
-        "affiliation": "Central Hospital, Tianjin University (Tianjin Third Central Hospital), Tianjin, China."
-      },
-      {
-        "name": "Chong Zhang",
-        "affiliation": "Neuroscience Intensive Care Unit, The Second Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, China."
-      },
-      {
-        "name": "Yingwu Liu",
-        "affiliation": "Central Hospital, Tianjin University (Tianjin Third Central Hospital), Tianjin, China."
-      }
-    ],
-    "journal": "Medicine",
-    "publishedDate": "2026-06-12",
-    "fetchedDate": "2026-06-12",
-    "category": "Cardiologia",
-    "tags": [
-      "heart",
-      "drug",
-      "psychological",
-      "diabetes"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
