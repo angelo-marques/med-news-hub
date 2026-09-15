@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42741654",
+    "pmid": "42741654",
+    "doi": "10.1002/trc2.70287",
+    "title": "Alzheimer's disease heterogeneity and co-pathologies: Defining novel targets, biomarkers, modalities, and research methodologies.",
+    "titlePt": "Alzheimer's disease heterogeneity and co-pathologies: Defining novel targets, biomarkers, modalities, and research methodologies.",
+    "abstract": "Alzheimer's disease (AD) is a biologically heterogeneous condition with vascular, proteinopathic, metabolic, and immune processes jointly shaping its clinical expression, trajectory of progression, and response to therapeutic intervention. Common AD co-pathologies such as cerebral amyloid angiopathy, Lewy body pathology, &#x3b1;-synuclein, and transactive response DNA-binding protein of 43&#xa0;kDa (TDP-43)/limbic-predominant age-related TDP-43 encephalopathy are also increasingly connected with cognitive decline and therapeutic response. Significant advances in biomarkers, including seed amplification assays, proteomic signatures, and emerging positron emission tomography tracers bolster the field's understanding of a biological staging model and discovery of previously unrecognized co-pathologies. The Fall 2025 Alzheimer's Association Research Roundtable (AARR) brought together academic, clinical, and industry leaders to discuss and explore the current advances in the heterogeneity a",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42741654",
+    "authors": [
+      {
+        "name": "Mal&#xfa; G&#xe1;mez Tansey",
+        "affiliation": "Department of Neurology Indiana University School of Medicine Indianapolis Indiana USA."
+      },
+      {
+        "name": "Sasha Bozeat",
+        "affiliation": "Stark Neurosciences Research Institute Indiana University School of Medicine Indianapolis Indiana USA."
+      },
+      {
+        "name": "Peter Ackerman",
+        "affiliation": "F. Hoffman-La Roche AG Basel Switzerland."
+      },
+      {
+        "name": "Alireza Atri",
+        "affiliation": "Clinical Development Biohaven Pharmaceuticals New Haven Connecticut USA."
+      }
+    ],
+    "journal": "Alzheimer's &amp; dementia (New York, N. Y.)",
+    "publishedDate": "2026-09-15",
+    "fetchedDate": "2026-09-15",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "cognitive",
+      "gene",
+      "dna",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1Qp5VV-2kFHot-a3b9cbfccef54c92\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-41955577",
     "pmid": "41955577",
     "doi": "10.1093/ejhf/xuag106",
@@ -12609,50 +12653,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42261238",
-    "pmid": "42261238",
-    "doi": "10.1080/22221751.2026.2673651",
-    "title": "Transmitted and pretreatment drug resistance among 69 HIV-1 CRFs in China: the first systematic analysis.",
-    "titlePt": "Transmitted and pretreatment drug resistance among 69 HIV-1 CRFs in China: the first systematic analysis.",
-    "abstract": "In recent years, an increasing number of HIV-1 circulating recombinant forms (CRFs) have been identified in China. This study presented the first systematic analysis of the molecular epidemiological characteristics and drug resistance mutations (DRMs) profiles of all 69 CRFs identified in China up to 2025, comprising 13 first-generation, 45 second-generation, 10 third-generation, and one fourth-generation CRF . Several CRFs exhibited moderate transmitted drug resistance (5-15%) and elevated pretreatment drug resistance (10.8-55.1%). Notably, V179D/E were prevalent across multiple CRFs and, in combination with other DRMs, may contribute to reduced susceptibility to non-nucleoside reverse transcriptase inhibitors (NNRTIs). These findings provided critical surveillance data on DRMs and baseline data for NNRTIs selection in China, underscoring the necessity of phenotypic validation in novel CRFs harbouring natural DRMs.",
-    "journalisticSummary": "**Versão em português**\n\nUm estudo recente publicado na *PubMed* analisou pela primeira vez as características epidemiológicas moleculares e os perfis de mutações de resistência a medicamentos (DRMs) de todos os 69 formas recombinantes circulantes (CRFs) do HIV-1 identificadas na China até 2025. Divididos em quatro gerações — 13 de primeira, 45 de segunda, 10 de terceira e uma de quarta —, os CRFs revelaram padrões preocupantes de resistência transmitida moderada (5% a 15%) e resistência pré-tratamento elevada (10,8% a 55,1%).\n\nAs mutações V179D/E se destacaram por sua prevalência em múltiplos CRFs, frequentemente associadas a outras DRMs que reduzem a suscetibilidade aos inibidores da transcriptase reversa não análogos de nucleosídeos (NNRTIs). Segundo os autores, esses achados fornecem dados essenciais para vigilância epidemiológica e orientam a seleção de terapias iniciais com NNRTIs, embora ressaltem a necessidade de validação fenotípica em CRFs com mutações naturais de resistência, ainda pouco compreendidas.\n\nAs limitações incluem a ausência de dados sobre a distribuição geográfica detalhada dos CRFs e a variabilidade de resposta clínica entre populações, fatores que poderiam enriquecer a análise. Os próximos passos sugerem estudos longitudinais para avaliar a eficácia de esquemas terapêuticos frente à emergência de novas mutações e a expansão da vigilância genômica em regiões com alta diversidade viral.\n\n---\n\n**English version**\n\nA recent study published in *PubMed* conducted the first systematic analysis of the molecular epidemiological characteristics and drug resistance mutation (DRM) profiles of all 69 circulating recombinant forms (CRFs) of HIV-1 identified in China up to 2025. Classified into four generations—13 first-generation, 45 second-generation, 10 third-generation, and one fourth-generation—the CRFs showed concerning patterns of moderate transmitted drug resistance (5% to 15%) and elevated pretreatment drug resistance (10.8% to 55.1%).\n\nThe mutations V179D/E were notably prevalent across multiple CRFs, often in combination with other DRMs that reduce susceptibility to non-nucleoside reverse transcriptase inhibitors (NNRTIs). The authors highlight that these findings provide critical surveillance data and baseline guidance for NNRTI-based initial therapies, while emphasizing the need for phenotypic validation in novel CRFs harboring natural DRMs, whose clinical impact remains understudied.\n\nKey limitations include the lack of detailed geographical distribution data for the CRFs and variability in clinical responses across populations, factors that could enhance the analysis. Future research should focus on longitudinal studies to assess treatment efficacy amid emerging mutations and expand genomic surveillance in regions with high viral diversity.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42261238",
-    "authors": [
-      {
-        "name": "Xiaoyi Yin",
-        "affiliation": "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, NHC Key Laboratory of AIDS Prevention and Treatment, National Clinical Research Center for Medical Auxiliary Technology (Laboratory Medicine), The First Hospital of China Medical University, China Medical University, Shenyang, People's Republic of China."
-      },
-      {
-        "name": "Bin Zhao",
-        "affiliation": "Key Laboratory of AIDS Immunology, Chinese Academy of Medical Sciences, Shenyang, People's Republic of China."
-      },
-      {
-        "name": "Minghui An",
-        "affiliation": "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, NHC Key Laboratory of AIDS Prevention and Treatment, National Clinical Research Center for Medical Auxiliary Technology (Laboratory Medicine), The First Hospital of China Medical University, China Medical University, Shenyang, People's Republic of China."
-      },
-      {
-        "name": "Danni Wang",
-        "affiliation": "Key Laboratory of AIDS Immunology, Chinese Academy of Medical Sciences, Shenyang, People's Republic of China."
-      }
-    ],
-    "journal": "Emerging microbes &amp; infections",
-    "publishedDate": "2026-06-12",
-    "fetchedDate": "2026-06-13",
-    "category": "Genômica",
-    "tags": [
-      "hiv",
-      "gene",
-      "mutation",
-      "drug"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
