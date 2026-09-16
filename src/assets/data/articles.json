@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42526164",
+    "pmid": "42526164",
+    "doi": "10.1016/j.pediatrneurol.2026.07.002",
+    "title": "Prevalence, Diagnosis, and Treatment of Psychiatric Symptoms After Arterial Ischemic Stroke in Childhood: A Systematic Review.",
+    "titlePt": "Prevalence, Diagnosis, and Treatment of Psychiatric Symptoms After Arterial Ischemic Stroke in Childhood: A Systematic Review.",
+    "abstract": "Pediatric arterial ischemic stroke (AIS) is increasing in prevalence, and evidence suggests survivors have a high risk of developing psychiatric conditions, including depression, anxiety, and attention-deficit/hyperactivity disorder. Heterogeneous study designs and outcome measures limit comparability. We aimed to systematically review current evidence on prevalence, diagnostic approaches, and treatment of psychiatric conditions after childhood AIS. PubMed and Embase were used to identify studies published between January 2000 and November 2025 evaluating psychiatric outcomes after childhood AIS. Demographic characteristics, stroke features, psychiatric diagnoses, assessment methods, and reported treatments were extracted. Twenty-two studies encompassing 2685 pediatric patients with AIS (56.6% male) met inclusion criteria. The mean ages at stroke onset and psychiatric diagnosis/assessment were 6.11 and 12.2 years, respectively. Across included studies, 11.4% of children had at least on",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526164",
+    "authors": [
+      {
+        "name": "Diwas Gautam",
+        "affiliation": "Department of Neurosurgery, Clinical Neurosciences Center, University of Utah, Salt Lake City, Utah."
+      },
+      {
+        "name": "Christina R Dantam",
+        "affiliation": "Division of Pediatric Neurosurgery, Primary Children's Hospital, Salt Lake City, Utah."
+      },
+      {
+        "name": "Lisa Pabst",
+        "affiliation": "Division of Pediatric Neurology, Department of Pediatrics, University of Utah, Salt Lake City, Utah."
+      },
+      {
+        "name": "Craig J Kilburg",
+        "affiliation": "Department of Neurosurgery, Clinical Neurosciences Center, University of Utah, Salt Lake City, Utah."
+      }
+    ],
+    "journal": "Pediatric neurology",
+    "publishedDate": "2026-09-15",
+    "fetchedDate": "2026-09-16",
+    "category": "Saúde Mental",
+    "tags": [
+      "stroke",
+      "gene",
+      "depression",
+      "anxiety",
+      "psychiatric"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1UJjc8-2kFHot-a3bd91579f41c948\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42741654",
     "pmid": "42741654",
     "doi": "10.1002/trc2.70287",
@@ -12616,46 +12660,5 @@
     "readTime": 11,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1Ga82T-2kFHot-a3b0e7411b635e6f\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42219066",
-    "pmid": "42219066",
-    "doi": "10.1016/j.jep.2026.121928",
-    "title": "A systematic review and meta-analysis of randomized controlled trials on the efficacy of Shensong Yangxin capsule for recurrence of atrial fibrillation after catheter ablation.",
-    "titlePt": "A systematic review and meta-analysis of randomized controlled trials on the efficacy of Shensong Yangxin capsule for recurrence of atrial fibrillation after catheter ablation.",
-    "abstract": "Shensong Yangxin (SSYX) capsule, a well-known Chinese patent medicine, is widely applied in the treatment of atrial fibrillation (AF). To determine the efficacy and safety of SSYX as adjunctive therapy on recurrence after ablation in AF patients. A systematic search was conducted across eight databases to identify randomized controlled trials (RCTs) involving SSYX therapy after first AF ablation until 1st July 2025. The primary outcome was AF recurrence, and safety endpoint was also examined. The quality of evidence was assessed using the GRADE framework. The protocol was prospectively registered on PROSPERO (CRD420251012453). Nine studies comprising 2199 patients were included. Anti-arrhythmic drugs (AADs) plus SSYX reduced early recurrence by 45% (RR 0.55, 95% CI: 0.42 to 0.71, P&#x202f;&lt;&#x202f;0.001; I2&#x202f;=&#x202f;0%) in overall AF populations, and late recurrence by 38% (RR 0.62, 95% CI: 0.47 to 0.81, P&#x202f;&lt;&#x202f;0.001; I2&#x202f;=&#x202f;0%) in persistent AF. Mor",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42219066",
-    "authors": [
-      {
-        "name": "Tianshi Mao",
-        "affiliation": "Department of Cardiology, Dongzhimen Hospital, Beijing University of Chinese Medicine, No. 5 Hai Yun Cang, Dongcheng District, Beijing, 100700, China."
-      },
-      {
-        "name": "Yuxuan Li",
-        "affiliation": "Department of Cardiology, Dongzhimen Hospital, Beijing University of Chinese Medicine, No. 5 Hai Yun Cang, Dongcheng District, Beijing, 100700, China."
-      },
-      {
-        "name": "Jie Chen",
-        "affiliation": "Department of Integrated Traditional Chinese and Western Medicine, The First Affiliated Hospital of Anhui Medical University, Hefei, 230032, China."
-      },
-      {
-        "name": "Xinyan Qu",
-        "affiliation": "Department of Cardiology, Dongzhimen Hospital, Beijing University of Chinese Medicine, No. 5 Hai Yun Cang, Dongcheng District, Beijing, 100700, China."
-      }
-    ],
-    "journal": "Journal of ethnopharmacology",
-    "publishedDate": "2026-06-12",
-    "fetchedDate": "2026-09-12",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "drug"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p11Da3Q-2kFHot-a3a05522ab329814\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
