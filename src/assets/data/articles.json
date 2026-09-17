@@ -1,5 +1,45 @@
 [
   {
+    "id": "pubmed-42750728",
+    "pmid": "42750728",
+    "doi": "10.1016/j.jtocrr.2026.101047",
+    "title": "SKYSCRAPER-05: A Phase 2 Study of Perioperative Tiragolumab Plus Atezolizumab, With or Without Platinum-Based Chemotherapy, in Patients With Previously Untreated, Locally Advanced, Resectable, Stage II&#x2012;IIIB NSCLC.",
+    "titlePt": "SKYSCRAPER-05: A Phase 2 Study of Perioperative Tiragolumab Plus Atezolizumab, With or Without Platinum-Based Chemotherapy, in Patients With Previously Untreated, Locally Advanced, Resectable, Stage II&#x2012;IIIB NSCLC.",
+    "abstract": "The SKYSCRAPER-05 (NCT04832854), a phase 2, open-label, multicenter study, evaluated perioperative treatment with tiragolumab plus atezolizumab &#xb1; platinum-based chemotherapy in treatment-naive patients with resectable, stage II-IIIB NSCLC. Cohort A (programmed death ligand-1 [PD-L1]-high) received 4 cycles of neoadjuvant tiragolumab (600 mg IV) plus atezolizumab (1200 mg IV) every 3 weeks, surgery, and the investigator's choice of adjuvant tiragolumab plus atezolizumab (16 cycles) or platinum-based chemotherapy (4 cycles). Cohort B (PD-L1 all-comers) received tiragolumab plus atezolizumab plus platinum-based chemotherapy (4 cycles), surgery, and tiragolumab plus atezolizumab every 3 weeks (16 cycles). The co-primary end points were major pathologic response (MPR), surgical feasibility, and safety; the secondary end points were pathologic complete response and event-free survival. At clinical cutoff (February 14, 2024), 50 patients were enrolled (70% male; 66% White), and 48 receiv",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750728",
+    "authors": [
+      {
+        "name": "Catherine A Shu",
+        "affiliation": "Division of Hematology and Medical Oncology, Department of Medicine, Herbert Irving Comprehensive Cancer Center, Columbia University, New York, New York."
+      },
+      {
+        "name": "Anthony W Kim",
+        "affiliation": "Division of Thoracic Surgery, Department of Surgery, Keck School of Medicine, University of Southern California, Los Angeles, California."
+      },
+      {
+        "name": "Min Hee Hong",
+        "affiliation": "Department of Internal Medicine, Yonsei Cancer Center, Severance Hospital, Yonsei University College of Medicine, Seoul, Republic of Korea."
+      },
+      {
+        "name": "Alex Martinez Marti",
+        "affiliation": "Department of Medical Oncology, Vall d'Hebron University Hospital, Vall d'Hebron Institute of Oncology, Barcelona, Spain."
+      }
+    ],
+    "journal": "JTO clinical and research reports",
+    "publishedDate": "2026-09-17",
+    "fetchedDate": "2026-09-17",
+    "category": "Oncologia",
+    "tags": [
+      "chemotherapy"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1damcN-2kFHot-a3c79441ce04b560\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42624033",
     "pmid": "42624033",
     "doi": "10.1016/j.identj.2026.109791",
@@ -12606,50 +12646,5 @@
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42066786",
-    "pmid": "42066786",
-    "doi": "10.1016/S2468-1253(26)00047-6",
-    "title": "Effect of one or two cycles of dual immunotherapy with nivolumab and ipilimumab in patients with mismatch repair-deficient rectal cancer (RESET-R): interim results from a multicentre, single-arm, phase 2 trial.",
-    "titlePt": "Effect of one or two cycles of dual immunotherapy with nivolumab and ipilimumab in patients with mismatch repair-deficient rectal cancer (RESET-R): interim results from a multicentre, single-arm, phase 2 trial.",
-    "abstract": "Mismatch repair-deficient (dMMR) tumours are highly sensitive to immune checkpoint blockade in the metastatic setting. Previous trials showed near-universal pathological responses after short-course dual immune checkpoint inhibition in patients with early-stage dMMR colon cancer, and high clinical complete response rates after 6 months of single-agent PD-1 blockade in patients with dMMR rectal cancer. We aimed to evaluate the activity and safety of a short duration of preoperative nivolumab and ipilimumab in patients with early or locally advanced dMMR rectal cancer. In the RESET-R trial, a multicentre, single-arm, phase 2 trial conducted in two hospitals in Denmark, we enrolled patients aged 18 years or older with histologically confirmed stage I-III dMMR rectal adenocarcinoma, an Eastern Cooperative Oncology Group performance status of 0 or 1, and no previous systemic or local therapy for rectal cancer. Patients received one cycle of nivolumab (3 mg/kg intravenously on days 1 and 15)",
-    "journalisticSummary": "Um estudo publicado recentemente na literatura científica investigou o efeito da imunoterapia dual com nivolumab e ipilimumab em pacientes com câncer retal deficiente na reparação de erros de replicação (dMMR). Esses tumores têm demonstrado alta sensibilidade ao bloqueio de pontos de controle imunológica em contextos metastáticos. Estudos anteriores mostraram respostas patológicas quase universais após curtos cursos de inibição dual de pontos de controle imunológica em pacientes com câncer de cólon em estágio inicial dMMR, bem como altas taxas de resposta clínica completa após 6 meses de bloqueio de PD-1 em pacientes com câncer retal dMMR.\n\nO estudo RESET-R, um ensaio clínico de fase 2, multicêntrico e de braço único, avaliou a atividade e segurança de uma duração curta de nivolumab e ipilimumab pré-operatórios em pacientes com câncer retal dMMR em estágio inicial ou localmente avançado. Os pacientes incluídos tinham idade igual ou superior a 18 anos, adenocarcinoma retal dMMR confirmado histologicamente, estágio I-III, estado de desempenho de 0 ou 1 segundo a Eastern Cooperative Oncology Group e não haviam recebido terapia sistêmica ou local prévia para câncer retal. Eles receberam um ciclo de nivolumab (3 mg/kg intravenosamente nos dias 1 e 15) e ipilimumab. Os resultados intercalares do estudo indicam a eficácia da abordagem, mas não foram fornecidos detalhes específicos sobre as taxas de resposta ou os efeitos colaterais observados.\n\nO impacto clínico desse estudo pode ser significativo, considerando a alta sensibilidade dos tumores dMMR à terapia imunológica. No entanto, limitações do estudo incluem o pequeno tamanho da amostra e a ausência de um grupo de controle. Próximos passos podem incluir a ampliação do estudo para uma população maior e a comparação com outras abordagens terapêuticas. Mais pesquisas são necessárias para determinar a eficácia e segurança a longo prazo da imunoterapia dual em pacientes com câncer retal dMMR.\n\nUm estudo publicado recentemente na literatura científica investigou o efeito da imunoterapia dual com nivolumab e ipilimumab em pacientes com câncer retal deficiente na reparação de erros de replicação (dMMR), mas não foi informado no resumo original os resultados completos, como as taxas de resposta ou os efeitos colaterais.\n\nA recent study published in the scientific literature investigated the effect of dual immunotherapy with nivolumab and ipilimumab in patients with mismatch repair-deficient (dMMR) rectal cancer. These tumors have shown high sensitivity to immune checkpoint blockade in metastatic settings. Previous studies have demonstrated near-universal pathological responses after short courses of dual immune checkpoint inhibition in patients with early-stage dMMR colon cancer, as well as high clinical complete response rates after 6 months of single-agent PD-1 blockade in patients with dMMR rectal cancer.\n\nThe RESET-R study, a multicenter, single-arm, phase 2 trial, evaluated the activity and safety of a short duration of preoperative nivolumab and ipilimumab in patients with early or locally advanced dMMR rectal cancer. Patients included had an age of 18 years or older, histologically confirmed stage I-III dMMR rectal adenocarcinoma, an Eastern Cooperative Oncology Group performance status of 0 or 1, and no previous systemic or local therapy for rectal cancer. They received one cycle of nivolumab (3 mg/kg intravenously on days 1 and 15) and ipilimumab. The interim results of the study indicate the efficacy of the approach, but specific details about response rates or adverse effects observed were not provided.\n\nThe clinical impact of this study may be significant, considering the high sensitivity of dMMR tumors to immunological therapy. However, limitations of the study include the small sample size and the lack of a control group. Next steps may include expanding the study to a larger population and comparing it with other therapeutic approaches. Further research is needed to determine the long-term efficacy and safety of dual immunotherapy in patients with dMMR rectal cancer.\n\nA recent study published in the scientific literature investigated the effect of dual immunotherapy with nivolumab and ipilimumab in patients with mismatch repair-deficient (dMMR) rectal cancer, but the complete results, such as response rates or adverse effects, were not reported in the original abstract.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42066786",
-    "authors": [
-      {
-        "name": "Line Schmidt Tarpgaard",
-        "affiliation": "Department of Oncology, Odense University Hospital, Odense, Denmark; Department of Clinical Research, University of Southern Denmark, Odense, Denmark. Electronic address: line.tarpgaard@rsyd.dk."
-      },
-      {
-        "name": "Laurids &#xd8;stergaard Poulsen",
-        "affiliation": "Department of Oncology, Aalborg University Hospital, Aalborg, Denmark."
-      },
-      {
-        "name": "Ismail G&#xf6;genur",
-        "affiliation": "Center for Surgical Science, Zealand University Hospital, K&#xf8;ge, Denmark; Department of Clinical Medicine, University of Copenhagen, Copenhagen, Denmark."
-      },
-      {
-        "name": "Tobias Freyberg Justesen",
-        "affiliation": "Center for Surgical Science, Zealand University Hospital, K&#xf8;ge, Denmark; Department of Clinical Medicine, University of Copenhagen, Copenhagen, Denmark."
-      }
-    ],
-    "journal": "The lancet. Gastroenterology &amp; hepatology",
-    "publishedDate": "2026-06-13",
-    "fetchedDate": "2026-06-15",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "oncology",
-      "carcinoma",
-      "immunotherapy",
-      "immune"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
