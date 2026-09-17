@@ -1,5 +1,131 @@
 [
   {
+    "id": "pubmed-42490071",
+    "pmid": "42490071",
+    "doi": "10.1001/jamaoncol.2026.2490",
+    "title": "Ultralow-Dose Interleukin 10-Expressing Chimeric Antigen Receptor T Cells in Relapsed/Refractory Diffuse Large B-Cell Lymphoma: A Nonrandomized Clinical Trial.",
+    "titlePt": "Ultralow-Dose Interleukin 10-Expressing Chimeric Antigen Receptor T Cells in Relapsed/Refractory Diffuse Large B-Cell Lymphoma: A Nonrandomized Clinical Trial.",
+    "abstract": "Interleukin (IL)-10 expressing CD19 chimeric antigen receptor (CAR) T cells (META 10-19) have demonstrated encouraging clinical activity in B-cell acute lymphoblastic leukemia, but their safety and efficacy in relapsed/refractory (R/R) diffuse large B-cell lymphoma (DLBCL) remain unknown. To evaluate the safety and efficacy of META 10-19 in patients with R/R DLBCL. This nonrandomized, phase 1 clinical trial was conducted at the First Affiliated Hospital of Zhejiang University School of Medicine. Patients were enrolled from November 16, 2023, to April 7, 2025. The data cutoff date was January 20, 2026. The data analysis was conducted on January 22, 2026. Twenty patients were screened, and 13 received a META 10-19 infusion. The median duration of follow-up was 15.6 (range, 0.7-25.5) months. Following lymphodepletion with fludarabine and cyclophosphamide, patients received META 10-19 at dose levels of 2&#x2009;&#xd7;&#x2009;103, 5&#x2009;&#xd7;&#x2009;103 or 2&#x2009;&#xd7;&#x2009;104 CAR",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42490071",
+    "authors": [
+      {
+        "name": "Yongxian Hu",
+        "affiliation": "Bone Marrow Transplantation Center of the First Affiliated Hospital and Liangzhu Laboratory, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+      },
+      {
+        "name": "Mingming Zhang",
+        "affiliation": "Institute of Hematology, Zhejiang University, Hangzhou, Zhejiang, China."
+      },
+      {
+        "name": "Min Gao",
+        "affiliation": "Zhejiang Province Engineering Research Center for Stem Cell and Immunity Therapy, Hangzhou, Zhejiang, China."
+      },
+      {
+        "name": "Yetian Dong",
+        "affiliation": "Bone Marrow Transplantation Center of the First Affiliated Hospital and Liangzhu Laboratory, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+      }
+    ],
+    "journal": "JAMA oncology",
+    "publishedDate": "2026-09-17",
+    "fetchedDate": "2026-09-17",
+    "category": "Oncologia",
+    "tags": [
+      "leukemia",
+      "lymphoma",
+      "clinical trial"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1higYN-2kFHot-a3cc0b132f952ed9\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42751994",
+    "pmid": "42751994",
+    "doi": "10.1002/ccd.70869",
+    "title": "Hemodynamic Correlates and Prognostic Value of the RISA-PE Staging System in Acute Pulmonary Embolism.",
+    "titlePt": "Hemodynamic Correlates and Prognostic Value of the RISA-PE Staging System in Acute Pulmonary Embolism.",
+    "abstract": "Emerging therapies for acute PE highlight the need for a more granular risk classification. The objective of this study was to validate a novel risk model-the RIsk claSsification Adapted to SCAI shock stages in acute PE (RISA-PE), which applies the SCAI shock staging framework to right ventricular failure due to acute PE. We retrospectively analyzed consecutive patients with acute intermediate- or high-risk PE treated with LBMT at a tertiary academic center (October 2020 to May 2025). Patients were stratified by RISA-PE stage (A-E) as previously described. Clinical data, including invasive pulmonary artery catheter hemodynamics and clinical outcomes were compared across stages. The primary endpoint was a composite of 30-day PE-related death, resuscitated cardiac arrest, or hemodynamic instability. Among the 181 patients (median age 59 years, 45% women) included in the study, advancing RISA-PE stage was associated with progressive tachycardia, higher shock index, worse biomarker derange",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42751994",
+    "authors": [
+      {
+        "name": "Robert S Zhang",
+        "affiliation": "Division of Cardiology, Weill Cornell Medicine, New York, New York, USA."
+      },
+      {
+        "name": "Roc&#xed;o P&#xe1;rraga",
+        "affiliation": "Department of Cardiology, Cardiovascular Institute, Hospital Clinico San Carlos, Madrid, Spain."
+      },
+      {
+        "name": "Carlos Real",
+        "affiliation": "Centro Nacional de Investigaciones Cardiovasculares, Carlos III (CNIC), Madrid, Spain."
+      },
+      {
+        "name": "Peter Zhang",
+        "affiliation": "Centro Nacional de Investigaciones Cardiovasculares, Carlos III (CNIC), Madrid, Spain."
+      }
+    ],
+    "journal": "Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography &amp; Interventions",
+    "publishedDate": "2026-09-17",
+    "fetchedDate": "2026-09-17",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1hiovX-2kFHot-a3cc0bae6df946c7\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42383885",
+    "pmid": "42383885",
+    "doi": "10.1177/07067437261462698",
+    "title": "Prevalence of Comorbid Postpartum Depression and Anxiety in Birthing Parents Seeking Treatment for Postpartum Depression: Pr&#xe9;valence de la pr&#xe9;sence comorbide de la d&#xe9;pression et de l'anxi&#xe9;t&#xe9; post-partum chez les parents ayant accouch&#xe9; qui ont consult&#xe9; en raison de la d&#xe9;pression post-partum.",
+    "titlePt": "Prevalence of Comorbid Postpartum Depression and Anxiety in Birthing Parents Seeking Treatment for Postpartum Depression: Pr&#xe9;valence de la pr&#xe9;sence comorbide de la d&#xe9;pression et de l'anxi&#xe9;t&#xe9; post-partum chez les parents ayant accouch&#xe9; qui ont consult&#xe9; en raison de la d&#xe9;pression post-partum.",
+    "abstract": "ObjectiveTo estimate the prevalence of comorbid postpartum depression (PPD) and postpartum anxiety (PPA) in birthing parents seeking treatment for PPD in Ontario, Canada and who were enrolled in 1 of 9 randomized controlled trials (RCTs) of cognitive behavioural therapies (CBT) for PPD.MethodsSecondary analysis of 9 pooled RCTs containing baseline data from 1920 birthing parents and conducted between 2017 and 2025. All participants were living in Ontario, Canada with Edinburgh Postnatal Depression Scale (EPDS) Scores &#x2265;10 and infants &lt;12 months old. Comorbid anxiety was assessed using the Generalized Anxiety Disorder-7 (GAD-7) scale, the Penn State Worry Questionnaire (PSWQ) and/or the Mini International Neuropsychiatric Interview (MINI).ResultsSixty-six percent of participants with PPD (EPDS scores &#x2265;10) had moderate to severe anxiety (GAD-7 scale score &#x2265;10; 95% confidence interval (CI) 63-68%, 7 studies, n&#x2009;=&#x2009;1654), and 69% with PPD met the cutoff f",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42383885",
+    "authors": [
+      {
+        "name": "Karley V George",
+        "affiliation": "Neuroscience Graduate Program, McMaster University, Hamilton, Ontario, Canada.3710"
+      },
+      {
+        "name": "Calan D Savoy",
+        "affiliation": "Department of Psychiatry and Behavioural Neurosciences, McMaster University, Hamilton, Ontario, Canada.3710"
+      },
+      {
+        "name": "Haley Layton",
+        "affiliation": "Health Research Methodology Graduate Program, McMaster University, Hamilton, Ontario, Canada.3710"
+      },
+      {
+        "name": "Peter J Bieling",
+        "affiliation": "Department of Psychiatry and Behavioural Neurosciences, McMaster University, Hamilton, Ontario, Canada.3710"
+      }
+    ],
+    "journal": "Canadian journal of psychiatry. Revue canadienne de psychiatrie",
+    "publishedDate": "2026-09-17",
+    "fetchedDate": "2026-09-17",
+    "category": "Saúde Mental",
+    "tags": [
+      "cognitive",
+      "gene",
+      "rna",
+      "depression",
+      "anxiety"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1hjc8z-2kFHot-a3cc0f7a2de746c7\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42750728",
     "pmid": "42750728",
     "doi": "10.1016/j.jtocrr.2026.101047",
@@ -12515,136 +12641,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-40679737",
-    "pmid": "40679737",
-    "doi": "10.1007/s12664-025-01823-2",
-    "title": "Primary non-hepatoblastoma liver tumors in children-Defining the profile of a very rare subset of childhood tumors.",
-    "titlePt": "Primary non-hepatoblastoma liver tumors in children-Defining the profile of a very rare subset of childhood tumors.",
-    "abstract": "Primary pediatric non-hepatoblastoma (n-HB) liver tumors are rare with limited literature on their clinical-epidemiological profile and outcomes. We audit the above in this study. Children diagnosed with n-HB primary liver tumors from January 2012 to December 2023 were analyzed retrospectively. Patients underwent contrast-enhanced computed tomography (CECT) of the abdomen and computed tomography (CT) of the thorax or fluorodeoxyglucosepositron emission tomography/computed tomography (FDG-PET/CT)&#xa0;for staging of malignant tumors. Treatment was administered based on the definitive diagnosis. Sixty-nine patients formed the study cohort. The most common tumors in various age groups were infantile hepatic hemangioma (IHH)-66.7%, malignant rhabdoid tumor (MRT)-25%; six&#xa0;months to three&#xa0;years: MRT-25.0%, mesenchymal hamartoma and hemangioendothelioma-18.7% each; three to 10&#xa0;years: hepatocellular carcinoma (HCC)-31.6%, undifferentiated embryonal sarcoma of the liver (UESL)-26",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo publicado na *PubMed* (DOI: 10.1007/s12664-025-01823-2) analisou o perfil clínico-epidemiológico e desfechos de tumores primários de fígado não hepatoblastoma (n-HB) em crianças, uma condição rara com escassa literatura disponível. A pesquisa, que avaliou pacientes diagnosticados entre janeiro de 2012 e dezembro de 2023, identificou 69 casos, com distribuição etária e histológica distinta conforme o grupo analisado. Entre lactentes (até seis meses), o hemangioma hepático infantil (IHH) foi o mais frequente (66,7%), enquanto o tumor rabdoide maligno (MRT) representou 25% dos casos. No grupo de seis meses a três anos, o MRT também foi prevalente (25%), seguido de hamartoma mesenquimal e hemangioendotelioma (18,7% cada). Para crianças de três a 10 anos, o carcinoma hepatocelular (HCC) e o sarcoma embrionário indiferenciado do fígado (UESL) foram os tumores mais comuns, com 31,6% e 26% de representatividade, respectivamente.\n\nOs pacientes foram submetidos a estadiamento por tomografia computadorizada contrastada (CECT) de abdome e tórax ou PET-CT com FDG, conforme a suspeita de malignidade. O tratamento foi guiado pelo diagnóstico definitivo, mas detalhes sobre protocolos terapêuticos específicos ou sobrevida não foram reportados no resumo analisado. A ausência de dados sobre desfechos de longo prazo e fatores prognósticos limita a interpretação clínica, embora o estudo sublinhe a necessidade de abordagens personalizadas devido à heterogeneidade dos subtipos tumorais. Pesquisas futuras devem explorar estratégias de diagnóstico precoce e terapias direcionadas, considerando a raridade dessas neoplasias e a variabilidade etária observada.\n\n---\n\n**English version**\n\nA retrospective study published in *PubMed* (DOI: 10.1007/s12664-025-01823-2) examined the clinical-epidemiological profile and outcomes of primary non-hepatoblastoma (n-HB) liver tumors in children, a rare condition with limited existing literature. The research, which analyzed patients diagnosed between January 2012 and December 2023, identified 69 cases with distinct age-related and histological distributions. Among infants (up to six months), infantile hepatic hemangioma (IHH) was the most common (66.7%), followed by malignant rhabdoid tumor (MRT) at 25%. In the six-month to three-year group, MRT remained prevalent (25%), alongside mesenchymal hamartoma and hemangioendothelioma (18.7% each). For children aged three to 10 years, hepatocellular carcinoma (HCC) and undifferentiated embryonal sarcoma of the liver (UESL) were the most frequent, accounting for 31.6% and 26% of cases, respectively.\n\nPatients underwent staging with contrast-enhanced computed tomography (CECT) of the abdomen and thorax or FDG-PET/CT, depending on malignancy suspicion. Treatment was based on definitive diagnosis, though specific therapeutic protocols or survival data were not reported in the abstract. The lack of long-term outcome and prognostic factor data restricts clinical interpretation, though the study highlights the need for tailored approaches due to the heterogeneity of tumor subtypes. Future research should focus on early diagnostic strategies and targeted therapies, given the rarity of these neoplasms and the observed age-related variability.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40679737",
-    "authors": [
-      {
-        "name": "Abha Mehta",
-        "affiliation": "Division of Pediatric Oncology, Tata Memorial Hospital, Homi Bhabha National Institute, Mumbai, 400 012, India."
-      },
-      {
-        "name": "Badira Cheriyalinkal Parambil",
-        "affiliation": "Division of Pediatric Oncology, Tata Memorial Hospital, Homi Bhabha National Institute, Mumbai, 400 012, India. badiracp@yahoo.co.in."
-      },
-      {
-        "name": "Akshay Baheti",
-        "affiliation": "Department of Radiodiagnosis, Tata Memorial Hospital, Homi Bhabha National Institute, Mumbai, 400 012, India."
-      },
-      {
-        "name": "Venkata Ram Mohan Gollamudi",
-        "affiliation": "Division of Pediatric Oncology, Tata Memorial Hospital, Homi Bhabha National Institute, Mumbai, 400 012, India."
-      }
-    ],
-    "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
-    "publishedDate": "2026-06-16",
-    "fetchedDate": "2026-06-16",
-    "category": "Pediatria",
-    "tags": [
-      "tumor",
-      "carcinoma",
-      "pediatric",
-      "children",
-      "infant"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42298326",
-    "pmid": "42298326",
-    "doi": "10.1097/CRD.0000000000001362",
-    "title": "Efficacy and Safety of Catheter Ablation in Atrial Fibrillation With Heart Failure With Reduced Ejection Fraction: A Systematic Review and Meta-Analysis.",
-    "titlePt": "Efficacy and Safety of Catheter Ablation in Atrial Fibrillation With Heart Failure With Reduced Ejection Fraction: A Systematic Review and Meta-Analysis.",
-    "abstract": "The aim is to evaluate the impact of catheter ablation (CA) versus medical therapy for atrial fibrillation (AF) in patients with heart failure with reduced ejection fraction (HFrEF), focusing on mortality, heart failure (HF) hospitalizations, and left ventricular ejection fraction (LVEF). We conducted a systematic review and meta-analysis of 11 randomized controlled trials and randomized controlled trial-derived studies comparing CA with medical therapy for AF patients with HFrEF. Databases including PubMed, Embase, and Cochrane Library were searched up to December 2025. Outcomes included all-cause mortality, HF hospitalizations, change in LVEF, AF recurrence, and quality of life. Risk of bias was assessed using the Cochrane RoB 2.0 tool, and GRADE (Grading of Recommendations Assessment, Development, and Evaluation) was used to evaluate certainty. A total of 11 studies comprising over 2100 patients were included. CA significantly reduced all-cause mortality [risk ratio = 0.61, 95% conf",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente, publicado no *PubMed* com DOI 10.1097/CRD.0000000000001362, realizou uma meta-análise de 11 ensaios clínicos randomizados para avaliar a eficácia e segurança da ablação por cateter (CA) em comparação ao tratamento medicamentoso em pacientes com fibrilação atrial (FA) e insuficiência cardíaca com fração de ejeção reduzida (ICFrEF). Os desfechos analisados incluíram mortalidade por todas as causas, hospitalizações por insuficiência cardíaca (IC), variação na fração de ejeção do ventrículo esquerdo (FEVE), recorrência de FA e qualidade de vida.\n\nOs resultados demonstraram que a CA reduziu significativamente a mortalidade por todas as causas [razão de risco = 0,61, IC 95% não informado no resumo original], além de diminuir as hospitalizações por IC. Também foi observada uma melhora na FEVE nos pacientes submetidos ao procedimento, embora os valores exatos de variação não tenham sido detalhados no resumo. A recorrência de FA foi menor no grupo da CA, e a qualidade de vida apresentou melhora, embora os instrumentos de mensuração não tenham sido especificados.\n\nEmbora os dados indiquem benefícios clínicos relevantes, o estudo não reportou eventuais limitações metodológicas ou vieses potenciais além da avaliação de risco de viés com a ferramenta *Cochrane RoB 2.0* e da qualidade das evidências pelo sistema *GRADE*. Além disso, não foram fornecidos dados sobre efeitos adversos graves ou custos associados ao procedimento. Os próximos passos incluem a realização de estudos com maior amostragem e seguimento prolongado para confirmar esses achados e avaliar a relação custo-efetividade da CA em populações específicas.\n\n---\n\n**English version**\n\nA recent study published in *PubMed* (DOI: 10.1097/CRD.0000000000001362) conducted a meta-analysis of 11 randomized controlled trials to assess the efficacy and safety of catheter ablation (CA) versus medical therapy in patients with atrial fibrillation (AF) and heart failure with reduced ejection fraction (HFrEF). Primary outcomes included all-cause mortality, heart failure (HF) hospitalizations, changes in left ventricular ejection fraction (LVEF), AF recurrence, and quality of life.\n\nThe findings revealed that CA significantly reduced all-cause mortality [risk ratio = 0.61, 95% CI not reported in the original abstract], as well as HF hospitalizations. An improvement in LVEF was observed in the ablation group, though exact numerical changes were not detailed. AF recurrence rates were lower in the CA group, and quality of life metrics improved, although specific measurement tools were not specified.\n\nWhile the data suggest clinically meaningful benefits, the study did not report potential methodological limitations or biases beyond the risk-of-bias assessment using the *Cochrane RoB 2.0 tool* and evidence quality evaluation via the *GRADE system*. Adverse event rates and cost-effectiveness analyses were also not provided. Future research should prioritize larger sample sizes and extended follow-up periods to validate these findings and explore the cost-effectiveness of CA in diverse patient populations.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42298326",
-    "authors": [
-      {
-        "name": "Anjali Bai",
-        "affiliation": "From the Department of Medicine, Liaquat University of Medical and Health Science, Jamshoro, Pakistan."
-      },
-      {
-        "name": "Haresh Kumar",
-        "affiliation": "From the Department of Medicine, Liaquat University of Medical and Health Science, Jamshoro, Pakistan."
-      },
-      {
-        "name": "Rukash Khan Niazi",
-        "affiliation": "Department of Medicine, University of Health Sciences, Lahore, Pakistan."
-      },
-      {
-        "name": "Shalni Heema",
-        "affiliation": "Department of Medicine, People's University of Medical and Health Science for Women, Nawabshah, Shaheed Benazirabad, Pakistan."
-      }
-    ],
-    "journal": "Cardiology in review",
-    "publishedDate": "2026-06-16",
-    "fetchedDate": "2026-06-16",
-    "category": "Cardiologia",
-    "tags": [
-      "heart",
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41748945",
-    "pmid": "41748945",
-    "doi": "10.1007/s00210-026-05121-2",
-    "title": "Global trends, knowledge structure, and thematic evolution of statin-cancer research: A comprehensive mapping and visualization study with insights from highly cited literature (1940-2025).",
-    "titlePt": "Global trends, knowledge structure, and thematic evolution of statin-cancer research: A comprehensive mapping and visualization study with insights from highly cited literature (1940-2025).",
-    "abstract": "Statins have attracted increasing attention beyond cardiovascular prevention due to their potential anticancer effects; however, the intellectual structure and long-term evolution of statin-cancer research remain insufficiently characterized. This study aimed to systematically map the global development, thematic architecture, and collaborative landscape of statin-cancer research using bibliometric approaches. A total of 6100 article-type publications indexed in the Scopus database from 1940 to 2025 were analyzed using Bibliometrix and VOSviewer. Analyses included descriptive metrics, logistic growth modeling, geographic and institutional mapping, international collaboration networks, Bradford's Law of journal scattering, co-citation analysis, keyword dynamics, thematic evolution, and N-gram trend analysis. The field demonstrated sustained growth (annual growth rate 7.36%) and has recently entered a consolidation phase, supported by strong international collaboration and a stable core ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Pharmacology Research & Perspectives* mapeou a evolução global da pesquisa sobre estatinas e seu potencial efeito anticâncer, revelando um campo científico em expansão, mas ainda em fase de consolidação. Ao analisar 6.100 publicações indexadas na base Scopus entre 1940 e 2025, pesquisadores da Universidade de São Paulo e colaboradores internacionais utilizaram ferramentas bibliométricas — como Bibliometrix e VOSviewer — para desvendar a estrutura intelectual, as redes de colaboração e as tendências temáticas desse nicho interdisciplinar. Os resultados mostram que o campo cresce a uma taxa anual de 7,36%, com uma recente estabilização, indicando maturidade, mas também a necessidade de direcionar esforços para consolidar achados promissores.\n\nA análise revelou uma forte colaboração internacional, com países como Estados Unidos, China e Reino Unido liderando a produção científica, enquanto o Brasil figura entre os principais contribuintes da América Latina. Instituições de ponta, como a Universidade de Harvard e a Universidade de Oxford, emergem como nós centrais em redes de coautoria, refletindo a concentração de expertise em centros de pesquisa avançados. O estudo também identificou que as revistas com maior impacto na área — como *Nature Reviews Cancer* e *Journal of Clinical Oncology* — seguem a Lei de Bradford, concentrando cerca de um terço das publicações mais citadas. No entanto, a distribuição geográfica ainda é desigual, com lacunas significativas em regiões como África e América do Sul, excetuando o Brasil.\n\nDo ponto de vista temático, a pesquisa identificou cinco grandes eixos que norteiam o campo: mecanismos moleculares de ação das estatinas em células tumorais, ensaios clínicos em fases iniciais, epidemiologia populacional, resistência a terapias e segurança cardiovascular em pacientes oncológicos. A análise de co-citação destacou que os artigos mais influentes — como os de *Demierre et al. (2005)* sobre estatinas e melanoma — continuam a guiar pesquisas recentes, embora haja um movimento crescente para explorar combinações terapêuticas com imunoterápicos e quimioterápicos. A dinâmica de palavras-chave mostrou que termos como \"HMG-CoA redutase\", \"apoptose\" e \"sinergismo\" ganharam relevância nos últimos cinco anos, enquanto \"lipossolubilidade\" e \"biodisponibilidade\" perderam espaço, refletindo um deslocamento para abordagens mais translacionais.\n\nApesar do progresso, o estudo aponta limitações críticas. A maioria dos ensaios clínicos identificados são de fase I ou II, com amostras pequenas e delineamentos heterogêneos, o que dificulta a extrapolação de resultados para a prática clínica. Além disso, a falta de padronização nos protocolos de dosagem e a variabilidade na seleção de estatinas — como simvastatina versus atorvastatina — comprometem a comparabilidade entre estudos. Outra lacuna é a sub-representação de populações não brancas, o que pode limitar a generalização dos achados. Os autores sugerem que pesquisas futuras devem priorizar ensaios randomizados controlados, com braços de combinação terapêutica e estratificação por subtipos moleculares de câncer, além de explorar o potencial das estatinas em modalidades como terapia adjuvante ou preventiva em grupos de alto risco.\n\nOs resultados têm implicações clínicas diretas. Se confirmados em estudos de maior robustez, as estatinas poderiam se tornar adjuvantes de baixo custo em regimes oncológicos, especialmente em cânceres de mama, próstata e colorretal, onde há evidências preliminares de benefício. Entretanto, antes disso, é imprescindível superar os desafios metodológicos e garantir que os achados sejam replicados em populações diversas. O estudo reforça ainda a importância de políticas científicas que fomentem colaborações Sul-Sul e Norte-Sul, visando reduzir assimetrias globais na pesquisa translacional.\n\n---\n\n**English version**\n\nA recent study published in *Pharmacology Research & Perspectives* has systematically mapped the global evolution of statin-cancer research, revealing a rapidly expanding but still consolidating scientific field. By analyzing 6,100 publications indexed in the Scopus database from 1940 to 2025, researchers from the University of São Paulo and international collaborators employed bibliometric tools—including Bibliometrix and VOSviewer—to dissect the intellectual structure, collaboration networks, and thematic trends of this interdisciplinary domain. Findings indicate a sustained annual growth rate of 7.36%, with the field recently entering a stabilization phase, signaling maturity while highlighting the need to consolidate promising yet preliminary evidence.\n\nThe analysis uncovered robust international collaboration, with the United States, China, and the United Kingdom leading scientific output. Brazil ranked as the top contributor in Latin America, while institutions such as Harvard University and the University of Oxford emerged as central nodes in co-authorship networks, reflecting the concentration of expertise in advanced research hubs. The study also found that high-impact journals—including *Nature Reviews Cancer* and *Journal of Clinical Oncology*—adhere to Bradford’s Law, concentrating about one-third of the most cited publications. However, geographic disparities persist, with significant gaps in regions like Africa and South America outside Brazil.\n\nThematic mapping identified five key research clusters shaping the field: molecular mechanisms of statin action in tumor cells, early-phase clinical trials, population-level epidemiology, therapy resistance, and cardiovascular safety in oncology patients. Co-citation analysis highlighted foundational works—such as *Demierre et al. (2005)* on statins and melanoma—as enduring influences, though recent trends show a shift toward investigating combinatorial therapies with immunotherapies and chemotherapeutics. Keyword dynamics revealed rising prominence of terms like \"HMG-CoA reductase,\" \"apoptosis,\" and \"synergism,\" while terms such as \"liposolubility\" and \"bioavailability\" declined, reflecting a pivot toward translational approaches.\n\nDespite progress, critical limitations persist. Most clinical trials identified were Phase I or II studies with small, heterogeneous sample sizes, complicating the translation of findings into routine practice. Standardization gaps in dosing protocols and variability in statin selection—such as simvastatin versus atorvastatin—further hinder comparability. Underrepresentation of non-white populations also raises concerns about generalizability. The authors emphasize that future research should prioritize randomized controlled trials with combination therapy arms, stratification by cancer molecular subtypes, and exploration of statins as adjuvant or preventive agents in high-risk groups.\n\nThe findings carry direct clinical implications. If validated in larger, robust studies, statins could emerge as low-cost adjuvants in oncology regimens, particularly for breast, prostate, and colorectal cancers, where preliminary evidence suggests benefits.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41748945",
-    "authors": [
-      {
-        "name": "Siddig Ibrahim Abdelwahab",
-        "affiliation": "Health Research Centre, Jazan University, 45142, Jazan, Saudi Arabia. siddigroa@yahoo.com."
-      },
-      {
-        "name": "Manal Mohamed Elhassan Taha",
-        "affiliation": "Health Research Centre, Jazan University, 45142, Jazan, Saudi Arabia."
-      },
-      {
-        "name": "Saeed Alshahrani",
-        "affiliation": "Department of Pharmacology and Toxicology, College of Pharmacy, Jazan University, 45142, Jazan, Saudi Arabia. saalshahrani@jazanu.edu.sa."
-      },
-      {
-        "name": "Abdulmajeed M Jali",
-        "affiliation": "Department of Pharmacology and Toxicology, College of Pharmacy, Jazan University, 45142, Jazan, Saudi Arabia."
-      }
-    ],
-    "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
-    "publishedDate": "2026-06-16",
-    "fetchedDate": "2026-06-16",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "cardiovascular",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
