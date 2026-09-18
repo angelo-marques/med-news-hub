@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-40954547",
+    "pmid": "40954547",
+    "doi": "10.1002/oby.70024",
+    "title": "GLP-1 Receptor Agonists and Substance Use Disorders in Older Adults With Type 2 Diabetes: A Target Trial Emulation.",
+    "titlePt": "GLP-1 Receptor Agonists and Substance Use Disorders in Older Adults With Type 2 Diabetes: A Target Trial Emulation.",
+    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs), approved for type 2 diabetes (T2D) and obesity, may modulate reward pathways and reduce substance-related behaviors. This study assessed the association between GLP-1RA use and substance use-related hospitalization in older adults with coexisting T2D and substance use disorders (SUD). A retrospective cohort study using 2016-2020 Medicare data compared GLP-1RA initiators with new users of SGLT2 inhibitors (SGLT2is) or DPP-4 inhibitors (DPP4is) among adults aged &#x2265;&#x2009;65. The primary outcome was hospitalization for any SUD; secondary outcomes included hospitalizations for alcohol use disorder (AUD) and opioid use disorder (OUD). Propensity score 1:1 matching and Cox proportional hazards models were used under an intention-to-treat approach. In the GLP-1RA versus DPP4i cohort (n&#x2009;=&#x2009;4920), GLP-1RA users had a lower risk of SUD hospitalization (HR 0.76; 95% CI, 0.67-0.86) and OUD hospitalization (HR 0.64; 95% CI, 0",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40954547",
+    "authors": [
+      {
+        "name": "Hao Dai",
+        "affiliation": "Department of Biostatistics &amp; Health Data Science, Indiana University School of Medicine, Indianapolis, Indiana, USA."
+      },
+      {
+        "name": "Rotana M Radwan",
+        "affiliation": "Department of Pharmaceutical Outcomes and Policy, University of Florida College of Pharmacy, Gainesville, Florida, USA."
+      },
+      {
+        "name": "Grant D Scheiffele",
+        "affiliation": "Department of Pharmaceutical Outcomes and Policy, University of Florida College of Pharmacy, Gainesville, Florida, USA."
+      },
+      {
+        "name": "Huilin Tang",
+        "affiliation": "Department of Biostatistics, Epidemiology, and Informatics, University of Pennsylvania Perelman School of Medicine, Philadelphia, Pennsylvania, USA."
+      }
+    ],
+    "journal": "Obesity (Silver Spring, Md.)",
+    "publishedDate": "2026-09-18",
+    "fetchedDate": "2026-09-18",
+    "category": "Endocrinologia",
+    "tags": [
+      "diabetes",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1qMonn-2kFHot-a3d449e3fcbbd45d\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-40982790",
     "pmid": "40982790",
     "doi": "10.1097/HEP.0000000000001541",
@@ -12597,46 +12638,5 @@
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41802941",
-    "pmid": "41802941",
-    "doi": "10.1080/21645515.2026.2641328",
-    "title": "Human papillomavirus awareness and vaccination willingness among male community residents in Beijing based on the Health Belief Model.",
-    "titlePt": "Human papillomavirus awareness and vaccination willingness among male community residents in Beijing based on the Health Belief Model.",
-    "abstract": "Following the January 2025 approval of the first male HPV vaccine in the Chinese mainland, we investigated vaccination willingness and its influencing factors among community-dwelling men. We conducted a cross-sectional study in Beijing, recruiting 480 community-based male residents and 399 men who have sex with men (MSM). Participants completed a questionnaire assessing HPV knowledge and the Health Belief Model (HBM) constructs. Multivariable logistic regression was performed to identify determinants of willingness. We found a high level of vaccination willingness, which was notably higher among MSM (90.73%) than the community-recruited male population (87.29%). Critically, willingness surpassed awareness, indicating significant latent demand despite low overall HPV knowledge. HBM analysis showed that perceived benefits promoted willingness in both groups, while self-efficacy of prevention paradoxically acted as an inhibitor. MSM reported higher perceived susceptibility and benefits, ",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a conscientização sobre o vírus do papiloma humano (HPV) e a disposição para vacinação entre homens residentes em comunidades de Beijing, com base no Modelo de Crença em Saúde (HBM). Após a aprovação da primeira vacina contra o HPV para homens na China continental em janeiro de 2025, os pesquisadores buscaram entender os fatores que influenciam a disposição para vacinação entre homens que vivem em comunidades e homens que têm relações sexuais com outros homens (HSH). Foram recrutados 480 homens residentes em comunidades e 399 HSH, que completaram um questionário sobre conhecimento do HPV e constructos do HBM. A análise mostrou um alto nível de disposição para vacinação, especialmente entre os HSH, onde 90,73% demonstraram estar dispostos a se vacinar, em comparação com 87,29% dos homens da população em geral. Notoriamente, a disposição para vacinação superou a conscientização sobre o HPV, indicando uma demanda latente significativa apesar do baixo conhecimento geral sobre o vírus. A análise do HBM revelou que os benefícios percebidos promoveram a disposição para vacinação em ambos os grupos, enquanto a autoeficácia de prevenção atuou paradoxalmente como um fator inibidor. Os HSH relataram maior percepção de suscetibilidade e benefícios, sugerindo diferenças importantes na percepção do risco e nos fatores motivacionais entre os grupos. Embora o estudo tenha encontrado uma disposição alta para vacinação, as limitações incluem a necessidade de mais pesquisas sobre como abordar a baixa conscientização sobre o HPV e como otimizar as estratégias de vacinação para atender às necessidades específicas de diferentes populações. Próximos passos devem incluir a implementação de campanhas de conscientização e programas de vacinação direcionados, visando aumentar o conhecimento e a cobertura vacinal contra o HPV entre os homens na China.\n\nA recent study published on PubMed investigated human papillomavirus (HPV) awareness and vaccination willingness among male community residents in Beijing, based on the Health Belief Model (HBM). Following the January 2025 approval of the first male HPV vaccine in the Chinese mainland, researchers sought to understand the factors influencing vaccination willingness among community-dwelling men and men who have sex with men (MSM). A total of 480 community-based male residents and 399 MSM were recruited, completing a questionnaire assessing HPV knowledge and HBM constructs. The analysis showed a high level of vaccination willingness, particularly among MSM, where 90.73% expressed willingness to get vaccinated, compared to 87.29% of the general male population. Notably, vaccination willingness surpassed awareness, indicating significant latent demand despite low overall HPV knowledge. HBM analysis revealed that perceived benefits promoted willingness in both groups, while self-efficacy of prevention paradoxically acted as an inhibitor. MSM reported higher perceived susceptibility and benefits, suggesting important differences in risk perception and motivational factors between the groups. Although the study found high vaccination willingness, limitations include the need for further research on addressing low HPV awareness and optimizing vaccination strategies to meet the specific needs of different populations. Next steps should include implementing targeted awareness campaigns and vaccination programs, aiming to increase knowledge and HPV vaccination coverage among men in China.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41802941",
-    "authors": [
-      {
-        "name": "Yan Xing",
-        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
-      },
-      {
-        "name": "Rujing Shi",
-        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
-      },
-      {
-        "name": "Yulian Li",
-        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
-      },
-      {
-        "name": "Run Cai",
-        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
-      }
-    ],
-    "journal": "Human vaccines &amp; immunotherapeutics",
-    "publishedDate": "2026-06-19",
-    "fetchedDate": "2026-07-01",
-    "category": "Imunologia",
-    "tags": [
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
