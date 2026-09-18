@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-40982790",
+    "pmid": "40982790",
+    "doi": "10.1097/HEP.0000000000001541",
+    "title": "Evolving precision: Updates in targeted therapy for cholangiocarcinoma.",
+    "titlePt": "Evolving precision: Updates in targeted therapy for cholangiocarcinoma.",
+    "abstract": "The development of Next-Generation Sequencing (NGS) techniques for extended genomic profiling has led to the identification of actionable molecular alterations in approximately half of the patients with biliary tract cancer (BTC), with the highest incidences among those with intrahepatic cholangiocarcinoma. Targeted drugs have demonstrated the ability to confer clinical benefit while maintaining a manageable safety profile. As a result, despite the lack of a head-to-head comparison with standard second-line chemotherapy, they are now recommended for patients with advanced disease who are still fit after progression to first-line palliative systemic anti-cancer treatment. In this review, we will contextualize the results observed with targeted drugs in clinical trials within the framework of clinical practice. We will provide an overview of available single-gene analyses that should be considered in case of lack of access to NGS, defining testing priorities, differences in yields, and t",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40982790",
+    "authors": [
+      {
+        "name": "Giulia Tesini",
+        "affiliation": "School of Cancer Sciences, University of Glasgow, Glasgow, UK."
+      },
+      {
+        "name": "Halima Ibrahim",
+        "affiliation": "Department of Biomedical Sciences, Humanitas University, Pieve Emanuele, Milan, Italy."
+      },
+      {
+        "name": "Lorenza Rimassa",
+        "affiliation": "Beatson West of Scotland Cancer Centre, Glasgow, UK."
+      },
+      {
+        "name": "Chiara Braconi",
+        "affiliation": "Department of Biomedical Sciences, Humanitas University, Pieve Emanuele, Milan, Italy."
+      }
+    ],
+    "journal": "Hepatology (Baltimore, Md.)",
+    "publishedDate": "2026-09-18",
+    "fetchedDate": "2026-09-18",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "carcinoma",
+      "chemotherapy",
+      "genomic",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1oXPWp-2kFHot-a3d24ef7ca69f92b\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42695454",
     "pmid": "42695454",
     "doi": "10.1042/BSR20260173",
@@ -12589,51 +12633,6 @@
     "category": "Imunologia",
     "tags": [
       "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42318007",
-    "pmid": "42318007",
-    "doi": "10.1016/j.gendis.2025.102003",
-    "title": "A parallel-risk framework accurately predicts hematopoietic stem cell transplantation outcomes and identifies benefiting patients in pediatric AML.",
-    "titlePt": "A parallel-risk framework accurately predicts hematopoietic stem cell transplantation outcomes and identifies benefiting patients in pediatric AML.",
-    "abstract": "Pediatric acute myeloid leukemia (pAML) has a poorer prognosis than acute lymphoblastic leukemia, and hematopoietic stem cell transplantation (HSCT) offers curative potential in high-risk or relapsed cases. Current models cannot accurately determine which individual patients will truly benefit from HSCT, leading to overtreatment or undertreatment. We developed HSCT-64, the first parallel transcriptomic risk framework for pediatric AML, conceptually analogous to a causal G-formula approach. It comprises two treatment-specific models, aHSCT-64 for allo-HSCT recipients and nHSCT-64 for non-HSCT patients, derived from a shared 64-gene signature identified from diagnostic RNA-sequencing data, enabling individualized survival prediction under both treatment scenarios at diagnosis. Trained on 1647 cases from four COG/TARGET cohorts and validated in 233 independent patients, HSCT-64 achieved a C-index of 0.791 and AUC of 0.794 for allo-HSCT overall survival, outperforming existing clinical, cy",
-    "journalisticSummary": "Um estudo recente publicado no PubMed apresenta um avanço significativo no tratamento de leucemia mieloide aguda (LMA) pediátrica, uma condição com prognóstico mais sombrio em comparação com a leucemia linfoblástica aguda. A transplantação de células-tronco hematopoéticas (TCTH) é uma abordagem curativa potencial, especialmente em casos de alto risco ou recidiva. No entanto, os modelos atuais não conseguem determinar com precisão quais pacientes individuais se beneficiarão verdadeiramente da TCTH, levando a tratamentos excessivos ou insuficientes. Para superar essa limitação, os pesquisadores desenvolveram o framework de risco paralelo HSCT-64, o primeiro de sua espécie para LMA pediátrica, que utiliza uma abordagem conceitualmente análoga à fórmula causal G. O HSCT-64 é composto por dois modelos de tratamento específicos: aHSCT-64 para receptores de TCTH alogênica e nHSCT-64 para pacientes não submetidos à TCTH, ambos derivados de uma assinatura de 64 genes compartilhada identificada a partir de dados de sequenciamento de RNA diagnóstico. Isso permite a previsão individualizada de sobrevivência sob ambos os cenários de tratamento no momento do diagnóstico. Treinado em 1647 casos de quatro coortes COG/TARGET e validado em 233 pacientes independentes, o HSCT-64 alcançou um índice C de 0,791 e uma área sob a curva ROC (AUC) de 0,794 para a sobrevivência geral após TCTH alogênica, superando os modelos clínicos e citogenéticos existentes.\n\nOs achados principais deste estudo destacam a capacidade do HSCT-64 de prever com precisão os resultados da TCTH em pacientes com LMA pediátrica, identificando aqueles que mais se beneficiam desse procedimento. Isso pode levar a uma tomada de decisão mais personalizada e eficaz no tratamento, minimizando os riscos associados à TCTH e melhorando os resultados clínicos. No entanto, como em qualquer estudo, existem limitações, incluindo a necessidade de validação adicional em coortes mais amplas e diversificadas. Além disso, não foram informados detalhes sobre os próximos passos para a implementação clínica do HSCT-64, o que é crucial para a translação desses achados para a prática clínica. Em resumo, o estudo apresenta um avanço promissor na abordagem da LMA pediátrica, com o potencial de melhorar significativamente a gestão e o tratamento dessa condição.\n\nUm estudo recente publicado no PubMed apresenta um avanço significativo no tratamento de leucemia mieloide aguda pediátrica, uma condição com prognóstico mais sombrio em comparação com a leucemia linfoblástica aguda. A transplantação de células-tronco hematopoéticas é uma abordagem curativa potencial, especialmente em casos de alto risco ou recidiva. No entanto, os modelos atuais não conseguem determinar com precisão quais pacientes individuais se beneficiarão verdadeiramente da transplantação de células-tronco hematopoéticas, levando a tratamentos excessivos ou insuficientes. Para superar essa limitação, os pesquisadores desenvolveram o framework de risco paralelo HSCT-64, o primeiro de sua espécie para leucemia mieloide aguda pediátrica, que utiliza uma abordagem conceitualmente análoga à fórmula causal G. O HSCT-64 é composto por dois modelos de tratamento específicos: aHSCT-64 para receptores de transplantação alogênica de células-tronco hematopoéticas e nHSCT-64 para pacientes não submetidos à transplantação de células-tronco hematopoéticas, ambos derivados de uma assinatura de 64 genes compartilhada identificada a partir de dados de sequenciamento de RNA diagnóstico. Isso permite a previsão individualizada de sobrevivência sob ambos os cenários de tratamento no momento do diagnóstico. Treinado em 1647 casos de quatro coortes COG/TARGET e validado em 233 pacientes independentes, o HSCT-64 alcançou um índice C de 0,791 e uma área sob a curva ROC de 0,794 para a sobrevivência geral após transplantação alogênica de células-tronco hematopoéticas, superando os modelos clínicos e citogenéticos existentes.\n\nAqui está a versão em inglês do resumo:\n\nA recent study published in PubMed presents a significant advancement in the treatment of pediatric acute myeloid leukemia (pAML), a condition with a poorer prognosis compared to acute lymphoblastic leukemia. Hematopoietic stem cell transplantation (HSCT) offers a potentially curative approach, especially in high-risk or relapsed cases. However, current models cannot accurately determine which individual patients will truly benefit from HSCT, leading to overtreatment or undertreatment. To overcome this limitation, researchers developed the parallel-risk framework HSCT-64, the first of its kind for pediatric AML, conceptually analogous to a causal G-formula approach. HSCT-64 comprises two treatment-specific models, aHSCT-64 for allo-HSCT recipients and nHSCT-64 for non-HSCT patients, derived from a shared 64-gene signature identified from diagnostic RNA-sequencing data, enabling individualized survival prediction under both treatment scenarios at diagnosis. Trained on 1647 cases from four COG/TARGET cohorts and validated in 233 independent patients, HSCT-64 achieved a C-index of 0.791 and an area under the ROC curve (AUC) of 0.794 for overall survival after allo-HSCT, outperforming existing clinical and cytogenetic models.\n\nThe main findings of this study highlight the ability of HSCT-64 to accurately predict HSCT outcomes in patients with pediatric AML, identifying those who benefit most from this procedure. This could lead to more personalized and effective decision-making in treatment, minimizing the risks associated with HSCT and improving clinical outcomes. However, as with any study, there are limitations, including the need for further validation in larger and more diverse cohorts. Additionally, details on the next steps for clinical implementation of HSCT-64",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42318007",
-    "authors": [
-      {
-        "name": "Yance Feng",
-        "affiliation": "Precision Oncology and Intelligent Theranostics Laboratory, Department of Pediatric Hematology and Oncology Children's Hospital of Chongqing Medical University, Chongqing Key Laboratory of Pediatric Metabolism and Inflammatory Diseases, Ministry of Education Key Laboratory of Child Development and Disorders, National Clinical Research Center for Children and Adolescents' Health and Diseases, Chongqing 401122, China."
-      },
-      {
-        "name": "Yali Shen",
-        "affiliation": "Precision Oncology and Intelligent Theranostics Laboratory, Department of Pediatric Hematology and Oncology Children's Hospital of Chongqing Medical University, Chongqing Key Laboratory of Pediatric Metabolism and Inflammatory Diseases, Ministry of Education Key Laboratory of Child Development and Disorders, National Clinical Research Center for Children and Adolescents' Health and Diseases, Chongqing 401122, China."
-      },
-      {
-        "name": "Ke Huang",
-        "affiliation": "Department of Hematopoietic Stem Cell Transplantation, Children's Medical Center, Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, Guangdong 510120, China."
-      },
-      {
-        "name": "Qian Li",
-        "affiliation": "Precision Oncology and Intelligent Theranostics Laboratory, Department of Pediatric Hematology and Oncology Children's Hospital of Chongqing Medical University, Chongqing Key Laboratory of Pediatric Metabolism and Inflammatory Diseases, Ministry of Education Key Laboratory of Child Development and Disorders, National Clinical Research Center for Children and Adolescents' Health and Diseases, Chongqing 401122, China."
-      }
-    ],
-    "journal": "Genes &amp; diseases",
-    "publishedDate": "2026-06-19",
-    "fetchedDate": "2026-07-01",
-    "category": "Genômica",
-    "tags": [
-      "leukemia",
-      "gene",
-      "rna",
-      "sequencing",
-      "pediatric"
     ],
     "isHighlight": false,
     "readTime": 9,
