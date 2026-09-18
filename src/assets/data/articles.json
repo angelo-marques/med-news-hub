@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-40988585",
+    "pmid": "40988585",
+    "doi": "10.1080/17582024.2025.2563489",
+    "title": "N-acetylcysteine for Parkinson's disease: a translational systematic review of mechanistic and early clinical data.",
+    "titlePt": "N-acetylcysteine for Parkinson's disease: a translational systematic review of mechanistic and early clinical data.",
+    "abstract": "Parkinson's disease (PD) involves progressive motor and non-motor decline, linked to oxidative stress and glutathione depletion. N-acetylcysteine (NAC), a glutathione precursor and antioxidant, is a potential disease-modifying therapy. To evaluate preclinical and clinical evidence on NAC in PD, focusing on motor and non-motor outcomes, dopaminergic function, and oxidative stress biomarkers. A PRISMA-compliant review of MEDLINE and Embase (May 2025) identified prospective studies in animal models or adults with PD. Outcomes included Unified Parkinson's Disease Rating Scale (UPDRS), dopamine transporter (DAT) imaging, glutathione levels, and safety. Twelve studies met criteria. Preclinical models showed consistent neuroprotection. Intravenous NAC raised brain glutathione levels; high-dose oral NAC reached CSF. Two open-label trials (n&#x2009;=&#x2009;65), reported&#x2009;~&#x2009;13% improvement in UPDRS scores and 4-9% dopamine transporter signal increases over three months. No serious ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40988585",
+    "authors": [
+      {
+        "name": "Anas Mohammad",
+        "affiliation": "Department of Medicine, Sargodha Medical College, Sargodha, Pakistan."
+      },
+      {
+        "name": "Mohammad Ibrahim",
+        "affiliation": "Department of Psychiatry, Shaikh Zayed Hospital, Lahore, Pakistan."
+      },
+      {
+        "name": "Moeez Akram",
+        "affiliation": "Department of Medicine, Jinnah Hospital Lahore, Punjab, Pakistan."
+      },
+      {
+        "name": "Hadia Mohsin",
+        "affiliation": "Department of Medicine, Allama Iqbal Medical College, Lahore, Pakistan."
+      }
+    ],
+    "journal": "Neurodegenerative disease management",
+    "publishedDate": "2026-09-18",
+    "fetchedDate": "2026-09-18",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "parkinson"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1m6dps-2kFHot-a3cfb07e6a51cba4\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42490071",
     "pmid": "42490071",
     "doi": "10.1001/jamaoncol.2026.2490",
@@ -12600,48 +12641,5 @@
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41466149",
-    "pmid": "41466149",
-    "doi": "10.1007/s00380-025-02643-2",
-    "title": "Estimated glucose disposal rate (eGDR) predicts rehospitalization &amp; death in acute decompensated heart failure in the elderly.",
-    "titlePt": "Estimated glucose disposal rate (eGDR) predicts rehospitalization &amp; death in acute decompensated heart failure in the elderly.",
-    "abstract": "This study aimed to explore the short-term predictive value of the estimated glucose disposal rate (eGDR) for rehospitalization or death in elderly patients with acute decompensated heart failure (ADHF). 117 elderly patients with ADHF admitted to our hospital from January 2020 to January 2022 were recruited and divided into control (80 cases) and event (37 cases) groups based on whether they were rehospitalized or died within 90 days following discharge. Basic information, clinical characteristics, and laboratory test results of them were collected, and the eGDR was calculated. Multivariate logistic regression analysis identified the independent factors associated with the short-term prognosis, and receiver operating characteristic (ROC) curves assessed the predictive value of eGDR. The event group had significantly higher rates of comorbid diabetes (DM), hypertension, Class IV heart failure, and cardiogenic shock, as well as a larger waist circumference, higher peak troponin I during ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm marcador simples e não invasivo, o *estimated glucose disposal rate* (eGDR), demonstrou potencial preditivo para reinternações e óbitos em idosos com insuficiência cardíaca descompensada aguda (ICDA). Estudo publicado recentemente na *Journal of Cardiology* acompanhou 117 pacientes com idade igual ou superior a 65 anos, admitidos por ICDA entre janeiro de 2020 e janeiro de 2022 em um hospital terciário. Os participantes foram divididos em dois grupos: 80 formaram o grupo controle, enquanto 37 compuseram o grupo de eventos, composto por aqueles que foram rehospitalizados ou evoluíram para óbito dentro de 90 dias após a alta.\n\nA análise multivariada de regressão logística identificou que o eGDR, calculado com base em variáveis clínicas e laboratoriais — incluindo índice de massa corporal, presença de hipertensão e controle glicêmico —, emergiu como fator independente associado ao prognóstico a curto prazo. O grupo de eventos apresentou maior prevalência de comorbidades como diabetes melito (DM), hipertensão arterial sistêmica, classe funcional IV da New York Heart Association (NYHA) e choque cardiogênico, além de circunferência abdominal aumentada e níveis elevados de troponina I. A curva ROC indicou que o eGDR apresentou capacidade discriminatória moderada para prever eventos adversos, com área sob a curva (AUC) não informada no resumo analisado.\n\nOs resultados sugerem que a avaliação do eGDR pode auxiliar na estratificação de risco em idosos com ICDA, possibilitando intervenções precoces e personalizadas. No entanto, o estudo apresenta limitações inerentes ao desenho retrospectivo, à amostra reduzida e à ausência de validação externa. Além disso, não foi detalhado o ponto de corte ótimo para o eGDR ou sua reprodutibilidade em diferentes populações. Pesquisas prospectivas, com amostras maiores e avaliação de custo-efetividade, são necessárias para confirmar esses achados e integrar o eGDR à prática clínica.\n\n---\n\n**English version**\n\nA noninvasive metabolic marker, the estimated glucose disposal rate (eGDR), has shown promise in predicting rehospitalization and mortality among elderly patients with acute decompensated heart failure (ADHF). In a recent study published in the *Journal of Cardiology*, researchers followed 117 patients aged 65 years or older admitted for ADHF between January 2020 and January 2022 at a tertiary care hospital. Participants were divided into two groups: 80 formed the control group, while 37 were categorized as the event group, consisting of those who were rehospitalized or died within 90 days post-discharge.\n\nMultivariate logistic regression analysis identified the eGDR—calculated using clinical and laboratory variables including body mass index, hypertension status, and glycemic control—as an independent predictor of short-term outcomes. The event group exhibited higher rates of comorbid conditions such as diabetes mellitus (DM), systemic hypertension, New York Heart Association (NYHA) class IV heart failure, and cardiogenic shock, alongside increased waist circumference and elevated peak troponin I levels. Receiver operating characteristic (ROC) curve analysis suggested that eGDR had moderate discriminatory power for predicting adverse events, though the exact area under the curve (AUC) was not reported in the available abstract.\n\nThe findings imply that eGDR assessment could aid in risk stratification for elderly ADHF patients, potentially enabling early and tailored interventions. However, the study is limited by its retrospective design, small sample size, and lack of external validation. Additionally, the optimal eGDR cutoff value and its reproducibility across populations were not specified. Prospective studies with larger cohorts and health economic evaluations are needed to validate these results and support the integration of eGDR into routine clinical practice.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41466149",
-    "authors": [
-      {
-        "name": "Wenliang Zhai",
-        "affiliation": "Emergency Department, Xuanwu Hospital Capital Medical University, No.45 Changchunjie Street, Xicheng District, 100053, Beijing, China."
-      },
-      {
-        "name": "Mingyi He",
-        "affiliation": "Emergency Medicine Clinical Research Center, Beijing Key Laboratory of Cardiopulmonary Cerebral Resuscitation, Beijing Chao-Yang Hospital, Capital Medical University, No.8 Gongti South Road, Chaoyang District, 100020, Beijing, China."
-      },
-      {
-        "name": "Chunyuan Wang",
-        "affiliation": "Emergency Department, Xuanwu Hospital Capital Medical University, No.45 Changchunjie Street, Xicheng District, 100053, Beijing, China."
-      },
-      {
-        "name": "Jingyu He",
-        "affiliation": "Emergency Department, Xuanwu Hospital Capital Medical University, No.45 Changchunjie Street, Xicheng District, 100053, Beijing, China."
-      }
-    ],
-    "journal": "Heart and vessels",
-    "publishedDate": "2026-06-16",
-    "fetchedDate": "2026-06-17",
-    "category": "Cardiologia",
-    "tags": [
-      "heart",
-      "hypertension",
-      "diabetes"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
