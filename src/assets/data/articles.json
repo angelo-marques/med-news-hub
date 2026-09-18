@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42695454",
+    "pmid": "42695454",
+    "doi": "10.1042/BSR20260173",
+    "title": "Integrated omics-driven discovery reveals synphilin-1-mediated anoikis resistance through p53 down-regulation.",
+    "titlePt": "Integrated omics-driven discovery reveals synphilin-1-mediated anoikis resistance through p53 down-regulation.",
+    "abstract": "Synphilin-1 is a protein that interacts with &#x3b1;-synuclein and has been implicated in Parkinson's disease (PD). However, the cellular and molecular mechanisms underlying the effect of synphilin-1 in PD remain poorly understood. The present study aimed to elucidate the molecular function of synphilin-1 using integrated transcriptomic and proteomic in silico analyses, followed by in vitro validation. Synphilin-1 overexpression enhanced cell viability and attenuated pathways associated with cell death. Among the identified regulatory molecules, p53 emerged as a key mediator linking synphilin-1 to suppression of anoikis. Notably, p53 expression demonstrated predominant nuclear localisation in midbrain tissues of individuals with PD. These findings suggest that synphilin-1 promotes cell survival by suppressing p53-mediated anoikis. This regulatory relationship could be crucial for understanding neuroprotective or pathological mechanisms in PD.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42695454",
+    "authors": [
+      {
+        "name": "Seok Gi Kim",
+        "affiliation": "Department of Physiology, Ajou University School of Medicine, 164 World Cup-ro, Suwon 16499, Republic of Korea."
+      },
+      {
+        "name": "Ye Eun Sim",
+        "affiliation": "Department of Biomedical Sciences, BK21 R&amp;E Initiative for Advanced Precision Medicine, Graduate School of Ajou University, 164 World cup-ro, Suwon 16499, Republic of Korea."
+      },
+      {
+        "name": "Abdurazak Aman Ketebo",
+        "affiliation": "Department of Mechanical Engineering, Sungkyunkwan University, 2066 Seobu-ro, Suwon 16419, Republic of Korea."
+      },
+      {
+        "name": "Ji Su Hwang",
+        "affiliation": "Department of Physiology, Ajou University School of Medicine, 164 World Cup-ro, Suwon 16499, Republic of Korea."
+      }
+    ],
+    "journal": "Bioscience reports",
+    "publishedDate": "2026-09-18",
+    "fetchedDate": "2026-09-18",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "parkinson"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1oGSMK-2kFHot-a3d207bfaf434f46\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-40988585",
     "pmid": "40988585",
     "doi": "10.1080/17582024.2025.2563489",
@@ -12596,49 +12637,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42203603",
-    "pmid": "42203603",
-    "doi": "10.1016/j.dld.2026.04.013",
-    "title": "Complementary evaluation of phase III immunotherapy trials in advanced HCC using the survival-inferred fragility index.",
-    "titlePt": "Complementary evaluation of phase III immunotherapy trials in advanced HCC using the survival-inferred fragility index.",
-    "abstract": "Hepatocellular carcinoma (HCC) represents a major health burden, historically treated with tyrosine kinase inhibitors (TKIs). The advent of immune checkpoint inhibitors (ICIs) has reshaped treatments, with pivotal trials (IMbrave150 and HIMALAYA) establishing ICI-based combinations as first-line therapy. Traditional statistical metrics may not fully capture the robustness of trial outcomes. The Survival-Inferred Fragility Index (SIFI) quantifies trial stability as the minimum number of additional survival events required to lose statistical significance. We systematically searched PubMed, Embase, Scopus for phase III randomized controlled trials comparing ICIs and TKIs in HCC published up to 31 May 2025. Trials reporting statistically significant time-to-event outcomes were included. Individual survival data were reconstructed from Kaplan-Meier curves using validated methods, SIFI was calculated using specific R algorithms. Six trials (4570 patients) were included for primary analysis ",
-    "journalisticSummary": "O carcinoma hepatocelular (HCC) representa uma grande carga para a saúde, historicamente tratado com inibidores de tirosina quinase (TKIs). No entanto, o advento dos inibidores de checkpoint imunológico (ICIs) revolucionou os tratamentos, com estudos pivôs (IMbrave150 e HIMALAYA) estabelecendo combinações baseadas em ICIs como terapia de primeira linha. As métricas estatísticas tradicionais podem não capturar completamente a robustez dos resultados dos estudos. O Índice de Fragilidade Inferido pela Sobrevivência (SIFI) quantifica a estabilidade do estudo como o número mínimo de eventos de sobrevivência adicionais necessários para perder a significância estatística. Um estudo recente publicado no PubMed utilizou o SIFI para avaliar a robustez de estudos de fase III que compararam ICIs e TKIs no tratamento do HCC avançado. Os autores incluíram seis estudos (4570 pacientes) em sua análise principal, que foram selecionados a partir de uma busca sistemática em PubMed, Embase e Scopus. Os dados de sobrevivência individual foram reconstruídos a partir de curvas de Kaplan-Meier usando métodos validados, e o SIFI foi calculado usando algoritmos específicos em R. Embora os resultados específicos do estudo não tenham sido informados, a abordagem metodológica utilizada sugere que o SIFI pode ser uma ferramenta valiosa para avaliar a robustez dos resultados dos estudos clínicos. No entanto, é importante notar que a interpretação dos resultados do SIFI depende de vários fatores, incluindo o tamanho da amostra e a qualidade dos dados. Além disso, os autores não informaram as limitações do estudo, o que é fundamental para uma avaliação crítica dos resultados. Em resumo, o estudo em questão contribui para a discussão sobre a importância da avaliação da robustez dos resultados dos estudos clínicos, especialmente no contexto do tratamento do HCC avançado.\n\nThe hepatocellular carcinoma (HCC) represents a major health burden, historically treated with tyrosine kinase inhibitors (TKIs). However, the advent of immune checkpoint inhibitors (ICIs) has reshaped treatments, with pivotal trials (IMbrave150 and HIMALAYA) establishing ICI-based combinations as first-line therapy. Traditional statistical metrics may not fully capture the robustness of trial outcomes. The Survival-Inferred Fragility Index (SIFI) quantifies trial stability as the minimum number of additional survival events required to lose statistical significance. A recent study published on PubMed used the SIFI to evaluate the robustness of phase III trials comparing ICIs and TKIs in the treatment of advanced HCC. The authors included six trials (4570 patients) in their primary analysis, which were selected from a systematic search in PubMed, Embase, and Scopus. Individual survival data were reconstructed from Kaplan-Meier curves using validated methods, and the SIFI was calculated using specific R algorithms. Although the specific results of the study were not reported, the methodological approach used suggests that the SIFI may be a valuable tool for evaluating the robustness of clinical trial outcomes. However, it is essential to note that the interpretation of SIFI results depends on several factors, including sample size and data quality. Additionally, the authors did not report the study's limitations, which is crucial for a critical evaluation of the results. In summary, the study in question contributes to the discussion on the importance of evaluating the robustness of clinical trial outcomes, especially in the context of advanced HCC treatment.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42203603",
-    "authors": [
-      {
-        "name": "A Dalbeni",
-        "affiliation": "Department of Medicine, Medicine C, University of Verona and Hospital Trust of Verona (Azienda Ospedaliera Universitaria AOUI), Verona, Italy; Liver Unit, Department of Medicine, University of Verona, Verona, Italy."
-      },
-      {
-        "name": "M Vicardi",
-        "affiliation": "Department of Medicine, Medicine C, University of Verona and Hospital Trust of Verona (Azienda Ospedaliera Universitaria AOUI), Verona, Italy; Liver Unit, Department of Medicine, University of Verona, Verona, Italy."
-      },
-      {
-        "name": "B Stefanini",
-        "affiliation": "Department of Medical and Surgical Sciences, University of Bologna, Bologna, Italy."
-      },
-      {
-        "name": "F Cinque",
-        "affiliation": "SC Medicina Indirizzo Metabolico, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico di Milano, Milan, Italy; Department of Pathophysiology and Transplantation, University of the Study of Milan, Milan, Italy."
-      }
-    ],
-    "journal": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
-    "publishedDate": "2026-06-16",
-    "fetchedDate": "2026-06-17",
-    "category": "Oncologia",
-    "tags": [
-      "carcinoma",
-      "immunotherapy",
-      "immune"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
