@@ -1,5 +1,91 @@
 [
   {
+    "id": "pubmed-42761077",
+    "pmid": "42761077",
+    "doi": "10.3389/fphar.2026.1918344",
+    "title": "A PBPK-VBE approach for bioequivalence extrapolation of senaparib capsule strengths in the context of nonlinear pharmacokinetics: bridging from the clinical starting dose to the linear pharmacokinetic range.",
+    "titlePt": "A PBPK-VBE approach for bioequivalence extrapolation of senaparib capsule strengths in the context of nonlinear pharmacokinetics: bridging from the clinical starting dose to the linear pharmacokinetic range.",
+    "abstract": "Senaparib (Sepalna&#xae;), a novel oral poly (adenosine diphosphate -ribose) polymerase (PARP) 1/2 inhibitor, was approved in China in 2025 as maintenance therapy for advanced ovarian cancer. The recommended starting dose is 100&#xa0;mg once daily, which may be adjusted to 80&#xa0;mg, 60&#xa0;mg, or 40&#xa0;mg to manage adverse events. While conventional bioequivalence (BE) clinical studies established equivalence between the 10&#xa0;mg and 20&#xa0;mg capsules strengths at the 100&#xa0;mg dose level, these findings cannot be extrapolated to the lower dose range due to senaparib's nonlinear pharmacokinetics and the current absence of definitive regulatory guidance for such scenarios. This study aimed to evaluate the bioequivalence between the 10&#xa0;mg and 20&#xa0;mg capsule strengths of senaparib, a drug exhibiting nonlinear pharmacokinetics, across the 20-80&#xa0;mg dose range. We developed and validated an integrated approach combining physiologically based pharmacokinetic (PBPK) mo",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42761077",
+    "authors": [
+      {
+        "name": "Xiaofei Wu",
+        "affiliation": "Clinical Pharmacology Research Center, Peking Union Medical College Hospital, Beijing Key Laboratory of Key Technologies for Early Clinical Trial Evaluation Innovative Drugs for Major Diseases, Chinese Academy of Medical Sciences &amp; Peking Union Medical College, Beijing, China."
+      },
+      {
+        "name": "Ziyang Wang",
+        "affiliation": "Clinical Pharmacology Research Center, Peking Union Medical College Hospital, Beijing Key Laboratory of Key Technologies for Early Clinical Trial Evaluation Innovative Drugs for Major Diseases, Chinese Academy of Medical Sciences &amp; Peking Union Medical College, Beijing, China."
+      },
+      {
+        "name": "Yanna He",
+        "affiliation": "Shanghai Impact Therapeutics Co., Ltd., Shanghai, China."
+      },
+      {
+        "name": "Keheng Wu",
+        "affiliation": "Yinghan Pharmaceutical Technology (Shanghai) Co., Ltd., Shanghai, China."
+      }
+    ],
+    "journal": "Frontiers in pharmacology",
+    "publishedDate": "2026-09-19",
+    "fetchedDate": "2026-09-19",
+    "category": "Farmacologia",
+    "tags": [
+      "cancer",
+      "drug",
+      "pharmacokinetics"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1tfNgL-2kFHot-a3d7da6a8c425121\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42760081",
+    "pmid": "42760081",
+    "doi": "10.1136/bmjopen-2026-124025",
+    "title": "Effect of fish oil as an adjunct therapy to metformin on vascular and cardiac health in women with polyendocrine metabolic ovarian syndrome: protocol for a randomised, placebo-controlled clinical trial.",
+    "titlePt": "Effect of fish oil as an adjunct therapy to metformin on vascular and cardiac health in women with polyendocrine metabolic ovarian syndrome: protocol for a randomised, placebo-controlled clinical trial.",
+    "abstract": "Polyendocrine metabolic ovarian syndrome (PMOS) (formerly known as polycystic ovary syndrome) is a metabolic-endocrine disorder that affects 8-13% of women globally and is associated with increased cardiovascular disease (CVD) across the lifespan. CVD develops in young women due to risk factors such as atherogenic dyslipidaemia, insulin resistance and elevated body weight. High-risk overweight-obese young women with PMOS often present with subclinical CVD including atherosclerotic CVD and cardiac hypertrophy. Metformin is prescribed as standard of care to treat insulin resistance and prevent development of diabetes; however, current guidelines and treatments inadequately address atherogenic dyslipidaemia and premature subclinical CVD, particularly in young women with PMOS. The aim of this trial is to evaluate the efficacy of fish oil as an adjunct therapy to standard-of-care metformin treatment in reducing plasma triglycerides and apoB-lipoproteins, thereby preventing the progression o",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42760081",
+    "authors": [
+      {
+        "name": "Beate Sydora",
+        "affiliation": "PMOS Together Laboratory, University of Alberta, Edmonton, Alberta, Canada."
+      },
+      {
+        "name": "Mahua Ghosh",
+        "affiliation": "Division of Endocrinology and Metabolism, Department of Medicine, University of Alberta, Edmonton, Alberta, Canada."
+      },
+      {
+        "name": "Sarah Chambers",
+        "affiliation": "PMOS Together Laboratory, University of Alberta, Edmonton, Alberta, Canada."
+      },
+      {
+        "name": "Anne Haase",
+        "affiliation": "School of Health, Victoria University of Wellington, Wellington, New Zealand."
+      }
+    ],
+    "journal": "BMJ open",
+    "publishedDate": "2026-09-18",
+    "fetchedDate": "2026-09-19",
+    "category": "Endocrinologia",
+    "tags": [
+      "cardiac",
+      "cardiovascular",
+      "clinical trial",
+      "diabetes",
+      "insulin"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1terPr-2kFHot-a3d7d7edc8dada6c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-40954547",
     "pmid": "40954547",
     "doi": "10.1002/oby.70024",
@@ -12560,86 +12646,6 @@
       "children",
       "immune",
       "autoimmune"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42329247",
-    "pmid": "42329247",
-    "doi": "10.46883/2026.25921166",
-    "title": "Emerging T-Cell Engagers and Novel Immunotargets in Multiple Myeloma.",
-    "titlePt": "Emerging T-Cell Engagers and Novel Immunotargets in Multiple Myeloma.",
-    "abstract": "Bispecific T-cell engagers (BiTEs) and chimeric antigen receptor (CAR) T-cell therapies have transformed the management of hematologic malignancies, including relapsed/refractory multiple myeloma (RRMM), lymphomas, and leukemias. These approaches enable targeted cytotoxicity through T-cell redirection and engineered cellular activity, achieving high response rates in heavily pretreated populations. Data presented at the 2025 Immune Cell Effector Therapies (ICE-T) Symposium highlighted expansion beyond B-cell maturation antigen (BCMA) to additional targets such as GPRC5D and FcRH5, alongside emerging multitarget and next-generation constructs aimed at improving durability and overcoming resistance. This narrative review summarizes key findings from the 2025 ICE-T Symposium, integrating data from clinical trials, real-world studies, and contemporary guideline-based management, with a focus on efficacy, safety, sequencing, and emerging therapeutic platforms. Across hematologic malignancie",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nNovas terapias de engenharia celular e alvos imunológicos expandem opções no mieloma múltiplo refratário\n\nAvanços recentes em terapias direcionadas por células T, como os *bispecific T-cell engagers* (BiTEs) e as terapias com receptores quiméricos de antígenos (CAR-T), vêm redefinindo o tratamento de doenças hematológicas, especialmente no mieloma múltiplo refratário ou em recidiva (RRMM). Essas abordagens permitem uma citotoxicidade seletiva por meio da redireção de linfócitos T e da engenharia de células, alcançando altas taxas de resposta mesmo em pacientes com múltiplas linhas prévias de tratamento. Durante o *Immune Cell Effector Therapies Symposium* (ICE-T) de 2025, foram apresentados dados que sinalizam uma expansão além do antígeno de maturação de células B (BCMA) — alvo tradicional — para novos marcadores como GPRC5D e FcRH5, além do desenvolvimento de construtos multialvo e de próxima geração, com foco em durabilidade e na superação de resistências.\n\nEste artigo de revisão narrativa sintetiza os principais achados do ICE-T 2025, combinando dados de ensaios clínicos, estudos do mundo real e diretrizes atuais de manejo, com ênfase em eficácia, segurança, sequenciamento terapêutico e plataformas emergentes. Embora os resultados sejam promissores, especialmente em populações previamente tratadas, ainda não há consenso sobre o melhor posicionamento desses agentes em relação às terapias padrão, como inibidores de proteassoma ou imunomoduladores. Além disso, a toxicidade — notadamente síndrome de liberação de citocinas e neurotoxicidade — permanece um desafio, embora mecanismos de modulação tenham reduzido sua incidência em comparações mais recentes. Estudos adicionais são necessários para definir critérios de seleção de pacientes, estratégias de combinação e o impacto a longo prazo dessas terapias em desfechos como sobrevida global e qualidade de vida. A integração de biomarcadores para predizer resposta e resistência também surge como uma frente crítica de pesquisa.\n\n---\n\n**English version**\n\nEmerging cellular therapies and novel immunotargets expand options in relapsed/refractory multiple myeloma\n\nRecent advances in T-cell–redirecting therapies, such as bispecific T-cell engagers (BiTEs) and chimeric antigen receptor (CAR) T-cell treatments, are reshaping the management of hematologic malignancies, particularly relapsed/refractory multiple myeloma (RRMM). These approaches enable selective cytotoxicity by harnessing and engineering T-cell activity, achieving high response rates even in heavily pretreated patients. Findings presented at the 2025 Immune Cell Effector Therapies Symposium (ICE-T) highlighted a shift beyond the traditional B-cell maturation antigen (BCMA) target toward novel markers like GPRC5D and FcRH5, alongside the development of multitarget and next-generation constructs designed for improved durability and resistance mitigation.\n\nThis narrative review consolidates key insights from ICE-T 2025, integrating clinical trial data, real-world evidence, and current guideline-based management, with a focus on efficacy, safety, therapeutic sequencing, and emerging platforms. While early results are encouraging—particularly in heavily pretreated populations—optimal integration of these agents alongside standard therapies (e.g., proteasome inhibitors or immunomodulators) remains undefined. Toxicity, notably cytokine release syndrome and neurotoxicity, persists as a concern, though mitigation strategies have reduced its incidence in more recent studies. Further research is warranted to clarify patient selection criteria, combination strategies, and long-term outcomes such as overall survival and quality of life. The incorporation of predictive biomarkers to guide treatment decisions and address resistance mechanisms represents a critical frontier in this evolving therapeutic landscape.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42329247",
-    "authors": [
-      {
-        "name": "Carmel Awadallah"
-      },
-      {
-        "name": "Anas Zayad"
-      }
-    ],
-    "journal": "Oncology (Williston Park, N.Y.)",
-    "publishedDate": "2026-06-22",
-    "fetchedDate": "2026-07-01",
-    "category": "Oncologia",
-    "tags": [
-      "leukemia",
-      "lymphoma",
-      "gene",
-      "sequencing",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41858972",
-    "pmid": "41858972",
-    "doi": "10.11604/pamj.2025.52.161.50434",
-    "title": "Locoregional recurrence of triple-negative breast cancer with low tumor-infiltrating lymphocytes: a case report.",
-    "titlePt": "Locoregional recurrence of triple-negative breast cancer with low tumor-infiltrating lymphocytes: a case report.",
-    "abstract": "Triple-negative breast cancer (TNBC) is an aggressive subtype with high histological grade and an increased propensity for early recurrence. Early locoregional recurrence within three months of a Patey mastectomy is uncommon, making this case noteworthy and contributing valuable insight into the biological aggressiveness of TNBC and the prognostic role of tumor-infiltrating lymphocytes (TILs). We report the case of a 49-year-old postmenopausal woman followed for TNBC at the Mohammed VI Oncology Center in Casablanca, Morocco, who presented with a rapidly enlarging inflammatory mass along the outer edge of the left Patey mastectomy scar, extending toward the axillary tail, three months after surgery. Histopathological evaluation confirmed a locoregional recurrence of invasive carcinoma of no special type, revealing a 12.2 cm grade III tumor with a Ki-67 index of 40%, hormone receptor-negative/HER2-negative status, and low TILs (10%). The patient received neoadjuvant chemotherapy, followe",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm caso de recorrência locorregional precoce em câncer de mama triplo-negativo (TNBC) com baixa infiltração linfocitária tumoral (TILs) evidencia a agressividade biológica dessa neoplasia e reforça o valor prognóstico desses marcadores imunológicos. A paciente, uma mulher de 49 anos, pós-menopausa, acompanhada no Centro de Oncologia Mohammed VI em Casablanca, Marrocos, desenvolveu uma massa inflamatória em rápida expansão ao longo da borda externa da cicatriz de mastectomia Patey esquerda, estendendo-se para a cauda axilar, apenas três meses após a cirurgia. A análise histopatológica confirmou o diagnóstico de recidiva locorregional de carcinoma invasivo de tipo não especial, caracterizado por um tumor grau III de 12,2 cm, índice Ki-67 de 40%, negatividade para receptores hormonais e HER2, além de baixa infiltração linfocitária tumoral (10%).\n\nO relato destaca a raridade da recorrência precoce em TNBC — subtipo conhecido por sua alta agressividade e recidiva precoce — e sublinha o papel potencial dos TILs como preditores de resposta imune e prognóstico. Embora o tratamento adjuvante não tenha sido detalhado no resumo, a literatura indica que pacientes com TNBC e baixa densidade de TILs apresentam piores desfechos, sugerindo a necessidade de estratégias terapêuticas mais agressivas ou imunomoduladoras. Contudo, a ausência de dados sobre o regime quimioterápico pré ou pós-operatório, bem como sobre a evolução clínica da paciente após o diagnóstico da recidiva, limita a extrapolação dos achados para a prática clínica.\n\nOs próximos passos incluem a investigação de fatores adicionais associados à recorrência precoce em TNBC, como a presença de micrometástases ocultas ou alterações genômicas específicas, além da avaliação prospectiva do impacto dos TILs em protocolos de imunoterapia. Este caso reforça a importância de uma vigilância rigorosa no acompanhamento de pacientes com TNBC, especialmente naqueles com características histopatológicas de alto risco.\n\n---\n\n**English version**\n\nA case of early locoregional recurrence in triple-negative breast cancer (TNBC) with low tumor-infiltrating lymphocytes (TILs) underscores the biological aggressiveness of this malignancy and highlights the prognostic significance of immune markers. The patient, a 49-year-old postmenopausal woman followed at the Mohammed VI Oncology Center in Casablanca, Morocco, developed a rapidly enlarging inflammatory mass along the outer edge of the left Patey mastectomy scar, extending toward the axillary tail, just three months after surgery. Histopathological analysis confirmed a locoregional recurrence of invasive carcinoma of no special type, characterized by a 12.2 cm grade III tumor, a Ki-67 index of 40%, hormone receptor-negative/HER2-negative status, and low TILs (10%).\n\nThe report emphasizes the rarity of such early recurrence in TNBC—a subtype known for its high histological grade and propensity for early relapse—and reinforces the potential role of TILs as predictors of immune response and prognosis. While details on adjuvant therapy were not provided in the abstract, existing literature suggests that patients with TNBC and low TIL density exhibit poorer outcomes, indicating a need for more aggressive or immunomodulatory treatment strategies. However, the lack of data on preoperative or postoperative chemotherapy regimens, as well as the patient’s clinical progression after recurrence, limits the generalizability of these findings.\n\nFuture research should explore additional factors linked to early recurrence in TNBC, such as occult micrometastases or specific genomic alterations, alongside prospective evaluations of TILs in immunotherapy protocols. This case reinforces the need for rigorous surveillance in TNBC patients, particularly those with high-risk histopathological features.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41858972",
-    "authors": [
-      {
-        "name": "Khadija Khadiri",
-        "affiliation": "Laboratory of Integrative Biology, Faculty of Sciences Ain Chock, Hassan II University of Casablanca, Casablanca, Morocco."
-      },
-      {
-        "name": "Zineb Khadrouf",
-        "affiliation": "Laboratory of Integrative Biology, Faculty of Sciences Ain Chock, Hassan II University of Casablanca, Casablanca, Morocco."
-      },
-      {
-        "name": "Malak Sadry",
-        "affiliation": "Department of Pathology, Ibn Rochd University Hospital, Casablanca, Morocco."
-      },
-      {
-        "name": "Amina Essalihi",
-        "affiliation": "Laboratory of Cellular and Molecular Pathology, Faculty of Medicine and Pharmacy of Casablanca, Hassan II University of Casablanca, Casablanca, Morocco."
-      }
-    ],
-    "journal": "The Pan African medical journal",
-    "publishedDate": "2026-06-20",
-    "fetchedDate": "2026-07-01",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "oncology",
-      "carcinoma",
-      "chemotherapy"
     ],
     "isHighlight": false,
     "readTime": 10,
