@@ -9041,6 +9041,46 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-41802941",
+    "pmid": "41802941",
+    "doi": "10.1080/21645515.2026.2641328",
+    "title": "Human papillomavirus awareness and vaccination willingness among male community residents in Beijing based on the Health Belief Model.",
+    "titlePt": "Human papillomavirus awareness and vaccination willingness among male community residents in Beijing based on the Health Belief Model.",
+    "abstract": "Following the January 2025 approval of the first male HPV vaccine in the Chinese mainland, we investigated vaccination willingness and its influencing factors among community-dwelling men. We conducted a cross-sectional study in Beijing, recruiting 480 community-based male residents and 399 men who have sex with men (MSM). Participants completed a questionnaire assessing HPV knowledge and the Health Belief Model (HBM) constructs. Multivariable logistic regression was performed to identify determinants of willingness. We found a high level of vaccination willingness, which was notably higher among MSM (90.73%) than the community-recruited male population (87.29%). Critically, willingness surpassed awareness, indicating significant latent demand despite low overall HPV knowledge. HBM analysis showed that perceived benefits promoted willingness in both groups, while self-efficacy of prevention paradoxically acted as an inhibitor. MSM reported higher perceived susceptibility and benefits, ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41802941",
+    "authors": [
+      {
+        "name": "Yan Xing",
+        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
+      },
+      {
+        "name": "Rujing Shi",
+        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
+      },
+      {
+        "name": "Yulian Li",
+        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
+      },
+      {
+        "name": "Run Cai",
+        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
+      }
+    ],
+    "journal": "Human vaccines &amp; immunotherapeutics",
+    "publishedDate": "2026-07-10",
+    "fetchedDate": "2026-09-19",
+    "category": "Imunologia",
+    "tags": [
+      "vaccine"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1qP3VR-2kFHot-a3d44fc7986ffca9\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-41819984",
     "pmid": "41819984",
     "doi": "10.1080/14767058.2026.2640251",
@@ -12603,39 +12643,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41738177",
-    "pmid": "41738177",
-    "doi": "10.1097/AJP.0000000000001368",
-    "title": "Research Progress of Fentanyl.",
-    "titlePt": "Research Progress of Fentanyl.",
-    "abstract": "Fentanyl, a potent &#x3bc; receptor agonist, is a cornerstone of perioperative and cancer pain management due to its high efficiency and multidosage characteristics. Despite its efficacy, the risks of respiratory depression and abuse present significant global public health challenges. The development of novel drug delivery systems expands their utility but intensifies the need to balance clinical benefits with safety. This review synthesizes recent evidence on fentanyl pharmacology and clinical use, with a focus on multimodal administration strategies, dose adjustment for special populations, and the impact of antiabuse technologies and regulatory policies. From the establishment of the database to September 2025, researchers conducted a systematic literature search in PubMed, Embase, and CNKI databases. The search terms included \"fentanyl,\" \"analgesia,\" \"pharmacokinetics,\" \"respiratory depression,\" and \"abuse prevention.\" High-quality randomized controlled trials, meta-analysis, lite",
-    "journalisticSummary": "Fentanyl permanece como um dos opioides mais potentes e amplamente utilizados no manejo da dor perioperatória e oncológica, graças à sua eficácia analgésica e versatilidade posológica. No entanto, seu perfil farmacológico — marcado por alta afinidade ao receptor μ-opioide — está associado a riscos significativos, como depressão respiratória e potencial de abuso, o que configura um desafio global de saúde pública. Este artigo de revisão, publicado no *Journal of Pain* (DOI: 10.1097/AJP.0000000000001368), sintetiza evidências recentes sobre a farmacologia do fentanil, estratégias de administração multimodal, ajustes posológicos para populações especiais e o impacto de tecnologias antiabuso e políticas regulatórias. A busca sistemática, conduzida até setembro de 2025, incluiu bases de dados como PubMed, Embase e CNKI, com termos como \"fentanyl\", \"analgesia\", \"farmacocinética\", \"depressão respiratória\" e \"prevenção de abuso\". Os resultados destacam avanços na otimização de sistemas de liberação controlada, como adesivos transdérmicos de dose única prolongada e formulações sublinguais de ação rápida, que buscam reduzir flutuações plasmáticas e melhorar a adesão. Além disso, são discutidas estratégias para minimizar eventos adversos em populações vulneráveis, como idosos e pacientes com insuficiência renal, por meio de esquemas posológicos adaptados e monitoramento contínuo. A integração de tecnologias de detecção de abuso, como sistemas de liberação com antagonistas embutidos ou dispositivos com geolocalização para prescrições controladas, emerge como uma fronteira promissora, embora ainda limitada por questões éticas e de viabilidade clínica. Os autores ressaltam, contudo, que a ausência de dados robustos sobre a eficácia dessas tecnologias em cenários do mundo real impede conclusões definitivas. Como próximos passos, são sugeridos estudos randomizados comparando regimes multimodais versus monoterapia, além das implicações de políticas públicas que equilibrem o acesso ao fentanil para indicações essenciais com medidas de contenção de seu uso indevido.\n\n---\n\nFentanyl remains one of the most potent and widely used opioids in perioperative and cancer pain management due to its high analgesic efficacy and versatile dosing options. However, its pharmacological profile — characterized by high affinity for the μ-opioid receptor — is associated with significant risks, including respiratory depression and abuse potential, posing a global public health challenge. This review article, published in the *Journal of Pain* (DOI: 10.1097/AJP.0000000000001368), synthesizes recent evidence on fentanyl pharmacology, multimodal administration strategies, dose adjustments for special populations, and the impact of abuse-deterrent technologies and regulatory policies. The systematic literature search, conducted up to September 2025, included databases such as PubMed, Embase, and CNKI, using terms like \"fentanyl,\" \"analgesia,\" \"pharmacokinetics,\" \"respiratory depression,\" and \"abuse prevention.\" Findings highlight advances in optimized controlled-release systems, such as single-dose transdermal patches and rapid-acting sublingual formulations, aimed at reducing plasma fluctuations and improving adherence. The discussion also addresses strategies to minimize adverse events in vulnerable populations, such as the elderly and patients with renal impairment, through tailored dosing regimens and continuous monitoring. The integration of abuse-deterrent technologies, including embedded antagonist systems or geolocation-enabled devices for controlled prescriptions, emerges as a promising frontier, though still limited by ethical and real-world feasibility concerns. The authors note, however, that the lack of robust data on the effectiveness of these technologies in real-world settings prevents definitive conclusions. Future steps include randomized trials comparing multimodal regimens versus monotherapy, as well as evaluations of public policies that balance access to fentanyl for essential indications with measures to curb its misuse.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41738177",
-    "authors": [
-      {
-        "name": "Rui Feng",
-        "affiliation": "Department of Anesthesiology, Henan Medical University, Xinxiang, Henan Province, China."
-      }
-    ],
-    "journal": "The Clinical journal of pain",
-    "publishedDate": "2026-06-19",
-    "fetchedDate": "2026-07-01",
-    "category": "Farmacologia",
-    "tags": [
-      "cancer",
-      "drug",
-      "pharmacology",
-      "pharmacokinetics",
-      "depression"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
