@@ -8388,6 +8388,50 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42053343",
+    "pmid": "42053343",
+    "doi": "10.1080/21645515.2026.2664323",
+    "title": "Safety of COVID-19 and influenza vaccines in children and adolescents with immunocompromised or autoimmune conditions: Findings from the Canadian National Vaccine Safety (CANVAS) network.",
+    "titlePt": "Safety of COVID-19 and influenza vaccines in children and adolescents with immunocompromised or autoimmune conditions: Findings from the Canadian National Vaccine Safety (CANVAS) network.",
+    "abstract": "Safety data on COVID-19 and influenza vaccination in immunocompromised and/or autoimmune pediatric populations remains limited. This study evaluated post-vaccination health events in this vulnerable population using active surveillance data from the Canadian National Vaccine Safety (CANVAS) Network. A prospective cohort of participants aged 6&#x2009;months to 19&#x2009;y, who self-identified with an autoimmune and/or immunocompromised condition, were followed across several Canadian provinces (2023-2025). Participants were vaccinated with COVID-19 only, seasonal influenza vaccine only, or had both vaccines co-administered and reported new or worsening health events within 7 d post-vaccination; unvaccinated participants reported new or worsening events in the prior week. Health events were defined as events resulting in school/daycare absenteeism, prevention of daily activities, or requiring medical consultation. Symptoms were collected in a structured survey. Associations between vacci",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42053343",
+    "authors": [
+      {
+        "name": "Cailey Turner",
+        "affiliation": "Department of Pediatrics, University of Calgary, Calgary, Alberta, Canada."
+      },
+      {
+        "name": "Otto G Vanderkooi",
+        "affiliation": "Department of Pediatrics, University of Calgary, Calgary, Alberta, Canada."
+      },
+      {
+        "name": "James D Kellner",
+        "affiliation": "Department of Pediatrics, University of Calgary, Calgary, Alberta, Canada."
+      },
+      {
+        "name": "Hennady P Shulha",
+        "affiliation": "Vaccine Evaluation Center, BC Children's Hospital Research Institute, Vancouver, British Columbia, Canada."
+      }
+    ],
+    "journal": "Human vaccines &amp; immunotherapeutics",
+    "publishedDate": "2026-07-15",
+    "fetchedDate": "2026-09-20",
+    "category": "Imunologia",
+    "tags": [
+      "covid",
+      "pediatric",
+      "children",
+      "immune",
+      "autoimmune"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p22PTU3-2kFHot-a3e030d8aa70adb7\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42000072",
     "pmid": "42000072",
     "doi": "10.1016/j.jad.2026.121807",
@@ -12603,47 +12647,6 @@
       "oncology",
       "genomic",
       "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41405312",
-    "pmid": "41405312",
-    "doi": "10.1097/MCA.0000000000001606",
-    "title": "The pan-immune-inflammation value associated with in-hospital heart failure in elderly patients with acute myocardial infarction.",
-    "titlePt": "The pan-immune-inflammation value associated with in-hospital heart failure in elderly patients with acute myocardial infarction.",
-    "abstract": "Few studies have focused on the association between pan-immune-inflammation value (PIV) and in-hospital heart failure postcoronary angioplasty in elderly patients with acute myocardial infarction (AMI). This prospective study aimed to confirm the relationship between PIV, the severity of coronary artery disease, and in-hospital heart failure in elderly patients with AMI after coronary angioplasty. A total of 799 patients with AMI aged greater than or equal to 60 years were enrolled and divided into two groups according to whether they presented heart failure during hospitalization. They all received coronary angiography and underwent successful percutaneous coronary intervention. The degree of stenosis of the coronary artery was assessed with the Gensini score. PIV was significantly greater in the heart failure group than in the control group (1250&#x2009;&#xb1;&#x2009;975 vs. 674&#x2009;&#xb1;&#x2009;406; P &lt; 0.001). The multivariate Cox proportional hazards model analyses found th",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a relação entre o valor de inflamação imunológica pan-pan (PIV) e a insuficiência cardíaca hospitalar em pacientes idosos com infarto agudo do miocárdio (IAM) submetidos à angioplastia coronária. Essa pesquisa prospectiva teve como objetivo confirmar a associação entre o PIV, a gravidade da doença coronária e a insuficiência cardíaca hospitalar nesse grupo de pacientes. Foram avaliados 799 pacientes com IAM com idade igual ou superior a 60 anos, divididos em dois grupos com base na ocorrência de insuficiência cardíaca durante a hospitalização. Todos os pacientes receberam angiografia coronária e foram submetidos a intervenção coronária percutânea bem-sucedida. O grau de estenose da artéria coronária foi avaliado utilizando a pontuação de Gensini. Os resultados mostraram que o PIV foi significativamente maior no grupo com insuficiência cardíaca em comparação com o grupo controle (1250 ± 975 vs. 674 ± 406; P < 0,001). Análises do modelo de riscos proporcionais de Cox multivariado encontraram uma associação entre o PIV e a ocorrência de insuficiência cardíaca hospitalar. Embora os achados sejam promissores, é importante considerar as limitações do estudo, como a necessidade de mais pesquisas para confirmar esses resultados e explorar as implicações clínicas em maior profundidade. Além disso, não foram fornecidos detalhes sobre os próximos passos ou as implicações práticas desses achados, o que será essencial para guiar a tomada de decisões clínicas no futuro.\n\nA recent study published in PubMed investigated the relationship between the pan-immune-inflammation value (PIV) and in-hospital heart failure in elderly patients with acute myocardial infarction (AMI) undergoing coronary angioplasty. This prospective study aimed to confirm the association between PIV, the severity of coronary artery disease, and in-hospital heart failure in this group of patients. A total of 799 patients with AMI aged 60 years or older were evaluated, divided into two groups based on the occurrence of heart failure during hospitalization. All patients underwent coronary angiography and successful percutaneous coronary intervention. The degree of coronary artery stenosis was assessed using the Gensini score. The results showed that PIV was significantly higher in the heart failure group compared to the control group (1250 ± 975 vs. 674 ± 406; P < 0.001). Multivariate Cox proportional hazards model analyses found an association between PIV and the occurrence of in-hospital heart failure. Although the findings are promising, it is essential to consider the study's limitations, such as the need for further research to confirm these results and explore the clinical implications in greater depth. Additionally, no details were provided on the next steps or practical implications of these findings, which will be crucial for guiding clinical decision-making in the future.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41405312",
-    "authors": [
-      {
-        "name": "Yi Ma",
-        "affiliation": "Department of Cardiovascular Medicine, Tangshan Gongren Hospital, Tangshan, Hebei Province, China."
-      },
-      {
-        "name": "Jing Han"
-      },
-      {
-        "name": "Jianhui Wang"
-      },
-      {
-        "name": "Haojun An"
-      }
-    ],
-    "journal": "Coronary artery disease",
-    "publishedDate": "2026-06-24",
-    "fetchedDate": "2026-07-01",
-    "category": "Cardiologia",
-    "tags": [
-      "heart",
-      "myocardial",
-      "coronary",
-      "immune"
     ],
     "isHighlight": false,
     "readTime": 6,
