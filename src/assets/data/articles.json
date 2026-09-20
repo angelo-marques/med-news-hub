@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42761919",
+    "pmid": "42761919",
+    "doi": "10.2147/DDDT.S619671",
+    "title": "Drug Repurposing for Metabolic-Associated Fatty Liver Disease: Current Evidence, Challenges, and Future Perspectives.",
+    "titlePt": "Drug Repurposing for Metabolic-Associated Fatty Liver Disease: Current Evidence, Challenges, and Future Perspectives.",
+    "abstract": "Metabolic dysfunction-associated fatty liver disease (MAFLD) is a prevalent chronic liver condition with limited approved pharmacotherapies. Drug repurposing offers a time-efficient alternative to de novo development, yet existing reviews often compile candidate compounds without critically appraising the methodological robustness, evidence quality, or translational barriers. In this review, we evaluated current repurposing strategies, including real-world data analyses, computational screening, and experimental validations. As a preliminary search for this review, we searched PubMed and clinical trial registries up to October 2025 using predefined search terms related to MAFLD, drug repurposing, and clinical trials. Despite numerous computational predictions and preclinical candidates, only a small fraction have advanced to late-stage trials. To date, regulatory approvals for MAFLD remain limited, with only a few agents approved and even fewer through repurposing. We examine key obsta",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42761919",
+    "authors": [
+      {
+        "name": "Xiaonan Liang",
+        "affiliation": "State Key Laboratory of Mechanism and Quality of Chinese Medicine, Institute of Chinese Medical Sciences, University of Macau, Macao, People's Republic of China."
+      },
+      {
+        "name": "Ping Jin",
+        "affiliation": "State Key Laboratory of Mechanism and Quality of Chinese Medicine, Institute of Chinese Medical Sciences, University of Macau, Macao, People's Republic of China."
+      },
+      {
+        "name": "Yan Xue",
+        "affiliation": "State Key Laboratory of Mechanism and Quality of Chinese Medicine, Institute of Chinese Medical Sciences, University of Macau, Macao, People's Republic of China."
+      },
+      {
+        "name": "Yongliang Jia",
+        "affiliation": "Henan Institute of Medical and Pharmaceutical Sciences, Zhengzhou University, Zhengzhou, Henan, People's Republic of China."
+      }
+    ],
+    "journal": "Drug design, development and therapy",
+    "publishedDate": "2026-09-19",
+    "fetchedDate": "2026-09-20",
+    "category": "Farmacologia",
+    "tags": [
+      "rna",
+      "drug",
+      "clinical trial",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1ztxb4-2kFHot-a3de94d0cd6279cf\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42761077",
     "pmid": "42761077",
     "doi": "10.3389/fphar.2026.1918344",
@@ -12606,50 +12649,5 @@
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42053343",
-    "pmid": "42053343",
-    "doi": "10.1080/21645515.2026.2664323",
-    "title": "Safety of COVID-19 and influenza vaccines in children and adolescents with immunocompromised or autoimmune conditions: Findings from the Canadian National Vaccine Safety (CANVAS) network.",
-    "titlePt": "Safety of COVID-19 and influenza vaccines in children and adolescents with immunocompromised or autoimmune conditions: Findings from the Canadian National Vaccine Safety (CANVAS) network.",
-    "abstract": "Safety data on COVID-19 and influenza vaccination in immunocompromised and/or autoimmune pediatric populations remains limited. This study evaluated post-vaccination health events in this vulnerable population using active surveillance data from the Canadian National Vaccine Safety (CANVAS) Network. A prospective cohort of participants aged 6&#x2009;months to 19&#x2009;y, who self-identified with an autoimmune and/or immunocompromised condition, were followed across several Canadian provinces (2023-2025). Participants were vaccinated with COVID-19 only, seasonal influenza vaccine only, or had both vaccines co-administered and reported new or worsening health events within 7 d post-vaccination; unvaccinated participants reported new or worsening events in the prior week. Health events were defined as events resulting in school/daycare absenteeism, prevention of daily activities, or requiring medical consultation. Symptoms were collected in a structured survey. Associations between vacci",
-    "journalisticSummary": "**Versão em português brasileiro:**\n\nUm estudo prospectivo conduzido pelo *Canadian National Vaccine Safety (CANVAS) Network* avaliou a segurança de vacinas contra COVID-19 e influenza em crianças e adolescentes com condições autoimunes ou imunocomprometidas, uma população historicamente sub-representada em ensaios clínicos. Publicado recentemente no *PubMed* (DOI: 10.1080/21645515.2026.2664323), o trabalho analisou dados de vigilância ativa de 2023 a 2025, abrangendo participantes de 6 meses a 19 anos de idade em várias províncias canadenses.\n\nOs resultados indicam que eventos adversos pós-vacinação — definidos como ausências escolares, impacto em atividades diárias ou necessidade de consulta médica — foram relatados em proporções semelhantes entre vacinados e não vacinados, sugerindo um perfil de segurança aceitável para ambos os imunizantes. A coadministração das vacinas não demonstrou aumento significativo na frequência de eventos adversos em comparação com a administração isolada. No entanto, o estudo não detalha a incidência específica de eventos graves ou reações raras, como miocardite ou reações alérgicas severas, limitando a generalização dos achados para desfechos mais críticos.\n\nEmbora os dados reforcem a segurança relativa dessas vacinas em populações pediátricas vulneráveis, os autores destacam a necessidade de pesquisas futuras com amostras maiores e acompanhamento prolongado para avaliar desfechos a longo prazo e raros eventos adversos. Além disso, a ausência de dados sobre a eficácia imunológica nessas populações impede conclusões sobre o equilíbrio entre risco e benefício. Esses achados são essenciais para orientar políticas públicas de imunização em grupos de alto risco, especialmente em contextos de circulação simultânea de patógenos respiratórios.\n\n---\n\n**English version:**\n\nA prospective study by the *Canadian National Vaccine Safety (CANVAS) Network* assessed the safety of COVID-19 and influenza vaccines in children and adolescents with autoimmune or immunocompromised conditions—a population historically underrepresented in clinical trials. Published in *PubMed* (DOI: 10.1080/21645515.2026.2664323), the research analyzed active surveillance data from 2023 to 2025, covering participants aged 6 months to 19 years across multiple Canadian provinces.\n\nFindings indicate that post-vaccination adverse events—defined as school absenteeism, disruption of daily activities, or medical consultations—were reported at similar rates among vaccinated and unvaccinated individuals, suggesting an acceptable safety profile for both vaccines. Co-administration did not show a significant increase in adverse events compared to single-dose administration. However, the study does not provide specific incidence data on severe or rare reactions, such as myocarditis or anaphylaxis, limiting the ability to generalize these findings to critical outcomes.\n\nWhile the data support the relative safety of these vaccines in vulnerable pediatric populations, the authors emphasize the need for future research with larger sample sizes and extended follow-up to evaluate long-term and rare adverse events. Additionally, the lack of data on immunogenicity in these groups prevents conclusions about the risk-benefit balance. These findings are crucial for guiding public immunization policies in high-risk populations, particularly in settings with simultaneous circulation of respiratory pathogens.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42053343",
-    "authors": [
-      {
-        "name": "Cailey Turner",
-        "affiliation": "Department of Pediatrics, University of Calgary, Calgary, Alberta, Canada."
-      },
-      {
-        "name": "Otto G Vanderkooi",
-        "affiliation": "Department of Pediatrics, University of Calgary, Calgary, Alberta, Canada."
-      },
-      {
-        "name": "James D Kellner",
-        "affiliation": "Department of Pediatrics, University of Calgary, Calgary, Alberta, Canada."
-      },
-      {
-        "name": "Hennady P Shulha",
-        "affiliation": "Vaccine Evaluation Center, BC Children's Hospital Research Institute, Vancouver, British Columbia, Canada."
-      }
-    ],
-    "journal": "Human vaccines &amp; immunotherapeutics",
-    "publishedDate": "2026-06-22",
-    "fetchedDate": "2026-07-15",
-    "category": "Imunologia",
-    "tags": [
-      "covid",
-      "pediatric",
-      "children",
-      "immune",
-      "autoimmune"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
