@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42764657",
+    "pmid": "42764657",
+    "doi": "10.2174/012772574X495894260902101643",
+    "title": "Ethnobotanical, Phyto-pharmacological, and Bio-economic Prospects of Phyllostachys edulis (Carri&#xe8;re) J.Houz.: Review of Recent Advances.",
+    "titlePt": "Ethnobotanical, Phyto-pharmacological, and Bio-economic Prospects of Phyllostachys edulis (Carri&#xe8;re) J.Houz.: Review of Recent Advances.",
+    "abstract": "Phyllostachys edulis (Carri&#xe8;re) J.Houz. (Moso bamboo) has historically been recognised as a structural timber resource (\"Green Gold\"), overshadowing its significant potential as a reservoir of therapeutic bioactive compounds. This review aims to thoroughly integrate current knowledge on phytochemistry, pharmacological mechanisms of action, safety issues, and agricultural and industrial aspects to identify future research areas. The literature search was conducted across five major databases (PubMed, ScienceDirect, Google Scholar, ResearchGate, and Semantic Scholar) covering the period from January 2019 to December 2025. Following rigorous screening of 630 initial records, 101 primary studies that met strict inclusion criteria for phytochemical characterisation and molecular pharmacology were synthesised. Important articles published before 2019 were included to provide essential background and context. Phytochemical analysis reveals a unique radial metabolite gradient, dominated b",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764657",
+    "authors": [
+      {
+        "name": "Akshita Giri",
+        "affiliation": "Faculty of the Department of Pharmacy, Capital University, Jorethang, Sikkim. PIN-737121, India."
+      },
+      {
+        "name": "Soubhik Bhattacharyya",
+        "affiliation": "Faculty of Pharmaceutical Science, Assam Downtown University, Gandhinagar, Panikhaiti, Guwahati, Assam. PIN-781026, India."
+      },
+      {
+        "name": "Dhrubajyoti Sarkar",
+        "affiliation": "Faculty of Pharmaceutical Science, Assam Downtown University, Gandhinagar, Panikhaiti, Guwahati, Assam. PIN-781026, India."
+      },
+      {
+        "name": "Ashim Kumar Sen",
+        "affiliation": "School of Pharmacy, The Neotia University, Sarisha, Diamond Harbour Road, West Bengal- 743368, India."
+      }
+    ],
+    "journal": "Recent advances in food, nutrition &amp; agriculture",
+    "publishedDate": "2026-09-21",
+    "fetchedDate": "2026-09-21",
+    "category": "Farmacologia",
+    "tags": [
+      "pharmacology",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2ATvzm-2kFHot-a3e8e86a2cfc5901\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42761919",
     "pmid": "42761919",
     "doi": "10.2147/DDDT.S619671",
@@ -12606,50 +12647,6 @@
     ],
     "isHighlight": false,
     "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42060214",
-    "pmid": "42060214",
-    "doi": "10.1007/s10147-026-03034-x",
-    "title": "Bridging the distance in precision oncology: a nationwide survey on institutional perspectives toward telemedicine and decentralized trials in Japan.",
-    "titlePt": "Bridging the distance in precision oncology: a nationwide survey on institutional perspectives toward telemedicine and decentralized trials in Japan.",
-    "abstract": "Comprehensive genomic profiling (CGP) has been reimbursed under Japan's universal health coverage since 2019, yet access remains uneven because designated institutions are concentrated in urban areas. Although CGP can identify actionable alterations, fewer than 10% of patients receive matched therapies, often due to geographic barriers to clinical trial enrollment. This nationwide survey evaluated institutional challenges in CGP implementation and explored the perceived role of telemedicine and decentralized clinical trials (DCTs) in improving equitable access. A web-based questionnaire was distributed to professionals involved in CGP across government-designated hospitals for cancer genomic medicine between December 2024 and February 2025. Respondents provided institutional data and perceptions regarding CGP access, telemedicine use, and barriers to trial participation. A total of 194 professionals from 140 hospitals responded. On average, 23.5% of CGP-tested patients were referred fr",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou as perspectivas institucionais sobre telemedicina e ensaios clínicos descentralizados no contexto da oncologia de precisão no Japão. Desde 2019, o perfilamento genômico abrangente (CGP) é reembolsado pelo sistema de saúde universal do país, no entanto, o acesso a essa tecnologia permanece desigual devido à concentração de instituições designadas em áreas urbanas. Embora o CGP possa identificar alterações ações, menos de 10% dos pacientes recebem terapias correspondentes, frequentemente devido a barreiras geográficas para inscrição em ensaios clínicos. A pesquisa avaliou os desafios institucionais na implementação do CGP e explorou o papel percebido da telemedicina e dos ensaios clínicos descentralizados (DCTs) na melhoria do acesso equitativo.\n\nOs resultados mostraram que 194 profissionais de 140 hospitais responderam a um questionário online distribuído entre dezembro de 2024 e fevereiro de 2025. Em média, 23,5% dos pacientes submetidos ao CGP foram encaminhados para instituições especializadas. No entanto, não foram fornecidos detalhes sobre as principais conclusões ou recomendações específicas para superar as barreiras identificadas. O impacto clínico potencial da implementação de telemedicina e DCTs na oncologia de precisão é significativo, especialmente para pacientes com acesso limitado a centros de tratamento especializados. No entanto, também é importante considerar as limitações, como a necessidade de infraestrutura adequada e treinamento para os profissionais de saúde.\n\nOs próximos passos incluem a necessidade de mais pesquisas para entender melhor as barreiras institucionais e como a telemedicina e os DCTs podem ser implementados de forma eficaz para melhorar o acesso equitativo à oncologia de precisão. Além disso, é fundamental o desenvolvimento de políticas e estratégias para superar as desigualdades no acesso ao CGP e às terapias personalizadas. Embora o estudo forneça insights valiosos sobre as perspectivas institucionais, é crucial continuar investindo em pesquisas e iniciativas que visem melhorar a acessibilidade e a equidade na oncologia de precisão.\n\nUm estudo recente publicado no PubMed investigou as perspectivas institucionais sobre telemedicina e ensaios clínicos descentralizados no contexto da oncologia de precisão no Japão. No entanto, os detalhes específicos sobre as principais conclusões e recomendações não foram fornecidos, o que limita a profundidade da análise. Mais pesquisas são necessárias para entender melhor como superar as barreiras no acesso à oncologia de precisão e garantir que mais pacientes possam se beneficiar das terapias personalizadas.\n\nA recent study published on PubMed investigated institutional perspectives on telemedicine and decentralized clinical trials in the context of precision oncology in Japan. Since 2019, comprehensive genomic profiling (CGP) has been reimbursed under Japan's universal health coverage, however, access to this technology remains unequal due to the concentration of designated institutions in urban areas. Although CGP can identify actionable alterations, fewer than 10% of patients receive matched therapies, often due to geographic barriers to clinical trial enrollment.\n\nThe study's findings showed that 194 professionals from 140 hospitals responded to a web-based questionnaire distributed between December 2024 and February 2025. On average, 23.5% of CGP-tested patients were referred to specialized institutions. However, specific details about the main conclusions or recommendations were not provided. The potential clinical impact of implementing telemedicine and decentralized clinical trials in precision oncology is significant, especially for patients with limited access to specialized treatment centers. However, it is also important to consider the limitations, such as the need for adequate infrastructure and training for healthcare professionals.\n\nThe next steps include the need for further research to better understand the institutional barriers and how telemedicine and decentralized clinical trials can be effectively implemented to improve equitable access to precision oncology. Additionally, it is crucial to develop policies and strategies to overcome the inequalities in access to CGP and personalized therapies. While the study provides valuable insights into institutional perspectives, it is essential to continue investing in research and initiatives that aim to improve accessibility and equity in precision oncology.\n\nA recent study published on PubMed investigated institutional perspectives on telemedicine and decentralized clinical trials in the context of precision oncology in Japan. However, specific details about the main conclusions and recommendations were not provided, which limits the depth of the analysis. Further research is needed to better understand how to overcome the barriers in access to precision oncology and ensure that more patients can benefit from personalized therapies. The clinical impact and potential benefits of telemedicine and decentralized clinical trials in precision oncology are significant, and further studies should investigate the effectiveness of these approaches in improving patient outcomes.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42060214",
-    "authors": [
-      {
-        "name": "Hiroya Taniguchi",
-        "affiliation": "Department of Clinical Oncology. Aichi Cancer Center Hospital, 1-1 Kanokoden, Chikusa-ku, Nagoya, Aichi, 464-8681, Japan. hiroya.taniguchi@aichi-cc.jp."
-      },
-      {
-        "name": "Takeshi Kawakami",
-        "affiliation": "Division of Gastrointestinal Oncology, Shizuoka Cancer Center, Shizuoka, Japan."
-      },
-      {
-        "name": "Hironaga Satake",
-        "affiliation": "Department of Medical Oncology, Kochi Medical School, Kochi, Japan."
-      },
-      {
-        "name": "Yuko Tamura",
-        "affiliation": "NTT DOCOMO BUSINESS, Inc., Tokyo, Japan."
-      }
-    ],
-    "journal": "International journal of clinical oncology",
-    "publishedDate": "2026-06-26",
-    "fetchedDate": "2026-07-01",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "oncology",
-      "genomic",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
