@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42765598",
+    "pmid": "42765598",
+    "doi": "10.1080/13814788.2026.2729221",
+    "title": "Discrepancies in low-value practices across cardiovascular disease prevention guidelines. A narrative review.",
+    "titlePt": "Discrepancies in low-value practices across cardiovascular disease prevention guidelines. A narrative review.",
+    "abstract": "Low-value practices are interventions that do not provide health benefits due to lack of effectiveness or associated risks that outweigh the potential benefits. The purpose of this study is to demonstrate discrepancies across various cardiovascular prevention guidelines published by numerous institutions and organisations, and establish an objective overview of the current state of the art and formulate recommendations for general practitioners. A narrative review of clinical practice guidelines for CVD prevention published in English between January 2017 and December 2025 was conducted. Searches focused on major European, British, North American, and Australian scientific societies; only guidelines containing explicit recommendations on low-value or unnecessary practices were included. We identified the scientific evidence supporting these recommendations and searched for ongoing clinical trials - specifically in cases where recommendations were based on a single randomised trial, lar",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42765598",
+    "authors": [
+      {
+        "name": "Carlos Brotons",
+        "affiliation": "Research Unit, Sardenya Primary Health Care Center, Institut de Recerca Sant Pau (IR SANT PAU), Barcelona, Spain."
+      },
+      {
+        "name": "Irene Moral",
+        "affiliation": "Research Unit, Sardenya Primary Health Care Center, Institut de Recerca Sant Pau (IR SANT PAU), Barcelona, Spain."
+      },
+      {
+        "name": "Tom Axelrod",
+        "affiliation": "Department of Family Medicine at Clalit Health Services, Hebrew University of Jerusalem, Jerusalem, Israel."
+      },
+      {
+        "name": "John Brandt Brodersen",
+        "affiliation": "Centre for Cancer and Organ Diseases at Copenhagen University Hospital - Rigshospitalet, Copenhagen, Denmark."
+      }
+    ],
+    "journal": "The European journal of general practice",
+    "publishedDate": "2026-09-21",
+    "fetchedDate": "2026-09-21",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "gene",
+      "clinical trial"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2C1hw3-2kFHot-a3ea940d791de895\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42764657",
     "pmid": "42764657",
     "doi": "10.2174/012772574X495894260902101643",
@@ -12602,51 +12644,6 @@
     ],
     "isHighlight": false,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42177352",
-    "pmid": "42177352",
-    "doi": "10.1007/s10147-026-03049-4",
-    "title": "SCRUM-Japan MONSTAR3 hematology cohort: a nationwide multi-omics integrated platform for next-generation precision medicine in hematologic malignancies.",
-    "titlePt": "SCRUM-Japan MONSTAR3 hematology cohort: a nationwide multi-omics integrated platform for next-generation precision medicine in hematologic malignancies.",
-    "abstract": "Hematologic malignancies exhibit marked biological heterogeneity that is often insufficiently characterized by genomic profiling alone. Integrated multi-omics approaches are required to enable more accurate prognostic stratification, elucidate resistance mechanisms, and identify therapeutic vulnerabilities across lymphoma, leukemia, and plasma cell neoplasms. SCRUM-Japan MONSTAR3 is a nationwide, prospective, integrated multi-omics platform. The hematology cohort aims to enroll 400 patients with newly diagnosed or relapsed/refractory hematologic malignancies. Tumor specimens-including bone marrow aspirates/biopsies or lymph node tissues-are collected at diagnosis and at relapse. The multi-omics workflow encompasses whole-exome sequencing, whole-transcriptome sequencing, spatial transcriptomics, plasma proteomics, metabolomics, microbiome analysis, and tumor-informed measurable residual disease (MRD) monitoring. MRD is assessed using next-generation sequencing-based immunoglobulin heavy",
-    "journalisticSummary": "Um estudo recente publicado na plataforma PubMed apresenta uma abordagem inovadora para o tratamento de malignidades hematológicas, que incluem linfomas, leucemias e neoplasias de células plasmáticas. Essas doenças são conhecidas por sua grande heterogeneidade biológica, o que dificulta a caracterização precisa apenas através do perfil genômico. Para superar essa limitação, os pesquisadores propõem uma plataforma integrada de multi-ômica, denominada SCRUM-Japan MONSTAR3, que visa reunir dados de diferentes fontes para uma melhor compreensão dessas doenças. A cohorte de hematologia deste estudo tem como objetivo recrutar 400 pacientes com malignidades hematológicas recém-diagnosticadas ou em recorrência/refratárias. Amostras de tumor, incluindo aspirados e biópsias de medula óssea ou tecidos de linfonodos, são coletadas no diagnóstico e na recorrência.\n\nA plataforma multi-ômica empregada engloba uma variedade de técnicas, como sequenciamento de exoma completo, sequenciamento de transcriptoma completo, transcriptômica espacial, proteômica plasmática, metabolômica, análise do microbioma e monitoramento de doença residual mensurável (DRM) informado pelo tumor. A DRM é avaliada utilizando sequenciamento de próxima geração baseado em imunoglobulina pesada. Embora o estudo não forneça detalhes sobre os achados principais ou o impacto clínico até o momento, a abordagem proposta sugere um potencial significativo para uma estratificação prognóstica mais precisa, elucidação de mecanismos de resistência e identificação de vulnerabilidades terapêuticas. As limitações do estudo, como a falta de dados sobre os resultados clínicos e a necessidade de acompanhamento a longo prazo, devem ser abordadas em futuras análises. Os próximos passos incluem a continuação do recrutamento de pacientes e a análise dos dados coletados para explorar como essa plataforma pode contribuir para a medicina de precisão na hematologia.\n\nUm estudo recente publicado na plataforma PubMed apresenta uma abordagem inovadora para o tratamento de malignidades hematológicas, mas não foram fornecidos detalhes sobre os resultados específicos ou o impacto clínico. A pesquisa tem como base uma plataforma integrada de multi-ômica, que visa reunir dados de diferentes fontes para uma melhor compreensão dessas doenças, mas não há informações sobre as descobertas principais ou como elas podem afetar o tratamento dessas doenças.\n\n \n\nA study recently published on the PubMed platform presents an innovative approach to treating hematologic malignancies, which include lymphomas, leukemias, and plasma cell neoplasms. These diseases are known for their significant biological heterogeneity, making it challenging to characterize them accurately through genomic profiling alone. To overcome this limitation, researchers propose an integrated multi-omics platform, known as SCRUM-Japan MONSTAR3, which aims to gather data from various sources for a better understanding of these diseases. The hematology cohort in this study aims to recruit 400 patients with newly diagnosed or relapsed/refractory hematologic malignancies. Tumor specimens, including bone marrow aspirates/biopsies or lymph node tissues, are collected at diagnosis and at relapse.\n\nThe multi-omics platform employed encompasses a range of techniques, including whole-exome sequencing, whole-transcriptome sequencing, spatial transcriptomics, plasma proteomics, metabolomics, microbiome analysis, and tumor-informed measurable residual disease (MRD) monitoring. MRD is assessed using next-generation sequencing-based immunoglobulin heavy chain analysis. Although the study does not provide details on the main findings or clinical impact at this time, the proposed approach suggests significant potential for more accurate prognostic stratification, elucidation of resistance mechanisms, and identification of therapeutic vulnerabilities. The limitations of the study, such as the lack of data on clinical outcomes and the need for long-term follow-up, should be addressed in future analyses. The next steps include continuing patient recruitment and analyzing the collected data to explore how this platform can contribute to precision medicine in hematology.\n\nThe study presents a novel approach to understanding hematologic malignancies, but specific results or clinical implications are not provided. The research is based on an integrated multi-omics platform, aiming to gather comprehensive data on these diseases, but main discoveries or their potential impact on treatment are not disclosed.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42177352",
-    "authors": [
-      {
-        "name": "Kensuke Matsuda",
-        "affiliation": "Department of Hematology, National Cancer Center Hospital East, Kashiwa, Japan."
-      },
-      {
-        "name": "Junichiro Yuda",
-        "affiliation": "Department of Hematology, National Cancer Center Hospital East, Kashiwa, Japan. jyuda@east.ncc.go.jp."
-      },
-      {
-        "name": "Ryo Yoshimaru",
-        "affiliation": "Division of Cancer Immunology, Research Institute/Exploratory Oncology Research and Clinical Trial Center (EPOC), National Cancer Center, Kashiwa, Japan. jyuda@east.ncc.go.jp."
-      },
-      {
-        "name": "Isamu Harima",
-        "affiliation": "Department of Hematology, National Cancer Center Hospital East, Kashiwa, Japan."
-      }
-    ],
-    "journal": "International journal of clinical oncology",
-    "publishedDate": "2026-06-26",
-    "fetchedDate": "2026-07-01",
-    "category": "Oncologia",
-    "tags": [
-      "tumor",
-      "leukemia",
-      "lymphoma",
-      "genomic",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
