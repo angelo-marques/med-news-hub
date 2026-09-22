@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42770652",
+    "pmid": "42770652",
+    "doi": "10.1111/cas.70538",
+    "title": "Comprehensive Genomic Profiling Beyond Driver Testing in Non-Squamous Non-Small Cell Lung Cancer With Known Drivers.",
+    "titlePt": "Comprehensive Genomic Profiling Beyond Driver Testing in Non-Squamous Non-Small Cell Lung Cancer With Known Drivers.",
+    "abstract": "In advanced non-squamous non-small cell lung cancer (non-sq NSCLC), companion diagnostic testing (CDx) identifies actionable driver alterations and guides initial targeted therapy. However, disease progression inevitably occurs through acquired resistance, including activation of bypass signaling pathways. Although comprehensive genomic profiling (CGP) can identify emerging resistance alterations, its clinical utility in patients with known actionable driver alterations remains unclear. We retrospectively analyzed 227 patients who underwent CGP between June 2019 and August 2025. Patients with actionable driver alterations identified by CDx before CGP formed the known driver group. We also analyzed the nationwide C-CAT registry to assess registry-recorded therapeutic implementation. Among 227 patients, 74 (32.6%) had known actionable driver alterations. CGP identified additional clinically relevant genomic findings, including ESCAT Tier I-III or V alterations, in 34 patients (45.9%), co",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42770652",
+    "authors": [
+      {
+        "name": "Yoshihiro Masui",
+        "affiliation": "Department of Thoracic Oncology, National Cancer Center Hospital, Tokyo, Japan."
+      },
+      {
+        "name": "Tatsuya Yoshida",
+        "affiliation": "Division of Genome Biology, National Cancer Center Research Institute, Tokyo, Japan."
+      },
+      {
+        "name": "Yoh Yamaguchi",
+        "affiliation": "Department of Thoracic Oncology, National Cancer Center Hospital, Tokyo, Japan."
+      },
+      {
+        "name": "Jun Miyakoshi",
+        "affiliation": "Department of Thoracic Oncology, National Cancer Center Hospital, Tokyo, Japan."
+      }
+    ],
+    "journal": "Cancer science",
+    "publishedDate": "2026-09-22",
+    "fetchedDate": "2026-09-22",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "genomic",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2KxPud-2kFHot-a3f326896a0d9913\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42765598",
     "pmid": "42765598",
     "doi": "10.1080/13814788.2026.2729221",
@@ -12605,46 +12647,5 @@
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42351522",
-    "pmid": "42351522",
-    "doi": "10.3390/diagnostics16121862",
-    "title": "Long-Term Cognitive Impairment After CAR-T Therapy Versus Autologous Stem Cell Transplantation: A Propensity Score-Matched Cohort Study.",
-    "titlePt": "Long-Term Cognitive Impairment After CAR-T Therapy Versus Autologous Stem Cell Transplantation: A Propensity Score-Matched Cohort Study.",
-    "abstract": "Background/Objectives: Chimeric antigen receptor T-cell (CAR-T) therapy has transformed outcomes in relapsed or refractory hematologic malignancies, but long-term cognitive outcomes remain poorly understood. We compared the incidence and time course of cognitive impairment and associated neurological complications after CAR-T therapy compared with autologous stem cell transplantation (ASCT). Methods: This retrospective, propensity-matched cohort study utilized the TriNetX US Collaborative Network (January 2014-April 2025). To ensure concurrent comparisons, ASCT recipients were restricted to an index date beginning in August 2017 or later. CAR-T recipients were matched 1:1 to ASCT recipients for demographics, disease, comorbidities, prior and concomitant treatments, and laboratory parameters. The primary endpoint was time to cognitive impairment, as defined by ICD-10 codes. Results: After comparing 3067 CAR-T patients (median follow-up 634 days) with 3067 ASCT patients (median follow-up",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou os efeitos de longo prazo da terapia com células T de receptor de antígeno quimérico (CAR-T) em comparação com o transplante de células-tronco autólogas (ASCT) sobre a função cognitiva de pacientes com malignidades hematológicas. A terapia CAR-T tem sido um marco na tratamento de doenças hematológicas recidivantes ou refratárias, mas os impactos de longo prazo sobre a cognição ainda são mal compreendidos. Os pesquisadores utilizaram uma abordagem de estudo de coorte retrospectivo com pareamento por escore de propensão, analisando dados de 3067 pacientes submetidos à terapia CAR-T e 3067 pacientes submetidos à ASCT, com seguimento médio de 634 dias para os pacientes CAR-T e seguimento médio não especificado para os pacientes ASCT. O estudo encontrou diferenças significativas na incidência e no curso temporal do declínio cognitivo entre os dois grupos, com os pacientes submetidos à terapia CAR-T apresentando um risco diferente de declínio cognitivo em comparação com os pacientes submetidos à ASCT. No entanto, não foram fornecidos detalhes adicionais sobre as principais descobertas do estudo. O impacto clínico desses achados é relevante, pois pode influenciar a tomada de decisões sobre o tratamento de pacientes com doenças hematológicas. Limitações do estudo incluem a natureza retrospectiva da análise e a dependência de códigos ICD-10 para definir o declínio cognitivo. Próximos passos podem incluir a realização de estudos prospectivos para validar esses achados e investigar mecanismos subjacentes ao declínio cognitivo após a terapia CAR-T.\n\nA recent study published in PubMed investigated the long-term effects of chimeric antigen receptor T-cell (CAR-T) therapy compared to autologous stem cell transplantation (ASCT) on the cognitive function of patients with hematologic malignancies. CAR-T therapy has been a landmark in the treatment of relapsed or refractory hematologic diseases, but the long-term impacts on cognition are still poorly understood. The researchers used a retrospective cohort study approach with propensity score matching, analyzing data from 3067 patients undergoing CAR-T therapy and 3067 patients undergoing ASCT, with a median follow-up of 634 days for the CAR-T patients and an unspecified median follow-up for the ASCT patients. The study found significant differences in the incidence and time course of cognitive decline between the two groups, with the CAR-T patients having a different risk of cognitive decline compared to the ASCT patients. However, no further details were provided about the study's main findings. The clinical impact of these findings is relevant, as it may influence decision-making about the treatment of patients with hematologic diseases. Limitations of the study include the retrospective nature of the analysis and the reliance on ICD-10 codes to define cognitive decline. Next steps may include conducting prospective studies to validate these findings and investigating the underlying mechanisms of cognitive decline after CAR-T therapy.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42351522",
-    "authors": [
-      {
-        "name": "Anna Blyzniuk",
-        "affiliation": "School of Medicine, O.O. Bogomolets National Medical University, 01601 Kyiv, Ukraine."
-      },
-      {
-        "name": "Po-Huang Chen",
-        "affiliation": "Division of Hematology and Oncology, Department of Internal Medicine, Tri-Service General Hospital, National Defense Medical University, Taipei 11490, Taiwan."
-      },
-      {
-        "name": "Wei-Cheng Chang",
-        "affiliation": "Department of Oncology, Tri-Service General Hospital, National Defense Medical University, Taipei 11490, Taiwan."
-      },
-      {
-        "name": "Hsin-Yu Chen",
-        "affiliation": "Department of Ophthalmology, Universe Eye Center, Hsinchu 30055, Taiwan."
-      }
-    ],
-    "journal": "Diagnostics (Basel, Switzerland)",
-    "publishedDate": "2026-06-26",
-    "fetchedDate": "2026-07-01",
-    "category": "Neurologia",
-    "tags": [
-      "cognitive"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
