@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42413732",
+    "pmid": "42413732",
+    "doi": "10.1016/j.clnesp.2026.103461",
+    "title": "Gut Microbiome-Modulating therapeutics and lipid profile in metabolic syndrome: A systematic review and meta-analysis of clinical trials.",
+    "titlePt": "Gut Microbiome-Modulating therapeutics and lipid profile in metabolic syndrome: A systematic review and meta-analysis of clinical trials.",
+    "abstract": "To evaluate the effects of gut microbiome-modulating interventions (probiotics, prebiotics, synbiotics, and fecal microbiota transplantation) on lipid profile parameters in adults with metabolic syndrome (MetS). Systematic review and random-effects meta-analysis with univariate meta-regression of controlled clinical trials indexed in PubMed, Web of Science, and Scopus through June 2025. Controlled clinical trials in adults with MetS diagnosed according to ATP III, IDF, or WHO criteria reporting at least one lipid outcome (total cholestrol (TC), low-density lipoprotein cholestrol (LDL-C), high desntiry lipoprotein cholestrol (HDL-C), or triglycerdies (TG)). Studies without control groups, insufficient data, or populations not meeting full MetS criteria were excluded. Two reviewers independently screened and extracted data. Risk of bias was assessed using the Cochrane RoB 2 tool. Random-effects meta-analysis (DerSimonian-Laird) generated pooled mean differences (MDs) with 95% confidence ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42413732",
+    "authors": [
+      {
+        "name": "Pradipta Paul",
+        "affiliation": "Weill Cornell Medicine-Qatar, Cornell University, Qatar Foundation, Education City, P.O. Box 24144, Doha, Qatar; Department of Internal Medicine, Rochester General Hospital, 1425 Portland Ave, Rochester, NY 14621, USA."
+      },
+      {
+        "name": "Ridhima Kaul",
+        "affiliation": "Weill Cornell Medicine-Qatar, Cornell University, Qatar Foundation, Education City, P.O. Box 24144, Doha, Qatar; Department of Medicine, Cleveland Clinic, Cleveland, OH, USA."
+      },
+      {
+        "name": "Muhammad Ayyan",
+        "affiliation": "Weill Cornell Medicine-Qatar, Cornell University, Qatar Foundation, Education City, P.O. Box 24144, Doha, Qatar."
+      },
+      {
+        "name": "Arun Prasath Lakshmanan",
+        "affiliation": "Research Department, Sidra Medicine, Education City, P.O.Box 26999, Doha, Qatar. Electronic address: alakshmana@sidra.org."
+      }
+    ],
+    "journal": "Clinical nutrition ESPEN",
+    "publishedDate": "2026-09-23",
+    "fetchedDate": "2026-09-23",
+    "category": "Farmacologia",
+    "tags": [
+      "gene",
+      "clinical trial",
+      "therapeutic",
+      "microbiome",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2TfXtm-2kFHot-a3fb78778cf30c97\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42720443",
     "pmid": "42720443",
     "doi": "10.1002/1545-5017.70657",
@@ -12600,48 +12644,5 @@
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42365196",
-    "pmid": "42365196",
-    "doi": "10.1007/s10147-026-03117-9",
-    "title": "Prevalence and complementary distribution of FGFR3 alterations and ERBB2 amplification in metastatic urothelial carcinoma: a nationwide registry analysis.",
-    "titlePt": "Prevalence and complementary distribution of FGFR3 alterations and ERBB2 amplification in metastatic urothelial carcinoma: a nationwide registry analysis.",
-    "abstract": "Fibroblast growth factor receptor 3 (FGFR3) alterations and ERBB2 (HER2) amplification are clinically actionable genomic events in metastatic urothelial carcinoma (mUC). However, their prevalence and overlap in metastatic-specific cohorts remain incompletely defined. We evaluated their nationwide distribution and co-occurrence using the Japanese C-CAT registry. This retrospective study included patients with histologically confirmed mUC who underwent comprehensive genomic profiling with tissue-based FoundationOne assays between January 2019 and June 2025. FGFR3 positivity was defined as pathogenic mutations or fusions meeting companion diagnostic criteria, and HER2 positivity as ERBB2 amplification. Associations with clinicopathological variables were assessed using logistic regression. Co-occurrence was analyzed with Fisher's exact test. Among 1014 patients, FGFR3 alterations were identified in 157 (15.5%) and HER2 amplification in 150 (14.8%). Concurrent alterations occurred in 13 pa",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo conduzido com base no registro nacional japonês *Cancer Genomics Consortium* (C-CAT) revelou a distribuição e coocorrência de alterações genéticas clinicamente relevantes em pacientes com carcinoma urotelial metastático (mUC). A pesquisa, publicada recentemente, analisou dados de 1.014 pacientes submetidos a perfilamento genômico abrangente por meio do teste *FoundationOne* entre janeiro de 2019 e junho de 2025.\n\nOs resultados indicaram que 15,5% dos pacientes apresentavam alterações no gene *FGFR3*, enquanto 14,8% apresentavam amplificação do gene *ERBB2* (*HER2*). A coocorrência dessas alterações foi observada em apenas 13 casos (1,3%), sugerindo uma baixa sobreposição entre os biomarcadores. A análise estatística identificou associações significativas entre as alterações genéticas e variáveis clinicopatológicas, embora os autores não tenham especificado quais variáveis foram priorizadas nos modelos de regressão logística.\n\nEmbora o estudo forneça insights valiosos sobre a prevalência dessas alterações em uma população metastática, sua generalização pode ser limitada pela natureza retrospectiva e pelo viés de seleção inerente a registros nacionais. Além disso, a ausência de dados sobre terapias direcionadas ou desfechos clínicos impede uma avaliação mais robusta do impacto dessas alterações no prognóstico ou na resposta ao tratamento. Os autores destacam a necessidade de estudos prospectivos para validar esses achados e explorar estratégias terapêuticas combinadas, especialmente em cenários de resistência a imunoterapia ou quimioterapia convencional.\n\n---\n\n**English version**\n\nA nationwide retrospective study leveraging the Japanese *Cancer Genomics Consortium* (C-CAT) registry has shed light on the distribution and co-occurrence of clinically actionable genomic alterations in metastatic urothelial carcinoma (mUC). Published findings analyzed data from 1,014 patients who underwent comprehensive genomic profiling via the *FoundationOne* assay between January 2019 and June 2025.\n\nThe analysis revealed that *FGFR3* alterations were present in 15.5% of patients, while *ERBB2* (*HER2*) amplification was detected in 14.8%. Co-occurrence of these alterations was identified in only 13 cases (1.3%), indicating a low overlap between the two biomarkers. Statistical modeling through logistic regression identified associations with clinicopathological variables, though the study did not specify which variables were prioritized in the analysis.\n\nWhile the research provides valuable insights into the prevalence of these alterations within a metastatic cohort, its generalizability may be constrained by the retrospective design and selection bias inherent to national registry data. Furthermore, the lack of data on targeted therapies or clinical outcomes precludes a robust assessment of the prognostic or therapeutic implications of these alterations. The authors emphasize the need for prospective studies to validate these findings and explore combination therapeutic strategies, particularly in settings of resistance to immunotherapy or conventional chemotherapy.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42365196",
-    "authors": [
-      {
-        "name": "Takuto Hara",
-        "affiliation": "Department of Urology, Kobe University Graduate School of Medicine, 7-5-1, Kusunoki-cho, Kobe, 650-0017, Japan. supermarimo85@gmail.com."
-      },
-      {
-        "name": "Taisuke Tobe",
-        "affiliation": "Department of Urology, Kobe University Graduate School of Medicine, 7-5-1, Kusunoki-cho, Kobe, 650-0017, Japan."
-      },
-      {
-        "name": "Hideto Ueki",
-        "affiliation": "Department of Urology, Kobe University Graduate School of Medicine, 7-5-1, Kusunoki-cho, Kobe, 650-0017, Japan."
-      },
-      {
-        "name": "Naoto Wakita",
-        "affiliation": "Department of Urology, Kobe University Graduate School of Medicine, 7-5-1, Kusunoki-cho, Kobe, 650-0017, Japan."
-      }
-    ],
-    "journal": "International journal of clinical oncology",
-    "publishedDate": "2026-06-27",
-    "fetchedDate": "2026-07-01",
-    "category": "Genômica",
-    "tags": [
-      "carcinoma",
-      "genomic",
-      "mutation"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
