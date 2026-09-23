@@ -1,5 +1,84 @@
 [
   {
+    "id": "pubmed-42720443",
+    "pmid": "42720443",
+    "doi": "10.1002/1545-5017.70657",
+    "title": "Advanced Radiotherapy Across a Multi-Geography Referral Network for Children With Ewing Sarcoma and Rhabdomyosarcoma: Treatment Delivery and Early Outcomes-A Single-Centre Experience.",
+    "titlePt": "Advanced Radiotherapy Across a Multi-Geography Referral Network for Children With Ewing Sarcoma and Rhabdomyosarcoma: Treatment Delivery and Early Outcomes-A Single-Centre Experience.",
+    "abstract": "Children with Ewing sarcoma (ES) and rhabdomyosarcoma (RMS) across Asia, the Middle East and Africa often require cross-border referral for advanced radiotherapy, risking a disruption of multimodality care. We evaluated whether a structured referral network could deliver advanced radiotherapy while preserving treatment continuity. This retrospective single-centre study included 54 consecutive children (27 ES, 27 RMS) treated in India between 2019 and 2025, referred from 13 countries and 11 Indian states. Primary endpoints were radiotherapy completion, treatment interruptions, chemotherapy continuity, treatment abandonment and follow-up retention. Survival outcomes were secondary endpoints. Median age was 7 years (range, 1-18), and 87% received proton beam therapy. All patients completed planned radiotherapy; interruptions occurred in only three patients, all &#x2264;4 days. There was no treatment abandonment, and loss to follow-up was 2%. Planned chemotherapy was completed in all patie",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42720443",
+    "authors": [
+      {
+        "name": "Srinivas Chilukuri",
+        "affiliation": "Department of Radiation Oncology, Apollo Proton Cancer Centre, Chennai, Tamil Nadu, India."
+      },
+      {
+        "name": "Abhilasha Sinha",
+        "affiliation": "Department of Radiation Oncology, Apollo Proton Cancer Centre, Chennai, Tamil Nadu, India."
+      },
+      {
+        "name": "Sham Sundar",
+        "affiliation": "Department of Radiation Oncology, Apollo Proton Cancer Centre, Chennai, Tamil Nadu, India."
+      },
+      {
+        "name": "Vishnu Ramanujan",
+        "affiliation": "Bone &amp; Soft tissue Management Team, Apollo Proton Cancer Centre, Chennai, Tamil Nadu, India."
+      }
+    ],
+    "journal": "Pediatric blood &amp; cancer",
+    "publishedDate": "2026-09-23",
+    "fetchedDate": "2026-09-23",
+    "category": "Oncologia",
+    "tags": [
+      "chemotherapy",
+      "children"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2TAAh5-2kFHot-a3faec95bee3f210\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42774582",
+    "pmid": "42774582",
+    "doi": "10.1016/j.eclinm.2026.104194",
+    "title": "Treatment and outcome of chronic disseminated candidiasis in the era of antifungal prophylaxis: a retrospective multicentre cohort of 111 patients.",
+    "titlePt": "Treatment and outcome of chronic disseminated candidiasis in the era of antifungal prophylaxis: a retrospective multicentre cohort of 111 patients.",
+    "abstract": "Chronic disseminated candidiasis (CDC) is a severe manifestation of invasive candidiasis predominantly affecting patients with haematological malignancies. Treatment recommendations are based on limited observational data, and the impact of widespread antifungal prophylaxis on CDC epidemiology and outcomes remains poorly characterised. We aimed to comprehensively characterise CDC and explore associations between antifungal treatment strategies and clinical outcomes. We performed a retrospective, multinational cohort study including adults with possible, probable, or proven CDC diagnosed between 2007 and 2025 identified through the FungiScope&#xae; registry (ClinicalTrials.gov: NCT01731353) and collaborating networks in 19 countries. Diagnostic findings, treatment strategies, and outcomes were analysed over 12 months. Exploratory comparative analyses assessed the association between antifungal treatment strategies and treatment response (composite of clinical, radiological, and mycologi",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42774582",
+    "authors": [
+      {
+        "name": "Ilana Reinhold",
+        "affiliation": "Division of Infectious Diseases, Department I of Internal Medicine, Excellence Center for Medical Mycology (ECMM), Faculty of Medicine, University Hospital Cologne, Cologne, Germany."
+      },
+      {
+        "name": "Isabel Cristina Ramirez-Sanchez",
+        "affiliation": "Institute of Translational Research, Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Faculty of Medicine, University of Cologne, Cologne, Germany."
+      },
+      {
+        "name": "Pao-Yu Chen",
+        "affiliation": "Division of Infectious Diseases, Department of Internal Medicine, Universidad de Antioquia, Hospital Pablo Tob&#xf3;n Uribe, Medell&#xed;n, Colombia."
+      },
+      {
+        "name": "Yee-Chun Chen",
+        "affiliation": "Division of Infectious Diseases, Department of Internal Medicine, National Taiwan University Hospital, Taipei, Taiwan."
+      }
+    ],
+    "journal": "EClinicalMedicine",
+    "publishedDate": "2026-09-23",
+    "fetchedDate": "2026-09-23",
+    "category": "Farmacologia",
+    "tags": [],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2TADAq-2kFHot-a3faecc9bfafb54d\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42770652",
     "pmid": "42770652",
     "doi": "10.1111/cas.70538",
@@ -12562,89 +12641,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42364734",
-    "pmid": "42364734",
-    "doi": "10.1016/j.jtct.2026.06.039",
-    "title": "Allogeneic Hematopoietic Cell Transplant Following Standard of Care Brexucabtagene Autoleucel (Brexu-cel) in Adults with B-Cell Acute Lymphoblastic Leukemia (B-ALL): Results from the Real-World Outcomes Collaborative of CAR T in Adult ALL (ROCCA).",
-    "titlePt": "Allogeneic Hematopoietic Cell Transplant Following Standard of Care Brexucabtagene Autoleucel (Brexu-cel) in Adults with B-Cell Acute Lymphoblastic Leukemia (B-ALL): Results from the Real-World Outcomes Collaborative of CAR T in Adult ALL (ROCCA).",
-    "abstract": "Brexucabtagene autoleucel (brexu-cel) is an autologous anti-CD19 chimeric antigen receptor T (CAR T) cell therapy approved for adults with relapsed/refractory (r/r) B-ALL. Despite encouraging outcomes, the majority of adults relapse following brexu-cel, highlighting the need for strategies to improve the durability of response. One such strategy is consolidative allogeneic stem cell transplant (alloHCT). Here, we report outcomes of adults with B-ALL who underwent consolidative alloHCT following commercial brexu-cel as part of the Real-world Outcomes Collaborative of CAR-T in Adult ALL (ROCCA). We performed a retrospective multicenter analysis of adults with R/R B-ALL who underwent consolidative alloHCT in complete remission (CR) after commercial brexu-cel and were registered in ROCCA. ROCCA includes 41 US institutions contributing retrospective data for adults with B-ALL treated with brexu-cel between 2021-2025. Patients who received alloHCT after CAR T failure were excluded. Primary e",
-    "journalisticSummary": "O tratamento de leucemia linfoblástica aguda de células B (B-ALL) em adultos é um desafio contínuo na hematologia. Recentemente, a terapia com células T de receptor de antígeno quimérico (CAR T) autóloga, como o brexucabtagene autoleucel (brexu-cel), tem mostrado resultados promissores no tratamento de B-ALL refratário ou recidivado. No entanto, a maioria dos pacientes acaba recidivando após o tratamento com brexu-cel, destacando a necessidade de estratégias para melhorar a duração da resposta. Uma abordagem possível é o transplante de células hematopoiéticas alogênicas (alloHCT) como consolidação. Um estudo publicado recentemente no PubMed, como parte da colaboração Real-World Outcomes Collaborative of CAR T in Adult ALL (ROCCA), investigou os resultados de adultos com B-ALL que receberam transplante de células hematopoiéticas alogênicas após o tratamento com brexu-cel comercial.\n\nOs resultados mostram que os pacientes que receberam o transplante alogênico após alcançar remissão completa com brexu-cel apresentaram taxas de sobrevida e resposta duradoura. O estudo foi conduzido em 41 instituições nos EUA, com dados retrospectivos de pacientes tratados com brexu-cel entre 2021 e 2025. Os pacientes que receberam transplante alogênico após falha do tratamento com CAR T foram excluídos. Embora os achados sejam promissores, é importante considerar as limitações do estudo, incluindo a natureza retrospectiva da análise e a exclusão de pacientes que não atenderam aos critérios de inclusão. Os próximos passos incluem a realização de estudos prospectivos para confirmar esses resultados e explorar a melhor abordagem para integrar o transplante alogênico no tratamento de B-ALL com brexu-cel.\n\nThe treatment of acute lymphoblastic leukemia of B cells (B-ALL) in adults is an ongoing challenge in hematology. Recently, autologous chimeric antigen receptor T (CAR T) cell therapy, such as brexucabtagene autoleucel (brexu-cel), has shown promising results in the treatment of refractory or relapsed B-ALL. However, the majority of patients eventually relapse after brexu-cel treatment, highlighting the need for strategies to improve the duration of response. One possible approach is consolidative allogeneic hematopoietic cell transplant (alloHCT). A recently published study in PubMed, as part of the Real-World Outcomes Collaborative of CAR T in Adult ALL (ROCCA), investigated the outcomes of adults with B-ALL who received allogeneic hematopoietic cell transplant after commercial brexu-cel treatment.\n\nThe results show that patients who received allogeneic transplant after achieving complete remission with brexu-cel presented with survival rates and durable response. The study was conducted in 41 US institutions, with retrospective data from patients treated with brexu-cel between 2021 and 2025. Patients who received allogeneic transplant after CAR T failure were excluded. Although the findings are promising, it is essential to consider the study's limitations, including the retrospective nature of the analysis and the exclusion of patients who did not meet the inclusion criteria. The next steps include conducting prospective studies to confirm these results and exploring the best approach to integrating allogeneic transplant into the treatment of B-ALL with brexu-cel.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42364734",
-    "authors": [
-      {
-        "name": "Rawan G Faramand",
-        "affiliation": "Moffitt Cancer Center. Electronic address: rawan.faramand@moffitt.org."
-      },
-      {
-        "name": "Amy Zhang",
-        "affiliation": "Stanford University School of Medicine."
-      },
-      {
-        "name": "Gregory W Roloff",
-        "affiliation": "The University of Chicago Medicine."
-      },
-      {
-        "name": "Ibrahim Aldoss",
-        "affiliation": "City of Hope Comprehensive Cancer Center."
-      }
-    ],
-    "journal": "Transplantation and cellular therapy",
-    "publishedDate": "2026-06-27",
-    "fetchedDate": "2026-07-01",
-    "category": "Oncologia",
-    "tags": [
-      "leukemia",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42055181",
-    "pmid": "42055181",
-    "doi": "10.1016/j.amjcard.2026.04.043",
-    "title": "Safety and Efficacy of Thrombolysis Prior to Thrombectomy in Large-Vessel Acute Ischemic Stroke: An Updated Systematic Review and Meta-Analysis.",
-    "titlePt": "Safety and Efficacy of Thrombolysis Prior to Thrombectomy in Large-Vessel Acute Ischemic Stroke: An Updated Systematic Review and Meta-Analysis.",
-    "abstract": "Timely reperfusion is key to ensuring better outcomes in patients with large-vessel acute ischemic stroke. The role of thrombolysis (IVT) prior to endovascular thrombectomy (EVT) remains controversial, with previous studies yielding contradictory findings. This meta-analysis compares the efficacy and safety of IVT prior to EVT in acute ischemic stroke. A comprehensive literature search was performed across PubMed MEDLINE, Cochrane Library, ScienceDirect, Google Scholar, and ClinicalTrials.gov for eligible studies. Twenty-one studies (8 RCTs, 13 observational studies; n = 10,538) published between 2013 and 2025 were included in the meta-analysis. The primary outcome was 90-day functional independence (mRS 0-2), with secondary outcomes including successful reperfusion (mTICI &#x2265; 2b), 90-day mortality, symptomatic intracranial hemorrhage (sICH), and any ICH. Pooled risk ratios (RR) were calculated. The certainty of evidence was evaluated using the GRADE framework. Bridging therapy re",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recém-publicado no *American Journal of Cardiology* lança luz sobre uma questão ainda controversa no tratamento do AVC isquêmico agudo por oclusão de grandes vasos: a eficácia e segurança da administração prévia de trombólise intravenosa (IVT) antes da trombectomia mecânica (EVT). A meta-análise, que compilou dados de 21 estudos — incluindo oito ensaios clínicos randomizados e 13 estudos observacionais, totalizando 10.538 pacientes —, buscou esclarecer se a estratégia de *bridging therapy* (terapia combinada) oferece benefícios superiores em comparação à trombectomia isolada.\n\nOs resultados indicam que a combinação de IVT + EVT não apresentou vantagem significativa na independência funcional aos 90 dias (mRS 0-2) em relação à EVT isolada (RR 1,02; IC 95% 0,95–1,10). Quanto à reperfusão bem-sucedida (mTICI ≥ 2b), os dados também não demonstraram diferença estatisticamente relevante (RR 1,03; IC 95% 0,98–1,08). No entanto, a terapia combinada esteve associada a um aumento do risco de hemorragia intracraniana sintomática (sICH) (RR 1,35; IC 95% 1,12–1,63) e de qualquer tipo de hemorragia intracraniana (RR 1,28; IC 95% 1,10–1,49), sem impacto significativo na mortalidade aos 90 dias (RR 0,98; IC 95% 0,87–1,10). A qualidade da evidência, avaliada pelo framework GRADE, foi considerada moderada para a maioria dos desfechos, com exceção da sICH, classificada como baixa.\n\nEmbora os achados não apoiem o uso rotineiro de IVT antes da EVT, os autores destacam que a análise não descarta benefícios potenciais em subgrupos específicos — como pacientes com oclusões de artéria carótida interna ou em cenários com atrasos significativos no acesso à trombectomia. Além disso, a heterogeneidade entre os estudos incluídos e a ausência de dados sobre o tempo de início dos sintomas em parte da amostra limitam conclusões definitivas. Estudos futuros devem priorizar a estratificação por janela terapêutica e características angiográficas, bem como explorar protocolos otimizados de administração de alteplase.\n\n---\n\n**English version**\n\nA recent study published in the *American Journal of Cardiology* addresses a longstanding debate in the treatment of acute ischemic stroke due to large-vessel occlusion: the efficacy and safety of intravenous thrombolysis (IVT) prior to endovascular thrombectomy (EVT). The meta-analysis, which pooled data from 21 studies — including eight randomized controlled trials and 13 observational studies, totaling 10,538 patients — sought to determine whether the *bridging therapy* strategy provides superior outcomes compared to EVT alone.\n\nThe findings indicate that combining IVT with EVT did not yield a significant advantage in 90-day functional independence (mRS 0-2) over EVT alone (RR 1.02; 95% CI 0.95–1.10). Similarly, no statistically significant difference was observed in successful reperfusion rates (mTICI ≥ 2b) (RR 1.03; 95% CI 0.98–1.08). However, the combined therapy was associated with a higher risk of symptomatic intracranial hemorrhage (sICH) (RR 1.35; 95% CI 1.12–1.63) and any intracranial hemorrhage (RR 1.28; 95% CI 1.10–1.49), while no significant impact was found on 90-day mortality (RR 0.98; 95% CI 0.87–1.10). The quality of evidence, assessed using the GRADE framework, was rated as moderate for most outcomes, except for sICH, which was classified as low.\n\nWhile the results do not support routine use of IVT prior to EVT, the authors emphasize that the analysis does not rule out potential benefits in specific subgroups — such as patients with internal carotid artery occlusions or in scenarios with significant delays in EVT access. Additionally, heterogeneity among included studies and the lack of data on symptom onset time in part of the sample limit definitive conclusions. Future research should prioritize stratification by therapeutic window and angiographic characteristics, as well as explore optimized alteplase administration protocols.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42055181",
-    "authors": [
-      {
-        "name": "Omer Mohammed",
-        "affiliation": "Department of General Medicine, Government Medical College, Kozhikode, India."
-      },
-      {
-        "name": "Shilla Thomas",
-        "affiliation": "Department of General Medicine, Government Medical College, Kozhikode, India."
-      },
-      {
-        "name": "Sharon Velamparambil Sunny",
-        "affiliation": "Department of General Medicine, Government Medical College, Kozhikode, India."
-      },
-      {
-        "name": "Medhansh Biradar",
-        "affiliation": "Department of General Medicine, All India Institute of Medical Sciences, Raipur, India."
-      }
-    ],
-    "journal": "The American journal of cardiology",
-    "publishedDate": "2026-06-26",
-    "fetchedDate": "2026-07-01",
-    "category": "Neurologia",
-    "tags": [
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
