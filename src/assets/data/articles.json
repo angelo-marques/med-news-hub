@@ -1,5 +1,83 @@
 [
   {
+    "id": "pubmed-41388182",
+    "pmid": "41388182",
+    "doi": "10.1007/s11357-025-02019-4",
+    "title": "Ovarian somatic tissue rejuvenates circulating apolipoproteins and promotes cognitive health in postreproductive female mice.",
+    "titlePt": "Ovarian somatic tissue rejuvenates circulating apolipoproteins and promotes cognitive health in postreproductive female mice.",
+    "abstract": "Women experience more pronounced lipidomic changes with aging than men, which may contribute to the higher rates of Alzheimer's disease seen in postmenopausal women. Our earlier findings showed that transplantation of young ovarian somatic tissues or cells produced positive health-enhancing results in postreproductive females. In the current experiments, we looked to find key health-enhancing ovarian cells and pathways involved in this phenomenon. We conducted physiological and molecular analysis on animals/samples from old, postreproductive mice that received young ovarian tissue/cell transplants. Our analysis revealed a loss with age and a restoration with ovarian tissue/cell exposure, of serum biomarkers of lipid signaling and histological and behavioral markers of cognitive function. We further found, with single-cell transcriptomics and Raman spectroscopy, two candidate ovarian somatic cell types implicated in the restoration of health through a lipid signaling-based process. Thes",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41388182",
+    "authors": [
+      {
+        "name": "Nathan D McCoy",
+        "affiliation": "College of Veterinary Medicine, Department of Veterinary Clinical and Life Sciences, Center for Integrated BioSystems, Utah State University, 4700 Old Main Hill, Logan, UT, 84322, USA."
+      },
+      {
+        "name": "Steven P Gawrys",
+        "affiliation": "University of Florida, Community Health and Family Medicine, Gainesville, FL, 32608, USA."
+      },
+      {
+        "name": "Samuel G Mackintosh",
+        "affiliation": "IDeA National Resource for Quantitative Proteomics, Little Rock, AR, 72205, USA."
+      },
+      {
+        "name": "Stephanie Byrum",
+        "affiliation": "IDeA National Resource for Quantitative Proteomics, Little Rock, AR, 72205, USA."
+      }
+    ],
+    "journal": "GeroScience",
+    "publishedDate": "2026-09-23",
+    "fetchedDate": "2026-09-23",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "cognitive"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2VPUgJ-2kFHot-a3fd548cccea2e77\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-40768136",
+    "pmid": "40768136",
+    "doi": "10.1080/16506073.2025.2540916",
+    "title": "Videoconferencing-delivered cognitive behavioural therapy for social anxiety disorder: a randomised controlled trial.",
+    "titlePt": "Videoconferencing-delivered cognitive behavioural therapy for social anxiety disorder: a randomised controlled trial.",
+    "abstract": "Videoconferencing-delivered cognitive behaviour therapy (vCBT) has the potential to overcome barriers to accessing treatment for social anxiety disorder (SAD). The present study examines the efficacy and acceptability of vCBT for SAD in a randomised controlled trial. Seventy-eight participants were randomised to a vCBT condition or waitlist control group (61.8% female, 34.2% male, 3.9% non-binary; Mage&#x2009;=&#x2009;39.19, SD&#x2009;=&#x2009;12.28). On the Social Interaction Anxiety Scale and Social Phobia Scale-short form (SIAS-6; SPS-6), vCBT within-group analyses indicated large effect sizes from pre-treatment to post-treatment on the SIAS-6 (Cohen's d&#x2009;=&#x2009;0.95; 95% CI: 0.45-1.41) and SPS-6 (d&#x2009;=&#x2009;0.90; 95% CI: 0.41-1.37). The between-group effect size at post-treatment was large on the SPS-6 (d&#x2009;=&#x2009;1.01; 95% CI: 0.51-1.47) and medium on the SIAS-6 (d&#x2009;=&#x2009;0.55; 95% CI: 0.09-1.00). At post-treatment, 57% of participants in the vCBT co",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40768136",
+    "authors": [
+      {
+        "name": "Halaina R Winter",
+        "affiliation": "Discipline of Clinical Psychology, Graduate School of Health, University of Technology Sydney, Ultimo, NSW 2007, Australia."
+      },
+      {
+        "name": "Alice R Norton",
+        "affiliation": "Discipline of Clinical Psychology, Graduate School of Health, University of Technology Sydney, Ultimo, NSW 2007, Australia."
+      },
+      {
+        "name": "Bethany M Wootton",
+        "affiliation": "Clinical Psychology Unit, School of Psychology, The University of Sydney, Camperdown, NSW 2006, Australia."
+      }
+    ],
+    "journal": "Cognitive behaviour therapy",
+    "publishedDate": "2026-09-23",
+    "fetchedDate": "2026-09-23",
+    "category": "Neurologia",
+    "tags": [
+      "cognitive",
+      "anxiety"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2VQBki-2kFHot-a3fd57ec59842e77\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42413732",
     "pmid": "42413732",
     "doi": "10.1016/j.clnesp.2026.103461",
@@ -12556,92 +12634,6 @@
     ],
     "isHighlight": false,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42372625",
-    "pmid": "42372625",
-    "doi": "10.1016/j.vaccine.2026.128890",
-    "title": "Protocol for a phase 3, randomized, double-blind clinical trial evaluating the safety and immunogenicity of the MVA-BN&#xae; vaccine against mpox in children aged 4 to less than 24&#xa0;months in the Democratic Republic of the Congo: Data to guide future paediatric vaccination strategies.",
-    "titlePt": "Protocol for a phase 3, randomized, double-blind clinical trial evaluating the safety and immunogenicity of the MVA-BN&#xae; vaccine against mpox in children aged 4 to less than 24&#xa0;months in the Democratic Republic of the Congo: Data to guide future paediatric vaccination strategies.",
-    "abstract": "This article describes the protocol of the PregInPoxVac vaccine trial, evaluating the safety and immunogenicity of two MVA-BN vaccination regimens (full-dose and half- dose) administered subcutaneously with a 28-day interval in infants aged 4 to &lt;24&#xa0;months old. Non-inferiority of the full dose and half dose regimens will be compared to adults receiving a full dose regimen as part of the POX-MVA-045 study (ClinicalTrials.govIdentifier:NCT06549530). The PregInPoxVac study is being conducted in Boende, Tshuapa Province, Democratic Republic of the Congo (DRC), a mpox-endemic area; the POX-MVA-045 study is being conducted in Kinshasa, DRC, and Entebbe, Uganda. This is a randomized, double-blind, phase 3 trial assessing two dosing regimens in infants, with immunogenicity and safety compared to a predefined adult reference dataset. This is a phase 3, randomized, double-blind vaccine trial. A total of 344 healthy children aged 4 to &lt;24&#xa0;months will be enrolled at the Boende Gene",
-    "journalisticSummary": "Um estudo clínico de fase 3,.randomizado e duplo-cego, está sendo realizado na República Democrática do Congo para avaliar a segurança e a imunogenicidade da vacina MVA-BN contra a varíola dos macacos em crianças com idades entre 4 meses e menos de 24 meses. O estudo, conhecido como PregInPoxVac, compara dois esquemas de vacinação com doses cheia e reduzida, administradas subcutaneamente com um intervalo de 28 dias. A eficácia desses esquemas será comparada à dos adultos que receberam a dose cheia no estudo POX-MVA-045. O objetivo é determinar se as doses cheia e reduzida são não inferiores à dose cheia administrada em adultos. O estudo está sendo realizado em uma área endêmica da varíola dos macacos, em Boende, na província de Tshuapa, e contará com a participação de 344 crianças saudáveis. Os resultados deste estudo serão cruciais para orientar estratégias de vacinação pediátrica futuras.\n\nA comparação com adultos é particularmente importante, pois os dados de imunogenicidade e segurança nessa população são fundamentais para estabelecer a eficácia da vacina em crianças. Além disso, o estudo pode fornecer insights valiosos sobre a resposta imunológica em diferentes idades e doses de vacinação. No entanto, não foram divulgados detalhes sobre as limitações do estudo ou os próximos passos após a conclusão do mesmo. É essencial aguardar a publicação completa dos resultados para uma análise mais detalhada dos achados e seu impacto potencial nas estratégias de saúde pública.\n\nUm estudo clínico de fase 3 randomizado e duplo-cego está sendo realizado para avaliar a segurança e a imunogenicidade da vacina MVA-BN contra a varíola dos macacos em crianças com idades entre 4 meses e menos de 24 meses, mas não foram divulgados detalhes sobre os resultados do estudo.\n\nA study of a phase 3, randomized, double-blind clinical trial is being conducted to evaluate the safety and immunogenicity of the MVA-BN vaccine against mpox in children aged 4 to less than 24 months. The PregInPoxVac study compares two vaccination regimens with full-dose and half-dose, administered subcutaneously with a 28-day interval. The efficacy of these regimens will be compared to that of adults who received the full dose in the POX-MVA-045 study. The goal is to determine if the full-dose and half-dose regimens are non-inferior to the full dose administered to adults. The study is being conducted in an mpox-endemic area in Boende, Tshuapa Province, and will enroll 344 healthy children. The results of this study will be crucial for guiding future pediatric vaccination strategies.\n\nThe comparison with adults is particularly important, as immunogenicity and safety data in this population are essential for establishing the vaccine's efficacy in children. Additionally, the study may provide valuable insights into the immune response at different ages and vaccination doses. However, details about the study's limitations and next steps after its completion were not disclosed. It is essential to await the full publication of the results for a more detailed analysis of the findings and their potential impact on public health strategies.\n\nThe study's findings may have significant implications for the development of vaccination strategies against mpox in pediatric populations, particularly in endemic areas. However, more information is needed to fully understand the study's results and their potential applications. As the study progresses, it is crucial to monitor its developments and await the release of more comprehensive data to assess the vaccine's safety and efficacy in young children.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42372625",
-    "authors": [
-      {
-        "name": "Solange Milolo Tshilumba",
-        "affiliation": "Department of Tropical Medicine, University of Kinshasa, Democratic Republic of the Congo; Global Health Institute, University of Antwerp, Belgium. Electronic address: solangemilolo43@gmail.com."
-      },
-      {
-        "name": "Paulina Morales Ruiz",
-        "affiliation": "Global Health Institute, University of Antwerp, Belgium."
-      },
-      {
-        "name": "Tr&#xe9;sor Zola Matuvanga",
-        "affiliation": "Department of Tropical Medicine, University of Kinshasa, Democratic Republic of the Congo."
-      },
-      {
-        "name": "Gwen Lemey",
-        "affiliation": "Global Health Institute, University of Antwerp, Belgium."
-      }
-    ],
-    "journal": "Vaccine",
-    "publishedDate": "2026-06-29",
-    "fetchedDate": "2026-07-01",
-    "category": "Pediatria",
-    "tags": [
-      "gene",
-      "clinical trial",
-      "children",
-      "infant",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41252594",
-    "pmid": "41252594",
-    "doi": "10.1177/08971900251394121",
-    "title": "Intersecting Burdens: Type 2 Diabetes Diagnosis, Risk, and Pharmacological Management Among People Living With HIV.",
-    "titlePt": "Intersecting Burdens: Type 2 Diabetes Diagnosis, Risk, and Pharmacological Management Among People Living With HIV.",
-    "abstract": "Many patients living with human immunodeficiency virus (HIV) may develop long-term metabolic complications due to various reasons, such as chronic inflammation and adverse effects from antiretrovirals (ARVs). A particularly significant metabolic complication is type 2 diabetes (T2DM); however, limited evidence is available regarding the management of this disease state among people living with HIV (PLWH). We review the available resources and evidence on the management of T2DM among PLWH. Diagnosis and monitoring of T2DM are slightly different from the general population as hemoglobin A1c may underestimate the level of glycemia PLWH experience. Although PLWH are typically not reported within landmark clinical trials for antidiabetic medications, treatment is likely similar to those without the virus. There are several drug-drug interactions to note between ARVs and antidiabetic medications with one of the most notable being between dolutegravir and metformin. This interaction requires ",
-    "journalisticSummary": "A interseção entre a diabetes tipo 2 e o HIV é um tema de grande relevância para a saúde pública, considerando que muitos pacientes vivendo com o vírus da imunodeficiência humana (HIV) podem desenvolver complicações metabólicas de longo prazo devido a fatores como inflamação crônica e efeitos adversos de antirretrovirais (ARVs). A diabetes tipo 2 (T2DM) é uma dessas complicações metabólicas significativas, no entanto, existe uma limitação de evidências sobre o manejo dessa condição em pessoas vivendo com HIV (PVH). Um estudo recente buscou revisar as evidências disponíveis sobre o diagnóstico, risco e manejo farmacológico da T2DM em PVH. Os resultados destacam que o diagnóstico e monitoramento da T2DM nesse grupo podem ser ligeiramente diferentes em comparação com a população geral, pois a hemoglobina A1c pode subestimar os níveis de glicemia experimentados por PVH. Embora as PVH geralmente não sejam incluídas em ensaios clínicos landmark para medicamentos antidiabéticos, o tratamento provavelmente é semelhante ao de indivíduos sem o vírus. No entanto, é crucial considerar as interações medicamentosas entre ARVs e medicamentos antidiabéticos, como a interação entre dolutegravir e metformina, que requer ajustes específicos.\n\nO impacto clínico desse conhecimento é significativo, pois pode influenciar diretamente a qualidade de vida e a sobrevida das PVH. A identificação de desafios no manejo da T2DM nesse grupo e a necessidade de abordagens personalizadas de tratamento são pontos-chave para melhorar os resultados de saúde. Além disso, a falta de inclusão de PVH em ensaios clínicos para medicamentos antidiabéticos destaca a necessidade de mais pesquisas nessa área. Os próximos passos devem incluir a realização de estudos mais amplos e específicos sobre o manejo da T2DM em PVH, considerando as interações medicamentosas e as necessidades únicas desses pacientes. Com essas informações, será possível desenvolver diretrizes de tratamento mais eficazes e personalizadas para essa população.\n\nThe intersection between type 2 diabetes and HIV is a topic of great relevance to public health, considering that many patients living with the human immunodeficiency virus (HIV) may develop long-term metabolic complications due to factors such as chronic inflammation and adverse effects of antiretrovirals (ARVs). Type 2 diabetes (T2DM) is one of these significant metabolic complications; however, there is a limitation of evidence on the management of this condition in people living with HIV (PLWH). A recent study sought to review the available evidence on the diagnosis, risk, and pharmacological management of T2DM in PLWH. The results highlight that the diagnosis and monitoring of T2DM in this group may be slightly different compared to the general population, as hemoglobin A1c may underestimate the levels of glycemia experienced by PLWH. Although PLWH are typically not included in landmark clinical trials for antidiabetic medications, treatment is likely similar to that of individuals without the virus. However, it is crucial to consider the drug-drug interactions between ARVs and antidiabetic medications, such as the interaction between dolutegravir and metformin, which requires specific adjustments.\n\nThe clinical impact of this knowledge is significant, as it can directly influence the quality of life and survival of PLWH. The identification of challenges in the management of T2DM in this group and the need for personalized treatment approaches are key points for improving health outcomes. Furthermore, the lack of inclusion of PLWH in clinical trials for antidiabetic medications highlights the need for more research in this area. The next steps should include conducting more comprehensive and specific studies on the management of T2DM in PLWH, considering drug interactions and the unique needs of these patients. With this information, it will be possible to develop more effective and personalized treatment guidelines for this population.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41252594",
-    "authors": [
-      {
-        "name": "Rachel Arnold",
-        "affiliation": "The Brooklyn Hospital Center (Pharmacy Department), Brooklyn, NY, USA.24508"
-      },
-      {
-        "name": "Briann Fischetti",
-        "affiliation": "The Arnold &amp; Marie Schwartz College of Pharmacy and Health Sciences, Long Island University (LIU Pharmacy), Brooklyn, NY, USA.2045"
-      },
-      {
-        "name": "Maria Longo",
-        "affiliation": "The Brooklyn Hospital Center (Pharmacy Department), Brooklyn, NY, USA.24508"
-      }
-    ],
-    "journal": "Journal of pharmacy practice",
-    "publishedDate": "2026-06-28",
-    "fetchedDate": "2026-07-01",
-    "category": "Infectologia",
-    "tags": [
-      "viral",
-      "hiv",
-      "gene",
-      "drug",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
