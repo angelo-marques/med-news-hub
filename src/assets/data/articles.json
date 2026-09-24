@@ -4095,6 +4095,50 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42372625",
+    "pmid": "42372625",
+    "doi": "10.1016/j.vaccine.2026.128890",
+    "title": "Protocol for a phase 3, randomized, double-blind clinical trial evaluating the safety and immunogenicity of the MVA-BN&#xae; vaccine against mpox in children aged 4 to less than 24&#xa0;months in the Democratic Republic of the Congo: Data to guide future paediatric vaccination strategies.",
+    "titlePt": "Protocol for a phase 3, randomized, double-blind clinical trial evaluating the safety and immunogenicity of the MVA-BN&#xae; vaccine against mpox in children aged 4 to less than 24&#xa0;months in the Democratic Republic of the Congo: Data to guide future paediatric vaccination strategies.",
+    "abstract": "This article describes the protocol of the PregInPoxVac vaccine trial, evaluating the safety and immunogenicity of two MVA-BN vaccination regimens (full-dose and half- dose) administered subcutaneously with a 28-day interval in infants aged 4 to &lt;24&#xa0;months old. Non-inferiority of the full dose and half dose regimens will be compared to adults receiving a full dose regimen as part of the POX-MVA-045 study (ClinicalTrials.govIdentifier:NCT06549530). The PregInPoxVac study is being conducted in Boende, Tshuapa Province, Democratic Republic of the Congo (DRC), a mpox-endemic area; the POX-MVA-045 study is being conducted in Kinshasa, DRC, and Entebbe, Uganda. This is a randomized, double-blind, phase 3 trial assessing two dosing regimens in infants, with immunogenicity and safety compared to a predefined adult reference dataset. This is a phase 3, randomized, double-blind vaccine trial. A total of 344 healthy children aged 4 to &lt;24&#xa0;months will be enrolled at the Boende Gene",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42372625",
+    "authors": [
+      {
+        "name": "Solange Milolo Tshilumba",
+        "affiliation": "Department of Tropical Medicine, University of Kinshasa, Democratic Republic of the Congo; Global Health Institute, University of Antwerp, Belgium. Electronic address: solangemilolo43@gmail.com."
+      },
+      {
+        "name": "Paulina Morales Ruiz",
+        "affiliation": "Global Health Institute, University of Antwerp, Belgium."
+      },
+      {
+        "name": "Tr&#xe9;sor Zola Matuvanga",
+        "affiliation": "Department of Tropical Medicine, University of Kinshasa, Democratic Republic of the Congo."
+      },
+      {
+        "name": "Gwen Lemey",
+        "affiliation": "Global Health Institute, University of Antwerp, Belgium."
+      }
+    ],
+    "journal": "Vaccine",
+    "publishedDate": "2026-08-20",
+    "fetchedDate": "2026-09-24",
+    "category": "Pediatria",
+    "tags": [
+      "gene",
+      "clinical trial",
+      "children",
+      "infant",
+      "vaccine"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2VeNaB-2kFHot-a3fd9b801e312f44\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-41384350",
     "pmid": "41384350",
     "doi": "10.1097/CM9.0000000000003855",
@@ -12592,48 +12636,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42285121",
-    "pmid": "42285121",
-    "doi": "10.1016/S1470-2045(26)00086-0",
-    "title": "Treatment-related adverse events of CD3-based T cell-engaging bispecific antibodies in patients with cancer: a meta-analysis of clinical trials.",
-    "titlePt": "Treatment-related adverse events of CD3-based T cell-engaging bispecific antibodies in patients with cancer: a meta-analysis of clinical trials.",
-    "abstract": "Clinical trials evaluating CD3-based T cell-engaging bispecific antibodies for cancer therapy have rapidly progressed from early investigations to clinical application. As these agents enter practice, it is essential to systematically characterise and summarise the range of treatment-related adverse events associated with these antibodies. We conducted a meta-analysis by searching Cochrane, Embase, PubMed, and Web of Science for English-language clinical trials worldwide reporting treatment-related adverse events in patients receiving CD3-based T cell-engaging bispecific antibodies for cancer, published up to July 31, 2025. The primary outcomes were the overall incidence of treatment-related adverse events, and toxicity profiles (ie, the incidence of each specified adverse event, for both all-grade and grade 3 or worse treatment-related adverse events). Pooled overall incidence and profile estimates with 95% CIs for both all-grade and grade 3 or worse treatment-related adverse events w",
-    "journalisticSummary": "Um estudo publicado recentemente na literatura científica buscou caracterizar e resumir os eventos adversos relacionados ao tratamento associados a anticorpos bispecíficos que engajam células T e CD3, utilizados no tratamento de câncer. Esses agentes terapêuticos têm avançado rapidamente das investigações iniciais para aplicações clínicas, tornando essencial a compreensão dos riscos associados a seu uso. A pesquisa foi conduzida por meio de uma metanálise que incluiu ensaios clínicos publicados até 31 de julho de 2025, em bases de dados como Cochrane, Embase, PubMed e Web of Science. Os principais resultados avaliados foram a incidência geral de eventos adversos relacionados ao tratamento e os perfis de toxicidade, incluindo a incidência de cada evento adverso especificado, tanto para eventos de todos os graus quanto para eventos de grau 3 ou pior.\n\nOs achados principais incluíram a estimativa da incidência geral e do perfil de eventos adversos relacionados ao tratamento, com intervalos de confiança de 95%. No entanto, não foi possível determinar a partir do resumo disponível quais foram os resultados exatos em termos de incidência e quais eventos adversos foram mais comuns. O impacto clínico desse estudo reside na capacidade de informar médicos e pacientes sobre os riscos potenciais associados ao uso desses anticorpos bispecíficos, permitindo uma tomada de decisão mais informada. As limitações do estudo podem incluir a heterogeneidade entre os ensaios clínicos incluídos e a possibilidade de viés na seleção dos estudos. Próximos passos poderiam incluir a realização de análises adicionais para explorar a relação entre os eventos adversos e características específicas dos pacientes ou dos tratamentos.\n\nUm estudo publicado recentemente na literatura científica buscou caracterizar e resumir os eventos adversos relacionados ao tratamento associados a anticorpos bispecíficos que engajam células T e CD3, utilizados no tratamento de câncer. No entanto, para uma compreensão mais detalhada, é necessário acessar o artigo completo.\n\nA recent study published in the scientific literature sought to characterize and summarize the treatment-related adverse events associated with CD3-based T cell-engaging bispecific antibodies used in cancer therapy. These therapeutic agents have rapidly progressed from early investigations to clinical applications, making it essential to understand the risks associated with their use. The research was conducted through a meta-analysis that included clinical trials published up to July 31, 2025, in databases such as Cochrane, Embase, PubMed, and Web of Science. The primary outcomes evaluated were the overall incidence of treatment-related adverse events and the toxicity profiles, including the incidence of each specified adverse event, for both all-grade and grade 3 or worse treatment-related adverse events.\n\nThe main findings included the estimation of the overall incidence and profile of treatment-related adverse events, with 95% confidence intervals. However, it was not possible to determine from the available abstract what the exact results were in terms of incidence and which adverse events were most common. The clinical impact of this study lies in its ability to inform physicians and patients about the potential risks associated with the use of these bispecific antibodies, allowing for more informed decision-making. The limitations of the study may include the heterogeneity between the included clinical trials and the possibility of bias in the selection of studies. Next steps could include conducting additional analyses to explore the relationship between adverse events and specific patient or treatment characteristics.\n\nThe study's findings have significant implications for the management of cancer treatment and highlight the need for careful consideration of the potential risks and benefits of CD3-based T cell-engaging bispecific antibodies. Further research is needed to fully understand the safety profile of these agents and to develop strategies to minimize the risk of adverse events. By providing a comprehensive overview of the treatment-related adverse events associated with these antibodies, this study contributes to the ongoing effort to improve the safety and efficacy of cancer therapies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42285121",
-    "authors": [
-      {
-        "name": "Youwen Zhu",
-        "affiliation": "Department of Radiation Oncology, Xiangya Hospital, Central South University, Changsha, Hunan, China."
-      },
-      {
-        "name": "Kun Liu",
-        "affiliation": "Department of Radiation Oncology, Xiangya Hospital, Central South University, Changsha, Hunan, China."
-      },
-      {
-        "name": "Steven T Rosen",
-        "affiliation": "Beckman Research Institute, and Department of Hematology and Hematopoietic Cell Transplantation, City of Hope, Duarte, CA, USA."
-      },
-      {
-        "name": "Wei Liu",
-        "affiliation": "Department of Hematology, Xiangya Hospital, Central South University, Changsha, Hunan, China; National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, Changsha, Hunan, China. Electronic address: liuweivi@csu.edu.cn."
-      }
-    ],
-    "journal": "The Lancet. Oncology",
-    "publishedDate": "2026-06-29",
-    "fetchedDate": "2026-07-01",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
