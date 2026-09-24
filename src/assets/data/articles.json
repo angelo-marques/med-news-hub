@@ -1,5 +1,91 @@
 [
   {
+    "id": "pubmed-42031221",
+    "pmid": "42031221",
+    "doi": "10.1016/j.ijrobp.2026.04.026",
+    "title": "Consolidative Camrelizumab Following Definitive Concurrent Chemoradiation Therapy With Involved-Field Irradiation in Locally Advanced Esophageal Squamous Cell Carcinoma: A Single-Arm Phase 2 Trial.",
+    "titlePt": "Consolidative Camrelizumab Following Definitive Concurrent Chemoradiation Therapy With Involved-Field Irradiation in Locally Advanced Esophageal Squamous Cell Carcinoma: A Single-Arm Phase 2 Trial.",
+    "abstract": "Definitive concurrent chemoradiation therapy (dCCRT) is considered the standard treatment for locally advanced unresectable esophageal squamous cell carcinoma (ESCC). However, approximately half of the patients still experience local recurrence or distant metastasis. The CheckMate 577 trial, a phase III randomized clinical trial evaluating adjuvant nivolumab after neoadjuvant chemoradiotherapy and surgery, demonstrated that adjuvant nivolumab significantly improves disease-free survival in patients with resected esophageal or gastroesophageal junction cancer after neoadjuvant chemoradiation therapy. However, the role of consolidation immunotherapy in locally advanced unresectable esophageal cancer remains unclear. Camrelizumab, an anti-programmed death receptor 1 antibody, has shown antitumor activity in advanced or metastatic ESCC. We conducted a clinical trial to evaluate the efficacy of camrelizumab consolidation therapy in patients with unresectable, locally advanced ESCC following",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42031221",
+    "authors": [
+      {
+        "name": "Yunjie Cheng",
+        "affiliation": "Department of Radiotherapy, the Fourth Hospital of Hebei Medical University, Hebei Clinical Research Center for Radiation Oncology, Shijiazhuang, China."
+      },
+      {
+        "name": "Jianing Wang",
+        "affiliation": "Department of Radiotherapy, the Fourth Hospital of Hebei Medical University, Hebei Clinical Research Center for Radiation Oncology, Shijiazhuang, China."
+      },
+      {
+        "name": "Xiaoyan Lv",
+        "affiliation": "Department of Radiotherapy, the Fourth Hospital of Hebei Medical University, Hebei Clinical Research Center for Radiation Oncology, Shijiazhuang, China."
+      },
+      {
+        "name": "Qing Liu",
+        "affiliation": "Department of Radiotherapy, the Fourth Hospital of Hebei Medical University, Hebei Clinical Research Center for Radiation Oncology, Shijiazhuang, China."
+      }
+    ],
+    "journal": "International journal of radiation oncology, biology, physics",
+    "publishedDate": "2026-09-23",
+    "fetchedDate": "2026-09-24",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "carcinoma",
+      "immunotherapy",
+      "clinical trial"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2YTQm6-2kFHot-a400a420bb1aff4c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 36998e3d-a081-4235-ac8f-d70eb01e5cde)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42140503",
+    "pmid": "42140503",
+    "doi": "10.1016/j.ijrobp.2026.04.094",
+    "title": "Long-Term Locoregional Control and Pattern of Recurrences After Implementation of Highly Conformal Flank Target Volumes and Image-Guided Intensity Modulated Arc Therapy for Pediatric Wilms Tumors.",
+    "titlePt": "Long-Term Locoregional Control and Pattern of Recurrences After Implementation of Highly Conformal Flank Target Volumes and Image-Guided Intensity Modulated Arc Therapy for Pediatric Wilms Tumors.",
+    "abstract": "Excellent outcomes in patients with Wilms tumors (WT) have allowed efforts to reduce toxicity and treatment burden while sustaining effectiveness. Concerning radiation therapy, \"conventional\" flank target volumes combined with 2 opposing photon beams are now being replaced by highly conformal flank target volumes combined with image-guided intensity modulated arc therapy, allowing better sparing of the organs-at-risk, but outcome descriptions based on large cohorts are scarce. Previously, a cohort of 36 patients with excellent locoregional control at 2 years from diagnosis using \"modern\" flank irradiation has been described. This study aims to investigate locoregional control outcomes, patterns of recurrence, and toxicity in an extended national cohort of patients with WT with a longer follow-up (FU) period. Newly diagnosed patients with a WT, irradiated on the flank between January 01, 2015 and August 08, 2025 using highly conformal target volumes, as defined by the International Soci",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42140503",
+    "authors": [
+      {
+        "name": "Mianyong Ding",
+        "affiliation": "Princess M&#xe1;xima Center for Pediatric Oncology, Utrecht, The Netherlands; Department of Radiation Oncology, University Medical Center Utrecht, Utrecht, The Netherlands."
+      },
+      {
+        "name": "Adrian-Marian Radu",
+        "affiliation": "Princess M&#xe1;xima Center for Pediatric Oncology, Utrecht, The Netherlands; Department of Radiation Oncology, University Medical Center Utrecht, Utrecht, The Netherlands; Department of Radiation Oncology, Maria Sk&#x142;odowska Curie Emergency Clinical Hospital for Children, Bucharest, Romania."
+      },
+      {
+        "name": "Romy Spijkerman",
+        "affiliation": "Princess M&#xe1;xima Center for Pediatric Oncology, Utrecht, The Netherlands."
+      },
+      {
+        "name": "Martine van Grotel",
+        "affiliation": "Princess M&#xe1;xima Center for Pediatric Oncology, Utrecht, The Netherlands."
+      }
+    ],
+    "journal": "International journal of radiation oncology, biology, physics",
+    "publishedDate": "2026-09-23",
+    "fetchedDate": "2026-09-24",
+    "category": "Oncologia",
+    "tags": [
+      "tumor",
+      "rna",
+      "pediatric"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2YUX3S-2kFHot-a400a9681b9ccb66\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 7cf1e813-a733-4b2e-a6d0-feccc5ff14ac)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-41388182",
     "pmid": "41388182",
     "doi": "10.1007/s11357-025-02019-4",
@@ -12554,88 +12640,6 @@
     ],
     "isHighlight": false,
     "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-40914492",
-    "pmid": "40914492",
-    "doi": "10.1016/j.hrthm.2025.08.045",
-    "title": "Beyond the learning curve: How operator experience affects pulsed-field ablation outcomes.",
-    "titlePt": "Beyond the learning curve: How operator experience affects pulsed-field ablation outcomes.",
-    "abstract": "The learning curve for pulmonary vein isolation (PVI) using \"single-shot\" pulsed-field ablation (PFA) is thought to be short. Three-dimensional electroanatomic mapping (3D-EAM) might provide adjunctive information to shorten the learning curve and improve lesion durability. This study aimed to analyze procedural performance markers over time for PVI using PFA and 3D-EAM. Consecutive patients undergoing PVI with PFA were included. 3D-EAM was used based on the operator's experience and the planned lesion set. Patients were followed using a 7-day Holter electrocardiogram at 3, 6, and 12 months. During clinically indicated repeat ablations, 3D-EAM was used to assess PVI durability. A total of 1008 patients with atrial fibrillation underwent their first PVI using PFA. 3D-EAM was used in 457 patients (45%). Using an exponential fit function, the learning curve was estimated at 18 procedures for procedure time and 8 for fluoroscopy time per operator. Using a learning curve cutoff of 20 cases ",
-    "journalisticSummary": "O uso da ablação por campo pulsado (PFA) para isolamento das veias pulmonares (PVI) é uma técnica que tem sido objeto de estudo devido à sua potencial eficácia no tratamento da fibrilação atrial. Embora se acredite que a curva de aprendizado para essa técnica seja curta, a experiência do operador e o uso de mapeamento eletroanatômico tridimensional (3D-EAM) podem desempenhar papéis importantes na melhoria dos resultados. Um estudo recente, publicado na revista Heart Rhythm, investigou como a experiência do operador afeta os resultados da ablação por campo pulsado. Os pesquisadores analisaram marcadores de desempenho procedural ao longo do tempo em pacientes submetidos a PVI com PFA e 3D-EAM. Foram incluídos 1008 pacientes consecutivos com fibrilação atrial que realizaram sua primeira PVI com PFA, sendo que o 3D-EAM foi utilizado em 457 casos (45%). Os resultados mostraram que a curva de aprendizado, estimada por uma função de ajuste exponencial, foi de aproximadamente 18 procedimentos para o tempo de procedimento e 8 procedimentos para o tempo de fluoroscopia por operador. Esses achados sugerem que a experiência do operador e o uso de 3D-EAM podem contribuir para a melhoria dos resultados da PVI com PFA, embora sejam necessários mais estudos para confirmar esses resultados e entender melhor as limitações e os próximos passos para a otimização dessa técnica.\n\nThe use of pulsed-field ablation (PFA) for pulmonary vein isolation (PVI) is a technique that has been the subject of study due to its potential effectiveness in treating atrial fibrillation. Although it is believed that the learning curve for this technique is short, the operator's experience and the use of three-dimensional electroanatomic mapping (3D-EAM) can play important roles in improving outcomes. A recent study, published in the journal Heart Rhythm, investigated how operator experience affects the outcomes of pulsed-field ablation. The researchers analyzed procedural performance markers over time in patients undergoing PVI with PFA and 3D-EAM. A total of 1008 consecutive patients with atrial fibrillation who underwent their first PVI with PFA were included, with 3D-EAM used in 457 cases (45%). The results showed that the learning curve, estimated by an exponential fit function, was approximately 18 procedures for procedure time and 8 procedures for fluoroscopy time per operator. These findings suggest that operator experience and the use of 3D-EAM can contribute to improved outcomes of PVI with PFA, although further studies are needed to confirm these results and better understand the limitations and next steps for optimizing this technique.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40914492",
-    "authors": [
-      {
-        "name": "Thomas Kueffer",
-        "affiliation": "Department of Cardiology, Inselspital, Bern University Hospital."
-      },
-      {
-        "name": "Raphael King",
-        "affiliation": "Department of Cardiology, Inselspital, Bern University Hospital."
-      },
-      {
-        "name": "Jens Maurhofer",
-        "affiliation": "Department of Cardiology, Inselspital, Bern University Hospital."
-      },
-      {
-        "name": "Salik Ur Rehman Iqbal",
-        "affiliation": "Department of Cardiology, Inselspital, Bern University Hospital."
-      }
-    ],
-    "journal": "Heart rhythm",
-    "publishedDate": "2026-06-29",
-    "fetchedDate": "2026-07-01",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-40769447",
-    "pmid": "40769447",
-    "doi": "10.1016/j.hrthm.2025.07.054",
-    "title": "Lesion area, ablation time, fluoroscopic time, and short-term outcomes among 3 pulsed field ablation systems.",
-    "titlePt": "Lesion area, ablation time, fluoroscopic time, and short-term outcomes among 3 pulsed field ablation systems.",
-    "abstract": "Three pulsed field ablation (PFA) systems are approved in Japan: a pentaspline catheter (FARAPULSE [FP]) and 2 loop circular catheters (VARIPULSE [VP] and PulseSelect [PS]). However, the differences in the lesion characteristics, procedural parameters, complications, and short-term outcomes remain unclear. This study aimed to compare the PFA-related features among the FP, VP, and PS systems. Overall, 75 patients with atrial fibrillation (paroxysmal: 54; persistent: 21) underwent PFA using FP (n = 25), VP (n = 25), or PS (n = 25). Post-ablation, low-voltage areas (&lt;0.1 mV) in the pulmonary vein (PV) antrum were quantified as lesion areas. The PV isolation time was shorter with FP (20 &#xb1; 7 min) than VP (32 &#xb1; 12 min, P &lt; .0003) and PS (33 &#xb1; 7 min, P &lt; .0003). The fluoroscopy time was lower with VP (0 [0-0] min) than FP (22 [14-27] min, P &lt; .0003) or PS (16 [11-28] min, P &lt; .0003). The lesion distribution varied: (1) FP created larger lesions for the posterior ",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou as diferenças entre três sistemas de ablação por campo pulsado (PFA) aprovados no Japão para tratar fibrilação atrial. Os sistemas avaliados incluíram um cateter pentaspline (FARAPULSE, FP) e dois cateteres circulares em forma de laço (VARIPULSE, VP e PulseSelect, PS). A pesquisa teve como objetivo comparar as características das lesões, parâmetros procedimentais, complicações e resultados de curto prazo entre esses sistemas. Foram incluídos 75 pacientes com fibrilação atrial, dos quais 54 apresentavam a forma paroxística e 21, a forma persistente, e foram submetidos à PFA utilizando um dos três sistemas. Após a ablação, as áreas de baixa voltagem (<0,1 mV) no ântrum da veia pulmonar (PV) foram quantificadas como áreas de lesão. Os resultados mostraram que o tempo de isolamento da veia pulmonar foi significativamente menor com o FP (20 ± 7 minutos) em comparação com o VP (32 ± 12 minutos) e o PS (33 ± 7 minutos). Já o tempo de fluoroscopia foi menor com o VP (0 [0-0] minutos) em comparação com o FP (22 [14-27] minutos) e o PS (16 [11-28] minutos). Além disso, a distribuição das lesões variou entre os sistemas, com o FP criando lesões maiores na região posterior. Esses achados sugerem diferenças importantes entre os sistemas de PFA avaliados, o que pode ter implicações clínicas significativas. No entanto, não foram fornecidos detalhes sobre as limitações do estudo ou os próximos passos para investigação.\n\nUm estudo recente publicado no PubMed investigou as diferenças entre três sistemas de ablação por campo pulsado (PFA) aprovados no Japão para tratar fibrilação atrial. Os sistemas avaliados incluíram um cateter pentaspline (FARAPULSE, FP) e dois cateteres circulares em forma de laço (VARIPULSE, VP e PulseSelect, PS). A pesquisa teve como objetivo comparar as características das lesões, parâmetros procedimentais, complicações e resultados de curto prazo entre esses sistemas. Foram incluídos 75 pacientes com fibrilação atrial, dos quais 54 apresentavam a forma paroxística e 21, a forma persistente, e foram submetidos à PFA utilizando um dos três sistemas. Após a ablação, as áreas de baixa voltagem (<0,1 mV) no ântrum da veia pulmonar (PV) foram quantificadas como áreas de lesão. Os resultados mostraram que o tempo de isolamento da veia pulmonar foi significativamente menor com o FP (20 ± 7 minutos) em comparação com o VP (32 ± 12 minutos) e o PS (33 ± 7 minutos). Já o tempo de fluoroscopia foi menor com o VP (0 [0-0] minutos) em comparação com o FP (22 [14-27] minutos) e o PS (16 [11-28] minutos). Além disso, a distribuição das lesões variou entre os sistemas, com o FP criando lesões maiores na região posterior. Esses achados sugerem diferenças importantes entre os sistemas de PFA avaliados, o que pode ter implicações clínicas significativas. No entanto, não foram fornecidos detalhes sobre as limitações do estudo ou os próximos passos para investigação.\n\nAqui está a versão em inglês:\n\nA recent study published on PubMed investigated the differences between three pulsed field ablation (PFA) systems approved in Japan for treating atrial fibrillation. The systems evaluated included a pentaspline catheter (FARAPULSE, FP) and two loop circular catheters (VARIPULSE, VP and PulseSelect, PS). The research aimed to compare the lesion characteristics, procedural parameters, complications, and short-term outcomes among these systems. A total of 75 patients with atrial fibrillation, including 54 with paroxysmal and 21 with persistent forms, underwent PFA using one of the three systems. After ablation, low-voltage areas (<0.1 mV) in the pulmonary vein (PV) antrum were quantified as lesion areas. The results showed that the PV isolation time was significantly shorter with FP (20 ± 7 minutes) compared to VP (32 ± 12 minutes) and PS (33 ± 7 minutes). In contrast, the fluoroscopy time was lower with VP (0 [0-0] minutes) compared to FP (22 [14-27] minutes) and PS (16 [11-28] minutes). Additionally, the lesion distribution varied between the systems, with FP creating larger lesions in the posterior region. These findings suggest significant differences between the evaluated PFA systems, which may have important clinical implications. However, details on the study's limitations or future investigation steps were not provided.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40769447",
-    "authors": [
-      {
-        "name": "Hikaru Masuda",
-        "affiliation": "Division of Cardiology, Department of Medicine, Nihon University School of Medicine, Tokyo, Japan."
-      },
-      {
-        "name": "Koichi Nagashima",
-        "affiliation": "Division of Cardiology, Department of Medicine, Nihon University School of Medicine, Tokyo, Japan. Electronic address: cocakochan@gmail.com."
-      },
-      {
-        "name": "Naoya Matsumoto",
-        "affiliation": "Department of Cardiology, Nihon University Hospital, Tokyo, Japan."
-      },
-      {
-        "name": "Katsuaki Yokoyama",
-        "affiliation": "Department of Cardiology, Nihon University Hospital, Tokyo, Japan."
-      }
-    ],
-    "journal": "Heart rhythm",
-    "publishedDate": "2026-06-29",
-    "fetchedDate": "2026-07-01",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
