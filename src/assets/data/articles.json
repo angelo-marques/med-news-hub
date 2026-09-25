@@ -1,5 +1,208 @@
 [
   {
+    "id": "pubmed-42785609",
+    "pmid": "42785609",
+    "doi": "10.1016/j.hrthm.2026.09.028",
+    "title": "Catheter ablation for atrial fibrillation in very young adults - multicentric data from the AF-YOUNG registry.",
+    "titlePt": "Catheter ablation for atrial fibrillation in very young adults - multicentric data from the AF-YOUNG registry.",
+    "abstract": "Atrial fibrillation below age 30 is rare; ablation outcome data is scarce. The multicenter AF-YOUNG registry analyzed clinical, procedural, and outcome data of consecutive patients &#x2264;30 years undergoing first-time catheter ablation. Two high-volume German centers retrospectively included patients &#x2264;30 years undergoing first-time pulmonary vein isolation (PVI) for atrial fibrillation (2005-2025). Recurrence: documented atrial fibrillation after a 90-day blanking period. Of 140 patients (mean age 29.1&#xb1;3.1 years; 28.6% female), 104 with outcome analysis (paroxysmal 83.6%, persistent atrial fibrillation 16.4%; 18.6% with family history of atrial fibrillation). PVI: Radiofrequency 49.3%, Cryoballoon 45.7%, Pulsed-Field ablation 5%. Mean procedure duration 117 &#xb1; 66 min. Over a median follow-up of one year (IQR 0.25-1.74), 10 patients had recurrences. Freedom from atrial fibrillation was 93.6/ 88.2/ 82.1% at 1/ 2/ 3 years; 94.9% at one year after up to two procedures. Pa",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785609",
+    "authors": [
+      {
+        "name": "Florian Doldi",
+        "affiliation": "Department of Cardiology II (Electrophysiology), University Hospital M&#xfc;nster, M&#xfc;nster, Germany. Electronic address: Florian.Doldi@ukmuenster.de."
+      },
+      {
+        "name": "Friederike Pavel",
+        "affiliation": "Department of Electrophysiology, Heart Center, University of Cologne, Kerpener Str. 62, 50937 Cologne, Germany."
+      },
+      {
+        "name": "Fabienne Kreimer",
+        "affiliation": "Department of Cardiology II (Electrophysiology), University Hospital M&#xfc;nster, M&#xfc;nster, Germany."
+      },
+      {
+        "name": "Julian Wolfes",
+        "affiliation": "Department of Cardiology II (Electrophysiology), University Hospital M&#xfc;nster, M&#xfc;nster, Germany."
+      }
+    ],
+    "journal": "Heart rhythm",
+    "publishedDate": "2026-09-24",
+    "fetchedDate": "2026-09-25",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2fXQed-2kFHot-a4084524de9fc8de\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: a065779f-5f38-4384-a19f-fec3aa16f768)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42785333",
+    "pmid": "42785333",
+    "doi": "10.1016/S1474-4422(26)00284-X",
+    "title": "Dynamic changes in plasma biomarkers of Alzheimer's disease in patients treated with lecanemab: a longitudinal cohort study.",
+    "titlePt": "Dynamic changes in plasma biomarkers of Alzheimer's disease in patients treated with lecanemab: a longitudinal cohort study.",
+    "abstract": "Anti-amyloid antibodies slow cognitive and functional decline in individuals with early symptomatic Alzheimer's disease, but few studies have examined changes associated with these treatments in plasma biomarkers linked to neurodegeneration. We analysed changes in a panel of 130 plasma proteins and their associations with conversion to amyloid PET negative status and cognitive changes in patients receiving lecanemab infusions as part of their clinical care. This longitudinal cohort study included patients with early symptomatic Alzheimer's disease and positive amyloid biomarkers who were identified as candidates for biweekly lecanemab infusions based on the US Food and Drug Administration label and consented to blood collection at the Washington University Memory Diagnostic Center (St Louis, MO, USA) between July 17, 2023, and Oct 10, 2025. Lecanemab was administered as a 10 mg/kg intravenous infusion every 2 weeks. Patients underwent clinical assessments and blood draws approximately ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785333",
+    "authors": [
+      {
+        "name": "Rui Mu",
+        "affiliation": "Department of Psychiatry, Washington University School of Medicine, St Louis, MO, USA; NeuroGenomics and Informatics Center, Washington University School of Medicine, St Louis, MO, USA; Division of Biology and Biomedical Sciences, Washington University School of Medicine, St Louis, MO, USA."
+      },
+      {
+        "name": "Anna Hofmann",
+        "affiliation": "Department of Neurology, Washington University School of Medicine, St Louis, MO, USA; Knight Alzheimer Disease Research Center, Washington University School of Medicine, St Louis, MO, USA."
+      },
+      {
+        "name": "Katherine Gong",
+        "affiliation": "Department of Psychiatry, Washington University School of Medicine, St Louis, MO, USA; NeuroGenomics and Informatics Center, Washington University School of Medicine, St Louis, MO, USA."
+      },
+      {
+        "name": "Menghan Liu",
+        "affiliation": "Department of Psychiatry, Washington University School of Medicine, St Louis, MO, USA; NeuroGenomics and Informatics Center, Washington University School of Medicine, St Louis, MO, USA."
+      }
+    ],
+    "journal": "The Lancet. Neurology",
+    "publishedDate": "2026-09-24",
+    "fetchedDate": "2026-09-25",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "cognitive",
+      "gene",
+      "drug"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2fXTak-2kFHot-a408456279dceb28\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 4e2a99f8-000e-4da4-b3a9-664cd0c3ea0c)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42781836",
+    "pmid": "42781836",
+    "doi": "10.1080/02813432.2026.2726274",
+    "title": "Impact of new guidelines for microbiological sampling on antibiotic prescribing patterns in general practice in the North Denmark Region: a retrospective pre-post observational study.",
+    "titlePt": "Impact of new guidelines for microbiological sampling on antibiotic prescribing patterns in general practice in the North Denmark Region: a retrospective pre-post observational study.",
+    "abstract": "In April 2024, the Department of Clinical Microbiology at Aalborg University Hospital introduced new guidelines for general practitioners in the North Denmark Region, limiting microbiological culture and susceptibility testing of wound, skin, eye, ear, and throat infections to recurrent cases or treatment failure. While intended to reduce unnecessary testing and optimize resource use, the effect on antibiotic prescribing patterns remains unclear. To characterize and explore the development in requested microbiological cultures and susceptibility testing and antibiotic prescribing patterns in general practice in the North Denmark Region before and after the introduction of the new guidelines. Antibiotic prescribing was also compared with the Central Denmark Region. This retrospective pre-post observational study included data from the Department of Clinical Microbiology on submitted and rejected samples from general practices in the North Denmark Region. Furthermore, number of redeemed ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42781836",
+    "authors": [
+      {
+        "name": "Pernille Thy Christensen",
+        "affiliation": "Department of Clinical Medicine, Aalborg University, Aalborg, Denmark."
+      },
+      {
+        "name": "Sofie Byskov",
+        "affiliation": "Department of Clinical Medicine, Aalborg University, Aalborg, Denmark."
+      },
+      {
+        "name": "Alina Zalounina Falborg",
+        "affiliation": "Center for General Practice, Department of Clinical Medicine, Aalborg University, Aalborg, Denmark."
+      },
+      {
+        "name": "Niels Kristian Skibsted",
+        "affiliation": "Research Unit for General Practice, Aarhus, Denmark."
+      }
+    ],
+    "journal": "Scandinavian journal of primary health care",
+    "publishedDate": "2026-09-24",
+    "fetchedDate": "2026-09-25",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2fXoyr-2kFHot-a408470f6df8eb28\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: c5ce696c-3ee9-4d1c-92f6-e4dbec65b4a7)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42784877",
+    "pmid": "42784877",
+    "doi": "10.1016/j.jcrc.2026.155754",
+    "title": "Plasma copper and endothelial injury markers in sepsis: A prospective observational study.",
+    "titlePt": "Plasma copper and endothelial injury markers in sepsis: A prospective observational study.",
+    "abstract": "Endothelial injury is central to sepsis, and altered copper homeostasis may be involved in inflammatory and oxidative stress responses. This study examined the association between plasma copper (Cu) concentrations, endothelial injury markers, inflammatory burden, illness severity, and 28-day mortality in patients with sepsis. This prospective observational study enrolled 100 ICU patients with sepsis between March and December 2025. Patients were classified as survivors or non-survivors according to 28-day outcomes. Plasma Cu, VE-cadherin, and Syndecan-1 (SDC-1) were measured within 24&#xa0;h of admission. Correlation, logistic regression, receiver operating characteristic (ROC), and sensitivity analyses were performed. Plasma Cu concentrations were markedly elevated in non-survivors compared to survivors. Non-survivors also exhibited higher plasma VE-cadherin and SDC-1 levels. Plasma Cu was positively correlated with VE-cadherin, SDC-1, APACHE II score, SOFA score, PCT, and CRP. The co",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42784877",
+    "authors": [
+      {
+        "name": "Haoyan Wang",
+        "affiliation": "Department of Intensive Care Medicine, The Second Hospital of Hebei Medical University, Hebei Medical University, Shijiazhuang 050000, Hebei, China; Department of Intensive Care Medicine, Tangshan Gongren Hospital, Tangshan 063000, Hebei, China."
+      },
+      {
+        "name": "Hui Chen",
+        "affiliation": "Department of Intensive Care Medicine, The Second Hospital of Hebei Medical University, Hebei Medical University, Shijiazhuang 050000, Hebei, China."
+      },
+      {
+        "name": "Huixiang Zhang",
+        "affiliation": "Department of Intensive Care Medicine, The Second Hospital of Hebei Medical University, Hebei Medical University, Shijiazhuang 050000, Hebei, China."
+      },
+      {
+        "name": "Li Li",
+        "affiliation": "Department of Intensive Care Medicine, The Second Hospital of Hebei Medical University, Hebei Medical University, Shijiazhuang 050000, Hebei, China."
+      }
+    ],
+    "journal": "Journal of critical care",
+    "publishedDate": "2026-09-24",
+    "fetchedDate": "2026-09-25",
+    "category": "Infectologia",
+    "tags": [
+      "sepsis"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2fXuN6-2kFHot-a40847809c5deb28\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 5d445c46-7be1-4783-8556-a09639f944c1)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42331675",
+    "pmid": "42331675",
+    "doi": "10.1016/j.jagp.2026.05.019",
+    "title": "Clinical Diagnosis and Treatment of Anxiety in Dementia With Lewy Bodies.",
+    "titlePt": "Clinical Diagnosis and Treatment of Anxiety in Dementia With Lewy Bodies.",
+    "abstract": "Dementia with Lewy bodies (DLB) is one of the most common neurodegenerative causes of Major Neurocognitive Disorder and associated with a high comorbidity of mood and behavioral disturbances. There is overlap between the defining characteristics of this disorder and the DSM-5-TR criteria for generalized anxiety disorder. DLB causes progressive decline in cognition, motor independence, sleep quality, and mood. Anxiety is the most common mood disturbance in patients with DLB, and those with anxiety experience more frequent and severe cognitive fluctuations. The treatment of underlying anxiety can improve patient and caregiver quality of life, yet screening for anxiety among those with DLB presents unique challenges. This clinical review discusses the importance of screening for anxiety and proposed management of anxiety in patients with DLB. A PubMed search using (dementia with Lewy bodies) and (anxiety) published between 2015 and 2025 initially yielded 161 results. The date range was ex",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42331675",
+    "authors": [
+      {
+        "name": "Audrey Wadood",
+        "affiliation": "Department of Neurology (AW, BJK), University of Texas Southwestern Medical Center, Dallas, TX; Peter O'Donnell Jr. Brain Institute (AW, BJK), University of Texas Southwestern Medical Center, Dallas, TX. Electronic address: Audrey.wadood@utsouthwestern.edu."
+      },
+      {
+        "name": "Mary E Camp",
+        "affiliation": "Department of Psychiatry (MEC), University of Texas Southwestern Medical Center, Dallas, TX; Peter O'Donnell Jr. Brain Institute (AW, BJK), University of Texas Southwestern Medical Center, Dallas, TX."
+      },
+      {
+        "name": "Brendan J Kelley",
+        "affiliation": "Department of Neurology (AW, BJK), University of Texas Southwestern Medical Center, Dallas, TX; Peter O'Donnell Jr. Brain Institute (AW, BJK), University of Texas Southwestern Medical Center, Dallas, TX."
+      }
+    ],
+    "journal": "The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry",
+    "publishedDate": "2026-09-24",
+    "fetchedDate": "2026-09-25",
+    "category": "Neurologia",
+    "tags": [
+      "dementia",
+      "cognitive",
+      "gene",
+      "anxiety"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2fYCBj-2kFHot-a40848e24d7ec8de\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 0415b2c4-d22d-4236-9330-96b3ffbe4384)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42031221",
     "pmid": "42031221",
     "doi": "10.1016/j.ijrobp.2026.04.026",
@@ -12429,217 +12632,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42382854",
-    "pmid": "42382854",
-    "doi": "10.1016/j.adro.2026.102069",
-    "title": "Encouraging Local Control With Pediatric Spatially Fractionated Radiation Therapy.",
-    "titlePt": "Encouraging Local Control With Pediatric Spatially Fractionated Radiation Therapy.",
-    "abstract": "Spatially fractionated radiation therapy (SFRT) is a promising treatment involving the delivery of discrete spheres of high-dose radiation, potentially enhancing treatment response. Despite encouraging results for adult patients, no SFRT data exist in pediatric patients. All pediatric patients receiving radiation therapy from 2019 to 2025 with at least 1 follow-up imaging study were considered. Patient characteristics and outcomes were recorded via institutional review board-approved retrospective chart review. Five pediatric patients who received SFRT were identified, with a median age of 15.7 years (range, 6.5-17.2 years). Three were alive at last follow-up (median, 13 months; range, 3-18 years). Neither tumor progression nor grade &#x2265; 2 toxicity was identified at SFRT sites. One recurrent wound infection occurred after enoxaparin sodium injection in the high-dose radiation therapy field. Two patients received upfront SFRT for pelvic osteosarcoma, followed by 74.8 Gy in 34 fract",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo pioneiro publicado na *Advances in Radiation Oncology* investiga pela primeira vez a aplicação de **radioterapia espacialmente fracionada (SFRT)** em pacientes pediátricos, um campo até então restrito a adultos. A técnica, que utiliza feixes de radiação de alta dose em padrões discretos, busca potencializar a resposta tumoral com menor toxicidade tecidual. No entanto, devido à ausência de dados prévios em crianças, pesquisadores do *AdventHealth Cancer Institute* conduziram um estudo retrospectivo para avaliar sua segurança e eficácia nesse grupo etário.\n\nEntre 2019 e 2025, foram analisados prontuários de pacientes pediátricos submetidos a radioterapia, com acompanhamento por imagem, identificando cinco casos que receberam SFRT. A mediana de idade foi de 15,7 anos (variação: 6,5 a 17,2 anos), e três pacientes permaneceram vivos no último acompanhamento (mediana de 13 meses; variação: 3 a 18 anos). Nenhum apresentou progressão tumoral ou toxicidade grau ≥2 no sítio irradiado. Um caso de infecção recorrente em ferida ocorreu após injeção de enoxaparina na área de alta dose, enquanto dois pacientes com osteossarcoma pélvico receberam SFRT como tratamento inicial, seguido de 74,8 Gy em 34 frações — entretanto, o estudo não detalha os desfechos oncológicos específicos nem a comparação com protocolos convencionais.\n\nOs achados sugerem que a SFRT pode ser viável em crianças, com ausência de toxicidade grave até o momento, mas a amostra reduzida e a falta de grupo controle limitam conclusões robustas. Os autores destacam a necessidade de estudos prospectivos com maior número de participantes e seguimento prolongado para validar a técnica em oncologia pediátrica. A abordagem, se confirmada, poderia expandir as opções terapêuticas para tumores de difícil acesso ou refratários, embora ainda seja considerada experimental nesse contexto.\n\n---\n\n**English version**\n\nA groundbreaking study published in *Advances in Radiation Oncology* explores the application of **spatially fractionated radiation therapy (SFRT)** in pediatric patients for the first time, a technique previously limited to adult populations. By delivering discrete high-dose radiation spheres, SFRT aims to enhance tumor control while sparing healthy tissue. However, with no prior data in children, researchers at the *AdventHealth Cancer Institute* conducted a retrospective analysis to assess its safety and efficacy in this age group.\n\nBetween 2019 and 2025, medical records of pediatric patients undergoing radiation therapy with follow-up imaging were reviewed, identifying five cases treated with SFRT. The median age was 15.7 years (range: 6.5–17.2 years), and three patients remained alive at last follow-up (median, 13 months; range, 3–18 years). No tumor progression or grade ≥2 toxicity was observed at SFRT sites. One recurrent wound infection occurred after enoxaparin sodium injection in the high-dose field, while two patients with pelvic osteosarcoma received upfront SFRT followed by 74.8 Gy in 34 fractions—though the study does not specify oncologic outcomes or comparisons to conventional protocols.\n\nThe findings suggest SFRT may be feasible in pediatric settings, with no severe toxicity reported to date, but the small sample size and lack of a control group preclude definitive conclusions. The authors emphasize the need for prospective studies with larger cohorts and extended follow-up to validate SFRT in pediatric oncology. If confirmed, the technique could expand treatment options for refractory or hard-to-reach tumors, though it remains experimental in this context.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42382854",
-    "authors": [
-      {
-        "name": "Roman O Kowalchuk",
-        "affiliation": "Department of Radiation Oncology, Mayo Clinic Rochester, Rochester, Minnesota."
-      },
-      {
-        "name": "Safia K Ahmed",
-        "affiliation": "Department of Radiation Oncology, Mayo Clinic Arizona, Phoenix, Arizona."
-      },
-      {
-        "name": "Daiki Hara",
-        "affiliation": "Department of Radiation Oncology, Mayo Clinic Rochester, Rochester, Minnesota."
-      },
-      {
-        "name": "Hok Wan Chan Tseung",
-        "affiliation": "Department of Radiation Oncology, Mayo Clinic Rochester, Rochester, Minnesota."
-      }
-    ],
-    "journal": "Advances in radiation oncology",
-    "publishedDate": "2026-07-01",
-    "fetchedDate": "2026-07-01",
-    "category": "Oncologia",
-    "tags": [
-      "tumor",
-      "infection",
-      "pediatric"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42376927",
-    "pmid": "42376927",
-    "doi": "10.1097/SHK.0000000000002751",
-    "title": "Ulinastatin Treatment Associated with Lower Sepsis-Associated Encephalopathy Risk in Sepsis Patients: A Multicenter Observational Study.",
-    "titlePt": "Ulinastatin Treatment Associated with Lower Sepsis-Associated Encephalopathy Risk in Sepsis Patients: A Multicenter Observational Study.",
-    "abstract": "Ulinastatin, widely used in Asia for sepsis management, lacks a comprehensive evaluation regarding its efficacy in preventing sepsis-associated encephalopathy (SAE). This study investigates ulinastatin's association with SAE incidence and explores combined biomarkers for early SAE prediction. This study employed a dual-cohort design involving 2,200 sepsis patients from a multicenter retrospective cohort and an independent validation cohort of 534 patients from a single-center prospective study. Using logistic regression and propensity score matching, we assessed the association between ulinastatin treatment and SAE incidence in the retrospective cohort. The findings were subsequently validated in the prospective cohort. We also evaluated clinical outcomes in ulinastatin-treated patients and examined the predictive utility of combining nitric oxide levels with key clinical indicators-including fasting blood glucose/high-density lipoprotein cholesterol ratio, Sequential Organ Failure Ass",
-    "journalisticSummary": "O tratamento com ulinastatina tem sido amplamente utilizado na Ásia para o manejo de sepse, mas carecia de uma avaliação abrangente sobre sua eficácia na prevenção de encefalopatia associada à sepse (SAE). Um estudo recente, publicado na PubMed, investigou a associação entre o tratamento com ulinastatina e a incidência de SAE em pacientes com sepse. Os resultados mostraram que o tratamento com ulinastatina esteve associado a um risco menor de desenvolver SAE. O estudo empregou um desenho de coorte dupla, envolvendo 2.200 pacientes com sepse de uma coorte retrospectiva multicêntrica e uma coorte de validação prospectiva de 534 pacientes de um estudo de centro único. Utilizando regressão logística e pareamento de escore de propensão, os pesquisadores avaliaram a associação entre o tratamento com ulinastatina e a incidência de SAE na coorte retrospectiva, e os achados foram subsequentemente validados na coorte prospectiva. Além disso, os pesquisadores avaliaram os resultados clínicos em pacientes tratados com ulinastatina e examinaram a utilidade preditiva de combinar níveis de óxido nitroso com indicadores clínicos-chave, incluindo a razão entre glicose no sangue em jejum e colesterol de lipoproteína de alta densidade, e a pontuação da Avaliação da Falha de Órgãos Sequencial. Embora os resultados sejam promissores, os pesquisadores destacam que mais estudos são necessários para confirmar a eficácia do tratamento com ulinastatina na prevenção de SAE.\n\nThe treatment with ulinastatin has been widely used in Asia for sepsis management, but it lacked a comprehensive evaluation regarding its efficacy in preventing sepsis-associated encephalopathy (SAE). A recent study, published on PubMed, investigated the association between ulinastatin treatment and SAE incidence in sepsis patients. The findings showed that ulinastatin treatment was associated with a lower risk of developing SAE. The study employed a dual-cohort design involving 2,200 sepsis patients from a multicenter retrospective cohort and an independent validation cohort of 534 patients from a single-center prospective study. Using logistic regression and propensity score matching, the researchers assessed the association between ulinastatin treatment and SAE incidence in the retrospective cohort, and the findings were subsequently validated in the prospective cohort. Additionally, the researchers evaluated clinical outcomes in ulinastatin-treated patients and examined the predictive utility of combining nitric oxide levels with key clinical indicators, including the fasting blood glucose/high-density lipoprotein cholesterol ratio, and the Sequential Organ Failure Assessment score. Although the results are promising, the researchers highlight that further studies are needed to confirm the efficacy of ulinastatin treatment in preventing SAE.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42376927",
-    "authors": [
-      {
-        "name": "Tingting Xu",
-        "affiliation": "Department of Critical Care Medicine/Emergency Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
-      },
-      {
-        "name": "Qin Zhang",
-        "affiliation": "Department of Anesthesiology, Hubei Key Laboratory of Geriatric Anesthesia and Perioperative Brain Health, Wuhan Clinical Research Center for Geriatric Anesthesia, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
-      },
-      {
-        "name": "Hang Ruan",
-        "affiliation": "Department of Critical Care Medicine/Emergency Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
-      },
-      {
-        "name": "Xiao Ran",
-        "affiliation": "Department of Critical Care Medicine/Emergency Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
-      }
-    ],
-    "journal": "Shock (Augusta, Ga.)",
-    "publishedDate": "2026-06-30",
-    "fetchedDate": "2026-07-01",
-    "category": "Infectologia",
-    "tags": [
-      "sepsis"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42372743",
-    "pmid": "42372743",
-    "doi": "10.1016/S1470-2045(26)00233-0",
-    "title": "Internal mammary chain and medial supraclavicular lymph node irradiation in stage I-III breast cancer (EORTC trial 22922/10925): an unplanned subset analysis of 20-year outcomes in patients with node-negative breast cancer.",
-    "titlePt": "Internal mammary chain and medial supraclavicular lymph node irradiation in stage I-III breast cancer (EORTC trial 22922/10925): an unplanned subset analysis of 20-year outcomes in patients with node-negative breast cancer.",
-    "abstract": "Results from several studies, including our 15-year analysis, showed improved disease-free survival and distant metastasis-free survival, reduced breast cancer-related mortality, and variable effects on overall survival with the addition of partial or comprehensive regional lymph node irradiation after surgery in patients with breast cancer. Here, we present the scheduled 20-year analysis of the EORTC trial 22922/10925, evaluating the role of internal mammary and medial-supraclavicular (IM-MS) nodal irradiation in patients with stage I-III breast cancer. Patients without confirmed axillary nodal involvement (pathological N stage 0 [pN0]) were eligible for the trial when the primary tumours were centrally or medially located. EORTC 22922/10925 was a randomised, open-label, phase 3 trial done across 46 radiation oncology departments from 13 countries. Eligible participants were women up to 75 years of age with unilateral, histologically confirmed, stage I-III breast adenocarcinoma with i",
-    "journalisticSummary": "O papel da irradiação dos linfonodos mamários internos e supraclaviculares mediais no tratamento do câncer de mama em estágios iniciais tem sido objeto de estudo em diversas pesquisas. Um estudo recente publicado no PubMed, com DOI 10.1016/S1470-2045(26)00233-0, apresenta os resultados de uma análise de subconjunto não planejada de 20 anos de pacientes com câncer de mama em estágios I-III, sem envolvimento nodal axilar confirmado. Essa análise é parte do ensaio clínico EORTC 22922/10925, que avaliou o papel da irradiação dos linfonodos internos mamários e supraclaviculares mediais (IM-MS) em pacientes com câncer de mama. Os resultados anteriores, incluindo a análise dos 15 anos, mostraram melhoria na sobrevida livre de doença e na sobrevida livre de metástases distantes, redução na mortalidade relacionada ao câncer de mama e efeitos variáveis na sobrevida geral com a adição da irradiação dos linfonodos regionais parciais ou completos após a cirurgia em pacientes com câncer de mama. O estudo EORTC 22922/10925 foi um ensaio randomizado, aberto, de fase 3, realizado em 46 departamentos de oncologia radioterápica de 13 países, e incluiu mulheres com até 75 anos de idade com adenocarcinoma de mama unilateral, histologicamente confirmado, em estágios I-III. Embora os dados específicos dos resultados de 20 anos não tenham sido detalhados no resumo, é esperado que esses resultados forneçam insights valiosos sobre o papel da irradiação dos linfonodos IM-MS no tratamento a longo prazo do câncer de mama. Limitações do estudo, como a seleção de pacientes e a variabilidade na aplicação da terapia, devem ser consideradas ao interpretar os resultados. Futuros estudos devem explorar mais aprofundadamente os benefícios e riscos da irradiação dos linfonodos IM-MS em diferentes subpopulações de pacientes com câncer de mama.\n\nThe role of irradiating internal mammary and medial supraclavicular lymph nodes in the treatment of early-stage breast cancer has been the subject of various studies. A recent study published in PubMed, with DOI 10.1016/S1470-2045(26)00233-0, presents the results of an unplanned subset analysis of 20-year outcomes in patients with stage I-III breast cancer, without confirmed axillary nodal involvement. This analysis is part of the EORTC 22922/10925 clinical trial, which evaluated the role of internal mammary and medial supraclavicular (IM-MS) lymph node irradiation in patients with breast cancer. Previous results, including the 15-year analysis, showed improved disease-free survival and distant metastasis-free survival, reduced breast cancer-related mortality, and variable effects on overall survival with the addition of partial or comprehensive regional lymph node irradiation after surgery in patients with breast cancer. The EORTC 22922/10925 study was a randomized, open-label, phase 3 trial conducted across 46 radiation oncology departments from 13 countries, and included women up to 75 years of age with unilateral, histologically confirmed, stage I-III breast adenocarcinoma. Although specific data on the 20-year outcomes were not detailed in the abstract, it is expected that these results will provide valuable insights into the role of IM-MS lymph node irradiation in the long-term treatment of breast cancer. Study limitations, such as patient selection and variability in therapy application, should be considered when interpreting the results. Future studies should further explore the benefits and risks of IM-MS lymph node irradiation in different patient subpopulations with breast cancer.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42372743",
-    "authors": [
-      {
-        "name": "Orit Kaidar-Person",
-        "affiliation": "Breast Radiation Unit, Sheba Medical Center, Ramat Gan, Israel; Gray Faculty of Medical and Health Sciences, Tel Aviv University, Tel Aviv, Israel."
-      },
-      {
-        "name": "Caroline G Weltens",
-        "affiliation": "Department of Radiation Oncology, University Hospitals Leuven, Leuven, Belgium; Laboratory of Experimental Radiation Oncology, KU Leuven, Leuven, Belgium."
-      },
-      {
-        "name": "Catherine Fortpied",
-        "affiliation": "European Organisation for Research and Treatment of Cancer (EORTC), Brussels, Belgium."
-      },
-      {
-        "name": "Luc J E E Scheijmans",
-        "affiliation": "Department of Radiation Oncology, Institute Verbeeten, Tilburg, Netherlands."
-      }
-    ],
-    "journal": "The Lancet. Oncology",
-    "publishedDate": "2026-06-29",
-    "fetchedDate": "2026-07-01",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "oncology",
-      "carcinoma",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-40752874",
-    "pmid": "40752874",
-    "doi": "10.1016/j.hrthm.2025.07.050",
-    "title": "Impact of disease progression avoidance by catheter ablation on clinical outcomes in atrial fibrillation: Insights from the CABANA trial.",
-    "titlePt": "Impact of disease progression avoidance by catheter ablation on clinical outcomes in atrial fibrillation: Insights from the CABANA trial.",
-    "abstract": "Delaying disease progression by catheter ablation has been recognized in patients with paroxysmal atrial fibrillation (AF); however, its direct association with clinical outcome improvement remains unclear. This study aimed to evaluate the effect of catheter ablation on reducing AF progression and associations with outcomes. The Catheter Ablation vs Antiarrhythmic Drug Therapy for Atrial Fibrillation (CABANA) trial compared the efficacy of catheter ablation with drug therapy in 2204 patients with AF. CABANA participants with paroxysmal AF at enrollment were included in this subanalysis. The primary endpoint was time to the first documented episode of persistent AF after a 90-day blanking period. Among 2204 CABANA total population, 854 patients had paroxysmal AF at baseline, with 413 patients assigned to catheter ablation and 441 to drug therapy. During a median follow-up of 49.7 months, AF progression occurred in 66 patients (16.0%) of the ablation group compared with 122 patients (27.",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *Heart Rhythm* oferece novas perspectivas sobre o papel da ablação por cateter na prevenção da progressão da fibrilação atrial (FA) e seus impactos clínicos. A pesquisa, um subgrupo do ensaio CABANA, avaliou pacientes com FA paroxística inicial e comparou desfechos entre aqueles submetidos à ablação por cateter e aqueles tratados com terapia antiarrítmica medicamentosa. Dos 2.204 participantes do CABANA, 854 tinham FA paroxística no início do estudo, sendo 413 alocados para ablação e 441 para terapia medicamentosa.\n\nApós um acompanhamento mediano de 49,7 meses, observou-se progressão para FA persistente em 16,0% dos pacientes submetidos à ablação, contra 27,2% no grupo de terapia medicamentosa. A redução relativa de 41% no risco de progressão sugere que a ablação pode atrasar a evolução da doença, um achado com implicações significativas para a estratégia terapêutica. No entanto, o estudo não detalha se essa diferença se traduziu em melhorias em desfechos maiores, como redução de hospitalizações, acidente vascular cerebral (AVC) ou mortalidade, limitando a extrapolação direta para benefícios clínicos finais. Além disso, a ausência de dados sobre eventos adversos associados ao procedimento ou a qualidade de vida pós-tratamento impede uma avaliação mais abrangente do perfil risco-benefício.\n\nOs autores destacam a necessidade de pesquisas futuras para elucidar se a prevenção da progressão da FA por ablação se correlaciona com desfechos duradouros, como redução de AVC ou melhora na sobrevida. Enquanto isso, os resultados reforçam a ablação como uma opção viável para conter a progressão em pacientes selecionados, embora a decisão terapêutica deva considerar individualmente o perfil de risco e as preferências do paciente.\n\n---\n\n**English version**\n\nA recent study published in *Heart Rhythm* provides new insights into the role of catheter ablation in preventing atrial fibrillation (AF) progression and its clinical implications. The research, a subgroup analysis of the CABANA trial, assessed outcomes in patients with initially paroxysmal AF, comparing those who underwent catheter ablation with those treated with antiarrhythmic drug therapy. Out of the 2,204 participants in the CABANA trial, 854 had paroxysmal AF at baseline, with 413 assigned to catheter ablation and 441 to drug therapy.\n\nAfter a median follow-up of 49.7 months, AF progression to persistent AF occurred in 16.0% of patients in the ablation group, compared to 27.2% in the drug therapy group. The 41% relative reduction in progression risk suggests that ablation may delay disease evolution, a finding with significant implications for therapeutic strategies. However, the study does not specify whether this difference translated into improvements in major outcomes, such as reductions in hospitalizations, stroke, or mortality, limiting direct extrapolation to final clinical benefits. Additionally, the absence of data on procedure-related adverse events or post-treatment quality of life prevents a more comprehensive risk-benefit assessment.\n\nThe authors emphasize the need for further research to clarify whether preventing AF progression through ablation correlates with sustained outcomes, such as stroke reduction or improved survival. Meanwhile, the findings reinforce ablation as a viable option to curb progression in selected patients, though treatment decisions should consider individual risk profiles and patient preferences.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40752874",
-    "authors": [
-      {
-        "name": "Mingxiao Li",
-        "affiliation": "Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, Engineering Research Center of Medical Devices for Cardiovascular Diseases, Ministry of Education, and National Clinical Research Center for Cardiovascular Diseases, Beijing, China."
-      },
-      {
-        "name": "Hang Guo",
-        "affiliation": "Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, Engineering Research Center of Medical Devices for Cardiovascular Diseases, Ministry of Education, and National Clinical Research Center for Cardiovascular Diseases, Beijing, China."
-      },
-      {
-        "name": "Enze Li",
-        "affiliation": "Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, Engineering Research Center of Medical Devices for Cardiovascular Diseases, Ministry of Education, and National Clinical Research Center for Cardiovascular Diseases, Beijing, China."
-      },
-      {
-        "name": "Chao Jiang",
-        "affiliation": "Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, Engineering Research Center of Medical Devices for Cardiovascular Diseases, Ministry of Education, and National Clinical Research Center for Cardiovascular Diseases, Beijing, China. Electronic address: superj@zju.edu.cn."
-      }
-    ],
-    "journal": "Heart rhythm",
-    "publishedDate": "2026-06-29",
-    "fetchedDate": "2026-07-01",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "drug"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-40975149",
-    "pmid": "40975149",
-    "doi": "10.1016/j.hrthm.2025.09.024",
-    "title": "Learning curve and procedural efficiency of zero-fluoroscopy pulsed-field ablation for atrial fibrillation.",
-    "titlePt": "Learning curve and procedural efficiency of zero-fluoroscopy pulsed-field ablation for atrial fibrillation.",
-    "abstract": "Pulsed-field ablation (PFA) has demonstrated safety and noninferiority compared with radiofrequency ablation (RFA) for atrial fibrillation. However, real-world data comparing RFA and PFA using a zero-fluoroscopy workflow, particularly regarding acute procedural efficiency and outcomes, remain limited. This study aimed to compare procedural characteristics of zero-fluoroscopy RFA and PFA pulmonary vein isolation (PVI) at a high-volume academic institution. We analyzed 827 consecutive zero-fluoroscopy first-time ablations performed between January 2022 and March 2025. Only patients with PVI or PVI with posterior wall isolation (PWI) lesion sets were included. Procedure time was defined as venous access to sheath removal time. Mixed-effects regression models were used for statistical analysis. The mean age was 65 &#xb1; 10 years, 68% of patients were male, and 54% had paroxysmal atrial fibrillation. Zero-fluoroscopy RFA and PFA procedures were 25 and 14 minutes shorter, respectively, than",
-    "journalisticSummary": "A ablação por campo pulsado (PFA) tem demonstrado segurança e não inferioridade em comparação com a ablação por radiofrequência (RFA) para fibrilação atrial. No entanto, dados do mundo real comparando RFA e PFA utilizando um fluxo de trabalho sem fluoroscopia, particularmente em relação à eficiência procedural aguda e resultados, ainda são limitados. Um estudo recente realizado em uma instituição acadêmica de alto volume buscou comparar as características procedimentais de RFA e PFA sem fluoroscopia para isolamento das veias pulmonares (PVI) em pacientes com fibrilação atrial. Os pesquisadores analisaram 827 ablações sem fluoroscopia consecutivas realizadas entre janeiro de 2022 e março de 2025, incluindo apenas pacientes com PVI ou PVI com isolamento da parede posterior (PWI). O tempo de procedimento foi definido como o tempo entre o acesso venoso e a remoção do cateter. Os modelos de regressão com efeitos mistos foram utilizados para a análise estatística. A idade média dos pacientes foi de 65 ± 10 anos, 68% eram homens e 54% apresentavam fibrilação atrial paroxística. Os procedimentos de RFA e PFA sem fluoroscopia foram 25 e 14 minutos mais curtos, respectivamente, do que os procedimentos com fluoroscopia. Embora os resultados sugiram que a PFA pode ser uma opção viável para o tratamento da fibrilação atrial, os autores destacam a necessidade de mais estudos para confirmar a eficácia e segurança a longo prazo. Além disso, os limites do estudo incluem a falta de informações sobre os resultados a longo prazo e a necessidade de mais pesquisas para comparar a eficácia da PFA em diferentes populações de pacientes.\n\nThe pulsed-field ablation (PFA) has demonstrated safety and non-inferiority compared to radiofrequency ablation (RFA) for atrial fibrillation. However, real-world data comparing RFA and PFA using a zero-fluoroscopy workflow, particularly regarding acute procedural efficiency and outcomes, remain limited. A recent study conducted at a high-volume academic institution aimed to compare the procedural characteristics of zero-fluoroscopy RFA and PFA pulmonary vein isolation (PVI) in patients with atrial fibrillation. The researchers analyzed 827 consecutive zero-fluoroscopy first-time ablations performed between January 2022 and March 2025, including only patients with PVI or PVI with posterior wall isolation (PWI) lesion sets. Procedure time was defined as the time from venous access to sheath removal. Mixed-effects regression models were used for statistical analysis. The mean age of the patients was 65 ± 10 years, 68% were male, and 54% had paroxysmal atrial fibrillation. Zero-fluoroscopy RFA and PFA procedures were 25 and 14 minutes shorter, respectively, than procedures with fluoroscopy. Although the results suggest that PFA may be a viable option for the treatment of atrial fibrillation, the authors highlight the need for further studies to confirm long-term efficacy and safety. Additionally, the study's limitations include the lack of information on long-term outcomes and the need for further research to compare the effectiveness of PFA in different patient populations.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40975149",
-    "authors": [
-      {
-        "name": "Juliana P&#xe9;rez-Pinz&#xf3;n",
-        "affiliation": "Harvard-Thorndike, Electrophysiology Institute, Division of Cardiology, Department of Medicine, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, Massachusetts."
-      },
-      {
-        "name": "Daniel Villarreal",
-        "affiliation": "Harvard-Thorndike, Electrophysiology Institute, Division of Cardiology, Department of Medicine, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, Massachusetts."
-      },
-      {
-        "name": "Mengyu Ma",
-        "affiliation": "Harvard-Thorndike, Electrophysiology Institute, Division of Cardiology, Department of Medicine, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, Massachusetts."
-      },
-      {
-        "name": "John-Ross Clarke",
-        "affiliation": "Harvard-Thorndike, Electrophysiology Institute, Division of Cardiology, Department of Medicine, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, Massachusetts."
-      }
-    ],
-    "journal": "Heart rhythm",
-    "publishedDate": "2026-06-29",
-    "fetchedDate": "2026-07-01",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
