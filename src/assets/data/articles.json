@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42730869",
+    "pmid": "42730869",
+    "doi": "10.1007/s40265-026-02365-3",
+    "title": "GLP-1 Receptor Agonists and Musculoskeletal Outcomes: A Systematic Literature Review and Meta-Analysis.",
+    "titlePt": "GLP-1 Receptor Agonists and Musculoskeletal Outcomes: A Systematic Literature Review and Meta-Analysis.",
+    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly used for the treatment of type 2 diabetes and obesity, but their effects on musculoskeletal health remain completely misunderstood. This systematic review/meta-analysis aims to synthesise clinical data on the effects of GLP-1 RAs on key relevant bone, muscle, and joint outcomes. MEDLINE, Cochrane Central Register of Controlled Trials (CENTRAL) (both via Ovid&#xae; platform) and Embase were searched from inception to March 2025 to identify relevant randomised controlled trials (RCTs) or real-world evidence (RWE) studies to be included. This bibliographic search was completed manually. A random-effect model meta-analysis was performed for any outcome reported in at least 2 studies. Subgroup analyses were performed on the type of GLP-1 RAs, type of comparator used and study design. Sensitivity analyses (i.e., leave-out sensitivity analyses and analyses restricted to the most adjusted effect estimate) were performed to ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42730869",
+    "authors": [
+      {
+        "name": "Charlotte Beaudart",
+        "affiliation": "Public Health Aging Research &amp; Epidemiology (PHARE) Group, Research Unit in Clinical Pharmacology and Toxicology (URPC), Research Institute for Life Sciences (NARILIS), University of Namur, Namur, Belgium. charlotte.beaudart@unamur.be."
+      },
+      {
+        "name": "Yveline Malr&#xe9;chauff&#xe9;",
+        "affiliation": "WHO Collaborating Centre for Epidemiology of Musculoskeletal Conditions and Ageing, Li&#xe8;ge, Belgium. charlotte.beaudart@unamur.be."
+      },
+      {
+        "name": "Sophie van Heden",
+        "affiliation": "Public Health Aging Research &amp; Epidemiology (PHARE) Group, Research Unit in Clinical Pharmacology and Toxicology (URPC), Faculty of Medicine, Research Institute for Life Sciences (NARILIS), University of Namur, Namur, Belgium. charlotte.beaudart@unamur.be."
+      },
+      {
+        "name": "Dolores Sanchez-Rodriguez",
+        "affiliation": "Public Health Aging Research &amp; Epidemiology (PHARE) Group, Research Unit in Clinical Pharmacology and Toxicology (URPC), Research Institute for Life Sciences (NARILIS), University of Namur, Namur, Belgium."
+      }
+    ],
+    "journal": "Drugs",
+    "publishedDate": "2026-09-25",
+    "fetchedDate": "2026-09-25",
+    "category": "Endocrinologia",
+    "tags": [
+      "diabetes",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2kDDAv-2kFHot-a40d53db68be0dda\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 75ccff25-31c3-4764-903f-5a1138e5eaf0)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42303813",
     "pmid": "42303813",
     "doi": "10.1007/s00467-026-07396-2",
@@ -12591,49 +12632,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41467414",
-    "pmid": "41467414",
-    "doi": "10.4103/NRR.NRR-D-25-01091",
-    "title": "High mobility group box 1 and its post-translational modifications: Molecular mechanisms underlying neurodegenerative disease pathogenesis.",
-    "titlePt": "High mobility group box 1 and its post-translational modifications: Molecular mechanisms underlying neurodegenerative disease pathogenesis.",
-    "abstract": "High mobility group box 1 is a dynamic nuclear protein that acts as a damage-associated molecular pattern when released from cells and plays key roles in neurodegenerative diseases. This review comprehensively analyzes the related post-translational modifications that affect the dual functions of high mobility group box 1 in neuroinflammation and neuronal survival, including acetylation, phosphorylation, oxidation, S-nitrosylation, lactylation, and ubiquitination. Post-translational modifications play critical regulatory roles in high mobility group box 1 subcellular localization, release processes and the specificity of receptor binding. In Alzheimer's disease, high mobility group box 1 exacerbates the disease through the Toll-like receptor 4/nuclear factor kappa B signaling pathway. Inhibition of high mobility group box 1 acetylation can alleviate neuroinflammation. Parkinson's disease models indicate that the S-nitrosylation of Cys106 is essential for the secretion of high mobility ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nA proteína High Mobility Group Box 1 (HMGB1) é uma molécula nuclear dinâmica que, quando liberada das células, atua como um padrão molecular associado a danos (DAMP), desempenhando funções críticas em doenças neurodegenerativas. Um estudo publicado recentemente no *NeuroReport* analisou como suas modificações pós-traducionais — como acetilação, fosforilação, oxidação, S-nitrosilação, lactilação e ubiquitinação — regulam sua localização subcelular, processos de liberação e interações receptoras específicas. Esses mecanismos são fundamentais para modular a neuroinflamação e a sobrevivência neuronal, processos centrais em doenças como Alzheimer e Parkinson.\n\nNo Alzheimer, a HMGB1 agrava a doença ao ativar a via de sinalização Toll-like receptor 4/nuclear factor kappa B (TLR4/NF-κB), promovendo resposta inflamatória crônica. A inibição da acetilação da HMGB1 surge como estratégia promissora para reduzir a neuroinflamação, embora os mecanismos moleculares exatos ainda não estejam completamente elucidados. Em modelos de Parkinson, a S-nitrosilação do resíduo de cisteína Cys106 mostrou-se essencial para a secreção da proteína, sugerindo um ponto de intervenção terapêutica. No entanto, o estudo não detalha os resultados quantitativos dessas modificações nem avalia sua aplicabilidade em ensaios clínicos.\n\nAs limitações incluem a dependência de modelos pré-clínicos e a ausência de dados sobre a eficácia de inibidores específicos em humanos. Próximos passos devem explorar terapias direcionadas às modificações pós-traducionais da HMGB1, bem como estudos clínicos para validar essas abordagens. A compreensão desses processos pode abrir caminho para tratamentos mais precisos em doenças neurodegenerativas, embora ainda sejam necessárias pesquisas adicionais para transpor os achados laboratoriais para a prática clínica.\n\n---\n\n**English version**\n\nThe protein High Mobility Group Box 1 (HMGB1) is a dynamic nuclear molecule that, upon release from cells, functions as a damage-associated molecular pattern (DAMP), playing critical roles in neurodegenerative diseases. A recent study published in *NeuroReport* examined how its post-translational modifications—such as acetylation, phosphorylation, oxidation, S-nitrosylation, lactylation, and ubiquitination—regulate subcellular localization, release mechanisms, and receptor-binding specificity. These processes are key in modulating neuroinflammation and neuronal survival, central to conditions like Alzheimer’s and Parkinson’s disease.\n\nIn Alzheimer’s disease, HMGB1 exacerbates pathology by activating the Toll-like receptor 4/nuclear factor kappa B (TLR4/NF-κB) signaling pathway, driving chronic inflammatory responses. Inhibiting HMGB1 acetylation emerges as a promising strategy to mitigate neuroinflammation, though the precise molecular mechanisms remain incompletely understood. In Parkinson’s disease models, S-nitrosylation at cysteine residue Cys106 proved essential for HMGB1 secretion, highlighting a potential therapeutic target. However, the study does not provide quantitative data on these modifications or assess their clinical applicability.\n\nKey limitations include reliance on preclinical models and the lack of human efficacy data for targeted inhibitors. Future research should focus on therapies targeting HMGB1 post-translational modifications, alongside clinical trials to validate these approaches. While these findings may pave the way for precision treatments in neurodegeneration, additional studies are needed to translate laboratory insights into clinical practice.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41467414",
-    "authors": [
-      {
-        "name": "Jun Li",
-        "affiliation": "Wuhan Pulmonary Hospital, Wuhan Institute for Tuberculosis Control, Wuhan, Hubei Province, China."
-      },
-      {
-        "name": "Naming Wu",
-        "affiliation": "Department of Dermatology, Renmin Hospital of Wuhan University, Wuhan, Hubei Province, China."
-      },
-      {
-        "name": "Yifan Xiao",
-        "affiliation": "Hubei Key Laboratory of Cognitive and Affective Disorders, Jianghan University, Wuhan, Hubei Province, China."
-      },
-      {
-        "name": "Yiyuan Xia",
-        "affiliation": "Department of Pathology and Pathophysiology, School of Medicine, Jianghan University, Wuhan, Hubei Province, China."
-      }
-    ],
-    "journal": "Neural regeneration research",
-    "publishedDate": "2026-07-01",
-    "fetchedDate": "2026-07-01",
-    "category": "Neurologia",
-    "tags": [
-      "alzheimer",
-      "parkinson",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
