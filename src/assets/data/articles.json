@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42303813",
+    "pmid": "42303813",
+    "doi": "10.1007/s00467-026-07396-2",
+    "title": "The relationship between blood pressure variability, left ventricular hypertrophy, and arterial stiffness in children and adolescents with obesity.",
+    "titlePt": "The relationship between blood pressure variability, left ventricular hypertrophy, and arterial stiffness in children and adolescents with obesity.",
+    "abstract": "Obesity and hypertension are major risk factors for cardiovascular target organ damage in childhood, including increased left ventricular mass index (LVMI) and left ventricular hypertrophy (LVH). Blood pressure variability (BPV) has been suggested as a potential contributor to cardiovascular damage; however, its role in pediatric obesity remains unclear. This study was aimed at evaluating short-term BPV and pulse wave analysis (PWA) parameters in children and adolescents with obesity and their associations with LVMI and LVH. This retrospective cross-sectional study included 42 children and adolescents with obesity evaluated between October 2023 and August 2025, and 42 age- and sex-matched healthy children and adolescents (8-18&#xa0;years). All participants underwent 24-h ambulatory blood pressure monitoring with simultaneous PWA and echocardiographic assessment of LVMI. Short-term BPV was assessed using standard deviation (SD), coefficient of variation (CV), and average real variabilit",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42303813",
+    "authors": [
+      {
+        "name": "Pelin Abdal Y&#x131;ld&#x131;r&#x131;m",
+        "affiliation": "Department of Pediatrics, Division of Nephrology, Izmir City Hospital, Bayrakl&#x131;, Izmir, 35540, Turkey. pelinabdal@outlook.com."
+      },
+      {
+        "name": "G&#xfc;lce &#x130;mamo&#x11f;lu",
+        "affiliation": "Department of Pediatrics, Division of Nephrology, Izmir City Hospital, Bayrakl&#x131;, Izmir, 35540, Turkey."
+      },
+      {
+        "name": "Cemaliye Ba&#x15f;aran",
+        "affiliation": "Department of Pediatrics, Division of Nephrology, Izmir City Hospital, Bayrakl&#x131;, Izmir, 35540, Turkey."
+      },
+      {
+        "name": "Eren Soyalt&#x131;n",
+        "affiliation": "Department of Pediatrics, Division of Nephrology, Izmir Katip &#xc7;elebi University, Izmir, Turkey."
+      }
+    ],
+    "journal": "Pediatric nephrology (Berlin, Germany)",
+    "publishedDate": "2026-09-25",
+    "fetchedDate": "2026-09-25",
+    "category": "Pediatria",
+    "tags": [
+      "cardiovascular",
+      "hypertension",
+      "pediatric",
+      "children",
+      "childhood"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2gioVB-2kFHot-a4098fb2dd40a471\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: dd649083-1d0d-4070-adba-ec8882e8c668)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42785609",
     "pmid": "42785609",
     "doi": "10.1016/j.hrthm.2026.09.028",
@@ -12592,47 +12636,5 @@
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42382280",
-    "pmid": "42382280",
-    "doi": "10.1002/joa3.70410",
-    "title": "Documented Obstructive Sleep Apnea, Cardiometabolic Phenotype, and Rhythm-Related Outcomes After Atrial Fibrillation Ablation: An Observational Cohort Study.",
-    "titlePt": "Documented Obstructive Sleep Apnea, Cardiometabolic Phenotype, and Rhythm-Related Outcomes After Atrial Fibrillation Ablation: An Observational Cohort Study.",
-    "abstract": "Obstructive sleep apnea syndrome (OSAS) is common in atrial fibrillation (AF) and may influence AF phenotype and post-ablation recurrence. We aimed to determine whether documented OSAS identifies a distinct clinical phenotype and whether it is associated with post-ablation rhythm-related outcomes. We performed a single-center observational study with two overlapping cohorts. The principal registry cohort comprised 2559 patients with first AF ablation with pulmonary vein isolation (PVI) treated between November/2021 and July/2025. Its primary endpoint was the same-center rhythm-intervention endpoint, defined as the first post-index repeat PVI or electrical cardioversion at the study center. A 7-day Holter was scheduled 90&#x2009;days after ablation. The nested active 2022 cohort comprised 666 AF/PVI patients. Documented OSAS was present in 268 of 2559 registry patients, 10.5%, and in 66 of 652 patients with known OSAS status in the active subset, 10.1%. Documented OSAS was associated wi",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a relação entre a síndrome da apneia obstrutiva do sono (SAOS) e os resultados clínicos após a ablação da fibrilação atrial (FA). A FA é uma condição cardíaca comum que pode ser influenciada pela SAOS, uma condição caracterizada por pausas respiratórias durante o sono. O objetivo do estudo foi determinar se a SAOS documentada identifica um fenótipo clínico distinto e se está associada a resultados clínicos relacionados ao ritmo cardíaco após a ablação.\n\nO estudo foi realizado em um único centro e consistiu em duas coortes sobrepostas. A coorte principal do registro incluiu 2559 pacientes com FA que foram submetidos à ablação com isolamento da veia pulmonar (PVI) entre novembro de 2021 e julho de 2025. O endpoint principal foi o endpoint de intervenção de ritmo no mesmo centro, definido como a primeira intervenção de ritmo repetida ou cardioversão elétrica após a ablação. Além disso, um Holter de 7 dias foi agendado 90 dias após a ablação. A coorte ativa de 2022 incluiu 666 pacientes com FA/PVI.\n\nOs resultados mostraram que a SAOS documentada estava presente em 10,5% dos pacientes da coorte principal do registro e em 10,1% dos pacientes da coorte ativa de 2022. A SAOS documentada foi associada a um fenótipo clínico distinto e a resultados clínicos relacionados ao ritmo cardíaco após a ablação. No entanto, não foram fornecidos detalhes sobre as limitações do estudo e os próximos passos para investigar essa relação.\n\nA relação entre a SAOS e a FA é complexa e ainda não completamente compreendida. Mais estudos são necessários para determinar a extensão da influência da SAOS nos resultados clínicos da FA e para desenvolver estratégias eficazes para gerenciar essa condição. Além disso, é fundamental que os pacientes com FA sejam avaliados para SAOS e que sejam implementadas medidas para prevenir e tratar essa condição.\n\nUm aspecto importante a ser considerado é que o estudo foi realizado em um único centro e pode não ser representativo de outras populações. Além disso, a falta de informações sobre as limitações do estudo e os próximos passos é um ponto a ser considerado. No entanto, o estudo fornece uma contribuição importante para a compreensão da relação entre a SAOS e a FA e destaca a necessidade de mais pesquisas nessa área.\n\nA fibrilação atrial é uma condição cardíaca comum que pode ter um impacto significativo na qualidade de vida dos pacientes. A identificação de fatores que influenciam os resultados clínicos da FA é fundamental para o desenvolvimento de estratégias eficazes para gerenciar essa condição. A relação entre a SAOS e a FA é um exemplo disso e destaca a importância de considerar a saúde geral do paciente ao tratar a FA.\n\nA pesquisa sobre a relação entre a SAOS e a FA está em andamento e novos estudos estão sendo realizados para investigar essa relação. É fundamental que os pacientes com FA sejam conscientes da importância de avaliar e tratar a SAOS e que os profissionais de saúde estejam cientes da necessidade de considerar a saúde geral do paciente ao tratar a FA.\n\nRecent studies published on PubMed have investigated the relationship between obstructive sleep apnea syndrome (OSAS) and clinical outcomes after atrial fibrillation (AF) ablation. AF is a common cardiac condition that can be influenced by OSAS, a condition characterized by pauses in breathing during sleep. The objective of the study was to determine whether documented OSAS identifies a distinct clinical phenotype and whether it is associated with rhythm-related outcomes after ablation.\n\nThe study was conducted at a single center and consisted of two overlapping cohorts. The principal registry cohort included 2559 patients with AF who underwent ablation with pulmonary vein isolation (PVI) between November 2021 and July 2025. The primary endpoint was the same-center rhythm-intervention endpoint, defined as the first post-index repeat PVI or electrical cardioversion at the study center. Additionally, a 7-day Holter was scheduled 90 days after ablation. The nested active 2022 cohort included 666 AF/PVI patients.\n\nThe results showed that documented OSAS was present in 10.5% of patients in the principal registry cohort and in 10.1% of patients in the active 2022 cohort. Documented OSAS was associated with a distinct clinical phenotype and rhythm-related outcomes after ablation. However, details about the study's limitations and next steps to investigate this relationship were not provided.\n\nThe relationship between OSAS and AF is complex and not yet fully understood. Further studies are needed to determine the extent of OSAS's influence on AF clinical outcomes and to develop effective strategies for managing this condition. Moreover, it is essential that patients with AF be evaluated for OSAS and that measures be implemented to prevent and treat this condition.\n\nOne important aspect to consider is that the study was conducted at a single center and may not be representative of other populations. Additionally, the lack of information about the study's limitations and next steps is a point to be considered. However, the study provides a significant contribution to the understanding of the relationship between OSAS and AF and highlights the need for further research in this area.\n\nAtrial fibrillation is a common cardiac condition that can have a significant impact on patients' quality of life. Identifying factors that influence AF clinical outcomes is essential for developing effective strategies for managing this condition. The relationship between OSAS and AF is an example of this and highlights the importance of considering the patient's overall health when treating AF.\n\nResearch on the relationship between OSAS and AF is ongoing, and new studies are being conducted to investigate this relationship. It is essential that patients with AF be aware of the importance of evaluating and treating OSAS and that healthcare professionals be aware of the need to consider the patient's overall health when treating AF.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42382280",
-    "authors": [
-      {
-        "name": "Yazan Mohsen",
-        "affiliation": "Alliance for Cardiovascular Diagnostic and Treatment Innovation Johns Hopkins University Baltimore MD USA."
-      },
-      {
-        "name": "Iryna Novikov",
-        "affiliation": "Department of Cardiology, Electrophysiology and Rhythmology Krankenhaus Porz Am Rhein Cologne Germany."
-      },
-      {
-        "name": "Shreeram Sabareesan",
-        "affiliation": "Department of Cardiology, Faculty of Health School of Medicine, University Witten/Herdecke Witten Germany."
-      },
-      {
-        "name": "Kensuke Sakata",
-        "affiliation": "Department of Cardiology, Electrophysiology and Rhythmology Krankenhaus Porz Am Rhein Cologne Germany."
-      }
-    ],
-    "journal": "Journal of arrhythmia",
-    "publishedDate": "2026-07-01",
-    "fetchedDate": "2026-07-01",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
