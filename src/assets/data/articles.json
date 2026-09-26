@@ -1,5 +1,125 @@
 [
   {
+    "id": "pubmed-42142855",
+    "pmid": "42142855",
+    "doi": "10.1016/j.hrthm.2026.05.018",
+    "title": "Durability of pulmonary vein isolation: Does the pulsed field ablation system matter?",
+    "titlePt": "Durability of pulmonary vein isolation: Does the pulsed field ablation system matter?",
+    "abstract": "Durable pulmonary vein isolation (PVI) is considered the \"Achilles' heel\" of atrial fibrillation ablation. Although pulsed field ablation (PFA) is increasingly used owing to its nonthermal, tissue-selective properties, comparative data regarding chronic lesion durability across different PFA platforms remain limited. This study aimed to compare chronic PVI durability and pulmonary vein (PV) reconnection patterns after index ablation with FARAPULSE (pentaspline) and Volt (balloon-in-basket) catheters. We retrospectively reviewed consecutive patients undergoing repeat ablation at 2 centers (between May 2023 and September 2025) after a de novo PFA procedure using either a pentaspline (n = 86) or a balloon-in-basket catheter (n = 46). High-density voltage mapping was used to assess the PV and posterior wall. Endpoints included lesion durability and vein reconnection rates. A propensity score-matched sensitivity analysis (n = 34 pairs) addressed baseline imbalances to compare clinical outco",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42142855",
+    "authors": [
+      {
+        "name": "Saikiran Kakarla",
+        "affiliation": "Centre for Heart Rhythm Disorders, Adelaide University and Royal Adelaide Hospital, Adelaide, South Australia, Australia."
+      },
+      {
+        "name": "Hidehiro Iwakawa",
+        "affiliation": "Centre for Heart Rhythm Disorders, Adelaide University and Royal Adelaide Hospital, Adelaide, South Australia, Australia."
+      },
+      {
+        "name": "Jonathan P Ariyaratnam",
+        "affiliation": "Centre for Heart Rhythm Disorders, Adelaide University and Royal Adelaide Hospital, Adelaide, South Australia, Australia."
+      },
+      {
+        "name": "Jason Varzaly",
+        "affiliation": "Centre for Heart Rhythm Disorders, Adelaide University and Royal Adelaide Hospital, Adelaide, South Australia, Australia."
+      }
+    ],
+    "journal": "Heart rhythm",
+    "publishedDate": "2026-09-25",
+    "fetchedDate": "2026-09-26",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2o8xj7-2kFHot-a4107c78ad2850ba\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 58069706-c90b-408b-8455-0201018bb7ef)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-41135625",
+    "pmid": "41135625",
+    "doi": "10.1016/j.hrthm.2025.10.037",
+    "title": "Cardioversion of atrial fibrillation and flutter: Trends, outcomes, and rhythm management strategies over 2 decades.",
+    "titlePt": "Cardioversion of atrial fibrillation and flutter: Trends, outcomes, and rhythm management strategies over 2 decades.",
+    "abstract": "Direct current cardioversion (DCCV) is commonly performed for atrial fibrillation and flutter (AF/AFL). However, temporal trends and contemporary practices surrounding DCCV are poorly characterized. This study aimed to analyze a large multi-institutional experience of DCCV over 2 decades, quantifying trends, outcomes, and management strategies. For case-level analyses, we identified all DCCVs for AF/AFL between 2000 and 2024 and assessed annual volumes and patient status at the time of DCCV (ie, outpatient, inpatient, or emergency/observation). For patient-level analyses, we focused on individuals who underwent their first (index) DCCV between 2000 and 2022. We evaluated baseline characteristics and outcomes after index DCCV, including AF/AFL recurrence, stroke, heart failure (HF), HF hospitalization, and catheter ablation. We identified 44,043 DCCVs with annual cases increasing substantially from 857 in 2000 to 3999 in 2024. Most DCCVs were performed with an outpatient status (n = 21,",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41135625",
+    "authors": [
+      {
+        "name": "Keisuke Usuda",
+        "affiliation": "Cardiovascular Disease Initiative, Broad Institute of MIT and Harvard, Cambridge, Massachusetts; Cardiovascular Research Center, Heart and Vascular Institute, Mass General Brigham, Boston, Massachusetts."
+      },
+      {
+        "name": "William J Hucker",
+        "affiliation": "Cardiovascular Research Center, Heart and Vascular Institute, Mass General Brigham, Boston, Massachusetts; Telemachus and Irene Demoulas Family Foundation Center for Cardiac Arrhythmias, Heart and Vascular Institute, Mass General Brigham, Boston, Massachusetts."
+      },
+      {
+        "name": "Shilpi Epstein",
+        "affiliation": "Bayer AG, Research &amp; Development, Pharmaceuticals, Wuppertal, Germany."
+      },
+      {
+        "name": "David de la Puente Bethencourt",
+        "affiliation": "Bayer AG, Research &amp; Development, Pharmaceuticals, Wuppertal, Germany."
+      }
+    ],
+    "journal": "Heart rhythm",
+    "publishedDate": "2026-09-25",
+    "fetchedDate": "2026-09-26",
+    "category": "Cardiologia",
+    "tags": [
+      "heart",
+      "atrial",
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2o91CF-2kFHot-a4107cac3cf65d5c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: aefbd250-6207-4bc8-999e-7989f9b92b41)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42669382",
+    "pmid": "42669382",
+    "doi": "10.1016/j.jad.2026.122443",
+    "title": "Antidepressant effects of facial botulinum toxin a injections: Insights from randomized controlled trials.",
+    "titlePt": "Antidepressant effects of facial botulinum toxin a injections: Insights from randomized controlled trials.",
+    "abstract": "Depressive disorders cause significant global disability, yet oral antidepressants often have systemic side effects and delayed onset. This systematic review and meta-analysis evaluated the efficacy and safety of facial injections of Botulinum toxin A (BoNT/A) compared with placebo and the active antidepressant sertraline. We searched PubMed, Embase, Cochrane CENTRAL, Web of Science, and PsycINFO for randomized controlled trials (RCTs) from inception to December 2025. Eight RCTs comprising 636 participants were included. Facial BoNT/A injection was associated with a significant reduction in depressive symptoms compared with control conditions (SMD&#xa0;=&#xa0;-0.81; 95% CI, -1.23 to -0.38; p&#xa0;&lt;&#xa0;0.001). Subgroup analysis revealed that BoNT/A was superior to placebo (SMD&#xa0;=&#xa0;-1.04) and demonstrated efficacy comparable to sertraline (SMD&#xa0;=&#xa0;-0.23). Regarding injection strategies, while standard glabellar protocols demonstrated significant antidepressant effica",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669382",
+    "authors": [
+      {
+        "name": "Zhengyu Gao",
+        "affiliation": "Department of Rehabilitation Medicine, The Affiliated Hospital of Qingdao University, Qingdao, China. Electronic address: drgaozy@qdu.edu.cn."
+      },
+      {
+        "name": "Xiaoqin Chen",
+        "affiliation": "Department of Psychiatry, Qingdao Mental Health Center, Qingdao, China. Electronic address: chenxiaoqin566@126.com."
+      },
+      {
+        "name": "Xiaoming Yu",
+        "affiliation": "Department of Rehabilitation Medicine, Qingdao Women and Children's Hospital, Qingdao, China. Electronic address: yuxaoming@126.com."
+      },
+      {
+        "name": "Luoman Hu",
+        "affiliation": "Department of Rehabilitation Medicine, The Affiliated Hospital of Qingdao University, Qingdao, China. Electronic address: huolele2009@sina.com."
+      }
+    ],
+    "journal": "Journal of affective disorders",
+    "publishedDate": "2026-09-25",
+    "fetchedDate": "2026-09-26",
+    "category": "Farmacologia",
+    "tags": [],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2o9c3C-2kFHot-a4107f891aabf7cf\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 279b21ca-3e64-4577-8421-b506c23fb7ab)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42730869",
     "pmid": "42730869",
     "doi": "10.1007/s40265-026-02365-3",
@@ -12330,6 +12450,50 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-41467421",
+    "pmid": "41467421",
+    "doi": "10.4103/NRR.NRR-D-25-00816",
+    "title": "Cell-based immunotherapy for neurodegenerative disease: A promising avenue.",
+    "titlePt": "Cell-based immunotherapy for neurodegenerative disease: A promising avenue.",
+    "abstract": "Neurodegenerative diseases such as amyotrophic lateral sclerosis, Alzheimer's disease, Parkinson's disease, and Huntington's disease are characterized by progressive neuronal loss and chronic neuroinflammation, with current treatments remaining largely symptomatic. This review explores the potential of cell-based immunotherapy as a disease-modifying strategy. Advances in stem cell biology and immune engineering have facilitated the development of therapies using mesenchymal stem cells, chimeric antigen receptor T cells, macrophages, regulatory T cells, modified macrophages, and monoclonal antibodies. These approaches aim to regulate immune mechanisms implicated in neurodegeneration, such as microglial activation, systemic inflammation, and immune checkpoint dysregulation. Notably, macrophage-mediated delivery systems, such as genetically modified cells expressing neurotrophic factors or antioxidant enzymes, have demonstrated neuroprotective effects. Likewise, emerging data support T-ce",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41467421",
+    "authors": [
+      {
+        "name": "Tomas J Huerta",
+        "affiliation": "Center for Integrative Biology, Universidad Mayor, Santiago, Chile."
+      },
+      {
+        "name": "Valentina Urbina-Mu&#xf1;oz",
+        "affiliation": "Center for Geroscience, Brain Health and Metabolism, Santiago, Chile."
+      },
+      {
+        "name": "Valentina Urra-Alvarez",
+        "affiliation": "Escuela Tecnolog&#xed;a M&#xe9;dica, Facultad de Medicina y Ciencias de la Salud, Universidad Mayor, Santiago, Chile."
+      },
+      {
+        "name": "Cristopher Villablanca",
+        "affiliation": "Center for Integrative Biology, Universidad Mayor, Santiago, Chile."
+      }
+    ],
+    "journal": "Neural regeneration research",
+    "publishedDate": "2026-07-01",
+    "fetchedDate": "2026-09-26",
+    "category": "Neurologia",
+    "tags": [
+      "immunotherapy",
+      "alzheimer",
+      "parkinson",
+      "genetic",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2o97Sk-2kFHot-a4107d2ffad6f7cf\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 4306ad2e-ed37-49f9-b076-0335a7ff7b4c)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-41467414",
     "pmid": "41467414",
     "doi": "10.4103/NRR.NRR-D-25-01091",
@@ -12455,180 +12619,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42385762",
-    "pmid": "42385762",
-    "doi": "10.1016/S1473-3099(26)00295-1",
-    "title": "Global, regional, and national burden of tuberculosis and multidrug-resistant tuberculosis by HIV status, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
-    "titlePt": "Global, regional, and national burden of tuberculosis and multidrug-resistant tuberculosis by HIV status, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
-    "abstract": "Tuberculosis (TB) is the leading global cause of death from a single infectious agent. Recent reductions in global health funding have threatened TB control, making comprehensive assessment of TB, HIV-related TB, and drug-resistant TB burdens before these disruptions essential for shaping effective responses. The WHO End TB Strategy sets targets of a 95% reduction in TB deaths and a 90% reduction in TB incidence between 2015 and 2035. Using results from the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2023, this study aims to assess the burden of TB and multidrug-resistant TB (MDR-TB) across 204 countries and territories, and to evaluate progress towards the WHO End TB incidence and mortality targets. We quantified TB mortality using the Cause of Death Ensemble modelling platform with global vital registration, surveillance, verbal autopsy, and minimally invasive tissue sampling data. For TB morbidity estimation, we simultaneously modelled incidence, prevalence, an",
-    "journalisticSummary": "A tuberculose (TB) continua sendo a principal causa de morte por um único agente infeccioso em nível global, um cenário que se agrava diante de reduções recentes no financiamento da saúde pública. Um estudo publicado no *The Lancet Infectious Diseases*, com dados do *Global Burden of Disease Study (GBD) 2023*, mapeia a carga global, regional e nacional da TB, da TB associada ao HIV e da tuberculose multirresistente (MDR-TB) entre 1990 e 2023. A pesquisa, que abrange 204 países e territórios, avalia o progresso em direção às metas da Estratégia *End TB* da OMS — uma redução de 95% nas mortes e 90% na incidência da doença até 2035, em comparação aos níveis de 2015.\n\nUtilizando o *Cause of Death Ensemble modelling* (CODEm) e dados de registros vitais globais, vigilância epidemiológica, autópsias verbais e amostragem tecidual minimamente invasiva, os pesquisadores quantificaram a mortalidade por TB. Para a morbidade, foi empregado um modelo simultâneo de incidência, prevalência e incapacidade, integrando informações de 1.189 estudos e estimativas de 1980 a 2023. Os resultados revelam que, embora haja uma tendência de declínio na incidência e mortalidade global por TB desde 2000, o ritmo atual está aquém do necessário para atingir as metas da OMS. A MDR-TB, em particular, representa um desafio crescente, com altas taxas de resistência em regiões como a Europa Oriental e partes da Ásia, onde o acesso a diagnósticos e tratamentos adequados é limitado.\n\nO estudo destaca ainda a relação crítica entre TB e HIV, especialmente na África Subsaariana, onde a coinfecção acelera a progressão da doença e reduz a eficácia das terapias padrão. Embora alguns países tenham avançado com estratégias combinadas de tratamento antirretroviral e prevenção da TB, a lacuna nos dados de resistência medicamentosa em muitos territórios impede uma avaliação precisa do impacto dessas intervenções. Além disso, a pandemia de COVID-19 interrompeu serviços essenciais de diagnóstico e tratamento da TB, potencialmente revertendo anos de progresso em países com sistemas de saúde frágeis.\n\nEntre as limitações do estudo, os autores apontam a dependência de modelos estatísticos para regiões com sistemas de vigilância incompletos e a ausência de dados padronizados sobre a carga de MDR-TB em vários países de baixa e média renda. Como próximos passos, os pesquisadores recomendam o fortalecimento dos sistemas de monitoramento global, o investimento em tecnologias de diagnóstico rápido e a integração de estratégias de saúde pública para combater a TB e a MDR-TB de forma coordenada. A manutenção do financiamento internacional e a colaboração entre governos, organizações não governamentais e setor privado são essenciais para reverter o atual cenário e atingir as metas estabelecidas pela OMS.\n\n---\n\nTuberculosis (TB) remains the leading cause of death from a single infectious agent worldwide, a challenge exacerbated by recent reductions in global health funding. A study published in *The Lancet Infectious Diseases*, drawing on data from the *Global Burden of Disease Study (GBD) 2023*, provides a comprehensive analysis of the global, regional, and national burden of TB, HIV-related TB, and multidrug-resistant TB (MDR-TB) from 1990 to 2023. The research, which covers 204 countries and territories, evaluates progress toward the WHO *End TB Strategy* targets—a 95% reduction in deaths and a 90% reduction in incidence by 2035, compared to 2015 levels.\n\nEmploying the *Cause of Death Ensemble modelling* (CODEm) framework alongside global vital registration data, epidemiological surveillance, verbal autopsies, and minimally invasive tissue sampling, the researchers quantified TB mortality. For morbidity estimation, a simultaneous model of incidence, prevalence, and disability was applied, synthesizing data from 1,189 studies and estimates spanning 1980 to 2023. Findings indicate a declining global trend in TB incidence and mortality since 2000, yet the current pace falls short of achieving WHO targets. MDR-TB poses a growing challenge, with high resistance rates in Eastern Europe and parts of Asia, where access to diagnostics and treatment remains limited.\n\nThe study underscores the critical interplay between TB and HIV, particularly in Sub-Saharan Africa, where co-infection accelerates disease progression and undermines standard therapies. While some countries have made strides with combined antiretroviral and TB prevention strategies, gaps in drug resistance data across many regions hinder accurate impact assessments. The COVID-19 pandemic further disrupted essential TB services, potentially reversing years of progress in health systems already under strain.\n\nKey limitations include reliance on statistical models for regions with incomplete surveillance systems and the lack of standardized data on MDR-TB burden in several low- and middle-income countries. Moving forward, the researchers emphasize the need to strengthen global monitoring systems, invest in rapid diagnostic technologies, and integrate public health strategies to combat TB and MDR-TB more effectively. Sustained international funding and collaboration among governments, NGOs, and the private sector are critical to reversing the current trajectory and meeting WHO targets.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42385762",
-    "authors": [
-      {
-        "name": "Jorge R Ledesma",
-        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA."
-      },
-      {
-        "name": "Meixin Zhang",
-        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA."
-      },
-      {
-        "name": "Mei Fong Liew",
-        "affiliation": "Division or Respiratory &amp; Critical Care Medicine, Alexandra Hospital, Singapore, Singapore; Department of Medicine, Singapore, Singapore."
-      },
-      {
-        "name": "Regina-Mae Villanueva Dominguez",
-        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA."
-      }
-    ],
-    "journal": "The Lancet. Infectious diseases",
-    "publishedDate": "2026-07-01",
-    "fetchedDate": "2026-07-02",
-    "category": "Infectologia",
-    "tags": [
-      "hiv",
-      "drug"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42059872",
-    "pmid": "42059872",
-    "doi": "10.1080/17425247.2026.2668677",
-    "title": "Targeting the brain: alternative administration routes and drug delivery systems for antidepressant therapy.",
-    "titlePt": "Targeting the brain: alternative administration routes and drug delivery systems for antidepressant therapy.",
-    "abstract": "Although numerous antidepressants are clinically available, they are characterized by slow therapeutic onset, systemic effects, and limited brain exposure, which is restricted by the blood-brain barrier (BBB). Alternative administration routes namely intranasal, ocular, and intratympanic delivery, are emerging as promising strategies for a direct drug targeting of the central nervous system. Data were obtained from PubMed, Web of Science, Scopus, and regulatory agencies, 2010-2025. Intranasal route enables rapid brain delivery through the olfactory and trigeminal pathways, bypassing the BBB and avoiding systemic degradation. Ocular delivery allows drugs to reach the retina and optic nerve, providing access to deeper brain structures, while intratympanic route facilitates drug passage into the inner ear and subsequently into the cerebrospinal fluid through its connection to the cochlear perilymph, circumventing the BBB. Innovative drug delivery systems have the potential to enhance drug",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nPesquisadores destacam que, apesar da disponibilidade de diversos antidepressivos no mercado, esses tratamentos ainda enfrentam limitações significativas, como início lento de ação, efeitos sistêmicos indesejáveis e baixa exposição cerebral devido à barreira hematoencefálica (BHE). Um estudo publicado no *Journal of Drug Targeting* propõe abordagens alternativas de administração e sistemas inovadores de veiculação de fármacos como estratégias promissoras para contornar esses desafios. A revisão, que analisou publicações entre 2010 e 2025 nas bases PubMed, Web of Science e Scopus, além de dados de agências reguladoras, avalia três vias de administração não convencionais: intranasal, ocular e intratimpânica.\n\nA via intranasal emerge como uma opção viável por permitir a entrega rápida de medicamentos ao cérebro por meio dos trajetos olfatório e trigeminal, dispensando a passagem pela BHE e reduzindo a degradação sistêmica. Já a administração ocular possibilita que substâncias alcancem a retina e o nervo óptico, com potencial de acesso a estruturas cerebrais profundas. Por sua vez, a via intratimpânica facilita a passagem de fármacos para a orelha interna e, subsequentemente, para o líquido cefalorraquidiano, graças à conexão com a perilinfa coclear, que contorna a BHE. Embora os sistemas de liberação inovadores demonstrem potencial para otimizar a eficácia terapêutica, os autores ressaltam que ainda não há consenso sobre protocolos padronizados ou perfis de segurança consolidados para essas rotas.\n\nOs achados sugerem que essas estratégias poderiam reduzir o tempo de latência dos antidepressivos e minimizar efeitos adversos sistêmicos, como disfunções gastrointestinales ou ganho de peso associados aos fármacos convencionais. No entanto, a revisão não fornece dados quantitativos específicos sobre a eficácia comparativa ou a viabilidade clínica dessas vias. Os próximos passos incluem estudos clínicos randomizados para validar a segurança e a bioequivalência dessas abordagens, bem como o desenvolvimento de tecnologias de liberação controlada adaptadas a cada via de administração.\n\n---\n\n**English version**\n\nResearchers emphasize that despite the availability of multiple antidepressants, these treatments still face significant limitations, including delayed therapeutic onset, systemic side effects, and restricted brain exposure due to the blood-brain barrier (BBB). A study published in the *Journal of Drug Targeting* explores alternative administration routes and innovative drug delivery systems as promising strategies to overcome these challenges. The review, which analyzed publications from 2010 to 2025 across PubMed, Web of Science, Scopus, and regulatory databases, evaluates three unconventional delivery pathways: intranasal, ocular, and intratympanic.\n\nIntranasal administration stands out as a viable option by enabling rapid drug delivery to the brain via the olfactory and trigeminal pathways, bypassing the BBB and reducing systemic degradation. Ocular delivery, in turn, allows substances to reach the retina and optic nerve, potentially accessing deeper brain structures. Meanwhile, intratympanic administration facilitates drug passage into the inner ear and subsequently into the cerebrospinal fluid through its connection to the cochlear perilymph, circumventing the BBB. Although innovative delivery systems show promise in enhancing therapeutic efficacy, the authors note that standardized protocols and consolidated safety profiles for these routes remain undefined.\n\nThe findings suggest these strategies could shorten antidepressant latency periods and minimize systemic adverse effects, such as gastrointestinal dysfunction or weight gain commonly associated with conventional drugs. However, the review does not provide quantitative data on comparative efficacy or clinical feasibility. Future steps include randomized clinical trials to validate safety and bioequivalence, as well as the development of controlled-release technologies tailored to each administration route.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42059872",
-    "authors": [
-      {
-        "name": "In&#xea;s Figueiredo",
-        "affiliation": "Laboratory of Pharmacology, Faculty of Pharmacy, University of Coimbra, Coimbra, Portugal."
-      },
-      {
-        "name": "Joana Bicker",
-        "affiliation": "Laboratory of Pharmacology, Faculty of Pharmacy, University of Coimbra, Coimbra, Portugal."
-      },
-      {
-        "name": "Carla Vitorino",
-        "affiliation": "CIBIT - Coimbra Institute for Biomedical Imaging and Translational Research, University of Coimbra, Coimbra, Portugal."
-      },
-      {
-        "name": "Ana C Fortuna",
-        "affiliation": "Laboratory of Pharmaceutical Technology, Faculty of Pharmacy, University of Coimbra, Coimbra, Portugal."
-      }
-    ],
-    "journal": "Expert opinion on drug delivery",
-    "publishedDate": "2026-07-01",
-    "fetchedDate": "2026-07-01",
-    "category": "Farmacologia",
-    "tags": [
-      "brain",
-      "rna",
-      "drug",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41747244",
-    "pmid": "41747244",
-    "doi": "10.1158/2159-8290.CD-25-1907",
-    "title": "A Circulating GPNMB-Based Multimodal Model Integrates Tumor-Immune Crosstalk to Predict Immunotherapy Response in Esophageal Cancer.",
-    "titlePt": "A Circulating GPNMB-Based Multimodal Model Integrates Tumor-Immune Crosstalk to Predict Immunotherapy Response in Esophageal Cancer.",
-    "abstract": "Neoadjuvant immunotherapy improves outcomes in esophageal squamous cell carcinoma (ESCC), yet &#x223c;70% of patients fail to respond. Pretreatment biopsies and plasma provide critical opportunities for biomarker discovery. In this study, we performed plasma proteomic profiling and identified soluble glycoprotein nonmetastatic melanoma protein B (sGPNMB) as the most elevated circulating protein in nonresponders. Mechanistically, tumor cell-derived sGPNMB suppressed CD8+ T-cell receptor signaling via the SDC4-CD148 axis to induce functional exhaustion, with secretion being required for its immunosuppressive activity. Cancer-associated fibroblast-epithelial (CAF-Epi) niches promoted SOX2 upregulation in tumor cells, transcriptionally activating GPNMB expression. In humanized patient-derived xenograft models, circulating GPNMB levels predicted response to PD-1 blockade, and GPNMB inhibition synergized with therapy. Across retrospective cohorts and a prospective clinical trial, a multimoda",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo estudo publicado no *Cancer Discovery* (DOI: 10.1158/2159-8290.CD-25-1907) identificou um biomarcador circulante promissor para prever a resposta à imunoterapia em pacientes com câncer de esôfago do tipo carcinoma de células escamosas (ESCC). A pesquisa, conduzida por cientistas da área de oncologia translacional, revela que a proteína GPNMB solúvel (sGPNMB) está significativamente elevada em pacientes não respondedores ao tratamento pré-operatório com inibidores de PD-1, sugerindo seu potencial como ferramenta não invasiva para estratificar pacientes antes da terapia.\n\nOs autores utilizaram perfis proteômicos de plasma e modelos pré-clínicos humanizados para elucidar mecanismos imunossupressores mediados por GPNMB. Os resultados demonstram que a proteína, secretada por células tumorais, suprime a sinalização do receptor de células T CD8+ via interação com o complexo SDC4-CD148, induzindo exaustão funcional dessas células imunes. Além disso, nichos de fibroblastos associados ao câncer (CAFs) promoveram a superexpressão de GPNMB nas células tumorais por meio da ativação transcricional mediada por SOX2. Em modelos de xenoenxerto derivados de pacientes, níveis circulantes de GPNMB correlacionaram-se com a resposta ao bloqueio de PD-1, e a inibição farmacológica de GPNMB demonstrou sinergismo terapêutico.\n\nA validade clínica do modelo multimodal proposto foi avaliada em coortes retrospectivas e em um ensaio prospectivo não especificado no resumo. Embora os achados sejam promissores para personalizar estratégias imunoterapêuticas em ESCC, os pesquisadores destacam a necessidade de estudos adicionais para validar a reprodutibilidade do biomarcador em populações diversificadas e explorar sua aplicabilidade em outros tipos de câncer.\n\n---\n\n**English version**\n\nA groundbreaking study published in *Cancer Discovery* (DOI: 10.1158/2159-8290.CD-25-1907) has identified a circulating biomarker with potential to predict immunotherapy response in patients with esophageal squamous cell carcinoma (ESCC). Conducted by translational oncology researchers, the study demonstrates that soluble glycoprotein nonmetastatic melanoma protein B (sGPNMB) is significantly elevated in non-responders to neoadjuvant PD-1 blockade, offering a non-invasive approach for patient stratification prior to treatment.\n\nThe team employed plasma proteomic profiling and humanized pre-clinical models to elucidate GPNMB-mediated immunosuppressive mechanisms. Findings reveal that tumor cell-derived sGPNMB suppresses CD8+ T-cell receptor signaling through interaction with the SDC4-CD148 axis, driving functional exhaustion of cytotoxic T cells. Additionally, cancer-associated fibroblast-epithelial (CAF-Epi) niches promoted SOX2-driven transcriptional activation of GPNMB in tumor cells. In patient-derived xenograft models, circulating GPNMB levels correlated with response to PD-1 inhibition, and pharmacologic GPNMB blockade showed synergistic effects with therapy.\n\nThe clinical utility of the proposed multimodal model was evaluated in retrospective cohorts and a prospective clinical trial, though specifics of the latter were not detailed in the abstract. While results are promising for personalizing immunotherapy in ESCC, the researchers emphasize the need for further validation to assess biomarker reproducibility across diverse populations and its potential applicability in other malignancies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41747244",
-    "authors": [
-      {
-        "name": "Liang Zhu",
-        "affiliation": "Department of Etiology and Carcinogenesis, National Cancer Center/National Clinical Research Center/Cancer Hospital, Chinese Academy of Medical Sciences (CAMS) and Peking Union Medical College (PUMC), Beijing, China.https://ror.org/02drdmm93"
-      },
-      {
-        "name": "Xiaoyuan Wang",
-        "affiliation": "Key Laboratory of Cancer Genomic Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.https://ror.org/02drdmm93"
-      },
-      {
-        "name": "Guoyu Cheng",
-        "affiliation": "Department of Thoracic Surgery, Harbin Medical University Cancer Hospital, Harbin, China."
-      },
-      {
-        "name": "Yancheng Lai",
-        "affiliation": "Department of Etiology and Carcinogenesis, National Cancer Center/National Clinical Research Center/Cancer Hospital, Chinese Academy of Medical Sciences (CAMS) and Peking Union Medical College (PUMC), Beijing, China.https://ror.org/02drdmm93"
-      }
-    ],
-    "journal": "Cancer discovery",
-    "publishedDate": "2026-07-01",
-    "fetchedDate": "2026-07-01",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "carcinoma",
-      "immunotherapy",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42384380",
-    "pmid": "42384380",
-    "doi": "10.1001/jamanetworkopen.2026.21305",
-    "title": "Long-Term Health Care Utilization Costs of GLP-1RA Use vs Bariatric Metabolic Surgery.",
-    "titlePt": "Long-Term Health Care Utilization Costs of GLP-1RA Use vs Bariatric Metabolic Surgery.",
-    "abstract": "Obesity and type 2 diabetes are major global health concerns associated with substantial clinical and economic burdens. Bariatric metabolic surgery (BMS) and glucagon-like peptide-1 receptor agonists (GLP-1RAs) are effective interventions, but their long-term impact on health care utilization costs remains incompletely understood. To compare short- and long-term health care utilization costs among patients with obesity and diabetes treated with GLP-1RAs vs those who underwent BMS. This observational, retrospective cohort study used electronic medical records from Clalit Health Services, the largest health care organization in Israel. Adults (aged &#x2265;24 years) with obesity (body mass index [BMI] &#x2265;30) and diabetes who underwent their first BMS or initiated GLP-1RA therapy between January 1, 2010, and December 31, 2022, were identified. Propensity score matching yielded 2721 matched pairs, who were followed up for up to 12.5 years (mean [SD], 6.5 [3.5] years), through December",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *JAMA Network Open* comparou os custos de utilização de saúde a longo prazo entre pacientes com obesidade e diabetes tipo 2 tratados com agonistas do receptor de GLP-1 (GLP-1RAs) e aqueles submetidos à cirurgia metabólica bariátrica (CMB). A pesquisa, baseada em registros médicos eletrônicos do maior sistema de saúde de Israel, revelou que, ao longo de até 12,5 anos de acompanhamento, os custos totais com saúde foram significativamente menores no grupo de CMB em comparação ao grupo tratado com GLP-1RAs.\n\nO estudo analisou dados de 2.721 pares de pacientes pareados por escore de propensão, com idade igual ou superior a 24 anos, IMC ≥30 kg/m² e diagnóstico de diabetes. Os participantes haviam iniciado terapia com GLP-1RAs ou realizado CMB entre 2010 e 2022. Embora ambos os tratamentos tenham demonstrado eficácia na redução de peso e melhora do controle glicêmico, os custos associados a internações, medicamentos e consultas foram consistentemente inferiores no grupo de CMB, especialmente após os primeiros cinco anos de acompanhamento. Os autores destacam que a CMB pode representar uma estratégia mais econômica a longo prazo, embora reconheçam que fatores como acesso, preferências do paciente e perfil clínico devam ser considerados na escolha terapêutica.\n\nEntre as limitações do estudo, os pesquisadores apontam o delineamento observacional retrospectivo, que não permite estabelecer causalidade, e a ausência de dados sobre custos indiretos, como absenteísmo laboral. Além disso, o estudo foi conduzido em um sistema de saúde específico, o que pode limitar a generalização dos resultados para outras populações. Os próximos passos incluem análises estratificadas por subgrupos e a avaliação de desfechos específicos, como complicações cardiovasculares e renais, para elucidar ainda mais os benefícios comparativos desses tratamentos.\n\n---\n\n**English version**\n\nA recent study published in *JAMA Network Open* compared long-term healthcare utilization costs between patients with obesity and type 2 diabetes treated with glucagon-like peptide-1 receptor agonists (GLP-1RAs) and those who underwent bariatric metabolic surgery (BMS). Based on electronic medical records from Israel’s largest health care system, the research found that total healthcare costs were significantly lower in the BMS group over up to 12.5 years of follow-up compared to the GLP-1RA group.\n\nThe study analyzed data from 2,721 propensity score-matched pairs of patients aged 24 years or older with a BMI of 30 kg/m² or higher and a diabetes diagnosis. Participants had either initiated GLP-1RA therapy or undergone BMS between 2010 and 2022. While both treatments effectively reduced weight and improved glycemic control, healthcare-associated costs—including hospitalizations, medications, and outpatient visits—were consistently lower in the BMS group, particularly after the first five years of follow-up. The authors suggest that BMS may be a more cost-effective long-term strategy, though they acknowledge that factors such as access, patient preferences, and clinical profiles should guide treatment decisions.\n\nThe study’s limitations include its retrospective observational design, which precludes causal inference, and the lack of data on indirect costs, such as work absenteeism. Additionally, the findings are based on a single health care system, which may limit generalizability to other populations. Future research should include subgroup analyses and evaluations of specific outcomes—such as cardiovascular and renal complications—to further clarify the comparative benefits of these treatments.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42384380",
-    "authors": [
-      {
-        "name": "Yael Wolff Sagy",
-        "affiliation": "Branch of Planning and Strategy, Clalit Health Services, Tel Aviv, Israel."
-      },
-      {
-        "name": "Eitan Ernest Winter",
-        "affiliation": "Branch of Planning and Strategy, Clalit Health Services, Tel Aviv, Israel."
-      },
-      {
-        "name": "Wiessam Abu Ahmad",
-        "affiliation": "Branch of Planning and Strategy, Clalit Health Services, Tel Aviv, Israel."
-      },
-      {
-        "name": "Erez Battat",
-        "affiliation": "Braun School of Public Health, Hebrew University-Hadassah, Jerusalem, Israel."
-      }
-    ],
-    "journal": "JAMA network open",
-    "publishedDate": "2026-07-01",
-    "fetchedDate": "2026-07-01",
-    "category": "Endocrinologia",
-    "tags": [
-      "diabetes",
-      "metabolic",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
