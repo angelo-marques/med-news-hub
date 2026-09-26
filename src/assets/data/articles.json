@@ -1,5 +1,250 @@
 [
   {
+    "id": "pubmed-42796561",
+    "pmid": "42796561",
+    "doi": "10.3390/molecules31183274",
+    "title": "Small-Molecule NANT Therapeutics Targeting the Brain-Immune Axis in Alzheimer's Disease: Mechanisms, Clinical Progress, and Translational Challenges.",
+    "titlePt": "Small-Molecule NANT Therapeutics Targeting the Brain-Immune Axis in Alzheimer's Disease: Mechanisms, Clinical Progress, and Translational Challenges.",
+    "abstract": "Alzheimer's disease (AD) is now widely accepted as a complex disorder involving multiple interconnected pathological processes. Increasing evidence suggest that neuroinflammation and immune system dysregulation actively contribute to neurodegeneration, extending beyond the traditional view that the disease is driven solely by amyloid-&#x3b2; (A&#x3b2;) and tau pathology. With the advent of studies showing anti-amyloid antibodies to have only modest effects with significant toxicity, there has been a growing interest in investigating non-amyloid non-tau (NANT) treatment approaches. This review provided a general review of small molecules for neuroinflammation-based NANT therapies in AD. We reviewed several agents that affect the brain/immune axis, namely, kinase inhibitors (nelflamaimod and masitinib), NLRP3 inflammasome inhibitors (MCC950, selnoflast, and dapansutrile), TREM2 activators (VG-3927), gingipain inhibitors, PPAR&#x3b3; activators, KCa3.1 inhibitors, and repurposed drugs suc",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42796561",
+    "authors": [
+      {
+        "name": "Niti Sharma",
+        "affiliation": "Lab of Aging-Related Diseases, Bionano Research Institute, Gachon University, Seongnam-si 461-701, Republic of Korea."
+      },
+      {
+        "name": "Seong Soo A An",
+        "affiliation": "Lab of Aging-Related Diseases, Bionano Research Institute, Gachon University, Seongnam-si 461-701, Republic of Korea."
+      }
+    ],
+    "journal": "Molecules (Basel, Switzerland)",
+    "publishedDate": "2026-09-26",
+    "fetchedDate": "2026-09-26",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "alzheimer",
+      "gene",
+      "drug",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2pFoRq-2kFHot-a411b155696cf4ef\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 381bc7df-7963-46c9-bfe0-404fedde20f2)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42798087",
+    "pmid": "42798087",
+    "doi": "10.1097/MD.0000000000050831",
+    "title": "Early versus late therapeutic plasma exchange in sepsis and septic shock: A retrospective observational study of 28-day mortality and biomarker trajectories.",
+    "titlePt": "Early versus late therapeutic plasma exchange in sepsis and septic shock: A retrospective observational study of 28-day mortality and biomarker trajectories.",
+    "abstract": "Sepsis involves dynamic inflammatory and endothelial responses, and the timing of extracorporeal therapies such as therapeutic plasma exchange (TPE) may influence clinical outcomes. However, the optimal timing of TPE remains unclear. This retrospective single-center observational study included adult patients with sepsis or septic shock who underwent TPE in the intensive care unit between January 1, 2017 and August 1, 2025. Patients were categorized as early (&#x2264; 48 hours after diagnosis) or late (&gt; 48 hours). The primary outcome was 28-day mortality. Secondary analyses evaluated longitudinal changes in biomarkers and laboratory parameters. Eighty-eight patients were included (early n&#x2005;=&#x2005;39; late n&#x2005;=&#x2005;49). Overall 28-day mortality was 40.9% (36/88). Kaplan-Meier analysis demonstrated no significant difference in 28-day survival between the groups (log-rank P&#x2005;=&#x2005;.91). In multivariable Cox regression adjusted for Sequential Organ Failure Ass",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42798087",
+    "authors": [
+      {
+        "name": "Dicle Birtane",
+        "affiliation": "Department of Anesthesiology and Reanimation Intensive Care, Bakirk&#xf6;y Dr Sadi Konuk Training and Research Hospital, Istanbul, T&#xfc;rkiye."
+      },
+      {
+        "name": "Damla &#xd6;zmen D&#xf6;nmezler",
+        "affiliation": "Department of Anesthesiology and Reanimation, Abdulkadir Y&#xfc;ksel Government Hospital, Gaziantep, T&#xfc;rkiye."
+      },
+      {
+        "name": "Fatma &#xd6;zdemir",
+        "affiliation": "Department of Anesthesiology and Reanimation Intensive Care, Bakirk&#xf6;y Dr Sadi Konuk Training and Research Hospital, Istanbul, T&#xfc;rkiye."
+      },
+      {
+        "name": "Zafer &#xc7;ukurova",
+        "affiliation": "Department of Anesthesiology and Reanimation Intensive Care, Bakirk&#xf6;y Dr Sadi Konuk Training and Research Hospital, Istanbul, T&#xfc;rkiye."
+      }
+    ],
+    "journal": "Medicine",
+    "publishedDate": "2026-09-26",
+    "fetchedDate": "2026-09-26",
+    "category": "Infectologia",
+    "tags": [
+      "sepsis",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2pGGa1-2kFHot-a411b3901f1969c1\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 4f83af43-7b71-4b37-9992-b04bcaeed8be)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42779880",
+    "pmid": "42779880",
+    "doi": "10.21203/rs.3.rs-10935317/v1",
+    "title": "Relative efficacy, safety and immunogenicity of bivalent versus monovalent COVID-19 mRNA booster vaccines: a randomized trial.",
+    "titlePt": "Relative efficacy, safety and immunogenicity of bivalent versus monovalent COVID-19 mRNA booster vaccines: a randomized trial.",
+    "abstract": "The relative efficacy, safety, and immunogenicity of monovalent mRNA-1273 (ancestral WA1) versus bivalent mRNA-1273.222 (ancestral plus omicron BA.4/BA.5) boosting have not been studied prospectively where HIV and SARS-CoV-2 seroprevalence are high. CoVPN 3008 (NCT05168813) was a randomized, double-blinded trial in seven African countries during omicron waves, enrolling people with HIV (PWH) or comorbidities associated with severe COVID-19 who had previously received mRNA-1273. Participants were randomized 1:1 to intramuscular monovalent or bivalent booster and routinely PCR-tested for SARS-CoV-2. Between 10/2022 and 03/2023, 3,988 participants (3,086 PWH) received bivalent (n=2012) or monovalent (n=1976) booster. By month 12, 293 COVID-19 cases and 221 asymptomatic infections occurred, including one severe case. COVID-19 rates did not differ between arms (hazard ratio [HR] 0.92, 95% CI 0.73-1.15, P=0.45). Combined COVID-19 and asymptomatic infection was 15% lower with the bivalent (23",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779880",
+    "authors": [
+      {
+        "name": "Sufia Dadabhai",
+        "affiliation": "Johns Hopkins Research Project, Johns Hopkins Bloomberg School of Public Health, Blantyre, Malawi."
+      },
+      {
+        "name": "Taraz Samandari",
+        "affiliation": "Department of Microbial Pathogenesis &amp; Immunology, College of Medicine, Texas A&amp;M, College Station, USA."
+      },
+      {
+        "name": "Bo Zhang",
+        "affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Center, Seattle, USA."
+      },
+      {
+        "name": "Aaron Hudson",
+        "affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Center, Seattle, USA."
+      }
+    ],
+    "journal": "Research square",
+    "publishedDate": "2026-09-26",
+    "fetchedDate": "2026-09-26",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "covid",
+      "sars",
+      "hiv",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2pGRNa-2kFHot-a411b4492c21f4ef\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 3296e500-4164-4b60-980f-be3db8545e65)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42797369",
+    "pmid": "42797369",
+    "doi": "10.3390/pharmaceutics18091194",
+    "title": "Population Pharmacokinetics and Extrapolation of NP-011 from Animal to Humans: A Novel Therapeutic Candidate Protein for Metabolic Dysfunction-Associated Steatohepatitis.",
+    "titlePt": "Population Pharmacokinetics and Extrapolation of NP-011 from Animal to Humans: A Novel Therapeutic Candidate Protein for Metabolic Dysfunction-Associated Steatohepatitis.",
+    "abstract": "Background/Objective: Metabolic dysfunction-associated steatohepatitis (MASH), an advanced stage of metabolic dysfunction-associated steatotic liver disease (MASLD), is characterized by progressive liver fibrosis and represents an important therapeutic target. NP-011 is a truncated recombinant human milk fat globule EGF factor 8 protein developed for the treatment of MASH-associated liver fibrosis. This study extrapolated the pharmacokinetics of NP-011 from animals to humans and retrospectively evaluated the predictions using Phase I clinical data. Methods: Population pharmacokinetic models were developed using plasma concentration-time data following the intravenous administration of NP-011 in mice, rats, and monkeys. Model performance was evaluated using goodness-of-fit diagnostics, visual predictive checks, and nonparametric bootstrap analyses. The human pharmacokinetic parameters were predicted using simple allometric scaling. The maximum lifespan potential-corrected scaling was ev",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42797369",
+    "authors": [
+      {
+        "name": "Hyunjung Lee",
+        "affiliation": "College of Pharmacy, Chungnam National University, Daejeon 34134, Republic of Korea."
+      },
+      {
+        "name": "Quyen Thi Tran",
+        "affiliation": "Department of Bio-AI Convergence, Chungnam National University, Daejeon 34134, Republic of Korea."
+      },
+      {
+        "name": "Bui Thi Tham",
+        "affiliation": "Faculty of Pharmacy, PHENIKAA University, Nguyen Trac, Duong Noi, Hanoi 12116, Vietnam."
+      },
+      {
+        "name": "Min-Kyoung Kim",
+        "affiliation": "Faculty of Pharmacy, Haiphong University of Medicine and Pharmacy, Haiphong 18000, Vietnam."
+      }
+    ],
+    "journal": "Pharmaceutics",
+    "publishedDate": "2026-09-26",
+    "fetchedDate": "2026-09-26",
+    "category": "Farmacologia",
+    "tags": [
+      "therapeutic",
+      "pharmacokinetics",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2pGgW2-2kFHot-a411b5874e68f7a3\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 99d68401-5b18-4849-aa78-1b70b7b763f5)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-41093158",
+    "pmid": "41093158",
+    "doi": "10.1016/j.hrthm.2025.10.011",
+    "title": "Impact of vagal effect on atrial and ventricular refractoriness and atrial fibrillation: A comparative analysis before and after cardioneuroablation.",
+    "titlePt": "Impact of vagal effect on atrial and ventricular refractoriness and atrial fibrillation: A comparative analysis before and after cardioneuroablation.",
+    "abstract": "Extracardiac vagal stimulation (ECVS) provides a simple, reproducible method to study human vagal effects. Although vagus nerve clearly modulates atrial electrophysiology, its influence on human ventricular refractoriness remains uncertain. Likewise, the impact of cardioneuroablation (CNA) on atrial and ventricular refractoriness has not been evaluated in a paired human study OBJECTIVE: This study aimed to quantify the impact of ECVS on atrial (AERP) and ventricular effective refractory periods (VERP) before and after CNA and evaluate a practical atrial fibrillation (AF) ablation functional endpoint. 89 consecutive patients were enrolled (76 paroxysmal AF undergoing pulmonary vein isolation plus CNA; 13 reflex syncope undergoing CNA alone). AERP and VERP were measured at 4 stages: baseline, during ECVS, after CNA, and after CNA during ECVS. AF inducibility was tested at each stage with a single extrastimulus (vagal AF induction test). ECVS produced marked AERP shortening (right atrium ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41093158",
+    "authors": [
+      {
+        "name": "Jose Carlos Pachon-M",
+        "affiliation": "S&#xe3;o Paulo University, S&#xe3;o Paulo, Brazil; S&#xe3;o Paulo Heart Hospital, S&#xe3;o Paulo, Brazil. Electronic address: pachon@usp.br."
+      },
+      {
+        "name": "Enrique I Pachon-M",
+        "affiliation": "S&#xe3;o Paulo University, S&#xe3;o Paulo, Brazil; S&#xe3;o Paulo Heart Hospital, S&#xe3;o Paulo, Brazil."
+      },
+      {
+        "name": "Carlos Thiene C Pachon",
+        "affiliation": "S&#xe3;o Paulo Heart Hospital, S&#xe3;o Paulo, Brazil."
+      },
+      {
+        "name": "Tomas G Santillana-P",
+        "affiliation": "S&#xe3;o Paulo Heart Hospital, S&#xe3;o Paulo, Brazil."
+      }
+    ],
+    "journal": "Heart rhythm",
+    "publishedDate": "2026-09-25",
+    "fetchedDate": "2026-09-26",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2pFk4A-2kFHot-a411b10e88fd9dfc\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: e5a3710e-6201-4f66-86b8-d94e9d24befd)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42790449",
+    "pmid": "42790449",
+    "doi": "10.1016/S1470-2045(26)00432-8",
+    "title": "Global uptake of essential cancer medicines with and without complex genomic diagnostics: a retrospective observational study.",
+    "titlePt": "Global uptake of essential cancer medicines with and without complex genomic diagnostics: a retrospective observational study.",
+    "abstract": "New cancer medicines increasingly depend on molecular testing, from low-cost immunohistochemistry to expensive genomic diagnostics. The WHO Model List of Essential Medicines (EML) guides access to priority medicines. We aimed to analyse uptake trends for essential cancer medicines in 71 countries and two world regions with lower, middle, and high gross domestic product (GDP) per capita, distinguishing medicines that require immunohistochemistry, complex genomic diagnostics, or neither. In this retrospective observation study, we identified all cancer medicines newly included in the EML between 2002 and 2023 and categorised them into those for which immunohistochemistry is indicated, those for which complex genomics is indicated, and those for which neither immunohistochemistry or complex genomics is indicated. Uptake quantities for each medicine were extracted at the country-level from IQVIA MIDAS (Jan 1, 2002, to Dec 31, 2023). Given limited IQVIA coverage of low-income countries per ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42790449",
+    "authors": [
+      {
+        "name": "Kerstin Noelle Vokinger",
+        "affiliation": "Academic Chair for Regulation in Law, Medicine and Technology, Faculty of Law, University of Zurich, Zurich, Switzerland; Academic Chair for Regulation in Law, Medicine and Technology, Department of Health Sciences and Technology, ETH Zurich, Zurich, Switzerland. Electronic address: lst.vokinger@ius.uzh.ch."
+      },
+      {
+        "name": "Simon Hediger",
+        "affiliation": "Academic Chair for Regulation in Law, Medicine and Technology, Faculty of Law, University of Zurich, Zurich, Switzerland; Academic Chair for Regulation in Law, Medicine and Technology, Department of Health Sciences and Technology, ETH Zurich, Zurich, Switzerland."
+      },
+      {
+        "name": "Raffaella Casolino",
+        "affiliation": "School of Cancer Science, University of Glasgow, Glasgow, UK."
+      },
+      {
+        "name": "Dario Trapani",
+        "affiliation": "European Institute of Oncology, IRCCS, Milan, Italy."
+      }
+    ],
+    "journal": "The Lancet. Oncology",
+    "publishedDate": "2026-09-25",
+    "fetchedDate": "2026-09-26",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "genomic"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2pFziy-2kFHot-a411b242f8dd9dfc\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: c103dea4-1e5d-44ac-a729-882a08709b4a)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42142855",
     "pmid": "42142855",
     "doi": "10.1016/j.hrthm.2026.05.018",
@@ -12359,263 +12604,6 @@
       "oncology",
       "leukemia",
       "immunotherapy"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42387943",
-    "pmid": "42387943",
-    "doi": "10.1111/jog.70393",
-    "title": "Association Between Serum Vitamin D Levels and Insulin Resistance in Women With Polycystic Ovary Syndrome: A Systematic Review and Meta-Analysis.",
-    "titlePt": "Association Between Serum Vitamin D Levels and Insulin Resistance in Women With Polycystic Ovary Syndrome: A Systematic Review and Meta-Analysis.",
-    "abstract": "Vitamin D deficiency has been proposed as a potential contributor to insulin resistance (IR) in polycystic ovary syndrome (PCOS); however, the evidence remains inconclusive. This meta-analysis evaluated the association between serum 25-hydroxyvitamin D [25(OH)D] and IR in PCOS. We systematically searched PubMed, Embase, Web of Science, and Cochrane Library up to December 2025 for observational studies reporting correlations of 25(OH)D with IR indices (HOMA-IR/fasting insulin) in women with PCOS. Pooled correlation coefficients (r) with 95% confidence intervals (CI) were calculated using random-effects models. Fourteen studies involving 1856 women with PCOS were included. A significant inverse correlation was found between serum 25(OH)D and IR (pooled r&#x2009;=&#x2009;-0.32, 95% CI: -0.40 to -0.23; p&#x2009;&lt;&#x2009;0.001; I2&#x2009;=&#x2009;58%). Subgroup analyses revealed stronger associations in overweight/obese women (r&#x2009;=&#x2009;-0.35) and in Asian populations (r&#x2009;=",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recém-publicado na *Journal of Obstetrics and Gynaecology* reforça a hipótese de que níveis séricos reduzidos de vitamina D estão associados à resistência à insulina em mulheres com síndrome dos ovários policísticos (SOP). A meta-análise, que incluiu 14 estudos envolvendo 1.856 participantes, identificou uma correlação inversa significativa entre os níveis de 25-hidroxivitamina D [25(OH)D] e marcadores de resistência insulínica, como o HOMA-IR e a insulina de jejum. Os dados, analisados por modelos de efeitos aleatórios, revelaram um coeficiente de correlação agrupado de -0,32 (IC 95%: -0,40 a -0,23; *p* < 0,001), indicando que, quanto menores os níveis de vitamina D, maior a resistência à insulina nessa população.\n\nOs achados foram consistentes em subgrupos específicos: mulheres com sobrepeso ou obesidade apresentaram uma correlação ainda mais forte (r = -0,35), assim como as participantes de origem asiática (r = -0,37). Embora o estudo não tenha avaliado causalidade, os resultados sugerem que a deficiência de vitamina D possa ser um fator agravante no perfil metabólico de pacientes com SOP, condição já reconhecida por sua complexa inter-relação entre distúrbios endócrinos e metabólicos. Os autores destacam que a heterogeneidade entre os estudos (I² = 58%) e a ausência de padronização nos métodos de dosagem de vitamina D limitam a generalização dos achados.\n\nDo ponto de vista clínico, a identificação desse padrão reforça a importância da avaliação dos níveis de vitamina D em mulheres com SOP, especialmente naquelas com sobrepeso ou resistência insulínica comprovada. A suplementação de vitamina D emerge como uma estratégia potencialmente adjuvante, embora os protocolos de dosagem e a eficácia a longo prazo ainda necessitem de estudos randomizados controlados para serem validados. Além disso, a investigação de mecanismos fisiopatológicos subjacentes — como a modulação da sensibilidade à insulina por vias dependentes ou independentes de vitamina D — permanece como uma lacuna a ser explorada em pesquisas futuras.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Obstetrics and Gynaecology* provides further evidence linking low serum vitamin D levels to insulin resistance in women with polycystic ovary syndrome (PCOS). The meta-analysis, which included 14 studies involving 1,856 participants, found a significant inverse correlation between 25-hydroxyvitamin D [25(OH)D] levels and insulin resistance markers such as HOMA-IR and fasting insulin. Using random-effects models, the pooled correlation coefficient was -0.32 (95% CI: -0.40 to -0.23; *p* < 0.001), suggesting that lower vitamin D levels are associated with higher insulin resistance in this population.\n\nThe findings remained consistent across subgroups: overweight/obese women showed a stronger correlation (r = -0.35), as did participants from Asian populations (r = -0.37). While causality was not assessed, the results imply that vitamin D deficiency may exacerbate the metabolic profile in PCOS, a condition already characterized by intricate endocrine-metabolic interactions. The authors note that heterogeneity among studies (I² = 58%) and lack of standardized vitamin D measurement methods limit the generalizability of the findings.\n\nFrom a clinical perspective, these results underscore the relevance of assessing vitamin D levels in women with PCOS, particularly those with overweight or confirmed insulin resistance. Vitamin D supplementation emerges as a potentially beneficial adjunctive strategy, though optimal dosing regimens and long-term efficacy require validation through randomized controlled trials. Further research is also needed to elucidate underlying pathophysiological mechanisms—whether vitamin D directly modulates insulin sensitivity or acts through independent pathways—remains a critical unaddressed question.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42387943",
-    "authors": [
-      {
-        "name": "Qingmin Guo",
-        "affiliation": "Department of Obstetrics and Gynecology, Qinghai Provincial People's Hospital, Xining, Qinghai, China."
-      },
-      {
-        "name": "Ruiting Du",
-        "affiliation": "Department of Obstetrics and Gynecology, Qinghai Provincial People's Hospital, Xining, Qinghai, China."
-      },
-      {
-        "name": "Chunming Guo",
-        "affiliation": "Department of Acupuncture and Massage, Xining Hospital of Traditional Chinese Medicine, Xining, Qinghai, China."
-      },
-      {
-        "name": "Shujuan Ma",
-        "affiliation": "Department of Obstetrics and Gynecology, Qinghai Provincial People's Hospital, Xining, Qinghai, China."
-      }
-    ],
-    "journal": "The journal of obstetrics and gynaecology research",
-    "publishedDate": "2026-07-02",
-    "fetchedDate": "2026-07-02",
-    "category": "Endocrinologia",
-    "tags": [
-      "insulin"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42387574",
-    "pmid": "42387574",
-    "doi": "10.1186/s13036-026-00723-z",
-    "title": "Structure-function relationship in FGF signaling: rational design of highly stable FGF2 variants and their effect on cell growth, metabolism, and survival.",
-    "titlePt": "Structure-function relationship in FGF signaling: rational design of highly stable FGF2 variants and their effect on cell growth, metabolism, and survival.",
-    "abstract": "Fibroblast growth factor 2 (FGF2) is a canonical member of the fibroblast growth factor family with essential roles in embryonic development, tissue regeneration, and stem cell biology, where it supports pluripotency and high proliferative capacity. Consequently, FGF2 is widely used in experimental models of regeneration and stem cell maintenance; however, its rapid thermal degradation at physiological temperatures limits its practical utility and therapeutic potential. Despite the availability of stabilized variants, developing FGF2 analogs that combine exceptional thermodynamic resilience with favorable pharmacokinetic properties remains a critical challenge for stem cell research and regenerative medicine. Using a combination of consensus sequence analysis and structure-guided protein engineering, we generated novel FGF2 variants with unprecedented thermodynamic stability and optimized extracellular matrix interactions. To enhance bioavailability, we introduced mutations that reduce",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nPesquisadores desenvolveram variantes do fator de crescimento de fibroblasto 2 (FGF2) com estabilidade térmica sem precedentes e interações otimizadas com a matriz extracelular, avançando no desafio de contornar a rápida degradação térmica dessa proteína em temperaturas fisiológicas. O estudo, publicado no *BMC Systems Biology*, utilizou uma combinação de análise de sequência consenso e engenharia de proteínas guiada por estrutura para criar análogos do FGF2 com propriedades farmacocinéticas aprimoradas. Embora os autores não tenham detalhado as mutações específicas introduzidas, eles relatam que os novos variantes mantiveram atividade biológica enquanto apresentaram resistência térmica significativamente maior do que a proteína nativa.\n\nOs resultados in vitro demonstraram que as variantes estabilizadas promoveram crescimento celular, metabolismo e sobrevivência em modelos de manutenção de células-tronco e regeneração tecidual com eficiência superior ao FGF2 convencional. No entanto, o estudo não avaliou a eficácia dessas variantes em modelos animais ou ensaios clínicos, nem forneceu dados sobre a meia-vida in vivo ou possíveis efeitos imunogênicos. Os autores destacam que, apesar do potencial terapêutico, a aplicação clínica desses variantes ainda depende de validações adicionais, incluindo estudos de toxicidade e escalabilidade de produção.\n\nAs limitações incluem a ausência de caracterização detalhada das propriedades físico-químicas das variantes e a falta de comparação direta com outras abordagens de estabilização de FGF2 já descritas na literatura. Como próximos passos, os pesquisadores sugerem investigar a farmacodinâmica e farmacocinética dessas proteínas em sistemas biológicos complexos, bem como explorar sua aplicação em terapias baseadas em células-tronco ou engenharia de tecidos.\n\n---\n\n**Version in English**\n\nResearchers have engineered fibroblast growth factor 2 (FGF2) variants with unprecedented thermal stability and optimized extracellular matrix interactions, addressing a long-standing challenge in overcoming the rapid thermal degradation of this protein at physiological temperatures. The study, published in *BMC Systems Biology*, employed a combination of consensus sequence analysis and structure-guided protein engineering to create FGF2 analogs with improved pharmacokinetic properties. While the authors did not disclose the specific mutations introduced, they report that the stabilized variants retained biological activity while exhibiting significantly higher thermal resistance compared to the wild-type protein.\n\nIn vitro experiments demonstrated that the engineered variants enhanced cell growth, metabolism, and survival in stem cell maintenance and tissue regeneration models more effectively than conventional FGF2. However, the study did not evaluate the efficacy of these variants in animal models or clinical trials, nor did it provide data on in vivo half-life or potential immunogenic effects. The authors emphasize that, despite the therapeutic potential, clinical application of these variants requires further validation, including toxicity studies and scalability assessments.\n\nKey limitations include the lack of detailed characterization of the physicochemical properties of the variants and no direct comparison with other FGF2 stabilization strategies reported in the literature. Future directions suggested by the researchers involve investigating the pharmacodynamics and pharmacokinetics of these proteins in complex biological systems, as well as exploring their application in stem cell-based therapies or tissue engineering.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42387574",
-    "authors": [
-      {
-        "name": "Karolina Baran",
-        "affiliation": "Department of Protein Engineering, Faculty of Biotechnology, University of Wroclaw, Wroclaw, 50-383, Poland."
-      },
-      {
-        "name": "Adolf Koudelka",
-        "affiliation": "Department of Biology, Faculty of Medicine, Masaryk University, Brno, 62500, Czech Republic."
-      },
-      {
-        "name": "Katarzyna Kotowska",
-        "affiliation": "Department of Protein Engineering, Faculty of Biotechnology, University of Wroclaw, Wroclaw, 50-383, Poland."
-      },
-      {
-        "name": "Aleksandra A Czyrek",
-        "affiliation": "Department of Biology, Faculty of Medicine, Masaryk University, Brno, 62500, Czech Republic."
-      }
-    ],
-    "journal": "Journal of biological engineering",
-    "publishedDate": "2026-07-02",
-    "fetchedDate": "2026-07-02",
-    "category": "Genômica",
-    "tags": [
-      "gene",
-      "mutation",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41467421",
-    "pmid": "41467421",
-    "doi": "10.4103/NRR.NRR-D-25-00816",
-    "title": "Cell-based immunotherapy for neurodegenerative disease: A promising avenue.",
-    "titlePt": "Cell-based immunotherapy for neurodegenerative disease: A promising avenue.",
-    "abstract": "Neurodegenerative diseases such as amyotrophic lateral sclerosis, Alzheimer's disease, Parkinson's disease, and Huntington's disease are characterized by progressive neuronal loss and chronic neuroinflammation, with current treatments remaining largely symptomatic. This review explores the potential of cell-based immunotherapy as a disease-modifying strategy. Advances in stem cell biology and immune engineering have facilitated the development of therapies using mesenchymal stem cells, chimeric antigen receptor T cells, macrophages, regulatory T cells, modified macrophages, and monoclonal antibodies. These approaches aim to regulate immune mechanisms implicated in neurodegeneration, such as microglial activation, systemic inflammation, and immune checkpoint dysregulation. Notably, macrophage-mediated delivery systems, such as genetically modified cells expressing neurotrophic factors or antioxidant enzymes, have demonstrated neuroprotective effects. Likewise, emerging data support T-ce",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41467421",
-    "authors": [
-      {
-        "name": "Tomas J Huerta",
-        "affiliation": "Center for Integrative Biology, Universidad Mayor, Santiago, Chile."
-      },
-      {
-        "name": "Valentina Urbina-Mu&#xf1;oz",
-        "affiliation": "Center for Geroscience, Brain Health and Metabolism, Santiago, Chile."
-      },
-      {
-        "name": "Valentina Urra-Alvarez",
-        "affiliation": "Escuela Tecnolog&#xed;a M&#xe9;dica, Facultad de Medicina y Ciencias de la Salud, Universidad Mayor, Santiago, Chile."
-      },
-      {
-        "name": "Cristopher Villablanca",
-        "affiliation": "Center for Integrative Biology, Universidad Mayor, Santiago, Chile."
-      }
-    ],
-    "journal": "Neural regeneration research",
-    "publishedDate": "2026-07-01",
-    "fetchedDate": "2026-09-26",
-    "category": "Neurologia",
-    "tags": [
-      "immunotherapy",
-      "alzheimer",
-      "parkinson",
-      "genetic",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2o97Sk-2kFHot-a4107d2ffad6f7cf\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 4306ad2e-ed37-49f9-b076-0335a7ff7b4c)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-41467414",
-    "pmid": "41467414",
-    "doi": "10.4103/NRR.NRR-D-25-01091",
-    "title": "High mobility group box 1 and its post-translational modifications: Molecular mechanisms underlying neurodegenerative disease pathogenesis.",
-    "titlePt": "High mobility group box 1 and its post-translational modifications: Molecular mechanisms underlying neurodegenerative disease pathogenesis.",
-    "abstract": "High mobility group box 1 is a dynamic nuclear protein that acts as a damage-associated molecular pattern when released from cells and plays key roles in neurodegenerative diseases. This review comprehensively analyzes the related post-translational modifications that affect the dual functions of high mobility group box 1 in neuroinflammation and neuronal survival, including acetylation, phosphorylation, oxidation, S-nitrosylation, lactylation, and ubiquitination. Post-translational modifications play critical regulatory roles in high mobility group box 1 subcellular localization, release processes and the specificity of receptor binding. In Alzheimer's disease, high mobility group box 1 exacerbates the disease through the Toll-like receptor 4/nuclear factor kappa B signaling pathway. Inhibition of high mobility group box 1 acetylation can alleviate neuroinflammation. Parkinson's disease models indicate that the S-nitrosylation of Cys106 is essential for the secretion of high mobility ",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41467414",
-    "authors": [
-      {
-        "name": "Jun Li",
-        "affiliation": "Wuhan Pulmonary Hospital, Wuhan Institute for Tuberculosis Control, Wuhan, Hubei Province, China."
-      },
-      {
-        "name": "Naming Wu",
-        "affiliation": "Department of Dermatology, Renmin Hospital of Wuhan University, Wuhan, Hubei Province, China."
-      },
-      {
-        "name": "Yifan Xiao",
-        "affiliation": "Hubei Key Laboratory of Cognitive and Affective Disorders, Jianghan University, Wuhan, Hubei Province, China."
-      },
-      {
-        "name": "Yiyuan Xia",
-        "affiliation": "Department of Pathology and Pathophysiology, School of Medicine, Jianghan University, Wuhan, Hubei Province, China."
-      }
-    ],
-    "journal": "Neural regeneration research",
-    "publishedDate": "2026-07-01",
-    "fetchedDate": "2026-09-26",
-    "category": "Neurologia",
-    "tags": [
-      "alzheimer",
-      "parkinson",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2kwvcf-2kFHot-a40e1f561bf7349f\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 10a8b868-15ca-4de2-9d73-fa3bb784c1d7)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42386296",
-    "pmid": "42386296",
-    "doi": "10.1136/bmjopen-2026-120083",
-    "title": "Effect of the ligament of Marshall excision during minimally invasive cardiac surgery-coronary artery bypass grafting (MICS-CABG) on the prevention of postoperative new-onset atrial fibrillation (LOMEX-AF): study protocol for a randomised controlled trial.",
-    "titlePt": "Effect of the ligament of Marshall excision during minimally invasive cardiac surgery-coronary artery bypass grafting (MICS-CABG) on the prevention of postoperative new-onset atrial fibrillation (LOMEX-AF): study protocol for a randomised controlled trial.",
-    "abstract": "Postoperative atrial fibrillation (POAF) remains one of the most common complications following coronary artery bypass grafting (CABG), including minimally invasive cardiac surgery-CABG (MICS-CABG). The ligament of Marshall (LOM), containing myocardial fibres and rich autonomic innervation, has been implicated in atrial arrhythmogenesis. Despite evidence that catheter ablation targeting the LOM or surgical interruption during conventional CABG can be effective, prophylactic surgical excision of the LOM during MICS-CABG has not been evaluated in randomised controlled trials (RCTs). The Ligament of Marshall Excision for the Prevention of Postoperative New-Onset Atrial Fibrillation (LOMEX-AF) trial is a single-centre, prospective, triple-blind (participants, outcome assessors, statisticians) RCT. Adults 30-80 years scheduled for elective MICS-CABG who meet inclusion/exclusion criteria will be randomised to Standard MICS-CABG with posterior left pericardiotomy (control) or the same procedu",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nA fibrilação atrial pós-operatória (FAPO) continua sendo uma das complicações mais frequentes após a revascularização miocárdica, inclusive em procedimentos minimamente invasivos como a cirurgia de revascularização miocárdica por via minitorácica (MICS-CABG). Embora estudos anteriores tenham demonstrado que a ablação por cateter ou a interrupção cirúrgica do ligamento de Marshall (LOM) — estrutura que contém fibras miocárdicas e rica inervação autonômica — podem reduzir a incidência de arritmias atriais, nenhuma evidência robusta oriunda de ensaios clínicos randomizados (ECRs) avaliou a excisão profilática do LOM durante MICS-CABG.\n\nNesse contexto, o estudo *Ligament of Marshall Excision for the Prevention of Postoperative New-Onset Atrial Fibrillation* (LOMEX-AF) propõe-se a preencher essa lacuna. Trata-se de um ECR prospectivo, unicêntrico, com desenho triplo-cego (pacientes, avaliadores de desfechos e estatísticos), cujo objetivo é comparar a eficácia da excisão cirúrgica do LOM associada à MICS-CABG padrão — incluindo pericardiotomia posterior — versus a abordagem padrão isolada. Os participantes serão adultos com idade entre 30 e 80 anos, eletivamente submetidos à MICS-CABG e elegíveis segundo critérios de inclusão/exclusão específicos. O desfecho primário será a incidência de FAPO no pós-operatório, enquanto os secundários incluirão duração da internação, eventos adversos maiores e qualidade de vida.\n\nEmbora o protocolo não forneça estimativas de tamanho amostral ou poder estatístico, a relevância clínica do estudo é evidente: a FAPO está associada ao aumento da morbimortalidade, tempo de internação prolongado e custos hospitalares elevados. Caso os resultados demonstrem benefício da excisão do LOM, o procedimento poderia se tornar uma estratégia adjuvante padrão em MICS-CABG, especialmente em populações de alto risco. Contudo, limitações como o caráter unicêntrico e a ausência de cegamento do cirurgião podem restringir a generalização dos achados. Os próximos passos incluem a divulgação dos resultados em periódicos revisados por pares e a eventual replicação em estudos multicêntricos.\n\n---\n\n**English version**\n\nPostoperative atrial fibrillation (POAF) remains one of the most common complications following coronary artery bypass grafting (CABG), including minimally invasive cardiac surgery-CABG (MICS-CABG). While prior studies suggest that catheter ablation targeting the ligament of Marshall (LOM) — a structure containing myocardial fibres and rich autonomic innervation — or surgical interruption during conventional CABG may reduce atrial arrhythmias, no robust evidence from randomised controlled trials (RCTs) has evaluated prophylactic surgical excision of the LOM during MICS-CABG.\n\nAddressing this gap, the *Ligament of Marshall Excision for the Prevention of Postoperative New-Onset Atrial Fibrillation* (LOMEX-AF) trial is designed as a prospective, single-centre, triple-blind (participants, outcome assessors, statisticians) RCT. It aims to compare the efficacy of MICS-CABG with posterior left pericardiotomy plus LOM excision versus standard MICS-CABG alone. Eligible participants will be adults aged 30–80 years scheduled for elective MICS-CABG. The primary outcome is the incidence of POAF, with secondary outcomes including hospital length of stay, major adverse events, and quality of life metrics.\n\nAlthough the protocol does not provide sample size calculations or statistical power estimates, the clinical relevance is clear: POAF is associated with increased morbidity, prolonged hospitalisation, and higher healthcare costs. If the trial demonstrates benefit from LOM excision, the procedure could become a standard adjunct in MICS-CABG, particularly in high-risk populations. However, limitations such as the single-centre design and lack of surgeon blinding may restrict generalisability. Future steps include peer-reviewed publication of results and potential replication in multicentre studies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42386296",
-    "authors": [
-      {
-        "name": "Jian Song",
-        "affiliation": "Department of Cardiac Surgery, Peking University Third Hospital, Beijing, China."
-      },
-      {
-        "name": "Jingyu Wang",
-        "affiliation": "Department of Epidemiology, Chinese Academy of Medical Sciences Fuwai Hospital, Beijing, China."
-      },
-      {
-        "name": "Xiaoxiao Wang",
-        "affiliation": "Research Center of Clinical Epidemiology, Peking University Third Hospital, Beijing, China."
-      },
-      {
-        "name": "Yuanhao Fu",
-        "affiliation": "Department of Cardiac Surgery, Peking University Third Hospital, Beijing, China."
-      }
-    ],
-    "journal": "BMJ open",
-    "publishedDate": "2026-07-01",
-    "fetchedDate": "2026-07-02",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiac",
-      "myocardial",
-      "atrial",
-      "coronary",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42387070",
-    "pmid": "42387070",
-    "doi": "10.1038/s41598-026-60249-8",
-    "title": "Global metabolomic profiling of serum biomarkers in women with polycystic ovary syndrome.",
-    "titlePt": "Global metabolomic profiling of serum biomarkers in women with polycystic ovary syndrome.",
-    "abstract": "Polycystic ovary syndrome (PCOS) is a complex endocrine disorder characterized by metabolic dysregulation. Identifying serum biomarkers can enhance our understanding of its pathophysiology. This study employs an untargeted metabolomic approach to investigate metabolic alterations in PCOS. Serum samples were collected from 71 women with PCOS and 54 healthy controls. Untargeted Metabolomic profiling was performed using liquid chromatography-mass spectrometry to identify metabolites with differential abundance. Pathway analysis was conducted to identify key metabolic disruptions, and correlations between identified metabolites and clinical parameters were assessed. The metabolomics analysis identified 24 upregulated and 17 downregulated metabolites in PCOS compared with controls. These metabolites mainly include glycerophospholipids, fatty acids, sphingolipids, peptides, ceramides, and steroids. Pathway analysis indicated that these metabolites were enriched in pathways including bile aci",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Nature Scientific Reports* mapeou alterações metabólicas sistemáticas em mulheres com síndrome dos ovários policísticos (SOP), identificando potenciais biomarcadores séricos associados à doença. A pesquisa utilizou uma abordagem metabolômica não direcionada — técnica avançada que analisa centenas de metabólitos simultaneamente — para comparar perfis de 71 mulheres com SOP e 54 controles saudáveis. Os resultados revelaram 24 metabólitos com abundância aumentada e 17 com redução significativa nas pacientes, abrangendo classes como glicerofosfolipídeos, ácidos graxos, esfingolipídeos, peptídeos, ceramidas e esteroides.\n\nA análise de vias metabólicas indicou que essas alterações estavam enriquecidas em rotas como a síntese de ácidos biliares, metabolismo de lipídeos e sinalização de esteroides, sugerindo disfunções energéticas e hormonais subjacentes à SOP. Correlações com parâmetros clínicos — como índice de massa corporal, resistência à insulina e níveis de hormônios androgênicos — foram investigadas, embora o estudo não tenha detalhado os coeficientes ou significância estatística dessas associações. Tais achados reforçam a hipótese de que a SOP não é apenas um distúrbio reprodutivo, mas uma condição sistêmica com marcadores bioquímicos detectáveis no sangue.\n\nApesar de promissor, o trabalho apresenta limitações importantes. O desenho transversal impede inferências causais, e a amostra, embora significativa, não é representativa de toda a diversidade étnica ou etária. Além disso, a ausência de validação externa dos biomarcadores em coortes independentes dificulta sua aplicação clínica imediata. Os pesquisadores destacam a necessidade de estudos longitudinais e ensaios clínicos para confirmar se esses metabólitos podem ser usados no diagnóstico precoce, estratificação de risco ou monitoramento terapêutico. Futuras pesquisas também poderiam explorar intervenções direcionadas a vias metabólicas específicas, como a modulação da síntese de ácidos biliares, como estratégia complementar ao manejo atual da SOP.\n\n---\n\n**English version**\n\nA recent study published in *Nature Scientific Reports* mapped systematic metabolic alterations in women with polycystic ovary syndrome (PCOS), identifying potential serum biomarkers associated with the condition. The research employed an untargeted metabolomics approach—a cutting-edge technique analyzing hundreds of metabolites simultaneously—to compare profiles from 71 women with PCOS and 54 healthy controls. The findings revealed 24 metabolites with increased abundance and 17 with significant reduction in patients, spanning classes such as glycerophospholipids, fatty acids, sphingolipids, peptides, ceramides, and steroids.\n\nPathway analysis indicated these changes were enriched in routes like bile acid synthesis, lipid metabolism, and steroid signaling, suggesting underlying energetic and hormonal dysfunctions in PCOS. Correlations with clinical parameters—such as body mass index, insulin resistance, and androgen hormone levels—were investigated, though the study did not specify correlation coefficients or statistical significance. These results reinforce the hypothesis that PCOS is not merely a reproductive disorder but a systemic condition with detectable biochemical markers in the blood.\n\nDespite its promise, the work has important limitations. The cross-sectional design precludes causal inferences, and while the sample size is significant, it is not representative of broader ethnic or age diversity. Additionally, the lack of external validation of biomarkers in independent cohorts hinders immediate clinical application. The researchers emphasize the need for longitudinal studies and clinical trials to confirm whether these metabolites could be used for early diagnosis, risk stratification, or therapeutic monitoring. Future research might also explore targeted interventions in specific metabolic pathways, such as modulating bile acid synthesis, as a complementary strategy to current PCOS management.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42387070",
-    "authors": [
-      {
-        "name": "Jalpa Patel",
-        "affiliation": "Department of Biochemistry and Forensic Science, University School of Sciences, Gujarat University, Ahmedabad, Gujarat, 380009, India."
-      },
-      {
-        "name": "Hiral Chaudhary",
-        "affiliation": "Department of Biochemistry and Forensic Science, University School of Sciences, Gujarat University, Ahmedabad, Gujarat, 380009, India."
-      },
-      {
-        "name": "Sonal Panchal",
-        "affiliation": "Dr. Nagori's Institute for Infertility and IVF, Ahmedabad, Gujarat, India."
-      },
-      {
-        "name": "Rushikesh Joshi",
-        "affiliation": "Department of Biochemistry and Forensic Science, University School of Sciences, Gujarat University, Ahmedabad, Gujarat, 380009, India. rushikeshjoshi@gujaratuniversity.ac.in."
-      }
-    ],
-    "journal": "Scientific reports",
-    "publishedDate": "2026-07-01",
-    "fetchedDate": "2026-07-02",
-    "category": "Endocrinologia",
-    "tags": [
-      "endocrine",
-      "metabolic"
     ],
     "isHighlight": false,
     "readTime": 7,
