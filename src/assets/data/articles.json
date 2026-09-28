@@ -1,5 +1,40 @@
 [
   {
+    "id": "pubmed-42804011",
+    "pmid": "42804011",
+    "doi": "10.1007/s00431-026-07444-x",
+    "title": "Systemic immune-inflammation index as a dynamic marker of therapeutic response in neonatal early-onset sepsis: implications for antibiotic stewardship.",
+    "titlePt": "Systemic immune-inflammation index as a dynamic marker of therapeutic response in neonatal early-onset sepsis: implications for antibiotic stewardship.",
+    "abstract": "This study investigates the systemic immune-inflammation index (SII) as a dynamic marker to track antibiotic efficacy and guide stewardship in term neonates. A retrospective cohort study evaluated 275 term neonates (85 with culture-proven early-onset sepsis [EOS] and 190 controls). Complete blood counts and C-reactive protein (CRP) were analyzed on Days 1 and 3 of therapy. At diagnosis, the calculated SII was significantly higher in the EOS group compared to controls (Median 812 [IQR: 650-1120] vs. 515 [IQR: 410-630]; p&#x2009;&lt;&#x2009;0.001). ROC analysis yielded an AUC of 0.87. Multivariable logistic regression confirmed the independent prognostic value of the SII after adjusting for clinical confounders. By Day 3, the SII demonstrated a faster kinetic decline than CRP in 74.1% of the sepsis cohort, functioning as an early indicator of resolving inflammation. While diagnostic accuracy at onset is comparable to CRP, the SII demonstrates potential as a practical dynamic indicator of",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804011",
+    "authors": [
+      {
+        "name": "&#xc7;a&#x11f;r&#x131; Cumhur G&#xf6;k",
+        "affiliation": "Neonatology Clinic, Ba&#x11f;c&#x131;lar Training and Research Hospital, Istanbul, T&#xfc;rkiye."
+      },
+      {
+        "name": "Emrah Can",
+        "affiliation": "Department of Pediatrics, University of Health Sciences, Ba&#x11f;c&#x131;lar Training and Research Hospital, Istanbul, T&#xfc;rkiye. emrah.can@sbu.edu.tr."
+      }
+    ],
+    "journal": "European journal of pediatrics",
+    "publishedDate": "2026-09-28",
+    "fetchedDate": "2026-09-28",
+    "category": "Infectologia",
+    "tags": [
+      "sepsis",
+      "therapeutic",
+      "neonatal",
+      "immune"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p38zvG1-2kFHot-a425ebcb1a7abae6\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 497c40d0-7a80-476b-989b-d3ce3c58f814)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42802877",
     "pmid": "42802877",
     "doi": "10.1016/j.eclinm.2026.104116",
@@ -12567,48 +12602,5 @@
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41342308",
-    "pmid": "41342308",
-    "doi": "10.1113/JP288625",
-    "title": "Structural determinants of re-entrant drivers in atrial fibrillation: insights from digital twins derived from 3D micrometre-resolution imaging of human heart.",
-    "titlePt": "Structural determinants of re-entrant drivers in atrial fibrillation: insights from digital twins derived from 3D micrometre-resolution imaging of human heart.",
-    "abstract": "Atrial fibrillation (AF) affects over 45 million people worldwide. Although catheter ablation is the most promising treatment, its outcomes in patients with persistent AF remain suboptimal. This is attributed to insufficient insights into how structural substrates in human atria sustain AF and the lack of precise methods to identify ablation targets. Here, we investigate how atrial wall thickness (AWT), myofibre organisation and fibrosis govern the stability and localisation of re-entrant drivers (RDs). Five human donor atria from individuals with cardiac co-morbidities were functionally characterised using optical mapping and structurally imaged at an isotropic resolution of 170-180&#xa0;&#xb5;m via 9.4T gadolinium-enhanced magnetic resonance imaging. Heart-specific digital twins with and without specific structural components were developed to evaluate their effects on RD stability and localisation. Simulations revealed that AWT variations had a global influence on RD dynamics, with ",
-    "journalisticSummary": "**Versão em português**\n\nUm estudo inovador publicado na *Journal of Physiology* utilizou gêmeos digitais derivados de imagens 3D de alta resolução para elucidar como características estruturais do átrio cardíaco humano influenciam a manutenção da fibrilação atrial (FA). A pesquisa, conduzida por uma equipe internacional, analisou cinco átrios de doadores com comorbidades cardíacas, combinando mapeamento óptico para caracterização funcional e ressonância magnética de 9,4T com gadolínio, atingindo resolução isotrópica de 170–180 µm. Os resultados, obtidos por meio de simulações computacionais, revelaram que variações na espessura da parede atrial (EPA) exercem influência global na dinâmica dos drivers reentrantes (DRs), enquanto a organização das fibras miocárdicas e a fibrose apresentam efeitos mais localizados.\n\nOs achados sugerem que a EPA atua como um fator crítico na estabilidade dos DRs, podendo modular sua propagação independentemente de outras variáveis estruturais. Além disso, a modelagem em gêmeos digitais permitiu identificar que a remoção seletiva de componentes fibróticos ou alterações na organização das fibras reduziram significativamente a incidência de DRs estáveis, apontando para potenciais alvos para ablação mais precisa. Esses resultados oferecem uma base mecanicista para aprimorar estratégias terapêuticas em pacientes com FA persistente, nos quais os desfechos da ablação por cateter permanecem insatisfatórios.\n\nEmbora o estudo forneça insights sem precedentes sobre a fisiopatologia da FA, suas limitações incluem a amostra reduzida (n=5) e a ausência de validação em tecido vivo ou em modelos animais. Além disso, não foram relatados dados sobre a correlação entre as características estruturais identificadas e desfechos clínicos em pacientes. Os autores destacam a necessidade de estudos prospectivos para confirmar a aplicabilidade desses achados em cenários clínicos reais e explorar o potencial de personalização de terapias com base em perfis estruturais individuais.\n\n---\n\n**English version**\n\nA groundbreaking study published in the *Journal of Physiology* leveraged digital twins derived from high-resolution 3D imaging to uncover how structural features of the human atrial tissue sustain atrial fibrillation (AF). Conducted by an international research team, the work analyzed five atria from donors with cardiac comorbidities, combining optical mapping for functional characterization and 9.4T gadolinium-enhanced magnetic resonance imaging at an isotropic resolution of 170–180 µm. Through computational simulations, the findings revealed that atrial wall thickness (AWT) variations exert a global influence on re-entrant driver (RD) dynamics, whereas myofibre organization and fibrosis exert more localized effects.\n\nThe results indicate that AWT acts as a critical factor in RD stability, potentially modulating propagation independently of other structural variables. Furthermore, digital twin modeling demonstrated that selective removal of fibrotic components or alterations in fiber organization significantly reduced the incidence of stable RDs, suggesting more precise ablation targets. These insights provide a mechanistic basis for refining therapeutic strategies in patients with persistent AF, where catheter ablation outcomes remain suboptimal.\n\nWhile the study offers unprecedented insights into AF pathophysiology, its limitations include the small sample size (n=5) and the lack of validation in living tissue or animal models. Additionally, no data were reported on the correlation between identified structural features and clinical outcomes in patients. The authors emphasize the need for prospective studies to validate these findings in real-world clinical settings and explore the potential for personalized therapies based on individual structural profiles.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41342308",
-    "authors": [
-      {
-        "name": "Anuradha Kulathilaka",
-        "affiliation": "Auckland Bioengineering Institute, The University of Auckland, Auckland, New Zealand."
-      },
-      {
-        "name": "Roshan Sharma",
-        "affiliation": "Auckland Bioengineering Institute, The University of Auckland, Auckland, New Zealand."
-      },
-      {
-        "name": "James Kennelly",
-        "affiliation": "Auckland Bioengineering Institute, The University of Auckland, Auckland, New Zealand."
-      },
-      {
-        "name": "Ning Li",
-        "affiliation": "Department of Physiology &amp; Cell Biology, Bob and Corrine Frick Center for Heart Failure and Arrhythmia, The Ohio State University Wexner Medical Center, Columbus, Ohio, USA."
-      }
-    ],
-    "journal": "The Journal of physiology",
-    "publishedDate": "2026-07-02",
-    "fetchedDate": "2026-07-03",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiac",
-      "heart",
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
