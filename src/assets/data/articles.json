@@ -1,5 +1,87 @@
 [
   {
+    "id": "pubmed-42802877",
+    "pmid": "42802877",
+    "doi": "10.1016/j.eclinm.2026.104116",
+    "title": "Safety, tolerability, and immunogenicity of SPVX02, a room temperature-stabilised tetanus-diphtheria vaccine, compared to two established tetanus-diphtheria booster vaccines: a multicentre, single-blind, randomised, first-in-human phase 1 trial in the UK.",
+    "titlePt": "Safety, tolerability, and immunogenicity of SPVX02, a room temperature-stabilised tetanus-diphtheria vaccine, compared to two established tetanus-diphtheria booster vaccines: a multicentre, single-blind, randomised, first-in-human phase 1 trial in the UK.",
+    "abstract": "Cold chain requirements limit vaccine accessibility and deployment. SPVX02, is a lyophilised, fridge-free version of Tetadif tetanus-diphtheria vaccine, stable for at least 24 months at temperatures up to 30 &#xb0;C. This multicentre, first-in-human phase 1, single-blind, randomised clinical trial was conducted at three sites in the UK to evaluate the safety and tolerability of SPVX02 compared to existing approved tetanus-diphtheria (Td) vaccines. Healthy adults (aged 18-55 years; body-mass index (BMI) &#x2264;32 kg/m2) who had received Td vaccination &#x2265;10 years previously were randomly assigned (1:1:1) to receive a single 0.5 mL intramuscular deltoid injection of SPVX02, Tetadif, or diTeBooster, and were followed for 28 days after vaccination. Participants and all investigatory staff were blinded to treatment allocation. Primary outcomes were incidence of unsolicited adverse events (AEs) during the trial period and incidence of predefined, solicited AEs reported in participant d",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802877",
+    "authors": [
+      {
+        "name": "Thomas A N Reed",
+        "affiliation": "NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University Hospital Southampton NHS Foundation Trust, Southampton, UK."
+      },
+      {
+        "name": "Patrick Clarke",
+        "affiliation": "NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University Hospital Southampton NHS Foundation Trust, Southampton, UK."
+      },
+      {
+        "name": "Juana de la Torre Arrieta",
+        "affiliation": "Stablepharma Ltd, 90 Victoria Street, Bristol, UK."
+      },
+      {
+        "name": "Moona Razzaque",
+        "affiliation": "NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University Hospital Southampton NHS Foundation Trust, Southampton, UK."
+      }
+    ],
+    "journal": "EClinicalMedicine",
+    "publishedDate": "2026-09-28",
+    "fetchedDate": "2026-09-28",
+    "category": "Farmacologia",
+    "tags": [
+      "clinical trial",
+      "vaccine"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p36CEw4-2kFHot-a422e4e12cb5fc89\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 139213f2-5043-4cef-98d7-f1942a14879c)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42802014",
+    "pmid": "42802014",
+    "doi": "10.1111/ijpo.70158",
+    "title": "Effects of Teleintervention Maintenance Programs for Children (Age 6-12) and Adolescents (Age 13-18) With Overweight or Obesity-Promoting a Healthy Lifestyle: A Systematic Review.",
+    "titlePt": "Effects of Teleintervention Maintenance Programs for Children (Age 6-12) and Adolescents (Age 13-18) With Overweight or Obesity-Promoting a Healthy Lifestyle: A Systematic Review.",
+    "abstract": "Weight management and maintenance of healthy habits are crucial in combating paediatric obesity. This systematic review examines outcomes beyond BMI in teleintervention maintenance programmes, with a focus on sustaining a healthy lifestyle. A PubMed, LIVIVO and Web of Science search was conducted for publications between 2012 and 4 November 2025 to identify primary studies evaluating teleintervention maintenance programmes of at least 12&#x2009;weeks' duration, delivered to children and adolescents with overweight or obesity following structured obesity treatment. We extracted healthy lifestyle parameters (e.g., quality of life), behaviour change (e.g., diet) and clinician-reported outcomes (e.g., BMI). Quality assessment was tailored to study type. As data did not permit meta-analysis, we performed a narrative synthesis. Screening 2543 articles yielded 6 RCTs and 2 pre-post studies. Findings highlight improvements in psychosocial outcomes (e.g., social well-being), lifestyle modificat",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802014",
+    "authors": [
+      {
+        "name": "Anna Wittmann",
+        "affiliation": "Institute for Medical Management and Health Sciences, University of Bayreuth, Bayreuth, Germany."
+      },
+      {
+        "name": "Pia Sp&#xe4;th",
+        "affiliation": "Institute for Medical Management and Health Sciences, University of Bayreuth, Bayreuth, Germany."
+      },
+      {
+        "name": "Feline Zocher",
+        "affiliation": "Deutsche Rentenversicherung Nordbayern, Bayreuth, Germany."
+      },
+      {
+        "name": "Eckard Nagel",
+        "affiliation": "Institute for Medical Management and Health Sciences, University of Bayreuth, Bayreuth, Germany."
+      }
+    ],
+    "journal": "Pediatric obesity",
+    "publishedDate": "2026-09-27",
+    "fetchedDate": "2026-09-28",
+    "category": "Pediatria",
+    "tags": [
+      "children",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p36CjZi-2kFHot-a422e73b3e454ca2\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 56aff0d2-c7f8-4a13-84ba-bd9e9cc5839e)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42700746",
     "pmid": "42700746",
     "doi": "10.1016/j.vaccine.2026.129130",
@@ -12526,86 +12608,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42036829",
-    "pmid": "42036829",
-    "doi": "10.1111/ejh.70206",
-    "title": "Cardiovascular Complications in Hemoglobinopathies: Pathophysiology, Clinical Spectrum, and Management.",
-    "titlePt": "Cardiovascular Complications in Hemoglobinopathies: Pathophysiology, Clinical Spectrum, and Management.",
-    "abstract": "Sickle cell disease and thalassemia syndromes are increasingly recognized as chronic multisystem disorders, with cardiovascular (CV) sequelae representing a significant proportion of long-term morbidity and mortality. Survival has improved considerably due to better transfusion practice, the administration of iron chelation, and disease-modifying treatments; a broad and expanding phenotypic spectrum of cardiac and vascular manifestations is being recognized. These include cardiomyopathy, heart failure, pulmonary hypertension, arrhythmias, microvascular ischemia, and functional valvular disease, often resulting insidiously and progressing over time. CV pathogenesis of hemoglobinopathies is complex and heterogeneous. Chronic anemia induces a long-lasting high-output circulatory state, while iron overload related to transfusion produces myocardial siderosis, oxidative damage, and electrical instability in particular in transfusion-dependent thalassemia. Moreover, hemolysis-mediated endoth",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nDoenças como a anemia falciforme e as síndromes talassêmicas, tradicionalmente vistas como distúrbios hematológicos, apresentam crescente reconhecimento como condições crônicas e multissistêmicas, cuja morbidade e mortalidade em longo prazo estão fortemente associadas a complicações cardiovasculares. Com avanços no tratamento — como transfusões mais seguras, quelação de ferro e terapias modificadoras da doença —, a sobrevida dos pacientes melhorou significativamente, mas isso também revelou um espectro fenotípico mais amplo e diversificado de manifestações cardíacas e vasculares, que muitas vezes se desenvolvem de forma insidiosa e progressiva.\n\nEntre as principais complicações cardiovasculares destacam-se cardiomiopatia, insuficiência cardíaca, hipertensão pulmonar, arritmias, isquemia microvascular e doenças valvares funcionais. A fisiopatologia subjacente é complexa e heterogênea: a anemia crônica induz um estado circulatório de alto débito, enquanto a sobrecarga de ferro decorrente de transfusões frequentes leva à siderose miocárdica, dano oxidativo e instabilidade elétrica, especialmente na talassemia dependente de transfusão. Além disso, a hemólise contribui para disfunção endotelial e inflamação vascular, agravando o risco de eventos clínicos. Embora o manejo dessas condições tenha evoluído com abordagens multidisciplinares, incluindo monitoramento cardíaco regular e estratégias de quelação personalizadas, ainda há lacunas no entendimento da progressão individual e na padronização de protocolos terapêuticos ideais. Estudos futuros devem priorizar a identificação de biomarcadores preditivos e o desenvolvimento de intervenções precoces para mitigar o impacto dessas complicações, que permanecem como principais causas de óbito nessa população.\n\n---\n\n**English version**\n\nConditions such as sickle cell disease and thalassemia syndromes, long regarded as hematological disorders, are increasingly recognized as chronic, multisystem illnesses in which long-term morbidity and mortality are strongly linked to cardiovascular complications. Advances in treatment—including safer transfusion practices, iron chelation, and disease-modifying therapies—have significantly improved patient survival, but they have also revealed a broader and more diverse spectrum of cardiac and vascular manifestations that often develop insidiously and progress over time.\n\nKey cardiovascular complications include cardiomyopathy, heart failure, pulmonary hypertension, arrhythmias, microvascular ischemia, and functional valvular disease. The underlying pathophysiology is complex and heterogeneous: chronic anemia induces a sustained high-output circulatory state, while iron overload from frequent transfusions leads to myocardial siderosis, oxidative damage, and electrical instability, particularly in transfusion-dependent thalassemia. Hemolysis further contributes to endothelial dysfunction and vascular inflammation, compounding the risk of clinical events. While management has evolved through multidisciplinary approaches—including regular cardiac monitoring and tailored chelation strategies—gaps remain in understanding individual disease progression and standardizing optimal therapeutic protocols. Future research should prioritize the identification of predictive biomarkers and the development of early interventions to mitigate the impact of these complications, which remain leading causes of death in this population.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42036829",
-    "authors": [
-      {
-        "name": "Daniel Bradach",
-        "affiliation": "St. George's University School of Medicine, University Center Grenada, Grenada, West Indies."
-      },
-      {
-        "name": "Karla Calderon Salavarria",
-        "affiliation": "Catholic University Santiago of Guayaquil, Guayaquil, Ecuador."
-      },
-      {
-        "name": "Santiago Diaz-Arribasplata",
-        "affiliation": "Faculty of Health Sciences, Peruvian University of Applied Sciences (UPC), Lima, Peru."
-      },
-      {
-        "name": "Rahaf Saliem Ibraheem Almahdi",
-        "affiliation": "Faculty of Medicine, Albalqa Applied University, Albalqa, Jordan."
-      }
-    ],
-    "journal": "European journal of haematology",
-    "publishedDate": "2026-07-02",
-    "fetchedDate": "2026-07-02",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiac",
-      "cardiovascular",
-      "heart",
-      "myocardial",
-      "hypertension"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42390621",
-    "pmid": "42390621",
-    "doi": "10.1007/s11011-026-01910-z",
-    "title": "Supra-additive neuroprotective effects of berberine-metformin combination in diabetic encephalopathy: Chou-Talalay synergy quantification, AMPK-Nrf2 axis modulation, and pharmacokinetic verification.",
-    "titlePt": "Supra-additive neuroprotective effects of berberine-metformin combination in diabetic encephalopathy: Chou-Talalay synergy quantification, AMPK-Nrf2 axis modulation, and pharmacokinetic verification.",
-    "abstract": "Type 2 diabetes mellitus (T2DM) increases the risk of hippocampal neurodegeneration and cognitive decline. Berberine and metformin independently activate AMPK and may engage Nrf2-mediated antioxidant defenses, yet their combined neuroprotective interaction has not been formally quantified using validated synergy frameworks, nor has its pharmacokinetic basis been verified. Streptozotocin-nicotinamide diabetic rats were allocated to twelve groups (n&#x2009;=&#x2009;13/group) receiving berberine (50, 100, 150&#xa0;mg/kg/day) or metformin (100, 200, 300&#xa0;mg/kg/day) monotherapy, fixed-ratio 1:2 combinations, or vehicle controls (including a non-diabetic combination group) orally for six weeks. The novel object recognition (NOR) discrimination index served as the predefined primary endpoint for Chou-Talalay combination index (CI) analysis. Hippocampal mechanistic (n&#x2009;=&#x2009;6/group) and satellite LC-MS/MS pharmacokinetic (n&#x2009;=&#x2009;6/group) analyses were performed. Diabet",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Metabolic Brain Disease* investigou os efeitos neuroprotetores sinérgicos da combinação de berberina e metformina em modelos de encefalopatia diabética. Pesquisadores avaliaram, pela primeira vez com metodologia padronizada (análise de sinergia de Chou-Talalay), se a associação dessas substâncias — que atuam via ativação da AMPK e vias antioxidantes mediadas por Nrf2 — poderia oferecer proteção superior à monoterapia contra a neurodegeneração hipocampal induzida por diabetes tipo 2 (T2DM).\n\nNo experimento, ratos diabéticos induzidos por estreptozotocina- nicotinamida foram divididos em 12 grupos (n=13/grupo) e tratados por seis semanas com doses variadas de berberine (50, 100 ou 150 mg/kg/dia) ou metformina (100, 200 ou 300 mg/kg/dia), isoladamente ou em combinação fixa na proporção 1:2. O desfecho primário foi o índice de discriminação no teste de reconhecimento de objetos novos (NOR), usado para quantificar a sinergia por meio do *combination index* (CI). Além disso, foram realizadas análises mecânicas em tecido hipocampal (n=6/grupo) e estudos farmacocinéticos por LC-MS/MS (n=6/grupo), incluindo um grupo controle não diabético para comparação.\n\nOs resultados demonstraram que a combinação berberine-metformina apresentou efeitos *supra-aditivos* (CI < 1) na melhora da função cognitiva, superando os benefícios observados com as monoterapias. A análise do eixo AMPK-Nrf2 revelou um aumento significativo na expressão de proteínas antioxidantes e redução de marcadores de estresse oxidativo no hipocampo. Os dados farmacocinéticos sugeriram que a combinação não alterou adversamente a absorção ou metabolismo individual dos fármacos, embora não tenham sido fornecidos valores específicos de biodisponibilidade ou meia-vida no estudo.\n\nEmbora promissores, os achados são preliminares e limitados ao modelo animal, exigindo validação em ensaios clínicos humanos para confirmar a segurança, eficácia e posologia ideal. Além disso, não foram relatados dados sobre possíveis interações medicamentosas em humanos nem avaliações de longo prazo. Futuras pesquisas devem explorar mecanismos adicionais de neuroproteção e o potencial da combinação em outras complicações diabéticas neurodegenerativas.\n\n**English version**\n\nA recent study published in *Metabolic Brain Disease* examined the synergistic neuroprotective effects of berberine and metformin in diabetic encephalopathy models. For the first time, researchers applied the validated Chou-Talalay synergy framework to quantify whether the combination of these compounds—both known to activate AMPK and Nrf2-mediated antioxidant pathways—could provide superior protection against hippocampal neurodegeneration in type 2 diabetes (T2DM) compared to monotherapy.\n\nIn the experiment, streptozotocin-nicotinamide-induced diabetic rats were divided into 12 groups (n=13/group) and treated for six weeks with varying doses of berberine (50, 100, or 150 mg/kg/day) or metformin (100, 200, or 300 mg/kg/day), either alone or in a fixed 1:2 combination ratio. The primary endpoint was the novel object recognition (NOR) discrimination index, used to calculate the combination index (CI) for synergy quantification. Additional analyses included hippocampal mechanistic assessments (n=6/group) and LC-MS/MS pharmacokinetic studies (n=6/group), with a non-diabetic combination group included for comparison.\n\nThe findings revealed *supra-additive* effects (CI < 1) of the berberine-metformin combination in improving cognitive function, outperforming both monotherapies. Mechanistic analysis of the AMPK-Nrf2 axis showed significantly increased antioxidant protein expression and reduced oxidative stress markers in the hippocampus. Pharmacokinetic data suggested that the combination did not adversely affect individual drug absorption or metabolism, though specific bioavailability or half-life values were not reported in the study.\n\nWhile promising, these results remain preclinical and require validation in human clinical trials to confirm safety, efficacy, and optimal dosing. The study did not report data on potential drug-drug interactions in humans or long-term outcomes. Future research should investigate additional neuroprotective mechanisms and the combination’s potential in other neurodegenerative diabetic complications.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42390621",
-    "authors": [
-      {
-        "name": "Wessam M Filfilan",
-        "affiliation": "Department of Biology, Jamoum University College, Umm Al-Qura University, 21955, Makkah, Saudi Arabia."
-      },
-      {
-        "name": "Mohamed E Elbeeh",
-        "affiliation": "Department of Biology, Jamoum University College, Umm Al-Qura University, 21955, Makkah, Saudi Arabia. mebeeh@uqu.edu.sa."
-      }
-    ],
-    "journal": "Metabolic brain disease",
-    "publishedDate": "2026-07-02",
-    "fetchedDate": "2026-07-02",
-    "category": "Neurologia",
-    "tags": [
-      "cognitive",
-      "gene",
-      "diabetes"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
