@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42812346",
+    "pmid": "42812346",
+    "doi": "10.3389/fimmu.2026.1857975",
+    "title": "Association of serum magnesium levels with the risk of spontaneous bacterial peritonitis and sepsis in hospitalized patients with cirrhosis: a retrospective cohort study.",
+    "titlePt": "Association of serum magnesium levels with the risk of spontaneous bacterial peritonitis and sepsis in hospitalized patients with cirrhosis: a retrospective cohort study.",
+    "abstract": "Hypomagnesemia is common in patients with cirrhosis. This study aimed to examine the association between serum magnesium levels and the risks of hospital-acquired spontaneous bacterial peritonitis (HA-SBP) and sepsis. This retrospective study included patients with cirrhosis who were hospitalized at the First People's Hospital of Changde City, China, between May 2021 and June 2025. The exposure variable was the first serum magnesium measurement obtained within 48 hours of admission. The primary outcome was HA-SBP, and the secondary outcome was sepsis. Multivariable regression and restricted cubic spline (RCS) analyses were used to assess the associations. A total of 1110 patients with cirrhosis were included. The incidences of HA-SBP and sepsis were 12.25% and 6.06%, respectively. Multivariable regression analysis showed that per 1-SD increase in serum magnesium, the risks of HA-SBP and sepsis decreased by 20.8% (odds ratio [OR] = 0.792, 95% confidence interval [CI]: 0.642-0.970, P&#xa",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42812346",
+    "authors": [
+      {
+        "name": "Xiang-Jie Duan",
+        "affiliation": "Department of Intensive Care Unit, The First Affiliated Hospital of Jinan University, Guangzhou Guangdong,&#xa0;China."
+      },
+      {
+        "name": "Yang Cai",
+        "affiliation": "Department of Infectious Diseases, Changde Hospital, Xiangya School of Medicine, Central South University (The First People's Hospital of Changde City), Changde,&#xa0;China."
+      },
+      {
+        "name": "Qing Su",
+        "affiliation": "Department of Emergency, The First Affiliated Hospital of Jinan University, Guangzhou Guangdong,&#xa0;China."
+      },
+      {
+        "name": "Qin Zhou",
+        "affiliation": "Department of Intensive Care Unit, Changde Hospital, Xiangya School of Medicine, Central South University (The First People's Hospital of Changde City), Changde,&#xa0;China."
+      }
+    ],
+    "journal": "Frontiers in immunology",
+    "publishedDate": "2026-09-30",
+    "fetchedDate": "2026-09-30",
+    "category": "Infectologia",
+    "tags": [
+      "bacterial",
+      "sepsis"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3PK57f-2kFHot-a4355e34cdf17a20\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 9b73f89c-780f-47e2-8950-2ca33e9ab9af)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42811432",
     "pmid": "42811432",
     "doi": "10.1002/2056-4538.70114",
@@ -12555,49 +12596,5 @@
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41784048",
-    "pmid": "41784048",
-    "doi": "10.1111/pace.70195",
-    "title": "Pulsed Field Ablation for Atrial Fibrillation in the Elderly &#x2265;75&#xa0;Years Old: A Systematic Review and Meta-Analysis.",
-    "titlePt": "Pulsed Field Ablation for Atrial Fibrillation in the Elderly &#x2265;75&#xa0;Years Old: A Systematic Review and Meta-Analysis.",
-    "abstract": "Pulse field ablation (PFA) is an emerging catheter ablation strategy for patients with atrial fibrillation (AF). Nonetheless, the safety and efficacy of PFA in elderly patients remains scarce. Hence, this study is to provide a comprehensive review of PFA utilization in the elderly. A systematic search was conducted from the inception of PubMed to July 2025 comparing the safety and efficacy of PFA in elderly (&#x2265;75&#xa0;years) and non-elderly patients. Safety outcomes were the rate of overall procedure-related complications, major complications (stroke/TIA, cardiac tamponade, phrenic nerve injury, valve damage, myocardial infarction), and minor complications. Efficacy outcomes include time to arrhythmia recurrence and rate of arrhythmia-free survival. Ten studies with a total of 5948 patients (900 elderly and 5048 non-elderly) were included in the analysis. In the elderly group, the rate of overall and major complications was 3% (95% CI 2%-6%, I2&#xa0;=&#xa0;0%) and 1% (95% CI 1%-2",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recém-publicado no *Journal of Pacing and Clinical Electrophysiology* investiga a segurança e eficácia da ablação por campo pulsado (PFA) em pacientes idosos com fibrilação atrial (FA), uma população com poucas evidências robustas até então. A pesquisa, conduzida por meio de uma revisão sistemática e meta-análise de dez estudos envolvendo 5.948 pacientes — dos quais 900 tinham 75 anos ou mais —, buscou comparar desfechos de segurança e eficácia entre idosos e não idosos submetidos ao procedimento.\n\nOs resultados indicam que, em pacientes com 75 anos ou mais, a taxa de complicações globais relacionadas ao procedimento foi de 3% (IC 95%: 2%-6%, I² = 0%), enquanto complicações maiores — como acidente vascular cerebral transitório (AIT), tamponamento cardíaco, lesão do nervo frênico, dano valvar ou infarto do miocárdio — ocorreram em 1% dos casos (IC 95%: 1%-2%, I² = 0%). Quanto à eficácia, não foram fornecidos dados específicos sobre o tempo até a recorrência de arritmia ou a taxa de sobrevida livre de arritmia no resumo analisado. Os autores destacam que a PFA apresentou um perfil de segurança promissor na população idosa, com uma incidência de eventos adversos comparável à observada em grupos mais jovens, embora a heterogeneidade entre os estudos incluídos tenha sido baixa, o que pode limitar a generalização dos achados.\n\nEmbora os dados sugiram que a PFA pode ser uma alternativa viável para idosos com FA, os autores ressaltam a necessidade de mais pesquisas com amostras maiores e desenhos prospectivos para confirmar esses resultados, especialmente em relação à eficácia a longo prazo. Além disso, não foram reportados dados sobre a comparação direta entre PFA e outras técnicas de ablação, como a ablação por radiofrequência ou crioterapia, no contexto específico da população idosa.\n\n**Versão em inglês**\n\nA recent study published in the *Journal of Pacing and Clinical Electrophysiology* evaluates the safety and efficacy of pulsed field ablation (PFA) in elderly patients with atrial fibrillation (AF), a population with limited robust evidence to date. Conducted as a systematic review and meta-analysis of ten studies involving 5,948 patients—900 of whom were 75 years or older—the research compared procedural safety and efficacy outcomes between elderly and non-elderly patients undergoing PFA.\n\nThe findings indicate that in patients aged 75 years or older, the overall rate of procedure-related complications was 3% (95% CI: 2%-6%, I² = 0%), while major complications—such as transient ischemic attack (TIA), cardiac tamponade, phrenic nerve injury, valve damage, or myocardial infarction—occurred in 1% of cases (95% CI: 1%-2%, I² = 0%). Regarding efficacy, the abstract did not provide specific data on time to arrhythmia recurrence or arrhythmia-free survival rates. The authors emphasize that PFA demonstrated a promising safety profile in the elderly population, with adverse event rates comparable to those observed in younger groups, despite the low heterogeneity among included studies, which may limit the generalizability of the findings.\n\nWhile the data suggest that PFA may be a viable alternative for elderly AF patients, the authors highlight the need for larger, prospective studies to validate these results, particularly concerning long-term efficacy. Additionally, no direct comparisons between PFA and other ablation techniques, such as radiofrequency or cryoablation, were reported in the elderly subgroup.\n\n*(Nota: Tradução fiel ao conteúdo disponível no resumo, sem inferências ou extrapolações além do que foi explicitamente mencionado.)*",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41784048",
-    "authors": [
-      {
-        "name": "Patavee Pajareya",
-        "affiliation": "Division of Cardiovascular Medicine, Center of Excellence in Arrhythmia Research, Cardiac Center, Faculty of Medicine, King Chulalongkorn Memorial Hospital, Chulalongkorn University, Bangkok, Thailand."
-      },
-      {
-        "name": "Khamik Laohasurayotin",
-        "affiliation": "Division of Cardiovascular Medicine, Center of Excellence in Arrhythmia Research, Cardiac Center, Faculty of Medicine, King Chulalongkorn Memorial Hospital, Chulalongkorn University, Bangkok, Thailand."
-      },
-      {
-        "name": "Witina Techasatian",
-        "affiliation": "Division of Cardiovascular Medicine, Louisiana State University, Shreveport, Louisiana, USA."
-      },
-      {
-        "name": "Noppachai Siranart",
-        "affiliation": "Division of Cardiovascular Medicine, Center of Excellence in Arrhythmia Research, Cardiac Center, Faculty of Medicine, King Chulalongkorn Memorial Hospital, Chulalongkorn University, Bangkok, Thailand."
-      }
-    ],
-    "journal": "Pacing and clinical electrophysiology : PACE",
-    "publishedDate": "2026-07-03",
-    "fetchedDate": "2026-07-03",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiac",
-      "myocardial",
-      "atrial",
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
