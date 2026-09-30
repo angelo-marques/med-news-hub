@@ -1,5 +1,166 @@
 [
   {
+    "id": "pubmed-42811432",
+    "pmid": "42811432",
+    "doi": "10.1002/2056-4538.70114",
+    "title": "Assessment methods of pathological complete response in neoadjuvant head and neck cancer clinical trials: a scoping review.",
+    "titlePt": "Assessment methods of pathological complete response in neoadjuvant head and neck cancer clinical trials: a scoping review.",
+    "abstract": "Head and neck cancer (HNC) trials have demonstrated pathological complete response (pCR) in patients receiving neoadjuvant treatment prior to surgery; however, systematic reviews have reported marked variation in pCR rates. This scoping review was designed to determine the definition, criteria, and assessment methodologies for pCR in interventional neoadjuvant HNC clinical trials. The review was conducted in accordance with the JBI Manual for Evidence Synthesis and the protocol prospectively registered. Medical databases, trial registries, and grey literature were systematically searched, and eligibility criteria applied. Study characteristics and pCR assessment methodologies were extracted and described. A total of 4,931 sources were identified, and screening identified 114 trials. Only 22 studies had publicly accessible protocols for assessment. Trials were initiated between 1989 and 2025, and the majority were phase II investigating chemotherapy + immunotherapy regimens (51%). pCR w",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42811432",
+    "authors": [
+      {
+        "name": "Peter Robinson",
+        "affiliation": "Faculty of Medical Sciences, Newcastle University, Newcastle upon Tyne, UK."
+      },
+      {
+        "name": "Charlotte Catrina Currie",
+        "affiliation": "Department of Cellular Pathology, The Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle upon Tyne, UK."
+      },
+      {
+        "name": "Hisham Mehanna",
+        "affiliation": "Faculty of Medical Sciences, Newcastle University, Newcastle upon Tyne, UK."
+      },
+      {
+        "name": "Muhammad Shahid Iqbal",
+        "affiliation": "Department of Cellular Pathology, The Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle upon Tyne, UK."
+      }
+    ],
+    "journal": "The journal of pathology. Clinical research",
+    "publishedDate": "2026-09-30",
+    "fetchedDate": "2026-09-30",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "chemotherapy",
+      "immunotherapy",
+      "clinical trial"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3M9BN5-2kFHot-a4330685ad281d4d\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 5a14a9c5-87b8-488b-819d-2e6d748a548c)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42811862",
+    "pmid": "42811862",
+    "title": "Risk of Infertility Due to Vitamin D Deficiency among Women with Polycystic Ovarian Syndrome.",
+    "titlePt": "Risk of Infertility Due to Vitamin D Deficiency among Women with Polycystic Ovarian Syndrome.",
+    "abstract": "Polycystic ovary syndrome (PCOS) is a common endocrine disorder and a leading cause of infertility in reproductive-aged women. Emerging evidence suggests that vitamin D deficiency may exacerbate PCOS-related reproductive and metabolic disturbances. This study aimed to assess the prevalence of vitamin D deficiency among infertile women with PCOS and explore its association with subfertility. This cross-sectional study was conducted at the Department of Infertility, Bangladesh Medical University (BMU), from November 2019 to April 2025. Total 155 infertile women aged 18-40 years; diagnosed with PCOS using the revised Rotterdam criteria (2003) were enrolled. Participants with other known causes of infertility were excluded. Data on demographic variables, clinical features, hormonal profile, glucose metabolism and serum 25(OH) vitamin D levels collected and analyzed. The mean age of participants was 28.34&#xb1;3.5 years, with a mean BMI of 23.46&#xb1;3.2 kg/m&#xb2;. Primary subfertility was",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42811862",
+    "authors": [
+      {
+        "name": "H H Pervin",
+        "affiliation": "Dr Hasna Hena Pervin, Associate Professor, Department of Obstetrics and Gynaecology, Bangladesh Medical University (BMU), Dhaka, Bangladesh; E-mail: hasnahenan@gmail.com."
+      },
+      {
+        "name": "F Huq"
+      },
+      {
+        "name": "K F Begum"
+      },
+      {
+        "name": "F Noor"
+      }
+    ],
+    "journal": "Mymensingh medical journal : MMJ",
+    "publishedDate": "2026-09-30",
+    "fetchedDate": "2026-09-30",
+    "category": "Endocrinologia",
+    "tags": [
+      "endocrine",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3M9y5p-2kFHot-a4330a46e8d41d4d\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: c4817d18-fb99-4533-98ec-400814bd1531)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42811067",
+    "pmid": "42811067",
+    "doi": "10.1038/s41409-026-03057-y",
+    "title": "Consolidative allogeneic HCT vs. a watch-and-wait approach for B-cell acute lymphoblastic leukemia patients with early loss of B-cell aplasia after CAR T-cell therapy.",
+    "titlePt": "Consolidative allogeneic HCT vs. a watch-and-wait approach for B-cell acute lymphoblastic leukemia patients with early loss of B-cell aplasia after CAR T-cell therapy.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42811067",
+    "authors": [
+      {
+        "name": "Sergi Camarillas",
+        "affiliation": "Department of Hematology, Vall d'Hebron University Hospital, Barcelona, Spain."
+      },
+      {
+        "name": "Anna Alonso-Saladrigues",
+        "affiliation": "Spanish Transplant and Cell Therapy Group (GETH-TC), Madrid, Spain."
+      },
+      {
+        "name": "V&#xed;ctor Navarro",
+        "affiliation": "Spanish Transplant and Cell Therapy Group (GETH-TC), Madrid, Spain."
+      },
+      {
+        "name": "J&#xfa;lia Marsal",
+        "affiliation": "Hospital Sant Joan de D&#xe9;u Department of Pediatric Hematology and Oncology, Barcelona, Spain."
+      }
+    ],
+    "journal": "Bone marrow transplantation",
+    "publishedDate": "2026-09-29",
+    "fetchedDate": "2026-09-30",
+    "category": "Oncologia",
+    "tags": [
+      "leukemia",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3M9RCy-2kFHot-a43307a8b9c71289\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 14465510-e8de-4c96-8790-c438d875302b)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42805946",
+    "pmid": "42805946",
+    "doi": "10.1002/alz.71887",
+    "title": "Long term clinical performance and analytical robustness of the Lumipulse plasma p-tau217 assay in routine clinical practice.",
+    "titlePt": "Long term clinical performance and analytical robustness of the Lumipulse plasma p-tau217 assay in routine clinical practice.",
+    "abstract": "Plasma phosphorylated tau 217 (p&#x2011;tau217) immunoassays are increasingly being used to assess Alzheimer's disease (AD) pathology despite limited data affirming test reliability over time. Clinical performance of the Fujirebio Lumipulse G p&#x2011;tau217 assay was assessed in 744 Mayo Clinic patients presenting for evaluation of cognitive impairment between July 2024 and December 2025. Cerebrospinal fluid p&#x2011;tau181/amyloid beta 42 or amyloid positron emission tomography, within 1 year of p-tau217 testing, were used as reference. Analytical robustness was evaluated&#xa0;by tracking result frequencies over time, conducting quality control checks, performing 10 lot&#x2011;to&#x2011;lot comparisons, and comparing two versions of reagents. Diagnostic accuracy for detection of AD pathology was 93% (95% confidence interval 91-95) with 23% intermediate results. Reduced estimated glomerular filtration rate was associated with increased intermediate results among amyloid-negative indiv",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805946",
+    "authors": [
+      {
+        "name": "Susan Ashrafzadeh-Kian",
+        "affiliation": "Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, Minnesota, USA."
+      },
+      {
+        "name": "Daniel J Figdore",
+        "affiliation": "Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, Minnesota, USA."
+      },
+      {
+        "name": "Joshua A Bornhorst",
+        "affiliation": "Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, Minnesota, USA."
+      },
+      {
+        "name": "Patrick M Vanderboom",
+        "affiliation": "Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, Minnesota, USA."
+      }
+    ],
+    "journal": "Alzheimer's &amp; dementia : the journal of the Alzheimer's Association",
+    "publishedDate": "2026-09-28",
+    "fetchedDate": "2026-09-30",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "cognitive"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3M9c77-2kFHot-a433088dcde0dcf7\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: fabeb897-48ca-4202-9071-eb580bf287d6)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42804011",
     "pmid": "42804011",
     "doi": "10.1007/s00431-026-07444-x",
@@ -12438,169 +12599,5 @@
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42396950",
-    "pmid": "42396950",
-    "doi": "10.1111/jne.70225",
-    "title": "Alterations in cognitive function among reproductive-age women with polyendocrine metabolic ovarian syndrome: A systematic review and meta-analysis.",
-    "titlePt": "Alterations in cognitive function among reproductive-age women with polyendocrine metabolic ovarian syndrome: A systematic review and meta-analysis.",
-    "abstract": "Polyendocrine metabolic ovarian syndrome (PMOS) is a common endocrine disorder affecting 1.55&#x2009;million women of reproductive age worldwide. While its physical and reproductive impacts are well-documented, the cognitive effects of PMOS remain under-researched and poorly understood. This systematic review aims to investigate existing literature on cognitive function in women with PMOS. The objective of this review is to identify specific cognitive differences between women with PMOS and those without, highlight gaps in current research and clinical care, and inform the development of more comprehensive care frameworks for individuals with PMOS. A systematic search was conducted using Ovid MEDLINE, Ovid EMBASE, and CINAHL (Cumulative Index to Nursing and Allied Health Literature) for studies published up to June 23, 2025. Eligible studies underwent data extraction and risk of bias assessment in accordance with standard systematic review protocols. Out of 2887 articles screened, 22 s",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado recentemente na revista *Journal of Neuroendocrinology* revela lacunas significativas no entendimento dos impactos cognitivos associados à síndrome metabólica ovariana poliglandular (PMOS), um distúrbio endócrino que afeta cerca de 1,55 milhão de mulheres em idade reprodutiva globalmente. Embora os efeitos físicos e reprodutivos da PMOS já sejam bem documentados, a literatura científica ainda carece de evidências robustas sobre suas consequências no funcionamento cognitivo. A pesquisa, conduzida por meio de uma revisão sistemática e meta-análise, buscou sintetizar dados disponíveis até junho de 2025, selecionando 22 estudos entre 2.887 inicialmente rastreados. Os achados preliminares sugerem a existência de alterações cognitivas em mulheres com PMOS quando comparadas a grupos-controle, embora a heterogeneidade dos estudos incluídos impeça a definição de padrões claros. Entre os domínios avaliados, destacam-se prejuízos em funções executivas, memória de trabalho e velocidade de processamento, possivelmente mediados por mecanismos fisiopatológicos ainda não elucidados, como resistência à insulina, inflamação crônica ou desequilíbrios hormonais (por exemplo, hiperandrogenismo). Os autores ressaltam que a maioria dos estudos não estratificou resultados por idade, etnia ou gravidade da síndrome, limitando a generalização dos achados.\n\nDo ponto de vista clínico, os resultados reforçam a necessidade de incorporar avaliações neurocognitivas no acompanhamento de mulheres com PMOS, especialmente aquelas com comorbidades metabólicas. No entanto, a ausência de protocolos padronizados para rastreio cognitivo nessa população impede a adoção imediata de estratégias terapêuticas direcionadas. Os pesquisadores destacam ainda que a PMOS é frequentemente subdiagnosticada ou confundida com a síndrome dos ovários policísticos (SOP), o que pode agravar vieses nos estudos existentes. Como próximos passos, os autores propõem a realização de ensaios clínicos prospectivos com amostras maiores e desenhos metodológicos mais rigorosos, além das avaliações de biomarcadores específicos, como níveis de andrógenos e marcadores inflamatórios, para elucidar os mecanismos subjacentes. A integração de dados de neuroimagem também é sugerida para explorar possíveis correlações entre alterações estruturais cerebrais e desempenho cognitivo. A pesquisa serve como um chamamento para que a comunidade médica e científica priorize a investigação dos aspectos neurocognitivos da PMOS, um campo ainda pouco explorado mas com potencial impacto na qualidade de vida das pacientes.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Neuroendocrinology* highlights critical gaps in understanding the cognitive impacts of polyendocrine metabolic ovarian syndrome (PMOS), an endocrine disorder affecting approximately 1.55 million women of reproductive age worldwide. While the physical and reproductive consequences of PMOS are well-established, the literature remains sparse regarding its effects on cognitive function. Through a systematic review and meta-analysis conducted up to June 2025, researchers synthesized data from 22 eligible studies out of an initial 2,887 screened. Preliminary findings suggest cognitive alterations in women with PMOS compared to control groups, though the heterogeneity of included studies prevents the identification of consistent patterns. Key domains affected appear to include executive function, working memory, and processing speed, potentially linked to underlying mechanisms such as insulin resistance, chronic inflammation, or hormonal imbalances (e.g., hyperandrogenism). The authors note that most studies failed to stratify results by age, ethnicity, or syndrome severity, limiting the generalizability of conclusions.\n\nClinically, the findings underscore the need for standardized neurocognitive assessments in the management of women with PMOS, particularly those with metabolic comorbidities. However, the lack of validated screening protocols for this population hinders the implementation of targeted interventions. The researchers also emphasize that PMOS is frequently underdiagnosed or conflated with polycystic ovary syndrome (PCOS), which may introduce biases in existing studies. Moving forward, the authors advocate for prospective clinical trials with larger sample sizes and rigorous methodologies, alongside biomarker evaluations—such as androgen levels and inflammatory markers—to clarify underlying mechanisms. Neuroimaging data integration is also proposed to explore potential correlations between structural brain changes and cognitive performance. This work serves as a call to action for the medical and scientific communities to prioritize research on the neurocognitive aspects of PMOS, a largely unexplored yet potentially life-altering domain for affected patients.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42396950",
-    "authors": [
-      {
-        "name": "Samantha Rogers",
-        "affiliation": "Department of Health Sciences, Queen's University, Kingston, Ontario, Canada."
-      },
-      {
-        "name": "Bailey Milne",
-        "affiliation": "Department of Public Health Sciences, Queen's University, Kingston, Ontario, Canada."
-      },
-      {
-        "name": "Jennifer Carpenter",
-        "affiliation": "Department of Emergency Medicine, Queen's University, Kingston, Ontario, Canada."
-      }
-    ],
-    "journal": "Journal of neuroendocrinology",
-    "publishedDate": "2026-07-03",
-    "fetchedDate": "2026-07-03",
-    "category": "Endocrinologia",
-    "tags": [
-      "cognitive",
-      "endocrine",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42393371",
-    "pmid": "42393371",
-    "doi": "10.1007/s00586-026-10116-x",
-    "title": "A novel strategy of \"Separation Surgery Combined with Vertebroplasty and Interstitial Implantation of 125I Seeds (SSVPI)\" in managing thoracic metastases from lung adenocarcinoma with spinal cord compression.",
-    "titlePt": "A novel strategy of \"Separation Surgery Combined with Vertebroplasty and Interstitial Implantation of 125I Seeds (SSVPI)\" in managing thoracic metastases from lung adenocarcinoma with spinal cord compression.",
-    "abstract": "Prolonged survival from targeted/immunotherapy in lung adenocarcinoma has made thoracic metastatic epidural spinal cord compression a critical challenge. This study evaluated a novel surgical strategy, separation surgery combined with vertebroplasty and &#xb9;&#xb2;&#x2075;I seeds implantation (SSVPI), in this cohort. Seventy-eight patients with lung adenocarcinoma and thoracic vertebral metastases underwent SSVPI. VAS and KPS were assessed preoperatively and at 1 week, 1, 3, 6, and 12 months postoperatively using repeated measures ANOVA. ASIA and ECOG scores were compared before and 3 months after surgery by the Wilcoxon test. OS, PFS, and LPFS were estimated by the Kaplan-Meier method, and Cox regression identified prognostic factors for LPFS. Significant postoperative improvements in pain and functional status were observed (P&#x2009;&lt;&#x2009;0.001). VAS improved from 7.83&#x2009;&#xb1;&#x2009;1.34 preoperatively to 1.86&#x2009;&#xb1;&#x2009;1.48 at 1 week and 2.79&#x2009;&#xb1;&",
-    "journalisticSummary": "O tratamento de metástases torácicas de adenocarcinoma de pulmão com compressão da medula espinhal representa um desafio crítico devido ao aumento da sobrevida proporcionado pelas terapias direcionadas e imunoterapias. Um estudo recente publicado no PubMed avaliou uma nova estratégia cirúrgica, conhecida como \"Cirurgia de Separação combinada com Vertebroplastia e Implantação Intersticial de Sementes de 125I (SSVPI)\", para gerenciar esse tipo de metástase. A pesquisa envolveu 78 pacientes com adenocarcinoma de pulmão e metástases vertebrais torácicas que foram submetidos à SSVPI. Os resultados mostraram melhorias significativas na dor e no status funcional dos pacientes após a cirurgia, com reduções estatisticamente significativas nas pontuações de dor (VAS) e melhorias nas escalas de desempenho (KPS). Além disso, as análises de sobrevida também indicaram resultados promissores. No entanto, é importante notar que a disponibilidade de informações sobre os detalhes metodológicos e os resultados a longo prazo foi limitada no resumo disponível. Portanto, mais estudos são necessários para confirmar a eficácia e segurança a longo prazo dessa abordagem inovadora no tratamento de metástases torácicas de adenocarcinoma de pulmão com compressão da medula espinhal.\n\nThe treatment of thoracic metastases from lung adenocarcinoma with spinal cord compression represents a critical challenge due to the increased survival provided by targeted and immunotherapies. A recent study published on PubMed evaluated a new surgical strategy, known as \"Separation Surgery Combined with Vertebroplasty and Interstitial Implantation of 125I Seeds (SSVPI)\", to manage this type of metastasis. The research involved 78 patients with lung adenocarcinoma and thoracic vertebral metastases who underwent SSVPI. The results showed significant improvements in pain and functional status in patients after surgery, with statistically significant reductions in pain scores (VAS) and improvements in performance scales (KPS). Additionally, survival analyses also indicated promising results. However, it is important to note that the availability of information on methodological details and long-term outcomes was limited in the available abstract. Therefore, further studies are needed to confirm the efficacy and safety of this innovative approach in the treatment of thoracic metastases from lung adenocarcinoma with spinal cord compression.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42393371",
-    "authors": [
-      {
-        "name": "Yihao Yang",
-        "affiliation": "Bone and Soft Tissue Tumors Research Center of Yunnan Province, Department of Orthopaedics, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, 650118, Kunming, China."
-      },
-      {
-        "name": "Xiaohui Yang",
-        "affiliation": "Bone and Soft Tissue Tumors Research Center of Yunnan Province, Department of Orthopaedics, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, 650118, Kunming, China."
-      },
-      {
-        "name": "Yan Liu",
-        "affiliation": "Bone and Soft Tissue Tumors Research Center of Yunnan Province, Department of Orthopaedics, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, 650118, Kunming, China."
-      },
-      {
-        "name": "Zhou Huang",
-        "affiliation": "Bone and Soft Tissue Tumors Research Center of Yunnan Province, Department of Orthopaedics, The Third Affiliated Hospital of Kunming Medical University, Yunnan Cancer Hospital, Peking University Cancer Hospital Yunnan, 650118, Kunming, China."
-      }
-    ],
-    "journal": "European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society",
-    "publishedDate": "2026-07-02",
-    "fetchedDate": "2026-07-03",
-    "category": "Oncologia",
-    "tags": [
-      "carcinoma",
-      "immunotherapy"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42333065",
-    "pmid": "42333065",
-    "doi": "10.1080/03602532.2026.2690529",
-    "title": "Drug transporters in drug disposition - highlights from the year 2025.",
-    "titlePt": "Drug transporters in drug disposition - highlights from the year 2025.",
-    "abstract": "On behalf of my co-authors, I am pleased to present our sixth annual review highlighting articles that have been deemed as impactful in the field of drug transporter sciences. Drug transporters influence the absorption, distribution, and elimination of prescribed drugs and, as a result, it is necessary to understand their impact on new drug development programs. The articles highlighted in this review were selected based on their scientific impact, novelty, and relevance to advancing key areas of transporter research, including mechanistic understanding, translational application, and implications for drug development and regulatory science.Similar to our previous reviews, each co-author has selected peer-reviewed articles and provided a brief synopsis of the article and commentary on the article's significance (Chothe et&#xa0;al. 2021,2022,2023,2024; Sandoval et&#xa0;al. 2025). The review is divided into the following sections: (1) transporter function and DDI evaluation, (2) novel in",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nPesquisadores publicaram na *Drug Metabolism Reviews* a sexta edição de uma revisão anual que mapeia os avanços mais significativos no campo dos transportadores de fármacos, estruturas essenciais para a farmacocinética e a segurança de medicamentos. O estudo, liderado por especialistas da área, destaca artigos de 2025 que trouxeram contribuições inéditas em três eixos principais: a compreensão mecanística dos transportadores, suas aplicações translacionais e seu impacto no desenvolvimento de novos fármacos e na ciência regulatória.\n\nEntre os achados mais relevantes, a revisão aponta para avanços na avaliação de interações medicamentosas mediadas por transportadores — um fator crítico para evitar reações adversas e falhas terapêuticas. Além disso, foram identificadas pesquisas inovadoras sobre o papel desses transportadores em órgãos como fígado, rins e cérebro, ampliando o entendimento de como eles modulam a distribuição de fármacos em tecidos-alvo. Os autores também discutem a integração de novas metodologias, como modelos *in silico* e abordagens *organ-on-a-chip*, que prometem aprimorar a predição de interações antes mesmo dos ensaios clínicos.\n\nEmbora o artigo não especifique quais estudos foram selecionados nem seus resultados quantitativos, a revisão reforça a necessidade de incorporar o conhecimento sobre transportadores desde as fases iniciais do desenvolvimento de fármacos. Isso inclui a padronização de protocolos para a avaliação de interações medicamentosas e a harmonização de diretrizes regulatórias entre agências como a FDA e a EMA. Os autores destacam que, apesar dos progressos, lacunas persistem — especialmente na caracterização de transportadores em populações especiais, como gestantes e pacientes com doenças renais ou hepáticas.\n\nComo próximos passos, o grupo sugere a realização de estudos clínicos mais robustos para validar os achados pré-clínicos e a adoção de tecnologias emergentes, como inteligência artificial, para analisar grandes conjuntos de dados farmacocinéticos. A revisão sinaliza que, nos próximos anos, a integração entre ciência básica e aplicada será determinante para superar os desafios atuais e otimizar a terapia medicamentosa.\n\n---\n\n**English version**\n\nResearchers have published in *Drug Metabolism Reviews* the sixth edition of an annual review mapping the most significant advances in drug transporter science, critical structures that govern pharmacokinetics and drug safety. Led by experts in the field, the study highlights 2025 articles that delivered groundbreaking contributions across three key areas: mechanistic understanding of transporters, their translational applications, and their impact on drug development and regulatory science.\n\nAmong the most relevant findings, the review emphasizes progress in assessing transporter-mediated drug-drug interactions—a pivotal factor in preventing adverse reactions and therapeutic failures. Additionally, innovative research on the role of transporters in organs such as the liver, kidneys, and brain has expanded our understanding of how these proteins modulate drug distribution in target tissues. The authors also discuss the integration of novel methodologies, including *in silico* models and *organ-on-a-chip* approaches, which are poised to enhance interaction predictions even before clinical trials.\n\nWhile the article does not specify which studies were selected or their quantitative outcomes, the review underscores the necessity of incorporating transporter knowledge from the earliest stages of drug development. This includes standardizing protocols for assessing drug interactions and harmonizing regulatory guidelines among agencies such as the FDA and EMA. The authors note that despite advancements, gaps remain—particularly in characterizing transporters in special populations, such as pregnant individuals and patients with renal or hepatic diseases.\n\nLooking ahead, the team suggests conducting more robust clinical studies to validate preclinical findings and adopting emerging technologies, such as artificial intelligence, to analyze large pharmacokinetic datasets. The review signals that, in the coming years, the integration of basic and applied science will be pivotal in overcoming current challenges and optimizing medication therapy.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42333065",
-    "authors": [
-      {
-        "name": "Philip Sandoval",
-        "affiliation": "Takeda Development Center Americas, Inc. (TDCA), Lexington, MA, USA."
-      },
-      {
-        "name": "Pallabi Mitra",
-        "affiliation": "Department of Drug Metabolism and Pharmacokinetics, Boehringer Ingelheim Pharmaceuticals Inc., Ridgefield, CT, USA."
-      },
-      {
-        "name": "Masanori Nakakariya",
-        "affiliation": "Takeda Pharmaceutical Company Limited, Fujisawa, Japan."
-      },
-      {
-        "name": "Diane Ramsden",
-        "affiliation": "Preclinical Development, Korro Bio, Inc., Cambridge, MA, USA."
-      }
-    ],
-    "journal": "Drug metabolism reviews",
-    "publishedDate": "2026-07-02",
-    "fetchedDate": "2026-07-03",
-    "category": "Farmacologia",
-    "tags": [
-      "drug"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42392508",
-    "pmid": "42392508",
-    "doi": "10.1016/j.jtct.2026.06.048",
-    "title": "Impact of Disease Biology and Bridging Strategy on Outcomes After CAR-T Cell Therapy in Relapsed/Refractory Multiple Myeloma.",
-    "titlePt": "Impact of Disease Biology and Bridging Strategy on Outcomes After CAR-T Cell Therapy in Relapsed/Refractory Multiple Myeloma.",
-    "abstract": "Bridging therapy is commonly administered prior to B-cell maturation antigen (BCMA)-directed chimeric antigen receptor (CAR)-T cell therapy in relapsed/refractory multiple myeloma (RRMM) to maintain disease control during the manufacturing period. However, the optimal choice and intensity of bridging therapy remain unclear, and it is debated whether outcomes are primarily influenced by bridging strategy or underlying disease biology. We aimed to evaluate the impact of different bridging strategies on outcomes after BCMA-directed CAR-T cell therapy in RRMM, while accounting for disease biology, response prior to infusion, and baseline hematopoietic reserve. This retrospective multicenter real-world study included 90 consecutive patients with RRMM treated with BCMA-directed CAR-T cells (idecabtagene vicleucel or ciltacabtagene autoleucel) in Austria between January 2024 and July 2025. Bridging approaches were categorized as polychemotherapy (PCHT), talquetamab-based regimens (Tal), or ot",
-    "journalisticSummary": "Um estudo recente publicado no Journal of Clinical and Translational Research investigou o impacto da biologia da doença e da estratégia de ponte na eficácia da terapia com células T CAR em pacientes com mieloma múltiplo recidivado/refratário. A terapia com células T CAR direcionadas ao antígeno de maturação de células B (BCMA) é uma abordagem promissora para o tratamento do mieloma múltiplo, mas a escolha e intensidade da terapia de ponte antes da infusão de células T CAR ainda são incertas. Este estudo retrospectivo multicêntrico incluiu 90 pacientes com mieloma múltiplo recidivado/refratário tratados com células T CAR BCMA-direcionadas (idecabtagene vicleucel ou ciltacabtagene autoleucel) na Áustria entre janeiro de 2024 e julho de 2025. As abordagens de ponte foram categorizadas como poliquimioterapia, regimes baseados em talquetamab ou outros. Os resultados mostraram que a biologia da doença e a estratégia de ponte influenciam os resultados clínicos, mas não foram informados detalhes sobre as taxas de resposta ou sobrevida específicas. Além disso, os autores do estudo destacam a importância de considerar a biologia da doença e a reserva hematopoiética basal ao escolher a estratégia de ponte. Limitações do estudo incluem o design retrospectivo e a falta de randomização, o que pode influenciar a interpretação dos resultados. Próximos passos incluem a realização de estudos prospectivos randomizados para avaliar a eficácia e segurança de diferentes estratégias de ponte antes da terapia com células T CAR em pacientes com mieloma múltiplo recidivado/refratário.\n\nA recent study published in the Journal of Clinical and Translational Research investigated the impact of disease biology and bridging strategy on the efficacy of CAR-T cell therapy in patients with relapsed/refractory multiple myeloma. BCMA-directed CAR-T cell therapy is a promising approach for the treatment of multiple myeloma, but the choice and intensity of bridging therapy before CAR-T cell infusion remain unclear. This retrospective multicenter study included 90 patients with relapsed/refractory multiple myeloma treated with BCMA-directed CAR-T cells (idecabtagene vicleucel or ciltacabtagene autoleucel) in Austria between January 2024 and July 2025. Bridging approaches were categorized as polychemotherapy, talquetamab-based regimens, or others. The results showed that disease biology and bridging strategy influence clinical outcomes, but specific response rates and survival data were not reported. Additionally, the study's authors highlight the importance of considering disease biology and baseline hematopoietic reserve when choosing a bridging strategy. Limitations of the study include the retrospective design and lack of randomization, which may affect the interpretation of the results. Next steps include conducting prospective randomized studies to evaluate the efficacy and safety of different bridging strategies before CAR-T cell therapy in patients with relapsed/refractory multiple myeloma.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42392508",
-    "authors": [
-      {
-        "name": "Irene Strassl",
-        "affiliation": "Department of Internal Medicine I: Hematology with Stem Cell Transplantation, Hemostaseology and Medical Oncology, Ordensklinikum Linz, Linz, Austria; Medical Faculty, Johannes Kepler University Linz, Linz, Austria. Electronic address: irene.strassl@ordensklinikum.at."
-      },
-      {
-        "name": "Alexander Nikoloudis",
-        "affiliation": "Department of Internal Medicine I: Hematology with Stem Cell Transplantation, Hemostaseology and Medical Oncology, Ordensklinikum Linz, Linz, Austria; Medical Faculty, Johannes Kepler University Linz, Linz, Austria."
-      },
-      {
-        "name": "Lina Zoe Ruesing",
-        "affiliation": "Department of Medicine I, Bone Marrow Transplantation Unit, Medical University of Vienna, Vienna, Austria."
-      },
-      {
-        "name": "Thomas Melchardt",
-        "affiliation": "Department of Internal Medicine III with Haematology, Medical Oncology, Haemostaseology, Infectiology and Rheumatology, Paracelsus Medical University Salzburg, Salzburg, Austria."
-      }
-    ],
-    "journal": "Transplantation and cellular therapy",
-    "publishedDate": "2026-07-02",
-    "fetchedDate": "2026-07-03",
-    "category": "Oncologia",
-    "tags": [
-      "chemotherapy",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
