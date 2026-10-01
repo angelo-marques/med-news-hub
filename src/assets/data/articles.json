@@ -1,5 +1,91 @@
 [
   {
+    "id": "pubmed-42817068",
+    "pmid": "42817068",
+    "doi": "10.1002/edm2.70351",
+    "title": "Global Landscape and Thematic Evolution of Selective GLP-1 Receptor Agonists and GLP-1-Based Multi-Receptor Agonists in Type 2 Diabetes Mellitus: A Bibliometric Analysis.",
+    "titlePt": "Global Landscape and Thematic Evolution of Selective GLP-1 Receptor Agonists and GLP-1-Based Multi-Receptor Agonists in Type 2 Diabetes Mellitus: A Bibliometric Analysis.",
+    "abstract": "To characterize the global development, collaboration structure, publication landscape, citation influence and thematic evolution of research on selective GLP-1 receptor agonists and GLP-1-based multi-receptor agonists in T2DM. A bibliometric analysis was conducted on 3736 original articles published between 2004 and 2025 and retrieved from the Web of Science Core Collection. Publication trends, research contributions, collaboration networks, citation impact and thematic evolution were evaluated using complementary bibliometric indicators and network analysis. Annual publication output increased substantially. Selective-only studies remained the cumulative core of the evidence base, while mixed/comparative and multi-receptor-only studies expanded rapidly in recent years. The United States led in research output and international connectivity, and Novo Nordisk and Eli Lilly were the most prominent institutional contributors based on author affiliation analysis. Diabetes, Obesity and Met",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42817068",
+    "authors": [
+      {
+        "name": "Yanbing Wang",
+        "affiliation": "Health Management Program, Boston University, Boston, Massachusetts, USA."
+      },
+      {
+        "name": "Zhanru Liu",
+        "affiliation": "School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China."
+      },
+      {
+        "name": "Shifeng Wang",
+        "affiliation": "School of Chinese Materia Medica, Beijing University of Chinese Medicine, Beijing, China."
+      },
+      {
+        "name": "Cuiyan Lv",
+        "affiliation": "Beijing Hospital of Traditional Chinese Medicine, Capital Medical University, Beijing, China."
+      }
+    ],
+    "journal": "Endocrinology, diabetes &amp; metabolism",
+    "publishedDate": "2026-10-01",
+    "fetchedDate": "2026-10-01",
+    "category": "Endocrinologia",
+    "tags": [
+      "rna",
+      "diabetes",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3X5vhK-2kFHot-a43dc1d7c93c7603\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 71d33e8e-b19d-4849-8b78-7e88bdbb0f3c)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42683763",
+    "pmid": "42683763",
+    "doi": "10.1097/MNH.0000000000001225",
+    "title": "Integrating the liver into the cardiovascular-kidney-metabolic syndrome: pathophysiology and therapeutic implications.",
+    "titlePt": "Integrating the liver into the cardiovascular-kidney-metabolic syndrome: pathophysiology and therapeutic implications.",
+    "abstract": "This review examines the mechanistic, epidemiological and therapeutic evidence underpinning liver integration into the cardiovascular-kidney-metabolic (CKM) construct. For the purposes of this review, we use the term cardiovascular-renal-hepatic-metabolic (CRHM) syndrome to denote this expanded framework, acknowledging that consensus nomenclature is yet to be established. Large cohort data confirm that coexistent metabolic dysfunction-associated steatotic liver disease (MASLD) and CKD confer additive, stage-dependent mortality risk exceeding that of either condition alone, with hepatic fibrosis severity, rather than steatosis, the dominant prognostic driver. The past 12-18&#x200a;months have seen significant therapeutic developments spanning the full CRHM spectrum. Resmetirom, a hepato-selective thyroid hormone receptor-&#x3b2; (THR-&#x3b2;) agonist, received FDA-accelerated approval (March 2024) and European Commission conditional marketing authorization (August 2025) as the first lic",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42683763",
+    "authors": [
+      {
+        "name": "William R Marshall",
+        "affiliation": "Division of Cardiovascular Sciences, University of Manchester."
+      },
+      {
+        "name": "Smeeta Sinha",
+        "affiliation": "Donal O'Donoghue Renal Research Centre, Northern Care Alliance NHS Foundation Trust, Manchester, UK."
+      },
+      {
+        "name": "Darren Green",
+        "affiliation": "Division of Cardiovascular Sciences, University of Manchester."
+      },
+      {
+        "name": "Philip A Kalra",
+        "affiliation": "Donal O'Donoghue Renal Research Centre, Northern Care Alliance NHS Foundation Trust, Manchester, UK."
+      }
+    ],
+    "journal": "Current opinion in nephrology and hypertension",
+    "publishedDate": "2026-10-01",
+    "fetchedDate": "2026-10-01",
+    "category": "Endocrinologia",
+    "tags": [
+      "cardiovascular",
+      "therapeutic",
+      "thyroid",
+      "hormone",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3X5yCD-2kFHot-a43dc20c5c7d9343\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 78f26b15-1be1-4973-b4e2-3658aaa965a6)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42269861",
     "pmid": "42269861",
     "doi": "10.1016/j.jjcc.2026.06.004",
@@ -4996,6 +5082,47 @@
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
+  },
+  {
+    "id": "pubmed-42399625",
+    "pmid": "42399625",
+    "doi": "10.1038/s41375-026-03021-1",
+    "title": "Linperlisib enhances MUC1-Tn CAR T cell efficacy by inhibiting EGR1/DUSP2 axis to prevent CAR T cell exhaustion.",
+    "titlePt": "Linperlisib enhances MUC1-Tn CAR T cell efficacy by inhibiting EGR1/DUSP2 axis to prevent CAR T cell exhaustion.",
+    "abstract": "Chimeric antigen receptor (CAR) T cell therapy demonstrates suboptimal efficacy in T-cell acute lymphoblastic leukemia (T-ALL), largely due to target-mediated fratricide from shared antigen expression and effector T cell exhaustion. The Mucin1-Thomsen-nouvelle (MUC1-Tn) antigen is overexpressed in various malignancies, including T-ALL. In this study, we confirmed MUC1-Tn protein expression in T-ALL cell lines and primary patient-derived bone marrow cells and subsequently developed MUC1-Tn-targeted CAR T cells. These CAR T cells effectively lysed T-ALL cells in both in vitro cytotoxicity assays and xenograft models. Given the critical role of the PI3K&#x3b4; signaling pathway in modulating T-cell function and tumor immunosuppression, we combined MUC1-Tn CAR T cells with the PI3K&#x3b4; inhibitor linperlisib. Linperlisib enhanced the anti-leukemic efficacy and persistence of MUC1-Tn CAR T cells. This was associated with reduced T cell exhaustion marker expression, decreased proportions o",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42399625",
+    "authors": [
+      {
+        "name": "Jia-Yue Wei",
+        "affiliation": "Department of Hematology, Zhujiang Hospital, Southern Medical University, Guangzhou, Guangdong, China."
+      },
+      {
+        "name": "Zi-Wei Liu",
+        "affiliation": "Department of Hematology, Zhujiang Hospital, Southern Medical University, Guangzhou, Guangdong, China."
+      },
+      {
+        "name": "Qi-Si Lu",
+        "affiliation": "National Clinical Research Center for Hematologic Diseases, Jiangsu Institute of Hematology, The First Affiliated Hospital of Soochow University, Suzhou, China."
+      },
+      {
+        "name": "Yin-Jie Qin",
+        "affiliation": "Department of Hematology, Zhujiang Hospital, Southern Medical University, Guangzhou, Guangdong, China."
+      }
+    ],
+    "journal": "Leukemia",
+    "publishedDate": "2026-08-26",
+    "fetchedDate": "2026-10-01",
+    "category": "Oncologia",
+    "tags": [
+      "tumor",
+      "leukemia"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3X5SUf-2kFHot-a43dbf86783a7682\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: d5ea84ff-aeeb-4184-a49b-aa1661569d39)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   },
   {
     "id": "pubmed-42031362",
@@ -12461,134 +12588,5 @@
     "readTime": 10,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozqmnAu-2kFHot-a39623beacc82cac\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42402265",
-    "pmid": "42402265",
-    "doi": "10.1016/j.jhep.2026.06.025",
-    "title": "Durvalumab with gemcitabine-based chemotherapy regimens in advanced biliary tract cancer: primary results from the phase IIIb TOURMALINE study.",
-    "titlePt": "Durvalumab with gemcitabine-based chemotherapy regimens in advanced biliary tract cancer: primary results from the phase IIIb TOURMALINE study.",
-    "abstract": "TOPAZ-1 (NCT03875235) demonstrated improved overall survival (OS) with durvalumab plus gemcitabine and cisplatin vs. placebo plus gemcitabine and cisplatin with manageable safety in advanced biliary tract cancer (aBTC). The phase IIIb TOURMALINE study (NCT05771480) is evaluating the safety and efficacy of first-line durvalumab plus seven gemcitabine-based chemotherapy regimens in a close-to-real-world aBTC population, including participants with poor prognosis. Participants received 1500 mg IV durvalumab (first infusion: 60 minutes; subsequent infusions: 30 minutes) plus investigator's choice of one of seven gemcitabine-based chemotherapy regimens. The primary endpoint was incidence of Grade 3/4 adverse events (AEs) possibly related to treatment (PRAEs) within 6 months of first durvalumab dose. Secondary endpoints included progression-free survival (PFS), OS, objective response rate (ORR), and safety. As of 17 September 2025, 142 participants (median age 68.0 years) had follow-up &#x22",
-    "journalisticSummary": "O estudo TOURMALINE, uma pesquisa de fase IIIb, avaliou a segurança e eficácia do uso de durvalumab em combinação com sete regimes de quimioterapia baseados em gemcitabina como tratamento de primeira linha para o câncer de trato biliar avançado (aBTC). Essa investigação é particularmente relevante, considerando que o estudo TOPAZ-1 anteriormente demonstrou uma melhoria na sobrevida geral (OS) com a combinação de durvalumab, gemcitabina e cisplatina, em comparação com placebo mais gemcitabina e cisplatina, com segurança gerenciável em pacientes com aBTC. No estudo TOURMALINE, os participantes receberam 1500 mg de durvalumab via intravenosa, administrado junto com a escolha do investigador de um dos sete regimes de quimioterapia baseados em gemcitabina.\n\nOs principais achados desse estudo incluem a incidência de eventos adversos (EAs) de grau 3/4 possivelmente relacionados ao tratamento (PRAEs) dentro de seis meses após a primeira dose de durvalumab. Além disso, foram avaliados como endpoints secundários a sobrevida livre de progressão (PFS), a sobrevida geral (OS), a taxa de resposta objetiva (ORR) e a segurança geral do tratamento. Até 17 de setembro de 2025, 142 participantes, com uma média de idade de 68,0 anos, tinham seguimento. No entanto, não foram fornecidos detalhes específicos sobre os resultados desses endpoints no resumo disponível, o que limita a compreensão completa dos achados do estudo.\n\nO impacto clínico desse estudo pode ser significativo, considerando a necessidade de opções de tratamento eficazes para o aBTC, especialmente em pacientes com prognóstico pobre. A combinação de durvalumab com quimioterapia baseada em gemcitabina pode oferecer uma abordagem terapêutica valiosa, potencialmente melhorando a sobrevida e a qualidade de vida desses pacientes. No entanto, é crucial aguardar a disponibilidade de dados mais detalhados e a publicação completa dos resultados para uma avaliação mais precisa do estudo TOURMALINE.\n\nAs limitações do estudo incluem a ausência de informações detalhadas sobre os resultados dos endpoints, o que dificulta a avaliação completa da eficácia e segurança do tratamento. Além disso, a heterogeneidade dos regimes de quimioterapia baseados em gemcitabina utilizados pode introduzir variabilidades nos resultados, tornando necessário um análise cuidadosa para entender melhor os efeitos do tratamento. Os próximos passos incluem a análise contínua dos dados coletados e a publicação dos resultados completos, o que permitirá uma compreensão mais profunda do papel de durvalumab em combinação com gemcitabina no tratamento do aBTC.\n\nO estudo TOURMALINE representa um esforço significativo para expandir as opções terapêuticas para pacientes com aBTC, uma condição com necessidades médicas não atendidas. À medida que mais dados se tornam disponíveis, a comunidade médica e os pacientes aguardam com expectativa a possibilidade de terapêuticas inovadoras e eficazes para essa doença desafiadora.\n\nThe TOURMALINE study, a phase IIIb research, evaluated the safety and efficacy of using durvalumab in combination with seven gemcitabine-based chemotherapy regimens as a first-line treatment for advanced biliary tract cancer (aBTC). This investigation is particularly relevant, given that the previous TOPAZ-1 study demonstrated improved overall survival (OS) with the combination of durvalumab, gemcitabine, and cisplatin, compared to placebo plus gemcitabine and cisplatin, with manageable safety in aBTC patients. In the TOURMALINE study, participants received 1500 mg of durvalumab intravenously, administered along with the investigator's choice of one of the seven gemcitabine-based chemotherapy regimens.\n\nThe main findings of this study include the incidence of grade 3/4 adverse events (AEs) possibly related to treatment (PRAEs) within six months after the first durvalumab dose. Additionally, progression-free survival (PFS), overall survival (OS), objective response rate (ORR), and safety were evaluated as secondary endpoints. As of September 17, 2025, 142 participants, with a median age of 68.0 years, had follow-up. However, specific details about the results of these endpoints were not provided in the available summary, which limits the full understanding of the study's findings.\n\nThe clinical impact of this study may be significant, considering the need for effective treatment options for aBTC, especially in patients with poor prognosis. The combination of durvalumab with gemcitabine-based chemotherapy may offer a valuable therapeutic approach, potentially improving survival and quality of life for these patients. However, it is crucial to await the availability of more detailed data and the full publication of the results for a more accurate assessment of the TOURMALINE study.\n\nThe limitations of the study include the lack of detailed information about the results of the endpoints, which makes it challenging to fully evaluate the treatment's efficacy and safety. Additionally, the heterogeneity of the gemcitabine-based chemotherapy regimens used may introduce variability in the results, requiring careful analysis to better understand the treatment effects. The next steps include the continued analysis of the collected data and the publication of the complete results, which will allow for a deeper understanding of the role of durvalumab in combination with gemcitabine in the treatment of aBTC.\n\nThe TOURMALINE study represents a significant effort to expand therapeutic options for patients with aBTC, a condition with unmet medical needs. As more data become available, the medical community and patients await with anticipation the possibility of innovative and effective therapies for this challenging disease.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42402265",
-    "authors": [
-      {
-        "name": "Do-Youn Oh",
-        "affiliation": "Division of Medical Oncology, Department of Internal Medicine, Seoul National University Hospital, Cancer Research Institute, Seoul National University College of Medicine, Integrated Major in Innovative Medical Science, Seoul National University Graduate School, Seoul, Republic of Korea. Electronic address: ohdoyoun@snu.ac.kr."
-      },
-      {
-        "name": "Masafumi Ikeda",
-        "affiliation": "Department of Hepatobiliary and Pancreatic Oncology, National Cancer Center Hospital East, Kashiwa, Japan."
-      },
-      {
-        "name": "Teresa Macarulla",
-        "affiliation": "Vall d'Hebron Institute of Oncology (VHIO), Vall d'Hebron University Hospital, Barcelona, Spain."
-      },
-      {
-        "name": "Aiwu Ruth He",
-        "affiliation": "Herbet Irving Comprehensive Cancer Center, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA."
-      }
-    ],
-    "journal": "Journal of hepatology",
-    "publishedDate": "2026-07-05",
-    "fetchedDate": "2026-07-06",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "chemotherapy"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42400724",
-    "pmid": "42400724",
-    "doi": "10.1007/s10840-026-02392-w",
-    "title": "Single-shot ablation for AF: Real-world procedural and one-year outcomes with the newly adopted PulseSelect PFA compared with cryoballoon from the 1STOP project.",
-    "titlePt": "Single-shot ablation for AF: Real-world procedural and one-year outcomes with the newly adopted PulseSelect PFA compared with cryoballoon from the 1STOP project.",
-    "abstract": "Pulmonary vein isolation (PVI) is an established treatment for symptomatic atrial fibrillation (AF). To date, cryoballoon (CB) ablation has been the most widely adopted single-shot approach, while pulsed field ablation (PFA) has emerged as a non-thermal alternative designed to preferentially ablate myocardial tissue and reduce collateral injury. PulseSelect&#x2122; is a CE-marked and FDA approved PFA system specifically developed for PVI. We compared acute and one-year outcomes of PulseSelect PFA versus fourth-generation cryoballoon (CB4) ablation in routine clinical practice. This multicenter analysis included 254 consecutive patients undergoing first-time PVI in 10 Italian medium-volume centers between January 2024 and February 2025: 121 treated with PulseSelect and 133 with CB4. Baseline clinical and echocardiographic characteristics were prospectively collected. Procedural workflow, anesthesia strategy, procedure duration, fluoroscopy time, and periprocedural complications were ass",
-    "journalisticSummary": "Estudos recentes têm buscado melhorar as técnicas de ablação para fibrilação atrial (AF), uma condição que afeta milhões de pessoas worldwide. A isolamento das veias pulmonares (PVI) é um tratamento estabelecido para AF sintomática. Até o momento, a ablação com criobalão (CB) tem sido a abordagem de \"tiro único\" mais amplamente adotada, enquanto a ablação por campo pulsado (PFA) surgiu como uma alternativa não térmica projetada para ablar tecido miocárdico de forma preferencial e reduzir lesões colaterais. O sistema PulseSelect é um dispositivo de PFA aprovado pela CE e FDA, especificamente desenvolvido para PVI. Um estudo multicêntrico recente comparou os resultados agudos e de um ano da PFA com PulseSelect versus a ablação com criobalão de quarta geração (CB4) na prática clínica rotineira. Foram incluídos 254 pacientes consecutivos submetidos a PVI pela primeira vez em 10 centros italianos de volume médio entre janeiro de 2024 e fevereiro de 2025: 121 tratados com PulseSelect e 133 com CB4. As características clínicas e ecocardiográficas de base foram coletadas prospectivamente. Os resultados mostraram que a PFA com PulseSelect oferece uma alternativa viável à ablação com CB4, com resultados procedurais e clínicos semelhantes. No entanto, não foram fornecidos detalhes sobre as taxas de complicações periprocedurais e os resultados de longo prazo. Mais estudos são necessários para avaliar a eficácia e a segurança da PFA com PulseSelect em comparação com outras técnicas de ablação.\n\nRecent studies have sought to improve ablation techniques for atrial fibrillation (AF), a condition affecting millions worldwide. Pulmonary vein isolation (PVI) is an established treatment for symptomatic AF. To date, cryoballoon (CB) ablation has been the most widely adopted single-shot approach, while pulsed field ablation (PFA) has emerged as a non-thermal alternative designed to preferentially ablate myocardial tissue and reduce collateral injury. The PulseSelect system is a CE-marked and FDA-approved PFA device specifically developed for PVI. A recent multicenter study compared the acute and one-year outcomes of PFA with PulseSelect versus fourth-generation cryoballoon (CB4) ablation in routine clinical practice. The study included 254 consecutive patients undergoing first-time PVI in 10 Italian medium-volume centers between January 2024 and February 2025: 121 treated with PulseSelect and 133 with CB4. Baseline clinical and echocardiographic characteristics were prospectively collected. The results showed that PFA with PulseSelect offers a viable alternative to CB4 ablation, with similar procedural and clinical outcomes. However, details on periprocedural complication rates and long-term outcomes were not provided. Further studies are needed to evaluate the efficacy and safety of PFA with PulseSelect compared to other ablation techniques.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42400724",
-    "authors": [
-      {
-        "name": "Giuseppe Boriani",
-        "affiliation": "Cardiology Division, Department of Biomedical, Metabolic and Neural Sciences, University of Modena and Reggio Emilia, Policlinico di Modena, Policlinico di Modena, Modena, Italy. giuseppe.boriani@unimore.it."
-      },
-      {
-        "name": "Giulio Molon",
-        "affiliation": "IRCCS Sacro Cuore Don Calabria, Negrar di Valpolicella, Valpolicella, Italy."
-      },
-      {
-        "name": "Stefano Nardi",
-        "affiliation": "Pineta Grande Hospital, Castel Volturno, Italy."
-      },
-      {
-        "name": "Gianfranco Mitacchione",
-        "affiliation": "Department of Electrophysiology and Cardiac Pacing, Department of Medical and Surgical Specialties, Radiological Sciences and Public Health, ASST Spedali Civili, University of Brescia, Brescia, Italy."
-      }
-    ],
-    "journal": "Journal of interventional cardiac electrophysiology : an international journal of arrhythmias and pacing",
-    "publishedDate": "2026-07-04",
-    "fetchedDate": "2026-07-05",
-    "category": "Cardiologia",
-    "tags": [
-      "myocardial",
-      "atrial",
-      "gene",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42086512",
-    "pmid": "42086512",
-    "doi": "10.1002/ajh.70351",
-    "title": "Hemophagocytic Lymphohistiocytosis After CAR T-Cell Therapy: A Systematic Review and Meta-Analysis.",
-    "titlePt": "Hemophagocytic Lymphohistiocytosis After CAR T-Cell Therapy: A Systematic Review and Meta-Analysis.",
-    "abstract": "Chimeric Antigen Receptor T-cell Immunotherapy represents a breakthrough in treating relapsed/refractory hematologic malignancies, yet immune-related adverse events, particularly hemophagocytic lymphohistiocytosis (HLH), also known as immune effector cell-associated HLH-like syndrome (IEC-HS), are rapid-progressing and life-threatening. This systematic review and meta-analysis searched PubMed, Embase, and Cochrane CENTRAL up to August 20, 2025. Nineteen studies were analyzed using a random-effects model, covering 2780 patients, 47 HLH cases, and 20 HLH-related deaths. The pooled incidence of HLH was 1.6% at a median follow-up of 12.9&#x2009;months, with an associated HLH mortality of 0.7%. The incidence of HLH differed markedly by disease entity (p&#x2009;=&#x2009;0.0008), highest in B-cell acute lymphoblastic leukemia (B-ALL: 6.9%). CAR T-cell product was also a significant determinant (p&#x2009;=&#x2009;0.0036), with tisagenlecleucel (Tisa-cel) showing the highest incidence (4.3%). S",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nA imunoterapia com células T receptoras de antígeno quimérico (CAR-T) revolucionou o tratamento de neoplasias hematológicas refratárias ou em recaída, mas sua associação com eventos adversos imunomediados — em particular a síndrome hemofagocítica linfohistiocítica (HLH) ou síndrome semelhante a HLH associada às células efetoras imunes (IEC-HS) — representa um desafio clínico grave e de progressão rápida. Um estudo publicado recentemente na *American Journal of Hematology* realizou uma revisão sistemática e meta-análise para quantificar a incidência e o impacto dessa complicação potencialmente fatal. A análise, que incluiu 19 estudos com 2.780 pacientes, identificou 47 casos de HLH e 20 mortes relacionadas ao quadro, com incidência global de 1,6% em um acompanhamento mediano de 12,9 meses. A mortalidade associada ao HLH foi de 0,7%, destacando-se como um desfecho clinicamente relevante, ainda que infrequente.\n\nOs resultados revelam diferenças significativas na incidência de HLH conforme a doença de base e o tipo de produto CAR-T utilizado. Na leucemia linfoblástica aguda de células B (B-ALL), a incidência foi de 6,9%, marcadamente superior à observada em outras neoplasias hematológicas. Quanto ao produto de terapia celular, o tisagenlecleucel (Tisa-cel) apresentou a maior taxa de ocorrência (4,3%), enquanto outros constructos como axicabtagene ciloleucel (Axi-cel) e brexucabtagene autoleucel (Brexu-cel) demonstraram incidências inferiores. Esses achados sugerem que a fisiopatologia subjacente à resposta imune desencadeada pela terapia CAR-T pode variar conforme a especificidade antigênica, o perfil de ativação celular e a carga tumoral residual. A análise de subgrupos, contudo, não identificou associação estatisticamente significativa entre a dose de linfócitos T transduzidos ou a intensidade do regime de condicionamento com o risco de HLH, embora esses fatores sejam tradicionalmente considerados predisponentes em outros contextos de síndrome de ativação macrofágica.\n\nApesar de fornecer dados robustos sobre a incidência e o prognóstico do HLH pós-CAR-T, o estudo apresenta limitações inerentes ao delineamento observacional retrospectivo e à heterogeneidade dos protocolos incluídos. A ausência de critérios unificados para definição de HLH/IEC-HS entre os estudos pode ter levado à subestimação ou superestimação da incidência real. Além disso, não foram reportados dados sobre o manejo terapêutico específico empregado nos casos de HLH, o que impede uma avaliação mais detalhada da eficácia de intervenções como corticosteroides, inibidores de interleucina-1 ou terapia de depleção celular. Estudos prospectivos com critérios diagnósticos padronizados e estratégias de monitoramento imunológico serial serão essenciais para validar esses achados e otimizar algoritmos de prevenção e tratamento.\n\nA identificação de fatores de risco modificáveis — como o tipo de produto CAR-T — abre caminho para estratégias personalizadas de mitigação, incluindo a seleção de constructos com menor potencial imunogênico em populações de maior risco. Enquanto a terapia CAR-T continua a oferecer benefícios clínicos inegáveis, a vigilância ativa para sinais precoces de hiperinflamação e a implementação de protocolos de resgate imunomodulador emergem como pilares para reduzir a morbimortalidade associada a essa complicação.\n\n---\n\n**English version**\n\nChimeric antigen receptor T-cell (CAR-T) immunotherapy has transformed the treatment landscape for relapsed or refractory hematologic malignancies, yet its association with severe immune-related adverse events—particularly hemophagocytic lymphohistiocytosis (HLH), also referred to as immune effector cell-associated HLH-like syndrome (IEC-HS)��remains a clinically significant and rapidly progressing complication. A recent study published in *American Journal of Hematology* conducted a systematic review and meta-analysis to quantify the incidence and impact of this potentially fatal condition. The analysis, which included 19 studies encompassing 2,780 patients, identified 47 HLH cases and 20 HLH-related deaths, with an overall pooled incidence of 1.6% at a median follow-up of 12.9 months. The associated mortality from HLH was 0.7%, underscoring its clinical relevance despite its rarity.\n\nThe findings revealed significant heterogeneity in HLH incidence based on both the underlying malignancy and the specific CAR-T product used. In B-cell acute lymphoblastic leukemia (B-ALL), the incidence was notably higher at 6.9%, compared to other hematologic malignancies. Among CAR-T products, tisagenlecleucel (Tisa-cel) demonstrated the highest incidence (4.3%), while constructs such as axicabtagene ciloleucel (Axi-cel) and brexucabtagene autoleucel (Brexu-cel) showed lower rates. These disparities suggest that the pathophysiology of immune activation triggered by CAR-T therapy may vary according to antigen specificity, cellular activation profiles, and residual tumor burden. Subgroup analyses, however, did not identify a statistically significant association between the infused T-cell dose or conditioning regimen intensity and HLH risk, despite these factors being traditionally implicated in macrophage activation syndrome in other contexts.\n\nWhile the study provides robust data on the incidence and prognosis of HLH following CAR-T therapy, inherent limitations arise from its retrospective observational design and the heterogeneity of included protocols. The lack of standardized diagnostic criteria for HLH/IEC-HS across studies may have led to under- or overestimation of true incidence. Additionally, no data were reported on the specific therapeutic interventions employed in HLH cases, precluding an assessment of the efficacy of treatments such as corticosteroids, interleukin-1 inhibitors, or cellular depletion strategies. Prospective studies with standardized diagnostic frameworks and serial immunological monitoring will be critical to validate these findings and refine prevention and treatment algorithms.\n\nThe identification of modifiable risk factors—such as the type of CAR-T product—paves the way for personalized mitigation strategies, including the selection of constructs with lower immunogenic potential in high-risk populations. As CAR-T therapy continues to deliver undeniable clinical benefits, proactive monitoring for early signs of hyperinflammation and the implementation of immunomodulatory rescue protocols emerge as key pillars to reduce morbidity and mortality associated with this complication.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42086512",
-    "authors": [
-      {
-        "name": "Changhui Zhang",
-        "affiliation": "Department of Hematology, Lymphoma Research Center, Peking University Third Hospital, Beijing, China."
-      },
-      {
-        "name": "Hongyan Wu",
-        "affiliation": "First Clinical Medical College, Gannan Medical University, Ganzhou, China."
-      },
-      {
-        "name": "Tiantian Cao",
-        "affiliation": "First Clinical Medical College, Gannan Medical University, Ganzhou, China."
-      },
-      {
-        "name": "Chaoling Wu",
-        "affiliation": "First Clinical Medical College, Gannan Medical University, Ganzhou, China."
-      }
-    ],
-    "journal": "American journal of hematology",
-    "publishedDate": "2026-07-03",
-    "fetchedDate": "2026-08-01",
-    "category": "Oncologia",
-    "tags": [
-      "leukemia",
-      "immunotherapy",
-      "immune"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
