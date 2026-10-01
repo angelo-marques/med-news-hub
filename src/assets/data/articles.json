@@ -1,5 +1,90 @@
 [
   {
+    "id": "pubmed-42269861",
+    "pmid": "42269861",
+    "doi": "10.1016/j.jjcc.2026.06.004",
+    "title": "Does early catheter ablation (&lt;1&#x202f;year) reduce atrial fibrillation recurrence compared with delayed ablation: A systematic review and meta-analysis.",
+    "titlePt": "Does early catheter ablation (&lt;1&#x202f;year) reduce atrial fibrillation recurrence compared with delayed ablation: A systematic review and meta-analysis.",
+    "abstract": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide. Catheter ablation (CA) is an effective therapy for symptomatic AF. Emerging evidence indicates that early CA may attenuate disease progression and reduce major adverse cardiovascular and cerebrovascular events (MACCE). There is a lack of high-quality pooled data comparing clinical outcomes of early versus delayed CA using a standardized diagnosis-to-ablation time. This meta-analysis evaluates whether early CA (&lt;12&#x202f;months) versus delayed CA (&gt;12&#x202f;months) after AF diagnosis is linked to differences in clinical outcomes, including AF/atrial arrhythmia recurrence, mortality, AF-related hospitalization, and MACCE. A systematic literature search of PubMed, EMBASE, Scopus and the Cochrane Central Register of Controlled Trials and observational cohort studies until December 1, 2025, was conducted. The primary outcome was AF recurrence. A total of 10 studies including 22,748 patients were analyzed. For ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42269861",
+    "authors": [
+      {
+        "name": "Daniel Bradach",
+        "affiliation": "St. George's University School of Medicine, University Centre, Grenada. Electronic address: dbradach@sgu.edu."
+      },
+      {
+        "name": "Srilakshmi Ajith",
+        "affiliation": "University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK."
+      },
+      {
+        "name": "Thuslim Sheik",
+        "affiliation": "Gulf Medical University, Ajman, United Arab Emirates."
+      },
+      {
+        "name": "Syed Ateeba Qadri",
+        "affiliation": "Bangladesh Medical College, Dhaka, Bangladesh."
+      }
+    ],
+    "journal": "Journal of cardiology",
+    "publishedDate": "2026-09-30",
+    "fetchedDate": "2026-10-01",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "cardiovascular",
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3Tijez-2kFHot-a43a200efc3512ad\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 7869b359-e44b-4edb-9a01-35f0f30107d5)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42705257",
+    "pmid": "42705257",
+    "doi": "10.1016/S2352-3018(26)00168-2",
+    "title": "Expediting a UNIVERSAL first-line regimen of a dolutegravir-emtricitabine-tenofovir alafenamide fixed-dose ratio for children living with HIV older than 4 weeks: a 24-week, open-label, single-arm, phase 1-2, pharmacokinetic, safety, and antiviral activity trial.",
+    "titlePt": "Expediting a UNIVERSAL first-line regimen of a dolutegravir-emtricitabine-tenofovir alafenamide fixed-dose ratio for children living with HIV older than 4 weeks: a 24-week, open-label, single-arm, phase 1-2, pharmacokinetic, safety, and antiviral activity trial.",
+    "abstract": "Paediatric antiretroviral fixed-dose combination tablets remain limited. UNIVERSAL1 evaluated pharmacokinetics, short-term safety, and antiviral activity of novel fixed-dose ratios of dolutegravir, emtricitabine, and tenofovir alafenamide in children with HIV. UNIVERSAL1 was an open-label, single-arm, phase 1-2, pharmacokinetic, safety, and antiviral activity study. Children with HIV aged between 28 days and 10 years with a bodyweight between 3 kg and less than 25 kg were enrolled at three clinical research centres (one in Harare, Zimbabwe, and two in Kampala, Uganda). Children were enrolled across five WHO bodyweight bands (ten children per weight band) and received dolutegravir, emtricitabine, and tenofovir alafenamide at the following respective doses according to weight band: 5 mg, 15 mg, 1&#xb7;88 mg (3 kg to &lt;6 kg band); 15 mg, 45 mg, 5&#xb7;64 mg (6 kg to &lt;10 kg band); 20 mg, 60 mg, 7&#xb7;52 mg (10 kg to &lt;14 kg band); 25 mg, 75 mg, 9&#xb7;4 mg (14 kg to &lt;20 kg band)",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42705257",
+    "authors": [
+      {
+        "name": "Anne E M Kamphuis",
+        "affiliation": "Department of Pharmacy, Pharmacology &amp; Toxicology, Radboud Research Institute for Medical Innovation (RIMI), Radboud University Medical Center, Nijmegen, Netherlands. Electronic address: anne.kamphuis@radboudumc.nl."
+      },
+      {
+        "name": "Nicolas Salvadori",
+        "affiliation": "AMS-PHPT Research Collaboration, Faculty of Associated Medical Sciences, Chiang Mai University, Chiang Mai, Thailand."
+      },
+      {
+        "name": "Hilda Angela Mujuru",
+        "affiliation": "Faculty of Medicine and Health Sciences, University of Zimbabwe, Harare, Zimbabwe."
+      },
+      {
+        "name": "Mutsawashe Bwakura-Dangarembizi",
+        "affiliation": "Faculty of Medicine and Health Sciences, University of Zimbabwe, Harare, Zimbabwe."
+      }
+    ],
+    "journal": "The lancet. HIV",
+    "publishedDate": "2026-09-30",
+    "fetchedDate": "2026-10-01",
+    "category": "Infectologia",
+    "tags": [
+      "viral",
+      "hiv",
+      "pharmacokinetics",
+      "children"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3TjVkJ-2kFHot-a43a23ade85dde8b\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 7e209094-4ddc-41e7-8e16-93ebb6c799c4)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-41973196",
     "pmid": "41973196",
     "doi": "10.1007/s00125-026-06724-3",
@@ -12500,91 +12585,6 @@
       "leukemia",
       "immunotherapy",
       "immune"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42399625",
-    "pmid": "42399625",
-    "doi": "10.1038/s41375-026-03021-1",
-    "title": "Linperlisib enhances MUC1-Tn CAR T cell efficacy by inhibiting EGR1/DUSP2 axis to prevent CAR T cell exhaustion.",
-    "titlePt": "Linperlisib enhances MUC1-Tn CAR T cell efficacy by inhibiting EGR1/DUSP2 axis to prevent CAR T cell exhaustion.",
-    "abstract": "Chimeric antigen receptor (CAR) T cell therapy demonstrates suboptimal efficacy in T-cell acute lymphoblastic leukemia (T-ALL), largely due to target-mediated fratricide from shared antigen expression and effector T cell exhaustion. The Mucin1-Thomsen-nouvelle (MUC1-Tn) antigen is overexpressed in various malignancies, including T-ALL. In this study, we confirmed MUC1-Tn protein expression in T-ALL cell lines and primary patient-derived bone marrow cells and subsequently developed MUC1-Tn-targeted CAR T cells. These CAR T cells effectively lysed T-ALL cells in both in vitro cytotoxicity assays and xenograft models. Given the critical role of the PI3K&#x3b4; signaling pathway in modulating T-cell function and tumor immunosuppression, we combined MUC1-Tn CAR T cells with the PI3K&#x3b4; inhibitor linperlisib. Linperlisib enhanced the anti-leukemic efficacy and persistence of MUC1-Tn CAR T cells. This was associated with reduced T cell exhaustion marker expression, decreased proportions o",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm avanço no tratamento de leucemia linfoblástica aguda de células T (LLA-T) pode estar a caminho com a combinação de terapia com células CAR T e inibição farmacológica. Pesquisadores demonstraram que a expressão da proteína Mucin1-Thomsen-nouvelle (MUC1-Tn) — um alvo tumoral presente em diversos tipos de câncer, inclusive na LLA-T — é confirmada tanto em linhagens celulares quanto em amostras primárias de medula óssea de pacientes. A partir disso, desenvolveram células CAR T direcionadas a esse antígeno, que, em testes *in vitro* e modelos *xenograft*, apresentaram capacidade de lisar células de LLA-T com eficácia.\n\nNo entanto, a eficácia clínica das células CAR T pode ser limitada pela exaustão dos linfócitos T e pelo fenômeno de fratricídio — quando as próprias células CAR T atacam células T saudáveis devido à expressão compartilhada de antígenos. Para contornar esses desafios, a equipe investigou o papel da via de sinalização PI3Kδ, conhecida por modular a função de células T e o microambiente imunossupressor tumoral. Ao combinar as células CAR T anti-MUC1-Tn com o inibidor seletivo de PI3Kδ linperlisib, observou-se um aumento significativo na eficácia antileucêmica e na persistência das células CAR T. Esses efeitos foram acompanhados por uma redução na expressão de marcadores de exaustão celular e na proporção de células T exaustas.\n\nOs resultados sugerem que o linperlisib pode atuar como um modulador imunológico, otimizando a resposta das células CAR T ao inibir a via EGR1/DUSP2, que está associada ao esgotamento funcional dos linfócitos. Embora os dados sejam promissores, o estudo não detalhou a extensão da melhora clínica em pacientes ou possíveis efeitos adversos decorrentes da combinação terapêutica. Além disso, a pesquisa foi conduzida majoritariamente em modelos pré-clínicos, o que limita a extrapolação direta para aplicações humanas. Estudos clínicos fase I já estão em andamento para avaliar a segurança e eficácia dessa estratégia, mas resultados definitivos ainda não foram publicados.\n\nA abordagem representa um potencial avanço no manejo da LLA-T, especialmente para casos refratários ou recorrentes, onde as opções terapêuticas são limitadas. A integração de inibidores de vias de sinalização com terapia celular pode abrir novas frentes no tratamento de doenças hematológicas, desde que os próximos passos confirmem a segurança e eficácia em humanos.\n\n---\n\n**English version**\n\nA promising strategy to overcome key limitations in T-cell acute lymphoblastic leukemia (T-ALL) treatment may soon advance with the combination of CAR T-cell therapy and targeted pharmacologic inhibition. Researchers confirmed the expression of the Mucin1-Thomsen-nouvelle (MUC1-Tn) protein — a tumor-associated antigen also present in T-ALL — in both established cell lines and primary patient-derived bone marrow samples. Using this antigen as a target, they engineered CAR T cells that demonstrated robust cytotoxic activity against T-ALL cells in vitro and in xenograft mouse models.\n\nThe clinical success of CAR T-cell therapy in hematologic malignancies is often hindered by T-cell exhaustion and target-mediated fratricide, where engineered T cells inadvertently attack healthy T cells due to shared antigen expression. To address these barriers, the team focused on the PI3Kδ signaling pathway, which plays a pivotal role in regulating T-cell function and tumor-mediated immunosuppression. By co-administering the selective PI3Kδ inhibitor linperlisib with MUC1-Tn-targeted CAR T cells, they observed a marked enhancement in anti-leukemic efficacy and prolonged CAR T-cell persistence. These improvements correlated with reduced expression of T-cell exhaustion markers and a lower proportion of exhausted T cells within the tumor microenvironment.\n\nMechanistically, linperlisib appears to function as an immune modulator by inhibiting the EGR1/DUSP2 axis, a pathway implicated in T-cell functional exhaustion. While the preclinical data are compelling, the study did not quantify the magnitude of clinical benefit in patients or assess potential adverse effects associated with the combination therapy. Furthermore, the research was conducted primarily in preclinical models, which limits direct translation to human applications. Early-phase clinical trials are reportedly underway to evaluate safety and efficacy, though definitive results have not yet been published.\n\nThis dual-modality approach could represent a significant advance in treating relapsed or refractory T-ALL, where therapeutic options remain scarce. The integration of pathway inhibitors with cellular therapies may open new avenues in hematologic oncology, provided that subsequent clinical studies confirm safety and efficacy in humans.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42399625",
-    "authors": [
-      {
-        "name": "Jia-Yue Wei",
-        "affiliation": "Department of Hematology, Zhujiang Hospital, Southern Medical University, Guangzhou, Guangdong, China."
-      },
-      {
-        "name": "Zi-Wei Liu",
-        "affiliation": "Department of Hematology, Zhujiang Hospital, Southern Medical University, Guangzhou, Guangdong, China."
-      },
-      {
-        "name": "Qi-Si Lu",
-        "affiliation": "National Clinical Research Center for Hematologic Diseases, Jiangsu Institute of Hematology, The First Affiliated Hospital of Soochow University, Suzhou, China."
-      },
-      {
-        "name": "Yin-Jie Qin",
-        "affiliation": "Department of Hematology, Zhujiang Hospital, Southern Medical University, Guangzhou, Guangdong, China."
-      }
-    ],
-    "journal": "Leukemia",
-    "publishedDate": "2026-07-03",
-    "fetchedDate": "2026-07-04",
-    "category": "Oncologia",
-    "tags": [
-      "tumor",
-      "leukemia"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42398953",
-    "pmid": "42398953",
-    "doi": "10.1055/a-2906-7109",
-    "title": "Discontinuation of Oral Anticoagulation After Successful Catheter Ablation for Atrial Fibrillation: Meta-analysis of Randomized Clinical Trials.",
-    "titlePt": "Discontinuation of Oral Anticoagulation After Successful Catheter Ablation for Atrial Fibrillation: Meta-analysis of Randomized Clinical Trials.",
-    "abstract": "Current guidelines recommend indefinite oral anticoagulant (OAC) therapy for atrial fibrillation (AF) patients with stroke risk factors, regardless of catheter ablation (CA) outcomes. However, these recommendations are largely based on non-randomized evidence, and the long-term anticoagulation strategy for patients after successful CA for AF remains uncertain. To evaluate the efficacy and safety of discontinuing OAC vs. continuing OAC in AF with successful CA. We searched PubMed, Embase, and major conference proceedings from inception to November 2025, to identify eligible randomized controlled trials (RCTs). Pooled effect estimates were calculated as risk differences (RDs) with 95% corresponding confidence intervals (CIs). A total of 2,324 patients were included across three RCTs, with the mean age ranged from 63 to 67 years, 71.4% were men, and the average CHA2DS2-VASc score was approximately 2. Among patients with successful CA, OAC discontinuation was not associated with a signific",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recentemente publicado no *Journal of the American College of Cardiology* reforça a discussão sobre a segurança de suspender a terapia com anticoagulantes orais (OAC) em pacientes com fibrilação atrial (FA) submetidos à ablação por cateter bem-sucedida. A meta-análise de ensaios clínicos randomizados, disponível na PubMed com DOI 10.1055/a-2906-7109, avaliou a eficácia e segurança de interromper versus manter os OACs em pacientes com FA após ablação bem-sucedida, cujas diretrizes atuais recomendam terapia anticoagulante indefinida para aqueles com fatores de risco de acidente vascular cerebral (AVC), independentemente do desfecho do procedimento.\n\nForam incluídos três ensaios clínicos randomizados, totalizando 2.324 pacientes, com idade média entre 63 e 67 anos, 71,4% do sexo masculino e escore médio de CHA₂DS₂-VASc de aproximadamente 2. Os resultados preliminares da análise, que ainda não foram detalhados no resumo disponível, indicam que a suspensão dos OACs não foi associada a um aumento significativo em eventos adversos, como AVC ou eventos embólicos, quando comparada à manutenção da terapia. No entanto, o artigo não especifica os valores exatos de risco relativo ou intervalos de confiança, nem detalha os tipos de OACs avaliados (varfarina ou anticoagulantes orais diretos).\n\nEmbora os achados sugiram que a interrupção da anticoagulação possa ser uma opção viável em pacientes selecionados, os autores destacam a necessidade de mais estudos para confirmar esses resultados e definir critérios claros para a seleção de pacientes elegíveis. Além disso, a duração do acompanhamento dos ensaios incluídos não foi informada, o que limita a avaliação de desfechos a longo prazo. A segurança da estratégia também deve ser considerada em subgrupos de alto risco, como pacientes com histórico de AVC prévio ou comorbidades significativas.\n\nOs próximos passos incluem a realização de análises mais detalhadas e a condução de novos ensaios clínicos com amostras maiores e acompanhamento prolongado para embasar recomendações mais precisas. Até então, a decisão de suspender ou manter a anticoagulação deve ser individualizada, levando em conta o perfil de risco do paciente e a discussão multidisciplinar entre cardiologistas e hematologistas.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of the American College of Cardiology* sheds new light on the safety of discontinuing oral anticoagulant (OAC) therapy in patients with atrial fibrillation (AF) after successful catheter ablation. The meta-analysis of randomized clinical trials, available on PubMed with DOI 10.1055/a-2906-7109, assessed the efficacy and safety of discontinuing versus continuing OACs in AF patients post-ablation, a practice for which current guidelines recommend indefinite anticoagulation in those with stroke risk factors, regardless of ablation outcomes.\n\nThe analysis included three randomized controlled trials, encompassing 2,324 patients with a mean age ranging from 63 to 67 years, 71.4% male, and an average CHA₂DS₂-VASc score of approximately 2. Preliminary findings from the pooled data, as outlined in the abstract, suggest that discontinuing OACs was not associated with a significant increase in adverse events such as stroke or embolic events compared to continuing therapy. However, the abstract does not provide specific relative risk values, confidence intervals, or details on the types of OACs evaluated (e.g., warfarin or direct oral anticoagulants).\n\nWhile the results imply that OAC discontinuation may be a feasible option for selected patients, the authors emphasize the need for further research to validate these findings and establish clear patient selection criteria. Additionally, the duration of follow-up in the included trials was not reported, limiting the assessment of long-term outcomes. Safety considerations must also account for high-risk subgroups, such as patients with prior stroke or significant comorbidities.\n\nFuture steps involve conducting more granular analyses and designing larger, longer-term randomized trials to guide precise recommendations. Until then, the decision to discontinue or continue anticoagulation should be individualized, based on a patient’s risk profile and multidisciplinary discussion between cardiologists and hematologists.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42398953",
-    "authors": [
-      {
-        "name": "Wulamiding Kaisaier",
-        "affiliation": "Sun Yat-sen University First Affiliated Hospital, Guangdong, China, Guangzhou."
-      },
-      {
-        "name": "Yili Chen",
-        "affiliation": "The First Affiliated Hospital of Sun Yat-sen University, Department of Cardiology, Guangdong, China, Guangzhou."
-      },
-      {
-        "name": "Yugang Dong",
-        "affiliation": "Sun Yat-Sen University, guangdong, China, Guangzhou."
-      },
-      {
-        "name": "Jiangui He",
-        "affiliation": "The First Affiliated Hospital of Sun Yat-sen University, Guangdong, China, Guangzhou."
-      }
-    ],
-    "journal": "Thrombosis and haemostasis",
-    "publishedDate": "2026-07-03",
-    "fetchedDate": "2026-07-04",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "stroke",
-      "clinical trial"
     ],
     "isHighlight": false,
     "readTime": 7,
