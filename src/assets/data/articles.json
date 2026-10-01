@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed-41973196",
+    "pmid": "41973196",
+    "doi": "10.1007/s00125-026-06724-3",
+    "title": "Updates on paediatric MASLD: insights from an endocrine lens.",
+    "titlePt": "Updates on paediatric MASLD: insights from an endocrine lens.",
+    "abstract": "Paediatric metabolic dysfunction-associated steatotic liver disease (MASLD) is the leading cause of chronic liver disease in children and adolescents worldwide and is increasing alongside rising rates of paediatric obesity and type 2 diabetes. Paediatric MASLD most often arises in the setting of obesity and metabolic dysfunction but can occur without obesity and is influenced by early life exposures, genetics and environmental factors. Paediatric MASLD and youth-onset type 2 diabetes are tightly linked given the shared and bidirectional pathophysiological mechanisms. Hepatic steatosis often develops early in the course of insulin resistance, even in preschool-age children. Epidemiology in children varies by sex and ancestry and carries major prognostic implications, with a higher MASLD prevalence in male and Hispanic youth, more severe liver disease when MASLD coexists with impaired glucose tolerance or type 2 diabetes, and an alarming increased risk of mortality in late childhood and ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41973196",
+    "authors": [
+      {
+        "name": "Natalie Segev",
+        "affiliation": "Division of Diabetes and Endocrinology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH, USA."
+      },
+      {
+        "name": "Marialena Mouzaki",
+        "affiliation": "Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA."
+      }
+    ],
+    "journal": "Diabetologia",
+    "publishedDate": "2026-09-30",
+    "fetchedDate": "2026-10-01",
+    "category": "Endocrinologia",
+    "tags": [
+      "genetic",
+      "gene",
+      "children",
+      "childhood",
+      "diabetes"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3RM8kR-2kFHot-a43790986d6848f0\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 611a86b5-76ca-4784-af25-2dcf06ef9f0b)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42812346",
     "pmid": "42812346",
     "doi": "10.3389/fimmu.2026.1857975",
@@ -12554,47 +12590,5 @@
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42252696",
-    "pmid": "42252696",
-    "doi": "10.1002/ajh.70382",
-    "title": "Correction of Ineffective Erythropoiesis and Normalization of Iron Homeostasis After Exagamglogene Autotemcel in Transfusion-Dependent &#x3b2;-Thalassemia.",
-    "titlePt": "Correction of Ineffective Erythropoiesis and Normalization of Iron Homeostasis After Exagamglogene Autotemcel in Transfusion-Dependent &#x3b2;-Thalassemia.",
-    "abstract": "Exagamglogene autotemcel (exa-cel) is a one-time, ex&#xa0;vivo, CRISPR-Cas9 gene edited cell therapy approved for patients with transfusion dependent &#x3b2;-thalassemia (TDT) aged 12-35&#x2009;years. In a Phase 3 study (CLIMB THAL-111), exa-cel treatment resulted in reactivation of fetal hemoglobin and increases in total hemoglobin, leading to transfusion independence in 91% of participants. Here, we report on the impact of exa-cel treatment on measures of ineffective erythropoiesis and iron homeostasis, which were secondary and exploratory endpoints in CLIMB THAL-111 and the CLIMB-131 long-term follow-up study. Prior to exa-cel infusion, all participants were receiving regular red blood cell transfusions and iron chelation therapy. At time of data cut (April 2025), 98% of participants (55 of 56) had been transfusion independent for &#x2265;&#x2009;12&#x2009;months and 38 (68%) had discontinued iron removal therapy (mean duration off iron removal therapy 19.4&#x2009;months). Following",
-    "journalisticSummary": "A terapia gênica ex vivo baseada em edição gênica CRISPR-Cas9, conhecida como exagamglogene autotemcel (exa-cel), tem demonstrado resultados promissores no tratamento de pacientes com talassemia beta dependente de transfusões (TDT). Um estudo de Fase 3 (CLIMB THAL-111) e um estudo de acompanhamento de longo prazo (CLIMB-131) avaliaram o impacto da exa-cel na reativação da hemoglobina fetal, nos níveis de hemoglobina total e na dependência de transfusões. Além disso, esses estudos investigaram a eficácia da exa-cel na correção da eritropoiese ineficaz e na normalização da homeostase de ferro, que são aspectos cruciais na gestão da TDT. Antes do tratamento com exa-cel, todos os participantes estavam submetidos a transfusões regulares de células vermelhas do sangue e terapia de quelação de ferro. Os resultados mostraram que, após a infusão de exa-cel, houve uma melhora significativa na eficácia da eritropoiese e na regulação do ferro, com 98% dos participantes alcançando independência de transfusões por pelo menos 12 meses e 68% descontinuando a terapia de remoção de ferro por uma média de 19,4 meses.\n\nA longo prazo, a exa-cel demonstrou potencial para alterar o curso da TDT, oferecendo uma opção de tratamento inovadora para pacientes que historicamente dependiam de transfusões frequentes e de terapias de quelação de ferro. No entanto, é importante considerar as limitações dos estudos e a necessidade de acompanhamento contínuo para avaliar a segurança e a eficácia a longo prazo da exa-cel. Além disso, os próximos passos incluem a expansão do acesso a essa terapia para uma população mais ampla de pacientes com TDT, bem como a investigação de sua aplicabilidade em outras condições hematológicas.\n\nThe ex vivo gene therapy based on CRISPR-Cas9 gene editing, known as exagamglogene autotemcel (exa-cel), has shown promising results in the treatment of patients with transfusion-dependent beta-thalassemia (TDT). A Phase 3 study (CLIMB THAL-111) and a long-term follow-up study (CLIMB-131) evaluated the impact of exa-cel on the reactivation of fetal hemoglobin, total hemoglobin levels, and transfusion dependence. Additionally, these studies investigated the efficacy of exa-cel in correcting ineffective erythropoiesis and normalizing iron homeostasis, which are crucial aspects in the management of TDT. Before exa-cel treatment, all participants were undergoing regular red blood cell transfusions and iron chelation therapy. The results showed that, after exa-cel infusion, there was a significant improvement in erythropoiesis efficacy and iron regulation, with 98% of participants achieving transfusion independence for at least 12 months and 68% discontinuing iron removal therapy for a mean of 19.4 months.\n\nIn the long term, exa-cel has demonstrated potential to alter the course of TDT, offering an innovative treatment option for patients who historically depended on frequent transfusions and iron chelation therapies. However, it is essential to consider the limitations of the studies and the need for continued follow-up to assess the long-term safety and efficacy of exa-cel. Furthermore, the next steps include expanding access to this therapy to a broader population of patients with TDT, as well as investigating its applicability in other hematological conditions.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42252696",
-    "authors": [
-      {
-        "name": "Sujit Sheth",
-        "affiliation": "Weill Cornell Medicine, New York, New York, USA."
-      },
-      {
-        "name": "Selim Corbacioglu",
-        "affiliation": "University of Regensburg, Regensburg, Germany."
-      },
-      {
-        "name": "Josu de la Fuente",
-        "affiliation": "Imperial College Healthcare NHS Trust, St Mary's Hospital, London, UK."
-      },
-      {
-        "name": "Mattia Algeri",
-        "affiliation": "IRCCS, Ospedale Pediatrico Bambino Ges&#xf9;, Rome, Italy."
-      }
-    ],
-    "journal": "American journal of hematology",
-    "publishedDate": "2026-07-03",
-    "fetchedDate": "2026-07-04",
-    "category": "Genômica",
-    "tags": [
-      "crispr",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
