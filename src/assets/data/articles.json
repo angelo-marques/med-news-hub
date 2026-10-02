@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42823574",
+    "pmid": "42823574",
+    "doi": "10.1007/s00345-026-06840-0",
+    "title": "Surrogacy of intermediate clinical endpoints for overall survival in BCG-na&#xef;ve high-risk non-muscle-invasive bladder cancer.",
+    "titlePt": "Surrogacy of intermediate clinical endpoints for overall survival in BCG-na&#xef;ve high-risk non-muscle-invasive bladder cancer.",
+    "abstract": "Recent trials in BCG-na&#xef;ve high-risk non-muscle-invasive bladder cancer (HR-NMIBC) have added immunotherapy to BCG, often using event-free survival (EFS) as the primary endpoint. However, neither EFS nor progression-free survival (PFS) has been validated as a surrogate for overall survival (OS) in this setting. We retrospectively analyzed data from 18 international centers, including patients with BCG-na&#xef;ve HR-NMIBC treated between 2001 and 2025. Adequate BCG exposure (International Bladder Cancer Group criteria) was the treatment contrast for its effects on intermediate clinical endpoints (ICEs) and OS, using a 12-month landmark approach and inverse probability of treatment weighting (IPTW). Surrogacy was assessed with: (1) adapted Prentice criteria, with time-varying ICEs in IPTW-adjusted Cox models for OS; and (2) an emulated two-stage meta-analytic framework estimating individual-level association (Kendall's &#x3c4;) and pseudo-trial-level surrogacy (R2) across 500 random",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42823574",
+    "authors": [
+      {
+        "name": "Pietro Scilipoti",
+        "affiliation": "Department of Experimental Oncology/Unit of Urology, URI, IRCCS Ospedale San Raffaele, Milan, Italy. scilipoti.pietro@hsr.it."
+      },
+      {
+        "name": "Aleksander &#x15a;lusarczyk",
+        "affiliation": "Vita-Salute San Raffaele University, Milan, Italy. scilipoti.pietro@hsr.it."
+      },
+      {
+        "name": "Jos&#xe9; Daniel Subiela",
+        "affiliation": "Department of General, Oncological and Functional Urology, Medical University of Warsaw, Warsaw, Poland."
+      },
+      {
+        "name": "Mattia Longoni",
+        "affiliation": "Department of Urology, Instituto Ram&#xf3;n y Cajal de Investigaci&#xf3;n Sanitaria, Hospital Universitario Ram&#xf3;n y Cajal, Universidad de Alcal&#xe1;, Madrid, Spain."
+      }
+    ],
+    "journal": "World journal of urology",
+    "publishedDate": "2026-10-02",
+    "fetchedDate": "2026-10-02",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "immunotherapy",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3cRPaD-2kFHot-a44383f6f87452af\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 142b052f-d8be-4e11-b741-7cd4ce61bcab)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42821840",
     "pmid": "42821840",
     "doi": "10.1212/CPJ.0000000000200669",
@@ -1548,6 +1590,48 @@
     "readTime": 4,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2TADAq-2kFHot-a3faecc9bfafb54d\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42271067",
+    "pmid": "42271067",
+    "doi": "10.1007/s00210-026-05510-7",
+    "title": "Repurposing doxycycline as an adjunct to sitagliptin in type 2 diabetes mellitus: a randomized controlled study on glycemic, inflammatory, and cardiometabolic outcomes.",
+    "titlePt": "Repurposing doxycycline as an adjunct to sitagliptin in type 2 diabetes mellitus: a randomized controlled study on glycemic, inflammatory, and cardiometabolic outcomes.",
+    "abstract": "Type 2 diabetes mellitus (T2DM) is characterized by insulin resistance, &#x3b2;-cell dysfunction, and chronic low-grade inflammation. Doxycycline exhibits anti-inflammatory properties, suggesting potential benefit as an adjunctive therapy in T2DM.&#xa0;To evaluate the efficacy and safety of adjunctive doxycycline in patients with T2DM receiving sitagliptin.&#xa0;In this randomized controlled trial, 57 patients with T2DM were assigned to receive sitagliptin alone (n&#x2009;=&#x2009;29) or sitagliptin plus doxycycline (n&#x2009;=&#x2009;28) for 12 weeks. Glycemic indices, insulin sensitivity measures, lipid profile, cardiometabolic risk indices, and inflammatory markers were assessed before and after treatment. Parametric outcomes were analyzed using analysis of covariance (ANCOVA) adjusted for baseline values, while non-parametric biomarkers were analyzed using Hodges-Lehmann estimators. Multivariable linear regression identified independent determinant of treatment response. Between-gr",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42271067",
+    "authors": [
+      {
+        "name": "Eman El-Khateeb",
+        "affiliation": "Clinical Pharmacy Department, Faculty of Pharmacy, Tanta University, Tanta, Egypt."
+      },
+      {
+        "name": "Mohannad O Khrieba",
+        "affiliation": "Pharmacy Practice Department, Faculty of Pharmacy, Horus University, New Damietta, Egypt."
+      },
+      {
+        "name": "Amal Mohammad Badawoud",
+        "affiliation": "Pharmacy Practice Department, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt."
+      },
+      {
+        "name": "Ahmed A Morsy",
+        "affiliation": "Department of Pharmacy Practice, College of Pharmacy, Princess Nourah bint Abdulrahman University, Riyadh, 11671, Saudi Arabia. ambadawoud@pnu.edu.sa."
+      }
+    ],
+    "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+    "publishedDate": "2026-09-22",
+    "fetchedDate": "2026-10-02",
+    "category": "Endocrinologia",
+    "tags": [
+      "diabetes",
+      "insulin",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3cRCQL-2kFHot-a443830c2a78e57c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 328da2e0-9be8-4f25-bd2b-a2c93c272cc5)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   },
   {
     "id": "pubmed-42770652",
@@ -12496,94 +12580,6 @@
     ],
     "isHighlight": false,
     "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42406083",
-    "pmid": "42406083",
-    "doi": "10.1007/s00262-026-04481-1",
-    "title": "Safety and feasibility of 5T4 antibody-coupled allogeneic NK cell therapy for solid tumors: a first-in-human phase 1 trial.",
-    "titlePt": "Safety and feasibility of 5T4 antibody-coupled allogeneic NK cell therapy for solid tumors: a first-in-human phase 1 trial.",
-    "abstract": "Patients with unresectable locally advanced or metastatic solid tumors have limited therapeutic options. Antibody-guided allogeneic natural killer (NK) cell therapy represents a novel immunotherapeutic strategy to enhance tumor targeting and cytotoxicity by coupling NK cells with tumor-specific antibodies targeting antigens such as 5T4. To evaluate the safety, tolerability, pharmacokinetics, immunogenicity, and preliminary efficacy of IBR854, a non-viral, non-genetically modified, 5T4 antibody-coupled allogeneic NK cell therapy, in patients with advanced solid tumors. This open-label, first-in-human phase 1 dose-escalation study enrolled 19 patients with unresectable locally advanced or metastatic solid tumors across five dose cohorts (3.0&#x2009;&#xd7;&#x2009;109-12.0&#x2009;&#xd7;&#x2009;109 cells per dose). Patients received intravenous IBR854 in a 3&#x2009;+&#x2009;3 escalation design. Safety, dose-limiting toxicities, adverse events, pharmacokinetics, anti-drug antibodies, and ant",
-    "journalisticSummary": "**Versão em português**\n\nUm novo avanço no tratamento de tumores sólidos avançados foi apresentado em estudo pioneiro que avaliou a segurança e viabilidade de uma terapia com células NK (natural killer) alogênicas acopladas a anticorpos anti-5T4. Publicado na revista *Cancer Immunology, Immunotherapy*, o ensaio clínico de fase 1, do tipo *first-in-human*, testou o IBR854 — uma terapia celular não viral e não geneticamente modificada — em 19 pacientes com tumores sólidos irressecáveis ou metastáticos. O objetivo foi determinar a segurança, tolerabilidade, farmacocinética, imunogenicidade e eficácia preliminar dessa abordagem imunoterápica inovadora.\n\nO estudo empregou um delineamento aberto de escalonamento de dose em *3+3*, com cinco coortes que receberam doses intravenosas variando de 3,0 × 10⁹ a 12,0 × 10⁹ células por administração. Os resultados indicaram que o tratamento foi bem tolerado, sem eventos adversos graves (EAGs) relacionados ao IBR854 em nenhum dos níveis de dose testados. A farmacocinética demonstrou uma meia-vida curta das células NK, compatível com a natureza alogênica e não modificada do produto. Quanto à eficácia, embora não tenha sido o foco primário do estudo, relatos preliminares sugeriram atividade antitumoral em alguns pacientes, com estabilização da doença em até 30% dos casos. Não houve desenvolvimento de anticorpos anti-fármaco (ADAs) significativos, indicando baixa imunogenicidade.\n\nApesar dos achados promissores, o estudo apresenta limitações importantes. O tamanho reduzido da amostra (n=19) e a ausência de um grupo controle limitam a interpretação dos dados de eficácia. Além disso, a população estudada foi heterogênea em termos de tipos tumorais, o que pode dificultar a identificação de subgrupos beneficiados. Os autores destacam a necessidade de ensaios clínicos randomizados e controlados, com maior número de participantes, para validar esses resultados e definir protocolos ótimos de dose e administração. Outro ponto crítico é a investigação da durabilidade da resposta imune e a possível combinação com outras terapias, como inibidores de checkpoint ou quimioterápicos, para potencializar os efeitos antitumorais.\n\nOs próximos passos incluem a expansão do estudo para fases posteriores, com foco em tumores específicos onde o antígeno 5T4 é mais expresso, como carcinomas de células renais, pulmonares e colorretais. Se comprovada a segurança e eficácia em estudos maiores, essa abordagem poderia representar uma alternativa terapêutica para pacientes sem opções de tratamento convencional, especialmente aqueles com doença avançada e refratária.\n\n---\n\n**English version**\n\nA groundbreaking study has shed light on a novel immunotherapeutic approach for advanced solid tumors, evaluating the safety and feasibility of allogeneic natural killer (NK) cell therapy coupled with anti-5T4 antibodies. Published in *Cancer Immunology, Immunotherapy*, the phase 1 first-in-human trial assessed IBR854—a non-viral, non-genetically modified cellular therapy—in 19 patients with unresectable locally advanced or metastatic solid tumors. The primary endpoints included safety, tolerability, pharmacokinetics, immunogenicity, and preliminary efficacy of this emerging treatment strategy.\n\nThe open-label, dose-escalation study (3+3 design) enrolled patients across five cohorts receiving intravenous IBR854 at doses ranging from 3.0 × 10⁹ to 12.0 × 10⁹ cells per administration. Findings indicated a favorable safety profile, with no treatment-related serious adverse events (SAEs) observed across all dose levels. Pharmacokinetic analysis revealed a short half-life of the allogeneic NK cells, consistent with their non-modified, allogeneic nature. While efficacy was not a primary endpoint, preliminary observations suggested antitumor activity in a subset of patients, with disease stabilization reported in up to 30% of cases. Notably, no significant anti-drug antibodies (ADAs) were detected, indicating low immunogenicity.\n\nDespite these encouraging results, the study has notable limitations. The small sample size (n=19) and lack of a control group restrict the interpretation of efficacy data. Additionally, the heterogeneous tumor types included in the trial may obscure potential benefits in specific patient subgroups. The authors emphasize the need for larger, randomized controlled trials to validate these findings and optimize dosing and administration protocols. Further investigation is also warranted to assess the durability of immune responses and explore combination therapies, such as checkpoint inhibitors or chemotherapy, to enhance antitumor effects.\n\nFuture directions include advancing to later-phase trials with a focus on tumor types where 5T4 expression is prevalent, such as renal cell, lung, and colorectal carcinomas. If safety and efficacy are confirmed in larger studies, this approach could offer a therapeutic alternative for patients with limited conventional treatment options, particularly those with advanced, refractory disease.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42406083",
-    "authors": [
-      {
-        "name": "Liangjie Sun",
-        "affiliation": "Clinical Trial Center, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China."
-      },
-      {
-        "name": "Peiwen Ma",
-        "affiliation": "National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital of Chinese Academy of Medical Sciences Langfang Campus, Langfang, 065001, China."
-      },
-      {
-        "name": "Zhenwei Miao",
-        "affiliation": "Clinical Trial Center, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China."
-      },
-      {
-        "name": "Na Su",
-        "affiliation": "National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital of Chinese Academy of Medical Sciences Langfang Campus, Langfang, 065001, China."
-      }
-    ],
-    "journal": "Cancer immunology, immunotherapy : CII",
-    "publishedDate": "2026-07-06",
-    "fetchedDate": "2026-07-06",
-    "category": "Farmacologia",
-    "tags": [
-      "tumor",
-      "viral",
-      "genetic",
-      "gene",
-      "drug"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42403263",
-    "pmid": "42403263",
-    "doi": "10.1111/dom.71069",
-    "title": "Semaglutide Injection Once-Weekly for Weight Management in Adults: Results From A Randomized Phase III, Active-Controlled Study.",
-    "titlePt": "Semaglutide Injection Once-Weekly for Weight Management in Adults: Results From A Randomized Phase III, Active-Controlled Study.",
-    "abstract": "To evaluate and compare the efficacy, safety, and immunogenicity of a synthetic semaglutide injection (Test semaglutide) with Wegovy (Reference semaglutide) injection for weight management. This randomized, Phase III, non-inferiority study included adults with obesity or overweight with or without comorbidities from 21 centers in India. A total of 270 patients with body mass index &#x2265;&#x2009;30&#x2009;kg/m2 or &#x2265;&#x2009;27&#x2009;kg/m2 with the presence of at least one of the weight-related comorbidities (hypertension, dyslipidemia or type 2 diabetes mellitus) were randomized (2:1) to receive either Test semaglutide (N&#x2009;=&#x2009;177) or Reference semaglutide injection (N&#x2009;=&#x2009;90) once weekly with dose escalation from 0.25 to 2.4&#x2009;mg. The primary endpoint was percentage change in bodyweight from baseline to Week 24. Out of 267 randomized patients, 246 completed the study. At Week 24, mean percent weight change from baseline was -13.8%&#x2009;&#xb1;&#x20",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo randomizado de fase III, conduzido em 21 centros na Índia, demonstrou que um novo semaglutida sintético para injeção semanal apresentou eficácia comparável à formulação de referência (Wegovy®) no manejo do peso em adultos com obesidade ou sobrepeso associado a comorbidades. Publicado no *Diabetes, Obesity and Metabolism* (DOI: 10.1111/dom.71069), o estudo avaliou 270 pacientes com IMC ≥ 30 kg/m² ou ≥ 27 kg/m² na presença de pelo menos uma comorbidade relacionada ao peso (hipertensão, dislipidemia ou diabetes mellitus tipo 2). Os participantes foram randomizados em uma proporção 2:1 para receber semaglutida teste (n=177) ou semaglutida de referência (n=90), com escalonamento de dose semanal de 0,25 mg até 2,4 mg.\n\nO desfecho primário, a mudança percentual no peso corporal da linha de base até a semana 24, mostrou uma redução média de -13,8% ± 0,6 no grupo da semaglutida teste, em comparação com -13,6% ± 0,8 no grupo de referência. Dos 267 pacientes randomizados, 246 completaram o estudo. Não foram relatadas diferenças significativas em relação à segurança ou imunogenicidade entre os grupos durante o período avaliado.\n\nEmbora os resultados indiquem não inferioridade da semaglutida teste em relação ao produto de referência, o estudo apresenta limitações importantes, como a ausência de dados sobre desfechos a longo prazo (além de 24 semanas) e a concentração geográfica dos participantes, restrita a um único país. Além disso, a amostra não incluiu populações com características étnicas ou genéticas distintas, o que pode limitar a generalização dos achados. Os autores destacam a necessidade de estudos adicionais para confirmar a segurança e eficácia em cenários clínicos reais, bem como a avaliação de desfechos cardiovasculares e metabólicos associados.\n\n---\n\n**English version**\n\nA Phase III randomized study conducted across 21 centers in India showed that a novel synthetic once-weekly semaglutide injection demonstrated comparable efficacy to the reference formulation (Wegovy®) in weight management for adults with obesity or overweight with comorbidities. Published in *Diabetes, Obesity and Metabolism* (DOI: 10.1111/dom.71069), the trial enrolled 270 patients with a BMI ≥ 30 kg/m² or ≥ 27 kg/m² with at least one weight-related comorbidity (hypertension, dyslipidemia, or type 2 diabetes mellitus). Participants were randomized in a 2:1 ratio to receive either test semaglutide (n=177) or reference semaglutide (n=90), with weekly dose escalation from 0.25 mg up to 2.4 mg.\n\nThe primary endpoint, percentage change in body weight from baseline to Week 24, revealed a mean reduction of -13.8% ± 0.6 in the test semaglutide group, compared to -13.6% ± 0.8 in the reference group. Of the 267 randomized patients, 246 completed the study. No significant differences in safety or immunogenicity were observed between groups during the evaluated period.\n\nWhile the findings suggest non-inferiority of test semaglutide compared to the reference product, the study has notable limitations, including the lack of long-term outcome data beyond 24 weeks and the geographic concentration of participants in a single country. Additionally, the sample did not include populations with distinct ethnic or genetic backgrounds, which may restrict the generalizability of the results. The authors emphasize the need for further research to validate safety and efficacy in real-world settings, as well as the assessment of cardiovascular and metabolic outcomes.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42403263",
-    "authors": [
-      {
-        "name": "Unnikrishnan Ambika Gopalakrishnan",
-        "affiliation": "Chellaram Diabetes Institute, Pune, Maharashtra, India."
-      },
-      {
-        "name": "Ameya Joshi",
-        "affiliation": "Bhaktivedanta Hospital and Research Institute, Thane, Maharashtra, India."
-      },
-      {
-        "name": "Harish Kumar",
-        "affiliation": "Amrita Institute of Medical Sciences and Research Centre, Kochi, Kerala, India."
-      },
-      {
-        "name": "Richa Giri",
-        "affiliation": "G.S.V.M Medical College, Kanpur, Uttar Pradesh, India."
-      }
-    ],
-    "journal": "Diabetes, obesity &amp; metabolism",
-    "publishedDate": "2026-07-06",
-    "fetchedDate": "2026-07-06",
-    "category": "Endocrinologia",
-    "tags": [
-      "hypertension",
-      "diabetes",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
