@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed-42825454",
+    "pmid": "42825454",
+    "doi": "10.1080/17582024.2026.2739332",
+    "title": "Molecular and genetic basis of alzheimer's disease and emerging treatment Modalities.",
+    "titlePt": "Molecular and genetic basis of alzheimer's disease and emerging treatment Modalities.",
+    "abstract": "Alzheimer's disease (AD) is linked to various causes and pathological processes. It represents a major global health challenge due to its increasing prevalence in aging populations. AD involves multifactorial pathological mechanisms. Two different forms of AD defined by changes in specific genes like APOE4, CLU, TREM2, PICALM, BIN1, MS4A, CR1, ABCA7 and APH1B. Apart from specific genetic mutations, there are multiple risk factors such as aging, obesity, lifestyle, head injury, drinking, smoking and environmental factors that further influence disease risk and its progression. The literature of this review article was taken from different search engines viz. Pubmed, Google Scholar and Scopus, explaining modifiable contributing factors and prognostic markers, including the genetics of AD and overall, this review analyzes literature published between 2000 to 2025 to summarizes the current status of disease, highlighting its importance for improving diagnosis, prognosis, and the developmen",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42825454",
+    "authors": [
+      {
+        "name": "Himanshi Varshney",
+        "affiliation": "Laboratory of Alternative Animal Models, Section of Genetics, Department of Zoology, Faculty of Life Sciences, Aligarh Muslim University, Aligarh, India."
+      },
+      {
+        "name": "Yasir Hasan Siddique",
+        "affiliation": "Laboratory of Alternative Animal Models, Section of Genetics, Department of Zoology, Faculty of Life Sciences, Aligarh Muslim University, Aligarh, India."
+      }
+    ],
+    "journal": "Neurodegenerative disease management",
+    "publishedDate": "2026-10-02",
+    "fetchedDate": "2026-10-02",
+    "category": "Genômica",
+    "tags": [
+      "alzheimer",
+      "genetic",
+      "gene",
+      "mutation",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3ecCxG-2kFHot-a445e00ddb3e49d2\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 55d8e65b-fb29-4bd1-beca-68838c896d98)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42823574",
     "pmid": "42823574",
     "doi": "10.1007/s00345-026-06840-0",
@@ -12535,51 +12571,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42136039",
-    "pmid": "42136039",
-    "doi": "10.1002/1545-5017.70406",
-    "title": "Emapalumab for Immune Effector Cell-Associated Hemophagocytic Lymphohistiocytosis-Like Syndrome Following CD19-Directed CAR-T in Two Patients With B-ALL: Clinical and Biomarker Correlates.",
-    "titlePt": "Emapalumab for Immune Effector Cell-Associated Hemophagocytic Lymphohistiocytosis-Like Syndrome Following CD19-Directed CAR-T in Two Patients With B-ALL: Clinical and Biomarker Correlates.",
-    "abstract": "Immune effector cell-associated hemophagocytic lymphohistiocytosis-like syndrome (IEC-HS) is a life-threatening hyperinflammatory toxicity distinct from cytokine release syndrome (CRS) and neurotoxicity following chimeric antigen receptor T-cell (CAR-T) therapy. In a single-institution retrospective cohort of pediatric and young adult patients with relapsed or refractory acute B-lymphoblastic leukemia (B-ALL) treated with tisagenlecleucel between November 2023 and April 2025, two of 12 patients (17%) developed IEC-HS after CRS resolution, marked by recurrent fever, coagulopathy, hepatic dysfunction, cytopenias, and profound elevations in CXCL9, IL-18, and soluble C5b-9. Treatment with emapalumab led to rapid clinical and biomarker improvement. These findings support IEC-HS as an interferon-&#x3b3;-driven syndrome and suggest targeted IFN-&#x3b3; blockade as a potentially effective therapeutic strategy.",
-    "journalisticSummary": "Em pacientes com leucemia linfoblástica aguda de células B (B-ALL) recidivada ou refratária submetidos à terapia com células CAR-T direcionadas ao CD19, o desenvolvimento de síndrome semelhante à linfohistiocitose hemofagocítica associada a células efetoras imunes (IEC-HS) representa uma toxicidade hiperinflamatória potencialmente fatal, distinta da síndrome de liberação de citocinas (CRS) e da neurotoxicidade. Em uma coorte retrospectiva de um único centro, envolvendo 12 pacientes pediátricos e adultos jovens tratados com tisagenlecleucel entre novembro de 2023 e abril de 2025, dois casos (17%) apresentaram IEC-HS após a resolução da CRS, caracterizada por febre recorrente, coagulopatia, disfunção hepática, citopenias e elevações marcantes de CXCL9, IL-18 e C5b-9 solúvel. O tratamento com emapalumab, um inibidor do interferon-gama (IFN-γ), resultou em melhora clínica e laboratorial rápida, incluindo normalização dos biomarcadores inflamatórios. Esses achados reforçam a hipótese de que a IEC-HS é impulsionada por uma resposta mediada por IFN-γ e sugerem que o bloqueio direcionado dessa via pode ser uma estratégia terapêutica eficaz. Embora o estudo forneça evidências preliminares promissoras, o pequeno tamanho amostral e o desenho retrospectivo limitam a generalização dos resultados. Estudos prospectivos, randomizados e multicêntricos são necessários para validar a eficácia do emapalumab nessa indicação e definir protocolos ótimos de manejo, incluindo critérios diagnósticos padronizados e estratégias de prevenção.\n\nIn patients with relapsed or refractory B-cell acute lymphoblastic leukemia (B-ALL) undergoing CD19-directed CAR-T cell therapy, the development of immune effector cell-associated hemophagocytic lymphohistiocytosis-like syndrome (IEC-HS) represents a potentially fatal hyperinflammatory toxicity distinct from cytokine release syndrome (CRS) and neurotoxicity. In a single-institution retrospective cohort of 12 pediatric and young adult patients treated with tisagenlecleucel between November 2023 and April 2025, two cases (17%) developed IEC-HS following CRS resolution, characterized by recurrent fever, coagulopathy, hepatic dysfunction, cytopenias, and marked elevations in CXCL9, IL-18, and soluble C5b-9. Treatment with emapalumab, an interferon-gamma (IFN-γ) inhibitor, led to rapid clinical and biomarker improvement, including normalization of inflammatory markers. These findings support the hypothesis that IEC-HS is driven by an IFN-γ-mediated response and suggest that targeted blockade of this pathway may be an effective therapeutic strategy. While the study provides promising preliminary evidence, the small sample size and retrospective design limit the generalizability of the results. Prospective, randomized, and multicenter studies are needed to validate the efficacy of emapalumab in this setting and to define optimal management protocols, including standardized diagnostic criteria and prevention strategies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42136039",
-    "authors": [
-      {
-        "name": "Thomas J Galletta",
-        "affiliation": "Division of Oncology, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, USA."
-      },
-      {
-        "name": "Jeremy D Rubinstein",
-        "affiliation": "Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio, USA."
-      },
-      {
-        "name": "Christopher E Dandoy",
-        "affiliation": "Division of Oncology, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, USA."
-      },
-      {
-        "name": "Ruby Khoury",
-        "affiliation": "Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio, USA."
-      }
-    ],
-    "journal": "Pediatric blood &amp; cancer",
-    "publishedDate": "2026-07-06",
-    "fetchedDate": "2026-07-06",
-    "category": "Imunologia",
-    "tags": [
-      "leukemia",
-      "therapeutic",
-      "pediatric",
-      "immune",
-      "cytokine"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
