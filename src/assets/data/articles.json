@@ -1,5 +1,45 @@
 [
   {
+    "id": "pubmed-42821840",
+    "pmid": "42821840",
+    "doi": "10.1212/CPJ.0000000000200669",
+    "title": "Digital Health Technologies for Risk Factor Management and Secondary Prevention After Stroke: A Systematic Review and Meta-Analysis.",
+    "titlePt": "Digital Health Technologies for Risk Factor Management and Secondary Prevention After Stroke: A Systematic Review and Meta-Analysis.",
+    "abstract": "Digital health interventions are increasingly used in medicine to manage chronic conditions. However, the effectiveness, feasibility, and consistency of these interventions in poststroke risk factor management and secondary prevention remain uncertain. We conducted a systematic review and meta-analysis to evaluate the effect of digital health-supported interventions on vascular risk factor control among stroke survivors. We systematically searched MEDLINE, Embase, and Cochrane CENTRAL from inception through September 2025 for randomized, single-arm, and observational studies evaluating digital health interventions, defined as mobile health applications, wearable devices, or combined platforms, among adults with ischemic stroke, hemorrhagic stroke, or transient ischemic attack. Outcomes of interest included systolic and diastolic blood pressure, lipid levels, weight, physical activity, medication adherence, quality of life, and clinical events. Random-effects meta-analyses were performe",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42821840",
+    "authors": [
+      {
+        "name": "Shervin Badihian",
+        "affiliation": "Department of Neurology, Neurological Institute, Cleveland Clinic, Cleveland, OH."
+      },
+      {
+        "name": "Margarita Fedorova",
+        "affiliation": "Department of Neurology, Neurological Institute, Cleveland Clinic, Cleveland, OH."
+      },
+      {
+        "name": "Bradley Ashley Ong",
+        "affiliation": "Department of Neurology, Neurological Institute, Cleveland Clinic, Cleveland, OH."
+      },
+      {
+        "name": "Nicolas R Thompson",
+        "affiliation": "Education Institute, Floyd D. Loop Alumni Library, Cleveland Clinic, Cleveland, OH."
+      }
+    ],
+    "journal": "Neurology. Clinical practice",
+    "publishedDate": "2026-10-01",
+    "fetchedDate": "2026-10-02",
+    "category": "Neurologia",
+    "tags": [
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3bDq1W-2kFHot-a442389c4f2b75b0\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: af71e1c4-9661-4cfb-a964-4df270518d4b)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42817068",
     "pmid": "42817068",
     "doi": "10.1002/edm2.70351",
@@ -12546,47 +12586,5 @@
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42271067",
-    "pmid": "42271067",
-    "doi": "10.1007/s00210-026-05510-7",
-    "title": "Repurposing doxycycline as an adjunct to sitagliptin in type 2 diabetes mellitus: a randomized controlled study on glycemic, inflammatory, and cardiometabolic outcomes.",
-    "titlePt": "Repurposing doxycycline as an adjunct to sitagliptin in type 2 diabetes mellitus: a randomized controlled study on glycemic, inflammatory, and cardiometabolic outcomes.",
-    "abstract": "Type 2 diabetes mellitus (T2DM) is characterized by insulin resistance, &#x3b2;-cell dysfunction, and chronic low-grade inflammation. Doxycycline exhibits anti-inflammatory properties, suggesting potential benefit as an adjunctive therapy in T2DM.&#xa0;To evaluate the efficacy and safety of adjunctive doxycycline in patients with T2DM receiving sitagliptin.&#xa0;In this randomized controlled trial, 57 patients with T2DM were assigned to receive sitagliptin alone (n&#x2009;=&#x2009;29) or sitagliptin plus doxycycline (n&#x2009;=&#x2009;28) for 12 weeks. Glycemic indices, insulin sensitivity measures, lipid profile, cardiometabolic risk indices, and inflammatory markers were assessed before and after treatment. Parametric outcomes were analyzed using analysis of covariance (ANCOVA) adjusted for baseline values, while non-parametric biomarkers were analyzed using Hodges-Lehmann estimators. Multivariable linear regression identified independent determinant of treatment response. Between-gr",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42271067",
-    "authors": [
-      {
-        "name": "Eman El-Khateeb",
-        "affiliation": "Clinical Pharmacy Department, Faculty of Pharmacy, Tanta University, Tanta, Egypt."
-      },
-      {
-        "name": "Mohannad O Khrieba",
-        "affiliation": "Pharmacy Practice Department, Faculty of Pharmacy, Horus University, New Damietta, Egypt."
-      },
-      {
-        "name": "Amal Mohammad Badawoud",
-        "affiliation": "Pharmacy Practice Department, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt."
-      },
-      {
-        "name": "Ahmed A Morsy",
-        "affiliation": "Department of Pharmacy Practice, College of Pharmacy, Princess Nourah bint Abdulrahman University, Riyadh, 11671, Saudi Arabia. ambadawoud@pnu.edu.sa."
-      }
-    ],
-    "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
-    "publishedDate": "2026-07-05",
-    "fetchedDate": "2026-09-11",
-    "category": "Endocrinologia",
-    "tags": [
-      "diabetes",
-      "insulin",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozqmnAu-2kFHot-a39623beacc82cac\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
