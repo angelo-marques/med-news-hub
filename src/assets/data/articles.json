@@ -1,5 +1,45 @@
 [
   {
+    "id": "pubmed-42826575",
+    "pmid": "42826575",
+    "doi": "10.1016/j.compbiolchem.2026.109448",
+    "title": "AI-driven transcriptomics for neurodegenerative disease research: A systematic review.",
+    "titlePt": "AI-driven transcriptomics for neurodegenerative disease research: A systematic review.",
+    "abstract": "Neurodegenerative diseases (NDDs), including Alzheimer's disease (AD), Parkinson's disease (PD), and Amyotrophic Lateral Sclerosis (ALS), present a growing global health challenge, with traditional diagnostic and therapeutic approaches facing significant limitations in early detection and mechanistic resolution. Innovations in transcriptomic technologies-spanning bulk RNA sequencing, single-cell RNA-seq (scRNA-seq), and spatially resolved transcriptomics-provide unprecedented insights into cellular heterogeneity and microenvironmental dysregulation. This systematic review synthesizes recent applications of artificial intelligence (AI), machine learning (ML), and deep learning (DL) across transcriptomic tiers to benchmark computational models for biomarker identification, disease diagnosis, patient subtyping, and drug repurposing. Following PRISMA 2020 guidelines for qualitative systematic reviews, literature published between 2016 and 2025 was systematically searched across PubMed/MEDL",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42826575",
+    "authors": [
+      {
+        "name": "Anushree Tripathi",
+        "affiliation": "Department of Computer Science and Engineering, National Institute of Technology Patna, Bihar, India. Electronic address: anushree.cs@nitp.ac.in."
+      },
+      {
+        "name": "Anoop Kumar Yadav",
+        "affiliation": "Department of Computer Science and Engineering, National Institute of Technology Patna, Bihar, India."
+      },
+      {
+        "name": "Nilesh Kumar",
+        "affiliation": "IRCP, Biological Data Sciences, University of Alabama at Birmingham, Birmingham, AL, USA."
+      }
+    ],
+    "journal": "Computational biology and chemistry",
+    "publishedDate": "2026-10-02",
+    "fetchedDate": "2026-10-03",
+    "category": "Genômica",
+    "tags": [
+      "alzheimer",
+      "parkinson",
+      "gene",
+      "rna",
+      "sequencing"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3iEd8v-2kFHot-a449ca5ecf6d6678\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: f6d1c507-6bf8-4cf7-b9a0-1f9e71acc490)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42825454",
     "pmid": "42825454",
     "doi": "10.1080/17582024.2026.2739332",
@@ -12527,50 +12567,6 @@
     ],
     "isHighlight": false,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42409282",
-    "pmid": "42409282",
-    "doi": "10.1016/j.clinme.2026.100610",
-    "title": "Prognostic value of C-reactive protein to albumin ratio (CAR) for mortality in older adults with sepsis: cohort study.",
-    "titlePt": "Prognostic value of C-reactive protein to albumin ratio (CAR) for mortality in older adults with sepsis: cohort study.",
-    "abstract": "To evaluate the prognostic value of the C-reactive protein/albumin (CAR) for mortality in older adults with sepsis. Prospective observational cohort study conducted at General Hospital Zone No. 21, Le&#xf3;n, Guanajuato, Mexico (Nov 2023-Aug 2025). Consecutive patients aged &gt;60 years with Sepsis-3-defined sepsis or septic shock, excluding those with prior ICU care, transfers, malignancies, cirrhosis, autoimmune disease, or non-septic shock. None. The CAR and Sequential Organ Failure Assessment (SOFA) score were measured at diagnosis and 72hours. 28-day all-cause mortality, with predictive performance assessed via area under the ROC curve (AUC). CAR was higher in septic shock versus sepsis. In sepsis patients, both initial (AUC=0.867) and 72-hour (AUC=0.852) ratios predicted mortality better than SOFA (AUC=0.786). In septic shock, SOFA was superior (AUC=0.785 vs. 0.637). An initial ratio in the highest tertile independently predicted mortality (HR 2.88, 95% CI 1.15-5.19, p&lt;0.001).",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo prospectivo de coorte observacional realizado no México revelou que a relação entre proteína C reativa (PCR) e albumina (CAR) pode ser um marcador prognóstico promissor para a mortalidade em idosos com sepse. Publicado recentemente no *Clinical Medicine*, a pesquisa avaliou 286 pacientes com idade superior a 60 anos, diagnosticados com sepse ou choque séptico conforme os critérios Sepsis-3, excluindo casos com internação prévia em UTI, doenças malignas, cirrose, doenças autoimunes ou choque não séptico. Os dados foram coletados entre novembro de 2023 e agosto de 2025 no Hospital General Zona No. 21, em León, Guanajuato.\n\nOs resultados demonstraram que a CAR apresentou valores mais elevados em pacientes com choque séptico em comparação àqueles com sepse não complicada. Em indivíduos com sepse, tanto a medição inicial da CAR (AUC=0,867) quanto após 72 horas (AUC=0,852) demonstraram capacidade preditiva superior ao escore SOFA (AUC=0,786) para mortalidade em 28 dias. No entanto, nos casos de choque séptico, o SOFA mostrou-se mais eficaz (AUC=0,785) do que a CAR (AUC=0,637). Além disso, valores iniciais de CAR no tercil mais alto foram independentemente associados a um risco 2,88 vezes maior de óbito (HR 2,88, IC 95% 1,15-5,19, p<0,001).\n\nEmbora o estudo ofereça insights valiosos sobre a utilidade clínica da CAR, suas limitações incluem a realização em um único centro e a ausência de padronização quanto ao momento exato da coleta de amostras para a segunda medição. Pesquisas futuras devem explorar a integração da CAR em algoritmos prognósticos multivariados e validar seus achados em populações mais diversas, incluindo diferentes faixas etárias e contextos clínicos.\n\n---\n\n**English version**\n\nA prospective observational cohort study conducted in Mexico has identified the C-reactive protein to albumin ratio (CAR) as a potentially valuable prognostic marker for mortality in older adults with sepsis. Published in *Clinical Medicine*, the research analyzed 286 patients aged over 60 years diagnosed with sepsis or septic shock according to Sepsis-3 criteria, excluding those with prior ICU admission, malignancies, cirrhosis, autoimmune diseases, or non-septic shock. Data were collected between November 2023 and August 2025 at General Hospital Zone No. 21 in León, Guanajuato.\n\nFindings revealed that CAR levels were higher in patients with septic shock compared to those with uncomplicated sepsis. In sepsis patients, both initial (AUC=0.867) and 72-hour (AUC=0.852) CAR measurements outperformed the SOFA score (AUC=0.786) in predicting 28-day all-cause mortality. However, in septic shock cases, SOFA demonstrated superior predictive performance (AUC=0.785) compared to CAR (AUC=0.637). Notably, initial CAR values in the highest tertile were independently associated with a 2.88-fold increased risk of death (HR 2.88, 95% CI 1.15–5.19, p<0.001).\n\nWhile the study provides valuable insights into the clinical utility of CAR, its limitations include a single-center design and lack of standardized timing for the 72-hour sample collection. Future research should investigate the integration of CAR into multivariate prognostic algorithms and validate these findings across diverse populations, including varying age groups and clinical settings.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42409282",
-    "authors": [
-      {
-        "name": "O Jim&#xe9;nez-Zaraz&#xfa;a",
-        "affiliation": "Hospital General Zona 21 IMSS, Department of Internal Medicine, Le&#xf3;n, Guanajuato, Mexico; Universidad de Guanajuato, Department of Medicine and Nutrition, Le&#xf3;n, Guanajuato, Mexico."
-      },
-      {
-        "name": "B I Tolentino-P&#xe9;rez",
-        "affiliation": "Universidad de Guanajuato, Department of Medicine and Nutrition, Le&#xf3;n, Guanajuato, Mexico; Hospital General Zona 21 IMSS, Department of Geriatrics, Le&#xf3;n, Guanajuato, Mexico."
-      },
-      {
-        "name": "L N V&#xe9;lez-Ram&#xed;rez",
-        "affiliation": "Universidad de Guanajuato, Department of Medicine and Nutrition, Le&#xf3;n, Guanajuato, Mexico; Hospital General Le&#xf3;n, Department of Radiology, Le&#xf3;n, Guanajuato, Mexico."
-      },
-      {
-        "name": "J D Mondrag&#xf3;n",
-        "affiliation": "University of Groningen, University Medical Center Groningen, Department of Neurology, Groningen, the Netherlands; Universidad Nacional Aut&#xf3;noma de M&#xe9;xico, Instituto de Neurobiolog&#xed;a, Departamento de Neurobiolog&#xed;a Conductual y Cognitiva, Laboratorio de Psicofisiolog&#xed;a, Quer&#xe9;taro, Mexico; San Diego State University, Department of Psychology, Life-Span Human Senses Lab, San Diego, CA, USA. Electronic address: jdmondragon@sdsu.edu."
-      }
-    ],
-    "journal": "Clinical medicine (London, England)",
-    "publishedDate": "2026-07-06",
-    "fetchedDate": "2026-07-07",
-    "category": "Imunologia",
-    "tags": [
-      "sepsis",
-      "gene",
-      "immune",
-      "autoimmune"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
