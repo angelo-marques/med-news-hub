@@ -2832,6 +2832,50 @@
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p15QXU8-2kFHot-a3a4da728d542ca6\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   },
   {
+    "id": "pubmed-42410492",
+    "pmid": "42410492",
+    "doi": "10.1111/joim.70129",
+    "title": "Genomic Medicine Sweden: Advancing precision medicine at the national level.",
+    "titlePt": "Genomic Medicine Sweden: Advancing precision medicine at the national level.",
+    "abstract": "High-throughput sequencing has transformed clinical diagnostics of rare diseases (RD), cancer and infectious diseases by enabling the identification of disease-causing genetic alterations and facilitating individualised treatment and care. In response to these advances, Genomic Medicine Sweden (GMS) was established in 2017 as a national collaborative effort to accelerate implementation of genomics-based precision medicine within Sweden's regionally organized, publicly funded healthcare system. GMS brings together the seven university healthcare regions and their associated medical faculties, in collaboration with healthcare regions across Sweden, Science for Life Laboratory, patient organizations, industry and governmental agencies. Activities are coordinated through national disease-specific expert groups, supported by cross-cutting functions in bioinformatics, health economics, ethics, education and patient engagement. At the operational level, seven Genomic Medicine Centres, embedde",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42410492",
+    "authors": [
+      {
+        "name": "Anders Edsj&#xf6;",
+        "affiliation": "Department of Clinical Genetics, Pathology and Molecular Diagnostics, Sk&#xe5;ne University Hospital, Lund, Sweden."
+      },
+      {
+        "name": "Anna Lindstrand",
+        "affiliation": "Division of Pathology, Department of Clinical Sciences, Lund University, Lund, Sweden."
+      },
+      {
+        "name": "Panagiotis Baliakas",
+        "affiliation": "Department of Molecular Medicine and Surgery, Karolinska Institutet, Stockholm, Sweden."
+      },
+      {
+        "name": "David Gisselsson",
+        "affiliation": "Clinical Genetics and Genomics, Karolinska University Hospital, Stockholm, Sweden."
+      }
+    ],
+    "journal": "Journal of internal medicine",
+    "publishedDate": "2026-09-11",
+    "fetchedDate": "2026-10-04",
+    "category": "Genômica",
+    "tags": [
+      "cancer",
+      "genomic",
+      "genetic",
+      "gene",
+      "sequencing"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3sedcW-2kFHot-a453f3446df4862c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 91ca3d00-bfa7-4396-be7a-5236045c5b50)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-41895845",
     "pmid": "41895845",
     "doi": "10.1136/jnis-2026-025001",
@@ -12521,48 +12565,5 @@
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41355396",
-    "pmid": "41355396",
-    "doi": "10.1177/10600280251384637",
-    "title": "Association of Baseline Comorbidities With First-Year Adherence to GLP-1 Receptor Agonists in Patients With Diabetes or Obesity: A Retrospective Cohort Study.",
-    "titlePt": "Association of Baseline Comorbidities With First-Year Adherence to GLP-1 Receptor Agonists in Patients With Diabetes or Obesity: A Retrospective Cohort Study.",
-    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly used for diabetes and obesity. Yet, the role of comorbidities on adherence, and variability due to drug subtype or indication remains understudied. Study objective was to (a) evaluate association between baseline comorbidities and digestive system adverse events on first-year GLP-1 RA adherence and (b) assess how associations differ across GLP-1 RA subtypes and between patients with diabetes and obesity. We conducted a retrospective cohort study of adults with type 1 or type 2 or obesity initiating GLP-1 RAs between 2018 and 2023 using the University of California Health Data Warehouse. Primary outcome was first-year adherence association with baseline comorbidity and digestive system adverse event status. Adherence odds ratios based on exposure were estimated using regression. Analyses were stratified by indication and drug type. Among 69&#x2009;049 adults who initiated a GLP-1 RAs between 2018 and 2023, 59.3% had ",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a associação entre comorbidades de base e a adesão ao tratamento com agonistas do receptor de GLP-1 (GLP-1 RAs) nos primeiros 12 meses de tratamento em pacientes com diabetes ou obesidade. Os GLP-1 RAs são cada vez mais utilizados para tratar diabetes e obesidade, mas o impacto das comorbidades na adesão ao tratamento e a variabilidade devido ao subtipo de droga ou indicação ainda não foi suficientemente estudado. O objetivo do estudo foi avaliar a associação entre comorbidades de base e eventos adversos do sistema digestivo na adesão ao tratamento com GLP-1 RAs nos primeiros 12 meses e avaliar como essas associações diferem entre subtipos de GLP-1 RAs e entre pacientes com diabetes e obesidade.\n\nOs pesquisadores realizaram um estudo de coorte retrospectivo com adultos que iniciaram o tratamento com GLP-1 RAs entre 2018 e 2023, utilizando o repositório de dados de saúde da Universidade da Califórnia. O estudo incluiu 69.049 adultos, dos quais 59,3% apresentavam comorbidades de base. A adesão ao tratamento foi avaliada por meio de razões de odds de adesão com base na exposição, utilizando regressão. As análises foram estratificadas por indicação e tipo de droga. Embora os resultados específicos não tenham sido informados no resumo original, o estudo busca contribuir para a compreensão da relação entre comorbidades e adesão ao tratamento com GLP-1 RAs, o que pode ter implicações clínicas importantes para a gestão de pacientes com diabetes ou obesidade.\n\nÉ fundamental considerar as limitações do estudo, incluindo a natureza retrospectiva da análise, o que pode introduzir viés de seleção ou informação. Além disso, a falta de detalhes sobre os resultados específicos limita a interpretação dos achados. Futuros estudos devem buscar aprofundar a compreensão dessas associações e explorar estratégias para melhorar a adesão ao tratamento com GLP-1 RAs em pacientes com comorbidades.\n\nUm estudo recente publicado no PubMed investigou a associação entre comorbidades de base e a adesão ao tratamento com agonistas do receptor de GLP-1 (GLP-1 RAs) nos primeiros 12 meses de tratamento em pacientes com diabetes ou obesidade. No entanto, para uma compreensão mais abrangente, é necessário aguardar a disponibilidade de mais informações sobre os resultados específicos do estudo.\n\nAgora, a versão em inglês:\n\nA recent study published in PubMed investigated the association between baseline comorbidities and adherence to glucagon-like peptide-1 receptor agonist (GLP-1 RA) treatment in the first 12 months among patients with diabetes or obesity. GLP-1 RAs are increasingly used to treat diabetes and obesity, but the impact of comorbidities on treatment adherence and variability due to drug subtype or indication remains understudied. The study's objective was to evaluate the association between baseline comorbidities and digestive system adverse events on first-year GLP-1 RA adherence and to assess how these associations differ across GLP-1 RA subtypes and between patients with diabetes and obesity.\n\nThe researchers conducted a retrospective cohort study of adults who initiated GLP-1 RA treatment between 2018 and 2023, using the University of California Health Data Warehouse. The study included 69,049 adults, of which 59.3% had baseline comorbidities. Adherence was evaluated through odds ratios of adherence based on exposure, using regression. Analyses were stratified by indication and drug type. Although specific results were not reported in the original abstract, the study aims to contribute to the understanding of the relationship between comorbidities and adherence to GLP-1 RA treatment, which may have important clinical implications for managing patients with diabetes or obesity.\n\nIt is essential to consider the study's limitations, including the retrospective nature of the analysis, which may introduce selection or information bias. Additionally, the lack of specific results details limits the interpretation of the findings. Future studies should seek to further understand these associations and explore strategies to improve adherence to GLP-1 RA treatment in patients with comorbidities.\n\nA recent study published in PubMed investigated the association between baseline comorbidities and adherence to glucagon-like peptide-1 receptor agonist (GLP-1 RA) treatment in the first 12 months among patients with diabetes or obesity. However, for a more comprehensive understanding, it is necessary to await the availability of more information on the specific results of the study.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41355396",
-    "authors": [
-      {
-        "name": "Ziyang Mai",
-        "affiliation": "Department of Epidemiology and Biostatistics, University of California, San Francisco, CA, USA."
-      },
-      {
-        "name": "John Kornak",
-        "affiliation": "Department of Epidemiology and Biostatistics, University of California, San Francisco, CA, USA."
-      },
-      {
-        "name": "Suzanne M Dufault",
-        "affiliation": "Department of Epidemiology and Biostatistics, University of California, San Francisco, CA, USA."
-      },
-      {
-        "name": "Michael W Strand",
-        "affiliation": "Department of Clinical Pharmacy, University of California, San Francisco, CA, USA."
-      }
-    ],
-    "journal": "The Annals of pharmacotherapy",
-    "publishedDate": "2026-07-07",
-    "fetchedDate": "2026-07-07",
-    "category": "Endocrinologia",
-    "tags": [
-      "drug",
-      "diabetes",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
