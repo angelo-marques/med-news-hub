@@ -1,5 +1,45 @@
 [
   {
+    "id": "pubmed-42829105",
+    "pmid": "42829105",
+    "doi": "10.1016/j.jvir.2026.109109",
+    "title": "Wireless Tenzing Crossing of Large Vessel-Occlusions - Feasibility of a Technique After Failed Stroke Thrombectomy with Traditional Approaches.",
+    "titlePt": "Wireless Tenzing Crossing of Large Vessel-Occlusions - Feasibility of a Technique After Failed Stroke Thrombectomy with Traditional Approaches.",
+    "abstract": "To test feasibility of Tenzingplasty as bailout technique for resistant large vessel occlusion (LVO). LVO is primarily treated with endovascular thrombectomy (EVT). Up to 10% of cases fail to achieve reperfusion, often due to resistant clot characteristics, intracranial atherosclerotic disease (ICAD), or technical challenges. This study presents a case-series evaluating a bailout crossing technique-wireless \"Tenzingplasty\" using the Tenzing delivery catheter-for failed conventional EVT approaches with aspiration catheters and microwire crossing. A retrospective review was performed between October 2025 and February 2026 at a single comprehensive stroke center, including adult patients who underwent EVT within 24 hours of stroke onset who had failed multiple aspiration and microwire crossing attempts. Wireless crossing with Tenzing catheter and subsequent Tenzingplasty was employed as a \"last hope\" technique to traverse and disrupt resistant occlusions in select cases (all cases include",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829105",
+    "authors": [
+      {
+        "name": "Faraz Behzadi",
+        "affiliation": "Department of Neurology, University of Arizona College of Medicine Phoenix. Electronic address: Behzadi.Faraz1@gmail.com."
+      },
+      {
+        "name": "Kenneth Zurcher",
+        "affiliation": "Department of Interventional Radiology, University of Arizona College of Medicine Phoenix."
+      },
+      {
+        "name": "Isabel L Bauer",
+        "affiliation": "Department of Neurological Surgery, University of Arizona College of Medicine Phoenix."
+      },
+      {
+        "name": "Cameron M McDougall",
+        "affiliation": "Division of Neurointerventional Radiology, University of Arizona College of Medicine Phoenix."
+      }
+    ],
+    "journal": "Journal of vascular and interventional radiology : JVIR",
+    "publishedDate": "2026-10-03",
+    "fetchedDate": "2026-10-04",
+    "category": "Neurologia",
+    "tags": [
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3sRpjx-2kFHot-a453b641988274f9\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 41ee9f96-e112-41d9-9267-0f245ed71976)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42826575",
     "pmid": "42826575",
     "doi": "10.1016/j.compbiolchem.2026.109448",
@@ -12524,50 +12564,5 @@
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42410492",
-    "pmid": "42410492",
-    "doi": "10.1111/joim.70129",
-    "title": "Genomic Medicine Sweden: Advancing precision medicine at the national level.",
-    "titlePt": "Genomic Medicine Sweden: Advancing precision medicine at the national level.",
-    "abstract": "High-throughput sequencing has transformed clinical diagnostics of rare diseases (RD), cancer and infectious diseases by enabling the identification of disease-causing genetic alterations and facilitating individualised treatment and care. In response to these advances, Genomic Medicine Sweden (GMS) was established in 2017 as a national collaborative effort to accelerate implementation of genomics-based precision medicine within Sweden's regionally organized, publicly funded healthcare system. GMS brings together the seven university healthcare regions and their associated medical faculties, in collaboration with healthcare regions across Sweden, Science for Life Laboratory, patient organizations, industry and governmental agencies. Activities are coordinated through national disease-specific expert groups, supported by cross-cutting functions in bioinformatics, health economics, ethics, education and patient engagement. At the operational level, seven Genomic Medicine Centres, embedde",
-    "journalisticSummary": "**Versão em português**\n\nA medicina genômica tem revolucionado o diagnóstico clínico de doenças raras, câncer e infecções, permitindo a identificação de alterações genéticas causadoras e viabilizando abordagens terapêuticas individualizadas. Nesse contexto, a Suécia implementou em 2017 o *Genomic Medicine Sweden* (GMS), uma iniciativa nacional colaborativa para acelerar a adoção de medicina de precisão baseada em genômica dentro do sistema público de saúde, organizado regionalmente e financiado pelo Estado. O GMS reúne as sete regiões de saúde universitárias e suas faculdades médicas, em parceria com organizações de pacientes, indústrias, agências governamentais e o *Science for Life Laboratory*, cuja coordenação é feita por meio de grupos de especialistas nacionais por doença, com suporte de funções transversais em bioinformática, economia da saúde, ética, educação e engajamento de pacientes.\n\nNo nível operacional, sete Centros de Medicina Genômica foram implantados para integrar a infraestrutura tecnológica e clínica, padronizando processos desde a coleta de amostras até a interpretação dos dados genômicos. Embora o artigo não detalhe os resultados quantitativos específicos — como número de pacientes diagnosticados ou impacto econômico — destaca que a iniciativa busca superar barreiras de fragmentação regional, melhorar o acesso equitativo a testes genômicos avançados e promover a implementação de protocolos clínicos baseados em evidências. Entre os desafios mencionados estão a harmonização de padrões éticos e técnicos entre as regiões, bem como a necessidade de formação contínua de profissionais de saúde para lidar com a complexidade da medicina genômica. Os próximos passos incluem a expansão da infraestrutura computacional e a consolidação de parcerias público-privadas para viabilizar pesquisas translacionais, com potencial de influenciar políticas de saúde pública não apenas na Suécia, mas também em outros sistemas com modelos similares de organização.\n\n---\n\n**English version**\n\nGenomic medicine has transformed clinical diagnostics for rare diseases, cancer, and infections by enabling the identification of disease-causing genetic alterations and facilitating individualized treatment strategies. In response to these advances, Sweden launched *Genomic Medicine Sweden* (GMS) in 2017 as a national collaborative initiative to accelerate the implementation of genomics-based precision medicine within its publicly funded, regionally organized healthcare system. GMS brings together the seven university healthcare regions and their affiliated medical faculties, in partnership with patient organizations, industry partners, governmental agencies, and the *Science for Life Laboratory*. Coordination is structured through national disease-specific expert groups, supported by cross-cutting functions in bioinformatics, health economics, ethics, education, and patient engagement.\n\nAt the operational level, seven Genomic Medicine Centres have been established to integrate technological and clinical infrastructure, standardizing processes from sample collection to genomic data interpretation. While the paper does not provide specific quantitative outcomes—such as the number of patients diagnosed or economic impact—it emphasizes the initiative’s role in addressing regional fragmentation, improving equitable access to advanced genomic testing, and promoting evidence-based clinical protocols. Key challenges include harmonizing ethical and technical standards across regions, as well as the ongoing need for workforce training to manage the complexity of genomic medicine. Future directions involve expanding computational infrastructure and strengthening public-private partnerships to enable translational research, with potential implications for informing public health policies in systems with similar organizational models.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42410492",
-    "authors": [
-      {
-        "name": "Anders Edsj&#xf6;",
-        "affiliation": "Department of Clinical Genetics, Pathology and Molecular Diagnostics, Sk&#xe5;ne University Hospital, Lund, Sweden."
-      },
-      {
-        "name": "Anna Lindstrand",
-        "affiliation": "Division of Pathology, Department of Clinical Sciences, Lund University, Lund, Sweden."
-      },
-      {
-        "name": "Panagiotis Baliakas",
-        "affiliation": "Department of Molecular Medicine and Surgery, Karolinska Institutet, Stockholm, Sweden."
-      },
-      {
-        "name": "David Gisselsson",
-        "affiliation": "Clinical Genetics and Genomics, Karolinska University Hospital, Stockholm, Sweden."
-      }
-    ],
-    "journal": "Journal of internal medicine",
-    "publishedDate": "2026-07-07",
-    "fetchedDate": "2026-07-07",
-    "category": "Genômica",
-    "tags": [
-      "cancer",
-      "genomic",
-      "genetic",
-      "gene",
-      "sequencing"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
