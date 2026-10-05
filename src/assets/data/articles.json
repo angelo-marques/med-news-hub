@@ -1,5 +1,45 @@
 [
   {
+    "id": "pubmed-42831638",
+    "pmid": "42831638",
+    "doi": "10.1227/neu.0000000000004245",
+    "title": "Tiny (&#x2264;3 mm) Unruptured Intracranial Aneurysms: A 13-Year Contemporary Insight on Treatment Safety From a Multicenter Registry.",
+    "titlePt": "Tiny (&#x2264;3 mm) Unruptured Intracranial Aneurysms: A 13-Year Contemporary Insight on Treatment Safety From a Multicenter Registry.",
+    "abstract": "Tiny or very small unruptured intracranial aneurysms (&#x2264;3 mm) carry a very low estimated rupture risk, yet many are electively treated. Although factors influencing procedural risks have the potential to guide treatment selection, they remain poorly characterized in this population. A retrospective cohort study was conducted using prospectively collected data from the multicenter Stroke Thrombectomy and Aneurysm Registry, including patients treated for unruptured aneurysms between 2013 and 2025. Tiny aneurysms were defined as &#x2264;3 mm. Primary outcomes were intraprocedural and postprocedural complications. Propensity score matching and multivariable logistic regression were performed. Among 5107 treated aneurysms, 783 (15.3%) were tiny. Patients with tiny aneurysms were younger, more often female, and had higher rates of vascular risk factors, prior subarachnoid hemorrhage, or family history of aneurysms (P &lt; .05). Intraoperative complications (5.2% vs 5.1%, P = .91), post",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42831638",
+    "authors": [
+      {
+        "name": "Victor Gabriel El-Hajj",
+        "affiliation": "Department of Neurological Surgery, Thomas Jefferson University Hospital, Philadelphia, Pennsylvania, USA."
+      },
+      {
+        "name": "Antony A Fuleihan",
+        "affiliation": "Department of Neurological Surgery, Thomas Jefferson University Hospital, Philadelphia, Pennsylvania, USA."
+      },
+      {
+        "name": "Michael Rizzuto",
+        "affiliation": "Department of Neurological Surgery, Thomas Jefferson University Hospital, Philadelphia, Pennsylvania, USA."
+      },
+      {
+        "name": "James Castiglione",
+        "affiliation": "Department of Neurological Surgery, Thomas Jefferson University Hospital, Philadelphia, Pennsylvania, USA."
+      }
+    ],
+    "journal": "Neurosurgery",
+    "publishedDate": "2026-10-05",
+    "fetchedDate": "2026-10-05",
+    "category": "Neurologia",
+    "tags": [
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p43Jnm9-2kFHot-a45e5f90ed03354e\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 04ad98e0-9fd5-4767-9674-e78a2e312aeb)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42831259",
     "pmid": "42831259",
     "doi": "10.1080/20008066.2026.2731855",
@@ -12524,45 +12564,6 @@
     ],
     "isHighlight": false,
     "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42411669",
-    "pmid": "42411669",
-    "doi": "10.7754/Clin.Lab.2025.250818",
-    "title": "Clinical Application of Combined CEACAM1_A and CEACAM1_B in Early Warning and Diagnosis of Sepsis.",
-    "titlePt": "Clinical Application of Combined CEACAM1_A and CEACAM1_B in Early Warning and Diagnosis of Sepsis.",
-    "abstract": "This retrospective observational study aimed to evaluate the predictive value of CEACAM1_A, CEACAM1_B, and their combined model in the early warning diagnosis of sepsis. Based on previously identified CEACAM1_A and CEACAM1_B, this study evaluated their potential in the early diagnosis of sepsis and explored the construction of predictive models that combine genetic markers with clinical indicators. A total of 144 acutely infected patients admitted to Hefei Second People's Hospital between July 2023 and February 2025 were enrolled in this retrospective observational study. The patients were divided into sepsis and non-sepsis groups according to the Sepsis-3 standard. The sepsis group included 96 patients, and the non-sepsis group consisted of 48 patients. Baseline characteristics, biochemical parameters, and expression levels of the CEACAM1_A and CEACAM1_B genes were collected from both groups. Statistical analyses were performed via SPSS version 27.0 and the R programming language. For",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo observacional publicado recentemente na *Clinical Laboratory* avaliou o potencial de dois marcadores genéticos, CEACAM1_A e CEACAM1_B, como ferramenta de alerta precoce no diagnóstico de sepse. A pesquisa, conduzida com 144 pacientes internados no Hospital do Segundo Povo de Hefei entre julho de 2023 e fevereiro de 2025, dividiu os participantes em dois grupos: 96 com diagnóstico de sepse (conforme critérios Sepsis-3) e 48 sem sepse. O objetivo foi analisar a capacidade preditiva desses biomarcadores, tanto de forma isolada quanto combinada a indicadores clínicos, para identificar a condição ainda em sua fase inicial.\n\nOs resultados indicaram que a expressão dos genes CEACAM1_A e CEACAM1_B apresentou diferenças estatisticamente significativas entre os grupos, sugerindo um possível papel na diferenciação entre infecções graves e não graves. Embora os autores tenham desenvolvido modelos preditivos integrando esses marcadores a parâmetros bioquímicos e clínicos, o estudo não detalhou a acurácia diagnóstica específica (como sensibilidade, especificidade ou área sob a curva ROC) nem comparou diretamente o desempenho desses modelos com métodos convencionais, como a dosagem de lactato ou escores clínicos. Essas lacunas limitam a interpretação imediata do impacto clínico real dos achados.\n\nApesar das limitações inerentes a desenhos retrospectivos e ao tamanho amostral reduzido, a pesquisa abre caminho para investigações futuras que validem esses marcadores em coortes maiores e em cenários prospectivos. Além disso, a combinação desses genes com outros biomarcadores emergentes poderia aprimorar a precisão de sistemas de alerta precoce, reduzindo o tempo de diagnóstico e melhorando desfechos em pacientes críticos. Os próximos passos incluem estudos multicêntricos com validação externa e análise de custo-efetividade para confirmar a aplicabilidade desses biomarcadores na prática clínica.\n\n---\n\n**English version**\n\nA recent retrospective observational study published in *Clinical Laboratory* explored the potential of two genetic markers, CEACAM1_A and CEACAM1_B, as early warning tools for sepsis diagnosis. The research, conducted with 144 patients admitted to Hefei Second People’s Hospital between July 2023 and February 2025, divided participants into two groups: 96 with sepsis (per Sepsis-3 criteria) and 48 without. The study aimed to assess the predictive value of these biomarkers, both individually and in combination with clinical indicators, for early identification of the condition.\n\nThe findings revealed statistically significant differences in the expression of CEACAM1_A and CEACAM1_B between the groups, suggesting a potential role in distinguishing severe from non-severe infections. While the authors developed predictive models integrating these markers with biochemical and clinical parameters, the study did not report specific diagnostic accuracy metrics (such as sensitivity, specificity, or area under the ROC curve) nor directly compared these models with conventional methods like lactate measurements or clinical scores. These gaps limit the immediate interpretation of the real-world clinical impact of the findings.\n\nDespite the inherent limitations of retrospective designs and a relatively small sample size, the study paves the way for future research to validate these markers in larger, prospective cohorts. Additionally, combining these genes with other emerging biomarkers could enhance the precision of early warning systems, reducing diagnostic delays and improving outcomes in critically ill patients. Next steps include multicenter studies with external validation and cost-effectiveness analyses to confirm the clinical applicability of these biomarkers.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42411669",
-    "authors": [
-      {
-        "name": "Lijuan Zhou"
-      },
-      {
-        "name": "Chuchu Xu"
-      },
-      {
-        "name": "Huijuan Zhou"
-      },
-      {
-        "name": "Xi Wang"
-      }
-    ],
-    "journal": "Clinical laboratory",
-    "publishedDate": "2026-07-07",
-    "fetchedDate": "2026-07-07",
-    "category": "Genômica",
-    "tags": [
-      "sepsis",
-      "genetic",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
