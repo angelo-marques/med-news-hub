@@ -1,5 +1,87 @@
 [
   {
+    "id": "pubmed-42831259",
+    "pmid": "42831259",
+    "doi": "10.1080/20008066.2026.2731855",
+    "title": "Systematic review and meta-analysis: the effectiveness of cognitive behavioral therapy and eye movement desensitization and reprocessing in children and adolescents.",
+    "titlePt": "Systematic review and meta-analysis: the effectiveness of cognitive behavioral therapy and eye movement desensitization and reprocessing in children and adolescents.",
+    "abstract": "Background: Post-traumatic stress disorder (PTSD) is prevalent among children and adolescents, with cognitive behavioral therapy (CBT) and eye movement desensitization and reprocessing (EMDR) widely used treatment options. This study compared the effects of CBT and EMDR in children and adolescents using a meta-analysis approach.Methods: PubMed, EMBASE, CENTRAL, CINAHL, ProQuest Dissertations &amp; Theses, and PsycInfo were searched in March 2025. Randomized controlled trials that compared the effectiveness of CBT and EMDR on PTSD symptoms in children and adolescents aged 6-18 years who had been exposed to traumatic events were included. The Cochrane Risk of Bias version 2 was used to assess the methodological quality of the included studies. A random-effects model was applied to calculate the standardized mean difference (SMD) along with 95% confidence interval (CI), and the I2 statistic was used to quantify statistical heterogeneity.Results: Five trials (248 participants) were include",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42831259",
+    "authors": [
+      {
+        "name": "Irada Meoon",
+        "affiliation": "Department of Psychiatric and Mental Health Nursing, Srisavarindhira Thai Red Cross Institute of Nursing, Bangkok, Thailand."
+      },
+      {
+        "name": "Aungsana Khlaisuk",
+        "affiliation": "Department of Psychiatric and Mental Health Nursing, Srisavarindhira Thai Red Cross Institute of Nursing, Bangkok, Thailand."
+      },
+      {
+        "name": "Siriyupa Nansunanon",
+        "affiliation": "Department of Psychiatric and Mental Health Nursing, Srisavarindhira Thai Red Cross Institute of Nursing, Bangkok, Thailand."
+      },
+      {
+        "name": "Teerapon Dhippayom",
+        "affiliation": "The Research Unit of Evidence Synthesis (TRUES), Faculty of Pharmaceutical Sciences, Naresuan University, Phitsanulok, Thailand."
+      }
+    ],
+    "journal": "European journal of psychotraumatology",
+    "publishedDate": "2026-10-05",
+    "fetchedDate": "2026-10-05",
+    "category": "Neurologia",
+    "tags": [
+      "cognitive",
+      "gene",
+      "children"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p41rogB-2kFHot-a45ccf81fa827073\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 4046f70d-7017-463f-81a2-f145da6f6eda)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42831074",
+    "pmid": "42831074",
+    "doi": "10.1016/j.eclinm.2026.104214",
+    "title": "Comparative efficacy of vitamin B12 supplementation routes in adults with replacement indication: a systematic review.",
+    "titlePt": "Comparative efficacy of vitamin B12 supplementation routes in adults with replacement indication: a systematic review.",
+    "abstract": "Vitamin B12 deficiency is common and often requires long-term supplementation to prevent serious complications, yet the comparative efficacy of the oral, sublingual, and intramuscular routes remains uncertain. This systematic review evaluated the efficacy of different vitamin B12 supplementation routes in adults with an indication for replacement. PubMed, Embase, and Cochrane CENTRAL were searched without language or date restrictions, from inception to July 18, 2025, updated July 13, 2026, following PRISMA 2020 reporting. Eligible studies were randomized trials and observational cohorts comparing oral, sublingual, or intramuscular vitamin B12 supplementation in adults with an indication for replacement; pediatric and non-comparative studies were excluded. Risk of bias was assessed with RoB 2.0 (trials) and ROBINS-I (cohorts). The primary outcome was serum vitamin B12 or clinical response. This systematic review was registered with PROSPERO, number CRD420251126832. 13 studies met the i",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42831074",
+    "authors": [
+      {
+        "name": "Daniela Debone",
+        "affiliation": "HTAnalyze Consultoria e Treinamento LTDA, Porto Alegre, RS, Brazil."
+      },
+      {
+        "name": "Andr&#xe9; Ferreira Azeredo da Silva",
+        "affiliation": "Institute of Environmental, Chemical and Pharmaceutical Sciences, Federal University of S&#xe3;o Paulo, Diadema, SP, Brazil."
+      },
+      {
+        "name": "Julianne Tannous Cordenonssi",
+        "affiliation": "HTAnalyze Consultoria e Treinamento LTDA, Porto Alegre, RS, Brazil."
+      },
+      {
+        "name": "Ricardo V Cohen",
+        "affiliation": "Myralis Industria Farmac&#xea;utica Ltda, S&#xe3;o Paulo, SP, Brazil."
+      }
+    ],
+    "journal": "EClinicalMedicine",
+    "publishedDate": "2026-10-05",
+    "fetchedDate": "2026-10-05",
+    "category": "Pediatria",
+    "tags": [
+      "pediatric"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p41sEr7-2kFHot-a45cd1934daaa1dd\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 7203e419-8541-4c12-9d62-52d9d480e35f)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42829105",
     "pmid": "42829105",
     "doi": "10.1016/j.jvir.2026.109109",
@@ -12481,88 +12563,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41640104",
-    "pmid": "41640104",
-    "doi": "10.1177/10600280251408862",
-    "title": "Tofersen: A Novel Option for the Treatment of Amyotrophic Lateral Sclerosis.",
-    "titlePt": "Tofersen: A Novel Option for the Treatment of Amyotrophic Lateral Sclerosis.",
-    "abstract": "This review summarizes current evidence on the efficacy and safety of tofersen (Qalsody) in treating amyotrophic lateral sclerosis (ALS). PubMed, MEDLINE, Google Scholar, and ClinicalTrials.gov were searched using the keywords: Qalsody, BIIB067, antisense oligonucleotides, SOD1, and amyotrophic lateral sclerosis. Articles published from inception to November 2025 were included. English-language studies assessing the pharmacokinetics, pharmacology, efficacy, and safety of tofersen were included. Prescribing information and real-world evidence were also reviewed. Tofersen is an intrathecally administered antisense oligonucleotide targeting superoxide dismutase 1 (SOD1) mRNA. Early trials demonstrate dose-dependent reductions in cerebrospinal fluid (CSF) SOD1 protein levels of -33% and slower ALS Functional Rating Scale (ALSFRS-R) decline compared to placebo (-1.19 vs -5.63 points). In Phase 3 trials, tofersen reduced CSF SOD1 by 29% and plasma neurofilament light chain (NfL) by 60%, whil",
-    "journalisticSummary": "A aprovação do tofersen (Qalsody) pela FDA em abril de 2023 representou um avanço no tratamento da esclerose lateral amiotrófica (ELA) associada a mutações no gene *SOD1*, condição responsável por cerca de 2% dos casos da doença. O fármaco, um oligonucleotídeo antisense administrado por via intratecal, atua reduzindo a produção da proteína SOD1 mutante, cujas formas tóxicas estão diretamente relacionadas à degeneração de neurônios motores. Uma revisão sistemática publicada recentemente no periódico *Annals of Pharmacotherapy*, com dados compilados até novembro de 2025, consolidou evidências de sua eficácia e perfil de segurança a partir de ensaios clínicos, estudos farmacocinéticos e relatos do mundo real.\n\nOs dados clínicos mais robustos advêm do ensaio de fase III VALOR, que avaliou 108 pacientes com ELA-SOD1 em estágios iniciais. Os resultados demonstraram redução de 29% nos níveis de SOD1 no líquido cefalorraquidiano (LCR) após 28 semanas de tratamento, em comparação ao placebo. Além disso, houve queda de 60% nos níveis plasmáticos de cadeia leve de neurofilamento (NfL) — um biomarcador de dano axonal — sugerindo potencial neuroproteção. Embora o estudo não tenha atingido significância estatística no desfecho primário (alteração na escala ALSFRS-R em 28 semanas), observou-se uma desaceleração na progressão da doença em subgrupos de pacientes com sintomas mais leves e níveis basais baixos de NfL. Em análises de extensão do estudo, pacientes tratados com tofersen por até 52 semanas apresentaram menor declínio funcional em comparação ao grupo placebo histórico, com diferença de -1,19 vs -5,63 pontos na escala ALSFRS-R.\n\nApesar dos resultados promissores, a administração intratecal do fármaco — que exige procedimentos invasivos e especializados — limita sua acessibilidade, especialmente em centros sem expertise em punção lombar. Efeitos adversos frequentes incluem cefaleia, dor lombar e meningismo, enquanto eventos adversos graves, como aracnoidite, embora raros, já foram relatados. A ausência de dados robustos em populações específicas, como idosos ou pacientes com doenças concomitantes, e a curta duração dos ensaios clínicos — até o momento, no máximo 52 semanas — restringem conclusões sobre eficácia em longo prazo e impacto na sobrevida. Pesquisas futuras devem priorizar estudos randomizados com maior tempo de acompanhamento, além de investigar combinações terapêuticas e biomarcadores preditivos de resposta ao tratamento.\n\n---\n\nThe FDA’s approval of tofersen (Qalsody) in April 2023 marked a milestone in the treatment of amyotrophic lateral sclerosis (ALS) linked to *SOD1* gene mutations, a subset accounting for approximately 2% of cases. Administered intrathecally, the antisense oligonucleotide targets mutant SOD1 mRNA, mitigating the production of toxic protein variants that drive motor neuron degeneration. A systematic review published in *Annals of Pharmacotherapy* in late 2025 synthesized evidence from clinical trials, pharmacokinetic studies, and real-world data to evaluate its efficacy and safety profile.\n\nClinical evidence stems primarily from the Phase III VALOR trial, which enrolled 108 patients with early-stage SOD1-ALS. After 28 weeks, tofersen reduced cerebrospinal fluid (CSF) SOD1 levels by 29% compared to placebo. Plasma neurofilament light chain (NfL), a biomarker of axonal damage, decreased by 60%, indicating potential neuroprotection. While the trial did not meet its primary endpoint—change in ALSFRS-R score at 28 weeks—subgroup analyses revealed slower disease progression in patients with milder symptoms and low baseline NfL levels. Extended follow-up data up to 52 weeks showed a functional decline of -1.19 points in the ALSFRS-R for the tofersen group versus -5.63 points in historical placebo controls.\n\nHowever, the intrathecal administration route—requiring specialized procedures—poses logistical challenges, particularly in centers lacking lumbar puncture expertise. Common adverse events include headache, back pain, and meningismus, with rare but reported cases of arachnoiditis. The absence of long-term efficacy and safety data, along with limited representation of elderly or comorbid populations in trials, constrains broader applicability. Future research should prioritize extended-duration randomized trials, combination therapies, and the identification of predictive biomarkers to refine patient selection and treatment strategies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41640104",
-    "authors": [
-      {
-        "name": "Michael Karros",
-        "affiliation": "Fairleigh Dickinson University College of Pharmacy and Health Sciences, Florham Park, NJ, USA."
-      },
-      {
-        "name": "Marissa DiFulco",
-        "affiliation": "Fairleigh Dickinson University College of Pharmacy and Health Sciences, Florham Park, NJ, USA."
-      },
-      {
-        "name": "Anna Nogid",
-        "affiliation": "Fairleigh Dickinson University College of Pharmacy and Health Sciences, Florham Park, NJ, USA."
-      }
-    ],
-    "journal": "The Annals of pharmacotherapy",
-    "publishedDate": "2026-07-07",
-    "fetchedDate": "2026-07-07",
-    "category": "Farmacologia",
-    "tags": [
-      "rna",
-      "pharmacology",
-      "pharmacokinetics"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42410733",
-    "pmid": "42410733",
-    "doi": "10.1002/ccd.70719",
-    "title": "Clinical Predictors of Rescue Duration in Acute Pericardial Tamponade in Atrial Fibrillation Ablation.",
-    "titlePt": "Clinical Predictors of Rescue Duration in Acute Pericardial Tamponade in Atrial Fibrillation Ablation.",
-    "abstract": "Pericardial tamponade during atrial fibrillation (AF) ablation is a life-threatening event, yet optimal rescue strategies remain uncertain. This study explored factors influencing rescue duration and long-term outcomes, focusing on the timing of protamine reversal. Among 3544 consecutive AF ablations (March 2021-April 2025), ten patients who developed acute tamponade were retrospectively analyzed. The primary endpoint was rescue duration, defined as the time from tamponade recognition to patient departure from the electrophysiology (EP) laboratory. Secondary endpoint was a composite of recurrent tamponade, stroke, cardiac rehospitalisation, and all-cause death during follow-up. All patients received protamine and were stratified by median time to further assess its association with rescue duration. Protamine administration time correlated positively with rescue duration (Spearman &#x3c1;&#x2009;=&#x2009;+0.65, p&#x2009;=&#x2009;0.043) and remained shorter in the early-use group than in",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo publicado no *Catheterization and Cardiovascular Interventions* identificou que o atraso na administração de protamina durante a reversão de anticoagulação em casos de tamponamento pericárdico agudo — complicação rara mas grave de ablações de fibrilação atrial — está associado a um prolongamento do tempo de resgate e possíveis desfechos adversos. Analisando 3.544 ablações consecutivas realizadas entre março de 2021 e abril de 2025, os pesquisadores rastrearam dez pacientes que desenvolveram tamponamento pericárdico durante o procedimento. O tempo de resgate, definido como o intervalo entre o reconhecimento da complicação e a saída do paciente do laboratório de eletrofisiologia, foi o desfecho primário avaliado.\n\nOs resultados revelaram uma correlação positiva significativa entre o momento da administração de protamina e a duração do resgate (Spearman ρ = +0,65; p = 0,043). Pacientes que receberam protamina precocemente apresentaram tempos de resgate consistentemente menores em comparação àqueles em que a administração foi postergada. Embora o estudo não tenha detalhado os critérios exatos para definir \"precocemente\" ou \"tardiamente\", os autores sugerem que a intervenção imediata com protamina pode ser determinante para a estabilidade hemodinâmica nesses casos. Os desfechos secundários incluíram eventos como tamponamento recorrente, acidente vascular cerebral, reinternação cardíaca e óbito durante o acompanhamento, embora o trabalho não tenha fornecido dados específicos sobre a incidência desses eventos na amostra estudada.\n\nApesar dos achados promissores, a pesquisa apresenta limitações inerentes ao seu delineamento retrospectivo e ao pequeno número de casos analisados — apenas dez eventos em mais de três mil procedimentos. A ausência de um grupo controle sem tamponamento e a falta de padronização na definição de \"resgate precoce\" ou \"tardio\" restringem a generalização dos resultados. Além disso, não foram reportados dados sobre protocolos específicos de anticoagulação ou técnicas de drenagem pericárdica utilizadas, fatores que poderiam influenciar diretamente os desfechos. Os autores destacam a necessidade de estudos prospectivos com amostras maiores para validar o papel da protamina na otimização do manejo do tamponamento pericárdico durante ablações de fibrilação atrial, bem como para explorar estratégias preventivas mais robustas.\n\n---\n\n**English version**\n\nA retrospective study published in *Catheterization and Cardiovascular Interventions* found that delayed administration of protamine during anticoagulation reversal in cases of acute pericardial tamponade — a rare but life-threatening complication of atrial fibrillation (AF) ablation — is associated with prolonged rescue duration and potentially adverse outcomes. Analyzing 3,544 consecutive ablations performed between March 2021 and April 2025, researchers tracked ten patients who developed pericardial tamponade during the procedure. Rescue duration, defined as the time from tamponade recognition to patient departure from the electrophysiology laboratory, was the primary endpoint evaluated.\n\nThe findings revealed a significant positive correlation between the timing of protamine administration and rescue duration (Spearman ρ = +0.65; p = 0.043). Patients who received protamine earlier exhibited consistently shorter rescue times compared to those in whom administration was delayed. While the study did not specify exact criteria for defining \"early\" or \"late\" administration, the authors suggest that immediate protamine intervention may be critical for hemodynamic stability in these cases. Secondary outcomes included events such as recurrent tamponade, stroke, cardiac rehospitalization, and all-cause mortality during follow-up, though the paper did not provide specific incidence data for these events within the studied sample.\n\nDespite these promising findings, the research is limited by its retrospective design and small sample size of just ten events among over three thousand procedures. The absence of a control group without tamponade and the lack of standardized definitions for \"early\" or \"late\" rescue restrict the generalizability of the results. Additionally, no data were reported on specific anticoagulation protocols or pericardial drainage techniques employed, factors that could directly influence outcomes. The authors emphasize the need for prospective studies with larger samples to validate the role of protamine in optimizing pericardial tamponade management during AF ablation and to explore more robust preventive strategies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42410733",
-    "authors": [
-      {
-        "name": "Shenyuan Zhou",
-        "affiliation": "Health Science Center, Ningbo University, Ningbo City, China."
-      },
-      {
-        "name": "Xinzhi Yu",
-        "affiliation": "Health Science Center, Ningbo University, Ningbo City, China."
-      },
-      {
-        "name": "Xinyu Zhao",
-        "affiliation": "Health Science Center, Ningbo University, Ningbo City, China."
-      },
-      {
-        "name": "Chenxu Luo",
-        "affiliation": "Health Science Center, Ningbo University, Ningbo City, China."
-      }
-    ],
-    "journal": "Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography &amp; Interventions",
-    "publishedDate": "2026-07-07",
-    "fetchedDate": "2026-07-07",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiac",
-      "atrial",
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
