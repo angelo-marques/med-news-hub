@@ -1,5 +1,45 @@
 [
   {
+    "id": "pubmed-42154216",
+    "pmid": "42154216",
+    "doi": "10.1111/pace.70296",
+    "title": "Empiric and Trigger-Guided Superior Vena Cava Isolation in AF Ablation: Systematic Review and Meta-Analysis.",
+    "titlePt": "Empiric and Trigger-Guided Superior Vena Cava Isolation in AF Ablation: Systematic Review and Meta-Analysis.",
+    "abstract": "Superior vena cava isolation (SVCI) is performed as an adjunct to pulmonary vein isolation (PVI) for atrial fibrillation, yet whether an empiric or trigger-guided strategy is preferable remains uncertain. Prior meta-analyses have been largely restricted to index procedures in paroxysmal AF and have not explicitly stratified by ablation strategy. We sought to address these gaps through a systematic review of available randomized evidence. Major databases were searched through November 2025 for RCTs comparing PVI+SVCI versus PVI alone. Trials were stratified by strategy: empiric SVCI (performed irrespective of SVC ectopy) or trigger-guided SVCI (performed only upon demonstrated SVC triggers). The primary outcome was atrial tachyarrhythmia recurrence (&#x2265;30 s) beyond the blanking period. Random-effects models, pre-specified subgroup analyses, meta-regression, and GRADE certainty assessment were performed. Eight RCTs (n = 1231) were included; most enrolled paroxysmal AF, while two inc",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42154216",
+    "authors": [
+      {
+        "name": "Ojasav Sehrawat",
+        "affiliation": "Department of Cardiovascular Medicine, Mayo Clinic, Rochester, Minnesota, USA."
+      },
+      {
+        "name": "Vasudha Garg",
+        "affiliation": "Department of Internal Medicine, Rochester General Hospital, Rochester, New York, USA."
+      },
+      {
+        "name": "Cher Ying Foo",
+        "affiliation": "Department of Internal Medicine, Rochester General Hospital, Rochester, New York, USA."
+      },
+      {
+        "name": "Chao Xue",
+        "affiliation": "Department of Internal Medicine, Rochester General Hospital, Rochester, New York, USA."
+      }
+    ],
+    "journal": "Pacing and clinical electrophysiology : PACE",
+    "publishedDate": "2026-10-06",
+    "fetchedDate": "2026-10-06",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p49um3Z-2kFHot-a4657fd60a24fa52\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: b4362ee5-af99-460a-87eb-34a2f53095af)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42831638",
     "pmid": "42831638",
     "doi": "10.1227/neu.0000000000004245",
@@ -12521,49 +12561,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41689765",
-    "pmid": "41689765",
-    "doi": "10.1080/21645515.2026.2630512",
-    "title": "Efficacy, immunogenicity, and safety of BCG revaccination against Mycobacterium tuberculosis: A systematic review and meta-analysis.",
-    "titlePt": "Efficacy, immunogenicity, and safety of BCG revaccination against Mycobacterium tuberculosis: A systematic review and meta-analysis.",
-    "abstract": "Tuberculosis (TB) remains a leading global cause of death. While primary Bacillus Calmette-Gu&#xe9;rin (BCG) vaccination offers protection in children, the role of BCG revaccination in adults remains unclear. This study evaluated the efficacy, immunogenicity, and safety of BCG revaccination against TB. A comprehensive literature search through July 2025, with independent data extraction by two reviewers. RevMan version 5.4 was used for analysis by applying random-effects models with 95% CIs. Six RCTs, involving 2400 participants, showed no significant effect of BCG revaccination on initial (RR 0.99) or sustained (RR 0.80) QFT conversion, showing only modest effectiveness against MTB. Immunogenicity evaluation showed a moderate increase in CD8+ T cell (p&#x2009;=&#x2009;.01) and cytokine-producing CD4+ T cell responses (p&#x2009;=&#x2009;.008). Safety analysis indicated increased adverse events, though a reduced risk of upper respiratory tract infections (RR 0.37) was noted. These resul",
-    "journalisticSummary": "A eficácia da revacinação com BCG contra a tuberculose (TB) em adultos permanece incerta, segundo uma meta-análise publicada no *PubMed* com DOI 10.1080/21645515.2026.2630512. O estudo, que analisou seis ensaios clínicos randomizados (RCTs) envolvendo 2.400 participantes, não encontrou evidências robustas de que a revacinação com o bacilo de Calmette-Guérin (BCG) reduza significativamente a infecção por *Mycobacterium tuberculosis* (MTB). Os resultados mostraram uma eficácia modesta, com riscos relativos (RR) de 0,99 para a conversão inicial e 0,80 para a conversão sustentada do teste de liberação de interferon-gama (QFT), um marcador de exposição ao MTB. Embora tenha sido observado um aumento moderado na resposta imunológica — com elevação significativa de células T CD8+ (p = 0,01) e células T CD4+ produtoras de citocinas (p = 0,008) —, os dados não sustentam um benefício clínico claro na prevenção da doença.\n\nDo ponto de vista de segurança, a revacinação esteve associada a um maior número de eventos adversos, embora tenha reduzido o risco de infecções do trato respiratório superior (RR 0,37). Os autores destacam que os achados sugerem uma imunogenicidade aumentada, mas não traduzem necessariamente em proteção clínica contra TB ativa ou latente. As limitações do estudo incluem a heterogeneidade dos RCTs avaliados e a ausência de dados sobre a eficácia em populações específicas, como indivíduos imunocomprometidos ou com histórico de exposição prévia ao MTB. Como próximos passos, os pesquisadores recomendam estudos com desenhos mais robustos, como coortes prospectivas ou ensaios com estratificação por fatores de risco, para esclarecer o papel da revacinação em grupos-alvo e otimizar estratégias de imunização.\n\n---\n\nThe efficacy of Bacillus Calmette-Guérin (BCG) revaccination against tuberculosis (TB) in adults remains unclear, according to a meta-analysis published in *PubMed* with DOI 10.1080/21645515.2026.2630512. The study, which analyzed six randomized controlled trials (RCTs) involving 2,400 participants, found no strong evidence that BCG revaccination significantly reduces *Mycobacterium tuberculosis* (MTB) infection. The results showed modest effectiveness, with relative risks (RR) of 0.99 for initial interferon-gamma release assay (IGRA) conversion and 0.80 for sustained conversion, a marker of MTB exposure. While a moderate increase in immune response was observed—with significant elevations in CD8+ T cells (p = 0.01) and cytokine-producing CD4+ T cells (p = 0.008)—the data do not support a clear clinical benefit in preventing active or latent TB.\n\nRegarding safety, revaccination was associated with a higher incidence of adverse events, though it reduced the risk of upper respiratory tract infections (RR 0.37). The authors emphasize that while immunogenicity improved, this did not translate into clinical protection against TB. Study limitations include heterogeneity among the evaluated RCTs and a lack of data on efficacy in specific populations, such as immunocompromised individuals or those with prior MTB exposure. Future research should focus on more robust study designs, such as prospective cohorts or stratified trials, to clarify the role of revaccination in high-risk groups and optimize immunization strategies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41689765",
-    "authors": [
-      {
-        "name": "Syed Hassan Ali",
-        "affiliation": "Department of Medicine, Liaquat University of Medical and Health Sciences, Jamshoro, Pakistan."
-      },
-      {
-        "name": "Shanza Shakir",
-        "affiliation": "Department of Medicine, Liaquat University of Medical and Health Sciences, Jamshoro, Pakistan."
-      },
-      {
-        "name": "Umais Ahmed Shaikh",
-        "affiliation": "Department of Medicine, Liaquat University of Medical and Health Sciences, Jamshoro, Pakistan."
-      },
-      {
-        "name": "Maryam Khalid",
-        "affiliation": "Department of Medicine, Liaquat University of Medical and Health Sciences, Jamshoro, Pakistan."
-      }
-    ],
-    "journal": "Human vaccines &amp; immunotherapeutics",
-    "publishedDate": "2026-07-07",
-    "fetchedDate": "2026-07-07",
-    "category": "Infectologia",
-    "tags": [
-      "infection",
-      "children",
-      "cytokine"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
