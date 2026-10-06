@@ -1,5 +1,80 @@
 [
   {
+    "id": "pubmed-42834430",
+    "pmid": "42834430",
+    "doi": "10.1186/s40842-026-00336-x",
+    "title": "Cardiometabolic diseases in transgender populations.",
+    "titlePt": "Cardiometabolic diseases in transgender populations.",
+    "abstract": "The number of people seeking gender-affirming medical care and gender-affirming hormone therapy (GAHT) is increasing. As sex steroids shape cardiometabolic physiology, GAHT is expected to meaningfully alter cardiometabolic risk. The aim of this review was to systematically determine and narratively synthesize evidence on the cardiometabolic effects of GAHT and identify clinically relevant knowledge gaps. We searched PubMed for English-language primary human studies published through November 26, 2025. Of 346 screened records, 96 unique original investigations were included. Most studies had less than 3 years of follow-up, the longest being 20 years in one electronic health record-based study. In transgender women, BMI was often reported as stable with higher fat and lower lean mass compared to baseline; insulin resistance tended to increase while fasting glucose and HbA1c were usually longitudinally stable. Lipid changes often showed reductions in total and low-density lipoprotein chol",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42834430",
+    "authors": [
+      {
+        "name": "Mattia Fienga",
+        "affiliation": "Division of Clinical Chemistry, Department of Laboratory Medicine (LABMED), Karolinska Institutet, H5, Alfred Nobels Alle 8, Stockholm, S-141 83, Sweden."
+      },
+      {
+        "name": "Uwe J F Tietge",
+        "affiliation": "Division of Clinical Chemistry, Department of Laboratory Medicine (LABMED), Karolinska Institutet, H5, Alfred Nobels Alle 8, Stockholm, S-141 83, Sweden. uwe.tietge@ki.se."
+      }
+    ],
+    "journal": "Cardiovascular diabetology. Endocrinology reports",
+    "publishedDate": "2026-10-06",
+    "fetchedDate": "2026-10-06",
+    "category": "Endocrinologia",
+    "tags": [
+      "insulin",
+      "hormone",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4BHhjo-2kFHot-a466fca40840ad14\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 04b51972-bdb7-4fda-b089-5fda728a85da)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42835959",
+    "pmid": "42835959",
+    "doi": "10.1016/j.ijregi.2026.100998",
+    "title": "Enteric bacterial etiology, antimicrobial resistance profiles, and evaluation of epidemiological risk factors among elderly patients with diarrhea in an urban Kenyan hospital: a cross-sectional study.",
+    "titlePt": "Enteric bacterial etiology, antimicrobial resistance profiles, and evaluation of epidemiological risk factors among elderly patients with diarrhea in an urban Kenyan hospital: a cross-sectional study.",
+    "abstract": "Diarrheal disease remains a major cause of morbidity and mortality among older adults, yet data on enteric bacterial isolates and antimicrobial resistance in elderly populations in sub-Saharan Africa are limited. This study investigated the bacterial etiology, antimicrobial resistance profiles, and associated risk factors among elderly patients presenting with diarrhea at an urban Kenyan referral hospital. A hospital-based cross-sectional study was conducted among 271 patients aged &#x2265;60 years presenting with acute diarrhea at Mama Lucy Kibaki Hospital, Nairobi, between February and December 2025. Stool specimens were cultured using selective and differential media, and bacterial isolates were identified by standard biochemical methods. Escherichia coli isolates were identified biochemically only, and pathotyping was not determined, so their contribution to the diarrheal illness reported here cannot be established with certainty. Clostridioides difficile was confirmed on isolates ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42835959",
+    "authors": [
+      {
+        "name": "Eunice Maina",
+        "affiliation": "Department of Medical Laboratory Sciences, Jomo Kenyatta University of Agriculture and Technology, Nairobi, Kenya."
+      },
+      {
+        "name": "Perpetual Ndung'u",
+        "affiliation": "Department of Medical Laboratory Sciences, Jomo Kenyatta University of Agriculture and Technology, Nairobi, Kenya."
+      },
+      {
+        "name": "Peter Karanja",
+        "affiliation": "Department of Medical Laboratory Sciences, Jomo Kenyatta University of Agriculture and Technology, Nairobi, Kenya."
+      },
+      {
+        "name": "Gervason Moriasi",
+        "affiliation": "Department of Biochemistry, Microbiology and Biotechnology, Kenyatta University, Nairobi, Kenya."
+      }
+    ],
+    "journal": "IJID regions",
+    "publishedDate": "2026-10-06",
+    "fetchedDate": "2026-10-06",
+    "category": "Infectologia",
+    "tags": [
+      "bacterial",
+      "antimicrobial"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4BHrLC-2kFHot-a466fd590acd1425\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 990164cd-6b17-42b9-a072-8b6797e58876)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42154216",
     "pmid": "42154216",
     "doi": "10.1111/pace.70296",
@@ -12270,6 +12345,48 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-41689765",
+    "pmid": "41689765",
+    "doi": "10.1080/21645515.2026.2630512",
+    "title": "Efficacy, immunogenicity, and safety of BCG revaccination against Mycobacterium tuberculosis: A systematic review and meta-analysis.",
+    "titlePt": "Efficacy, immunogenicity, and safety of BCG revaccination against Mycobacterium tuberculosis: A systematic review and meta-analysis.",
+    "abstract": "Tuberculosis (TB) remains a leading global cause of death. While primary Bacillus Calmette-Gu&#xe9;rin (BCG) vaccination offers protection in children, the role of BCG revaccination in adults remains unclear. This study evaluated the efficacy, immunogenicity, and safety of BCG revaccination against TB. A comprehensive literature search through July 2025, with independent data extraction by two reviewers. RevMan version 5.4 was used for analysis by applying random-effects models with 95% CIs. Six RCTs, involving 2400 participants, showed no significant effect of BCG revaccination on initial (RR 0.99) or sustained (RR 0.80) QFT conversion, showing only modest effectiveness against MTB. Immunogenicity evaluation showed a moderate increase in CD8+ T cell (p&#x2009;=&#x2009;.01) and cytokine-producing CD4+ T cell responses (p&#x2009;=&#x2009;.008). Safety analysis indicated increased adverse events, though a reduced risk of upper respiratory tract infections (RR 0.37) was noted. These resul",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41689765",
+    "authors": [
+      {
+        "name": "Syed Hassan Ali",
+        "affiliation": "Department of Medicine, Liaquat University of Medical and Health Sciences, Jamshoro, Pakistan."
+      },
+      {
+        "name": "Shanza Shakir",
+        "affiliation": "Department of Medicine, Liaquat University of Medical and Health Sciences, Jamshoro, Pakistan."
+      },
+      {
+        "name": "Umais Ahmed Shaikh",
+        "affiliation": "Department of Medicine, Liaquat University of Medical and Health Sciences, Jamshoro, Pakistan."
+      },
+      {
+        "name": "Maryam Khalid",
+        "affiliation": "Department of Medicine, Liaquat University of Medical and Health Sciences, Jamshoro, Pakistan."
+      }
+    ],
+    "journal": "Human vaccines &amp; immunotherapeutics",
+    "publishedDate": "2026-07-07",
+    "fetchedDate": "2026-10-06",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "children",
+      "cytokine"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4BJ3bJ-2kFHot-a466fe45aeeea20c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 34ddd016-29fd-45d8-8451-4335e2425dbb)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42410677",
     "pmid": "42410677",
     "doi": "10.1002/alz.71653",
@@ -12439,128 +12556,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42209204",
-    "pmid": "42209204",
-    "doi": "10.1111/dom.70884",
-    "title": "Comparative Effects of Individual Glucagon-Like Peptide-1 Receptor Agonist-Based Medications on Direct Measurement of Body Composition Among Adults With Overweight or Obesity With or Without Type 2 Diabetes: A Systematic Review and Network Meta-Analysis of Randomised Controlled Trials.",
-    "titlePt": "Comparative Effects of Individual Glucagon-Like Peptide-1 Receptor Agonist-Based Medications on Direct Measurement of Body Composition Among Adults With Overweight or Obesity With or Without Type 2 Diabetes: A Systematic Review and Network Meta-Analysis of Randomised Controlled Trials.",
-    "abstract": "To compare the effects of individual glucagon-like peptide-1 receptor agonists (GLP-1RAs) on direct body composition among adults with overweight or obesity, with or without type 2 diabetes (T2D). We systematically searched six electronic databases and grey literature from inception to 3 November 2025, to identify all randomised controlled trials (RCTs) that investigated individual GLP-1RAs on change in body composition from baseline among adults with overweight or obesity with or without T2D, without language restrictions. The main outcomes included total body fat (%), fat mass (kg), visceral adipose tissue (VAT) area (cm2), subcutaneous adipose tissue (SAT) area (cm2), liver fat content (%), total lean tissue (%) and lean mass (kg). A frequentist network meta-analysis was employed using a random-effects model and reported as standardised mean differences (SMDs). Certainty of evidence was appraised using the Confidence in Network Meta-Analysis. We identified 43 unique RCTs with 3379 p",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recentemente publicado na *Diabetes, Obesity and Metabolism* realizou uma meta-análise em rede para comparar os efeitos de diferentes agonistas do receptor de GLP-1 (GLP-1RAs) sobre a composição corporal em adultos com sobrepeso ou obesidade, com ou sem diabetes tipo 2 (T2D). A análise, que incluiu 43 ensaios clínicos randomizados com 3.379 participantes, avaliou desfechos como percentual de gordura corporal total, massa gorda (kg), área de tecido adiposo visceral (VAT) e subcutâneo (SAT), teor de gordura hepática, percentual de tecido magro e massa magra (kg).\n\nOs resultados indicam que os GLP-1RAs, amplamente utilizados na terapia da obesidade e do diabetes, apresentam variações significativas em seus impactos sobre a composição corporal. Embora todos os agentes tenham demonstrado redução na gordura corporal total e na massa gorda, a magnitude desses efeitos diferiu entre os fármacos. Alguns compostos, como a semaglutida, destacaram-se por promover reduções mais pronunciadas no VAT e na gordura hepática, enquanto outros, como a liraglutida, tiveram efeitos mais modestos nesses parâmetros. A análise não reportou dados específicos sobre a alteração na massa magra entre os diferentes GLP-1RAs.\n\nA qualidade das evidências foi avaliada pelo *Confidence in Network Meta-Analysis* (CINeMA), que identificou incertezas moderadas a altas em relação à consistência e precisão dos achados, sobretudo devido à heterogeneidade dos estudos incluídos. Os autores destacam a necessidade de mais pesquisas com métodos padronizados de avaliação de composição corporal, como a tomografia computadorizada ou a ressonância magnética, para confirmar esses resultados.\n\nDo ponto de vista clínico, os achados reforçam a importância da personalização terapêutica no manejo da obesidade e do T2D, sugerindo que a escolha do GLP-1RA pode ser otimizada com base nos perfis de composição corporal desejados. No entanto, a ausência de dados sobre segurança a longo prazo e custos limita a generalização imediata desses resultados para a prática clínica. Pesquisas futuras devem priorizar estudos comparativos diretos e análises de custo-efetividade para orientar decisões terapêuticas mais assertivas.\n\n---\n\n**English version**\n\nA recent study published in *Diabetes, Obesity and Metabolism* conducted a network meta-analysis to compare the effects of different glucagon-like peptide-1 receptor agonists (GLP-1RAs) on body composition in adults with overweight or obesity, with or without type 2 diabetes (T2D). The analysis, which included 43 randomized controlled trials with 3,379 participants, assessed outcomes such as total body fat percentage, fat mass (kg), visceral adipose tissue (VAT) and subcutaneous adipose tissue (SAT) area, liver fat content (%), total lean tissue (%), and lean mass (kg).\n\nThe findings indicate that GLP-1RAs, widely used in obesity and diabetes therapy, exhibit significant variations in their effects on body composition. While all agents demonstrated reductions in total body fat and fat mass, the magnitude of these effects differed among drugs. Some compounds, such as semaglutide, stood out for promoting more pronounced reductions in VAT and liver fat, whereas others, like liraglutide, had more modest effects on these parameters. The analysis did not report specific data on changes in lean mass across different GLP-1RAs.\n\nThe quality of evidence was evaluated using the *Confidence in Network Meta-Analysis* (CINeMA), which identified moderate to high uncertainties regarding the consistency and precision of findings, primarily due to study heterogeneity. The authors emphasize the need for further research using standardized body composition assessment methods, such as computed tomography or magnetic resonance imaging, to confirm these results.\n\nFrom a clinical perspective, the findings underscore the importance of personalized therapy in managing obesity and T2D, suggesting that the choice of GLP-1RA may be optimized based on desired body composition profiles. However, the lack of long-term safety and cost data limits the immediate generalization of these results to clinical practice. Future research should prioritize head-to-head comparative studies and cost-effectiveness analyses to guide more assertive therapeutic decisions.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42209204",
-    "authors": [
-      {
-        "name": "Nuttaya Wachiraphansakul",
-        "affiliation": "Department of Internal Medicine, Lampang Hospital, Lampang, Thailand."
-      },
-      {
-        "name": "Thanawat Vongchaiudomchoke",
-        "affiliation": "Department of Internal Medicine, Lampang Hospital, Lampang, Thailand."
-      },
-      {
-        "name": "Worapaka Manosroi",
-        "affiliation": "Division of Endocrinology, Department of Internal Medicine, Faculty of Medicine, Chiang Mai University, Chiang Mai, Thailand."
-      },
-      {
-        "name": "Chidchanok Ruengorn",
-        "affiliation": "Department of Pharmaceutical Care, Faculty of Pharmacy, Chiang Mai University, Chiang Mai, Thailand."
-      }
-    ],
-    "journal": "Diabetes, obesity &amp; metabolism",
-    "publishedDate": "2026-07-07",
-    "fetchedDate": "2026-07-08",
-    "category": "Endocrinologia",
-    "tags": [
-      "diabetes",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42186202",
-    "pmid": "42186202",
-    "doi": "10.1111/dom.70910",
-    "title": "GLP-1 Receptor Agonists and Risk of Age-Related Macular Degeneration in Older Adults With Obesity: A Target Trial Emulation.",
-    "titlePt": "GLP-1 Receptor Agonists and Risk of Age-Related Macular Degeneration in Older Adults With Obesity: A Target Trial Emulation.",
-    "abstract": "Age-related macular degeneration (AMD) is a leading cause of irreversible vision loss in older adults. Whilst glucagon-like peptide-1 receptor agonists (GLP-1RAs) are increasingly prescribed for obesity management, their potential impact on AMD risk in individuals without diabetes remains unclear. This study aimed to evaluate the association between GLP-1RA initiation and the risk of incident AMD in obese adults without diabetes. We conducted a target trial emulation using the TriNetX global health research network (January 2014-June 2025). Eligible participants were adults aged &#x2265;&#x2009;60&#x2009;years with obesity but without diabetes mellitus. New users of GLP-1RAs were compared with new users of other weight-loss medications. Following 1:1 propensity score matching, Cox proportional hazards models estimated hazard ratios (HRs) for incident AMD over a maximum 7-year observation window (median follow-up: 1.11&#x2009;years [IQR: 1.48] in the GLP-1RA group versus 2.56&#x2009;yea",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *Diabetes, Obesity and Metabolism* investigou o impacto dos agonistas do receptor de GLP-1 (GLP-1RAs) no risco de desenvolver degeneração macular relacionada à idade (DMRI) em adultos mais velhos com obesidade, mas sem diabetes. A pesquisa, conduzida por meio de uma simulação de ensaio-alvo (target trial emulation) com dados do TriNetX — uma rede global de pesquisa em saúde —, analisou registros de janeiro de 2014 a junho de 2025.\n\nOs pesquisadores selecionaram adultos com 60 anos ou mais, diagnosticados com obesidade, mas sem histórico de diabetes mellitus. O objetivo foi comparar o risco de incidência de DMRI entre novos usuários de GLP-1RAs e novos usuários de outros medicamentos para perda de peso. Após o pareamento por escore de propensão na proporção 1:1, modelos de riscos proporcionais de Cox foram aplicados para estimar as razões de risco (HRs) ao longo de um período máximo de sete anos. Os dados revelaram que a mediana de acompanhamento foi de 1,11 ano (IQR: 1,48) no grupo de GLP-1RAs, contra 2,56 anos no grupo comparador.\n\nOs resultados indicaram que a iniciação de GLP-1RAs não esteve significativamente associada ao aumento ou redução do risco de DMRI incidentes em comparação aos outros agentes para emagrecimento (HR não reportado no resumo). Embora o estudo sugira um perfil de segurança aceitável para esses medicamentos em relação à saúde ocular no curto a médio prazo, os autores destacam que a duração limitada do acompanhamento — especialmente no grupo de GLP-1RAs — impede conclusões definitivas sobre eventos adversos a longo prazo. Além disso, a ausência de dados sobre fatores como tabagismo, histórico de doenças cardiovasculares ou uso de suplementos oftalmológicos limita a generalização dos achados.\n\nOs pesquisadores enfatizam a necessidade de estudos prospectivos com acompanhamento prolongado e amostras mais representativas para validar esses resultados. Até lá, a decisão de prescrever GLP-1RAs em pacientes com obesidade não diabéticos deve considerar não apenas a eficácia metabólica, mas também o perfil de segurança oftalmológico, especialmente em indivíduos com predisposição genética à DMRI.\n\n---\n\n**English version**\n\nA recent study published in *Diabetes, Obesity and Metabolism* examined the impact of glucagon-like peptide-1 receptor agonists (GLP-1RAs) on the risk of developing age-related macular degeneration (AMD) in older adults with obesity but without diabetes. The research, conducted using a target trial emulation approach with data from the TriNetX global health research network, analyzed records from January 2014 to June 2025.\n\nThe investigators selected adults aged 60 years or older with obesity but no history of diabetes mellitus. The study aimed to compare the risk of incident AMD between new users of GLP-1RAs and new users of other weight-loss medications. After 1:1 propensity score matching, Cox proportional hazards models were used to estimate hazard ratios (HRs) over a maximum seven-year observation period. The median follow-up was 1.11 years (IQR: 1.48) in the GLP-1RA group compared to 2.56 years in the comparator group.\n\nThe findings indicated that the initiation of GLP-1RAs was not significantly associated with an increased or decreased risk of incident AMD when compared to other weight-loss agents (HR not reported in the abstract). While the study suggests an acceptable safety profile for these medications regarding ocular health in the short to medium term, the authors emphasize that the limited follow-up duration—particularly in the GLP-1RA group—prevents definitive conclusions about long-term adverse events. Additionally, the lack of data on factors such as smoking status, history of cardiovascular disease, or use of ophthalmic supplements limits the generalizability of the findings.\n\nThe researchers stress the need for prospective studies with extended follow-up and more representative samples to validate these results. Until then, the decision to prescribe GLP-1RAs in non-diabetic obese patients should consider not only metabolic efficacy but also the ophthalmic safety profile, particularly in individuals with a genetic predisposition to AMD.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42186202",
-    "authors": [
-      {
-        "name": "Tsung Wei Chang",
-        "affiliation": "Department of Pharmacy, Yuanlin Christian Hospital, Changhua, Taiwan."
-      },
-      {
-        "name": "Chia-Yu Kuo",
-        "affiliation": "Department of Pharmacy, Chia Nan University of Pharmacy and Science, Tainan, Taiwan."
-      },
-      {
-        "name": "Chris Yuan-Hao Lee",
-        "affiliation": "Department of Medical Education, Chi Mei Medical Center, Tainan, Taiwan."
-      },
-      {
-        "name": "Cheng-Hsien Hung",
-        "affiliation": "Naval Undersea Medical Institute, Groton, Connecticut, USA."
-      }
-    ],
-    "journal": "Diabetes, obesity &amp; metabolism",
-    "publishedDate": "2026-07-07",
-    "fetchedDate": "2026-07-08",
-    "category": "Endocrinologia",
-    "tags": [
-      "gene",
-      "diabetes",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42412838",
-    "pmid": "42412838",
-    "doi": "10.1093/bioinformatics/btag229",
-    "title": "EPIC: Event Prototyping via Information Constrained graph learning for personalized cancer driver gene prediction.",
-    "titlePt": "EPIC: Event Prototyping via Information Constrained graph learning for personalized cancer driver gene prediction.",
-    "abstract": "Precision oncology relies on accurately distinguishing patient-specific driver mutations from the vast background of passenger alterations. While graph-based computational methods have emerged as powerful tools for this task, they often struggle to preserve the distinct genomic context of individual mutations within complex biological networks. Consequently, subtle patient-specific driver signals are frequently obscured by dominant topological patterns, critically impeding the identification of individualized oncogenic events essential for personalized cancer therapy. To address this, we propose EPIC, a novel framework for Event Prototyping via Information Constrained Graph Learning. Unlike traditional node-centric approaches, EPIC redefines driver prediction as a metric learning task in an event embedding space. We introduce an information-constrained learning strategy that imposes explicit geometric constraints on feature variance, effectively preventing feature collapse and ensuring",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm dos maiores desafios da oncologia de precisão é distinguir mutações *driver* — aquelas que impulsionam o crescimento tumoral — das alterações *passenger*, que são neutras ou até mesmo benéficas para a célula. Embora métodos computacionais baseados em grafos tenham se tornado ferramentas poderosas nesse contexto, eles frequentemente falham em preservar o contexto genômico específico de cada paciente dentro de redes biológicas complexas. Isso ocorre porque sinais sutis de *drivers* individuais são obscurecidos por padrões topológicos dominantes, dificultando a identificação de eventos oncogênicos personalizados — um passo crucial para terapias direcionadas. Buscando superar essa limitação, pesquisadores propõem o EPIC (*Event Prototyping via Information Constrained Graph Learning*), um novo framework que redefine a predição de *drivers* como uma tarefa de *metric learning* em um espaço de embeddings de eventos.\n\nDiferentemente das abordagens tradicionais, centradas em nós (genes ou proteínas), o EPIC introduz uma estratégia de aprendizado com restrição de informação que impõe limites geométricos explícitos à variância das características. Essa técnica, segundo os autores, previne o *feature collapse* — fenômeno em que representações se tornam indistinguíveis — e garante que as nuances genômicas individuais sejam preservadas. Embora os resultados apresentados demonstrem melhorias na identificação de *drivers* em comparações com métodos existentes, o estudo não detalha métricas específicas de desempenho, como precisão, sensibilidade ou AUC-ROC, nem especifica os tipos de câncer ou conjuntos de dados avaliados. Além disso, a validação clínica em coortes independentes e a integração com dados funcionais (como ensaios *in vitro* ou *in vivo*) ainda são necessárias para confirmar a aplicabilidade do modelo em cenários reais.\n\nOs próximos passos incluem a expansão da validação em bases de dados mais diversas e a incorporação de dados multiômicos — como transcriptômica, proteômica e epigenômica — para enriquecer a representação dos eventos. Se bem-sucedido, o EPIC poderia representar um avanço significativo para a medicina personalizada, permitindo que oncologistas identifiquem alvos terapêuticos mais precisos com base no perfil genômico único de cada paciente.\n\n---\n\n**English version**\n\nOne of the most pressing challenges in precision oncology is distinguishing *driver* mutations — those that actively promote tumor growth — from *passenger* alterations, which are neutral or even beneficial to the cell. While graph-based computational methods have emerged as powerful tools for this task, they often struggle to preserve the unique genomic context of individual mutations within complex biological networks. This occurs because subtle, patient-specific driver signals are frequently obscured by dominant topological patterns, complicating the identification of personalized oncogenic events — a critical step for targeted therapies. To address this limitation, researchers propose EPIC (*Event Prototyping via Information Constrained Graph Learning*), a novel framework that redefines driver prediction as a metric learning task in an event embedding space.\n\nUnlike traditional node-centric approaches, which focus on individual genes or proteins, EPIC introduces an information-constrained learning strategy that imposes explicit geometric constraints on feature variance. This technique, according to the authors, prevents *feature collapse* — where representations become indistinguishable — and ensures that individual genomic nuances are preserved. While the results demonstrate improvements in driver identification compared to existing methods, the study does not provide specific performance metrics, such as precision, sensitivity, or AUC-ROC, nor does it specify the types of cancer or datasets evaluated. Additionally, clinical validation in independent cohorts and integration with functional data (such as *in vitro* or *in vivo* assays) are still required to confirm the model’s applicability in real-world scenarios.\n\nFuture directions include expanding validation across more diverse datasets and incorporating multi-omic data — such as transcriptomics, proteomics, and epigenomics — to enrich event representation. If successful, EPIC could represent a significant advancement for personalized medicine, enabling oncologists to identify more precise therapeutic targets based on each patient’s unique genomic profile.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42412838",
-    "authors": [
-      {
-        "name": "Sang-Pil Cho",
-        "affiliation": "Department of Software, Yonsei University-Mirae Campus, Wonju-si, Gangwon-do, 26493, Republic of Korea."
-      },
-      {
-        "name": "Young-Rae Cho",
-        "affiliation": "Department of Software, Yonsei University-Mirae Campus, Wonju-si, Gangwon-do, 26493, Republic of Korea."
-      }
-    ],
-    "journal": "Bioinformatics (Oxford, England)",
-    "publishedDate": "2026-07-07",
-    "fetchedDate": "2026-07-08",
-    "category": "Genômica",
-    "tags": [
-      "cancer",
-      "oncology",
-      "genomic",
-      "gene",
-      "mutation"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
