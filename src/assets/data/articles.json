@@ -1,5 +1,79 @@
 [
   {
+    "id": "pubmed-42836929",
+    "pmid": "42836929",
+    "doi": "10.1007/s12325-026-03799-7",
+    "title": "Questionable Evidence for Berberine in Polyendocrine Metabolic Ovarian Syndrome: An Integrity-Based Reappraisal.",
+    "titlePt": "Questionable Evidence for Berberine in Polyendocrine Metabolic Ovarian Syndrome: An Integrity-Based Reappraisal.",
+    "abstract": "Prior systematic reviews suggest that berberine may match or exceed the effects of metformin on metabolic and hormonal outcomes in polyendocrine metabolic ovarian syndrome (PMOS; previously referred to as polycystic ovary syndrome). This review aimed to assess the reported efficacy of berberine and act as an integrity-based reappraisal of available evidence in women with PMOS. A systematic review was conducted in accordance with PRISMA guidelines and prospectively registered. MEDLINE, EMBASE, the Cochrane Library and CINAHL were searched from inception to October 2025. Randomised controlled trials examining berberine supplementation in women with polycystic ovary syndrome were eligible for inclusion. Outcomes of interest included metabolic, hormonal, and anthropometric measures. All eligible trials underwent independent integrity assessment using two validated frameworks: the Research Integrity in Guidelines and Evidence Synthesis framework and the Trustworthiness in Randomised Control",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42836929",
+    "authors": [
+      {
+        "name": "Eshani Perera",
+        "affiliation": "School of Medicine, Western Sydney University, Locked Bag 1797, Penrith, New South Wales, Australia."
+      },
+      {
+        "name": "Evangeline Mantzioris",
+        "affiliation": "College of Health, Adelaide University, North Terrace, Adelaide, South Australia, Australia."
+      },
+      {
+        "name": "Lisa Moran",
+        "affiliation": "Monash Centre for Health Research and Implementation, Faculty of Medicine, Nursing and Health Sciences, Monash University, Locked Bag 29, Clayton, Victoria, Australia."
+      },
+      {
+        "name": "Nicole Scannell",
+        "affiliation": "School of Health, University of the Sunshine Coast, PO Box 5280, Sunshine Coast Mail Centre, Queensland, Australia."
+      }
+    ],
+    "journal": "Advances in therapy",
+    "publishedDate": "2026-10-06",
+    "fetchedDate": "2026-10-07",
+    "category": "Endocrinologia",
+    "tags": [
+      "endocrine",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4DCncR-2kFHot-a4690dc9adbe348b\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 2cba4999-be93-4108-81b7-49901a28b4c7)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42837360",
+    "pmid": "42837360",
+    "doi": "10.1371/journal.pone.0359957",
+    "title": "Efficacy and safety of MEK inhibitors for NF1-associated symptomatic, inoperable plexiform neurofibromas: A systematic review and meta-analysis.",
+    "titlePt": "Efficacy and safety of MEK inhibitors for NF1-associated symptomatic, inoperable plexiform neurofibromas: A systematic review and meta-analysis.",
+    "abstract": "Plexiform neurofibromas arise in up to half of people with neurofibromatosis type 1 (NF1), causing pain, disfigurement and functional loss. Loss of neurofibromin releases RAS-MAPK signaling, making MEK1/2 a rational target. Two agents are now approved in the United States, the adult indication only since 2025. We evaluated the efficacy and safety of MEK inhibitor monotherapy in NF1-associated symptomatic, inoperable plexiform neurofibroma across children and adults. We searched six databases and registries from inception to 10 July 2026, reporting per PRISMA 2020. The primary outcome was objective response rate (&#x2265;20% tumor volume reduction, REiNS criteria). Two reviewers screened, extracted and appraised studies (RoB 2, ROBINS-I); certainty was rated with GRADE. Proportions were pooled using random-effects models after Freeman-Tukey transformation, with subgrouping by age. Eleven reports of nine studies (528 participants) met eligibility, covering selumetinib, mirdametinib, tram",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42837360",
+    "authors": [
+      {
+        "name": "Sudarshawn Damodharan",
+        "affiliation": "Division of Pediatric Hematology, Oncology and Bone Marrow Transplant, University of Chicago, Chicago, Illinois, United States of America."
+      },
+      {
+        "name": "James Tonsgard",
+        "affiliation": "Division of Pediatric Neurology, University of Chicago, Chicago, Illinois, United States of America."
+      }
+    ],
+    "journal": "PloS one",
+    "publishedDate": "2026-10-06",
+    "fetchedDate": "2026-10-07",
+    "category": "Oncologia",
+    "tags": [
+      "tumor",
+      "children"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4DDQqN-2kFHot-a46910c38934f85a\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: d23add5d-956d-4450-b14f-62716ed5c7d4)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42834430",
     "pmid": "42834430",
     "doi": "10.1186/s40842-026-00336-x",
@@ -12468,94 +12542,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42413213",
-    "pmid": "42413213",
-    "doi": "10.1016/j.cancergen.2026.07.002",
-    "title": "Clinical utility and implementation of a virtual molecular tumor board in real-world oncology practice.",
-    "titlePt": "Clinical utility and implementation of a virtual molecular tumor board in real-world oncology practice.",
-    "abstract": "To evaluate a decentralized virtual Molecular Tumor Board (MTB) model in routine oncology practice in Russia. This retrospective analysis included 53 patients with advanced solid tumors discussed at a virtual MTB (December 2021-February 2025) after comprehensive genomic profiling. The primary endpoint was the rate of molecularly targeted therapy (MTT) recommendations, including biomarker-matched (BMT, ESCAT I-II) and biomarker-informed therapy (BIT, ESCAT III-V). Secondary endpoints included recommendation implementation, actionability, progression-free survival (PFS), and overall survival (OS). Potentially actionable biomarkers (ESCAT I-IV) were identified in 92,9% of patients. The MTB recommended MTT in 52,8%(28/53), including BMT in 10 (18,9%) and BIT in 18 (33,9%), while standard-of-care treatment was recommended in 25 patients (47,2%). Follow-up was available for 40 patients, among whom implementation of the primary MTB recommendation was observed in 27 cases (67,5%). In the evalu",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm modelo descentralizado de Tumor Board Molecular (MTB) virtual demonstrou potencial significativo na prática oncológica de rotina na Rússia, conforme estudo retrospectivo publicado no *Cancer Genetics*. Entre dezembro de 2021 e fevereiro de 2025, 53 pacientes com tumores sólidos avançados foram discutidos em um MTB virtual após sequenciamento genômico abrangente. O objetivo principal foi avaliar a taxa de recomendações de terapia molecularmente direcionada (MTT), incluindo tratamentos alinhados a biomarcadores (BMT, classificados como ESCAT I-II) e terapias informadas por biomarcadores (BIT, ESCAT III-V). Como desfechos secundários, foram analisados a implementação das recomendações, a açãoabilidade dos achados, a sobrevida livre de progressão (PFS) e a sobrevida global (OS).\n\nDos pacientes avaliados, 92,9% apresentaram biomarcadores potencialmente acionáveis (ESCAT I-IV), um índice elevado que reflete a viabilidade do sequenciamento genômico na identificação de alvos terapêuticos. O MTB recomendou MTT em 52,8% dos casos (28/53), sendo 18,9% (10 pacientes) com BMT e 33,9% (18 pacientes) com BIT. Em 47,2% dos casos (25 pacientes), o tratamento padrão foi mantido. Entre os 40 pacientes com acompanhamento disponível, a implementação da recomendação principal do MTB ocorreu em 67,5% dos casos (27 pacientes). Embora os dados de PFS e OS não tenham sido detalhados no resumo, o estudo sugere que a abordagem virtual pode agilizar a tomada de decisão clínica, especialmente em cenários onde o acesso a especialistas é limitado. No entanto, como análise retrospectiva com amostra reduzida e sem grupo controle, os resultados devem ser interpretados com cautela.\n\nOs próximos passos incluem estudos prospectivos com maior número de participantes para validar o impacto da MTT na sobrevida e qualidade de vida, além de avaliar a escalabilidade do modelo virtual em diferentes sistemas de saúde.\n\n---\n\n**English version**\n\nA decentralized virtual Molecular Tumor Board (MTB) model showed significant potential in routine oncology practice in Russia, according to a retrospective study published in *Cancer Genetics*. Between December 2021 and February 2025, 53 patients with advanced solid tumors were discussed in a virtual MTB following comprehensive genomic profiling. The primary endpoint assessed the rate of molecularly targeted therapy (MTT) recommendations, including biomarker-matched therapy (BMT, ESCAT I-II) and biomarker-informed therapy (BIT, ESCAT III-V). Secondary endpoints included recommendation implementation, actionability, progression-free survival (PFS), and overall survival (OS).\n\nAmong the patients evaluated, 92.9% had potentially actionable biomarkers (ESCAT I-IV), a high rate reflecting the feasibility of genomic sequencing in identifying therapeutic targets. The MTB recommended MTT in 52.8% of cases (28/53), with 18.9% (10 patients) receiving BMT and 33.9% (18 patients) receiving BIT. In 47.2% of cases (25 patients), standard-of-care treatment was maintained. Follow-up data were available for 40 patients, of whom 67.5% (27 patients) had their primary MTB recommendation implemented. While PFS and OS data were not detailed in the abstract, the study suggests that the virtual approach may expedite clinical decision-making, particularly in settings with limited access to specialists. However, as a retrospective analysis with a small sample size and no control group, the findings should be interpreted cautiously.\n\nFuture research should focus on prospective studies with larger cohorts to validate the impact of MTT on survival and quality of life, as well as assessing the scalability of the virtual model across different healthcare systems.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42413213",
-    "authors": [
-      {
-        "name": "Olesya Kuznetsova",
-        "affiliation": "National Medical Research Center of Oncology named after N.N. Blokhin, Moscow, Russia; OncoAtlas LCC, 119049 Moscow, Russia. Electronic address: kuznetsova.o.md@gmail.com."
-      },
-      {
-        "name": "Maria Cheporova",
-        "affiliation": "National Medical Research Center of Oncology named after N.N. Blokhin, Moscow, Russia."
-      },
-      {
-        "name": "Madina Khagazheeva",
-        "affiliation": "National Medical Research Center of Oncology named after N.N. Blokhin, Moscow, Russia."
-      },
-      {
-        "name": "Valeriy Breder",
-        "affiliation": "National Medical Research Center of Oncology named after N.N. Blokhin, Moscow, Russia."
-      }
-    ],
-    "journal": "Cancer genetics",
-    "publishedDate": "2026-07-07",
-    "fetchedDate": "2026-07-08",
-    "category": "Oncologia",
-    "tags": [
-      "tumor",
-      "oncology",
-      "genomic"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42365860",
-    "pmid": "42365860",
-    "doi": "10.1016/j.diabres.2026.113400",
-    "title": "GLP-1 receptor agonists in pediatric obesity and diabetes: a systematic review of efficacy, metabolic effects, and safety.",
-    "titlePt": "GLP-1 receptor agonists in pediatric obesity and diabetes: a systematic review of efficacy, metabolic effects, and safety.",
-    "abstract": "Childhood obesity and youth-onset type 2 diabetes mellitus (T2DM) are increasing, highlighting the need for effective treatments beyond lifestyle intervention and metformin. This review systematically evaluated the efficacy and safety of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) in children and adolescents with obesity or T2DM. PubMed-indexed studies published from 2000 to 2025 were reviewed, including seven pivotal randomized controlled trials and six meta-analyses involving 901 participants aged 6 to&#xa0;&lt;&#xa0;18&#xa0;years. Semaglutide 2.4&#xa0;mg/week produced the greatest BMI reduction in adolescents with obesity, followed by liraglutide 3.0&#xa0;mg/day, which also improved BMI SDS in adolescents and younger children. In youth-onset T2DM, liraglutide 1.8&#xa0;mg/day and dulaglutide significantly improved HbA1c compared with placebo. Weight-reducing agents also improved insulin resistance and modestly reduced triglycerides, while LDL-cholesterol changes were minima",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado no *Diabetes Research and Clinical Practice* (DOI: 10.1016/j.diabres.2026.113400) aponta que os agonistas do receptor de GLP-1 (GLP-1 RAs) representam uma alternativa promissora no tratamento da obesidade pediátrica e do diabetes tipo 2 de início na juventude, condições cuja prevalência tem crescido globalmente. A revisão sistemática, que analisou dados de sete ensaios clínicos randomizados e seis meta-análises envolvendo 901 participantes com idades entre 6 e 18 anos, identificou que esses medicamentos não apenas reduzem o índice de massa corporal (IMC) em adolescentes com obesidade, mas também melhoram parâmetros metabólicos associados à doença.\n\nEntre os achados, o semaglutida na dose de 2,4 mg/semana destacou-se por promover a maior redução do IMC em adolescentes obesos, enquanto o liraglutida (3,0 mg/dia) mostrou eficácia em melhorar o escore-z de IMC tanto em adolescentes quanto em crianças mais jovens. No contexto do diabetes tipo 2 juvenil, o liraglutida (1,8 mg/dia) e o dulaglutida reduziram significativamente a hemoglobina glicada (HbA1c) em comparação ao placebo. Al��m disso, os agentes com efeito redutor de peso contribuíram para a melhora da resistência à insulina e reduziram modestamente os níveis de triglicerídeos, embora as alterações no colesterol LDL tenham sido mínimas.\n\nApesar dos resultados encorajadores, os autores destacam limitações importantes, como a variabilidade nos protocolos dos estudos incluídos e a ausência de dados de longo prazo sobre segurança e eficácia em populações pediátricas específicas, como crianças pré-púberes ou adolescentes com comorbidades graves. Os próximos passos sugeridos incluem ensaios clínicos mais robustos, com amostras maiores e seguimento prolongado, além das investigações sobre a combinação de GLP-1 RAs com outras terapias, como inibidores de SGLT2 ou metformina, para potencializar os benefícios metabólicos.\n\n---\n\n**English version**\n\nA study published in *Diabetes Research and Clinical Practice* (DOI: 10.1016/j.diabres.2026.113400) suggests that glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are a promising therapeutic option for pediatric obesity and youth-onset type 2 diabetes, conditions whose prevalence has been rising worldwide. The systematic review, which analyzed data from seven randomized controlled trials and six meta-analyses involving 901 participants aged 6 to 18 years, found that these medications not only reduce body mass index (BMI) in obese adolescents but also improve key metabolic parameters associated with the disease.\n\nThe findings indicate that semaglutide at a dose of 2.4 mg/week led to the greatest BMI reduction in obese adolescents, while liraglutide (3.0 mg/day) effectively improved BMI SDS in both adolescents and younger children. In youth-onset type 2 diabetes, liraglutide (1.8 mg/day) and dulaglutide significantly reduced hemoglobin A1c (HbA1c) compared to placebo. Additionally, weight-reducing agents contributed to improved insulin resistance and modestly lowered triglyceride levels, though changes in LDL cholesterol were minimal.\n\nWhile the results are encouraging, the authors emphasize important limitations, including variability in study protocols and the lack of long-term data on safety and efficacy in specific pediatric populations, such as prepubertal children or adolescents with severe comorbidities. Future research should focus on larger, longer-duration clinical trials and explore the potential of combining GLP-1 RAs with other therapies, such as SGLT2 inhibitors or metformin, to enhance metabolic benefits.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42365860",
-    "authors": [
-      {
-        "name": "Ashraf T Soliman",
-        "affiliation": "Department of Pediatrics, Division of Endocrinology, Hamad Medical Corporation, Doha, Qatar. Electronic address: atsoliman56@gmail.com."
-      },
-      {
-        "name": "Fawzia Alyafei",
-        "affiliation": "Department of Pediatrics, Division of Endocrinology, Hamad Medical Corporation, Doha, Qatar."
-      },
-      {
-        "name": "Ahmed Khalil",
-        "affiliation": "Department of Pharmacy, Hamad Medical Corporation, Doha, Qatar."
-      },
-      {
-        "name": "Ahmed Tawfik Kardousha",
-        "affiliation": "Department of Pharmacy, Hamad Medical Corporation, Doha, Qatar."
-      }
-    ],
-    "journal": "Diabetes research and clinical practice",
-    "publishedDate": "2026-07-07",
-    "fetchedDate": "2026-07-08",
-    "category": "Endocrinologia",
-    "tags": [
-      "pediatric",
-      "children",
-      "childhood",
-      "diabetes",
-      "insulin"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
