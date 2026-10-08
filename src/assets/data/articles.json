@@ -1,5 +1,45 @@
 [
   {
+    "id": "pubmed-42845233",
+    "pmid": "42845233",
+    "doi": "10.1161/CIRCEP.126.015183",
+    "title": "Serial Artificial Intelligence ECG-Derived Atrial Fibrillation Probability and Recurrence Risk After Pulsed Field Ablation.",
+    "titlePt": "Serial Artificial Intelligence ECG-Derived Atrial Fibrillation Probability and Recurrence Risk After Pulsed Field Ablation.",
+    "abstract": "Pulsed field ablation is now widely used for atrial fibrillation (AF) ablation, but atrial tachyarrhythmia recurrence remains common and postablation risk tools are limited. We assessed whether a validated sinus&#x2011;rhythm artificial intelligence- enabled ECG AF probability score, and its early postablation change, predicts recurrence after pulsed field ablation. We studied consecutive patients undergoing index pulsed field ablation across 3 Mayo Clinic sites (February 2024-March 2025) with &#x2265;1 sinus&#x2011;rhythm ECG within 180 days preprocedure. Baseline artificial intelligence-enabled ECG AF score (range 0-1) was the mean across baseline ECGs. Recovery indices (RI30/60/90), defined as mean postprocedure artificial intelligence-enabled ECG score within days 1-30/60/90 minus baseline, predicted post&#x2011;blanking recurrence using corresponding 30&#x2011;, 60&#x2011;, and 90&#x2011;day blanking windows. The primary outcome was time to first documented AF/atrial flutter/atria",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42845233",
+    "authors": [
+      {
+        "name": "Mayank Sardana",
+        "affiliation": "Department of Cardiovascular Medicine, Mayo Clinic, AZ (M.S., J.F.R.-R., H.S.V., J.K., K.S.)."
+      },
+      {
+        "name": "Juan F Rodriguez-Riascos",
+        "affiliation": "Department of Cardiovascular Medicine, Mayo Clinic, AZ (M.S., J.F.R.-R., H.S.V., J.K., K.S.)."
+      },
+      {
+        "name": "Hema S Vemulapalli",
+        "affiliation": "Department of Cardiovascular Medicine, Mayo Clinic, AZ (M.S., J.F.R.-R., H.S.V., J.K., K.S.)."
+      },
+      {
+        "name": "James Kim",
+        "affiliation": "Department of Internal Medicine, Harlingen Medical Center, TX (H.S.V.)."
+      }
+    ],
+    "journal": "Circulation. Arrhythmia and electrophysiology",
+    "publishedDate": "2026-10-08",
+    "fetchedDate": "2026-10-08",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4Sfg41-2kFHot-a47795863ff53da4\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: e85f5a55-c765-40ea-8815-b5137e315a3d)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42844735",
     "pmid": "42844735",
     "doi": "10.1177/13872877261486344",
@@ -12497,47 +12537,5 @@
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41689765",
-    "pmid": "41689765",
-    "doi": "10.1080/21645515.2026.2630512",
-    "title": "Efficacy, immunogenicity, and safety of BCG revaccination against Mycobacterium tuberculosis: A systematic review and meta-analysis.",
-    "titlePt": "Efficacy, immunogenicity, and safety of BCG revaccination against Mycobacterium tuberculosis: A systematic review and meta-analysis.",
-    "abstract": "Tuberculosis (TB) remains a leading global cause of death. While primary Bacillus Calmette-Gu&#xe9;rin (BCG) vaccination offers protection in children, the role of BCG revaccination in adults remains unclear. This study evaluated the efficacy, immunogenicity, and safety of BCG revaccination against TB. A comprehensive literature search through July 2025, with independent data extraction by two reviewers. RevMan version 5.4 was used for analysis by applying random-effects models with 95% CIs. Six RCTs, involving 2400 participants, showed no significant effect of BCG revaccination on initial (RR 0.99) or sustained (RR 0.80) QFT conversion, showing only modest effectiveness against MTB. Immunogenicity evaluation showed a moderate increase in CD8+ T cell (p&#x2009;=&#x2009;.01) and cytokine-producing CD4+ T cell responses (p&#x2009;=&#x2009;.008). Safety analysis indicated increased adverse events, though a reduced risk of upper respiratory tract infections (RR 0.37) was noted. These resul",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41689765",
-    "authors": [
-      {
-        "name": "Syed Hassan Ali",
-        "affiliation": "Department of Medicine, Liaquat University of Medical and Health Sciences, Jamshoro, Pakistan."
-      },
-      {
-        "name": "Shanza Shakir",
-        "affiliation": "Department of Medicine, Liaquat University of Medical and Health Sciences, Jamshoro, Pakistan."
-      },
-      {
-        "name": "Umais Ahmed Shaikh",
-        "affiliation": "Department of Medicine, Liaquat University of Medical and Health Sciences, Jamshoro, Pakistan."
-      },
-      {
-        "name": "Maryam Khalid",
-        "affiliation": "Department of Medicine, Liaquat University of Medical and Health Sciences, Jamshoro, Pakistan."
-      }
-    ],
-    "journal": "Human vaccines &amp; immunotherapeutics",
-    "publishedDate": "2026-07-07",
-    "fetchedDate": "2026-10-06",
-    "category": "Infectologia",
-    "tags": [
-      "infection",
-      "children",
-      "cytokine"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4BJ3bJ-2kFHot-a466fe45aeeea20c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 34ddd016-29fd-45d8-8451-4335e2425dbb)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
