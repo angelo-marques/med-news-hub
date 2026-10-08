@@ -1,5 +1,85 @@
 [
   {
+    "id": "pubmed-42844735",
+    "pmid": "42844735",
+    "doi": "10.1177/13872877261486344",
+    "title": "Alzheimer's disease and olfactory dysfunction: A 20-year systematic bibliometric and genomic analysis.",
+    "titlePt": "Alzheimer's disease and olfactory dysfunction: A 20-year systematic bibliometric and genomic analysis.",
+    "abstract": "With the acceleration of global population aging, early diagnosis and intervention of Alzheimer's disease (AD) and other neurodegenerative disorders have become major public health challenges. Olfactory dysfunction (OD) is increasingly recognized as one of the earliest clinical manifestations of AD, highlighting the importance of understanding the relationship between AD and olfactory impairment. This study integrates bibliometric analysis and genomic approaches to systematically characterize global research trends and explore potential molecular mechanisms underlying AD and OD from 2006 to 2025. Publications related to AD and OD were retrieved from the Web of Science Core Collection, and bibliometric analyses were performed using CiteSpace and VOSviewer, with results further validated through the Scopus database. A total of 1412 publications were identified, demonstrating sustained growth over the past two decades and a rapid expansion phase after 2019. The United States and China wer",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42844735",
+    "authors": [
+      {
+        "name": "Guohui Yang",
+        "affiliation": "Department of Otolaryngology-Head and Neck Surgery, China-Japan Union Hospital of Jilin University, Changchun, Jilin Province, China.12510"
+      },
+      {
+        "name": "CuiDa Meng",
+        "affiliation": "Jilin Provincial Key Laboratory of Diagnosis and Treatment of Upper Airway Allergic Diseases, China-Japan Union Hospital of Jilin University, Changchun, Jilin Province, China.12510"
+      },
+      {
+        "name": "DongDong Zhu",
+        "affiliation": "Otolaryngology Head and Neck Surgery Research Center, China-Japan Union Hospital of Jilin University, Changchun, Jilin Province, China.12510"
+      }
+    ],
+    "journal": "Journal of Alzheimer's disease : JAD",
+    "publishedDate": "2026-10-08",
+    "fetchedDate": "2026-10-08",
+    "category": "Genômica",
+    "tags": [
+      "alzheimer",
+      "genomic",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4QWUMP-2kFHot-a47541213e883f13\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 876e94d3-53e1-4597-9bff-0b3b7f55a0fb)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42642357",
+    "pmid": "42642357",
+    "doi": "10.1111/dom.71266",
+    "title": "Cardiorenal Mortality and Safety Outcomes of GLP-1 Receptor Agonists in Type 2 Diabetes With BMI Below 27&#x2009;kg/m2: A Target Trial Emulation.",
+    "titlePt": "Cardiorenal Mortality and Safety Outcomes of GLP-1 Receptor Agonists in Type 2 Diabetes With BMI Below 27&#x2009;kg/m2: A Target Trial Emulation.",
+    "abstract": "Cardiorenal evidence for glucagon-like peptide-1 receptor agonists (GLP-1 RAs) derives mainly from trials in overweight or obesity; data in adults with Type 2 diabetes (T2D) and body mass index (BMI) below 27&#x2009;kg/m2 are limited. We emulated a target trial in the TriNetX US Collaborative Network (index dates 2020 to 2026; maximum follow-up 24&#x2009;months). Adults with T2D and BMI&#x2009;&lt;&#x2009;27&#x2009;kg/m2 newly initiating non-tirzepatide GLP-1 RAs were compared with new users of dipeptidyl peptidase-4 inhibitors (DPP-4i), sodium-glucose cotransporter-2 inhibitors (SGLT2i) or usual care. Comparisons used separate 1:1 propensity score matching. The primary outcome was all-cause mortality. After matching, 7389, 8969 and 8610 GLP-1 RA users were matched to DPP-4i, SGLT2i and usual care. Versus DPP-4i, GLP-1 RA was associated with lower all-cause mortality (hazard ratio [HR] 0.61; 95% confidence interval [CI] 0.52-0.71), major adverse cardiovascular events (MACE; HR 0.83; 95",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42642357",
+    "authors": [
+      {
+        "name": "Shao-Chia Chen",
+        "affiliation": "Institute of Medicine, Chung Shan Medical University, Taichung, Taiwan."
+      },
+      {
+        "name": "Yu-Nan Huang",
+        "affiliation": "Division of Genetics and Endocrinology, Department of Pediatrics, Chung Shan Medical University Hospital, Taichung, Taiwan."
+      },
+      {
+        "name": "Pei-Yun Li",
+        "affiliation": "Division of Genetics and Endocrinology, Department of Pediatrics, Chung Shan Medical University Hospital, Taichung, Taiwan."
+      },
+      {
+        "name": "Jo-Ching Chen",
+        "affiliation": "School of Medicine, Chung Shan Medical University, Taichung, Taiwan."
+      }
+    ],
+    "journal": "Diabetes, obesity &amp; metabolism",
+    "publishedDate": "2026-10-08",
+    "fetchedDate": "2026-10-08",
+    "category": "Endocrinologia",
+    "tags": [
+      "cardiovascular",
+      "diabetes",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4QWpBy-2kFHot-a47542c23cc42ad5\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: dcc3b248-fb59-407f-8f41-01127df3817c)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42836929",
     "pmid": "42836929",
     "doi": "10.1007/s12325-026-03799-7",
@@ -12459,90 +12539,5 @@
     "readTime": 8,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4BJ3bJ-2kFHot-a466fe45aeeea20c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 34ddd016-29fd-45d8-8451-4335e2425dbb)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42410677",
-    "pmid": "42410677",
-    "doi": "10.1002/alz.71653",
-    "title": "Dementia blood biomarkers in the context of post-stroke cognitive outcomes: Systematic review and evidence synthesis.",
-    "titlePt": "Dementia blood biomarkers in the context of post-stroke cognitive outcomes: Systematic review and evidence synthesis.",
-    "abstract": "The prognostic value of emerging dementia-related blood-based biomarkers for post-stroke cognitive impairment is poorly understood. We addressed this critical gap in this systematic review. Four databases were searched in March 2025 for studies of neurofilament light (NfL), glial fibrillary acidic protein (GFAP), amyloid beta (A&#x3b2;), tau, and placental growth factor (PlGF) in relation to post-stroke cognitive outcomes. Risk of bias, narrative synthesis, and meta-analysis were performed. Eighteen studies were included, eleven assessing NfL. Meta-analysis of four studies (n&#xa0;=&#xa0;2020) showed higher acute NfL was associated with worse cognition at 1-6 months (Z&#xa0;=&#xa0;-0.518, 95% confidence interval [CI] -0.684 to -0.351). Baseline GFAP was associated with worse cognition longitudinally, whereas results for amyloid and tau species were inconsistent between studies. Risk of bias was high. NfL and GFAP show the most consistent associations with post-stroke cognition, particu",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo estudo publicado na *Alzheimer’s & Dementia* destaca o potencial de biomarcadores sanguíneos para prever o comprometimento cognitivo pós-AVC, uma condição que afeta até 30% dos pacientes nos primeiros meses após o evento. A revisão sistemática, que analisou 18 estudos envolvendo mais de 2 mil participantes, avaliou marcadores como neurofilamento leve (NfL), proteína glial fibrilar ácida (GFAP), beta-amiloide, tau e fator de crescimento placentário (PlGF) em relação ao desempenho cognitivo pós-AVC. Os resultados apontam que níveis elevados de NfL no sangue, medidos na fase aguda do AVC, estão associados a piores desfechos cognitivos entre 1 e 6 meses após o evento (Z = -0,518; IC 95%: -0,684 a -0,351). Já a GFAP basal mostrou relação consistente com piores escores cognitivos ao longo do tempo, embora os achados para beta-amiloide e tau tenham se mostrado inconsistentes entre os estudos.\n\nEmbora os dados sugiram que NfL e GFAP sejam os biomarcadores mais promissores para estratificação de risco, os pesquisadores alertam para limitações significativas, como alto risco de viés nos estudos incluídos e heterogeneidade metodológica. Além disso, não foi possível estabelecer limiares clínicos definitivos para esses marcadores devido à falta de padronização nos protocolos de medição. Os autores destacam a necessidade de pesquisas futuras com desenhos prospectivos e amostras maiores para validar esses achados e explorar sua aplicabilidade em protocolos de reabilitação ou intervenções precoces. A integração desses biomarcadores à prática clínica poderia representar um avanço na identificação de pacientes com maior vulnerabilidade ao declínio cognitivo pós-AVC, possibilitando abordagens personalizadas.\n\n---\n\n**English version**\n\nA recent study published in *Alzheimer’s & Dementia* sheds light on the prognostic potential of blood-based biomarkers for post-stroke cognitive impairment, a condition affecting up to 30% of patients in the months following a stroke. The systematic review, which examined 18 studies involving over 2,000 participants, assessed biomarkers such as neurofilament light (NfL), glial fibrillary acidic protein (GFAP), amyloid-beta, tau, and placental growth factor (PlGF) in relation to post-stroke cognitive outcomes. Findings indicate that elevated acute-phase NfL levels are associated with poorer cognitive performance between 1 and 6 months post-stroke (Z = -0.518; 95% CI: -0.684 to -0.351). Baseline GFAP also showed consistent associations with worse longitudinal cognitive scores, while results for amyloid-beta and tau remained inconsistent across studies.\n\nWhile NfL and GFAP emerge as the most promising biomarkers for risk stratification, researchers caution that significant limitations persist, including high risk of bias in the included studies and methodological heterogeneity. Furthermore, definitive clinical thresholds for these biomarkers could not be established due to a lack of standardized measurement protocols. The authors emphasize the need for future prospective studies with larger sample sizes to validate these findings and explore their integration into rehabilitation protocols or early interventions. Incorporating these biomarkers into clinical practice could enhance the identification of patients at higher risk of post-stroke cognitive decline, enabling tailored care strategies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42410677",
-    "authors": [
-      {
-        "name": "Hing Tim Fung",
-        "affiliation": "Department of Brain Sciences, Imperial College London, London, UK."
-      },
-      {
-        "name": "Olivia Burton",
-        "affiliation": "Imperial College Healthcare NHS Trust, London, UK."
-      },
-      {
-        "name": "Mara Bortnowschi",
-        "affiliation": "Department of Brain Sciences, Imperial College London, London, UK."
-      },
-      {
-        "name": "Paul M Matthews",
-        "affiliation": "Imperial College Healthcare NHS Trust, London, UK."
-      }
-    ],
-    "journal": "Alzheimer's &amp; dementia : the journal of the Alzheimer's Association",
-    "publishedDate": "2026-07-07",
-    "fetchedDate": "2026-07-09",
-    "category": "Neurologia",
-    "tags": [
-      "stroke",
-      "dementia",
-      "cognitive"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42414231",
-    "pmid": "42414231",
-    "doi": "10.1093/europace/euag104",
-    "title": "Clinical outcomes of continuing vs. discontinuing oral anticoagulation after atrial fibrillation ablation: an updated systematic review and meta-analysis of observational studies and randomized controlled trials.",
-    "titlePt": "Clinical outcomes of continuing vs. discontinuing oral anticoagulation after atrial fibrillation ablation: an updated systematic review and meta-analysis of observational studies and randomized controlled trials.",
-    "abstract": "Continuation of oral anticoagulation (OAC) after successful atrial fibrillation (AF) ablation remains debated. With recent randomized controlled trials addressing this question, an updated meta-analysis is needed to inform clinical decision-making. A comprehensive search of PubMed/MEDLINE, Embase, Web of Science, and Scopus was performed through 24 November 2025, to identify studies comparing clinical outcomes in patients who continued vs. discontinued OAC after AF catheter ablation. Overall, continuing OAC was not significantly associated with the risk of stroke/TIA (OR: 1.48, 95% CI: 0.84-2.60; P = 0.16). However, when stratified by CHA2DS2-VASc score, patients with scores &#x2265;2 had a significantly lower risk of stroke/TIA with OAC continuation (OR: 0.42, 95% CI: 0.18-0.95; P = 0.04). This protective effect was further supported in studies with well-balanced baseline risk between groups, where OAC continuation was associated with a significantly lower risk of stroke/TIA (OR: 0.50",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nA decisão de manter ou interromper a anticoagulação oral (ACO) após uma ablação bem-sucedida de fibrilação atrial (FA) permanece um tema controverso na prática clínica. Um estudo recente, publicado no *European Heart Journal – Arrhythmia and Electrophysiology*, realizou uma meta-análise atualizada para avaliar desfechos clínicos em pacientes que continuaram versus interromperam a ACO após o procedimento. A revisão, que incluiu dados de estudos observacionais e ensaios clínicos randomizados até novembro de 2025, não encontrou diferença significativa no risco de acidente vascular cerebral (AVC) ou ataque isquêmico transitório (AIT) entre os grupos (OR: 1,48; IC 95%: 0,84–2,60; *P* = 0,16). No entanto, a estratificação por escore CHA₂DS₂-VASc revelou um benefício claro em pacientes com pontuação ≥ 2, nos quais a manutenção da ACO reduziu significativamente o risco de AVC/AIT (OR: 0,42; IC 95%: 0,18–0,95; *P* = 0,04).\n\nOs achados sugerem que a continuação da ACO pode ser especialmente benéfica em pacientes com maior risco tromboembólico, embora os dados não tenham sido estratificados por tipo de anticoagulante (varfarina vs. anticoagulantes orais diretos) ou duração da terapia. Além disso, a ausência de diferença significativa nos desfechos globais indica que a decisão deve ser individualizada, considerando não apenas o escore CHA₂DS₂-VASc, mas também fatores como histórico de sangramento, preferência do paciente e viabilidade de monitoramento rigoroso. Os autores destacam a necessidade de ensaios clínicos randomizados com amostras maiores e acompanhamento prolongado para confirmar esses resultados e explorar subgrupos específicos, como pacientes com FA paroxística versus persistente. Até lá, a prática deve alinhar-se às diretrizes internacionais, que recomendam avaliação caso a caso com base no risco-benefício individual.\n\n---\n\n**English version**\n\nThe decision to continue or discontinue oral anticoagulation (OAC) after a successful atrial fibrillation (AF) ablation remains a contentious issue in clinical practice. A recent study published in *European Heart Journal – Arrhythmia and Electrophysiology* conducted an updated meta-analysis to assess clinical outcomes in patients who continued versus discontinued OAC following the procedure. The review, which synthesized data from observational studies and randomized controlled trials up to November 2025, found no significant difference in the risk of stroke or transient ischemic attack (TIA) between groups (OR: 1.48; 95% CI: 0.84–2.60; *P* = 0.16). However, stratification by CHA₂DS₂-VASc score revealed a clear benefit in patients with a score ≥ 2, where OAC continuation significantly reduced stroke/TIA risk (OR: 0.42; 95% CI: 0.18–0.95; *P* = 0.04).\n\nThe findings suggest that continuing OAC may be particularly advantageous in patients with higher thromboembolic risk, though data were not stratified by anticoagulant type (warfarin vs. direct oral anticoagulants) or duration of therapy. The lack of a significant difference in overall outcomes indicates that the decision should be individualized, considering not only the CHA₂DS₂-VASc score but also factors such as bleeding history, patient preference, and feasibility of rigorous monitoring. The authors emphasize the need for larger randomized controlled trials with extended follow-up to validate these results and explore specific subgroups, such as patients with paroxysmal versus persistent AF. Until further evidence emerges, clinical practice should align with international guidelines, advocating for case-by-case risk-benefit assessments.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42414231",
-    "authors": [
-      {
-        "name": "Sandeep Samethadka Nayak",
-        "affiliation": "Department of Internal Medicine, Yale New Heaven Health Bridgeport Hospital, 267 Grant St, Bridgeport, CT, USA."
-      },
-      {
-        "name": "Ehsan Amini-Salehi",
-        "affiliation": "School of Medicine, Guilan University of Medical Sciences, Rasht, Iran."
-      },
-      {
-        "name": "Negin Letafatkar",
-        "affiliation": "School of Medicine, Guilan University of Medical Sciences, Rasht, Iran."
-      },
-      {
-        "name": "Arash Arya",
-        "affiliation": "Department of Internal Medicine III, Halle University Hospital, Halle (Saale), Germany."
-      }
-    ],
-    "journal": "Europace : European pacing, arrhythmias, and cardiac electrophysiology : journal of the working groups on cardiac pacing, arrhythmias, and cardiac cellular electrophysiology of the European Society of Cardiology",
-    "publishedDate": "2026-07-07",
-    "fetchedDate": "2026-07-08",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
