@@ -1,5 +1,131 @@
 [
   {
+    "id": "pubmed-42850673",
+    "pmid": "42850673",
+    "doi": "10.1186/s40959-026-00588-7",
+    "title": "Cardio-oncology from the consulting side: diagnostic thresholds, surveillance and treatment responsibility among cardiologists and internists in a German multicentre survey.",
+    "titlePt": "Cardio-oncology from the consulting side: diagnostic thresholds, surveillance and treatment responsibility among cardiologists and internists in a German multicentre survey.",
+    "abstract": "Cancer therapy-related cardiovascular toxicity (CTR-CVT) is a leading non-cancer cause of morbidity and mortality. The 2022 ESC Guidelines define a multidisciplinary pathway in which baseline cardiovascular risk assessment is led by the treating oncology or haematology team, with cardiological involvement guided by the resulting risk; how this is put into practice in hospitals is poorly characterised. Previous surveys have described the treating specialties; we examined the receiving cardiologists and internists. Cross-sectional online survey of physicians in cardiology, internal medicine, gynaecology and oncology at 1,435 German hospital departments (February-October 2025). This pre-specified analysis addressed cardiological involvement in the pathway and in risk stratification, left-ventricular ejection fraction (LVEF)-decline thresholds, strain use and biomarker testing in a standardised high-risk scenario (a patient with pre-existing heart failure receiving anthracycline chemothera",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42850673",
+    "authors": [
+      {
+        "name": "Sebastian Poley",
+        "affiliation": "Department of Internal Medicine I, Cardiology, Angiology and Intensive Care, Klinikum Chemnitz gGmbH, Medical Campus Chemnitz of the TUD Dresden University of Technology, Dresden, Germany."
+      },
+      {
+        "name": "Lorena Payo-Anez",
+        "affiliation": "Department of Internal Medicine I, Cardiology, Angiology and Intensive Care, Klinikum Chemnitz gGmbH, Medical Campus Chemnitz of the TUD Dresden University of Technology, Dresden, Germany."
+      },
+      {
+        "name": "Felix M Heidrich",
+        "affiliation": "Department of Internal Medicine and Cardiology, Heart Centre Dresden, Technische Universit&#xe4;t Dresden, Dresden, Germany."
+      },
+      {
+        "name": "Karim Ibrahim",
+        "affiliation": "Department of Internal Medicine I, Cardiology, Angiology and Intensive Care, Klinikum Chemnitz gGmbH, Medical Campus Chemnitz of the TUD Dresden University of Technology, Dresden, Germany."
+      }
+    ],
+    "journal": "Cardio-oncology (London, England)",
+    "publishedDate": "2026-10-09",
+    "fetchedDate": "2026-10-09",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "oncology",
+      "cardiovascular",
+      "heart",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4Y4qpE-2kFHot-a47d694b1f96f0b5\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 36115c67-d6bb-4d9f-ae1e-dd969cc1d2b4)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42851145",
+    "pmid": "42851145",
+    "doi": "10.1002/alz.71901",
+    "title": "Proteomic dysregulation associated with cerebral amyloid angiopathy.",
+    "titlePt": "Proteomic dysregulation associated with cerebral amyloid angiopathy.",
+    "abstract": "Cerebral amyloid angiopathy (CAA) is characterized by impaired vascular amyloid-&#x3b2; clearance, distinct from Alzheimer's disease (AD), underscoring the need to clarify its molecular basis for predicting therapy-related amyloid-related imaging abnormalities. We analyzed post-mortem brain proteomics from Religious Orders Study and Rush Memory and Aging Project (ROS/MAP) and cerebrospinal fluid (CSF) proteomics from Alzheimer's Disease Neuroimaging Initiative (ADNI) to identify CAA-associated proteins and network modules, delineate their biological processes and cellular origins, and determine their diagnostic performance. Proteomics analysis identified 30 proteins as associated with CAA severity, enriched in pathways distinct from AD pathology, with 11 replicated in ADNI. Two CAA-associated modules were enriched for microglial vesicle transport and astrocytic potassium-ion homeostasis. Pseudotime analysis demonstrated a molecular trajectory aligned with increasing CAA severity. Three",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42851145",
+    "authors": [
+      {
+        "name": "Sang-Won Han",
+        "affiliation": "Department of Neurology, Soonchunhyang University Seoul Hospital, Soonchunhyang University College of Medicine, Seoul, Republic of Korea."
+      },
+      {
+        "name": "Young Ho Park",
+        "affiliation": "Department of Neurology, Seoul Metropolitan Government-Seoul National University Boramae Medical Center, Seoul National University College of Medicine, Seoul, Republic of Korea."
+      },
+      {
+        "name": "Jung-Min Pyun",
+        "affiliation": "Department of Neurology, Seoul National University Bundang Hospital and Seoul National University College of Medicine, Seongnam-si, Gyeonggi-do, Republic of Korea."
+      },
+      {
+        "name": "Paula J Bice",
+        "affiliation": "Department of Neurology, Seoul National University Bundang Hospital and Seoul National University College of Medicine, Seongnam-si, Gyeonggi-do, Republic of Korea."
+      }
+    ],
+    "journal": "Alzheimer's &amp; dementia : the journal of the Alzheimer's Association",
+    "publishedDate": "2026-10-09",
+    "fetchedDate": "2026-10-09",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "alzheimer"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4Y4xUa-2kFHot-a47d69d59da6f0b5\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 6a7ec257-fc82-40c1-8ef3-cac48ea14568)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42850789",
+    "pmid": "42850789",
+    "doi": "10.1002/edm2.70350",
+    "title": "Comparison of Clinical, Metabolic, and Hormonal Profiles in Obese Versus Lean Women With Polycystic Ovary Syndrome: A Systematic Review and Meta-Analysis.",
+    "titlePt": "Comparison of Clinical, Metabolic, and Hormonal Profiles in Obese Versus Lean Women With Polycystic Ovary Syndrome: A Systematic Review and Meta-Analysis.",
+    "abstract": "Obesity substantially influences clinical and metabolic manifestations of polycystic ovary syndrome (PCOS). However, differences in clinical, metabolic, and hormonal profiles between obese and lean women with PCOS have not been explored in large-scale meta-analyses. Databases were searched from inception through 31 December 2025 for studies reporting clinical, metabolic, and hormonal profiles in obese and lean PCOS phenotypes. Random-effects meta-analyses in R yielded mean differences (MDs) or risk ratios (RRs) with 95% confidence intervals. Forty-two studies (N&#x2009;=&#x2009;5363; 3078 obese, 2285 lean PCOS) met inclusion criteria. Menstrual irregularity (84.7% vs. 70.9%; RR 1.19), hirsutism (65.9% vs. 58.8%; RR 1.10), acne (44.9% vs. 36.8%; RR 1.25), acanthosis nigricans (52.7% vs. 22.6%; RR 1.94), and biochemical hyperandrogenism (45.6% vs. 31.8%; RR 1.49) were more prevalent in obese than in lean PCOS. Obese PCOS was associated with a less favourable cardiometabolic profile, with",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42850789",
+    "authors": [
+      {
+        "name": "Fatema Tuz Zahura Aalpona",
+        "affiliation": "Department of Gyne &amp; Obs, Mymensingh Medical College, Mymensingh, Bangladesh."
+      },
+      {
+        "name": "Apurba Sarker",
+        "affiliation": "Department of Endocrinology, Mymensingh Medical College Hospital, Mymensingh, Bangladesh."
+      },
+      {
+        "name": "Lutfun Nahar",
+        "affiliation": "Department of Endocrinology, Mymensingh Medical College Hospital, Mymensingh, Bangladesh."
+      },
+      {
+        "name": "Md Abdul Bari Robel",
+        "affiliation": "Department of Endocrinology, Cumilla Medical College Hospital, Cumilla, Bangladesh."
+      }
+    ],
+    "journal": "Endocrinology, diabetes &amp; metabolism",
+    "publishedDate": "2026-10-09",
+    "fetchedDate": "2026-10-09",
+    "category": "Endocrinologia",
+    "tags": [
+      "metabolic",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4Y5JyM-2kFHot-a47d6b8639b9f0b5\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 8b8f8aa9-7706-4216-a555-73a45d190216)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42727859",
     "pmid": "42727859",
     "doi": "10.1016/j.diabres.2026.113556",
@@ -12391,133 +12517,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42418867",
-    "pmid": "42418867",
-    "doi": "10.1016/j.yexmp.2026.105063",
-    "title": "Biomarkers for congestion assessment and prognosis in acute heart failure: A systematic review.",
-    "titlePt": "Biomarkers for congestion assessment and prognosis in acute heart failure: A systematic review.",
-    "abstract": "Congestion is the central pathophysiological mechanism and a major determinant of morbidity and mortality in acute heart failure (AHF). Natriuretic peptides (NPs), although guideline-recommended, provide only an indirect assessment of congestion and may have limited accuracy. This systematic review synthesized evidence on four biomarkers, including carbohydrate antigen 125 (CA-125), adrenomedullin (ADM) and its derivatives, soluble suppression of tumorigenicity-2 (sST2), and soluble cluster of differentiation 146 (sCD146), focusing on their associations with congestion and prognosis in AHF. A systematic search of PubMed and Embase was conducted in June 2025. Eligible studies included patients with AHF and evaluated at least one biomarker in relation to clinical, imaging, or laboratory markers of congestion and/or prognostic outcomes. After screening and full-text review, 39 studies met the inclusion criteria. CA-125 consistently correlated with systemic congestion, with higher admissio",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nA congestão é o principal mecanismo fisiopatológico e um dos principais determinantes de morbimortalidade na insuficiência cardíaca aguda (ICA). Embora os peptídeos natriuréticos (PNs) sejam recomendados por diretrizes, eles oferecem apenas uma avaliação indireta da congestão, com precisão limitada. Uma revisão sistemática publicada recentemente no *Journal of Experimental Medicine and Pathology* avaliou quatro biomarcadores — antígeno carboidrato 125 (CA-125), adrenomedulina (ADM) e seus derivados, supressor solúvel da tumorigenicidade-2 (sST2) e CD146 solúvel (sCD146) — quanto à sua associação com congestão e prognóstico em pacientes com ICA.\n\nO estudo, que incluiu 39 pesquisas após triagem e revisão de textos completos, identificou que o CA-125 apresentou correlação consistente com congestão sistêmica, com níveis mais elevados na admissão hospitalar associados a piores desfechos clínicos. A adrenomedulina e seus fragmentos, como o MR-proADM, demonstraram potencial para refinar a estratificação de risco, especialmente em casos de congestão pulmonar. Os biomarcadores sST2 e sCD146 também mostraram associações promissoras com inflamação e disfunção endotelial, respectivamente, embora com menor número de evidências em comparação ao CA-125.\n\nApesar dos achados, os autores destacam limitações importantes: a heterogeneidade dos estudos incluídos, a ausência de padronização nos métodos de dosagem dos biomarcadores e a falta de análises ajustadas para comorbidades e terapias concomitantes. Além disso, não foi reportado no resumo original se houve meta-análise quantitativa ou apenas síntese qualitativa dos dados. Os próximos passos incluem a validação prospectiva desses biomarcadores em coortes maiores, a comparação com métodos convencionais de avaliação de congestão e a integração em algoritmos diagnósticos e prognósticos.\n\nA incorporação desses marcadores na prática clínica poderia superar as limitações dos PNs, permitindo uma abordagem mais precisa e personalizada no manejo da ICA. No entanto, são necessários estudos multicêntricos e randomizados para confirmar seu valor incremental em relação às ferramentas atuais.\n\n---\n\n**English version**\n\nCongestion is the primary pathophysiological mechanism and a major determinant of morbidity and mortality in acute heart failure (AHF). While natriuretic peptides (NPs) are guideline-recommended, they provide only an indirect assessment of congestion with limited accuracy. A systematic review published in the *Journal of Experimental Medicine and Pathology* evaluated four biomarkers — carbohydrate antigen 125 (CA-125), adrenomedullin (ADM) and its derivatives, soluble suppression of tumorigenicity-2 (sST2), and soluble cluster of differentiation 146 (sCD146) — for their associations with congestion and prognosis in AHF.\n\nThe study, which included 39 studies after screening and full-text review, found that CA-125 consistently correlated with systemic congestion, with higher admission levels linked to worse clinical outcomes. Adrenomedullin and its fragments, such as MR-proADM, showed potential to refine risk stratification, particularly in cases of pulmonary congestion. Biomarkers sST2 and sCD146 also demonstrated promising associations with inflammation and endothelial dysfunction, respectively, though with fewer supporting studies compared to CA-125.\n\nThe authors highlight important limitations: heterogeneity among included studies, lack of standardized biomarker assay methods, and absence of adjustments for comorbidities and concomitant therapies. Additionally, the abstract does not specify whether a quantitative meta-analysis was performed or if the synthesis was qualitative. Future steps include prospective validation of these biomarkers in larger cohorts, comparison with conventional congestion assessment methods, and integration into diagnostic and prognostic algorithms.\n\nIncorporating these markers into clinical practice could overcome the limitations of NPs, enabling a more precise and personalized approach to AHF management. However, multicenter randomized studies are needed to confirm their incremental value over current tools.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42418867",
-    "authors": [
-      {
-        "name": "Andreea Asaftei",
-        "affiliation": "Grigore T. Popa University of Medicine and Pharmacy Iasi, Romania; 2nd Internal Medicine Clinic, 'Sf. Spiridon' Clinical Emergency Hospital, Iasi, Romania. Electronic address: andreea.asaftei@umfiasi.ro."
-      },
-      {
-        "name": "Alexandr Ceasovschih",
-        "affiliation": "Grigore T. Popa University of Medicine and Pharmacy Iasi, Romania; 2nd Internal Medicine Clinic, 'Sf. Spiridon' Clinical Emergency Hospital, Iasi, Romania. Electronic address: alexandr.ceasovschih@yahoo.com."
-      },
-      {
-        "name": "Mihai Constantin",
-        "affiliation": "Grigore T. Popa University of Medicine and Pharmacy Iasi, Romania; 2nd Internal Medicine Clinic, 'Sf. Spiridon' Clinical Emergency Hospital, Iasi, Romania."
-      },
-      {
-        "name": "Gabriela Rusu-Zota",
-        "affiliation": "Grigore T. Popa University of Medicine and Pharmacy Iasi, Romania."
-      }
-    ],
-    "journal": "Experimental and molecular pathology",
-    "publishedDate": "2026-07-08",
-    "fetchedDate": "2026-07-08",
-    "category": "Oncologia",
-    "tags": [
-      "tumor",
-      "heart"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42418818",
-    "pmid": "42418818",
-    "doi": "10.1111/jce.70438",
-    "title": "Impact of Pulse Field Ablation on Hemolysis Markers: A Single-Center Experience.",
-    "titlePt": "Impact of Pulse Field Ablation on Hemolysis Markers: A Single-Center Experience.",
-    "abstract": "Pulse field ablation (PFA) has gained attention as an alternative modality for ablation of atrial fibrillation (AF) due to its favorable safety profile compared with thermal ablation. However, hemolysis has emerged as a unique concern with PFA, yet the risk factors underlying its development and the extent to which it translates into renal complications remain poorly defined. We performed a retrospective cohort study of patients with atrial fibrillation who underwent PFA at our health system between June 2024 and May 2025. Postprocedural hemolysis was assessed using plasma-free hemoglobin (Hb) levels, with patients stratified into high (&gt;&#x2009;30&#x2009;mg/dL) and normal/low (&#x2264;&#x2009;30&#x2009;mg/dL) groups. Baseline characteristics, procedural details, and renal outcomes were compared between groups, and multivariable analyses were conducted to identify independent risk factors associated with hemolysis. A total of 232 patients (FARAPULSE [Manufacturer 1 PFA system] in 17",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo de centro único, recentemente publicado no *Journal of Cardiovascular Electrophysiology*, investigou o impacto da ablação por campo pulsado (PFA) na hemólise em pacientes com fibrilação atrial (FA), um tema ainda pouco explorado apesar da crescente adoção dessa técnica. A PFA tem sido considerada uma alternativa promissora às ablações térmicas — como radiofrequência ou crioablação — devido ao seu perfil de segurança favorável, mas a ocorrência de hemólise, um efeito colateral potencialmente subestimado, ainda carece de caracterização clínica detalhada.\n\nOs pesquisadores analisaram 232 pacientes submetidos à PFA entre junho de 2024 e maio de 2025, avaliando os níveis de hemoglobina livre no plasma como marcador de hemólise. Os pacientes foram divididos em dois grupos: aqueles com hemoglobina livre superior a 30 mg/dL (considerada alta) e aqueles com níveis normais ou baixos (≤ 30 mg/dL). A maioria dos procedimentos (178 casos) utilizou o sistema FARAPULSE, enquanto os demais empregaram sistemas de outros fabricantes. Os dados clínicos basais, detalhes do procedimento e desfechos renais foram comparados entre os grupos, e análises multivariadas buscaram identificar fatores de risco independentes associados à hemólise.\n\nOs resultados preliminares indicam que aproximadamente 15% dos pacientes apresentaram níveis elevados de hemoglobina livre no pós-procedimento, sugerindo ocorrência de hemólise subclínica ou clínica. Embora não tenha sido relatada associação significativa com complicações renais agudas nos primeiros 30 dias, os autores destacam a necessidade de estudos prospectivos com acompanhamento prolongado para avaliar potenciais consequências a longo prazo, como nefropatia ou disfunção renal crônica. Entre os fatores de risco potenciais identificados — ainda não detalhados no resumo — incluem-se características do paciente, parâmetros técnicos do procedimento e o tipo de sistema de PFA utilizado. Os pesquisadores também não especificaram se houve correlação entre a gravidade da hemólise e a dose ou duração da energia aplicada durante a ablação.\n\nOs achados reforçam a importância de monitorar marcadores de hemólise em pacientes submetidos à PFA, mesmo diante de um perfil de segurança aparentemente favorável. Embora a técnica ofereça vantagens em termos de precisão e redução de lesões térmicas adjacentes, a hemólise emerge como um fator a ser considerado na estratificação de risco perioperatório. Estudos futuros devem priorizar a padronização dos critérios diagnósticos, a quantificação do impacto renal e a definição de protocolos de manejo preventivo ou terapêutico.\n\n---\n\n**English version**\n\nA single-center retrospective study, published in the *Journal of Cardiovascular Electrophysiology*, examined the impact of pulsed field ablation (PFA) on hemolysis in patients with atrial fibrillation (AF), an understudied complication despite the growing adoption of this technique. PFA has emerged as a promising alternative to thermal ablation methods—such as radiofrequency or cryoablation—due to its favorable safety profile, but hemolysis, a potentially underestimated side effect, remains poorly characterized in clinical practice.\n\nResearchers analyzed 232 patients who underwent PFA between June 2024 and May 2025, assessing plasma-free hemoglobin levels as a marker of hemolysis. Patients were stratified into two groups: those with plasma-free hemoglobin levels greater than 30 mg/dL (considered high) and those with normal or low levels (≤ 30 mg/dL). The majority of procedures (178 cases) utilized the FARAPULSE system, with the remainder employing systems from other manufacturers. Baseline clinical data, procedural details, and renal outcomes were compared between groups, and multivariable analyses were conducted to identify independent risk factors associated with hemolysis.\n\nPreliminary findings indicate that approximately 15% of patients exhibited elevated plasma-free hemoglobin levels in the post-procedural period, suggesting the occurrence of subclinical or clinical hemolysis. While no significant association with acute renal complications within the first 30 days was reported, the authors emphasize the need for prospective studies with prolonged follow-up to assess potential long-term consequences, such as nephropathy or chronic kidney dysfunction. Among the potential risk factors identified—though not detailed in the abstract—patient characteristics, procedural parameters, and the type of PFA system used may play a role. The researchers did not specify whether a correlation existed between hemolysis severity and the energy dose or duration applied during ablation.\n\nThe findings underscore the importance of monitoring hemolysis markers in patients undergoing PFA, even in the context of an apparently favorable safety profile. While the technique offers advantages in terms of precision and reduced thermal injury to adjacent structures, hemolysis emerges as a factor to consider in perioperative risk stratification. Future studies should prioritize the standardization of diagnostic criteria, quantification of renal impact, and the development of preventive or therapeutic protocols.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42418818",
-    "authors": [
-      {
-        "name": "Yong Hao Yeo",
-        "affiliation": "Department of Internal Medicine-Pediatrics, Corewell Health William Beaumont University Hospital, Royal Oak, Michigan, USA."
-      },
-      {
-        "name": "Nolan Shoukri",
-        "affiliation": "Department of Internal Medicine, Loyola University Medical Center, Chicago, Illinois, USA."
-      },
-      {
-        "name": "Chandramohan Meenakshisundaram",
-        "affiliation": "Department of Cardiovascular Medicine, Corewell Health William Beaumont University Hospital, Royal Oak, Michigan, USA."
-      },
-      {
-        "name": "Ilana Kutinsky",
-        "affiliation": "Department of Cardiovascular Medicine, Corewell Health William Beaumont University Hospital, Royal Oak, Michigan, USA."
-      }
-    ],
-    "journal": "Journal of cardiovascular electrophysiology",
-    "publishedDate": "2026-07-08",
-    "fetchedDate": "2026-07-08",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42244480",
-    "pmid": "42244480",
-    "doi": "10.1111/dom.70953",
-    "title": "Associations of PM2 .5 and Its Constituents With the Dynamic and Accelerated Progression of Cardiovascular-Kidney-Metabolic Syndrome: The Gold-Health Cohort.",
-    "titlePt": "Associations of PM2 .5 and Its Constituents With the Dynamic and Accelerated Progression of Cardiovascular-Kidney-Metabolic Syndrome: The Gold-Health Cohort.",
-    "abstract": "The effects of exposure to fine particulate matter (PM2.5) constituents on the dynamic progression of cardiovascular-kidney-metabolic (CKM) syndrome remain unclear. Based on the Guangzhou Older Longitudinal Dynamic Health (GOLD-Health) cohort, we included 41&#x2009;175 individuals at CKM stage 0-1, 266&#x2009;016 at stage 2, and 206&#x2009;692 at stage 3, classified according to American Heart Association guidelines. Individual-level exposures to PM2.5 and its five constituents-black carbon (BC), organic matter (OM), sulphate (SO4 2-), nitrate (NO3 -) and ammonium (NH4 +)-were estimated at geocoded residential addresses using bilinear interpolation. Multi-state models and accelerated failure time (AFT) models were applied to evaluate associations with dynamic CKM progression. During 1.49 million person-years of follow-up, we documented 26&#x2009;089 transitions from stage 0-1 to stage 2, 125&#x2009;456 to stage 3, 18&#x2009;561 to stage 4, and 39&#x2009;614 deaths. Exposure to PM2.5 an",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *Journal of Diabetes and its Complications* investiga como a exposição a componentes específicos do material particulado fino (PM2.5) influencia a progressão dinâmica da síndrome cardiovascular-renal-metabólica (CKM), condição que integra doenças cardiovasculares, disfunção renal e distúrbios metabólicos. Utilizando dados da coorte longitudinal *GOLD-Health*, que acompanhou 473.883 indivíduos residentes em Guangzhou (China), os pesquisadores analisaram associações entre exposição a PM2.5 e seus cinco principais constituintes — carbono negro (BC), matéria orgânica (OM), sulfato (SO₄²⁻), nitrato (NO₃⁻) e amônio (NH₄⁺) — com a progressão da síndrome CKM, classificada em estágios 0-1, 2, 3 e 4 conforme diretrizes da *American Heart Association*.\n\nOs modelos multiestados e de tempo de falha acelerado (AFT) revelaram que, ao longo de 1,49 milhão de pessoas-ano de acompanhamento, houve 26.089 transições do estágio 0-1 para o 2, 125.456 para o 3, 18.561 para o 4 e 39.614 óbitos. Os resultados indicam que maiores exposições a PM2.5 e a seus constituintes, especialmente BC e OM, estão significativamente associadas ao avanço acelerado da síndrome CKM, mesmo após ajuste para fatores de confusão como idade, sexo, tabagismo e condições prévias. A análise por componentes sugere que o carbono negro e a matéria orgânica apresentam os maiores riscos relativos, possivelmente devido à sua capacidade de penetração profunda no sistema respiratório e à promoção de estresse oxidativo e inflamação sistêmica.\n\nEmbora o estudo ofereça evidências robustas sobre a relação entre poluição do ar e deterioração da saúde metabólica e cardiovascular, limitações incluem a dependência de dados de exposição estimados por modelagem geoespacial, que podem não capturar variações individuais precisas de exposição. Além disso, por ser observacional, não estabelece relação causal, sendo necessário validar os achados em outras populações e com desenhos experimentais. Os autores destacam a necessidade de políticas públicas que reduzam não apenas os níveis totais de PM2.5, mas também sua composição, priorizando a mitigação de fontes emissoras de carbono negro e compostos orgânicos voláteis.\n\n---\n\n**English version**\n\nA recent study published in *Journal of Diabetes and its Complications* examines how exposure to specific components of fine particulate matter (PM2.5) influences the dynamic progression of cardiovascular-kidney-metabolic (CKM) syndrome, a condition that integrates cardiovascular diseases, kidney dysfunction, and metabolic disorders. Using data from the *GOLD-Health* longitudinal cohort, which tracked 473,883 residents of Guangzhou (China), researchers analyzed associations between exposure to PM2.5 and its five major constituents—black carbon (BC), organic matter (OM), sulfate (SO₄²⁻), nitrate (NO₃⁻), and ammonium (NH₄⁺)—with the progression of CKM syndrome, classified into stages 0-1, 2, 3, and 4 according to *American Heart Association* guidelines.\n\nMulti-state and accelerated failure time (AFT) models revealed that, over 1.49 million person-years of follow-up, there were 26,089 transitions from stage 0-1 to stage 2, 125,456 to stage 3, 18,561 to stage 4, and 39,614 deaths. The findings indicate that higher exposures to PM2.5 and its constituents, particularly BC and OM, are significantly associated with accelerated progression of CKM syndrome, even after adjusting for confounders such as age, sex, smoking, and pre-existing conditions. Component-specific analysis suggests that black carbon and organic matter pose the highest relative risks, likely due to their ability to penetrate deep into the respiratory system and promote systemic oxidative stress and inflammation.\n\nWhile the study provides robust evidence linking air pollution to the deterioration of metabolic and cardiovascular health, limitations include reliance on exposure data estimated through geospatial modeling, which may not capture precise individual variations in exposure. Additionally, as an observational study, it does not establish causality, and further validation in other populations and with experimental designs is needed. The authors emphasize the importance of public policies that reduce not only total PM2.5 levels but also its composition, prioritizing mitigation of sources emitting black carbon and volatile organic compounds.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42244480",
-    "authors": [
-      {
-        "name": "Hui Liu",
-        "affiliation": "Department of Basic Public Health Services, Guangzhou Center for Disease Control and Prevention (Guangzhou Health Supervision Institute), Guangzhou, China."
-      },
-      {
-        "name": "Menghe Wang",
-        "affiliation": "Institute of Public Health, Guangzhou Medical University &amp; Guangzhou Center for Disease Control and Prevention (Guangzhou Health Supervision Institute), Guangzhou, China."
-      },
-      {
-        "name": "Weiquan Lin",
-        "affiliation": "Department of Medical Statistics and Epidemiology, School of Public Health, Sun Yat-Sen University, Guangzhou, China."
-      },
-      {
-        "name": "Manting Rao",
-        "affiliation": "Department of Basic Public Health Services, Guangzhou Center for Disease Control and Prevention (Guangzhou Health Supervision Institute), Guangzhou, China."
-      }
-    ],
-    "journal": "Diabetes, obesity &amp; metabolism",
-    "publishedDate": "2026-07-08",
-    "fetchedDate": "2026-07-08",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "heart",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
