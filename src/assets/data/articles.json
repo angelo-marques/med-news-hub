@@ -1,5 +1,86 @@
 [
   {
+    "id": "pubmed-42848308",
+    "pmid": "42848308",
+    "doi": "10.1007/s12519-026-01101-x",
+    "title": "Ulcerated infantile hemangioma in the &#x3b2;-blocker era: recent advances.",
+    "titlePt": "Ulcerated infantile hemangioma in the &#x3b2;-blocker era: recent advances.",
+    "abstract": "Whilst &#x3b2;-blockers have revolutionized the management of complicated infantile hemangiomas (IHs), ulceration remains a highly painful and clinically challenging complication. Ulcerated IHs may lead to pain, bleeding, secondary infection, feeding or diaper-care difficulties, functional impairment, and permanent scarring. Early recognition and integrated management are therefore essential. This narrative review searched PubMed, Embase, and Cochrane Library databases from inception to June 2026 for studies concerning ulcerated IH. The search was restricted to publications written in English; relevant evidence was synthesized in a narrative fashion. Ulceration is more likely to occur in rapidly proliferating, large, superficial, mixed, segmental, or partially segmental IHs. This is particularly so for those involving the lips, neck, diaper area, perineal or anogenital region, and skin folds. Early white discoloration is an important warning sign of impending ulceration. Current eviden",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848308",
+    "authors": [
+      {
+        "name": "Kai-Zhi Zhang",
+        "affiliation": "Division of Oncology, Department of Pediatric Surgery, West China Hospital of Sichuan University, 37 Guo-Xue-Xiang, Chengdu 610041, China."
+      },
+      {
+        "name": "Ren-Ming Guo",
+        "affiliation": "Division of Oncology, Department of Pediatric Surgery, West China Hospital of Sichuan University, 37 Guo-Xue-Xiang, Chengdu 610041, China."
+      },
+      {
+        "name": "Tong Qiu",
+        "affiliation": "Division of Oncology, Department of Pediatric Surgery, West China Hospital of Sichuan University, 37 Guo-Xue-Xiang, Chengdu 610041, China."
+      },
+      {
+        "name": "Min Yang",
+        "affiliation": "Division of Oncology, Department of Pediatric Surgery, West China Hospital of Sichuan University, 37 Guo-Xue-Xiang, Chengdu 610041, China. hx2014bsym@163.com."
+      }
+    ],
+    "journal": "World journal of pediatrics : WJP",
+    "publishedDate": "2026-10-08",
+    "fetchedDate": "2026-10-09",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "infant"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4Uetao-2kFHot-a479ba5a8ac2e80c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 945359f8-2bb3-4d10-90a1-d90f71fae247)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42847331",
+    "pmid": "42847331",
+    "title": "[Childhood obesity in Spain: Fifteen years of monitoring and action through the WHO European Childhood Obesity Surveillance Initiative (COSI) and the ALADINO study].",
+    "titlePt": "[Childhood obesity in Spain: Fifteen years of monitoring and action through the WHO European Childhood Obesity Surveillance Initiative (COSI) and the ALADINO study].",
+    "abstract": "Childhood obesity is a global Public Health issue with long-term effects on quality of life and high prevalence in Spain, particularly among minors from lower socioeconomic backgrounds. This situation requires intersectoral public policies focused on promoting physical activity and reducing sedentary behaviour through strategies such as physical activity prescription and the recommendation of health assets. This study analyses Spanish policies aimed at promoting and prescribing physical activity within the healthcare system, with an emphasis on the child population and in alignment with the World Health Organization Global Action Plan on Physical Activity 2018-2030. Key policies include the National Strategic Plan for the Reduction of Childhood Obesity, the 2025-2027 Primary and Community Care Action Plan, and the Physical Activity Prescription Plan, which incorporate actions related to awareness-raising, the creation of active environments, and the training of professionals and citize",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42847331",
+    "authors": [
+      {
+        "name": "Ignacio M Gim&#xe9;nez Alba",
+        "affiliation": "&#xc1;rea de Promoci&#xf3;n de la Salud y Equidad. Subdirecci&#xf3;n General de Promoci&#xf3;n, Prevenci&#xf3;n y Equidad en Salud. Direcci&#xf3;n General de Salud P&#xfa;blica y Equidad en Salud. Ministerio de Sanidad. Madrid. Espa&#xf1;a."
+      },
+      {
+        "name": "Kremlin Wickramasinghe",
+        "affiliation": "Departamento de Medicina Preventiva y Salud P&#xfa;blica, Ciencias de la Alimentaci&#xf3;n, Toxicolog&#xed;a y Medicina Legal. Facultad de Medicina y Odontolog&#xed;a. Universitat de Val&#xe8;ncia. Valencia. Espa&#xf1;a."
+      },
+      {
+        "name": "Marta Buoncristiano",
+        "affiliation": "Centro de Investigaci&#xf3;n Biom&#xe9;dica en Red de la Fisiopatolog&#xed;a de la Obesidad y Nutrici&#xf3;n (CIBEROBN). Instituto de Salud Carlos III (ISCIII). Madrid. Espa&#xf1;a."
+      },
+      {
+        "name": "Melanie Nichols",
+        "affiliation": "Prevention and Health Promotion (PHP). WHO Regional Office for Europe. Copenhague. Dinamarca."
+      }
+    ],
+    "journal": "Revista espanola de salud publica",
+    "publishedDate": "2026-10-08",
+    "fetchedDate": "2026-10-09",
+    "category": "Pediatria",
+    "tags": [
+      "childhood",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4Uf4tQ-2kFHot-a479bb327c20e80c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: d23e00d8-ec92-44ca-8e23-c7c5de345be2)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42845233",
     "pmid": "42845233",
     "doi": "10.1161/CIRCEP.126.015183",
@@ -12447,94 +12528,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42417895",
-    "pmid": "42417895",
-    "doi": "10.1007/s11306-026-02488-4",
-    "title": "Clinical lipidomics in bacterial sepsis: a systematic review of serum and plasma evaluations.",
-    "titlePt": "Clinical lipidomics in bacterial sepsis: a systematic review of serum and plasma evaluations.",
-    "abstract": "Lipid metabolism plays a central role in host-pathogen interactions and immune regulation during bacterial sepsis, with its dysregulation contributing to organ failure and mortality. Blood-based lipidomics has emerged as a promising approach for identifying diagnostic and prognostic biomarkers in sepsis. However, discrepancies in lipid profiles between serum and plasma remain a major challenge for clinical translation. This systematic review synthesizes lipidomic evidence from serum and plasma in bacterial sepsis patients to identify reproducible lipid biomarkers, evaluate methodological heterogeneity and assess associations with clinical outcomes. A systematic search of five databases (Scopus, Pubmed, Ovid MEDLINE, Web of Science and Google Scholar) identified nine eligible studies published between 2016 and 2025 that applied untargeted or targeted lipidomics on human serum and plasma samples from adult bacterial sepsis patients (PROSPERO: CRD420251086177). Across both matrices, repro",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nA metabolização lipídica exerce função central nas interações patógeno-hospedeiro e na regulação imunológica durante a sepse bacteriana, cuja disfunção contribui para falência orgânica e mortalidade. A lipidômica baseada em sangue desponta como estratégia promissora para identificar biomarcadores diagnósticos e prognósticos na sepse, embora discrepâncias nos perfis lipídicos entre soro e plasma representem um entrave à tradução clínica. Este estudo, uma revisão sistemática, sintetizou evidências lipidômicas de soro e plasma em pacientes adultos com sepse bacteriana para mapear biomarcadores reprodutíveis, avaliar heterogeneidade metodológica e correlacionar achados com desfechos clínicos. A busca abrangeu cinco bases de dados (Scopus, PubMed, Ovid MEDLINE, Web of Science e Google Scholar), resultando em nove estudos elegíveis publicados entre 2016 e 2025 que aplicaram lipidômica não direcionada ou direcionada em amostras humanas de soro ou plasma de pacientes adultos com sepse bacteriana (PROSPERO: CRD420251086177). Embora não tenha sido reportado um painel lipídico unificado entre as matrizes, os dados indicam que alterações em esfingolipídeos, fosfolipídeos e ácidos graxos livres — especialmente a redução de esfingomielina e o aumento de lisofosfatidilcolina — apresentam associação consistente com gravidade e mortalidade, sugerindo potencial para estratificação de risco. A heterogeneidade nos protocolos de coleta, armazenamento e análise, no entanto, limita a comparabilidade entre estudos e a padronização de biomarcadores. Os autores destacam a necessidade de ensaios multicêntricos com metodologias harmonizadas e validação prospectiva em coortes independentes para consolidar o uso clínico da lipidômica na sepse. Estudos futuros também devem explorar a integração de dados lipidômicos com outros biomarcadores inflamatórios e clínicos para aprimorar a acurácia diagnóstica e terapêutica.\n\n---\n\n**English version**\n\nLipid metabolism plays a pivotal role in host-pathogen interactions and immune regulation during bacterial sepsis, with its dysregulation contributing to organ failure and mortality. Blood-based lipidomics has emerged as a promising approach for identifying diagnostic and prognostic biomarkers in sepsis, though discrepancies between serum and plasma lipid profiles pose challenges to clinical translation. This systematic review synthesizes lipidomic evidence from serum and plasma in adult bacterial sepsis patients to identify reproducible lipid biomarkers, assess methodological heterogeneity, and evaluate associations with clinical outcomes. A comprehensive search across five databases (Scopus, PubMed, Ovid MEDLINE, Web of Science, and Google Scholar) yielded nine eligible studies published between 2016 and 2025 that applied untargeted or targeted lipidomics to human serum or plasma samples from adult bacterial sepsis patients (PROSPERO: CRD420251086177). While a unified lipid panel across matrices was not reported, findings consistently highlight alterations in sphingolipids, phospholipids, and free fatty acids—particularly reduced sphingomyelin and elevated lysophosphatidylcholine—as associated with disease severity and mortality, suggesting potential for risk stratification. However, heterogeneity in sample collection, storage, and analytical protocols limits comparability across studies and biomarker standardization. The authors emphasize the need for multicenter trials with harmonized methodologies and prospective validation in independent cohorts to advance clinical implementation of lipidomics in sepsis. Future research should also explore integrating lipidomic data with inflammatory and clinical biomarkers to enhance diagnostic and therapeutic accuracy.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42417895",
-    "authors": [
-      {
-        "name": "Nurul Saadah Ahmad",
-        "affiliation": "Department of Medical Microbiology, Faculty of Medicine and Health Sciences, Universiti Putra Malaysia, 43400, Serdang, Selangor, Malaysia."
-      },
-      {
-        "name": "Rosni Ibrahim",
-        "affiliation": "Department of Emergency Medicine, Faculty of Medicine, Universiti Kebangsaan Malaysia, 56000, Cheras, Kuala Lumpur, Malaysia."
-      },
-      {
-        "name": "Toh Leong Tan",
-        "affiliation": "Department of Medical Microbiology, Faculty of Medicine and Health Sciences, Universiti Putra Malaysia, 43400, Serdang, Selangor, Malaysia."
-      },
-      {
-        "name": "Syarul Nataqain Baharum",
-        "affiliation": "Department of Emergency Medicine, Faculty of Medicine, Universiti Kebangsaan Malaysia, 56000, Cheras, Kuala Lumpur, Malaysia."
-      }
-    ],
-    "journal": "Metabolomics : Official journal of the Metabolomic Society",
-    "publishedDate": "2026-07-08",
-    "fetchedDate": "2026-07-08",
-    "category": "Infectologia",
-    "tags": [
-      "bacterial",
-      "sepsis",
-      "gene",
-      "immune"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42417051",
-    "pmid": "42417051",
-    "doi": "10.1177/13872877261466695",
-    "title": "Eligibility for lecanemab therapy in a biomarker defined memory clinic cohort: A five-year analysis.",
-    "titlePt": "Eligibility for lecanemab therapy in a biomarker defined memory clinic cohort: A five-year analysis.",
-    "abstract": "We assessed cross-sectional lecanemab eligibility (January 2026) in 479 patients with mild cognitive impairment or dementia who underwent Alzheimer's disease (AD) biomarker testing at a tertiary memory clinic (2021-2025). Overall eligibility was 16%, with exclusions due to negative biomarkers (41%), advanced disease stage (31%), APOE &#x3b5;4/&#x3b5;4 homozygosity (6%), and other safety reasons (6%). In the 2025 subgroup (n&#x2009;=&#x2009;100), eligibility increased to 32%, reflecting fewer exclusions for disease progression and a targeted evaluation of patients likely to meet criteria. These findings highlight a narrow post-diagnosis therapeutic window and suggest an upper eligibility limit under the current appropriate use recommendations for anti-amyloid therapies.",
-    "journalisticSummary": "Um estudo recente avaliou a elegibilidade para terapia com lecanemabe em uma coorte de pacientes com comprometimento cognitivo leve ou demência, atendidos em uma clínica terciária de memória entre 2021 e 2025. Ao analisar dados de 479 indivíduos submetidos a testes de biomarcadores para doença de Alzheimer, os pesquisadores identificaram que apenas 16% preenchiam os critérios para o tratamento em janeiro de 2026. As principais razões para a exclusão incluíram biomarcadores negativos (41%), estágio avançado da doença (31%), homozigose para APOE ε4/ε4 (6%) e outras contraindicações de segurança (6%). No entanto, em uma análise de subgrupo com 100 pacientes avaliados em 2025, a elegibilidade subiu para 32%, sugerindo uma melhora na seleção de candidatos com maior probabilidade de se adequar aos critérios terapêuticos. Os resultados reforçam a existência de uma janela terapêutica estreita após o diagnóstico e indicam um limite superior de elegibilidade sob as atuais recomendações de uso adequado para terapias antiamiloides. Embora o estudo forneça insights valiosos sobre a aplicabilidade clínica do lecanemabe, limita-se a uma população específica de uma única instituição, o que pode restringir a generalização dos achados. Além disso, não foram detalhados os critérios exatos de elegibilidade adotados nem o impacto a longo prazo da terapia nos pacientes incluídos. Pesquisas futuras devem explorar a validação desses resultados em coortes mais diversas e avaliar desfechos clínicos em cenários do mundo real.\n\n---\n\nA recent study assessed lecanemab therapy eligibility in a cohort of patients with mild cognitive impairment or dementia, treated at a tertiary memory clinic between 2021 and 2025. Analyzing data from 479 individuals who underwent Alzheimer's disease (AD) biomarker testing, researchers found that only 16% met the criteria for treatment as of January 2026. Key exclusion reasons included negative biomarkers (41%), advanced disease stage (31%), APOE ε4/ε4 homozygosity (6%), and other safety concerns (6%). However, in a subgroup analysis of 100 patients evaluated in 2025, eligibility rose to 32%, suggesting improved selection of candidates more likely to meet therapeutic criteria. The findings underscore a narrow post-diagnosis therapeutic window and indicate an upper eligibility limit under current appropriate use recommendations for anti-amyloid therapies. While the study provides valuable insights into lecanemab's clinical applicability, it is limited to a single-institution population, potentially restricting the generalizability of the results. Additionally, specific eligibility criteria and long-term therapy outcomes were not detailed. Future research should validate these findings in more diverse cohorts and evaluate real-world clinical outcomes.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42417051",
-    "authors": [
-      {
-        "name": "Pablo Ag&#xfc;ero-Rabes",
-        "affiliation": "Department of Neurology, Fundaci&#xf3;n Jim&#xe9;nez D&#xed;az, Madrid, Spain."
-      },
-      {
-        "name": "Javier Roa-Escobar",
-        "affiliation": "Department of Neurology, Fundaci&#xf3;n Jim&#xe9;nez D&#xed;az, Madrid, Spain."
-      },
-      {
-        "name": "Raquel T&#xe9;llez",
-        "affiliation": "Department of Immunology, Fundaci&#xf3;n Jim&#xe9;nez D&#xed;az, Madrid, Spain."
-      },
-      {
-        "name": "Ver&#xf3;nica Ma&#xf1;anes",
-        "affiliation": "Department of Neurology, Fundaci&#xf3;n Jim&#xe9;nez D&#xed;az, Madrid, Spain."
-      }
-    ],
-    "journal": "Journal of Alzheimer's disease : JAD",
-    "publishedDate": "2026-07-08",
-    "fetchedDate": "2026-07-08",
-    "category": "Neurologia",
-    "tags": [
-      "alzheimer",
-      "dementia",
-      "cognitive",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
