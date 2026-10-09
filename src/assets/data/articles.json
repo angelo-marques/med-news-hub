@@ -1,5 +1,38 @@
 [
   {
+    "id": "pubmed-42727859",
+    "pmid": "42727859",
+    "doi": "10.1016/j.diabres.2026.113556",
+    "title": "Effectiveness of non-pharmacological interventions on metabolic control in adults with type 2 diabetes: a systematic review and meta-analysis of randomised controlled trials.",
+    "titlePt": "Effectiveness of non-pharmacological interventions on metabolic control in adults with type 2 diabetes: a systematic review and meta-analysis of randomised controlled trials.",
+    "abstract": "This systematic review and meta-analysis evaluated the effectiveness of non-pharmacological interventions in improving MetS-related metabolic-control outcomes among adults with type 2 diabetes mellitus. PubMed, Scopus, ScienceDirect, and the Cochrane Library were searched from January 2005 to June 2025. Eligible randomised controlled trials compared non-pharmacological interventions with usual care, standard care, or no intervention and reported at least three prespecified metabolic syndrome components. Non-randomised studies and pharmacological, surgical, medical-device, supplement-based, or insufficiently reported interventions were excluded. Random-effects models used restricted maximum-likelihood estimation with the Knapp-Hartung adjustment, and risk of bias was assessed using the Cochrane Risk of Bias 2 tool. Forty-two trials involving 9,586 participants were included. Interventions significantly reduced glycated haemoglobin (HbA1c; mean difference [MD] -0.43 percentage points, 95",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42727859",
+    "authors": [
+      {
+        "name": "Tran Thi My",
+        "affiliation": "Faculty of Nursing, Chulalongkorn University, Bangkok 10330, Thailand; Dong A University, Danang 50000, Vietnam."
+      },
+      {
+        "name": "Nantiya Watthayu",
+        "affiliation": "Faculty of Nursing, Chulalongkorn University, Bangkok 10330, Thailand. Electronic address: nantiya.w@chula.ac.th."
+      }
+    ],
+    "journal": "Diabetes research and clinical practice",
+    "publishedDate": "2026-10-08",
+    "fetchedDate": "2026-10-09",
+    "category": "Endocrinologia",
+    "tags": [
+      "diabetes",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4WqeHQ-2kFHot-a47c16240c9e69fe\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: f35f6623-49f6-4498-a4b8-c824e95673d5)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42848308",
     "pmid": "42848308",
     "doi": "10.1007/s12519-026-01101-x",
@@ -12485,49 +12518,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41402578",
-    "pmid": "41402578",
-    "doi": "10.1007/s13346-025-02030-4",
-    "title": "Topical delivery of Lidocaine using spicules for local anesthesia.",
-    "titlePt": "Topical delivery of Lidocaine using spicules for local anesthesia.",
-    "abstract": "Topical anesthesia offers a painless alternative to injections but is limited by the low skin permeability of local anesthetics through the stratum corneum, leading to a slow onset. In this study, we introduce a novel spicule-assisted topical delivery system using Sponge Haliclona sp. spicules (SHS) combined with Carbomer gel to enhance the transdermal absorption of lidocaine hydrochloride (LH). SHS act as dispersed microneedles, creating numerous microchannels that significantly improve skin permeability. In vitro, SHS increased total skin absorption of LH nearly tenfold (78.45&#x2009;&#xb1;&#x2009;6.96%) and accelerated drug penetration into deeper skin layers (97.5% in dermis and receptor compartments). In vivo, SHS-LH treatment achieved a maximum anesthetic effect within 10&#xa0;min, markedly faster and stronger than conventional topical application. A pilot clinical trial confirmed that the SHS-Carbomer gel system halved the onset time of lidocaine and significantly prolonged its ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo sistema de liberação tópica de lidocaína, utilizando microagulhas biológicas derivadas de esponjas marinhas, demonstrou potencial para revolucionar a anestesia local, superando limitações tradicionais como a baixa permeabilidade cutânea e o início lento da ação. Publicado no periódico *Drug Delivery and Translational Research*, o estudo investigou o uso de espículas de *Haliclona sp.* (SHS) incorporadas a um gel de Carbomer para criar microcanais na pele, facilitando a absorção transdérmica do anestésico. Em ensaios *in vitro*, o sistema SHS aumentou em quase dez vezes a absorção total de lidocaína (78,45 ± 6,96%) e permitiu que 97,5% do fármaco atingisse camadas mais profundas da pele, incluindo a derme e o compartimento receptor. Nos testes *in vivo*, a combinação SHS-lidocaína atingiu o efeito anestésico máximo em apenas 10 minutos — significativamente mais rápido que aplicações tópicas convencionais. Um ensaio clínico piloto confirmou que o sistema reduziu pela metade o tempo de início da anestesia em comparação ao método padrão, além de prolongar sua duração, embora a extensão exata desse prolongamento não tenha sido detalhada na publicação.\n\nOs resultados sugerem que a abordagem pode eliminar a necessidade de injeções em procedimentos dermatológicos ou cosméticos minimamente invasivos, reduzindo desconforto e riscos associados a agulhas. No entanto, estudos adicionais são necessários para validar a segurança em diferentes tipos de pele, avaliar possíveis efeitos adversos locais e determinar a eficácia em populações diversificadas. A ausência de dados sobre toxicidade ou reações alérgicas nas espículas também representa uma lacuna a ser preenchida. Futuras pesquisas devem explorar a escalabilidade da produção das SHS e comparar o sistema com outras tecnologias de microagulhas, como microneedles dissolvíveis ou de silicone, para estabelecer seu posicionamento no mercado de health-tech. O trabalho abre caminho para aplicações além da lidocaína, potencialmente expandindo o uso de anestésicos tópicos em contextos clínicos e estéticos.\n\n---\n\n**English version**\n\nA novel lidocaine topical delivery system using biological microneedles derived from marine sponges has shown promise in overcoming key limitations of conventional local anesthesia, such as poor skin permeability and delayed onset of action. Published in *Drug Delivery and Translational Research*, the study explored the use of *Haliclona sp.* spicules (SHS) embedded in a Carbomer gel to create microchannels in the skin, enhancing transdermal absorption of the anesthetic. In *in vitro* experiments, the SHS system increased total lidocaine absorption nearly tenfold (78.45 ± 6.96%) and enabled 97.5% of the drug to penetrate deeper skin layers, including the dermis and receptor compartments. In *in vivo* tests, the SHS-lidocaine combination achieved maximum anesthetic effect within just 10 minutes — significantly faster than traditional topical applications. A pilot clinical trial confirmed that the SHS-Carbomer gel system halved the onset time of lidocaine and prolonged its duration, though the exact extent of this prolongation was not specified in the publication.\n\nThe findings suggest the approach could eliminate the need for injections in minimally invasive dermatological or cosmetic procedures, reducing patient discomfort and needle-related risks. However, further studies are required to validate safety across diverse skin types, assess potential local adverse effects, and determine efficacy in varied populations. The absence of data on spicule toxicity or allergic reactions also remains a critical gap. Future research should investigate the scalability of SHS production and compare the system with other microneedle technologies, such as dissolvable or silicone-based microneedles, to establish its market positioning in health-tech. This work paves the way for broader applications beyond lidocaine, potentially expanding the use of topical anesthetics in clinical and aesthetic settings.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41402578",
-    "authors": [
-      {
-        "name": "Chi Zhang",
-        "affiliation": "Department of Marine Biological Science &amp; Technology, College of Ocean &amp; Earth Sciences, Xiamen University, Xiamen, 361102, China."
-      },
-      {
-        "name": "Ping Yang",
-        "affiliation": "State-Province Joint Engineering Laboratory of Marine Bioproducts and Technology, Xiamen University, Xiamen, 361102, China."
-      },
-      {
-        "name": "Xueke Lin",
-        "affiliation": "Pingtan Research Institute of Xiamen University, Pingtan, 350400, China."
-      },
-      {
-        "name": "Huijung Lai",
-        "affiliation": "Department of Marine Biological Science &amp; Technology, College of Ocean &amp; Earth Sciences, Xiamen University, Xiamen, 361102, China."
-      }
-    ],
-    "journal": "Drug delivery and translational research",
-    "publishedDate": "2026-07-08",
-    "fetchedDate": "2026-07-08",
-    "category": "Farmacologia",
-    "tags": [
-      "rna",
-      "drug",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
