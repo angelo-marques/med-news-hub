@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42854402",
+    "pmid": "42854402",
+    "doi": "10.1016/j.jocn.2026.112331",
+    "title": "Perceptions of decompressive craniectomy following endovascular thrombectomy in the Middle East and North Africa: A multi-specialty cross-sectional survey of attitudes, reported practices, and barriers.",
+    "titlePt": "Perceptions of decompressive craniectomy following endovascular thrombectomy in the Middle East and North Africa: A multi-specialty cross-sectional survey of attitudes, reported practices, and barriers.",
+    "abstract": "Decompressive craniectomy (DC) can be a life-saving rescue therapy for malignant cerebral edema after endovascular thrombectomy (EVT), yet DC practices following EVT have not previously been examined across the Middle East and North Africa (MENA). We conducted a web-based, bilingual (English/Arabic) cross-sectional survey of physicians involved in acute stroke care across 15 MENA countries (January-March 2025) using a 22-item instrument that underwent expert content-validity review (S-CVI/UA&#xa0;=&#xa0;0.86) and cognitive-interview pilot testing, to describe self-reported attitudes, perceived practices, and barriers regarding DC after EVT, and to determine whether key findings remained consistent among clinicians with the most direct relevant experience. Of 440 physicians invited, 179 responded; five respondents from zero-EVT-volume institutions were excluded, yielding an analytic cohort of 174 (response rate 41%) from 13 countries, of whom 49% (n&#xa0;=&#xa0;85) were neurosurgeons. E",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42854402",
+    "authors": [
+      {
+        "name": "Ossama Yassin Mansour",
+        "affiliation": "Stroke and Neurointervention Center, Alexandria University, Alexandria, Egypt. Electronic address: yassinossama@yahoo.com."
+      },
+      {
+        "name": "Tamer Hassan",
+        "affiliation": "Stroke and Neurointervention Center, Alexandria University, Alexandria, Egypt."
+      },
+      {
+        "name": "Hosam Maher Al-Jehani",
+        "affiliation": "Department of Neurosurgery, Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia."
+      },
+      {
+        "name": "Yahia Imam",
+        "affiliation": "Neurology Section, Hamad Medical Corporation, Doha, Qatar."
+      }
+    ],
+    "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+    "publishedDate": "2026-10-09",
+    "fetchedDate": "2026-10-10",
+    "category": "Neurologia",
+    "tags": [
+      "stroke",
+      "cognitive"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4dt3ZE-2kFHot-a483af8cff4ead26\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 62c1ed4f-2048-4862-8488-34313aee6fed)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-41044465",
     "pmid": "41044465",
     "doi": "10.1111/aos.70002",
@@ -12473,49 +12514,5 @@
     "readTime": 4,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozZrvTk-2kFHot-a384f7bbee12d133\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42419876",
-    "pmid": "42419876",
-    "doi": "10.1136/openhrt-2026-004137",
-    "title": "Sex-disaggregated data in hypertrophic cardiomyopathy: a targeted literature review, meta-analysis and primary cohort study.",
-    "titlePt": "Sex-disaggregated data in hypertrophic cardiomyopathy: a targeted literature review, meta-analysis and primary cohort study.",
-    "abstract": "Hypertrophic cardiomyopathy (HCM) is the most common inherited cardiomyopathy characterised by pathological left ventricular hypertrophy and categorised into obstructive and non-obstructive subtypes. While its autosomal dominant inheritance pattern would suggest similar prevalence, emerging evidence suggests sex-based physiological differences in presentation, progression and outcomes. We sought to better understand these differences in the literature and among our own cohort of patients with HCM. A targeted literature review (TLR) of MEDLINE and Web of Science, and subsequent meta-analysis of NT-proBNP captured sex-disaggregated echocardiographic and cardiac MRI values, genetic mutation effects, biomarker levels and outcomes. A retrospective study of patients diagnosed with HCM at University Hospitals Coventry and Warwickshire NHS Trust, UK between January 2007 and January 2025 examined sex-based differences in presentation, diagnosis and outcomes in HCM. The TLR found that females we",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recentemente publicado no *Open Heart* investiga as diferenças baseadas em sexo em pacientes com cardiomiopatia hipertrófica (CMH), a doença cardíaca hereditária mais comum, marcada por hipertrofia ventricular esquerda patológica. Embora a herança autossômica dominante sugira uma prevalência semelhante entre homens e mulheres, evidências emergentes apontam para disparidades fisiológicas, clínicas e prognósticas entre os sexos.\n\nA pesquisa combinou uma revisão sistemática direcionada — analisando dados do MEDLINE e Web of Science — com uma meta-análise de níveis de NT-proBNP, além de um estudo de coorte retrospectivo conduzido no *University Hospitals Coventry and Warwickshire NHS Trust*, no Reino Unido, entre janeiro de 2007 e janeiro de 2025. Os resultados preliminares da revisão indicam que mulheres com CMH apresentam não apenas apresentações clínicas distintas, mas também diferenças em marcadores bioquímicos, achados de imagem e desfechos. Contudo, o estudo não especifica os valores exatos ou magnitudes das diferenças encontradas, nem detalha o número de pacientes incluídos na coorte primária ou na meta-análise.\n\nAs implicações clínicas desses achados são relevantes, uma vez que podem influenciar estratégias de diagnóstico precoce, estratificação de risco e abordagens terapêuticas personalizadas. No entanto, o trabalho não aborda possíveis vieses de seleção nos dados da coorte ou limitações metodológicas da revisão sistemática. Além disso, não foram fornecidas informações sobre a distribuição de subtipos obstrutivos e não obstrutivos entre os sexos, fator crucial para a interpretação dos resultados.\n\nOs próximos passos incluem a validação desses achados em coortes maiores e mais diversificadas, bem como a investigação de mecanismos fisiopatológicos subjacentes às diferenças sexuais na CMH. A integração de dados de imagem avançada e genética, conforme sugerido pelo estudo, poderá aprimorar a compreensão da doença e guiar intervenções mais precisas.\n\n---\n\n**English version**\n\nA study published in *Open Heart* examines sex-based differences in hypertrophic cardiomyopathy (HCM), the most common inherited cardiac disorder, characterized by pathological left ventricular hypertrophy. While autosomal dominant inheritance suggests similar prevalence across sexes, emerging evidence indicates physiological, clinical, and prognostic disparities between men and women with HCM.\n\nThe research integrates a targeted literature review—analyzing data from MEDLINE and Web of Science—with a meta-analysis of NT-proBNP levels and a retrospective cohort study conducted at *University Hospitals Coventry and Warwickshire NHS Trust*, UK, between January 2007 and January 2025. Preliminary findings from the review suggest that women with HCM exhibit distinct clinical presentations, differences in biomarker levels, imaging findings, and outcomes. However, the study does not specify exact values, effect sizes, or the number of patients included in either the meta-analysis or the primary cohort.\n\nThe clinical implications of these findings are significant, as they may inform strategies for early diagnosis, risk stratification, and personalized therapeutic approaches. Yet, the study does not address potential selection biases in the cohort data or methodological limitations of the systematic review. Additionally, no details are provided regarding the distribution of obstructive versus non-obstructive subtypes between sexes, a critical factor for interpreting the results.\n\nNext steps include validating these findings in larger, more diverse cohorts and investigating the underlying pathophysiological mechanisms driving sex-based differences in HCM. Further integration of advanced imaging and genetic data, as suggested by the study, could enhance disease understanding and guide more precise interventions.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42419876",
-    "authors": [
-      {
-        "name": "Ven Gee Lim",
-        "affiliation": "Institute for Cardio-Metabolic Medicine (ICMM), University Hospitals Coventry and Warwickshire NHS Trust, Coventry, England, UK."
-      },
-      {
-        "name": "Maria Kokara",
-        "affiliation": "Cardiology, University Hospitals Coventry and Warwickshire NHS Trust, Coventry, UK."
-      },
-      {
-        "name": "Ayisatu Jarrett",
-        "affiliation": "Department of Life Sciences, Warwick Medical School, University of Warwick, Coventry, UK."
-      },
-      {
-        "name": "Abeesh Panicker",
-        "affiliation": "Centre for Health &amp; Life Sciences, Coventry University, Coventry, UK."
-      }
-    ],
-    "journal": "Open heart",
-    "publishedDate": "2026-07-08",
-    "fetchedDate": "2026-07-09",
-    "category": "Genômica",
-    "tags": [
-      "cardiac",
-      "genetic",
-      "gene",
-      "mutation"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
