@@ -1,5 +1,45 @@
 [
   {
+    "id": "pubmed-41044465",
+    "pmid": "41044465",
+    "doi": "10.1111/aos.70002",
+    "title": "Long-term results of conservative and surgical treatment of congenital x-linked retinoschisis: A retrospective multicentre international study.",
+    "titlePt": "Long-term results of conservative and surgical treatment of congenital x-linked retinoschisis: A retrospective multicentre international study.",
+    "abstract": "To evaluate the demographic and clinical characteristics, treatment indications, long-term outcomes and prognostic factors in patients with congenital x-linked retinoschisis (CXLR) managed conservatively or surgically. This retrospective, international, multicentre study included data from retina specialists across 14 centres in 9 countries. Demographic information, best corrected visual acuity (BCVA), phenotype, optical coherence tomography (OCT) findings and disease management were analysed. Surgical indications, techniques and anatomical and visual outcomes were evaluated. A total of 635 eyes of 318 patients were included. Median age at presentation was 9&#x2009;years (range: 0-81). Observation was preferred in 73.5% of eyes, laser photocoagulation (LPC) in 9.3% and vitreoretinal surgery in 18.1%. Surgical patients presented younger (7 vs. 10&#x2009;years; p&#x2009;=&#x2009;0.002) and with worse baseline BCVA (1.50 vs. 0.50 LogMAR; p&#x2009;&lt;&#x2009;0.0001). Disease symmetry was ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41044465",
+    "authors": [
+      {
+        "name": "&#x15e;eng&#xfc;l &#xd6;zdek",
+        "affiliation": "Department of Ophthalmology, Gazi University, Ankara, T&#xfc;rkiye."
+      },
+      {
+        "name": "H&#xfc;seyin Baran &#xd6;zdemir",
+        "affiliation": "Department of Ophthalmology, Gazi University, Ankara, T&#xfc;rkiye."
+      },
+      {
+        "name": "Muna Bhende",
+        "affiliation": "Shri Bhagwan Mahavir Vitreoretinal Service, Medical Research Foundation, Sankara Nethralaya, Chennai, India."
+      },
+      {
+        "name": "Pramod Bhende",
+        "affiliation": "Shri Bhagwan Mahavir Vitreoretinal Service, Medical Research Foundation, Sankara Nethralaya, Chennai, India."
+      }
+    ],
+    "journal": "Acta ophthalmologica",
+    "publishedDate": "2026-10-09",
+    "fetchedDate": "2026-10-10",
+    "category": "Genômica",
+    "tags": [
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4cCwAC-2kFHot-a481e0f7f86be5ef\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 9dccffa3-e1af-45c5-bc6a-4eb6c9a394d4)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42850673",
     "pmid": "42850673",
     "doi": "10.1186/s40959-026-00588-7",
@@ -12475,48 +12515,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42295865",
-    "pmid": "42295865",
-    "doi": "10.1093/geront/gnag135",
-    "title": "From ambient assistance to data-driven precision in AI-enabled Alzheimer's care (2004-2025): a bibliometric perspective.",
-    "titlePt": "From ambient assistance to data-driven precision in AI-enabled Alzheimer's care (2004-2025): a bibliometric perspective.",
-    "abstract": "Population aging and the rising prevalence of Alzheimer's disease and related dementias (AD/ADRD) have created an urgent need for innovative care solutions. Artificial intelligence (AI) has emerged as a critical tool, yet a macro-level quantitative analysis of its evolutionary trajectory in geriatric care remains scarce. This study conducts a comprehensive bibliometric analysis to map the knowledge domain of AI-empowered geriatric care for AD/ADRD from 2004 to 2025, elucidating spatial distributions, evolutionary trajectories, and emerging research frontiers. A total of 1,197 eligible records were retrieved from the Web of Science Core Collection. Bibliometric analyses including co-occurrence networks, burst detection, and thematic evolution were conducted utilizing CiteSpace, VOSviewer, and the Bibliometrix R package. The 1,197 documents (402 sources; 7,268 authors) show an annual growth rate of 30.36%, peaking at 262 publications in 2025. The United States (242 articles; 6,640 citati",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nA inteligência artificial (IA) tem se consolidado como uma ferramenta fundamental na gestão de doenças neurodegenerativas, especialmente o Alzheimer e demências relacionadas (DA/DARD), diante do envelhecimento populacional e da crescente demanda por cuidados especializados. Um estudo recente publicado na *Gerontologist* mapeou a evolução da pesquisa nessa área entre 2004 e 2025, revelando um crescimento exponencial e identificando tendências globais. Com base em 1.197 registros indexados na *Web of Science Core Collection*, a análise bibliométrica — conduzida com ferramentas como CiteSpace, VOSviewer e o pacote *Bibliometrix* do R — destacou a distribuição geográfica, redes de colaboração e frentes emergentes de pesquisa.\n\nOs dados mostram um ritmo acelerado de publicações, com taxa anual de crescimento de 30,36% e pico de 262 artigos em 2025. Os Estados Unidos lideram a produção científica (242 artigos; 6.640 citações), seguidos por China e Reino Unido, enquanto a colaboração internacional se concentra em redes temáticas como *machine learning* para diagnóstico precoce, sistemas de monitoramento ambulatorial e personalização de terapias. Entre as abordagens mais citadas estão modelos preditivos baseados em dados clínicos e neuroimagem, além de algoritmos de processamento de linguagem natural para análise de sintomas comportamentais.\n\nDo ponto de vista clínico, os achados sugerem um deslocamento do foco tradicional em assistência passiva para soluções baseadas em dados, com potencial para reduzir custos operacionais e melhorar a precisão diagnóstica. No entanto, a revisão aponta como limitações a heterogeneidade dos conjuntos de dados utilizados nos estudos e a falta de padronização metodológica, o que pode comprometer a reprodutibilidade dos resultados. Além disso, não foram informados detalhes sobre a validação prospectiva desses modelos em cenários reais ou sua integração com sistemas de saúde pública.\n\nComo próximos passos, os autores destacam a necessidade de estudos longitudinais que validem algoritmos em populações diversificadas e a criação de frameworks éticos para o uso de IA em geriatria, especialmente no que tange à privacidade de dados e viés algorítmico. A pesquisa também sugere que a colaboração entre centros acadêmicos e indústrias de *health-tech* pode acelerar a translação clínica de ferramentas baseadas em IA, embora os mecanismos de financiamento e transferência de tecnologia não tenham sido detalhados no artigo.\n\n---\n\n**English version**\n\nArtificial intelligence (AI) has become a cornerstone in managing neurodegenerative diseases, particularly Alzheimer’s disease and related dementias (AD/ADRD), amid global population aging and the rising demand for specialized care. A recent study published in *The Gerontologist* mapped the evolution of research in this field from 2004 to 2025, revealing exponential growth and identifying key global trends. Based on 1,197 records indexed in the *Web of Science Core Collection*, the bibliometric analysis—conducted using tools such as CiteSpace, VOSviewer, and the *Bibliometrix* R package—highlighted geographical distribution, collaboration networks, and emerging research frontiers.\n\nThe data indicate a rapid acceleration in publications, with an annual growth rate of 30.36% and a peak of 262 articles in 2025. The United States leads scientific output (242 articles; 6,640 citations), followed by China and the United Kingdom, while international collaboration focuses on thematic networks such as *machine learning* for early diagnosis, ambulatory monitoring systems, and personalized therapies. Among the most cited approaches are predictive models leveraging clinical data and neuroimaging, alongside natural language processing algorithms for analyzing behavioral symptoms.\n\nFrom a clinical standpoint, the findings suggest a shift from traditional passive assistance to data-driven solutions, with potential to reduce operational costs and improve diagnostic accuracy. However, the review highlights limitations, including the heterogeneity of datasets used in studies and a lack of methodological standardization, which may compromise result reproducibility. Additionally, no details were provided on the prospective validation of these models in real-world settings or their integration with public health systems.\n\nLooking ahead, the authors emphasize the need for longitudinal studies to validate algorithms across diverse populations and the development of ethical frameworks for AI deployment in geriatrics, particularly concerning data privacy and algorithmic bias. The research also suggests that collaboration between academic centers and health-tech industries could expedite the clinical translation of AI-based tools, though funding mechanisms and technology transfer processes were not detailed in the paper.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42295865",
-    "authors": [
-      {
-        "name": "Bingnan Du",
-        "affiliation": "School of Health Management, China Medical University, Shenyang, Liaoning Province, 110122, P.R. China."
-      },
-      {
-        "name": "Qi Li",
-        "affiliation": "School of Health Management, China Medical University, Shenyang, Liaoning Province, 110122, P.R. China."
-      },
-      {
-        "name": "Xueying Li",
-        "affiliation": "School of Health Management, China Medical University, Shenyang, Liaoning Province, 110122, P.R. China."
-      },
-      {
-        "name": "Xiaoxi Liu",
-        "affiliation": "School of Health Management, China Medical University, Shenyang, Liaoning Province, 110122, P.R. China."
-      }
-    ],
-    "journal": "The Gerontologist",
-    "publishedDate": "2026-07-08",
-    "fetchedDate": "2026-07-09",
-    "category": "Neurologia",
-    "tags": [
-      "alzheimer",
-      "dementia"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
