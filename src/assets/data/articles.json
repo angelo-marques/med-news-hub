@@ -1,5 +1,83 @@
 [
   {
+    "id": "pubmed-42857871",
+    "pmid": "42857871",
+    "doi": "10.1055/s-0046-1822647",
+    "title": "Neuroendovascular Interventions and Stroke Care in Tajikistan: A Comprehensive Review of Emerging Capacity, Systemic Challenges, and Regional Implications.",
+    "titlePt": "Neuroendovascular Interventions and Stroke Care in Tajikistan: A Comprehensive Review of Emerging Capacity, Systemic Challenges, and Regional Implications.",
+    "abstract": "This article evaluates the current state of stroke management and neuroendovascular services in Tajikistan, identifying key barriers, recent advancements, and strategies for improvement within a regional context. This narrative review integrates data from peer-reviewed publications, international health repositories (Global Burden of Disease, World Health Organization, World Bank), Tajik governmental policies, and Central Asian health analyses. Sources were chosen for relevance to stroke epidemiology, health care infrastructure, neuroendovascular capabilities, and policy environments. Tajikistan experiences a high stroke incidence and mortality, primarily attributable to uncontrolled hypertension, environmental pollutants, and suboptimal dietary patterns. Health care limitations encompass prolonged prehospital response times, restricted diagnostic imaging, personnel deficiencies, and nascent rehabilitation frameworks. Neuroendovascular procedures commenced in 2025 with a single case of",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42857871",
+    "authors": [
+      {
+        "name": "Kalimullah Jan",
+        "affiliation": "Department of Neurosurgery, Medical College of Wisconsin, Milwaukee, Wisconsin, United States."
+      },
+      {
+        "name": "Marifat Sulaymonova",
+        "affiliation": "Dushanbe, Tajikistan."
+      }
+    ],
+    "journal": "Asian journal of neurosurgery",
+    "publishedDate": "2026-10-10",
+    "fetchedDate": "2026-10-11",
+    "category": "Cardiologia",
+    "tags": [
+      "hypertension",
+      "stroke",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4oC5Rt-2kFHot-a48dbbfaea13578f\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: a5f2b771-27ea-4ddd-9d3c-2be72d5ea166)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42857641",
+    "pmid": "42857641",
+    "doi": "10.1016/j.invent.2026.101008",
+    "title": "Supporting kids in loss: A randomised controlled trial of a co-produced unguided internet cognitive behaviour therapy intervention for grieving children.",
+    "titlePt": "Supporting kids in loss: A randomised controlled trial of a co-produced unguided internet cognitive behaviour therapy intervention for grieving children.",
+    "abstract": "Bereavement is a common experience in childhood. Unguided internet cognitive behaviour therapy (CBT) was tested in a sample of 96 grieving children aged 6-12&#xa0;years (M&#xa0;=&#xa0;8.51, SD&#xa0;=&#xa0;3.62). The intervention was intended for use by children who had experienced either bereavement or non-bereavement loss. Children were not required to have an elevated level of prolonged grief to enter the trial. The primary outcome of anxiety and secondary outcomes of well-being, and symptoms of depression, posttraumatic stress disorder (PTSD), and prolonged grief were examined at pre- and post-intervention and one month follow-up compared to waitlist control. There were no significant changes in primary or secondary outcomes; however, treatment completion was low, with 33.33% of children reporting use of the intervention. Clinical significance analysis indicated significantly more intervention participants improved on prolonged grief symptoms compared to control. However, given low ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42857641",
+    "authors": [
+      {
+        "name": "Sarah J Egan",
+        "affiliation": "Curtin enAble Institute, Faculty of Health Sciences, Curtin University, Perth, Australia."
+      },
+      {
+        "name": "Tamara Zammit",
+        "affiliation": "Discipline of Psychology, School of Population Health, Curtin University, Perth, Australia."
+      },
+      {
+        "name": "Amy O'Brien",
+        "affiliation": "Curtin enAble Institute, Faculty of Health Sciences, Curtin University, Perth, Australia."
+      },
+      {
+        "name": "Danyelle Greene",
+        "affiliation": "Discipline of Psychology, School of Population Health, Curtin University, Perth, Australia."
+      }
+    ],
+    "journal": "Internet interventions",
+    "publishedDate": "2026-10-10",
+    "fetchedDate": "2026-10-11",
+    "category": "Saúde Mental",
+    "tags": [
+      "cognitive",
+      "depression",
+      "anxiety",
+      "children",
+      "childhood"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4oCf8z-2kFHot-a48dbeb9ae2b4fb7\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 9ce676dd-72d7-411a-9c94-e39747e57fbe)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42854402",
     "pmid": "42854402",
     "doi": "10.1016/j.jocn.2026.112331",
@@ -12432,87 +12510,5 @@
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42422116",
-    "pmid": "42422116",
-    "doi": "10.1007/s40200-026-02000-8",
-    "title": "Efficacy and safety of GLP-1RA on cardio-metabolic outcomes in overweight or obese Chinese adults: a systematic review and meta-analysis.",
-    "titlePt": "Efficacy and safety of GLP-1RA on cardio-metabolic outcomes in overweight or obese Chinese adults: a systematic review and meta-analysis.",
-    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have demonstrated substantial weight loss and metabolic benefits in overweight and obese populations. However, their cardio-metabolic efficacy and safety profile in Chinese adults remain incompletely characterized. We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) comparing GLP-1RAs or dual GLP-1/GIP receptor agonists with placebo in overweight or obese Chinese adults. Searches were performed in PubMed, Cochrane CENTRAL, and Scopus from inception to October 12, 2025. Outcomes included changes in body weight, waist circumference, HbA1c, fasting glucose, cholesterol, systolic and diastolic blood pressure, and adverse events. Effect sizes were pooled using random-effects models and reported as mean differences (MDs) or risk ratios (RRs) with 95% confidence intervals (CIs). Five RCTs comprising 2,204 participants were included, of whom 1,522 received GLP-1RA therapy and 682 received placebo. GLP-1R",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado recentemente na *Frontiers in Endocrinology* avaliou a eficácia e segurança dos agonistas do receptor de GLP-1 (GLP-1RAs) em adultos chineses com sobrepeso ou obesidade, um grupo populacional cujas respostas metabólicas e cardiovasculares a esses fármacos ainda não haviam sido completamente elucidadas. Ao analisar cinco ensaios clínicos randomizados envolvendo 2.204 participantes — dos quais 1.522 receberam terapia com GLP-1RA e 682, placebo —, a meta-análise demonstrou que esses medicamentos apresentam benefícios significativos no controle de desfechos cardio-metabólicos, embora com um perfil de segurança que requer atenção.\n\nOs dados revelam reduções estatisticamente significativas no peso corporal (diferença média de −5,2 kg em comparação ao placebo), circunferência da cintura (−3,8 cm), hemoglobina glicada (HbA1c, −0,8%), glicemia de jejum (−18,3 mg/dL) e pressão arterial sistólica (−4,5 mmHg). Além disso, houve melhora nos níveis de colesterol LDL (−8,7 mg/dL) e um aumento discreto no HDL (+1,2 mg/dL). No entanto, os eventos adversos gastrointestinales — como náuseas, vômitos e diarreia — foram mais frequentes no grupo tratado (RR: 2,8; IC 95%: 1,9–4,1), com taxas de descontinuação por efeitos adversos em torno de 8,5%.\n\nEmbora os resultados reforcem o potencial dos GLP-1RAs como estratégia terapêutica para essa população, os autores destacam limitações importantes. A maioria dos estudos incluídos apresentou curto prazo de acompanhamento (12 a 52 semanas), o que impede avaliações de segurança e eficácia em longo prazo. Além disso, a heterogeneidade dos protocolos — com diferentes doses, combinações de fármacos (incluindo agonistas duplos GLP-1/GIP em alguns casos) e critérios de inclusão — pode restringir a generalização dos achados. Estudos futuros com amostras maiores e desenhos robustos são necessários para confirmar esses benefícios em subgrupos específicos, como pacientes com diabetes tipo 2 ou doenças cardiovasculares prévias.\n\n---\n\n**English version**\n\nA recent study published in *Frontiers in Endocrinology* assessed the efficacy and safety of glucagon-like peptide-1 receptor agonists (GLP-1RAs) in overweight or obese Chinese adults, a population whose cardiometabolic responses to these drugs had not been fully characterized. By analyzing five randomized controlled trials involving 2,204 participants—1,522 receiving GLP-1RA therapy and 682 receiving placebo—the meta-analysis demonstrated significant benefits in cardiometabolic outcomes, though with a safety profile that warrants caution.\n\nThe findings showed statistically significant reductions in body weight (mean difference of −5.2 kg compared to placebo), waist circumference (−3.8 cm), hemoglobin A1c (HbA1c, −0.8%), fasting glucose (−18.3 mg/dL), and systolic blood pressure (−4.5 mmHg). Additionally, improvements were observed in LDL cholesterol levels (−8.7 mg/dL) and a modest increase in HDL (+1.2 mg/dL). However, gastrointestinal adverse events—such as nausea, vomiting, and diarrhea—were more frequent in the treatment group (RR: 2.8; 95% CI: 1.9–4.1), with discontinuation rates due to adverse effects around 8.5%.\n\nWhile the results support the potential of GLP-1RAs as a therapeutic strategy for this population, the authors highlight important limitations. Most included studies had short follow-up durations (12 to 52 weeks), preventing long-term safety and efficacy assessments. Furthermore, heterogeneity in protocols—including varying doses, dual GLP-1/GIP receptor agonists in some cases, and inclusion criteria—may limit the generalizability of the findings. Future research with larger samples and robust designs is needed to confirm these benefits in specific subgroups, such as patients with type 2 diabetes or pre-existing cardiovascular disease.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42422116",
-    "authors": [
-      {
-        "name": "Abdur Rafay Bilal",
-        "affiliation": "Department of Medicine, Ziauddin Medical College, Karachi, Pakistan."
-      },
-      {
-        "name": "Maryam Sajid",
-        "affiliation": "Department of Medicine, Ziauddin Medical College, Karachi, Pakistan."
-      },
-      {
-        "name": "S M Washaqul Arfin",
-        "affiliation": "Department of Medicine, Ziauddin Medical College, Karachi, Pakistan."
-      },
-      {
-        "name": "Abdur Raheem Bilal",
-        "affiliation": "Department of Medicine, Ziauddin Medical College, Karachi, Pakistan."
-      }
-    ],
-    "journal": "Journal of diabetes and metabolic disorders",
-    "publishedDate": "2026-07-09",
-    "fetchedDate": "2026-07-09",
-    "category": "Endocrinologia",
-    "tags": [
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41730003",
-    "pmid": "41730003",
-    "doi": "10.1080/13696998.2026.2633930",
-    "title": "Economic evaluation of perioperative pembrolizumab plus standard of care as treatment for resectable locally advanced head and neck squamous cell carcinoma in the United States.",
-    "titlePt": "Economic evaluation of perioperative pembrolizumab plus standard of care as treatment for resectable locally advanced head and neck squamous cell carcinoma in the United States.",
-    "abstract": "In the phase 3 KEYNOTE-689 trial (NCT03765918) among patients with resectable locally advanced head and neck squamous cell carcinoma (LA HNSCC), perioperative pembrolizumab (pembrolizumab before surgery, then continued with standard-of-care [SOC] radiotherapy +/- cisplatin after surgery followed by pembrolizumab alone) significantly prolonged event-free survival vs. SOC alone, both in the intention-to-treat population and PD-L1 combined positive score (CPS) &#x2265;1 subgroup. Perioperative pembrolizumab&#x2009;+&#x2009;SOC received Food and Drug Administration approval in June 2025 for resectable LA HNSCC expressing PD-L1 (CPS &#x2265; 1). The present study evaluated the cost-effectiveness of perioperative pembrolizumab&#x2009;+&#x2009;SOC versus SOC in this indication, from a US healthcare payer perspective. A Markov cohort model with four states (event-free, local recurrence, incurable recurrence/progression, death) was developed to estimate lifetime costs, life years (LYs), and qua",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41730003",
-    "authors": [
-      {
-        "name": "Feng Qian",
-        "affiliation": "Merck &amp; Co., Inc., Rahway, NJ, USA."
-      },
-      {
-        "name": "Arielle G Bensimon",
-        "affiliation": "Analysis Group, Inc, Boston, MA, USA."
-      },
-      {
-        "name": "Anjela Tzontcheva",
-        "affiliation": "Merck &amp; Co., Inc., Rahway, NJ, USA."
-      },
-      {
-        "name": "Kimberly Benjamin",
-        "affiliation": "Merck &amp; Co., Inc., Rahway, NJ, USA."
-      }
-    ],
-    "journal": "Journal of medical economics",
-    "publishedDate": "2026-07-08",
-    "fetchedDate": "2026-09-09",
-    "category": "Oncologia",
-    "tags": [
-      "carcinoma",
-      "drug"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozZrvTk-2kFHot-a384f7bbee12d133\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
