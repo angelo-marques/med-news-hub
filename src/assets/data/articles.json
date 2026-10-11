@@ -12299,6 +12299,46 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42422116",
+    "pmid": "42422116",
+    "doi": "10.1007/s40200-026-02000-8",
+    "title": "Efficacy and safety of GLP-1RA on cardio-metabolic outcomes in overweight or obese Chinese adults: a systematic review and meta-analysis.",
+    "titlePt": "Efficacy and safety of GLP-1RA on cardio-metabolic outcomes in overweight or obese Chinese adults: a systematic review and meta-analysis.",
+    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have demonstrated substantial weight loss and metabolic benefits in overweight and obese populations. However, their cardio-metabolic efficacy and safety profile in Chinese adults remain incompletely characterized. We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) comparing GLP-1RAs or dual GLP-1/GIP receptor agonists with placebo in overweight or obese Chinese adults. Searches were performed in PubMed, Cochrane CENTRAL, and Scopus from inception to October 12, 2025. Outcomes included changes in body weight, waist circumference, HbA1c, fasting glucose, cholesterol, systolic and diastolic blood pressure, and adverse events. Effect sizes were pooled using random-effects models and reported as mean differences (MDs) or risk ratios (RRs) with 95% confidence intervals (CIs). Five RCTs comprising 2,204 participants were included, of whom 1,522 received GLP-1RA therapy and 682 received placebo. GLP-1R",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42422116",
+    "authors": [
+      {
+        "name": "Abdur Rafay Bilal",
+        "affiliation": "Department of Medicine, Ziauddin Medical College, Karachi, Pakistan."
+      },
+      {
+        "name": "Maryam Sajid",
+        "affiliation": "Department of Medicine, Ziauddin Medical College, Karachi, Pakistan."
+      },
+      {
+        "name": "S M Washaqul Arfin",
+        "affiliation": "Department of Medicine, Ziauddin Medical College, Karachi, Pakistan."
+      },
+      {
+        "name": "Abdur Raheem Bilal",
+        "affiliation": "Department of Medicine, Ziauddin Medical College, Karachi, Pakistan."
+      }
+    ],
+    "journal": "Journal of diabetes and metabolic disorders",
+    "publishedDate": "2026-07-09",
+    "fetchedDate": "2026-10-11",
+    "category": "Endocrinologia",
+    "tags": [
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4pG1Mj-2kFHot-a48ee2fbbc82b6a5\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 8c1fe208-18aa-448e-8fbe-71fb8579686b)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42426543",
     "pmid": "42426543",
     "doi": "10.1007/s12011-026-05218-y",
@@ -12465,49 +12505,6 @@
     ],
     "isHighlight": false,
     "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42421820",
-    "pmid": "42421820",
-    "doi": "10.1002/trc2.70291",
-    "title": "The Indiana University Brain Health Program to deliver amyloid-targeted therapy to Alzheimer's disease patients.",
-    "titlePt": "The Indiana University Brain Health Program to deliver amyloid-targeted therapy to Alzheimer's disease patients.",
-    "abstract": "The Indiana University Brain Health Program was developed to support safe implementation of amyloid-targeting therapies (ATTs) for early Alzheimer's disease (AD). We established Neurology Brain Health Navigators (neuroBHNs) to extend our Brain Health Navigator model into specialty care. NeuroBHNs pre-screen patients for ATT eligibility, coordinate biomarker and imaging evaluation, provide structured education, and guide treatment initiation and monitoring. The program includes a dedicated social worker and insurance pre-authorization specialist to streamline infusion access. Blood pressure is monitored at each visit, and infusions are deferred if readings exceed 140/90&#xa0;mmHg. Through December 16, 2025, 243 patients initiated lecanemab therapy. Apolipoprotein E (APOE) &#x3b5;4 homozygotes were not excluded; 74% of treated patients carried at least one Apo&#x3b5;4 allele. The ARIA rate was 13.2%, and 40% of patients experienced infusion-related reactions. A navigator-centered model c",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nO programa de Saúde Cerebral da Universidade de Indiana (IU Brain Health Program) foi estruturado para viabilizar a implementação segura de terapias direcionadas à amiloide em pacientes com doença de Alzheimer (DA) em fase inicial. Com base em um modelo adaptado de navegação em saúde cerebral, a iniciativa introduziu os *Neurology Brain Health Navigators* (neuroBHNs), profissionais responsáveis por pré-triagem da elegibilidade para tais terapias, coordenação de exames de biomarcadores e imagem, educação estruturada aos pacientes e acompanhamento durante o início e monitoramento do tratamento. O programa conta ainda com um assistente social e um especialista em pré-autorização de seguros para agilizar o acesso a infusões, além de monitorar a pressão arterial em todas as visitas, adiando a administração do fármaco caso os valores ultrapassem 140/90 mmHg.\n\nAté 16 de dezembro de 2025, 243 pacientes haviam iniciado tratamento com lecanemabe, um anticorpo monoclonal anti-amiloide. Desses, 74% apresentavam pelo menos um alelo APOE ε4 — variante genética associada a maior risco e progressão mais rápida da DA —, sem que homozigotos fossem excluídos do estudo. A taxa de eventos adversos relacionados à amiloide (ARIA, na sigla em inglês) foi de 13,2%, enquanto reações infusionais ocorreram em 40% dos casos. Embora os resultados demonstrem a viabilidade de um modelo centrado em navegadores especializados, ainda não foram relatados dados sobre a eficácia clínica a longo prazo, como alterações no escore cognitivo ou funcional dos pacientes. Além disso, a ausência de um grupo controle limita inferências causais sobre os desfechos observados. Os autores destacam a necessidade de estudos prospectivos para validar a segurança e eficácia desse modelo em escala maior, bem como para avaliar seu impacto em desfechos relevantes para pacientes e sistemas de saúde.\n\n---\n\n**English version**\n\nThe Indiana University Brain Health Program was designed to facilitate the safe implementation of amyloid-targeting therapies (ATTs) for patients with early-stage Alzheimer’s disease (AD). Building on an established brain health navigation model, the initiative introduced *Neurology Brain Health Navigators* (neuroBHNs) to pre-screen patients for therapy eligibility, coordinate biomarker and imaging evaluations, provide structured patient education, and oversee treatment initiation and monitoring. The program integrates a dedicated social worker and an insurance pre-authorization specialist to streamline infusion access, alongside routine blood pressure monitoring at each visit—infusions are deferred if readings exceed 140/90 mmHg.\n\nAs of December 16, 2025, 243 patients had initiated lecanemab therapy, an anti-amyloid monoclonal antibody. Of these, 74% carried at least one APOE ε4 allele—a genetic variant linked to higher AD risk and faster disease progression—without excluding ε4 homozygotes. The amyloid-related imaging abnormality (ARIA) rate was 13.2%, while infusion-related reactions occurred in 40% of patients. While the findings demonstrate the feasibility of a navigator-centered care model, long-term clinical efficacy data—such as changes in cognitive or functional scores—were not reported. The absence of a control group further limits causal inferences about observed outcomes. The authors emphasize the need for prospective studies to validate the safety and efficacy of this model at scale and assess its impact on patient-centered and health system outcomes.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42421820",
-    "authors": [
-      {
-        "name": "Jared R Brosch",
-        "affiliation": "Indiana University School of Medicine Indianapolis Indiana USA."
-      },
-      {
-        "name": "Sophia Wang",
-        "affiliation": "Department of Neurology Indiana University School of Medicine Indianapolis Indiana USA."
-      },
-      {
-        "name": "Liana G Apostolova",
-        "affiliation": "Indiana University School of Medicine Indianapolis Indiana USA."
-      },
-      {
-        "name": "Atul Agarwal",
-        "affiliation": "Department of Psychiatry Indiana University School of Medicine Indianapolis Indiana USA."
-      }
-    ],
-    "journal": "Alzheimer's &amp; dementia (New York, N. Y.)",
-    "publishedDate": "2026-07-09",
-    "fetchedDate": "2026-07-09",
-    "category": "Neurologia",
-    "tags": [
-      "brain",
-      "alzheimer",
-      "neurology"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
