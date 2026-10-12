@@ -1,5 +1,74 @@
 [
   {
+    "id": "pubmed-42862130",
+    "pmid": "42862130",
+    "doi": "10.1016/j.jchf.2026.103493",
+    "title": "Implications of Serum Transthyretin to NT-proBNP Ratio in Transthyretin Amyloid Cardiomyopathy: Insights From ATTRibute-CM.",
+    "titlePt": "Implications of Serum Transthyretin to NT-proBNP Ratio in Transthyretin Amyloid Cardiomyopathy: Insights From ATTRibute-CM.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42862130",
+    "authors": [
+      {
+        "name": "Peder L Myhre",
+        "affiliation": "Department of Cardiology, Oslo University Hospital, Rikshospitalet, Oslo, Norway; K.G. Jebsen Center for Cardiac Biomarkers, Institute of Clinical Medicine, University of Oslo, Oslo, Norway."
+      },
+      {
+        "name": "Gillian Murtagh",
+        "affiliation": "BridgeBio Pharma, Inc, San Francisco, California, USA."
+      },
+      {
+        "name": "Hanna K Gaggin",
+        "affiliation": "Cardiology Division, Massachusetts General Hospital, Boston, Massachusetts, USA."
+      },
+      {
+        "name": "Prem Soman",
+        "affiliation": "Division of Cardiology, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA."
+      }
+    ],
+    "journal": "JACC. Heart failure",
+    "publishedDate": "2026-10-12",
+    "fetchedDate": "2026-10-12",
+    "category": "Farmacologia",
+    "tags": [],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4yxEXT-2kFHot-a49959234e76356a\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: d4a586f3-6d45-4327-b4d6-661aed4e8efa)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-40905768",
+    "pmid": "40905768",
+    "doi": "10.1177/08850666251346147",
+    "title": "State-of-the-art Neurointervention for Extended Window and Large Ischemic Core.",
+    "titlePt": "State-of-the-art Neurointervention for Extended Window and Large Ischemic Core.",
+    "abstract": "The implementation of endovascular therapy as a treatment for acute ischemic stroke has developed greatly in recent years. The primary trials demonstrated negative to mixed results, and it wasn't until the MR CLEAN trial that thrombectomy was established as a beneficial treatment. Since then, further studies have continued to provide additional data allowing for expansion of patient eligibility to receive such therapy. This manuscipt highlights the development and progression of the utilization of endovascular treatment in acute ischemic stroke.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40905768",
+    "authors": [
+      {
+        "name": "Kiwon Lee",
+        "affiliation": "Department of Neurology, Rutgers Robert Wood Johnson Medical School, Morristown, NJ."
+      },
+      {
+        "name": "Danielle Mahon",
+        "affiliation": "Comprehensive Stroke Center, Morristown, NJ."
+      }
+    ],
+    "journal": "Journal of intensive care medicine",
+    "publishedDate": "2026-10-12",
+    "fetchedDate": "2026-10-12",
+    "category": "Neurologia",
+    "tags": [
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4yxVLR-2kFHot-a4995a5ad99011fd\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: da41ad3b-ea58-45a8-92a0-c0f10dc04f66)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42857871",
     "pmid": "42857871",
     "doi": "10.1055/s-0046-1822647",
@@ -12419,92 +12488,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42425179",
-    "pmid": "42425179",
-    "doi": "10.1016/j.ijcard.2026.134666",
-    "title": "Loeffler's Endomyocarditis: Clinical characteristics and outcomes from a tertiary care centre registry.",
-    "titlePt": "Loeffler's Endomyocarditis: Clinical characteristics and outcomes from a tertiary care centre registry.",
-    "abstract": "Loeffler's endomyocarditis, the cardiac manifestation of hypereosinophilic syndrome, is characterized by eosinophilic myocardial infiltration and thrombus formation leading to restrictive cardiomyopathy. In a retrospective single-center registry, patients diagnosed with Loeffler's endomyocarditis between 2017 and 2025 were included. Clinical data, biomarkers, echocardiography, cardiac magnetic resonance imaging (CMR), and endomyocardial biopsies (n&#x202f;=&#x202f;8) were analyzed. Eighteen patients were included. Hierarchical clustering identified two patterns: an acute inflammatory form with elevated troponin T, C-reactive protein, fever, and subepicardial late gadolinium enhancement (LGE), and a subacute/chronic form with lower inflammatory activity, frequent ventricular thrombi, subendocardial LGE, and increased left atrial volume index. Peripheral eosinophilia was present in 61.1% of patients at any time of assessment. The vast majority of patients received corticosteroids and hea",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou as características clínicas e os resultados de pacientes com endomiocardite de Loeffler, uma condição cardíaca rara associada à síndrome de hipereosinofilia. Essa condição é caracterizada pela infiltração eosinofílica no miocárdio e pela formação de trombos, levando a uma cardiomiopatia restritiva. Os pesquisadores analisaram dados de 18 pacientes diagnosticados com endomiocardite de Loeffler entre 2017 e 2025, utilizando uma abordagem retrospectiva em um único centro de cuidados terciários. Os dados clínicos, biomarcadores, ecocardiografia, ressonância magnética cardíaca (CMR) e biópsias endomiocárdicas foram avaliados. Os resultados mostraram que 61,1% dos pacientes apresentaram eosinofilia periférica em algum momento da avaliação. Além disso, a análise identificou dois padrões distintos da doença: uma forma aguda inflamatória, caracterizada por níveis elevados de troponina T, proteína C-reativa, febre e realce tardio de gadolínio subepicárdico, e uma forma subaguda/crônica, com menor atividade inflamatória, trombos ventriculares frequentes, realce tardio de gadolínio subendocárdico e aumento do índice de volume atrial esquerdo. A grande maioria dos pacientes recebeu corticosteroides e terapias de apoio. Embora o estudo forneça insights valiosos sobre a condição, as limitações incluem o tamanho da amostra e a abordagem retrospectiva, o que pode influenciar a generalização dos resultados. Futuros estudos são necessários para explorar melhor as características clínicas e os resultados de pacientes com endomiocardite de Loeffler, bem como para avaliar a eficácia de diferentes abordagens terapêuticas.\n\nA recent study published in PubMed investigated the clinical characteristics and outcomes of patients with Loeffler's endomyocarditis, a rare cardiac condition associated with hypereosinophilic syndrome. This condition is characterized by eosinophilic myocardial infiltration and thrombus formation, leading to restrictive cardiomyopathy. The researchers analyzed data from 18 patients diagnosed with Loeffler's endomyocarditis between 2017 and 2025, using a retrospective approach in a single tertiary care center. Clinical data, biomarkers, echocardiography, cardiac magnetic resonance imaging (CMR), and endomyocardial biopsies were evaluated. The results showed that 61.1% of patients had peripheral eosinophilia at some point during assessment. Furthermore, the analysis identified two distinct patterns of the disease: an acute inflammatory form, characterized by elevated troponin T, C-reactive protein, fever, and subepicardial late gadolinium enhancement, and a subacute/chronic form, with lower inflammatory activity, frequent ventricular thrombi, subendocardial late gadolinium enhancement, and increased left atrial volume index. The vast majority of patients received corticosteroids and supportive therapies. Although the study provides valuable insights into the condition, limitations include the sample size and retrospective approach, which may affect the generalizability of the results. Future studies are needed to further explore the clinical characteristics and outcomes of patients with Loeffler's endomyocarditis, as well as to evaluate the effectiveness of different therapeutic approaches.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42425179",
-    "authors": [
-      {
-        "name": "Peter Buske",
-        "affiliation": "Department of Internal Medicine/Cardiology, Heart Center Leipzig at Leipzig University, Leipzig, Germany. Electronic address: peter.buske@medizin.uni-leipzig.de."
-      },
-      {
-        "name": "Christian Krieghoff",
-        "affiliation": "Department of Diagnostic and Interventional Radiology, Heart Center Leipzig, Leipzig, Germany."
-      },
-      {
-        "name": "Christian L&#xfc;cke",
-        "affiliation": "Department of Diagnostic and Interventional Radiology, Heart Center Leipzig, Leipzig, Germany."
-      },
-      {
-        "name": "Matthias Gutberlet",
-        "affiliation": "Department of Diagnostic and Interventional Radiology, Heart Center Leipzig, Leipzig, Germany."
-      }
-    ],
-    "journal": "International journal of cardiology",
-    "publishedDate": "2026-07-09",
-    "fetchedDate": "2026-07-10",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiac",
-      "myocardial",
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42424047",
-    "pmid": "42424047",
-    "doi": "10.1001/jamaoncol.2026.2330",
-    "title": "Consolidative Thoracic Radiotherapy With Atezolizumab Maintenance in Extensive-Stage Small Cell Lung Cancer: The Phase 2 TREASURE Randomized Clinical Trial (AIO-TRK-0320).",
-    "titlePt": "Consolidative Thoracic Radiotherapy With Atezolizumab Maintenance in Extensive-Stage Small Cell Lung Cancer: The Phase 2 TREASURE Randomized Clinical Trial (AIO-TRK-0320).",
-    "abstract": "Chemoimmunotherapy followed by immunotherapy maintenance is the standard first-line treatment for extensive-stage small cell lung cancer (ES-SCLC), yet data regarding efficacy and safety of consolidative thoracic radiotherapy (TRT) are lacking. To determine whether combining consolidative TRT with immunotherapy maintenance in ES-SCLC is safe and improves patients' overall survival (OS) and progression-free survival (PFS). This was a multicenter open-label phase 2 randomized clinical trial recruiting patients from September 2020 to August 2022 in Germany and Austria, with the last follow-up visit in September 2024. Eligible patients had ES-SCLC with at least stable disease after induction chemoimmunotherapy (carboplatin-etoposide-atezolizumab). Although the database was locked in April 2025, a post hoc survival update was performed in April 2026. Data were analyzed from April 2025 to April 2026. Randomized (1:1) to either atezolizumab maintenance combined with consolidative TRT (30 Gy i",
-    "journalisticSummary": "Um ensaio clínico randomizado de fase 2, conduzido na Alemanha e Áustria entre setembro de 2020 e agosto de 2022, avaliou o impacto da radioterapia torácica consolidativa (RTT) em combinação com manutenção de atezolizumabe em pacientes com câncer de pulmão de pequenas células em estágio extenso (CPCE-E). Os resultados, recentemente atualizados em abril de 2026, sugerem que a adição de RTT à terapia padrão não melhorou significativamente a sobrevida global (SG) ou a sobrevida livre de progressão (SLP) em comparação ao uso exclusivo de atezolizumabe como manutenção. O estudo, que recrutou pacientes com doença estável após quimioimunoterapia inicial (carboplatina, etoposídeo e atezolizumabe), randomizou os participantes (1:1) para receber RTT (30 Gy em 10 frações) associada à manutenção com atezolizumabe ou apenas atezolizumabe. Embora a segurança da combinação tenha sido confirmada, os achados principais indicam que não houve diferença estatisticamente significativa nos desfechos primários de eficácia. Os autores destacam a necessidade de estudos maiores e com desenho adaptativo para explorar subgrupos potenciais — como pacientes com doença intratorácica volumosa — que possam se beneficiar da RTT. Limitações incluem o tamanho amostral reduzido e o caráter aberto do estudo, que pode introduzir vieses. A atualização póstumo dos dados, embora não tenha alterado as conclusões principais, reforça a importância de análises prospectivas mais robustas para definir o papel da RTT em CPCE-E.\n\n---\n\nA phase 2 randomized clinical trial conducted in Germany and Austria between September 2020 and August 2022 evaluated the addition of consolidative thoracic radiotherapy (TRT) to atezolizumab maintenance in patients with extensive-stage small cell lung cancer (ES-SCLC). The updated results, released in April 2026, indicate that combining TRT with standard maintenance therapy did not significantly improve overall survival (OS) or progression-free survival (PFS) compared to atezolizumab alone. The study enrolled patients with stable disease following initial chemoimmunotherapy (carboplatin, etoposide, and atezolizumab) and randomized participants (1:1) to receive either TRT (30 Gy in 10 fractions) plus atezolizumab maintenance or atezolizumab alone. While the combination was deemed safe, primary efficacy outcomes showed no statistically significant difference. Researchers suggest larger, adaptive-design trials are needed to explore potential benefits in subgroups, such as patients with bulky intrathoracic disease. Limitations include the small sample size and the open-label design, which may introduce bias. The post hoc survival update, though confirming the main findings, underscores the need for prospective studies to clarify the role of consolidative TRT in ES-SCLC.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42424047",
-    "authors": [
-      {
-        "name": "Farastuk Bozorgmehr",
-        "affiliation": "Department of Thoracic Oncology, Thoraxklinik, Heidelberg University Hospital and National Center for Tumor Diseases (NCT), NCT Heidelberg, a partnership between German Cancer Research Center (DKFZ) and Heidelberg University Hospital, Heidelberg, Germany."
-      },
-      {
-        "name": "Inn Chung",
-        "affiliation": "Translational Lung Research Center Heidelberg, German Center for Lung Research (DZL), Heidelberg, Germany."
-      },
-      {
-        "name": "Rouven Behnisch",
-        "affiliation": "Department of Thoracic Oncology, Thoraxklinik, Heidelberg University Hospital and National Center for Tumor Diseases (NCT), NCT Heidelberg, a partnership between German Cancer Research Center (DKFZ) and Heidelberg University Hospital, Heidelberg, Germany."
-      },
-      {
-        "name": "Fabian Weykamp",
-        "affiliation": "Translational Lung Research Center Heidelberg, German Center for Lung Research (DZL), Heidelberg, Germany."
-      }
-    ],
-    "journal": "JAMA oncology",
-    "publishedDate": "2026-07-09",
-    "fetchedDate": "2026-07-09",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "immunotherapy",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
