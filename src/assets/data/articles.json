@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42865234",
+    "pmid": "42865234",
+    "doi": "10.1177/21532176261498254",
+    "title": "Artificial Intelligence Applications in Pediatric Primary Care for Weight Management: A Systematic Review.",
+    "titlePt": "Artificial Intelligence Applications in Pediatric Primary Care for Weight Management: A Systematic Review.",
+    "abstract": "Pediatric overweight and obesity (OW/OB) is a major public health concern associated with significant short- and long-term health risks. Primary care is a key setting for early identification and management, yet current approaches face barriers related to implementation, workflow, and family engagement. This systematic review examined how artificial intelligence (AI) has been used in pediatric primary care and closely connected clinical settings to support OW/OB management. We conducted a systematic review registered in PROSPERO (CRD420251103662) and reported according to Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 guidelines. MEDLINE, Embase, CINAHL Ultimate, Compendex, and CENTRAL were searched for English-language studies published from 2007 to July 9, 2025. Eligible studies included children and adolescents ages 5-19 years with OW/OB, were conducted in or linked to primary care, and included at least one AI-based approach. Dual-reviewer screening, struct",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42865234",
+    "authors": [
+      {
+        "name": "Nicholas Cook",
+        "affiliation": "School of Public Health, Texas A&amp;M University, College Station, Texas, USA."
+      },
+      {
+        "name": "Anindita Roy",
+        "affiliation": "School of Public Health, Texas A&amp;M University, College Station, Texas, USA."
+      },
+      {
+        "name": "Margret J Foster",
+        "affiliation": "Center for Systematic Reviews &amp; Research Syntheses, Houston, Texas, USA."
+      },
+      {
+        "name": "Kyle M Holland",
+        "affiliation": "Center for Systematic Reviews &amp; Research Syntheses, Houston, Texas, USA."
+      }
+    ],
+    "journal": "Childhood obesity (Print)",
+    "publishedDate": "2026-10-13",
+    "fetchedDate": "2026-10-13",
+    "category": "Pediatria",
+    "tags": [
+      "pediatric",
+      "children",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5713Mf-2kFHot-a4a0f47bde758115\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 2ea8eb1c-6544-45c3-bb46-0d3de571d613)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42862130",
     "pmid": "42862130",
     "doi": "10.1016/j.jchf.2026.103493",
@@ -12449,48 +12491,5 @@
     "readTime": 5,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4pG1Mj-2kFHot-a48ee2fbbc82b6a5\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 8c1fe208-18aa-448e-8fbe-71fb8579686b)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42426543",
-    "pmid": "42426543",
-    "doi": "10.1007/s12011-026-05218-y",
-    "title": "Environmental Toxicants and Polycystic Ovary Syndrome: Implications for a Metabolic-Ovarian Framework (PMOS) - A Systematic Review.",
-    "titlePt": "Environmental Toxicants and Polycystic Ovary Syndrome: Implications for a Metabolic-Ovarian Framework (PMOS) - A Systematic Review.",
-    "abstract": "Polycystic ovary syndrome (PCOS) is increasingly recognized as a systemic condition characterized by intricate endocrine and metabolic dysregulation. Emerging evidence suggests that environmental contaminants may drive its pathogenesis, supporting an expanded conceptualization of the disorder as polycystic metabolic-ovarian syndrome (PMOS). This systematic review aimed to evaluate the association between exposure to potentially toxic elements (PTEs) and endocrine disruptors and the reproductive, hormonal, and metabolic clinical features of PCOS. Following PRISMA guidelines, a systematic search was conducted across PubMed, Embase, Scopus, and Web of Science for human observational studies published up to 31 December 2025. Methodological quality was appraised using the Newcastle-Ottawa Scale (NOS). Due to heterogeneity in biological matrices and toxicant classes, a narrative synthesis was performed. Fourteen high-quality studies (NOS scores 8-9) from seven countries met the inclusion cri",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm crescente corpo de evidências sugere que a exposição a contaminantes ambientais pode desempenhar um papel central na fisiopatologia da síndrome dos ovários policísticos (SOP), um distúrbio endócrino-metabólico complexo e multifatorial. Em uma revisão sistemática publicada no periódico *Biological Trace Element Research*, pesquisadores avaliaram a relação entre a exposição a elementos tóxicos potenciais (ETPs) e disruptores endócrinos com as manifestações clínicas reprodutivas, hormonais e metabólicas da SOP. O estudo, conduzido conforme as diretrizes PRISMA, analisou 14 pesquisas observacionais de alta qualidade — com escores entre 8 e 9 na Escala Newcastle-Ottawa — provenientes de sete países, abrangendo dados coletados até dezembro de 2025.\n\nOs achados indicam uma associação consistente entre a exposição a metais pesados como chumbo, cádmio e arsênio, além de disruptores endócrinos como bisfenóis e ftalatos, com alterações nos níveis de hormônios sexuais, resistência à insulina e marcadores inflamatórios. Em particular, a exposição ocupacional ou crônica a baixas doses desses agentes foi relacionada ao agravamento de características típicas da SOP, como hiperandrogenismo e disfunção ovulatória. Embora a heterogeneidade dos métodos de dosagem e das matrizes biológicas (soro, urina, cabelo) tenha limitado a realização de metanálise, a síntese narrativa reforçou a hipótese de que a SOP pode ser reclassificada dentro de um espectro mais amplo, o *Polycystic Metabolic-Ovarian Syndrome* (PMOS), no qual fatores ambientais atuam como moduladores críticos da doença.\n\nDo ponto de vista clínico, os resultados reforçam a necessidade de incorporar avaliações toxicológicas em protocolos de rastreio e manejo de pacientes com SOP, especialmente em populações expostas a ambientes industriais ou contaminados. No entanto, a ausência de estudos longitudinais e de modelos causais robustos impede a definição de limiares seguros de exposição ou de estratégias preventivas específicas. Os autores destacam que futuras pesquisas devem priorizar desenhos prospectivos, padronização de biomarcadores e a integração de dados epigenéticos para elucidar os mecanismos subjacentes e validar intervenções direcionadas.\n\n---\n\n**English version**\n\nEmerging evidence increasingly implicates environmental contaminants in the pathophysiology of polycystic ovary syndrome (PCOS), a complex endocrine-metabolic disorder. A systematic review published in *Biological Trace Element Research* examined the association between exposure to potentially toxic elements (PTEs) and endocrine disruptors with the reproductive, hormonal, and metabolic features of PCOS. Conducted in accordance with PRISMA guidelines, the study synthesized 14 high-quality observational studies—scoring 8-9 on the Newcastle-Ottawa Scale—from seven countries, covering data collected up to December 2025.\n\nThe findings reveal consistent links between exposure to heavy metals such as lead, cadmium, and arsenic, as well as endocrine disruptors like bisphenols and phthalates, and disruptions in sex hormone levels, insulin resistance, and inflammatory markers. Chronic or occupational low-dose exposure was particularly associated with exacerbation of hallmark PCOS features, including hyperandrogenism and ovulatory dysfunction. While heterogeneity in biological matrices (serum, urine, hair) and toxicant classes precluded meta-analysis, the narrative synthesis supported the hypothesis that PCOS may be better conceptualized within a broader framework—the *Polycystic Metabolic-Ovarian Syndrome* (PMOS)—where environmental factors act as critical modulators of disease expression.\n\nClinically, the results underscore the importance of integrating toxicological assessments into PCOS screening and management protocols, particularly for patients in industrial or contaminated settings. However, the lack of longitudinal studies and causal models limits the establishment of safe exposure thresholds or targeted prevention strategies. The authors emphasize that future research should prioritize prospective designs, biomarker standardization, and epigenetic data integration to elucidate underlying mechanisms and validate intervention strategies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42426543",
-    "authors": [
-      {
-        "name": "James O Ibibama",
-        "affiliation": "Department of Experimental Pharmacology and Toxicology, Faculty of Pharmaceutical Sciences, University of Port Harcourt, Port Harcourt, Nigeria."
-      },
-      {
-        "name": "Polycarp Dauda Madaki",
-        "affiliation": "African Centre of Excellence for Public Health and Toxicological Research (ACE-PUTOR), University of Port Harcourt, Port Harcourt, Choba, PMB 5323, Italy."
-      },
-      {
-        "name": "Kenechi Adachi Aliche",
-        "affiliation": "African Centre of Excellence for Public Health and Toxicological Research (ACE-PUTOR), University of Port Harcourt, Port Harcourt, Choba, PMB 5323, Italy."
-      },
-      {
-        "name": "Chiara Frazzoli",
-        "affiliation": "Department of Cardiovascular, Endocrine-Metabolic Diseases, and Aging, Istituto Superiore di Sanit&#xe0;, 00162, Rome, Italy."
-      }
-    ],
-    "journal": "Biological trace element research",
-    "publishedDate": "2026-07-09",
-    "fetchedDate": "2026-07-10",
-    "category": "Endocrinologia",
-    "tags": [
-      "gene",
-      "endocrine",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
