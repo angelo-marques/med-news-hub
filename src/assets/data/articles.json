@@ -9640,6 +9640,49 @@
     "aiProvider": "Groq"
   },
   {
+    "id": "pubmed-42425179",
+    "pmid": "42425179",
+    "doi": "10.1016/j.ijcard.2026.134666",
+    "title": "Loeffler's Endomyocarditis: Clinical characteristics and outcomes from a tertiary care centre registry.",
+    "titlePt": "Loeffler's Endomyocarditis: Clinical characteristics and outcomes from a tertiary care centre registry.",
+    "abstract": "Loeffler's endomyocarditis, the cardiac manifestation of hypereosinophilic syndrome, is characterized by eosinophilic myocardial infiltration and thrombus formation leading to restrictive cardiomyopathy. In a retrospective single-center registry, patients diagnosed with Loeffler's endomyocarditis between 2017 and 2025 were included. Clinical data, biomarkers, echocardiography, cardiac magnetic resonance imaging (CMR), and endomyocardial biopsies (n&#xa0;=&#xa0;8) were analyzed. Eighteen patients were included. Hierarchical clustering identified two patterns: an acute inflammatory form with elevated troponin T, C-reactive protein, fever, and subepicardial late gadolinium enhancement (LGE), and a subacute/chronic form with lower inflammatory activity, frequent ventricular thrombi, subendocardial LGE, and increased left atrial volume index. Peripheral eosinophilia was present in 61.1% of patients at any time of assessment. The vast majority of patients received corticosteroids and heart f",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42425179",
+    "authors": [
+      {
+        "name": "Peter Buske",
+        "affiliation": "Department of Internal Medicine/Cardiology, Heart Center Leipzig at Leipzig University, Leipzig, Germany. Electronic address: peter.buske@medizin.uni-leipzig.de."
+      },
+      {
+        "name": "Christian Krieghoff",
+        "affiliation": "Department of Diagnostic and Interventional Radiology, Heart Center Leipzig, Leipzig, Germany."
+      },
+      {
+        "name": "Christian L&#xfc;cke",
+        "affiliation": "Department of Diagnostic and Interventional Radiology, Heart Center Leipzig, Leipzig, Germany."
+      },
+      {
+        "name": "Matthias Gutberlet",
+        "affiliation": "Department of Diagnostic and Interventional Radiology, Heart Center Leipzig, Leipzig, Germany."
+      }
+    ],
+    "journal": "International journal of cardiology",
+    "publishedDate": "2026-07-29",
+    "fetchedDate": "2026-10-13",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "heart",
+      "myocardial",
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4ziwMo-2kFHot-a49a2e15fbbdad81\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 770057fb-1a34-409b-9546-278008557577)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42424683",
     "pmid": "42424683",
     "doi": "10.1016/j.atherosclerosis.2026.120816",
@@ -12444,47 +12487,6 @@
       "gene",
       "endocrine",
       "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42331044",
-    "pmid": "42331044",
-    "doi": "10.1016/j.jad.2026.122160",
-    "title": "Efficacy, acceptability, and related outcomes of pharmacological interventions for acute bipolar depression: A systematic review and dose-related network meta-analysis across different age groups.",
-    "titlePt": "Efficacy, acceptability, and related outcomes of pharmacological interventions for acute bipolar depression: A systematic review and dose-related network meta-analysis across different age groups.",
-    "abstract": "Acute bipolar depression poses a significant burden and socioeconomic costs. We investigated the comparative efficacy/response/acceptability of pharmacological interventions for acute bipolar depression, considering dose effects across different age groups. We conducted a network meta-analysis (NMA), searching for randomized controlled trials (RCTs) comparing pharmacological interventions against each other/or placebo in patients with acute bipolar depression (Type-I/Type-II/other), indexed in PubMed/MEDLINE, Embase, Web-of-Science/and Scopus (database inception up to 2025.11.25). Co-primary outcomes were change in depressive symptoms/response/and acceptability. Tolerability/remission/change in anxious symptoms/and risk-of-manic/hypomanic switches were secondary outcomes. Confidence-In-Network-Meta-Analysis was likewise appraised. 103 RCTs, encompassing 71 distinct treatment combinations, included 20,941 participants. Sensitivity analysis including low-risk-of-bias studies only and exc",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Journal of Affective Disorders* realizou uma meta-análise em rede para avaliar a eficácia, aceitabilidade e resultados associados de intervenções farmacológicas no tratamento da depressão aguda em transtorno bipolar, considerando variações de dose e faixas etárias. A pesquisa, que incluiu 103 ensaios clínicos randomizados (RCTs) com 20.941 participantes, comparou diferentes combinações terapêuticas — incluindo placebo — em pacientes com diagnóstico de transtorno bipolar tipo I, II ou outras formas da doença.\n\nOs desfechos primários analisados foram a redução dos sintomas depressivos, a taxa de resposta ao tratamento e a aceitabilidade (definida como a proporção de participantes que descontinuaram o estudo devido a efeitos adversos). Dentre os desfechos secundários, destacaram-se a tolerabilidade, a remissão dos sintomas, a variação nos sintomas de ansiedade e o risco de episódios de mania ou hipomania induzidos pelo tratamento. A análise também considerou a confiabilidade dos resultados por meio da avaliação da qualidade da rede meta-analítica.\n\nEmbora o estudo não tenha especificado os tratamentos mais eficazes por faixa etária ou dose, os resultados sugerem diferenças significativas na resposta terapêutica entre os grupos avaliados. A abordagem de meta-análise em rede permitiu uma comparação indireta entre intervenções não diretamente testadas em ensaios clínicos individuais, oferecendo insights valiosos para a prática clínica. No entanto, limitações como a heterogeneidade dos estudos incluídos e a variabilidade na qualidade metodológica dos RCTs foram identificadas, o que pode influenciar a robustez das conclusões.\n\nOs autores destacam a necessidade de futuros estudos com delineamentos mais homogêneos e análise estratificada por idade e dose para validar esses achados. Além disso, a incorporação de dados de segurança a longo prazo e a avaliação de desfechos centrados no paciente, como qualidade de vida, são apontadas como prioridades para avançar no manejo da depressão bipolar aguda.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Affective Disorders* conducted a network meta-analysis to assess the efficacy, acceptability, and related outcomes of pharmacological interventions for acute bipolar depression, considering dose variations and age groups. The research, which included 103 randomized controlled trials (RCTs) with 20,941 participants, compared different treatment combinations—including placebo—in patients diagnosed with bipolar disorder type I, II, or other forms of the condition.\n\nPrimary outcomes analyzed were the reduction of depressive symptoms, treatment response rates, and acceptability (defined as the proportion of participants who discontinued the study due to adverse effects). Secondary outcomes included tolerability, symptom remission, changes in anxiety symptoms, and the risk of treatment-induced manic or hypomanic episodes. The analysis also evaluated the reliability of results through a confidence-in-network meta-analysis assessment.\n\nWhile the study did not specify the most effective treatments by age group or dose, the findings suggest significant differences in therapeutic response among the evaluated groups. The network meta-analysis approach enabled indirect comparisons between interventions not directly tested in individual clinical trials, providing valuable insights for clinical practice. However, limitations such as heterogeneity among included studies and variability in the methodological quality of RCTs were identified, which may influence the robustness of the conclusions.\n\nThe authors emphasize the need for future studies with more homogeneous designs and stratified analyses by age and dose to validate these findings. Additionally, incorporating long-term safety data and evaluating patient-centered outcomes, such as quality of life, are highlighted as priorities for advancing the management of acute bipolar depression.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42331044",
-    "authors": [
-      {
-        "name": "Michele Fornaro",
-        "affiliation": "Unit of Treatment-Resistant Psychosis, Section of Psychiatry, Department of Neuroscience, Reproductive Science and Dentistry, University School of Medicine of Naples Federico II, Naples, Italy. Electronic address: dott.fornaro@gmail.com."
-      },
-      {
-        "name": "Chiara Di Lorenzo",
-        "affiliation": "Federico II University of Naples, Naples, Italy."
-      },
-      {
-        "name": "Vincenzo Oliva",
-        "affiliation": "Department of Medicine, Faculty of Medicine and Health Sciences, Institute of Neurosciences (UBNeuro), University of Barcelona (UB), C. Casanova, 143, 08036, Barcelona, Catalonia, Spain; Bipolar and Depressive Disorders Unit, Hosp&#xec;tal Clinic de Barcelona, c. Villarroel, 170, 08036, Barcelona, Catalonia, Spain; Institut d'Investigacions Biom&#xe8;diques August Pi i Sunyer (IDIBAPS), c. Villarroel, 170, 08036, Barcelona, Catalonia, Spain; Centro de Investigaci&#xf3;n Biom&#xe9;dica en Red de Salud Mental (CIBERSAM), Instituto de Salud Carlos III, Madrid, Spain."
-      },
-      {
-        "name": "Michele De Prisco",
-        "affiliation": "Department of Medicine, Faculty of Medicine and Health Sciences, Institute of Neurosciences (UBNeuro), University of Barcelona (UB), C. Casanova, 143, 08036, Barcelona, Catalonia, Spain; Bipolar and Depressive Disorders Unit, Hosp&#xec;tal Clinic de Barcelona, c. Villarroel, 170, 08036, Barcelona, Catalonia, Spain; Institut d'Investigacions Biom&#xe8;diques August Pi i Sunyer (IDIBAPS), c. Villarroel, 170, 08036, Barcelona, Catalonia, Spain; Centro de Investigaci&#xf3;n Biom&#xe9;dica en Red de Salud Mental (CIBERSAM), Instituto de Salud Carlos III, Madrid, Spain."
-      }
-    ],
-    "journal": "Journal of affective disorders",
-    "publishedDate": "2026-07-09",
-    "fetchedDate": "2026-07-10",
-    "category": "Saúde Mental",
-    "tags": [
-      "depression"
     ],
     "isHighlight": false,
     "readTime": 5,
