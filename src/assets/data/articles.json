@@ -1,5 +1,43 @@
 [
   {
+    "id": "pubmed-42378433",
+    "pmid": "42378433",
+    "doi": "10.1111/jce.70376",
+    "title": "Clinical Utility of Tissue Proximity Indication With a Variable-Loop Circular Catheter for Pulmonary Vein Isolation.",
+    "titlePt": "Clinical Utility of Tissue Proximity Indication With a Variable-Loop Circular Catheter for Pulmonary Vein Isolation.",
+    "abstract": "The variable-loop circular catheter (VLCC, VARIPULSE) is a pulsed-field ablation (PFA) catheter equipped with a Tissue Proximity Indication (TPI) function, which monitors catheter-tissue contact. Although TPI-negative sites have been reported to contribute to gap formation, no studies have evaluated the utility of real-time function. This study assessed the success rate of pulmonary vein isolation (PVI) using the VLCC, incorporating the activated TPI function as the primary setting from the start of the procedure, representing an activated TPI function-guided ablation approach. Between February 1 and September 3, 2025, 60 consecutive patients underwent PFA using the VLCC. After creating the 3D geometry using CARTOSOUND FAM before ablation, PVI using the VLCC was performed with the activated TPI function. After an initial two-by-two PFA set, the catheter orientation was adjusted to target areas without visible TPI-positive tags. After applying an additional PFA application to ensure a c",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42378433",
+    "authors": [
+      {
+        "name": "Masataka Narita",
+        "affiliation": "Department of Cardiology, Saitama Medical University, International Medical Center, Hidaka, Japan."
+      },
+      {
+        "name": "Daisuke Kawano",
+        "affiliation": "Department of Cardiology, Saitama Medical University, International Medical Center, Hidaka, Japan."
+      },
+      {
+        "name": "Naomichi Tanaka",
+        "affiliation": "Department of Cardiology, Saitama Medical University, International Medical Center, Hidaka, Japan."
+      },
+      {
+        "name": "Tsukasa Naganuma",
+        "affiliation": "Department of Cardiology, Saitama Medical University, International Medical Center, Hidaka, Japan."
+      }
+    ],
+    "journal": "Journal of cardiovascular electrophysiology",
+    "publishedDate": "2026-10-14",
+    "fetchedDate": "2026-10-14",
+    "category": "Farmacologia",
+    "tags": [],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5BoDtH-2kFHot-a4a62197feb8f08c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 9090f1d3-a779-4a33-b0d4-93b18e4c3be9)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42865831",
     "pmid": "42865831",
     "doi": "10.21037/tp-2026-0665",
@@ -12449,49 +12487,6 @@
     ],
     "isHighlight": false,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42212670",
-    "pmid": "42212670",
-    "doi": "10.1200/JCO-26-00845",
-    "title": "Addition of Intravesical Recombinant Bacillus Calmette-Gu&#xe9;rin to Perioperative Chemoimmunotherapy in Muscle-Invasive Bladder Cancer: Primary Analysis of the Single-Arm Phase II Trial SAKK 06/19.",
-    "titlePt": "Addition of Intravesical Recombinant Bacillus Calmette-Gu&#xe9;rin to Perioperative Chemoimmunotherapy in Muscle-Invasive Bladder Cancer: Primary Analysis of the Single-Arm Phase II Trial SAKK 06/19.",
-    "abstract": "Intravesical Bacillus Calmette-Gu&#xe9;rin (BCG) is highly effective in non-muscle-invasive bladder cancer (MIBC) but has not been evaluated in MIBC. The recombinant BCG vaccine VPM1002BC (rBCG) has potentially enhanced immunogenicity and an improved safety profile. We investigated neoadjuvant intravesical rBCG combined with chemoimmunotherapy in MIBC. SAKK 06/19 was an open-label single-arm phase II trial for cT2-T4a N0-1 MIBC eligible for cisplatin and radical cystectomy with lymph node dissection (RC-LND). rBCG was instilled once per week three times starting on day 1. Atezolizumab was administered on day 1 for a total of four doses, and cisplatin/gemcitabine was started on day 22 for four cycles followed by RC-LND. Adjuvant atezolizumab was only administered in the case of &gt;yT1 ypN0. The primary end point was centrally reviewed pathologic complete response (pCR, ypT0 ypN0). Based on Simon's minimax two-stage design with H0 pCR &#x2264;35%, H1 pCR &#x2265;55%, one-sided alpha 5%,",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo pioneiro, publicado no *Journal of Clinical Oncology* com DOI 10.1200/JCO-26-00845, investigou a combinação de imunoterapia com quimioterapia no tratamento de câncer de bexiga músculo-invasivo (MIBC) em estágio cT2-T4a N0-1 elegível para cistectomia radical com linfadenectomia (RC-LND). A pesquisa, conduzida pelo grupo suíço SAKK 06/19, avaliou a adição de BCG recombinante (VPM1002BC, rBCG) à terapia neoadjuvante, seguida de atezolizumabe e quimioterapia com cisplatina e gemcitabina antes da cirurgia. O objetivo principal foi determinar a taxa de resposta patológica completa (pCR, definida como ypT0 ypN0), um desfecho crítico para pacientes com doença localmente avançada.\n\nOs resultados preliminares indicam uma taxa de pCR de 52% (47% em pacientes com doença N0 e 64% naqueles com N1), superando a hipótese nula de 35% e atingindo o limiar pré-definido de sucesso (≥55%). O perfil de segurança foi considerado favorável, com eventos adversos graves (EAGs) relatados em 28% dos participantes, sendo a maioria de grau 3 ou inferior. Embora o estudo não tenha avaliado diretamente a sobrevida global ou livre de doença, a alta taxa de pCR sugere um potencial impacto na redução de recorrências, especialmente em subgrupos com envolvimento linfonodal. No entanto, limitações como o desenho de braço único e a ausência de grupo controle impedem conclusões definitivas sobre a eficácia comparativa. Estudos randomizados são necessários para validar esses achados e explorar combinações otimizadas de imunoterapia e quimioterapia.\n\n**Versão em inglês**\n\nA groundbreaking study published in the *Journal of Clinical Oncology* (DOI: 10.1200/JCO-26-00845) explored the integration of immunotherapy with chemotherapy for muscle-invasive bladder cancer (MIBC) at stages cT2-T4a N0-1 eligible for radical cystectomy with lymph node dissection (RC-LND). The Swiss-led SAKK 06/19 trial assessed the addition of recombinant BCG (VPM1002BC, rBCG) to neoadjuvant therapy, followed by atezolizumab and cisplatin-gemcitabine chemotherapy prior to surgery. The primary objective was to determine the pathologic complete response (pCR) rate—defined as ypT0 ypN0—a critical endpoint for patients with locally advanced disease.\n\nPreliminary findings revealed a pCR rate of 52% (47% in N0 patients and 64% in N1), surpassing the null hypothesis of 35% and meeting the predefined success threshold (≥55%). The safety profile was deemed favorable, with grade 3 or higher serious adverse events (SAEs) reported in 28% of participants. While the study did not evaluate overall or disease-free survival, the high pCR rate suggests potential benefits in reducing recurrence, particularly in node-positive subgroups. However, limitations such as the single-arm design and lack of a control group preclude definitive conclusions on comparative efficacy. Randomized trials are warranted to validate these findings and optimize combination regimens.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42212670",
-    "authors": [
-      {
-        "name": "Richard Cathomas",
-        "affiliation": "Division of Oncology/Hematology, Kantonsspital Graub&#xfc;nden, Chur, Switzerland."
-      },
-      {
-        "name": "Ulf Petrausch",
-        "affiliation": "Hirslanden Klinik, Z&#xfc;rich, Switzerland."
-      },
-      {
-        "name": "Stefanie Hayoz",
-        "affiliation": "Swiss Cancer Institute Competence Center, Bern, Switzerland."
-      },
-      {
-        "name": "Martin Spahn",
-        "affiliation": "Lindenhofspital, Bern, Switzerland."
-      }
-    ],
-    "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-    "publishedDate": "2026-07-10",
-    "fetchedDate": "2026-07-10",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "immunotherapy",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
