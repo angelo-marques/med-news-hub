@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42872112",
+    "pmid": "42872112",
+    "doi": "10.1210/jendso/bvag206",
+    "title": "Potential links between PCOS/PMOS and Alzheimer disease and related dementias.",
+    "titlePt": "Potential links between PCOS/PMOS and Alzheimer disease and related dementias.",
+    "abstract": "Polycystic ovary syndrome/polyendocrine metabolic ovarian syndrome (PCOS/PMOS) is a common endocrine disorder with significant metabolic and reproductive implications. Increasing attention has focused on its potential long-term neurological consequences, including possible links to cognitive impairment and Alzheimer disease (AD), through overlapping biological pathways. We conducted a comprehensive PubMed search, from inception through October 2025, identifying studies on cognitive performance, brain structure and function, neurodegenerative biomarkers, and dementia risk in PCOS/PMOS patients. Evidence supports multiple potential mechanistic pathways that could connect PCOS/PMOS to AD-relevant biology, such as insulin resistance (IR), chronic inflammation, hormonal dysregulation, and cardiovascular dysfunction. These pathways converge on neurodegeneration processes such as impaired A&#x3b2; clearance, tau hyperphosphorylation, oxidative stress, and cerebral metabolic deficits. Clinical",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42872112",
+    "authors": [
+      {
+        "name": "Mina Amiri",
+        "affiliation": "Metabolic Disorders Research Center, Endocrinology and Metabolism Molecular-Cellular Sciences Institute, Tehran University of Medical Sciences (TUMS), Tehran 1411713119, Iran."
+      },
+      {
+        "name": "Armita Kakavand Hamidi",
+        "affiliation": "Foundation for Research and Education Excellence, Vestavia, AL 35243, USA."
+      },
+      {
+        "name": "Daniel L Farkas",
+        "affiliation": "Metabolic Disorders Research Center, Endocrinology and Metabolism Molecular-Cellular Sciences Institute, Tehran University of Medical Sciences (TUMS), Tehran 1411713119, Iran."
+      },
+      {
+        "name": "Richard P Buyalos",
+        "affiliation": "Obesity and Eating Habits Research Center, Endocrinology and Metabolism Clinical Sciences Institute, Tehran University of Medical Sciences (TUMS), Tehran 1411713119, Iran."
+      }
+    ],
+    "journal": "Journal of the Endocrine Society",
+    "publishedDate": "2026-10-14",
+    "fetchedDate": "2026-10-14",
+    "category": "Neurologia",
+    "tags": [
+      "cardiovascular",
+      "brain",
+      "alzheimer",
+      "dementia",
+      "cognitive"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5FpdeA-2kFHot-a4aa796eaff68b0a\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 469030e4-f81d-44d5-9ed8-5198044c6298)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42378433",
     "pmid": "42378433",
     "doi": "10.1111/jce.70376",
@@ -12445,48 +12489,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41801186",
-    "pmid": "41801186",
-    "doi": "10.1080/13696998.2026.2637396",
-    "title": "A systematic literature review of methodologies used in economic evaluations of combination vaccines.",
-    "titlePt": "A systematic literature review of methodologies used in economic evaluations of combination vaccines.",
-    "abstract": "Combination vaccines offer simultaneous protection against different diseases or strains of the same pathogen. They could improve vaccine coverage and health outcomes while reducing healthcare visits and injection costs. This systematic literature review (CRD420251135227) aimed to characterise methodologies employed in full economic evaluations of combination vaccines targeting multiple diseases. Searches were performed in August 2025 in MEDLINE, Embase, Web of Science, CEA Registry, International HTA Database, and the NHS Economic Evaluation Database. Studied included cost-utility (CUA), cost-effectiveness (CEA) or cost-benefit analyses (CBA) evaluating all the diseases covered by combination vaccines. Given the qualitative research question, findings were narratively synthesised. Quality assessment used CHEERS and the WHO framework for Immunisation Programmes. Seven studies (3 CUAs; 4 CEAs) were included. They targeted five different combination vaccines across four countries and &#x",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado recentemente na *Pharmacoeconomics* analisou as metodologias empregadas em avaliações econômicas de vacinas combinadas, que oferecem proteção simultânea contra múltiplas doenças ou cepas de um mesmo patógeno. Essas vacinas têm potencial para aumentar a cobertura vacinal, melhorar desfechos de saúde e reduzir custos associados a consultas médicas e aplicações injetáveis. A revisão sistemática, registrada sob o código CRD420251135227, buscou mapear os métodos utilizados em análises econômicas completas — como avaliações de custo-utilidade (CUA), custo-efetividade (CEA) e custo-benefício (CBA) — de vacinas que contemplam doenças múltiplas.\n\nA pesquisa, conduzida com buscas em agosto de 2025 nas bases MEDLINE, Embase, Web of Science, CEA Registry, International HTA Database e NHS Economic Evaluation Database, identificou sete estudos elegíveis — três CUAs e quatro CEAs. Os trabalhos abarcaram cinco vacinas combinadas avaliadas em quatro países, embora não tenha sido informado no resumo original quais combinações específicas foram analisadas. Os achados, sintetizados de forma narrativa por se tratar de uma questão qualitativa, foram submetidos a avaliação de qualidade segundo os critérios do CHEERS e do *WHO framework for Immunisation Programmes*.\n\nOs resultados sugerem que as metodologias empregadas variam amplamente, refletindo a complexidade de capturar os benefícios indiretos — como a redução de transmissão de doenças — e os custos indiretos associados às vacinas combinadas. Entre as limitações destacadas pelos autores, está a escassez de estudos que integrem análises de custo-benefício, o que restringe a comparação direta entre diferentes vacinas. Além disso, a heterogeneidade nos modelos econômicos e nas perspectivas adotadas (sistema de saúde, sociedade ou pagador) dificulta a generalização dos achados. Como próximos passos, os pesquisadores indicam a necessidade de estudos padronizados que considerem desfechos de longo prazo e a incorporação de dados de vida real, especialmente em contextos de baixa e média renda, onde o impacto das vacinas combinadas pode ser mais pronunciado.\n\n---\n\n**English version**\n\nA recent study published in *Pharmacoeconomics* examined the methodologies used in economic evaluations of combination vaccines, which provide simultaneous protection against multiple diseases or strains of the same pathogen. These vaccines have the potential to increase vaccination coverage, improve health outcomes, and reduce costs associated with medical visits and injections. The systematic review, registered under CRD420251135227, aimed to map the methods employed in full economic analyses—such as cost-utility analyses (CUA), cost-effectiveness analyses (CEA), and cost-benefit analyses (CBA)—of vaccines targeting multiple diseases.\n\nConducted with searches in August 2025 across MEDLINE, Embase, Web of Science, CEA Registry, International HTA Database, and NHS Economic Evaluation Database, the review identified seven eligible studies—three CUAs and four CEAs. The included studies covered five combination vaccines evaluated in four countries, though the specific combinations analyzed were not reported in the original abstract. Findings, synthesized narratively due to the qualitative nature of the research question, were assessed for quality using the CHEERS criteria and the *WHO framework for Immunisation Programmes*.\n\nThe results indicate that methodologies vary widely, reflecting the complexity of capturing indirect benefits—such as reduced disease transmission—and indirect costs associated with combination vaccines. Among the limitations highlighted by the authors is the scarcity of studies incorporating cost-benefit analyses, which restricts direct comparisons between vaccines. Additionally, heterogeneity in economic models and adopted perspectives (health system, societal, or payer) complicates the generalization of findings. As next steps, researchers emphasize the need for standardized studies that consider long-term outcomes and the incorporation of real-world data, particularly in low- and middle-income settings where the impact of combination vaccines may be most pronounced.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41801186",
-    "authors": [
-      {
-        "name": "Manuela Di Fusco",
-        "affiliation": "Division of Health Research, Lancaster University, Lancaster, UK."
-      },
-      {
-        "name": "Shailja Vaghela",
-        "affiliation": "HealthEcon Consulting, Inc, Ancaster, Canada."
-      },
-      {
-        "name": "Ceu Mateus",
-        "affiliation": "Division of Health Research, Lancaster University, Lancaster, UK."
-      },
-      {
-        "name": "Katharina Janke",
-        "affiliation": "Division of Health Research, Lancaster University, Lancaster, UK."
-      }
-    ],
-    "journal": "Journal of medical economics",
-    "publishedDate": "2026-07-10",
-    "fetchedDate": "2026-07-10",
-    "category": "Genômica",
-    "tags": [
-      "rna",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
