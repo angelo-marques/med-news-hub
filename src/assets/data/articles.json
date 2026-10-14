@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42865831",
+    "pmid": "42865831",
+    "doi": "10.21037/tp-2026-0665",
+    "title": "Associated factors for unfavorable prognosis in neonates with septic shock.",
+    "titlePt": "Associated factors for unfavorable prognosis in neonates with septic shock.",
+    "abstract": "Neonatal septic shock represents a life-threatening complication of neonatal sepsis associated with substantial in-hospital mortality. Conventional diagnostic criteria only detect shock at the decompensated stage, which inevitably delays optimal treatment. This study aimed to identify independent predictors associated with adverse outcomes in neonates with septic shock and evaluate the predictive performance of combined early laboratory biomarkers and point-of-care cardiac ultrasound parameters. A single-center retrospective cohort study was performed on 98 neonates diagnosed with septic shock admitted to the Neonatal Intensive Care Unit of Chengdu Women's and Children's Central Hospital from January 2024 to December 2025. Patients were stratified into a favorable prognosis group (n=67) and an unfavorable prognosis group (n=31) based on discharge outcomes. Perinatal baseline data, initial laboratory tests and bedside critical cardiac ultrasound measurements were compared between groups",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42865831",
+    "authors": [
+      {
+        "name": "Yaocong Zhong",
+        "affiliation": "Neonatal Intensive Care Unit, Chengdu Women's and Children's Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Chengdu, China."
+      },
+      {
+        "name": "Xi Kang",
+        "affiliation": "Neonatal Intensive Care Unit, Chengdu Women's and Children's Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Chengdu, China."
+      },
+      {
+        "name": "Huaxi Luo",
+        "affiliation": "Neonatal Intensive Care Unit, Chengdu Women's and Children's Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Chengdu, China."
+      },
+      {
+        "name": "Yuan Wang",
+        "affiliation": "Neonatal Intensive Care Unit, Chengdu Women's and Children's Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Chengdu, China."
+      }
+    ],
+    "journal": "Translational pediatrics",
+    "publishedDate": "2026-10-13",
+    "fetchedDate": "2026-10-14",
+    "category": "Pediatria",
+    "tags": [
+      "cardiac",
+      "sepsis",
+      "children",
+      "neonatal"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p58YRhn-2kFHot-a4a29e442c5147a5\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 7c6ad30b-5ca5-40e0-8f53-5ba02f95b8d2)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42865234",
     "pmid": "42865234",
     "doi": "10.1177/21532176261498254",
@@ -12451,45 +12494,5 @@
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42422116",
-    "pmid": "42422116",
-    "doi": "10.1007/s40200-026-02000-8",
-    "title": "Efficacy and safety of GLP-1RA on cardio-metabolic outcomes in overweight or obese Chinese adults: a systematic review and meta-analysis.",
-    "titlePt": "Efficacy and safety of GLP-1RA on cardio-metabolic outcomes in overweight or obese Chinese adults: a systematic review and meta-analysis.",
-    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have demonstrated substantial weight loss and metabolic benefits in overweight and obese populations. However, their cardio-metabolic efficacy and safety profile in Chinese adults remain incompletely characterized. We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) comparing GLP-1RAs or dual GLP-1/GIP receptor agonists with placebo in overweight or obese Chinese adults. Searches were performed in PubMed, Cochrane CENTRAL, and Scopus from inception to October 12, 2025. Outcomes included changes in body weight, waist circumference, HbA1c, fasting glucose, cholesterol, systolic and diastolic blood pressure, and adverse events. Effect sizes were pooled using random-effects models and reported as mean differences (MDs) or risk ratios (RRs) with 95% confidence intervals (CIs). Five RCTs comprising 2,204 participants were included, of whom 1,522 received GLP-1RA therapy and 682 received placebo. GLP-1R",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42422116",
-    "authors": [
-      {
-        "name": "Abdur Rafay Bilal",
-        "affiliation": "Department of Medicine, Ziauddin Medical College, Karachi, Pakistan."
-      },
-      {
-        "name": "Maryam Sajid",
-        "affiliation": "Department of Medicine, Ziauddin Medical College, Karachi, Pakistan."
-      },
-      {
-        "name": "S M Washaqul Arfin",
-        "affiliation": "Department of Medicine, Ziauddin Medical College, Karachi, Pakistan."
-      },
-      {
-        "name": "Abdur Raheem Bilal",
-        "affiliation": "Department of Medicine, Ziauddin Medical College, Karachi, Pakistan."
-      }
-    ],
-    "journal": "Journal of diabetes and metabolic disorders",
-    "publishedDate": "2026-07-09",
-    "fetchedDate": "2026-10-11",
-    "category": "Endocrinologia",
-    "tags": [
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4pG1Mj-2kFHot-a48ee2fbbc82b6a5\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 8c1fe208-18aa-448e-8fbe-71fb8579686b)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
