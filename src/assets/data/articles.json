@@ -1,5 +1,92 @@
 [
   {
+    "id": "pubmed-42615958",
+    "pmid": "42615958",
+    "doi": "10.1016/j.jacc.2026.06.042",
+    "title": "Targeted Assessment in High-Risk Patients With Diabetes to Identify Undiagnosed Heart Failure (TARTAN-HF).",
+    "titlePt": "Targeted Assessment in High-Risk Patients With Diabetes to Identify Undiagnosed Heart Failure (TARTAN-HF).",
+    "abstract": "Heart failure (HF) is a common cardiovascular complication of diabetes. Early identification of unrecognized HF enables initiation of disease-modifying therapies. International diabetes and HF clinical practice guidelines are inconsistent with respect to recommendations for screening for HF in people with diabetes. The purpose of this trial was to evaluate the diagnostic yield of a natriuretic peptide-based HF screening strategy in people with diabetes and HF risk factors. TARTAN-HF (Targeted Assessment in high-Risk paTients with diAbetes to ideNtify undiagnosed HF) was a prospective, multicenter, unblinded, randomized controlled trial. Community-based participants aged &#x2265;40 years with type 1 or type 2 diabetes and at least 1 additional HF risk factor, but without known HF, were recruited in the west of Scotland. Participants were randomized to N-terminal pro-B-type natriuretic peptide screening (with echocardiography if N-terminal pro-B-type natriuretic peptide &#x2265;125 pg/mL",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42615958",
+    "authors": [
+      {
+        "name": "Daniel Taylor-Sweet",
+        "affiliation": "BHF Cardiovascular Research Centre, School of Cardiovascular and Metabolic Health, University of Glasgow, Glasgow, Scotland, United Kingdom."
+      },
+      {
+        "name": "Mark C Petrie",
+        "affiliation": "BHF Cardiovascular Research Centre, School of Cardiovascular and Metabolic Health, University of Glasgow, Glasgow, Scotland, United Kingdom. Electronic address: mark.petrie@glasgow.ac.uk."
+      },
+      {
+        "name": "Gemma McKinley",
+        "affiliation": "Robertson Centre for Biostatistics, School of Health and Wellbeing, University of Glasgow, Glasgow, Scotland, United Kingdom."
+      },
+      {
+        "name": "Liane McGlynn",
+        "affiliation": "BHF Cardiovascular Research Centre, School of Cardiovascular and Metabolic Health, University of Glasgow, Glasgow, Scotland, United Kingdom."
+      }
+    ],
+    "journal": "Journal of the American College of Cardiology",
+    "publishedDate": "2026-10-14",
+    "fetchedDate": "2026-10-15",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "heart",
+      "rna",
+      "diabetes"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5Fywkh-2kFHot-a4aaa5cb2c366b10\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: e23e0943-7638-4edf-9010-e68644218eb7)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42872458",
+    "pmid": "42872458",
+    "doi": "10.1515/jpem-2026-0302",
+    "title": "Fatty liver and adipokines: converging pathways linking insulin resistance to early atherosclerosis in obese children and adolescents.",
+    "titlePt": "Fatty liver and adipokines: converging pathways linking insulin resistance to early atherosclerosis in obese children and adolescents.",
+    "abstract": "Childhood obesity drives nonalcoholic fatty liver disease (NAFLD) and adipokine dysregulation, converging on insulin resistance (IR) to promote subclinical vascular injury measurable as increased carotid intima-media thickness (cIMT). Pediatric-specific mechanistic integration of these pathways with early atherosclerosis remains incompletely characterized. This review synthesizes evidence on NAFLD severity and cIMT in obese youth, examines the roles of resistin, high-molecular-weight (HMW) adiponectin, chemerin, and inflammatory mediators in IR-driven vascular remodeling, and evaluates their diagnostic and therapeutic implications. A structured narrative review following SANRA guidance was conducted. PubMed/MEDLINE was searched from January 2000 to March 2025 for studies enrolling children aged 2-18 years with obesity and reporting cIMT measured by B-mode ultrasonography alongside NAFLD or adipokine measures. Quality was assessed using the Newcastle-Ottawa Scale (NOS) and AMSTAR-2. Acr",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42872458",
+    "authors": [
+      {
+        "name": "Ashraf T Soliman",
+        "affiliation": "Department of Pediatrics, Hamad General Hospital, Doha, Qatar."
+      },
+      {
+        "name": "Noora AlHumaidi",
+        "affiliation": "Department of Pediatrics, Hamad General Hospital, Doha, Qatar."
+      },
+      {
+        "name": "Ahmed Elawwa",
+        "affiliation": "Department of Pediatrics, Hamad General Hospital, Doha, Qatar."
+      },
+      {
+        "name": "Fawzia Alyafei",
+        "affiliation": "Department of Pediatrics, Hamad General Hospital, Doha, Qatar."
+      }
+    ],
+    "journal": "Journal of pediatric endocrinology &amp; metabolism : JPEM",
+    "publishedDate": "2026-10-14",
+    "fetchedDate": "2026-10-15",
+    "category": "Pediatria",
+    "tags": [
+      "therapeutic",
+      "pediatric",
+      "children",
+      "childhood",
+      "insulin"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5G1DLx-2kFHot-a4aaabd65f09bb67\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 97c24964-32c6-45f0-8de7-c5f385d6fad4)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42872112",
     "pmid": "42872112",
     "doi": "10.1210/jendso/bvag206",
@@ -12406,90 +12493,5 @@
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42430019",
-    "pmid": "42430019",
-    "doi": "10.1007/s10549-026-08023-2",
-    "title": "Early first-line systemic anticancer therapeutic attrition after metastatic recurrence in triple-negative breast cancer following neoadjuvant chemo-immunotherapy: a multicenter real-world study.",
-    "titlePt": "Early first-line systemic anticancer therapeutic attrition after metastatic recurrence in triple-negative breast cancer following neoadjuvant chemo-immunotherapy: a multicenter real-world study.",
-    "abstract": "To assess the incidence and determinants of early first-line systemic anticancer therapeutic attrition after metastatic recurrence in triple-negative breast cancer (TNBC) treated with neoadjuvant chemo-immunotherapy. We conducted a retrospective multicenter analysis of 209 consecutive patients with early-stage TNBC treated with neoadjuvant chemo-immunotherapy. After a median follow-up of 24 months, 54 developed metastatic recurrence. Early first-line systemic anticancer therapeutic attrition was defined as failure to initiate systemic anticancer therapy within 90 days of documented recurrence. Associations were evaluated using univariate and multivariable logistic regression. Among patients who developed metastatic recurrence, 17 of 54 evaluable patients (32.7%) experienced early first-line systemic anticancer therapeutic attrition. Patients who did not initiate treatment had a significantly shorter disease-free interval compared with those who received first-line therapy (median 7.4 v",
-    "journalisticSummary": "**Versão em português brasileiro:**\n\nUm estudo multicêntrico e retrospectivo publicado recentemente no *Breast Cancer Research and Treatment* revelou que cerca de um terço dos pacientes com câncer de mama triplo-negativo (TNBC) que apresentam recorrência metastática após tratamento neoadjuvante com quimioterapia e imunoterapia não iniciam terapia sistêmica de primeira linha dentro do prazo de 90 dias. A análise, conduzida com 209 pacientes em estágio inicial, identificou uma taxa de 32,7% (17/54) de *early first-line systemic anticancer therapeutic attrition* — termo que descreve a falha em iniciar tratamento adequado em tempo hábil.\n\nOs dados indicam que os pacientes que não receberam terapia sistêmica apresentaram intervalo significativamente mais curto entre o diagnóstico inicial e a recorrência metastática (mediana de 7,4 meses) em comparação àqueles que iniciaram tratamento (mediana não especificada no resumo). A regressão logística multivariável sugeriu associações entre a não adesão ao tratamento e fatores como comorbidades não descritas ou características clínicas não detalhadas no estudo. Embora o trabalho não tenha explorado as causas da não iniciação terapêutica, os autores destacam a relevância do achado para a prática clínica, uma vez que atrasos superiores a 90 dias estão associados a piores desfechos oncológicos.\n\nAs limitações incluem o desenho retrospectivo, a amostra reduzida (apenas 54 pacientes com recorrência) e a ausência de análise de subgrupos por mutações genéticas ou perfis imunológicos. Os próximos passos sugeridos pelos pesquisadores envolvem estudos prospectivos para validar esses achados e investigar barreiras ao acesso ao tratamento, como dificuldades logísticas ou resistência do paciente, além de estratégias para otimizar o encaminhamento após recorrência metastática.\n\n---\n\n**English version:**\n\nA multicenter retrospective study published in *Breast Cancer Research and Treatment* found that nearly one-third of patients with triple-negative breast cancer (TNBC) who experience metastatic recurrence after neoadjuvant chemo-immunotherapy fail to initiate first-line systemic therapy within 90 days. The analysis, involving 209 early-stage patients, reported an attrition rate of 32.7% (17/54) in early first-line systemic anticancer treatment initiation—a critical gap in timely therapeutic intervention.\n\nData showed that patients who did not receive systemic therapy had a significantly shorter disease-free interval following initial treatment (median 7.4 months) compared to those who started therapy (median not specified). Multivariable logistic regression suggested associations between non-initiation and factors such as unspecified comorbidities or unexamined clinical characteristics. While the study did not investigate the underlying reasons for treatment delays, the authors emphasize the clinical significance, as delays exceeding 90 days are linked to poorer oncological outcomes.\n\nKey limitations include the retrospective design, small sample size (only 54 patients with recurrence), and lack of subgroup analysis by genetic mutations or immune profiles. The researchers propose prospective studies to validate these findings and explore barriers to treatment access—such as logistical challenges or patient resistance—as well as strategies to improve post-recurrence systemic therapy initiation.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42430019",
-    "authors": [
-      {
-        "name": "Palma Fedele",
-        "affiliation": "Oncology Unit, Dario Camberlingo Hospital, 72021, Francavilla Fontana, Brindisi, Italy. palma.fedele@asl.brindisi.it."
-      },
-      {
-        "name": "Alessandro Rizzo",
-        "affiliation": "S.S.D. C.O.r.O. Bed Management Presa in Carico, TDM, IRCCS Istituto Tumori \"Giovanni Paolo II\", 70124, Bari, Italy."
-      },
-      {
-        "name": "Matteo Landriscina",
-        "affiliation": "U.O. Medical Oncology and Biomolecular Therapy, Department of Medical and Surgical Sciences, University of Foggia, 71100, Foggia, Italy."
-      },
-      {
-        "name": "Luigia Stefania Stucci",
-        "affiliation": "Breast Care Unit, University Hospital Consortium Policlinico of Bari, 70124, Bari, Italy."
-      }
-    ],
-    "journal": "Breast cancer research and treatment",
-    "publishedDate": "2026-07-10",
-    "fetchedDate": "2026-07-10",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "immunotherapy",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41816931",
-    "pmid": "41816931",
-    "doi": "10.1080/14760584.2026.2645378",
-    "title": "Vaccine effectiveness against medically attended, laboratory-confirmed influenza in the I-MOVE primary care network in Europe, VEBIS project, 2024/25.",
-    "titlePt": "Vaccine effectiveness against medically attended, laboratory-confirmed influenza in the I-MOVE primary care network in Europe, VEBIS project, 2024/25.",
-    "abstract": "We conducted a multicenter test-negative study to estimate vaccine effectiveness (VE) against medically attended, laboratory-confirmed influenza in primary care, Europe, 2024/25. Specimens were collected from patients with acute respiratory infection. All or a random sample of viruses were sequenced. VE was (1-odds ratio)&#x2009;&#xd7;&#x2009;100, adjusted for confounders. We included 7275 cases and 17,516 controls (weeks 40-2024-18-2025). The overall VE was 46% (95% CI: 40-52), lowest in adults&#x2009;&#x2265;65&#x2009;years at 28% (95% CI: 12-42). VE against influenza A(H1N1)pdm09 was 30% (95% CI: 19-40); ranging 16-34% by age and vaccination target group. Most (88%) circulating clades were 5a.2a, distinct from the vaccine clade. VE was 28% (95% CI: 7-45) against 5a.2a (C.1.9), and 6% (95% CI: -62-45) against the vaccine-matched clade 5a.2a.1 (D). VE against influenza A(H3N2) was 38% (95% CI: 26-49); ranging 20-66% by age and target group. Circulating viruses belonged to the vaccine ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo multicêntrico europeu, conduzido no âmbito do projeto VEBIS do I-MOVE, avaliou a eficácia vacinal (EV) contra influenza confirmada laboratorialmente em atendimentos primários durante a temporada 2024/25. Utilizando delineamento *test-negative* — metodologia robusta para estimar proteção vacinal em cenários de circulação viral —, os pesquisadores analisaram 7.275 casos de infecção respiratória aguda e 17.516 controles (semanas 40/2024 a 18/2025). A EV geral contra influenza foi de 46% (IC95%: 40–52), com desempenho significativamente inferior em adultos com 65 anos ou mais (28%; IC95%: 12–42). Quando estratificada por sorotipo, a proteção contra influenza A(H1N1)pdm09 atingiu 30% (IC95%: 19–40), variando entre 16% e 34% conforme faixa etária e grupo-alvo vacinal. A maioria dos vírus circulantes (88%) pertencia ao clade 5a.2a, distinto do clade vacinal, resultando em uma EV de apenas 28% (IC95%: 7–45) contra essa linhagem. Em contraste, a eficácia contra o clade vacinal 5a.2a.1 (D) foi de apenas 6% (IC95%: -62–45), sinalizando uma baixa correspondência antigênica entre a cepa vacinal e os vírus circulantes. Para influenza A(H3N2), a EV foi de 38% (IC95%: 26–49), com variação de 20% a 66% conforme subgrupos analisados. Os achados destacam a importância da vigilância genômica contínua e da adaptação anual das vacinas, especialmente em populações vulneráveis, cujos resultados sugerem menor proteção mesmo com cobertura vacinal adequada. Limitações incluem a ausência de dados sobre comorbidades prévias e a impossibilidade de generalizar os achados para outras regiões fora da rede I-MOVE. Próximos passos devem priorizar estudos de imunogenicidade e estratégias para melhorar a correspondência entre cepas vacinais e circulantes em temporadas subsequentes.\n\n---\n\n**English version**\n\nA multicenter European study, conducted as part of the I-MOVE VEBIS project, assessed vaccine effectiveness (VE) against laboratory-confirmed influenza in primary care during the 2024/25 season. Using a *test-negative* design — a robust methodology for estimating vaccine protection in real-world viral circulation scenarios — researchers analyzed 7,275 acute respiratory infection cases and 17,516 controls (weeks 40/2024 to 18/2025). Overall VE against influenza was 46% (95% CI: 40–52), with significantly lower protection in adults aged 65 years or older (28%; 95% CI: 12–42). When stratified by subtype, VE against influenza A(H1N1)pdm09 reached 30% (95% CI: 19–40), ranging from 16% to 34% across age groups and vaccination target groups. The majority of circulating viruses (88%) belonged to clade 5a.2a, distinct from the vaccine clade, yielding a VE of just 28% (95% CI: 7–45) against this lineage. In contrast, effectiveness against the vaccine-matched clade 5a.2a.1 (D) was only 6% (95% CI: -62–45), indicating poor antigenic match between the vaccine strain and circulating viruses. For influenza A(H3N2), VE was 38% (95% CI: 26–49), varying from 20% to 66% across subgroups. The findings underscore the critical role of continuous genomic surveillance and annual vaccine updates, particularly in vulnerable populations, where results suggest reduced protection despite adequate vaccination coverage. Limitations include the lack of data on pre-existing comorbidities and the inability to generalize findings beyond the I-MOVE network. Future research should prioritize immunogenicity studies and strategies to improve the antigenic match between vaccine strains and circulating viruses in subsequent seasons.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41816931",
-    "authors": [
-      {
-        "name": "H&#xe9;lo&#xef;se Lucaccioni",
-        "affiliation": "Epidemiology Department, Epiconcept, Paris, France."
-      },
-      {
-        "name": "Francisco Pozo",
-        "affiliation": "National Centre for Microbiology, Institute of Health Carlos III, Madrid, Spain."
-      },
-      {
-        "name": "Gloria P&#xe9;rez-Gimeno",
-        "affiliation": "Consortium for Biomedical Research in Epidemiology and Public Health (CIBERESP), Institute of Health Carlos III, Madrid, Spain."
-      },
-      {
-        "name": "Ralf D&#xfc;rrwald",
-        "affiliation": "Consortium for Biomedical Research in Epidemiology and Public Health (CIBERESP), Institute of Health Carlos III, Madrid, Spain."
-      }
-    ],
-    "journal": "Expert review of vaccines",
-    "publishedDate": "2026-07-10",
-    "fetchedDate": "2026-07-10",
-    "category": "Infectologia",
-    "tags": [
-      "infection",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
