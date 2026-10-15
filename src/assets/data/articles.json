@@ -1,5 +1,126 @@
 [
   {
+    "id": "pubmed-42875927",
+    "pmid": "42875927",
+    "doi": "10.1111/pace.70472",
+    "title": "Pulsed Field Versus Radiofrequency Ablation of Atrial Fibrillation: Esophageal Lesions and Suspected Gastroparesis.",
+    "titlePt": "Pulsed Field Versus Radiofrequency Ablation of Atrial Fibrillation: Esophageal Lesions and Suspected Gastroparesis.",
+    "abstract": "Esophageal mucosal injury and gastroparesis are clinically important complications of radiofrequency ablation (RFA) of atrial fibrillation (AF). Pulsed-field ablation (PFA) is a non-thermal modality that may spare these complications due to its myocardial tissue selectivity. We aimed to compare the incidence of endoscopically detected esophageal lesions (EDELs) and suspected gastroparesis between RFA and PFA as the primary endpoints. Secondary endpoints included perioperative complications, procedural parameters, and 365-day clinical outcomes. Between July 2023 and July 2025, patients undergoing a first-time AF ablation with RFA or PFA were enrolled. RFA was performed using either a QDOT MICRO catheter (Biosense Webster, Inc., Irvine, CA, USA) or a TactiFlex Ablation Catheter, Sensor Enabled (Abbott, Abbott Park, IL, USA), while PFA was performed using the FARAPULSE system or the PulseSelect system. All patients underwent upper gastrointestinal endoscopy on the day after ablation. An E",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42875927",
+    "authors": [
+      {
+        "name": "Atsushi Murakami",
+        "affiliation": "Department of Internal Medicine, Division of Cardiovascular Medicine, Kobe University Graduate School of Medicine, Hyogo, Japan."
+      },
+      {
+        "name": "Koji Fukuzawa",
+        "affiliation": "Department of Internal Medicine, Division of Cardiovascular Medicine, Kobe University Graduate School of Medicine, Hyogo, Japan."
+      },
+      {
+        "name": "Mitsuru Takami",
+        "affiliation": "Section of Arrhythmia, Department of Internal Medicine, Division of Cardiovascular Medicine, Kobe University Graduate School of Medicine, Hyogo, Japan."
+      },
+      {
+        "name": "Kimitake Imamura",
+        "affiliation": "Department of Internal Medicine, Division of Cardiovascular Medicine, Kobe University Graduate School of Medicine, Hyogo, Japan."
+      }
+    ],
+    "journal": "Pacing and clinical electrophysiology : PACE",
+    "publishedDate": "2026-10-15",
+    "fetchedDate": "2026-10-15",
+    "category": "Cardiologia",
+    "tags": [
+      "myocardial",
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5LP6dy-2kFHot-a4af6535dd6212a1\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: c8d8d043-1321-443b-b58a-987121de0e49)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42605126",
+    "pmid": "42605126",
+    "doi": "10.1177/21532176261475772",
+    "title": "Systematic Review of the Relationship Between the Presence and Quality of Sidewalks and Children's Physical Health.",
+    "titlePt": "Systematic Review of the Relationship Between the Presence and Quality of Sidewalks and Children's Physical Health.",
+    "abstract": "This systematic review synthesized existing research about associations between sidewalk availability and quality and children's physical health outcomes. Google Scholar, PubMed, Scopus, and Web of Science were searched. The initial search strategy was intentionally broad, encompassing all age groups and physical health outcomes in relation to sidewalk access, quality, and connectivity. One hundred and eighty-four eligible studies were identified among 17,726; the retained studies were categorized by age group. This review focuses on 39 articles that specifically examined associations between sidewalk infrastructure and physical health outcomes in children. Eligible studies included both observational and experimental designs, were published in English through March 2025, and reported at least one physical health metric in relation to some aspect of sidewalk characteristics. The included studies (n = 39) were conducted in diverse geographic regions, with the majority based in North Ame",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42605126",
+    "authors": [
+      {
+        "name": "Farnaz Hesam Shariati",
+        "affiliation": "Department of Health Promotion, Education, and Behavior, University of South Carolina, Columbia, South Carolina, USA."
+      },
+      {
+        "name": "Jason Daniel Czerwinski",
+        "affiliation": "Department of Environmental Health Sciences, University of South Carolina, Columbia, South Carolina, USA."
+      },
+      {
+        "name": "Sadaf Adhami",
+        "affiliation": "Department of Architecture and Urban Design, Polytechnic University of Turin, Turin, Italy."
+      },
+      {
+        "name": "Fatemeh Abavisani",
+        "affiliation": "School of Architecture and Urban Planning, Ferdowsi University of Mashhad, Mashhad, Iran."
+      }
+    ],
+    "journal": "Childhood obesity (Print)",
+    "publishedDate": "2026-10-15",
+    "fetchedDate": "2026-10-15",
+    "category": "Pediatria",
+    "tags": [
+      "children"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5LQ3q5-2kFHot-a4af69be691addff\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: d87ee51a-b3b9-409e-91e3-80f17fc5092a)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42875600",
+    "pmid": "42875600",
+    "doi": "10.1007/s00125-026-06892-2",
+    "title": "Efficacy and safety of HRS-7535, a novel oral small-molecule glucagon-like peptide-1 receptor agonist, in participants with type 2 diabetes mellitus inadequately controlled by metformin and sodium-glucose co-transporter&#xa0;2 inhibitors: a multicentre, randomised, double-blind, placebo-controlled, parallel-group Phase II trial.",
+    "titlePt": "Efficacy and safety of HRS-7535, a novel oral small-molecule glucagon-like peptide-1 receptor agonist, in participants with type 2 diabetes mellitus inadequately controlled by metformin and sodium-glucose co-transporter&#xa0;2 inhibitors: a multicentre, randomised, double-blind, placebo-controlled, parallel-group Phase II trial.",
+    "abstract": "This study aimed to evaluate the efficacy and safety of HRS-7535, an oral small-molecule glucagon-like peptide-1 receptor agonist (GLP-1RA), in Chinese participants with type 2 diabetes mellitus inadequately managed by metformin and sodium-glucose co-transporter&#xa0;2 inhibitors (SGLT2i). This multicentre, randomised, double-blind, placebo-controlled, Phase II study included participants aged 18-75 years with type 2 diabetes, HbA1c 58-97 mmol/mol (7.5-11.0%) and BMI 20.0-35.0 kg/m2 and on stable-dose metformin and sodium-glucose co-transporter 2 (SGLT2) inhibitor therapy for &#x2265;8 weeks prior to screening. Participants were assigned in a 1:1:1 ratio to receive HRS-7535 30 mg, HRS-7535 60 mg or visually matching placebo tablets once daily using a stratified block randomisation method, with treatment assignments concealed until study completion. The primary endpoint was the change in HbA1c from baseline to week&#xa0;16. Secondary efficacy outcomes included the proportions of partici",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42875600",
+    "authors": [
+      {
+        "name": "Mingtong Xu",
+        "affiliation": "Department of Endocrinology, Sun Yat-sen Memorial Hospital, Guangzhou, China."
+      },
+      {
+        "name": "Weihong Song",
+        "affiliation": "Department of Endocrinology, Chenzhou No. 1 People's Hospital, Chenzhou, China."
+      },
+      {
+        "name": "Fang Lv",
+        "affiliation": "Department of Endocrinology, Hefei First People's Hospital, Hefei, China."
+      },
+      {
+        "name": "Yanqin Fu",
+        "affiliation": "Department of Endocrinology, The Second Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+      }
+    ],
+    "journal": "Diabetologia",
+    "publishedDate": "2026-10-14",
+    "fetchedDate": "2026-10-15",
+    "category": "Endocrinologia",
+    "tags": [
+      "diabetes"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5LPuo7-2kFHot-a4af6914fbde12a1\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 4ee1e394-1150-4554-b581-cffaf7441bfe)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42615958",
     "pmid": "42615958",
     "doi": "10.1016/j.jacc.2026.06.042",
@@ -12367,131 +12488,5 @@
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42436136",
-    "pmid": "42436136",
-    "doi": "10.1038/s41525-026-00595-8",
-    "title": "Specimen quality shapes the actionable genomic landscape in comprehensive cancer genomic profiling.",
-    "titlePt": "Specimen quality shapes the actionable genomic landscape in comprehensive cancer genomic profiling.",
-    "abstract": "Comprehensive genomic profiling (CGP) is widely used to identify actionable alterations and guide precision oncology, yet only a minority of tested patients receive genome-matched therapies, underscoring a gap between genomic findings and clinical benefit. We hypothesized that this gap may partly reflect variation in the reliability and interpretability of genomic information generated from specimens of different quality and by different assay modalities. To examine this possibility, we performed a retrospective multicenter analysis of 2002 CGP tests conducted between 2019 and 2025 across 13 institutions in Japan. Detection of short variants, copy number alterations (CNAs), structural variants, and genomic signatures, including microsatellite instability, tumor mutational burden, and homologous recombination deficiency signature, was compared among FoundationOne CDx specimens classified as pass (F1-pass) or qualified (F1-qual) and liquid-based CGP (liq-CGP). Short variant detection rem",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo multicêntrico realizado no Japão entre 2019 e 2025 revelou que a qualidade do espécime influencia significativamente a detecção de alterações genômicas clinicamente relevantes em testes de perfil genômico abrangente (CGP). Publicado recentemente na *Nature Medicine*, a pesquisa analisou 2.002 testes de CGP conduzidos em 13 instituições, comparando amostras classificadas como \"aprovadas\" (F1-pass) ou \"qualificadas\" (F1-qual) pelo teste *FoundationOne CDx* com resultados de CGP baseado em líquido (liq-CGP).\n\nOs resultados indicam que espécimes de menor qualidade, independentemente do tipo de teste, apresentam menor confiabilidade na detecção de variantes curtas, alterações no número de cópias (CNAs), variantes estruturais e assinaturas genômicas — como instabilidade de microssatélites, carga mutacional tumoral e deficiência de recombinação homóloga. Embora o estudo não tenha especificado a taxa exata de variantes não detectadas devido à baixa qualidade do espécime, os autores destacam que essa variabilidade pode contribuir para a lacuna entre achados genômicos e benefícios clínicos em terapias de precisão, já que apenas uma minoria dos pacientes testados recebe terapias alinhadas ao seu perfil genômico.\n\nAs limitações incluem o desenho retrospectivo do estudo e a dependência de classificações de qualidade pré-definidas, que podem não refletir todas as nuances de amostras clínicas reais. Os autores sugerem que protocolos padronizados de coleta e processamento de espécimes, bem como o desenvolvimento de algoritmos capazes de avaliar a qualidade em tempo real, poderiam mitigar esses vieses. Além disso, a integração de CGP líquido como alternativa — ainda que com sensibilidade inferior para certas alterações — pode ampliar o acesso a testes genômicos em cenários onde amostras de tecido são limitadas.\n\n**Versão em inglês**\n\nA multicenter retrospective study conducted in Japan between 2019 and 2025 has demonstrated that specimen quality significantly impacts the detection of clinically relevant genomic alterations in comprehensive genomic profiling (CGP) tests. Published in *Nature Medicine*, the research analyzed 2,002 CGP tests performed across 13 institutions, comparing samples classified as \"pass\" (F1-pass) or \"qualified\" (F1-qual) by the *FoundationOne CDx* assay with liquid-based CGP (liq-CGP) results.\n\nThe findings indicate that lower-quality specimens, regardless of test type, show reduced reliability in detecting short variants, copy number alterations (CNAs), structural variants, and genomic signatures—such as microsatellite instability, tumor mutational burden, and homologous recombination deficiency. While the study did not quantify the exact rate of missed alterations due to poor specimen quality, the authors emphasize that this variability may contribute to the gap between genomic findings and clinical benefits in precision oncology, as only a minority of tested patients receive genome-matched therapies.\n\nLimitations of the study include its retrospective design and reliance on predefined quality classifications, which may not capture all nuances of real-world clinical samples. The authors propose that standardized specimen collection and processing protocols, as well as the development of real-time quality assessment algorithms, could mitigate these biases. Additionally, the integration of liquid CGP as an alternative—though with lower sensitivity for certain alterations—may expand access to genomic testing in scenarios where tissue samples are limited.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42436136",
-    "authors": [
-      {
-        "name": "Hikaru Nakahara",
-        "affiliation": "Department of Clinical and Molecular Genetics, Hiroshima University Hospital, Hiroshima University, Hiroshima, Japan."
-      },
-      {
-        "name": "Hiroaki Niitsu",
-        "affiliation": "Department of Clinical and Molecular Genetics, Hiroshima University Hospital, Hiroshima University, Hiroshima, Japan. hniitsu@hiroshima-u.ac.jp."
-      },
-      {
-        "name": "Masanori Motonaga",
-        "affiliation": "Department of Pharmaceutical Services, Hiroshima University Hospital, Hiroshima, Japan."
-      },
-      {
-        "name": "Hiroaki Matsuo",
-        "affiliation": "Department of Pharmaceutical Services, Hiroshima University Hospital, Hiroshima, Japan."
-      }
-    ],
-    "journal": "NPJ genomic medicine",
-    "publishedDate": "2026-07-11",
-    "fetchedDate": "2026-07-12",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "oncology",
-      "genomic",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41802941",
-    "pmid": "41802941",
-    "doi": "10.1080/21645515.2026.2641328",
-    "title": "Human papillomavirus awareness and vaccination willingness among male community residents in Beijing based on the Health Belief Model.",
-    "titlePt": "Human papillomavirus awareness and vaccination willingness among male community residents in Beijing based on the Health Belief Model.",
-    "abstract": "Following the January 2025 approval of the first male HPV vaccine in the Chinese mainland, we investigated vaccination willingness and its influencing factors among community-dwelling men. We conducted a cross-sectional study in Beijing, recruiting 480 community-based male residents and 399 men who have sex with men (MSM). Participants completed a questionnaire assessing HPV knowledge and the Health Belief Model (HBM) constructs. Multivariable logistic regression was performed to identify determinants of willingness. We found a high level of vaccination willingness, which was notably higher among MSM (90.73%) than the community-recruited male population (87.29%). Critically, willingness surpassed awareness, indicating significant latent demand despite low overall HPV knowledge. HBM analysis showed that perceived benefits promoted willingness in both groups, while self-efficacy of prevention paradoxically acted as an inhibitor. MSM reported higher perceived susceptibility and benefits, ",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41802941",
-    "authors": [
-      {
-        "name": "Yan Xing",
-        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
-      },
-      {
-        "name": "Rujing Shi",
-        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
-      },
-      {
-        "name": "Yulian Li",
-        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
-      },
-      {
-        "name": "Run Cai",
-        "affiliation": "Haidian District Center for Disease Prevention and Control, Beijing, China."
-      }
-    ],
-    "journal": "Human vaccines &amp; immunotherapeutics",
-    "publishedDate": "2026-07-10",
-    "fetchedDate": "2026-09-19",
-    "category": "Imunologia",
-    "tags": [
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p1qP3VR-2kFHot-a3d44fc7986ffca9\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-41819984",
-    "pmid": "41819984",
-    "doi": "10.1080/14767058.2026.2640251",
-    "title": "The preventive effects of different interventions on gestational hypertension: incidence and network meta-analysis.",
-    "titlePt": "The preventive effects of different interventions on gestational hypertension: incidence and network meta-analysis.",
-    "abstract": "A network meta-analysis based on randomized controlled trials was conducted to investigate the effects of different interventions in preventing gestational hypertension (GHT). A comprehensive search of English databases was performed from database inception to March 1st, 2025 to identify randomized controlled trials (RCTs) evaluating different interventions for the prevention GHT. The methodological quality and risk of bias for the included trials were appraised according to the Cochrane Handbook tool. A network meta-analysis was conducted using Stata version 15.1 software, and pooled effect estimates were expressed as the odds ratio (OR) with 95% confidence interval (CI). A total of 50 randomized controlled trials involving 57,836 pregnant women were included in the network meta-analysis. For all included trials, 12 interventions were evaluated, resulting in 66 direct pairwise comparisons. The network meta-analysis demonstrated that compared with Placebo, Aspirin (OR = 0.68, 95% CI [0",
-    "journalisticSummary": "Um estudo recente publicado na literatura científica investigou os efeitos de diferentes intervenções na prevenção da hipertensão gestacional (HG), uma condição que afeta milhares de mulheres grávidas em todo o mundo. A hipertensão gestacional é uma condição caracterizada pela elevação da pressão arterial durante a gravidez, podendo levar a complicações graves para a mãe e o feto. Para entender melhor como prevenir essa condição, os pesquisadores realizaram uma metanálise em rede baseada em ensaios clínicos randomizados.\n\nA pesquisa incluiu 50 ensaios clínicos randomizados que envolveram 57.836 mulheres grávidas e avaliaram 12 diferentes intervenções. Os resultados mostraram que, em comparação com o placebo, a aspirina demonstrou um efeito significativo na redução do risco de hipertensão gestacional, com uma razão de chances (OR) de 0,68 e um intervalo de confiança (IC) de 95% que indicou uma redução estatisticamente significativa. No entanto, não foram fornecidos detalhes adicionais sobre os outros intervenientes e sua eficácia em relação à aspirina.\n\nO impacto clínico desses achados é considerável, pois a hipertensão gestacional é uma causa importante de morbidade e mortalidade materna e fetal. A identificação de intervenções eficazes para prevenir essa condição pode melhorar significativamente os resultados de saúde para as mulheres grávidas e seus filhos. No entanto, é importante notar que o estudo tem limitações, como a variedade de intervenções avaliadas e a falta de informações detalhadas sobre a população estudada, o que pode afetar a generalização dos resultados.\n\nOs próximos passos incluem a realização de mais pesquisas para confirmar esses achados e explorar outras intervenções que possam ser eficazes na prevenção da hipertensão gestacional. Além disso, é fundamental que os resultados sejam comunicados de forma clara e acessível para os profissionais de saúde e as mulheres grávidas, para que possam tomar decisões informadas sobre sua saúde.\n\nA prevenção da hipertensão gestacional é um tema complexo que requer uma abordagem multifacetada, envolvendo não apenas a aspirina, mas também outras intervenções e mudanças no estilo de vida. É essencial que os pesquisadores continuem a investigar essa área para desenvolver estratégias eficazes de prevenção e tratamento, melhorando assim a saúde e o bem-estar das mulheres grávidas e seus filhos.\n\nUm estudo recente publicado na literatura científica investigou os efeitos de diferentes intervenções na prevenção da hipertensão gestacional. A pesquisa incluiu 50 ensaios clínicos randomizados que envolveram 57.836 mulheres grávidas e avaliaram 12 diferentes intervenções. Os resultados mostraram que a aspirina demonstrou um efeito significativo na redução do risco de hipertensão gestacional. No entanto, não foram fornecidos detalhes adicionais sobre os outros intervenientes e sua eficácia em relação à aspirina.\n\nEm inglês:\n\nA recent study published in the scientific literature investigated the effects of different interventions on the prevention of gestational hypertension (GH), a condition that affects thousands of pregnant women worldwide. Gestational hypertension is a condition characterized by elevated blood pressure during pregnancy, which can lead to serious complications for the mother and fetus. To better understand how to prevent this condition, researchers conducted a network meta-analysis based on randomized controlled trials.\n\nThe study included 50 randomized controlled trials that involved 57,836 pregnant women and evaluated 12 different interventions. The results showed that, compared to placebo, aspirin demonstrated a significant effect in reducing the risk of gestational hypertension, with an odds ratio (OR) of 0.68 and a 95% confidence interval (CI) that indicated a statistically significant reduction. However, no additional details were provided about the other interventions and their efficacy compared to aspirin.\n\nThe clinical impact of these findings is considerable, as gestational hypertension is a major cause of maternal and fetal morbidity and mortality. The identification of effective interventions to prevent this condition can significantly improve health outcomes for pregnant women and their children. However, it is essential to note that the study has limitations, such as the variety of interventions evaluated and the lack of detailed information about the study population, which may affect the generalizability of the results.\n\nThe next steps include conducting further research to confirm these findings and exploring other interventions that may be effective in preventing gestational hypertension. Additionally, it is crucial that the results are communicated clearly and accessibly to healthcare professionals and pregnant women, so that they can make informed decisions about their health.\n\nThe prevention of gestational hypertension is a complex topic that requires a multifaceted approach, involving not only aspirin but also other interventions and lifestyle changes. It is essential that researchers continue to investigate this area to develop effective prevention and treatment strategies, thereby improving the health and well-being of pregnant women and their children.\n\nA recent study published in the scientific literature investigated the effects of different interventions on the prevention of gestational hypertension. The study included 50 randomized controlled trials that involved 57,836 pregnant women and evaluated 12 different interventions. The results showed that aspirin demonstrated a significant effect in reducing the risk of gestational hypertension. However, no additional details were provided about the other interventions and their efficacy compared to aspirin.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41819984",
-    "authors": [
-      {
-        "name": "Yu Wu",
-        "affiliation": "The First Clinical Medical College, Lanzhou University, Lanzhou, Gansu, China."
-      },
-      {
-        "name": "Kangle Guo",
-        "affiliation": "Department of Obstetrics and Gynecology, the First Hospital of Lanzhou University, Key Laboratory of Gynecologic Oncology of Gansu Province, Lanzhou, Gansu, China."
-      },
-      {
-        "name": "Yongxiu Yang",
-        "affiliation": "Evidence-Based Medicine Center, School of Basic Medical Sciences, Lanzhou University, Lanzhou, China."
-      },
-      {
-        "name": "Kehu Yang",
-        "affiliation": "Evidence-based Social Sciences Research Center, School of Public Health, Lanzhou University, Lanzhou, China."
-      }
-    ],
-    "journal": "The journal of maternal-fetal &amp; neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
-    "publishedDate": "2026-07-10",
-    "fetchedDate": "2026-07-11",
-    "category": "Cardiologia",
-    "tags": [
-      "hypertension"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
