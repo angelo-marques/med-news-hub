@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42886311",
+    "pmid": "42886311",
+    "doi": "10.1186/s43556-026-00598-y",
+    "title": "Synthetic Notch CD123 and CLL1 chimeric antigen receptor T-cells (CAR-T) target acute myeloid leukemia and reduce off-tumor effects associated with CLL1 CAR-T cells.",
+    "titlePt": "Synthetic Notch CD123 and CLL1 chimeric antigen receptor T-cells (CAR-T) target acute myeloid leukemia and reduce off-tumor effects associated with CLL1 CAR-T cells.",
+    "abstract": "Chimeric antigen receptor T-cell (CAR-T) therapy targeting the C-type lectin-like molecule-1 (CLL1) antigen has emerged as a promising therapeutic approach for acute myeloid leukemia (AML). However, its clinical translation is hindered by on-target, off-tumor toxicity, particularly severe neutropenia caused by CLL1 expression on normal neutrophils. To address this limitation, we constructed a synthetic Notch (SynNotch) dual-antigen AND-gated CAR-T system targeting CD123 and CLL1 to improve tumor specificity and reduce off-tumor toxicity. CD123 and CLL1 expression was first assessed in AML cell lines and primary AML blasts by flow cytometry. The in vitro cytotoxicity, serial killing activity, cytokine secretion, exhaustion-associated protein markers, and transcriptomic profiles of engineered CAR-T cells were then evaluated, and therapeutic efficacy and safety were further examined in AML xenograft models. SynNotch CD123 and CLL1 CAR-T cells showed stronger cytotoxic activity against AML",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42886311",
+    "authors": [
+      {
+        "name": "Rui Zhang",
+        "affiliation": "Department of Hematology, Tianjin First Central Hospital, Tianjin, 300380, China."
+      },
+      {
+        "name": "Na Chen",
+        "affiliation": "First Central Hospital of Tianjin Medical University, Tianjin Medical University, Tianjin, China."
+      },
+      {
+        "name": "Mengnan Li",
+        "affiliation": "School of Medicine, Nankai University, Tianjin, China."
+      },
+      {
+        "name": "Qingxi Liu",
+        "affiliation": "Qilu Institute of Technology, Shandong, China. liuqingxi66@aliyun.com."
+      }
+    ],
+    "journal": "Molecular biomedicine",
+    "publishedDate": "2026-10-16",
+    "fetchedDate": "2026-10-16",
+    "category": "Oncologia",
+    "tags": [
+      "tumor",
+      "leukemia",
+      "therapeutic",
+      "cytokine"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5WwWZi-2kFHot-a4baca6c4a03c9a3\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: a8249d12-350b-4f69-8f61-f731d8c08035)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42881355",
     "pmid": "42881355",
     "doi": "10.1007/s12471-026-02081-3",
@@ -12438,47 +12481,6 @@
     ],
     "isHighlight": false,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42350157",
-    "pmid": "42350157",
-    "doi": "10.1021/acs.analchem.6c01031",
-    "title": "The Cerebrospinal Fluid Proteome of Alzheimer's Disease Patients: Differentiation and Prediction of Responders and Non-Responders to Lymphatic-Venous Anastomosis.",
-    "titlePt": "The Cerebrospinal Fluid Proteome of Alzheimer's Disease Patients: Differentiation and Prediction of Responders and Non-Responders to Lymphatic-Venous Anastomosis.",
-    "abstract": "Herein, we describe the identification of protein biomarkers in the cerebrospinal fluid (CSF) of Alzheimer's disease (AD) patients that enable the differentiation of Responders from Non-Responders to lymphatic-venous anastomosis (LVA). Discovery of these potential biomarkers was achieved by deep proteomic analysis on the pre-LVA cerebrospinal fluid in a cohort of 90 patients. A combination of two CSF processing modalities and two computational platforms allowed us to secure the largest CSF proteome ever reported (6711 proteins identified with 4506 proteins quantified at a false-discovery rate of &#x2264;1%). Importantly, we discovered 16 CSF proteins that are expressed differentially between patients who showed documented improvements after LVA (the Responders) and those who showed no improvements (the Non-Responders). Pairing of two of the best-performing potential biomarkers&#x2500;NPTX2 and IGSF10&#x2500;gave an accuracy of 0.790 (AUC = 0.854) in correctly identifying Responders and",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Analytical Chemistry* identificou potenciais biomarcadores proteicos no líquido cefalorraquidiano (LCR) capazes de distinguir pacientes com doença de Alzheimer (DA) que respondem ao procedimento de anastomose linfático-venosa (LVA) daqueles que não apresentam melhora clínica. A pesquisa, conduzida por meio de análise proteômica profunda em uma coorte de 90 pacientes antes da realização do LVA, revelou o maior perfil proteômico já reportado para LCR: 6.711 proteínas identificadas e 4.506 quantificadas, com taxa de falso positivo inferior a 1%. Dentre os achados, 16 proteínas apresentaram expressão diferencial entre *respondedores* — pacientes que demonstraram melhora documentada após o procedimento — e *não respondedores*, que não apresentaram benefícios clínicos.\n\nA combinação de dois métodos de processamento de LCR e duas plataformas computacionais permitiu a identificação de biomarcadores com potencial aplicação clínica. A dupla de proteínas NPTX2 e IGSF10 destacou-se por sua capacidade preditiva, alcançando uma acurácia de 0,790 (AUC de 0,854) na diferenciação entre os grupos. Esses resultados sugerem que tais marcadores poderiam ser úteis na estratificação de pacientes candidatos a LVA, otimizando a seleção de candidatos e reduzindo a exposição a procedimentos de eficácia incerta. No entanto, o estudo não reporta dados sobre a reprodutibilidade dos achados em coortes independentes ou a validação em amostras subsequentes ao procedimento, o que limita a generalização dos resultados.\n\nOs autores destacam a necessidade de estudos prospectivos para confirmar a utilidade clínica desses biomarcadores, bem como investigações adicionais sobre os mecanismos biológicos subjacentes à resposta ao LVA. A integração desses marcadores em protocolos de decisão clínica poderia representar um avanço na medicina de precisão para a doença de Alzheimer, mas ainda são necessários testes em larga escala e ensaios randomizados para validar sua eficácia e segurança antes de uma implementação rotineira.\n\n---\n\n**English version**\n\nA recent study published in *Analytical Chemistry* identified potential protein biomarkers in cerebrospinal fluid (CSF) capable of distinguishing Alzheimer’s disease (AD) patients who respond to lymphaticovenous anastomosis (LVA) from those who do not. Conducted through deep proteomic analysis in a cohort of 90 patients prior to LVA, the research revealed the largest CSF proteome ever reported: 6,711 proteins identified and 4,506 quantified, with a false-discovery rate of less than 1%. Among the findings, 16 proteins showed differential expression between *responders*—patients who demonstrated documented improvement after the procedure—and *non-responders*, who exhibited no clinical benefits.\n\nThe integration of two CSF processing methods and two computational platforms enabled the identification of biomarkers with potential clinical utility. The protein pair NPTX2 and IGSF10 stood out for their predictive performance, achieving an accuracy of 0.790 (AUC = 0.854) in differentiating between the groups. These results suggest that such markers could assist in patient stratification for LVA, optimizing candidate selection and reducing exposure to procedures of uncertain efficacy. However, the study does not report data on the reproducibility of findings in independent cohorts or validation in post-procedural samples, which limits the generalizability of the results.\n\nThe authors emphasize the need for prospective studies to confirm the clinical utility of these biomarkers, as well as further investigations into the biological mechanisms underlying LVA response. While integrating these markers into clinical decision-making could represent an advance in precision medicine for Alzheimer’s disease, large-scale testing and randomized trials are required to validate their efficacy and safety before routine implementation.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42350157",
-    "authors": [
-      {
-        "name": "Yinan Li",
-        "affiliation": "Center for Mass Spectrometry Research and Clinical Application, and Center for Integrative and Translational Medicine, Shandong Public Health Clinical Center Affiliated to Shandong University, Lishan Campus, 46 Lishan Road, Jinan, Shandong 250013, China."
-      },
-      {
-        "name": "Anqi Du",
-        "affiliation": "Department of Chemistry, University of Hong Kong, Pokfulam Road, Hong Kong 999077, China."
-      },
-      {
-        "name": "Qinghua Zhang",
-        "affiliation": "College of Artificial Intelligence and Big Data for Medical Sciences, Shandong First Medical University and Shandong Academy of Medical Sciences, 6999 Qingdao Road, Jinan, Shandong 250117, China."
-      },
-      {
-        "name": "Guangqi Xu",
-        "affiliation": "Center for Mass Spectrometry Research and Clinical Application, and Center for Integrative and Translational Medicine, Shandong Public Health Clinical Center Affiliated to Shandong University, Lishan Campus, 46 Lishan Road, Jinan, Shandong 250013, China."
-      }
-    ],
-    "journal": "Analytical chemistry",
-    "publishedDate": "2026-07-14",
-    "fetchedDate": "2026-07-14",
-    "category": "Neurologia",
-    "tags": [
-      "alzheimer"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
