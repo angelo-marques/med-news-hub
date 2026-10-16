@@ -1,5 +1,128 @@
 [
   {
+    "id": "pubmed-42165248",
+    "pmid": "42165248",
+    "doi": "10.1210/clinem/dgag212",
+    "title": "Dysregulation of glycogen metabolism in cardiomyopathy caused by glycogenin-1 (GYG1) missense variants.",
+    "titlePt": "Dysregulation of glycogen metabolism in cardiomyopathy caused by glycogenin-1 (GYG1) missense variants.",
+    "abstract": "Glycogen storage diseases are inherited disorders of glycogen metabolism and are commonly associated with hypoglycemia, hepatic dysfunction, or skeletal and cardiac myopathy, depending on the affected enzyme. Glycogen storage disease type 15 (GSD15) is caused by pathogenic variants in GYG1, which encodes glycogenin-1, the autoglucosylating primer required for glycogen synthesis. GSD15 is characterized by cardiomyopathy and storage of abnormal glycogen and polyglucosan in cardiomyocytes. To understand the pathobiology of GSD15, we investigated the storage material in heart explants from 2 previously reported patients and described a new case of GSD15. The characteristic storage material was investigated using laser capture microdissection followed by quantitative mass spectrometry (MS) and immunohistochemistry comparing differentially abundant proteins in the storage material with normal-appearing cytoplasmic regions from the same patient. Global protein dysregulation in GSD15 was asses",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42165248",
+    "authors": [
+      {
+        "name": "Kittichate Visuttijai",
+        "affiliation": "Department of Laboratory Medicine, Institute of Biomedicine, University of Gothenburg, 413 90 Gothenburg, Sweden."
+      },
+      {
+        "name": "Carola Hedberg-Oldfors",
+        "affiliation": "Department of Clinical Pathology, Sahlgrenska University Hospital, Region V&#xe4;stra G&#xf6;taland, 413 45 Gothenburg, Sweden."
+      },
+      {
+        "name": "Oscar Braun",
+        "affiliation": "Department of Laboratory Medicine, Institute of Biomedicine, University of Gothenburg, 413 90 Gothenburg, Sweden."
+      },
+      {
+        "name": "Elisabet Englund",
+        "affiliation": "Department of Clinical Pathology, Sahlgrenska University Hospital, Region V&#xe4;stra G&#xf6;taland, 413 45 Gothenburg, Sweden."
+      }
+    ],
+    "journal": "The Journal of clinical endocrinology and metabolism",
+    "publishedDate": "2026-10-15",
+    "fetchedDate": "2026-10-16",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "heart"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5Rhv77-2kFHot-a4b524424eee6a44\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 7dc83f70-694d-4ae5-9845-3fc7f80ca548)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42880054",
+    "pmid": "42880054",
+    "doi": "10.1016/j.tjpad.2026.100685",
+    "title": "Updated Italian intersocietal recommendations for the appropriate use of anti-amyloid monoclonal antibodies in Alzheimer's disease.",
+    "titlePt": "Updated Italian intersocietal recommendations for the appropriate use of anti-amyloid monoclonal antibodies in Alzheimer's disease.",
+    "abstract": "With the European authorisation of lecanemab and donanemab, Italy is entering the era of disease-modifying therapy for early symptomatic Alzheimer's disease. The Italian Expert Panel on Alzheimer (EPA), which convened 21 scientific societies and patient associations and published a first set of intersocietal recommendations in 2025, was reconvened in Rome on 24 January 2026 (EPA2) to address the operational gaps that had emerged during the implementation of that document. A modified Delphi process was adopted to formalise consensus on the most controversial points raised during the meeting. Thirty-six declarative statements covering five domains, namely the tiered organisation of the Centres for Cognitive Disorders and Dementia (CDCD), clinical staging and treatment monitoring, eligibility considerations in mild cognitive impairment and atypical phenotypes, composition of the multidisciplinary team, and magnetic resonance imaging thresholds, ARIA monitoring and biomarker pathway, were ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42880054",
+    "authors": [
+      {
+        "name": "Alberto Benussi",
+        "affiliation": "Neurology Unit, Department of Medical, Surgical and Health Sciences, University of Trieste, Trieste, Italy; Neurology Clinic, Department of Medicine, Surgery and Health Sciences, Azienda Sanitaria Universitaria Giuliano Isontina, Trieste, Italy. Electronic address: alberto.benussi@units.it."
+      },
+      {
+        "name": "Federica Agosta",
+        "affiliation": "Neuroimaging Research Unit, Division of Neuroscience, IRCCS San Raffaele Scientific Institute, Milan, Italy; Neurology Unit, IRCCS San Raffaele Scientific Institute, Milan, Italy; Vita-Salute San Raffaele University, Milan, Italy."
+      },
+      {
+        "name": "Luisa Agnello",
+        "affiliation": "Department of Biomedicine, Neurosciences and Advanced Diagnostics, Institute of Clinical Biochemistry, Clinical Molecular Medicine, and Clinical Laboratory Medicine, University of Palermo, Palermo, Italy; Department of Laboratory Medicine, University Hospital \"Paolo Giaccone\", Palermo, Italy."
+      },
+      {
+        "name": "Alba Rosa Alfano",
+        "affiliation": "Unit of Geriatrics, Medical Department, San Giovanni-Addolorata Hospital, Rome, Italy."
+      }
+    ],
+    "journal": "The journal of prevention of Alzheimer's disease",
+    "publishedDate": "2026-10-15",
+    "fetchedDate": "2026-10-16",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "dementia",
+      "cognitive"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5Ri2Yb-2kFHot-a4b524c98a0ea212\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 27a6538e-9e78-47d9-8f5c-5666eb782d17)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42878638",
+    "pmid": "42878638",
+    "doi": "10.1177/10781552261498404",
+    "title": "Development, implementation, and evaluation of a mentorship program within hematology/oncology pharmacy association (HOPA) - a professional oncology pharmacy organization.",
+    "titlePt": "Development, implementation, and evaluation of a mentorship program within hematology/oncology pharmacy association (HOPA) - a professional oncology pharmacy organization.",
+    "abstract": "BackgroundFormal mentorship programs are important for the pharmacy profession. In 2019, the Hematology/Oncology Pharmacy Association (HOPA) launched their Mentorship Program aimed at pairing early-career pharmacists with senior HOPA members. Following an initial pilot program, the program was further expanded with supportive infrastructure as an annual offering from HOPA to eligible members.ObjectiveTo assess the impact of the HOPA Mentorship Program on involvement in the organization and to evaluate changes in self-reported professional and leadership perceptions following participation in the Mentorship Program.MethodsWe retrospectively analyzed HOPA-level membership data of participants going through the Mentorship Program to assess their involvement in HOPA following program participation in domains including committee membership, committee leadership, conference attendance, and advocacy event participation. Mentees in the program also completed pre- and post-program surveys as pa",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42878638",
+    "authors": [
+      {
+        "name": "Eno Inyang",
+        "affiliation": "Department of Pharmacy, Dana-Farber Cancer Institute, Boston, MA, USA.1855"
+      },
+      {
+        "name": "Morgan P Randolph",
+        "affiliation": "Department of PA Studies, Randolph-Macon College, Ashland, VA, USA.1342"
+      },
+      {
+        "name": "Mark N Sorial",
+        "affiliation": "Department of Pharmacy, Dana-Farber Cancer Institute, Boston, MA, USA.1855"
+      },
+      {
+        "name": "Kristin Adler",
+        "affiliation": "Hematology/Oncology Pharmacy Association, Milwaukee, WI, USA.481910"
+      }
+    ],
+    "journal": "Journal of oncology pharmacy practice : official publication of the International Society of Oncology Pharmacy Practitioners",
+    "publishedDate": "2026-10-15",
+    "fetchedDate": "2026-10-16",
+    "category": "Oncologia",
+    "tags": [
+      "oncology"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5RiEZb-2kFHot-a4b525c56fc3a212\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: ea02c033-4853-4c62-b600-c052faf7adda)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42875927",
     "pmid": "42875927",
     "doi": "10.1111/pace.70472",
@@ -12355,137 +12478,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42443179",
-    "pmid": "42443179",
-    "doi": "10.1038/s41467-026-74585-w",
-    "title": "A tumor profiling resource for ovarian cancer: insights into chemotherapy-driven heterogeneity and personalized treatment strategy.",
-    "titlePt": "A tumor profiling resource for ovarian cancer: insights into chemotherapy-driven heterogeneity and personalized treatment strategy.",
-    "abstract": "In women with high-grade serous ovarian cancer, chemotherapy remains the primary standard treatment, despite growing recognition of the disease as highly heterogeneous. Here, we examine the feasibility and clinical utility of comprehensive multimodal molecular profiling to inform treatment decisions. We analyze blood, single-cell and bulk tumor tissue, and malignant ascites using up to eleven technologies (DNA, RNA, protein, and functional assays) within a four-week turnaround time. Hypothetical treatment recommendations are altered for 76% of patients, and multi-omics-guided maintenance therapy is associated with prolonged overall survival in a subset of patients. Subsequent cohort analysis reveals distinct cellular and molecular profiles in ascites-derived single-cells compared to solid tumor tissue, unique per-patient ex vivo drug responses, and a marked increase in cancer cell heterogeneity following chemotherapy exposure. This coincides with genomic signature alterations in whole-",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *Nature Communications* investigou o potencial de perfis moleculares multimodais para personalizar o tratamento de mulheres com câncer de ovário de alto grau, uma doença notoriamente heterogênea. A pesquisa analisou amostras de sangue, tecido tumoral sólido, células tumorais únicas e ascite maligna de pacientes, empregando até onze tecnologias distintas — incluindo sequenciamento de DNA, RNA, análise de proteínas e ensaios funcionais — com resultados disponíveis em até quatro semanas. Os achados revelaram que 76% das pacientes teriam suas recomendações terapêuticas hipotéticas alteradas com base nos dados obtidos, sugerindo que a abordagem *multi-omics* poderia melhorar a precisão das decisões clínicas.\n\nAlém disso, a terapia de manutenção guiada por *multi-omics* foi associada a um aumento na sobrevida global em um subgrupo de pacientes. Análises subsequentes identificaram diferenças significativas entre as células tumorais derivadas da ascite e aquelas presentes no tecido sólido, além de respostas ex vivo únicas a drogas por paciente. Um dos achados mais relevantes foi o aumento da heterogeneidade celular após a exposição à quimioterapia, acompanhado de alterações em assinaturas genômicas do tumor como um todo. Embora os dados indiquem um potencial transformador para a oncologia de precisão, os autores destacam que estudos prospectivos randomizados são necessários para validar esses benefícios em larga escala.\n\n**English version**\n\nA recent study published in *Nature Communications* explored the feasibility of multimodal molecular profiling to personalize treatment in women with high-grade serous ovarian cancer, a disease characterized by significant heterogeneity. The research analyzed blood, solid tumor tissue, single tumor cells, and malignant ascites from patients using up to eleven technologies—including DNA and RNA sequencing, protein analysis, and functional assays—with results delivered within four weeks. Findings showed that 76% of patients would have their hypothetical treatment recommendations altered based on the comprehensive data, suggesting that a *multi-omics* approach could enhance clinical decision-making.\n\nFurthermore, maintenance therapy guided by *multi-omics* was associated with prolonged overall survival in a subset of patients. Subsequent analyses revealed distinct molecular and cellular profiles in ascites-derived tumor cells compared to solid tumor tissue, as well as unique ex vivo drug responses per patient. A key observation was the marked increase in cancer cell heterogeneity following chemotherapy exposure, alongside alterations in genomic signatures across the tumor. While the data indicate transformative potential for precision oncology, the authors emphasize that prospective randomized trials are needed to validate these benefits on a broader scale.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443179",
-    "authors": [
-      {
-        "name": "Francis Jacob",
-        "affiliation": "Ovarian Cancer Research, Department of Biomedicine, University Hospital Basel and University of Basel, Basel, Switzerland. francis.jacob@unibas.ch."
-      },
-      {
-        "name": "Rebekka Wegmann",
-        "affiliation": "Institute of Molecular Systems Biology, Department of Biology, ETH Zurich, Zurich, Switzerland."
-      },
-      {
-        "name": "Joanna Ficek-Pascual",
-        "affiliation": "Department of Computer Science, ETH Zurich, Zurich, Switzerland."
-      },
-      {
-        "name": "Ulrike Lischetti",
-        "affiliation": "Ovarian Cancer Research, Department of Biomedicine, University Hospital Basel and University of Basel, Basel, Switzerland."
-      }
-    ],
-    "journal": "Nature communications",
-    "publishedDate": "2026-07-13",
-    "fetchedDate": "2026-07-14",
-    "category": "Genômica",
-    "tags": [
-      "cancer",
-      "tumor",
-      "chemotherapy",
-      "genomic",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42104724",
-    "pmid": "42104724",
-    "doi": "10.1002/cpt.70315",
-    "title": "A Systematic Review on Disease-Modifying Therapies in Parkinsonian Disorders.",
-    "titlePt": "A Systematic Review on Disease-Modifying Therapies in Parkinsonian Disorders.",
-    "abstract": "Parkinsonian disorders, including Parkinson's disease, Lewy body dementia, multiple system atrophy, and progressive supranuclear palsy, are progressive neurodegenerative conditions with no treatment options to slow disease progression. This systematic review provides an overview of evidence of disease-modifying therapies that have been evaluated in clinical studies across these disorders, based on a comprehensive literature search up to May 2025. Eligible studies included clinical trials investigating pharmacological interventions aimed at slowing disease progression. Most clinical development has focused on Parkinson's disease, with limited progress in other Parkinsonian disorders. Therapies targeting alpha-synuclein, such as monoclonal antibodies and small molecules, have shown target engagement but limited clinical efficacy. Glucocerebrosidase-enhancing agents, particularly ambroxol, demonstrated promising biomarker and clinical signals in early-phase trials. Glucagon-like peptide-1",
-    "journalisticSummary": "A busca por terapias modificadoras da doença em transtornos parkinsonianos enfrenta desafios significativos, conforme revela uma revisão sistemática publicada no *Clinical Pharmacology & Therapeutics*. O estudo, que analisou evidências até maio de 2025, aborda a ausência de opções capazes de retardar a progressão de doenças como Parkinson, demência por corpos de Lewy, atrofia de múltiplos sistemas e paralisia supranuclear progressiva. A maioria dos ensaios clínicos concentra-se na doença de Parkinson, enquanto outras condições recebem atenção limitada. Terapias direcionadas à alfa-sinucleína, como anticorpos monoclonais e pequenas moléculas, demonstraram engajamento farmacológico, mas com eficácia clínica modesta. Agentes potencializadores da glucocerebrosidase, como o ambroxol, apresentaram sinais promissores em biomarcadores e resultados iniciais, embora ainda em fases precoces. O estudo destaca a necessidade de abordagens mais abrangentes, considerando a heterogeneidade patológica desses transtornos, e aponta para a relevância de terapias como os agonistas do receptor de GLP-1, cuja investigação, entretanto, não foi detalhada no resumo. Entre as limitações, a revisão não reporta dados sobre possíveis vieses de publicação ou heterogeneidade metodológica nos estudos incluídos, o que poderia influenciar a interpretação dos achados. Como próximos passos, os autores sugerem priorizar alvos terapêuticos mais específicos e combinar estratégias multimodais, além de expandir pesquisas para doenças além da doença de Parkinson, onde o cenário é ainda mais escasso.\n\n---\n\nThe search for disease-modifying therapies in parkinsonian disorders remains a significant hurdle, as highlighted by a systematic review published in *Clinical Pharmacology & Therapeutics*. The study, which examined evidence up to May 2025, addresses the lack of options capable of slowing the progression of conditions such as Parkinson’s disease, dementia with Lewy bodies, multiple system atrophy, and progressive supranuclear palsy. Most clinical trials focus on Parkinson’s disease, while other conditions receive limited attention. Therapies targeting alpha-synuclein, including monoclonal antibodies and small molecules, have shown pharmacological engagement but limited clinical efficacy. Glucocerebrosidase-enhancing agents, such as ambroxol, have demonstrated promising biomarker and early-phase clinical signals, though still in preliminary stages. The study underscores the need for broader approaches, considering the pathological heterogeneity of these disorders, and points to the relevance of therapies like GLP-1 receptor agonists, though their investigation was not detailed in the abstract. Among the limitations, the review does not report data on potential publication bias or methodological heterogeneity in the included studies, which could influence the interpretation of findings. Moving forward, the authors recommend prioritizing more specific therapeutic targets and combining multimodal strategies, alongside expanding research to disorders beyond Parkinson’s disease, where the landscape is even more sparse.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42104724",
-    "authors": [
-      {
-        "name": "Pepijn P N M Eijsvogel",
-        "affiliation": "Centre for Human Drug Research, Leiden, The Netherlands."
-      },
-      {
-        "name": "Lars M G Smits",
-        "affiliation": "Leiden University Medical Center, Leiden, The Netherlands."
-      },
-      {
-        "name": "Philip H C Kremer",
-        "affiliation": "Centre for Human Drug Research, Leiden, The Netherlands."
-      },
-      {
-        "name": "Geert Jan Groeneveld",
-        "affiliation": "Leiden University Medical Center, Leiden, The Netherlands."
-      }
-    ],
-    "journal": "Clinical pharmacology and therapeutics",
-    "publishedDate": "2026-07-12",
-    "fetchedDate": "2026-07-13",
-    "category": "Neurologia",
-    "tags": [
-      "parkinson",
-      "dementia",
-      "gene",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42436811",
-    "pmid": "42436811",
-    "doi": "10.1002/joa3.70416",
-    "title": "Hybrid Thoracoscopic-Endocardial Versus Endocardial Catheter Ablation for Persistent Atrial Fibrillation: A Systematic Review and Meta-Analysis.",
-    "titlePt": "Hybrid Thoracoscopic-Endocardial Versus Endocardial Catheter Ablation for Persistent Atrial Fibrillation: A Systematic Review and Meta-Analysis.",
-    "abstract": "Hybrid ablation (HA) addresses the limitations of endocardial catheter ablation (CA) in patients with persistent, long-standing atrial fibrillation (AF). This review compares hybrid thoracoscopic-endocardial ablation with endocardial CA in this population to evaluate rhythm-control outcomes and procedural safety. Randomized controlled trials and observational studies comparing HA with CA in adults with non-paroxysmal AF were identified through searches of PubMed, Embase, and Cochrane databases (November 2025). The review was registered with PROSPERO (CRD42024600526). Primary outcomes included freedom from AF, any atrial arrhythmia, use of antiarrhythmic drugs (AADs), arrhythmia recurrence, and repeat ablation. Eight studies (907 patients: 478 HA; 429 CA) were included. Compared to CA, HA did not significantly reduce AF (OR 2.38; 95% CI 0.66-8.65) or arrhythmia recurrence (OR 1.66; 95% CI 0.31-9.06). HA significantly reduced any atrial arrhythmia (OR 3.36; 95% CI 2.16-5.23) and AADs (OR",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recém-publicado no *Journal of Arrhythmia* realizou uma revisão sistemática e meta-análise comparando a eficácia e segurança da ablação híbrida toracoscópica-endocárdica com a ablação por cateter endocárdica em pacientes com fibrilação atrial (FA) não paroxística. A análise, registrada na PROSPERO (CRD42024600526), incluiu oito estudos com 907 participantes (478 submetidos à ablação híbrida e 429 à ablação convencional) e buscou avaliar desfechos como manutenção do ritmo sinusal, recorrência de arritmias, uso de antiarrítmicos e necessidade de reablação.\n\nOs resultados indicaram que a ablação híbrida não apresentou redução significativa na recorrência de FA (OR 2,38; IC 95% 0,66–8,65) ou na recorrência de qualquer arritmia atrial (OR 1,66; IC 95% 0,31–9,06) em comparação à ablação por cateter. No entanto, houve uma redução significativa na incidência de qualquer arritmia atrial (OR 3,36; IC 95% 2,16–5,23) e na necessidade de uso de antiarrítmicos (OR não informado no resumo) com a abordagem híbrida. Esses achados sugerem que, embora a ablação híbrida possa oferecer benefícios em termos de controle de sintomas e redução de medicamentos, sua superioridade em relação à ablação endocárdica tradicional para manutenção do ritmo sinusal permanece inconclusiva.\n\nAs limitações do estudo incluem a heterogeneidade dos desenhos dos estudos incluídos, a ausência de padronização nos protocolos de ablação e a variabilidade na definição de recorrência de arritmias. Além disso, a análise não considerou desfechos como qualidade de vida ou complicações a longo prazo. Pesquisas futuras devem priorizar ensaios clínicos randomizados com amostras maiores e seguimento prolongado para elucidar o papel da ablação híbrida no manejo da FA não paroxística, bem como avaliar seu custo-efetividade e impacto na morbimortalidade.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Arrhythmia* conducted a systematic review and meta-analysis comparing the efficacy and safety of hybrid thoracoscopic-endocardial ablation with endocardial catheter ablation in patients with non-paroxysmal atrial fibrillation (AF). The analysis, registered in PROSPERO (CRD42024600526), included eight studies with 907 participants (478 undergoing hybrid ablation and 429 conventional ablation) and assessed outcomes such as maintenance of sinus rhythm, arrhythmia recurrence, antiarrhythmic drug (AAD) use, and repeat ablation.\n\nThe findings showed that hybrid ablation did not significantly reduce AF recurrence (OR 2.38; 95% CI 0.66–8.65) or any atrial arrhythmia recurrence (OR 1.66; 95% CI 0.31–9.06) compared to catheter ablation. However, hybrid ablation was associated with a significant reduction in any atrial arrhythmia incidence (OR 3.36; 95% CI 2.16–5.23) and a decrease in AAD use (OR not reported in the abstract). These results suggest that while hybrid ablation may offer benefits in symptom control and reduced medication dependence, its superiority over traditional endocardial ablation in maintaining sinus rhythm remains inconclusive.\n\nStudy limitations include heterogeneity in study designs, lack of standardized ablation protocols, and variability in arrhythmia recurrence definitions. Additionally, long-term outcomes such as quality of life and complications were not assessed. Future research should focus on randomized controlled trials with larger sample sizes and extended follow-up to clarify the role of hybrid ablation in managing non-paroxysmal AF, as well as evaluate its cost-effectiveness and impact on morbidity and mortality.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42436811",
-    "authors": [
-      {
-        "name": "Annelyse Vit&#xf3;ria Barbosa",
-        "affiliation": "Internal Medicine Department, Medical Sciences and Life School Pontifical Catholic University of Goi&#xe1;s Goi&#xe1;s Brazil."
-      },
-      {
-        "name": "B&#xe1;rbara Reis Silva",
-        "affiliation": "Internal Medicine Department, Medical Sciences and Life School Pontifical Catholic University of Goi&#xe1;s Goi&#xe1;s Brazil."
-      },
-      {
-        "name": "Pedro Lucas Alves Alencar",
-        "affiliation": "Faculty of Medicine, Internal Medicine Department Federal University of Goi&#xe1;s Goi&#xe1;s Brazil."
-      },
-      {
-        "name": "Silvia Mar&#xe7;al Botelho",
-        "affiliation": "Faculty of Medicine, Internal Medicine Department Federal University of Goi&#xe1;s Goi&#xe1;s Brazil."
-      }
-    ],
-    "journal": "Journal of arrhythmia",
-    "publishedDate": "2026-07-12",
-    "fetchedDate": "2026-07-12",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "drug"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
