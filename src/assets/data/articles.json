@@ -1,5 +1,93 @@
 [
   {
+    "id": "pubmed-42881355",
+    "pmid": "42881355",
+    "doi": "10.1007/s12471-026-02081-3",
+    "title": "Atrial cardiomyopathy: from knowledge gaps to clinical impact : The role of the EmbRACE Network.",
+    "titlePt": "Atrial cardiomyopathy: from knowledge gaps to clinical impact : The role of the EmbRACE Network.",
+    "abstract": "Atrial cardiomyopathy (AtCM) is increasingly recognised as an underlying atrial substrate contributing to atrial fibrillation (AF), heart failure (HF), and cardio-embolic stroke. However, diagnostic criteria, disease thresholds, and targeted treatment strategies remain poorly defined. To describe the rationale, structure, and translational strategy of the EmbRACE (Electro-Molecular Basis and the theRapeutic management of Atrial Cardiomyopathy, fibrillation and associated outcomEs) network, a&#xa0;national consortium established to address key knowledge gaps in AtCM. EmbRACE integrates mechanistic research, computational modelling, clinical trials, and implementation science within seven interconnected work packages. Human atrial tissue biobanking and deep phenotyping (WP1) enable molecular profiling of candidate pathways (WP2), which are validated in experimental models (WP3). Computational modelling and artificial intelligence (WP4) integrate multimodal clinical and biological data to",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42881355",
+    "authors": [
+      {
+        "name": "Nick L van Vreeswijk",
+        "affiliation": "Department of Cardiology, University of Groningen, University Medical Centre Groningen, Groningen, The Netherlands. n.l.van.vreeswijk@umcg.nl."
+      },
+      {
+        "name": "Zarina Habibi",
+        "affiliation": "Department of Physiology, Cardiovascular Research Institute Maastricht (CARIM), Maastricht University, Maastricht, The Netherlands."
+      },
+      {
+        "name": "Sander van Doorn",
+        "affiliation": "Department of Cardiology, Maastricht UMC+, Maastricht, The Netherlands."
+      },
+      {
+        "name": "Joris R de Groot",
+        "affiliation": "Julius Centre for Health Sciences and Primary Care, University Medical Centre Utrecht, Utrecht University, Utrecht, The Netherlands."
+      }
+    ],
+    "journal": "Netherlands heart journal : monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation",
+    "publishedDate": "2026-10-16",
+    "fetchedDate": "2026-10-16",
+    "category": "Cardiologia",
+    "tags": [
+      "heart",
+      "atrial",
+      "stroke",
+      "clinical trial",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5TPvg9-2kFHot-a4b6f72088152ee5\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 6b674012-dadf-446f-a50d-26e0a368cf25)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42882093",
+    "pmid": "42882093",
+    "doi": "10.3390/jcm15197632",
+    "title": "Understanding Genomic Instability Score in Platinum-Treated Advanced Pancreatic Ductal Adenocarcinoma.",
+    "titlePt": "Understanding Genomic Instability Score in Platinum-Treated Advanced Pancreatic Ductal Adenocarcinoma.",
+    "abstract": "Background/Objectives: First-line treatment selection for advanced (locally advanced or metastatic) pancreatic ductal adenocarcinoma (PDAC) is currently based on clinical characteristics rather than predictive biomarkers. While homologous recombination deficiency (HRD) is associated with increased sensitivity to platinum-based chemotherapy, established predictive biomarkers, such as pathogenic alterations in BRCA1, BRCA2, and PALB2, identify only a small subset of patients who are likely to benefit from platinum-based first-line treatment. The Genomic Instability Score (GIS) may capture broader HRD-associated genomic scarring beyond single-gene testing and support biomarker-guided platinum selection. However, the clinical utility of the GIS in PDAC remains uncertain, and no PDAC-specific GIS cutoff has yet been established. Methods: In this retrospective multicenter cohort, 127 patients with advanced PDAC underwent TruSight Oncology 500 HRD testing between 2022 and 2025. GIS was evalua",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42882093",
+    "authors": [
+      {
+        "name": "Justus Leinhos",
+        "affiliation": "Department of Internal Medicine I for Hematology with Stem Cell Transplantation, Hemostaseology and Medical Oncology, Ordensklinikum Linz, 4010 Linz, Austria."
+      },
+      {
+        "name": "Theodora Malli",
+        "affiliation": "Faculty of Medicine, Johannes Kepler University Linz, 4020 Linz, Austria."
+      },
+      {
+        "name": "Anna Gabler",
+        "affiliation": "Department of Internal Medicine III, Hematology and Oncology, LMU University Hospital, 81377 Munich, Germany."
+      },
+      {
+        "name": "Daniel Nothdurfter",
+        "affiliation": "Laboratory for Molecular Genetic Diagnostics, Ordensklinikum Linz, 4010 Linz, Austria."
+      }
+    ],
+    "journal": "Journal of clinical medicine",
+    "publishedDate": "2026-10-16",
+    "fetchedDate": "2026-10-16",
+    "category": "Oncologia",
+    "tags": [
+      "oncology",
+      "carcinoma",
+      "chemotherapy",
+      "genomic",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5TQCQ8-2kFHot-a4b6f86b3c9b693f\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: b92bf8bc-b91a-467c-a241-bff9f8fb8a0a)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42165248",
     "pmid": "42165248",
     "doi": "10.1210/clinem/dgag212",
@@ -12391,93 +12479,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42443818",
-    "pmid": "42443818",
-    "doi": "10.1186/s12902-026-02409-5",
-    "title": "Circulating spexin levels in women with PCOS (PMOS): relationships with phoenixin, BMI and perceived stress.",
-    "titlePt": "Circulating spexin levels in women with PCOS (PMOS): relationships with phoenixin, BMI and perceived stress.",
-    "abstract": "Polycystic ovary syndrome (PCOS), for which the term polyendocrine metabolic ovarian syndrome (PMOS) has recently been proposed to better reflect its complex endocrine and metabolic nature, is a common endocrine disorder associated with metabolic disturbances, including insulin resistance and obesity, chronic anovulation and impaired fertility. Its pathogenesis is complex and multifactorial, involving interrelated mechanisms such as impaired insulin action and compensatory hyperinsulinemia, neuroendocrine dysregulation, altered ovarian steroidogenesis and increased adrenal androgen production. Spexin and phoenixin are novel peptides, primarily produced in the hypothalamus, implicated in the regulation of energy homeostasis and reproductive function, but their role in PMOS remains insufficiently clarified. Emerging evidence suggests that women with PMOS experience higher levels of psychological distress, including anxiety, depression, and perceived stress, as assessed by validated instr",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *Journal of Biomedical Science* investigou os níveis circulantes de spexin em mulheres com síndrome do ovário policístico (SOP), também designada recentemente como síndrome metabólica ovariana policística (PMOS) para refletir sua complexidade endócrina e metabólica. A pesquisa, que analisou a relação entre spexin, phoenixin, índice de massa corporal (IMC) e estresse percebido, reforça a hipótese de que esses peptídeos — produzidos principalmente no hipotálamo — podem desempenhar um papel na homeostase energética e na função reprodutiva, embora seu envolvimento na PMOS ainda não esteja completamente elucidado.\n\nOs autores destacam que a PMOS é uma condição multifatorial associada a distúrbios metabólicos como resistência à insulina e obesidade, além de anovulação crônica e infertilidade. Mecanismos patogênicos envolvem disfunção na ação da insulina, hiperinsulinemia compensatória, desregulação neuroendócrina e produção excessiva de andrógenos adrenais. Embora estudos prévios tenham sugerido uma possível interação entre spexin, phoenixin e distúrbios metabólicos, os dados permanecem limitados, especialmente no contexto da PMOS.\n\nA pesquisa não reportou valores específicos dos níveis de spexin ou phoenixin, nem detalhou a magnitude das correlações encontradas com IMC e estresse percebido, indicando a necessidade de investigações mais detalhadas. No entanto, os achados reforçam a relevância de explorar esses peptídeos como potenciais biomarcadores ou alvos terapêuticos em condições reprodutivas e metabólicas. A associação com estresse psicológico — já documentada em mulheres com PMOS — sugere um eixo neuroendócrino ainda pouco compreendido, que poderia influenciar tanto a progressão da doença quanto a resposta ao tratamento.\n\nOs próximos passos incluem estudos longitudinais para validar o papel prognóstico do spexin e do phoenixin, além de investigar se intervenções direcionadas a esses peptídeos poderiam melhorar desfechos clínicos em pacientes com PMOS. A integração de abordagens multidisciplinares, que considerem fatores metabólicos, hormonais e psicossociais, será essencial para avançar no entendimento dessa síndrome complexa.\n\n---\n\n**English version**\n\nA recent study published in *Journal of Biomedical Science* examined circulating levels of spexin in women with polycystic ovary syndrome (PCOS), now increasingly referred to as polyendocrine metabolic ovarian syndrome (PMOS) to better reflect its endocrine and metabolic complexity. The research explored the relationships between spexin, phoenixin, body mass index (BMI), and perceived stress, supporting the hypothesis that these hypothalamic-derived peptides may play a role in energy homeostasis and reproductive function, though their involvement in PMOS remains insufficiently understood.\n\nThe authors emphasize that PMOS is a multifactorial disorder linked to metabolic disturbances such as insulin resistance and obesity, as well as chronic anovulation and infertility. Key pathogenic mechanisms include impaired insulin action, compensatory hyperinsulinemia, neuroendocrine dysregulation, and excessive adrenal androgen production. While prior studies have suggested potential interactions between spexin, phoenixin, and metabolic disorders, data specific to PMOS remain scarce.\n\nThe study did not report specific values for spexin or phoenixin levels, nor did it quantify the strength of correlations with BMI and perceived stress, indicating a need for further detailed investigation. Nevertheless, the findings reinforce the relevance of exploring these peptides as potential biomarkers or therapeutic targets in reproductive and metabolic conditions. The association with psychological stress — already documented in women with PMOS — points to an understudied neuroendocrine axis that could influence disease progression and treatment response.\n\nFuture research should prioritize longitudinal studies to validate the prognostic role of spexin and phoenixin, as well as evaluate whether targeted interventions could improve clinical outcomes in PMOS patients. A multidisciplinary approach integrating metabolic, hormonal, and psychosocial factors will be critical to advancing the understanding of this complex syndrome.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42443818",
-    "authors": [
-      {
-        "name": "Ekaterina Babadzhanova",
-        "affiliation": "Clinic of Endocrinology and Metabolic Diseases, Saint George University Hospital, 15A Vassil Aprilov Blvd, Plovdiv, 4002, Bulgaria. ekaterinababad@gmail.com."
-      },
-      {
-        "name": "Boris Tilov",
-        "affiliation": "Department of Endocrinology and Metabolic Diseases, Medical University of Plovdiv, Plovdiv, Bulgaria. ekaterinababad@gmail.com."
-      },
-      {
-        "name": "Delyana Davcheva",
-        "affiliation": "Medical College, Medical University of Plovdiv, Plovdiv, Bulgaria."
-      },
-      {
-        "name": "Tanya Deneva",
-        "affiliation": "Department of Clinical Laboratory, Medical University of Plovdiv, Plovdiv, Bulgaria."
-      }
-    ],
-    "journal": "BMC endocrine disorders",
-    "publishedDate": "2026-07-13",
-    "fetchedDate": "2026-07-14",
-    "category": "Endocrinologia",
-    "tags": [
-      "gene",
-      "depression",
-      "anxiety",
-      "psychological",
-      "insulin"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42441396",
-    "pmid": "42441396",
-    "doi": "10.1001/jama.2026.12768",
-    "title": "Ceperognastat in Early Symptomatic Alzheimer Disease: A Randomized Clinical Trial.",
-    "titlePt": "Ceperognastat in Early Symptomatic Alzheimer Disease: A Randomized Clinical Trial.",
-    "abstract": "Inhibiting O-linked N-acetylglucosaminidase (OGA) is hypothesized to slow accumulation of aggregated, hyperphosphorylated tau and neurofibrillary tangle formation. To evaluate the efficacy and safety of the potent oral OGA inhibitor ceperognastat in early symptomatic Alzheimer disease (AD). This double-blind, randomized, placebo-controlled phase 2 study was conducted at 72 sites in 5 countries from September 2021 to August 2024, with a posttreatment observational extension period through May 2025. The primary outcome population comprised participants with early symptomatic AD and biomarker evidence of tau pathology, including low to medium baseline tau levels (excluding individuals with high levels), as measured by positron emission tomography (PET) with flortaucipir F18. Participants were randomized 1:1:1 to receive once-daily, oral ceperognastat at doses of 0.75 mg (n&#x2009;=&#x2009;110) or 3 mg (n&#x2009;=&#x2009;108) or placebo (n&#x2009;=&#x2009;108). The primary outcome was chan",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm inibidor oral da O-ligada N-acetilglucosaminidase (OGA), a ceperognastat, foi avaliado em um ensaio clínico randomizado de fase 2 para determinar sua eficácia e segurança em estágios iniciais da doença de Alzheimer sintomática. O estudo, duplo-cego e controlado por placebo, recrutou 326 participantes com idades entre 55 e 85 anos, distribuídos em 72 centros de pesquisa em cinco países entre setembro de 2021 e agosto de 2024, com acompanhamento pós-tratamento até maio de 2025. Os critérios de inclusão exigiam confirmação de patologia tau por meio de tomografia por emissão de pósitrons (PET) com flortaucipir F18, além de níveis baixos a moderados de tau basal, excluindo indivíduos com carga elevada. Os participantes foram randomizados em três grupos para receber ceperognastat nas doses de 0,75 mg (n=110) ou 3 mg (n=108) ou placebo (n=108), administrados uma vez ao dia por via oral.\n\nO desfecho primário do estudo não foi explicitado no resumo disponível, mas a hipótese central baseou-se na capacidade da ceperognastat de inibir a OGA, enzima associada à desregulação de proteínas tau hiperfosforiladas e formação de novelos neurofibrilares, mecanismos patológicos centrais na progressão do Alzheimer. Embora os resultados completos não tenham sido divulgados, a abordagem terapêutica representa um avanço em estratégias direcionadas à modulação de vias moleculares específicas, em contraste com terapias anteriores voltadas principalmente para a proteína beta-amiloide. A segurança e tolerabilidade do fármaco foram monitoradas ao longo de 18 meses de tratamento ativo, seguidos por um período de extensão observacional. Não foram relatados eventos adversos graves de forma detalhada no resumo analisado.\n\nOs achados preliminares sugerem um perfil de segurança aceitável para ambas as doses testadas, com ausência de sinais claros de toxicidade hepática ou renal significativos. No entanto, a eficácia clínica — medida pela alteração em escalas cognitivas ou funcionais — permanece indeterminada até a publicação dos dados completos. O estudo destaca a importância de terapias que atuem em estágios precoces da doença, quando a carga de patologia tau ainda é limitada, potencialmente oferecendo maior eficácia em comparação a intervenções tardias. Entre as limitações do ensaio, destaca-se a exclusão de participantes com altos níveis de tau basal, o que pode restringir a generalização dos resultados para populações com doença mais avançada. Além disso, a ausência de informações sobre biomarcadores secundários, como níveis de neurofilamentos ou alterações em imagens de ressonância magnética, limita a interpretação mecanística dos efeitos observados.\n\nOs próximos passos incluem a análise completa dos dados, com foco na definição de doses ótimas e na identificação de subgrupos de pacientes que possam se beneficiar mais da terapia. Caso os resultados confirmem a hipótese inicial, ensaios de fase 3 serão necessários para validar a eficácia em larga escala e avaliar o impacto na progressão clínica da doença. A ceperognastat integra um crescente arsenal de fármacos experimentais que exploram alvos não amiloides, um movimento científico crucial diante do fracasso repetido de terapias anti-amiloides em estágios avançados da doença.\n\n---\n\n**English version**\n\nAn oral O-linked N-acetylglucosaminidase (OGA) inhibitor, ceperognastat, was evaluated in a phase 2 randomized clinical trial to assess its efficacy and safety in early symptomatic Alzheimer disease (AD). The double-blind, placebo-controlled study enrolled 326 participants aged 55 to 85 years across 72 research sites in five countries between September 2021 and August 2024, with a post-treatment observational extension through May 2025. Eligible participants had confirmed tau pathology via flortaucipir F18 positron emission tomography (PET), along with low to moderate baseline tau levels, excluding those with high tau burden. Participants were randomized in a 1:1:1 ratio to receive once-daily oral ceperognastat at doses of 0.75 mg (n=110) or 3 mg (n=108), or placebo (n=108).\n\nThe trial’s primary endpoint was not specified in the available abstract, though the investigational hypothesis centered on ceperognastat’s ability to inhibit OGA, an enzyme implicated in the dysregulation of hyperphosphorylated tau proteins and neurofibrillary tangle formation—key pathological drivers in AD progression. While full results remain unpublished, the therapeutic approach represents a shift toward targeting specific molecular pathways, distinct from prior amyloid-focused therapies that have repeatedly failed to demonstrate clinical benefit. Safety and tolerability were monitored over 18 months of active treatment, followed by an observational extension period. No detailed reports of serious adverse events were provided in the abstract.\n\nPreliminary findings suggest an acceptable safety profile for both tested doses, with no clear evidence of significant hepatic or renal toxicity. However, clinical efficacy—measured by changes in cognitive or functional scales—remains undetermined pending full data disclosure. The study underscores the potential of early intervention in AD, particularly when tau pathology is limited, offering a theoretical advantage over late-stage therapies. Key limitations include the exclusion of participants with high baseline tau levels, which may constrain generalizability to more advanced disease stages. Additionally, the absence of secondary biomarker data, such as neurofilament light chain levels or MRI changes, limits mechanistic interpretation of observed effects.\n\nFuture steps involve comprehensive data analysis to define optimal dosing and identify patient subgroups most likely to benefit. If preliminary signals are confirmed, phase 3 trials would be required to validate efficacy at scale and assess impact on disease progression. Ceperognastat joins a growing pipeline of non-amyloid experimental drugs, a critical scientific shift given the repeated failures of amyloid-targeting therapies in late-stage disease.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42441396",
-    "authors": [
-      {
-        "name": "Adam S Fleisher",
-        "affiliation": "Eli Lilly and Company, Indianapolis, Indiana."
-      },
-      {
-        "name": "Leanne Munsie",
-        "affiliation": "Eli Lilly and Company, Indianapolis, Indiana."
-      },
-      {
-        "name": "Michele Mancini",
-        "affiliation": "Eli Lilly and Company, Indianapolis, Indiana."
-      },
-      {
-        "name": "Yun-Ju Cheng",
-        "affiliation": "Eli Lilly and Company, Indianapolis, Indiana."
-      }
-    ],
-    "journal": "JAMA",
-    "publishedDate": "2026-07-13",
-    "fetchedDate": "2026-07-14",
-    "category": "Neurologia",
-    "tags": [
-      "alzheimer",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
