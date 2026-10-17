@@ -1,5 +1,78 @@
 [
   {
+    "id": "pubmed-42887471",
+    "pmid": "42887471",
+    "doi": "10.1016/j.medcli.2026.107656",
+    "title": "Disease progression in transthyretin cardiac amyloidosis treated with disease-modifying therapies: a multicenter real-world experience.",
+    "titlePt": "Disease progression in transthyretin cardiac amyloidosis treated with disease-modifying therapies: a multicenter real-world experience.",
+    "abstract": "Transthyretin cardiac amyloidosis (ATTR-CM) is a progressive disease associated with substantial cardiovascular morbidity and mortality. The multimodal progression criteria proposed in 2025 integrate clinical, biomarker, and functional parameters to improve disease monitoring. However, evidence regarding their applicability in real-world practice remains limited. We conducted a multicenter ambispective observational cohort study including 68 consecutive patients with ATTR-CM receiving disease-modifying therapies across hospitals in Castilla-La Mancha, Spain. Disease progression was assessed by comparing baseline status with the follow-up assessment available within the first 12 months after treatment initiation; no data obtained after month 12 were used to establish progression status. Progression was defined as abnormalities in at least two domains (clinical, biomarker, and functional). To assess the temporal association with subsequent cardiovascular events, a 12-month landmark analy",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42887471",
+    "authors": [
+      {
+        "name": "Alba L&#xf3;pez-Calles",
+        "affiliation": "Servicio de Cardiolog&#xed;a, Hospital General Universitario de Ciudad Real, Ciudad Real, Espa&#xf1;a."
+      },
+      {
+        "name": "Daniel Aguila-Gordo",
+        "affiliation": "Servicio de Cardiolog&#xed;a, Hospital General Universitario de Ciudad Real, Ciudad Real, Espa&#xf1;a."
+      },
+      {
+        "name": "Jorge Mart&#xed;nez-Del R&#xed;o",
+        "affiliation": "Servicio de Cardiolog&#xed;a, Hospital General Universitario de Ciudad Real, Ciudad Real, Espa&#xf1;a."
+      },
+      {
+        "name": "Mar&#xed;a Del Pilar Redondo-Gal&#xe1;n",
+        "affiliation": "Servicio de Medicina Interna, Complejo Hospitalario Universitario de Toledo, Toledo, Espa&#xf1;a."
+      }
+    ],
+    "journal": "Medicina clinica",
+    "publishedDate": "2026-10-16",
+    "fetchedDate": "2026-10-17",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "cardiovascular"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5YJjSw-2kFHot-a4bc43cb9a84e942\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 08a0defa-3a4d-41d9-b69e-8b340570c135)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42607399",
+    "pmid": "42607399",
+    "doi": "10.1016/j.cptl.2026.102763",
+    "title": "Unmet needs in basic immunopharmacology education: A call for target-based, cross-specialty training programs.",
+    "titlePt": "Unmet needs in basic immunopharmacology education: A call for target-based, cross-specialty training programs.",
+    "abstract": "Biologic and immunomodulatory agents now account for roughly one-third of annual FDA drug approvals and are rapidly migrating from specialty clinics into community, ambulatory, and primary-care settings. Despite this shift, immunopharmacology is inconsistently represented as a distinct, integrated area within pharmacy and medicine curricula. This Commentary proposes a target-based pedagogical framework to strengthen such learning within existing pharmacy education. Converging evidence points to variability rather than uniform deficiency. Within pharmacy education, a 2019 survey found only 51.4% of U.S. programs offered a dedicated immunology course, although immunologic content is also delivered within integrated foundational courses that a course-title search may not capture; the 2025 NAPLEX Content Outline does not explicitly assess immunopharmacology as an integrated discipline; and the 2023 ACCP Pharmacotherapy Toolkit places many autoimmune conditions below Tier 1, which can const",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42607399",
+    "authors": [
+      {
+        "name": "Charalampos Skarlis",
+        "affiliation": "Department of Basic and Clinical Sciences, Medical School, University of Nicosia, Athens, Greece; Research Immunogenetics Laboratory, First Department of Neurology, School of Medicine, National and Kapodistrian University of Athens, Aeginition University Hospital, Athens, Greece. Electronic address: skarlis.c@unic.ac.cy."
+      }
+    ],
+    "journal": "Currents in pharmacy teaching &amp; learning",
+    "publishedDate": "2026-10-16",
+    "fetchedDate": "2026-10-17",
+    "category": "Imunologia",
+    "tags": [
+      "drug",
+      "pharmacology",
+      "immune",
+      "immunology",
+      "autoimmune"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5YKKth-2kFHot-a4bc469fe831e942\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 50fcb7a5-aed8-4b98-b4fe-58669d232421)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42886550",
     "pmid": "42886550",
     "doi": "10.1080/19932820.2026.2749899",
@@ -12396,91 +12469,5 @@
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41986793",
-    "pmid": "41986793",
-    "doi": "10.1007/s12028-026-02518-y",
-    "title": "Malignant Cerebral Edema after Large-Core Anterior Circulation Stroke in the Thrombectomy Era: Prediction and Neurocritical Care Pathways.",
-    "titlePt": "Malignant Cerebral Edema after Large-Core Anterior Circulation Stroke in the Thrombectomy Era: Prediction and Neurocritical Care Pathways.",
-    "abstract": "Large-core anterior circulation ischemic stroke (LCIS) complicated by malignant cerebral edema (MCE) remains a leading cause of early death and profound disability even in the era of endovascular thrombectomy (EVT). As EVT indications have expanded to include patients with large ischemic cores, more patients survive the initial ischemic insult but continue to face substantial risk of space-occupying edema, underscoring the need for standardized neurocritical care pathways. This narrative review summarizes evidence published between 2015 and 2025 from PubMed and Web of Science, emphasizing randomized trials, meta-analyses, high-quality observational cohorts, and major guidelines. Contemporary neurocritical care guidance increasingly treats LCIS as a distinct syndrome and recommends structured surveillance, timely osmotherapy, and consideration of decompressive hemicraniectomy (DHC). Recent large-core EVT trials show that, in carefully selected patients, EVT can improve functional outcom",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nO edema cerebral maligno (ECM) continua sendo uma das principais causas de morte precoce e incapacidade grave em pacientes com acidente vascular cerebral isquêmico (AVCI) de grande extensão em circulação anterior, mesmo na era da trombectomia endovascular (TEV). Embora as indicações para TEV tenham se expandido para incluir casos com grandes núcleos isquêmicos, muitos pacientes que sobrevivem ao insulto inicial ainda enfrentam risco substancial de edema ocupante de espaço, o que reforça a necessidade de protocolos padronizados de neurocrítica.\n\nEsta revisão narrativa, baseada em evidências publicadas entre 2015 e 2025 — com foco em ensaios randomizados, meta-análises, coortes observacionais de alta qualidade e diretrizes internacionais — destaca o ECM como uma entidade clínica distinta dentro do espectro do AVCI de grande porte. As recomendações atuais preconizam vigilância estruturada, terapia osmótica oportuna e consideração precoce de hemicraniectomia descompressiva (HD), especialmente em pacientes selecionados. Embora os ensaios recentes de TEV em grandes núcleos isquêmicos sugiram benefícios funcionais em subgrupos específicos, os dados sobre a eficácia dessas intervenções no manejo do ECM permanecem limitados, com lacunas quanto à estratificação de risco e ao momento ideal para intervenções cirúrgicas. Além disso, não há consenso sobre critérios uniformes para a indicação de HD em pacientes com ECM pós-TEV, o que aponta para a necessidade de estudos prospectivos randomizados. Os próximos passos incluem o desenvolvimento de modelos preditivos robustos e a integração de tecnologias de monitoramento multimodal para otimizar a tomada de decisão clínica.\n\n---\n\n**English version**\n\nMalignant cerebral edema (MCE) remains a leading cause of early mortality and severe disability in patients with large-core anterior circulation ischemic stroke (LCIS), even in the thrombectomy era. While endovascular thrombectomy (EVT) indications have expanded to include patients with large ischemic cores, many who survive the initial injury still face significant risk of space-occupying edema, underscoring the need for standardized neurocritical care pathways.\n\nThis narrative review synthesizes evidence from studies published between 2015 and 2025—prioritizing randomized trials, meta-analyses, high-quality observational cohorts, and major guidelines—highlighting MCE as a distinct clinical entity within the LCIS spectrum. Current neurocritical care recommendations advocate for structured surveillance, timely osmotherapy, and early consideration of decompressive hemicraniectomy (DHC), particularly in carefully selected patients. Although recent large-core EVT trials suggest functional benefits in specific subgroups, data on the effectiveness of these interventions in managing MCE remain limited, with gaps in risk stratification and optimal timing for surgical decompression. Moreover, no uniform criteria exist for DHC in post-EVT MCE, emphasizing the need for prospective randomized studies. Future directions include the development of predictive models and the integration of multimodal monitoring technologies to refine clinical decision-making.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41986793",
-    "authors": [
-      {
-        "name": "Hui-Ling Qu",
-        "affiliation": "Department of Neurology, The General Hospital of Northern Theater Command, Shenyang, China."
-      },
-      {
-        "name": "Xiao-Yu Sun",
-        "affiliation": "Department of Neurology, The General Hospital of Northern Theater Command, Shenyang, China."
-      },
-      {
-        "name": "Xi-Meng Xu",
-        "affiliation": "Department of Neurosurgery, The General Hospital of Northern Theater Command, Shenyang, 110016, China."
-      },
-      {
-        "name": "Xiao-Bin Zhang",
-        "affiliation": "Department of Neurosurgery, The General Hospital of Northern Theater Command, Shenyang, 110016, China. binbin_0622@126.com."
-      }
-    ],
-    "journal": "Neurocritical care",
-    "publishedDate": "2026-07-14",
-    "fetchedDate": "2026-07-15",
-    "category": "Neurologia",
-    "tags": [
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41943484",
-    "pmid": "41943484",
-    "doi": "10.1080/21645515.2026.2650946",
-    "title": "Serotype distribution of Streptococcus pneumoniae in children with invasive diseases in T&#xfc;rkiye, 2019-2025: An update in the 10th to 15th years of routine pneumococcal conjugate vaccination.",
-    "titlePt": "Serotype distribution of Streptococcus pneumoniae in children with invasive diseases in T&#xfc;rkiye, 2019-2025: An update in the 10th to 15th years of routine pneumococcal conjugate vaccination.",
-    "abstract": "Invasive pneumococcal disease (IPD) caused by Streptococcus pneumoniae remains a significant cause of pediatric morbidity. This study updates the serotype distribution and antibiotic resistance of pediatric IPD in T&#xfc;rkiye for 2019-2025, about a decade after 13-valent pneumococcal conjugate vaccine (PCV13) was introduced in the National Immunization Program. We conducted a multicenter, hospital-based prospective surveillance between January 2019-April 2025 in children&#x2009;&lt;18&#x2009;y across 28 tertiary hospitals. S. pneumoniae isolates from sterile sites (blood, cerebrospinal fluid, pleural fluid) were confirmed by standard methods and serotyped using the Quellung reaction. Antimicrobial susceptibility was determined by gradient test as per CLSI criteria. A total of 203 samples were identified from 203 pediatric cases (median age 4&#x2009;y, 56.2% boys). The clinical presentations were bacteremia/sepsis (57.6%) and meningitis (26.1%). The leading serotypes were 3 (14.3%), 14",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado recentemente na *PubMed* (DOI: 10.1080/21645515.2026.2650946) investigou a distribuição de sorotipos e a resistência antimicrobiana de *Streptococcus pneumoniae* em crianças com doenças invasivas na Turquia entre 2019 e 2025, uma década após a introdução da vacina pneumocócica conjugada 13-valente (PCV13) no Programa Nacional de Imunização. A pesquisa, conduzida em 28 hospitais terciários por meio de vigilância prospectiva multicêntrica e hospitalar, analisou 203 isolados de *S. pneumoniae* provenientes de sítios estéreis (sangue, líquido cefalorraquidiano e líquido pleural) em crianças menores de 18 anos. Os casos foram confirmados por métodos padrão e tipados sorologicamente pela reação de Quellung, enquanto a suscetibilidade antimicrobiana foi avaliada por teste de gradiente conforme critérios do CLSI.\n\nOs resultados revelaram que o sorotipo 3 foi o mais frequente (14,3%), seguido pelos sorotipos 14, 19A e 6A, com distribuições variáveis ao longo do período estudado. A bacteremia/septicemia representou 57,6% dos casos, enquanto a meningite foi identificada em 26,1%. A resistência a antibióticos, embora não detalhada no resumo, foi avaliada com base nas diretrizes do CLSI. Os dados sugerem uma mudança no perfil epidemiológico das doenças pneumocócicas invasivas pediátricas na Turquia, com possíveis implicações para estratégias de vacinação e manejo clínico. No entanto, o estudo não especifica alterações na cobertura vacinal ou taxas de incidência ao longo do período, limitando a interpretação de tendências temporais. Além disso, por se tratar de uma vigilância hospitalar, os resultados podem não refletir a realidade da população geral. Como próximos passos, os autores destacam a necessidade de estudos longitudinais para avaliar o impacto contínuo da PCV13 e a emergência de sorotipos não incluídos na formulação atual da vacina.\n\n---\n\n**English version**\n\nA recent study published in *PubMed* (DOI: 10.1080/21645515.2026.2650946) examined the serotype distribution and antimicrobial resistance of *Streptococcus pneumoniae* in children with invasive diseases in Türkiye between 2019 and 2025, a decade after the introduction of the 13-valent pneumococcal conjugate vaccine (PCV13) in the National Immunization Program. The multicenter, hospital-based prospective surveillance, conducted across 28 tertiary hospitals, analyzed 203 *S. pneumoniae* isolates from sterile sites (blood, cerebrospinal fluid, and pleural fluid) in children under 18 years. Isolates were confirmed using standard methods and serotyped via the Quellung reaction, while antimicrobial susceptibility was assessed using gradient testing according to CLSI criteria.\n\nThe findings revealed that serotype 3 was the most prevalent (14.3%), followed by serotypes 14, 19A, and 6A, with varying distributions over the study period. Bacteremia/sepsis accounted for 57.6% of cases, while meningitis was identified in 26.1%. Although antimicrobial resistance patterns were evaluated per CLSI guidelines, specific resistance rates were not detailed in the abstract. The data suggest a shift in the epidemiological profile of pediatric invasive pneumococcal diseases in Türkiye, with potential implications for vaccination strategies and clinical management. However, the study does not report changes in vaccination coverage or incidence rates over time, limiting the interpretation of temporal trends. Additionally, as a hospital-based surveillance, the results may not reflect the general population. Future research should focus on longitudinal studies to assess the ongoing impact of PCV13 and the emergence of serotypes not covered by the current vaccine formulation.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41943484",
-    "authors": [
-      {
-        "name": "Mehmet Ceyhan",
-        "affiliation": "Department of Pediatrics, Division of Infectious Diseases, Hacettepe University Faculty of Medicine, Ankara, T&#xfc;rkiye."
-      },
-      {
-        "name": "Fatma Nur &#xd6;z",
-        "affiliation": "Department of Pediatric Infectious Diseases, HC International Clinic, Ankara, T&#xfc;rkiye."
-      },
-      {
-        "name": "Melike Emiro&#x11f;lu",
-        "affiliation": "Department of Medical Microbiology, Dr. Sami Ulus Child Health and Diseases Training and Research Hospital, University of Health Sciences, Ankara, T&#xfc;rkiye."
-      },
-      {
-        "name": "Ufuk Hasdemir",
-        "affiliation": "Pediatric Infectious Disease Clinic, Ankara Etlik City Hospital, Ankara, T&#xfc;rkiye."
-      }
-    ],
-    "journal": "Human vaccines &amp; immunotherapeutics",
-    "publishedDate": "2026-07-14",
-    "fetchedDate": "2026-07-14",
-    "category": "Infectologia",
-    "tags": [
-      "sepsis",
-      "antimicrobial",
-      "pediatric",
-      "children",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
