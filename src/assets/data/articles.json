@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42886550",
+    "pmid": "42886550",
+    "doi": "10.1080/19932820.2026.2749899",
+    "title": "Pharmacy students' knowledge and attitudes regarding GLP-1 receptor agonist adverse effects in obesity management: a cross-sectional study.",
+    "titlePt": "Pharmacy students' knowledge and attitudes regarding GLP-1 receptor agonist adverse effects in obesity management: a cross-sectional study.",
+    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are important therapeutic options for obesity and type 2 diabetes mellitus. Despite their increasing use, safety concerns remain, and pharmacy students' knowledge of their adverse effects is unclear. This study evaluated pharmacy students' knowledge and attitudes regarding GLP-1 RA adverse effects in obesity management. A cross-sectional questionnaire-based study was conducted among undergraduate Doctor of Pharmacy (Pharm.D.) students (1st-7th year) at Umm Al-Qura University, Saudi Arabia, between November and December 2025. A newly developed questionnaire, reviewed by two experts and pilot-tested among 10 students, assessed 17 knowledge and five attitude items covering indications, mechanisms, adverse effects, and clinical scenarios. Of 1,118 eligible students, 296 completed the survey (response rate: 26.5%). Descriptive statistics and multivariable regression analyses were performed using RStudio (version 2024.9.1.394). Among part",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42886550",
+    "authors": [
+      {
+        "name": "Alaa A Khojah",
+        "affiliation": "Pharmaceutical Sciences Department, College of Pharmacy, Umm Al-Qura University, Makkah, Saudi Arabia."
+      },
+      {
+        "name": "Malaz J Gazzaz",
+        "affiliation": "Pharmaceutical practices Department, College of Pharmacy, Umm Al-Qura University, Makkah, Saudi Arabia."
+      },
+      {
+        "name": "Mohammed M Aldurdunji",
+        "affiliation": "Pharmaceutical practices Department, College of Pharmacy, Umm Al-Qura University, Makkah, Saudi Arabia."
+      },
+      {
+        "name": "Ahmad E Safiraldeen",
+        "affiliation": "College of Pharmacy, Umm Al-Qura University, Makkah, Saudi Arabia."
+      }
+    ],
+    "journal": "The Libyan journal of medicine",
+    "publishedDate": "2026-10-16",
+    "fetchedDate": "2026-10-17",
+    "category": "Endocrinologia",
+    "tags": [
+      "therapeutic",
+      "diabetes",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5XDR3d-2kFHot-a4bb162faa48a7f5\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 0d4950ce-a252-44f9-be86-3d882ddc0c10)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42886311",
     "pmid": "42886311",
     "doi": "10.1186/s43556-026-00598-y",
@@ -12438,49 +12480,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41950275",
-    "pmid": "41950275",
-    "doi": "10.2196/83842",
-    "title": "The Effects of Orexin Receptor Antagonism During Early Withdrawal in Stimulant Use Disorder: Protocol for a Proof-of-Concept Study.",
-    "titlePt": "The Effects of Orexin Receptor Antagonism During Early Withdrawal in Stimulant Use Disorder: Protocol for a Proof-of-Concept Study.",
-    "abstract": "Stimulant use disorders (StimUDs), including cocaine and methamphetamine use disorders, remain a major public health concern in the United States with no US Food and Drug Administration (FDA)-approved pharmacological treatments. The early recovery period following stimulant use is marked by sleep disturbances, heightened stress reactivity, and dysregulated reward processing, contributing to high rates of resumption of use. Evidence from animal and human studies supports the orexin neuropeptide system as a promising therapeutic target for minimizing these disruptive mechanisms. Suvorexant, an FDA-approved dual orexin receptor antagonist for insomnia, has previously been shown to improve sleep, reduce stress, and attenuate craving in the first-in-human study with non-treatment-seeking individuals with cocaine use disorder. The primary objective of this randomized open-label clinical trial is to evaluate the effects of suvorexant on sleep, stress, reward processing, and craving during ear",
-    "journalisticSummary": "A neurociência do vício em estimulantes enfrenta um desafio crítico: a ausência de tratamentos farmacológicos aprovados pela FDA para transtornos por uso de cocaína ou metanfetamina, que juntos representam um fardo crescente de saúde pública nos Estados Unidos. Um estudo protocolar recentemente publicado no *Journal of Medical Internet Research* propõe investigar o potencial do suvorexante — um antagonista dual dos receptores de orexina já aprovado para insônia — como estratégia para atenuar mecanismos disruptivos durante a fase inicial de abstinência. A hipótese central baseia-se em evidências pré-clínicas e clínicas que sugerem que a modulação do sistema orexina pode restaurar o sono, reduzir a resposta ao estresse e, consequentemente, diminuir os episódios de fissura, fatores que frequentemente precipitam recaídas. Embora estudos anteriores em indivíduos não tratados com cocaína tenham demonstrado efeitos promissores do suvorexante sobre o sono e a fissura, este novo ensaio randomizado e aberto busca validar esses achados em um contexto clínico mais robusto, avaliando também alterações na processamento de recompensas e na reatividade ao estresse. Os resultados poderão preencher uma lacuna terapêutica significativa, ainda que a ausência de um grupo placebo e a natureza aberta do estudo limitem a interpretação causal dos dados. Caso os efeitos sejam confirmados, o suvorexante poderia emergir como uma ferramenta adjuvante no manejo de transtornos por uso de estimulantes, especialmente em um cenário onde as opções farmacológicas são escassas.\n\n---\n\nThe neuroscience of stimulant addiction faces a critical hurdle: the lack of FDA-approved pharmacological treatments for cocaine or methamphetamine use disorders, which collectively pose a growing public health burden in the United States. A recently published protocol study in the *Journal of Medical Internet Research* proposes investigating the potential of suvorexant—a dual orexin receptor antagonist already approved for insomnia—as a strategy to mitigate disruptive mechanisms during early abstinence. The central hypothesis is grounded in preclinical and clinical evidence suggesting that orexin system modulation may restore sleep, reduce stress responses, and consequently lower craving episodes, factors that often trigger relapse. While prior studies in non-treatment-seeking individuals with cocaine use disorder have shown promising effects of suvorexant on sleep and craving, this new randomized open-label trial aims to validate these findings in a more robust clinical context, also assessing changes in reward processing and stress reactivity. Findings could fill a significant therapeutic gap, though the absence of a placebo group and the trial's open-label design limit causal interpretations. If confirmed, suvorexant may emerge as an adjunctive tool in managing stimulant use disorders, particularly in a landscape where pharmacological options are scarce.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41950275",
-    "authors": [
-      {
-        "name": "Heather Webber",
-        "affiliation": "Faillace Department of Psychiatry and Behavioral Sciences, McGovern Medical School, University of Texas Health Science Center at Houston, 1941 East Rd, BBSB 1st floor, Houston, TX, 77054, United States, 1 7134862723."
-      },
-      {
-        "name": "Nikky Tran",
-        "affiliation": "Faillace Department of Psychiatry and Behavioral Sciences, McGovern Medical School, University of Texas Health Science Center at Houston, 1941 East Rd, BBSB 1st floor, Houston, TX, 77054, United States, 1 7134862723."
-      },
-      {
-        "name": "Rita Blake",
-        "affiliation": "The Right Step - Houston, Houston, TX, United States."
-      },
-      {
-        "name": "Sarah Goldman",
-        "affiliation": "The Right Step - Houston, Houston, TX, United States."
-      }
-    ],
-    "journal": "JMIR research protocols",
-    "publishedDate": "2026-07-14",
-    "fetchedDate": "2026-07-14",
-    "category": "Farmacologia",
-    "tags": [
-      "drug",
-      "clinical trial",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
