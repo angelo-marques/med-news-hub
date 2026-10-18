@@ -1,5 +1,121 @@
 [
   {
+    "id": "pubmed-42890256",
+    "pmid": "42890256",
+    "doi": "10.3389/fimmu.2026.1844972",
+    "title": "Split intein-mediated reconstitution of regulatable CAR T-cells.",
+    "titlePt": "Split intein-mediated reconstitution of regulatable CAR T-cells.",
+    "abstract": "Chimeric antigen receptor (CAR) T-cell therapy has transformed the treatment of B-cell malignancies. However, strategies that improve the modularity and controllability of CAR signaling could broaden its applicability and safety across additional clinical contexts. Here, we describe a regulable CAR T-cell platform based on split intein-mediated protein trans-splicing (PTS) to conditionally reconstitute functional receptors in primary T-cells. As a proof of concept, we engineered a split CAR targeting CD1a (NCT05679895), a surface antigen expressed in T-cell acute lymphoblastic leukemia (T-ALL). The system consists of a membrane-anchored C-terminal scaffold containing the IMPDH.1C split intein fused to 4-1BB and CD3&#x3b6; signaling domains, and a soluble N-terminal adaptor composed of an anti-CD1a single-chain variable fragment (scFv) fused to the complementary IMPDH.1N split intein. Upon delivery of the adaptor module, the intein fragments undergo PTS, generating a functional membrane",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42890256",
+    "authors": [
+      {
+        "name": "Vladimir Mulens-Arias",
+        "affiliation": "Josep Carreras Leukemia Research Institute (IJC), Barcelona,&#xa0;Spain."
+      },
+      {
+        "name": "Marco Archinti",
+        "affiliation": "Red Espa&#xf1;ola de Terapias Avanzadas (TERAV+), Instituto de Salud Carlos III, Madrid,&#xa0;Spain."
+      },
+      {
+        "name": "Miriam Bastida",
+        "affiliation": "ZIP Solutions SL., Barcelona,&#xa0;Spain."
+      },
+      {
+        "name": "Nuria Mart&#xed;nez",
+        "affiliation": "ZIP Solutions SL., Barcelona,&#xa0;Spain."
+      }
+    ],
+    "journal": "Frontiers in immunology",
+    "publishedDate": "2026-10-17",
+    "fetchedDate": "2026-10-18",
+    "category": "Oncologia",
+    "tags": [
+      "leukemia",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5gZ72R-2kFHot-a4c52a828ca2402a\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 80e95109-7132-4512-bc89-7c5ffe382c55)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42889489",
+    "pmid": "42889489",
+    "doi": "10.1093/braincomms/fcag376",
+    "title": "Comparison of brain-derived versus conventional pTau biomarkers in CSF and plasma for detecting Alzheimer's disease.",
+    "titlePt": "Comparison of brain-derived versus conventional pTau biomarkers in CSF and plasma for detecting Alzheimer's disease.",
+    "abstract": "Brain-derived phosphorylated tau species are postulated to improve the detection of Alzheimer's disease pathology by mitigating non-specific increases. However, their true diagnostic performance, relative to conventional CSF and plasma phosphorylated tau assays, remains uncharacterized. The objective was to compare the diagnostic performance of brain-derived and conventional phosphorylated tau assays across multiple analytes (phosphorylated tau 181, phosphorylated tau 217, phosphorylated tau 231) in CSF and plasma, and to examine biomarker differences across amyloid-&#x3b2; status and cognitive groups. This study included 1098 participants with amyloid-PET imaging and CSF samples from the Alzheimer's Disease Neuroimaging Initiative, and a subset of 925 individuals with plasma samples. Diagnostic performance of brain-derived and conventional phosphorylated tau assays was assessed by receiver operating characteristic curves, with calculation of area under the curve, sensitivity, specific",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42889489",
+    "authors": [
+      {
+        "name": "Lydia Trudel",
+        "affiliation": "Translational Neuroimaging Laboratory, Montreal Neurological Institute, Montreal, Quebec H3A 2B4, Canada."
+      },
+      {
+        "name": "Joseph Therriault",
+        "affiliation": "Department of Neurology and Neurosurgery, Faculty of Medicine, McGill University, Montreal, Quebec H3A 2B4, Canada."
+      },
+      {
+        "name": "Valentina Ghisays",
+        "affiliation": "Translational Neuroimaging Laboratory, Montreal Neurological Institute, Montreal, Quebec H3A 2B4, Canada."
+      },
+      {
+        "name": "Arthur C Macedo",
+        "affiliation": "Department of Neurology and Neurosurgery, Faculty of Medicine, McGill University, Montreal, Quebec H3A 2B4, Canada."
+      }
+    ],
+    "journal": "Brain communications",
+    "publishedDate": "2026-10-17",
+    "fetchedDate": "2026-10-18",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "alzheimer",
+      "cognitive"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5gZHz2-2kFHot-a4c52b68d9046150\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 8bf714aa-fb3f-4ceb-9d70-036ff41ad297)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42890282",
+    "pmid": "42890282",
+    "doi": "10.7759/cureus.117975",
+    "title": "Individualized and Platform-Designated Gene-Editing Studies in the Registered Clinical Record: A Case-by-Case Census Against 148 Eligible Studies.",
+    "titlePt": "Individualized and Platform-Designated Gene-Editing Studies in the Registered Clinical Record: A Case-by-Case Census Against 148 Eligible Studies.",
+    "abstract": "Introduction In February 2025, a single infant with carbamoyl phosphate synthetase 1 deficiency received a customized base-editing therapy, and individualized gene editing has since been discussed as an emerging category of care. No one has yet counted whether this category exists in the registered study record. Methods We conducted a cross-sectional census of interventional studies of human gene-editing agents registered on ClinicalTrials.gov. Records were retrieved through the ClinicalTrials.gov application programming interface, version 2, with a verbatim, intervention-scoped query and a fixed census date of 17 September 2026. Eligibility was verified from each record's own fields, and every exclusion is supported by the field value that justifies it. Two independent screening passes classified each eligible record as single-participant or n-of-1, multi-variant umbrella or platform-designated, or conventional cohort. Agreement was quantified with Cohen's kappa and a 95% confidence i",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42890282",
+    "authors": [
+      {
+        "name": "Oscar Mingtian Li",
+        "affiliation": "Zweistein Innovation Lab, Active Care and Education in Sports and Outreach (ACESO) Foundation, Dublin, USA."
+      },
+      {
+        "name": "Yijiang Li",
+        "affiliation": "Zweistein Innovation Lab, Active Care and Education in Sports and Outreach (ACESO) Foundation, Dublin, USA."
+      }
+    ],
+    "journal": "Cureus",
+    "publishedDate": "2026-10-17",
+    "fetchedDate": "2026-10-18",
+    "category": "Genômica",
+    "tags": [
+      "gene",
+      "infant"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5gZVW5-2kFHot-a4c52c5b28df6150\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: ebe38ce7-156b-41a3-818e-82731ba70d1b)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42887471",
     "pmid": "42887471",
     "doi": "10.1016/j.medcli.2026.107656",
@@ -12337,137 +12453,5 @@
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42455253",
-    "pmid": "42455253",
-    "doi": "10.1186/s43046-026-00385-4",
-    "title": "Immune organoids for Africa: a roadmap for bridging the innovation gap in infectious diseases and cancer research.",
-    "titlePt": "Immune organoids for Africa: a roadmap for bridging the innovation gap in infectious diseases and cancer research.",
-    "abstract": "Sub-Saharan Africa bears approximately 25% of the global disability-adjusted life-year (DALY) burden yet contributes fewer than 3% of global health research outputs. HIV/AIDS, tuberculosis (TB), and malaria coexist with a rising cancer burden, with attributable mortality projected to increase 75% by 2050. Fewer than 0.2% of genome-wide association study (GWAS) participants are of African ancestry, constraining precision medicine relevance. Conventional two-dimensional cultures and murine models inadequately replicate immune dynamics, tissue-level pathogenesis, and African pharmacogenomics. Immune organoids (three-dimensional microphysiological constructs) offer human-relevant platforms for mechanistic immunology, drug screening, vaccine evaluation, and precision oncology. A narrative review was conducted across PubMed, Scopus, Web of Science, and Google Scholar (January 2019-June 2025), integrating technical descriptors (lymph node-on-a-chip, patient-derived organoids, microphysiologic",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nA Subsaariana concentra cerca de 25% da carga global de doenças ajustada por anos de vida perdidos (DALY), mas contribui com menos de 3% da produção científica em saúde no mundo. Nesse cenário, doenças infecciosas como HIV/AIDS, tuberculose (TB) e malária coexistem com um crescente ônus de câncer, cuja mortalidade atribuível deve aumentar 75% até 2050. Além disso, menos de 0,2% dos participantes de estudos de associação genômica ampla (GWAS) são de ancestralidade africana, limitando a relevância da medicina de precisão para populações do continente. Modelos convencionais — como culturas celulares bidimensionais e modelos murinos — não conseguem replicar adequadamente a dinâmica imunológica, a patogênese em nível tecidual ou a farmacogenômica africana.\n\nUma revisão narrativa publicada recentemente propõe o uso de *immune organoids* (estruturas tridimensionais microfisiológicas) como plataforma promissora para pesquisa translacional. Esses sistemas, que incluem modelos como \"linfonodo-em-um-chip\" e organoides derivados de pacientes, permitem estudar mecanismos imunológicos, testar f��rmacos, avaliar vacinas e avançar em oncologia de precisão com maior relevância humana. O trabalho, baseado em buscas sistemáticas nas bases PubMed, Scopus, Web of Science e Google Scholar (de janeiro de 2019 a junho de 2025), destaca como essas tecnologias podem preencher lacunas críticas na saúde africana, especialmente diante da escassez de infraestrutura e recursos para pesquisa in vivo.\n\nEmbora os achados sejam conceituais e não apresentem dados experimentais primários, o estudo sublinha a urgência de desenvolver capacidades locais de bioengenharia. A implementação bem-sucedida dependeria de colaborações interdisciplinares, investimentos em ciência de dados e políticas que priorizem a inclusão de populações africanas em pesquisas genômicas. Entre os desafios citados estão a padronização de protocolos, a acessibilidade de tecnologias de ponta e a harmonização ética para uso de amostras biológicas. Os próximos passos incluem a validação desses modelos em contextos clínicos reais e a integração com sistemas de saúde pública para reduzir desigualdades no acesso a terapias personalizadas.\n\n---\n\n**English version**\n\nSub-Saharan Africa accounts for roughly 25% of the global disability-adjusted life-year (DALY) burden but contributes less than 3% of worldwide health research outputs. In this context, infectious diseases such as HIV/AIDS, tuberculosis (TB), and malaria coexist with a rising cancer burden, whose attributable mortality is projected to increase by 75% by 2050. Additionally, fewer than 0.2% of genome-wide association study (GWAS) participants are of African ancestry, limiting the relevance of precision medicine for the continent’s populations. Conventional models—including two-dimensional cell cultures and murine systems—fail to adequately replicate immune dynamics, tissue-level pathogenesis, or African pharmacogenomics.\n\nA recent narrative review proposes immune organoids—three-dimensional microphysiological constructs—as a promising platform for translational research. Systems such as *lymph node-on-a-chip* and patient-derived organoids enable mechanistic immunology studies, drug screening, vaccine evaluation, and advances in precision oncology with greater human relevance. The work, based on systematic searches across PubMed, Scopus, Web of Science, and Google Scholar (January 2019–June 2025), underscores how these technologies could address critical gaps in African health research, particularly given the continent’s limited infrastructure for in vivo studies.\n\nWhile the findings are conceptual and do not present primary experimental data, the study emphasizes the urgency of developing local bioengineering capabilities. Successful implementation would require interdisciplinary collaborations, investments in data science, and policies prioritizing the inclusion of African populations in genomic research. Key challenges include protocol standardization, accessibility to cutting-edge technologies, and ethical frameworks for biological sample use. Next steps involve validating these models in real-world clinical settings and integrating them with public health systems to reduce disparities in access to personalized therapies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42455253",
-    "authors": [
-      {
-        "name": "Ahmad Onikoko Abdulgafar",
-        "affiliation": "Usmanu Danfodiyo University Sokoto, Sokoto, Nigeria. adeyanju8998@gmail.com."
-      },
-      {
-        "name": "Adeyemi Sallam Febilola",
-        "affiliation": "Usmanu Danfodiyo University Sokoto, Sokoto, Nigeria."
-      },
-      {
-        "name": "Catherine Rono",
-        "affiliation": "Roswell Park Comprehensive Cancer Center, Buffalo, USA."
-      },
-      {
-        "name": "Chinemerem Henry Ugo",
-        "affiliation": "University of Nigeria Nsukka, Enugu, Nigeria."
-      }
-    ],
-    "journal": "Journal of the Egyptian National Cancer Institute",
-    "publishedDate": "2026-07-15",
-    "fetchedDate": "2026-07-15",
-    "category": "Imunologia",
-    "tags": [
-      "cancer",
-      "oncology",
-      "hiv",
-      "genomic",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42449500",
-    "pmid": "42449500",
-    "doi": "10.1001/jama.2026.12556",
-    "title": "Prognostic Value of Blood-Based P-Tau217 Levels for Progression to Cognitive Impairment.",
-    "titlePt": "Prognostic Value of Blood-Based P-Tau217 Levels for Progression to Cognitive Impairment.",
-    "abstract": "Blood-based biomarkers for Alzheimer disease, particularly plasma phosphorylated tau 217 (p-tau217), accurately reflect early Alzheimer disease brain pathology in cognitively unimpaired individuals, but estimates of absolute risk of progression to cognitive impairment across multiple cohorts are needed. To estimate absolute risk of progression to cognitive impairment and rates of cognitive decline based on plasma p-tau217 across cognitively unimpaired older adults. Longitudinal cohort study using harmonized data from 2684 cognitively unimpaired older adults (defined within cohort) across 6 observational and clinical trial cohorts based in North America, Japan, and Australia. The earliest enrollment was in 2004, with most recent follow-up in 2025. Baseline plasma p-tau217. The primary outcome was time to progression to cognitive impairment (mild cognitive impairment, dementia, or 2 consecutive global Clinical Dementia Rating scores &#x2265;0.5). The secondary outcome was longitudinal ch",
-    "journalisticSummary": "**Versão em português**\n\nUm estudo longitudinal publicado no *JAMA* (DOI: 10.1001/jama.2026.12556) investigou o valor prognóstico do biomarcador sanguíneo fosfo-tau 217 (p-tau217) na progressão de comprometimento cognitivo em adultos mais velhos cognitivamente intactos. A pesquisa, que analisou dados harmonizados de 2.684 participantes de seis coortes observacionais e ensaios clínicos nos EUA, Japão e Austrália — com recrutamento iniciado em 2004 e acompanhamento mais recente em 2025 —, identificou que níveis elevados de p-tau217 no plasma estão associados a um risco aumentado de progressão para comprometimento cognitivo leve (CCL), demência ou declínio em escores globais de avaliação clínica.\n\nOs resultados indicam que o p-tau217 plasmático pode antecipar a conversão para CCL ou demência com precisão superior a abordagens clínicas convencionais, especialmente em indivíduos assintomáticos. Embora o estudo não tenha fornecido estimativas absolutas de risco por subgrupos ou limiares clínicos definidos, a análise longitudinal demonstrou que participantes com concentrações mais altas de p-tau217 apresentaram taxas significativamente maiores de progressão. No entanto, a generalização dos achados pode ser limitada pela composição étnica e geográfica das coortes estudadas, predominantemente compostas por populações ocidentais e asiáticas.\n\nEntre as limitações destacadas pelos autores estão a ausência de padronização nos métodos de dosagem do p-tau217 entre os centros e a necessidade de validação em coortes mais diversificadas, incluindo populações com menor acesso a cuidados especializados. Os próximos passos incluem a integração desse biomarcador em modelos preditivos multivariados, combinados a outros indicadores biológicos e clínicos, além de estudos prospectivos para estabelecer pontos de corte universalmente aplicáveis. Caso confirmados em pesquisas futuras, esses achados poderiam subsidiar estratégias de prevenção personalizada e rastreamento precoce de doenças neurodegenerativas.\n\n---\n\n**English version**\n\nA longitudinal study published in *JAMA* (DOI: 10.1001/jama.2026.12556) assessed the prognostic value of plasma phosphorylated tau 217 (p-tau217) in predicting cognitive impairment progression among cognitively unimpaired older adults. Analyzing harmonized data from 2,684 participants across six observational cohorts and clinical trials in North America, Japan, and Australia—with enrollment starting in 2004 and the most recent follow-up in 2025—the research found that elevated plasma p-tau217 levels correlate with an increased risk of progression to mild cognitive impairment (MCI), dementia, or a decline in global Clinical Dementia Rating scores.\n\nThe findings suggest that plasma p-tau217 may outperform conventional clinical assessments in predicting conversion to MCI or dementia in asymptomatic individuals. While the study did not provide absolute risk estimates by subgroups or defined clinical thresholds, longitudinal analysis revealed significantly higher progression rates in participants with higher p-tau217 concentrations. However, the generalizability of these results may be constrained by the predominantly Western and Asian demographic composition of the cohorts studied.\n\nKey limitations noted by the authors include the lack of standardized p-tau217 assay methodologies across centers and the need for validation in more diverse populations, particularly those with limited access to specialized care. Future research directions involve integrating p-tau217 into multivariate predictive models alongside other biological and clinical markers, as well as prospective studies to establish universally applicable cutoffs. If validated in subsequent studies, these findings could inform personalized prevention strategies and early screening for neurodegenerative diseases.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42449500",
-    "authors": [
-      {
-        "name": "Rachel F Buckley",
-        "affiliation": "Department of Neurology, Mass General Brigham, Boston, Massachusetts."
-      },
-      {
-        "name": "Diana L Townsend",
-        "affiliation": "Melbourne School of Psychological Sciences, The University of Melbourne, Melbourne, Victoria, Australia."
-      },
-      {
-        "name": "Colin J Birkenbihl",
-        "affiliation": "Department of Neurology, Mass General Brigham, Boston, Massachusetts."
-      },
-      {
-        "name": "Madison Cuppels",
-        "affiliation": "Department of Neurology, Mass General Brigham, Boston, Massachusetts."
-      }
-    ],
-    "journal": "JAMA",
-    "publishedDate": "2026-07-15",
-    "fetchedDate": "2026-07-15",
-    "category": "Neurologia",
-    "tags": [
-      "brain",
-      "alzheimer",
-      "dementia",
-      "cognitive",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42452704",
-    "pmid": "42452704",
-    "doi": "10.3390/jcm15135244",
-    "title": "Use of Natriuretic Peptides in Critically Ill Patients: A Narrative Review.",
-    "titlePt": "Use of Natriuretic Peptides in Critically Ill Patients: A Narrative Review.",
-    "abstract": "Background: Natriuretic peptides, including B-type natriuretic peptide (BNP) and N-terminal pro-B-type natriuretic peptide (NT-proBNP), are established biomarkers of myocardial stress and circulatory overload. Although originally validated for diagnosis and exclusion of heart failure, their diagnostic and prognostic applications have expanded significantly in the context of critical illness. However, interpretation in critically ill patients is complicated by confounding factors such as systemic inflammation and renal dysfunction. Objective: This review synthesizes current evidence on the diagnostic, monitoring, and prognostic applications of natriuretic peptides in critically ill adults. It further outlines practical considerations, confounding variables, and emerging complementary biomarkers pertinent to clinical decision-making. Methods: A structured search of PubMed, Embase, and the Cochrane Library (January 2000 to October 2025) identified studies evaluating BNP, NT-proBNP, and at",
-    "journalisticSummary": "O uso de peptídeos natriuréticos, incluindo o peptídeo natriurético tipo B (BNP) e o peptídeo N-terminal pro-BNP (NT-proBNP), tem sido cada vez mais reconhecido como uma ferramenta valiosa no diagnóstico e monitoramento de pacientes criticamente doentes. Embora originalmente validados para o diagnóstico e exclusão de insuficiência cardíaca, esses biomarcadores têm expandido seu escopo de aplicação significativamente no contexto de doenças críticas. No entanto, a interpretação desses peptídeos em pacientes criticamente doentes é complicada por fatores confusos, como inflamação sistêmica e disfunção renal. Esta revisão narrativa busca sintetizar as evidências atuais sobre as aplicações diagnósticas, de monitoramento e prognósticas dos peptídeos natriuréticos em adultos doentes críticos, além de esclarecer considerações práticas, variáveis confusas e biomarcadores complementares emergentes pertinentes à tomada de decisões clínicas.\n\nOs achados principais destacam a importância dos peptídeos natriuréticos como ferramentas para avaliar o estresse miocárdico e a sobrecarga circulatória, mesmo em contextos mais amplos do que a insuficiência cardíaca. No entanto, é crucial considerar as limitações, incluindo a influência de fatores não cardíacos na interpretação desses biomarcadores. O impacto clínico do uso desses peptídeos pode ser significativo, ajudando a guiar terapias e melhorar os resultados dos pacientes. As próximas etapas devem incluir a investigação de como esses biomarcadores podem ser integrados de forma eficaz em algoritmos de decisão clínica, considerando as variáveis confusas e o desenvolvimento de biomarcadores complementares.\n\nNão foram informados detalhes sobre o número específico de estudos incluídos ou os resultados quantitativos das análises, o que poderia fornecer uma visão mais detalhada sobre a eficácia e a aplicabilidade dos peptídeos natriuréticos em diferentes contextos clínicos. Futuras pesquisas devem buscar esclarecer esses aspectos para uma melhor implementação desses biomarcadores na prática clínica diária.\n\nThe use of natriuretic peptides, including B-type natriuretic peptide (BNP) and N-terminal pro-B-type natriuretic peptide (NT-proBNP), has been increasingly recognized as a valuable tool in the diagnosis and monitoring of critically ill patients. Although originally validated for the diagnosis and exclusion of heart failure, these biomarkers have significantly expanded their scope of application in the context of critical illness. However, the interpretation of these peptides in critically ill patients is complicated by confounding factors such as systemic inflammation and renal dysfunction. This narrative review aims to synthesize current evidence on the diagnostic, monitoring, and prognostic applications of natriuretic peptides in critically ill adults, as well as to outline practical considerations, confounding variables, and emerging complementary biomarkers pertinent to clinical decision-making.\n\nThe main findings highlight the importance of natriuretic peptides as tools for assessing myocardial stress and circulatory overload, even in broader contexts than heart failure. However, it is crucial to consider the limitations, including the influence of non-cardiac factors on the interpretation of these biomarkers. The clinical impact of using these peptides can be significant, helping to guide therapies and improve patient outcomes. The next steps should include investigating how these biomarkers can be effectively integrated into clinical decision-making algorithms, considering confounding variables and the development of complementary biomarkers.\n\nDetails on the specific number of studies included or the quantitative results of the analyses were not provided, which could offer a more detailed insight into the effectiveness and applicability of natriuretic peptides in different clinical contexts. Future research should seek to clarify these aspects for a better implementation of these biomarkers in daily clinical practice.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42452704",
-    "authors": [
-      {
-        "name": "Ayodeji Olarewaju",
-        "affiliation": "Department of Internal Medicine, Augusta University, Augusta, GA 30904, USA."
-      },
-      {
-        "name": "Akinade Adebowale",
-        "affiliation": "Department of Psychiatry, McMaster University, Hamilton, ON L8S 4L8, Canada."
-      },
-      {
-        "name": "Peter Odutola",
-        "affiliation": "AbbVie (United States), North Chicago, IL 60064, USA."
-      },
-      {
-        "name": "Annie Arnold",
-        "affiliation": "Phoebe Health, Albany, GA 31701, USA."
-      }
-    ],
-    "journal": "Journal of clinical medicine",
-    "publishedDate": "2026-07-15",
-    "fetchedDate": "2026-07-15",
-    "category": "Cardiologia",
-    "tags": [
-      "heart",
-      "myocardial"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
