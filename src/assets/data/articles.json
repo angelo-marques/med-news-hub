@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42893392",
+    "pmid": "42893392",
+    "doi": "10.2196/94382",
+    "title": "Efficacy, Effectiveness, and Immunogenicity of the Respiratory Syncytial Virus Prefusion F Vaccine Administered During Pregnancy: Protocol for a Living Systematic Review and Meta-Analysis.",
+    "titlePt": "Efficacy, Effectiveness, and Immunogenicity of the Respiratory Syncytial Virus Prefusion F Vaccine Administered During Pregnancy: Protocol for a Living Systematic Review and Meta-Analysis.",
+    "abstract": "Respiratory syncytial virus (RSV) is a leading cause of lower respiratory tract disease in infants, with the highest burden in the first 6 months of life. Maternal immunization with the bivalent (RSV-A and RSV-B) prefusion F (RSVPreF) protein subunit vaccine (ABRYSVO) is a recently recommended strategy for preventing RSV-related outcomes in infants. First licensed for use in pregnancy in 2023, the RSVPreF vaccine demonstrated efficacy in a single pivotal randomized trial (Maternal Immunization Study for Safety and Efficacy; MATISSE); postlicensure real-world evidence on vaccine effectiveness across settings, seasons, and subgroups and on antibody durability and transplacental transfer remains limited and has not been synthesized in a continuously updated framework, motivating this review. This living systematic review and meta-analysis will synthesize emerging postlicensure data on the efficacy, effectiveness, and immunogenicity of the RSVPreF vaccine in real-world settings. We will co",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893392",
+    "authors": [
+      {
+        "name": "Agustina Mazzoni",
+        "affiliation": "Institute for Clinical Effectiveness and Health Policy (IECS), Lavalleja 856, Buenos Aires, C1414DTR, Argentina, 54 0111558570687."
+      },
+      {
+        "name": "Ariel Bardach",
+        "affiliation": "Institute for Clinical Effectiveness and Health Policy (IECS), Lavalleja 856, Buenos Aires, C1414DTR, Argentina, 54 0111558570687."
+      },
+      {
+        "name": "Mabel Berrueta",
+        "affiliation": "Institute for Clinical Effectiveness and Health Policy (IECS), Lavalleja 856, Buenos Aires, C1414DTR, Argentina, 54 0111558570687."
+      },
+      {
+        "name": "Agustin Ciapponi",
+        "affiliation": "Institute for Clinical Effectiveness and Health Policy (IECS), Lavalleja 856, Buenos Aires, C1414DTR, Argentina, 54 0111558570687."
+      }
+    ],
+    "journal": "JMIR research protocols",
+    "publishedDate": "2026-10-18",
+    "fetchedDate": "2026-10-18",
+    "category": "Imunologia",
+    "tags": [
+      "rna",
+      "infant",
+      "vaccine",
+      "antibody"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5kDPL3-2kFHot-a4c91db4cc63dcc7\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 1c8601b1-de0a-41e3-aa74-5617c9f2a6e2)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42890256",
     "pmid": "42890256",
     "doi": "10.3389/fimmu.2026.1844972",
@@ -12407,50 +12450,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42447484",
-    "pmid": "42447484",
-    "doi": "10.5281/zenodo.19076283",
-    "title": "[Genetic Susceptibility to Metabolic Syndrome: A Comparative Overview of the Mexican Population in a Global Context].",
-    "titlePt": "[Genetic Susceptibility to Metabolic Syndrome: A Comparative Overview of the Mexican Population in a Global Context].",
-    "abstract": "Metabolic syndrome (MetS) is a multifactorial condition involving environmental factors, lifestyle behaviors, and genetic variants. The objective of this review was to analyze and compare the available evidence on genetic susceptibility to MetS in the Mexican population and in other regions of the world, in order to identify convergences and population-specific features. A narrative review of the scientific literature published between 2020 and 2025 was conducted using international databases. The methodological quality and scientific relevance of the studies were assessed using criteria adapted from the Q-Genie instrument. The results show that genetic variants involved in glucose and lipid metabolism, as well as in blood pressure regulation, are associated with MetS across diverse populations. However, relevant differences were identified in the frequency and phenotypic effects of these variants between the Mexican population and other regions worldwide. In conclusion, the evidence s",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *PubMed* (DOI: 10.5281/zenodo.19076283) realizou uma revisão narrativa da literatura científica entre 2020 e 2025 para avaliar a suscetibilidade genética à síndrome metabólica (SM) na população mexicana, comparando-a com dados globais. A pesquisa buscou identificar convergências e características específicas relacionadas a variantes genéticas associadas a alterações no metabolismo de glicose, lipídios e regulação da pressão arterial — fatores centrais na fisiopatologia da SM.\n\nOs resultados indicaram que, embora existam genes comumente implicados na suscetibilidade à SM em diferentes populações — como *TCF7L2* (relacionado à resistência à insulina) e *APOC3* (associado a dislipidemias) —, a frequência e o impacto fenotípico dessas variantes apresentam diferenças significativas na população mexicana em comparação a outras regiões. Por exemplo, enquanto variantes como *FTO* (vinculada à obesidade) mostram associação robusta em populações europeias, estudos com mexicanos sugerem uma interação mais complexa com fatores ambientais, como dieta e nível de atividade física. Além disso, a revisão destacou a escassez de dados longitudinais robustos sobre a interação gene-ambiente na população mexicana, um ponto crítico para a estratificação de risco e desenvolvimento de estratégias preventivas personalizadas.\n\nDo ponto de vista clínico, as descobertas reforçam a necessidade de abordagens diagnósticas e terapêuticas adaptadas ao contexto genético mexicano, considerando não apenas a prevalência de variantes de risco, mas também sua penetrância e interações com fatores socioeconômicos e culturais. Os autores ressaltam que, embora a genética ofereça insights valiosos, a SM permanece uma condição multifatorial, onde fatores como obesidade, sedentarismo e dieta desempenham papel predominante. Nesse sentido, a integração de dados genômicos com variáveis clínicas e comportamentais emerge como uma estratégia promissora para a medicina de precisão na região.\n\nEntre as limitações do estudo, está a ausência de meta-análises quantitativas devido à heterogeneidade metodológica dos trabalhos incluídos, bem como a falta de consenso sobre os critérios diagnósticos de SM utilizados em diferentes estudos. Os próximos passos incluem a realização de estudos de associação genômica ampla (GWAS) em populações mexicanas diversificadas e a validação de painéis genéticos para predição de risco, além das investigações sobre o papel de variantes raras e estruturais não avaliadas nos estudos atuais.\n\n---\n\n**English version**\n\nA recent study published in *PubMed* (DOI: 10.5281/zenodo.19076283) conducted a narrative review of scientific literature from 2020 to 2025 to assess genetic susceptibility to metabolic syndrome (MetS) in the Mexican population, comparing it with global data. The research aimed to identify commonalities and population-specific features related to genetic variants associated with glucose and lipid metabolism, as well as blood pressure regulation—key factors in MetS pathophysiology.\n\nThe findings revealed that while certain genes are commonly implicated in MetS susceptibility across populations—such as *TCF7L2* (linked to insulin resistance) and *APOC3* (associated with dyslipidemias)—the frequency and phenotypic impact of these variants differ significantly in the Mexican population compared to other regions. For instance, while variants like *FTO* (linked to obesity) show strong associations in European populations, studies in Mexican cohorts suggest a more complex interaction with environmental factors, including diet and physical activity levels. Additionally, the review highlighted the lack of robust longitudinal data on gene-environment interactions in the Mexican population, a critical gap for risk stratification and the development of personalized prevention strategies.\n\nFrom a clinical perspective, the findings underscore the need for diagnostic and therapeutic approaches tailored to the Mexican genetic context, considering not only the prevalence of risk variants but also their penetrance and interactions with socioeconomic and cultural factors. The authors emphasize that while genetics provides valuable insights, MetS remains a multifactorial condition where factors such as obesity, sedentary lifestyle, and diet play a predominant role. In this context, integrating genomic data with clinical and behavioral variables emerges as a promising strategy for precision medicine in the region.\n\nAmong the study’s limitations are the absence of quantitative meta-analyses due to the methodological heterogeneity of the included works, as well as the lack of consensus on diagnostic criteria for MetS used across different studies. Future steps include conducting genome-wide association studies (GWAS) in diverse Mexican populations and validating genetic panels for risk prediction, alongside investigations into the role of rare and structural variants not assessed in current research.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42447484",
-    "authors": [
-      {
-        "name": "Carlos Arturo Gallardo-Hern&#xe1;ndez",
-        "affiliation": "Universidad Veracruzana, Facultad de Bioan&#xe1;lisis, Unidad de Servicios Anal&#xed;ticos en Salud Bioan&#xe1;lisis. Xalapa, Veracruz, M&#xe9;xico."
-      },
-      {
-        "name": "Jaqueline D&#xed;az-Alberto",
-        "affiliation": "Universidad Veracruzana, Facultad de Bioan&#xe1;lisis, Licenciatura en Qu&#xed;mica Cl&#xed;nica. Xalapa, Veracruz, M&#xe9;xico."
-      },
-      {
-        "name": "Jos&#xe9; Antonio Palma-Jacinto",
-        "affiliation": "Universidad Veracruzana, Facultad de Bioan&#xe1;lisis, Unidad de Servicios Anal&#xed;ticos en Salud Bioan&#xe1;lisis. Xalapa, Veracruz, M&#xe9;xico."
-      },
-      {
-        "name": "Oreth Montero-Ru&#xed;z",
-        "affiliation": "Universidad Veracruzana, Facultad de Bioan&#xe1;lisis, Laboratorio de Investigaci&#xf3;n de Bioqu&#xed;mica y Neurotoxicolog&#xed;a. Xalapa, Veracruz, M&#xe9;xico."
-      }
-    ],
-    "journal": "Revista medica del Instituto Mexicano del Seguro Social",
-    "publishedDate": "2026-07-15",
-    "fetchedDate": "2026-07-15",
-    "category": "Genômica",
-    "tags": [
-      "genetic",
-      "gene",
-      "rna",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
