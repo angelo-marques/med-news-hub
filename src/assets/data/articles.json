@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42893848",
+    "pmid": "42893848",
+    "doi": "10.1111/fcp.70113",
+    "title": "Drug-Specific Associations of Angiotensin Receptor Blockers With Parkinson's Disease Risk in a Multicenter Electronic Health Record Cohort.",
+    "titlePt": "Drug-Specific Associations of Angiotensin Receptor Blockers With Parkinson's Disease Risk in a Multicenter Electronic Health Record Cohort.",
+    "abstract": "Angiotensin receptor blockers (ARBs) have demonstrated neuroprotective effects in preclinical models of Parkinson's disease (PD), but individual ARBs differ in pharmacological properties that may influence their neuroprotective potential. Using large-scale hospital electronic health records of the University of California health system, we tested whether specific ARBs are associated with lower PD risk. We conducted a new-user, active-comparator cohort study in the University of California Health Data Warehouse, encompassing 890&#x2009;712 hypertensive patients across six academic medical centers from 2012 to 2025. Cox proportional hazards models estimated hazard ratios for individual ARB associations with incident PD, adjusting for demographics, nine preindex comorbidities, and index date. Robustness was assessed through propensity score matching and negative-control analysis. Drug-specific Cox analysis identified irbesartan (HR&#x2009;=&#x2009;0.588, 95% CI 0.434 to 0.796, p&#x2009;=&",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893848",
+    "authors": [
+      {
+        "name": "Kyle Tran",
+        "affiliation": "Department of Clinical Pharmacy Practice, School of Pharmacy and Pharmaceutical Sciences, University of California-Irvine, Irvine, California, USA."
+      },
+      {
+        "name": "Jichen Yang",
+        "affiliation": "Robert A. Mah Molecular Innovation Center, University of California-Irvine, Irvine, California, USA."
+      },
+      {
+        "name": "Sally Pham",
+        "affiliation": "Department of Clinical Pharmacy Practice, School of Pharmacy and Pharmaceutical Sciences, University of California-Irvine, Irvine, California, USA."
+      },
+      {
+        "name": "Dylan Luong",
+        "affiliation": "Robert A. Mah Molecular Innovation Center, University of California-Irvine, Irvine, California, USA."
+      }
+    ],
+    "journal": "Fundamental &amp; clinical pharmacology",
+    "publishedDate": "2026-10-18",
+    "fetchedDate": "2026-10-19",
+    "category": "Neurologia",
+    "tags": [
+      "parkinson",
+      "drug"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5pJrU7-2kFHot-a4cd88e10be2da41\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 2b2cd894-d1b6-4893-ad67-a2ac92495994)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42893392",
     "pmid": "42893392",
     "doi": "10.2196/94382",
@@ -12408,48 +12449,6 @@
     ],
     "isHighlight": false,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42044462",
-    "pmid": "42044462",
-    "doi": "10.1200/JCO-25-02510",
-    "title": "Safety and Clinical Outcomes of Pooled Donor, Nonengrafting Expanded Progenitor Cells in Single-Unit Cord Blood Transplantation.",
-    "titlePt": "Safety and Clinical Outcomes of Pooled Donor, Nonengrafting Expanded Progenitor Cells in Single-Unit Cord Blood Transplantation.",
-    "abstract": "Cord blood transplantation (CBT) is limited by delayed hematopoietic recovery leading to frequent use of double-unit grafts. This phase II study evaluated the safety of adding dilanubicel, a cryopreserved, cord blood (CB)-derived, non-human leukocyte antigen-matched expanded progenitor cell product generated from pooled donors to single-unit CBT. Between March 2022 and July 2025, we enrolled 28 patients with hematologic malignancies in this single-center phase II trial. The infusion of a matched single CB unit was followed by a target dose of 800 &#xd7; 106 CD34+ cells of dilanubicel. All patients received a myeloablative conditioning regimen and graft-versus-host disease (GVHD) prophylaxis consisting of cyclosporine and mycophenolate mofetil. The median age was 36 years (range, 10-63). Underlying diagnoses included acute leukemias (n = 25) and other hematologic malignancies (n = 3). All patients engrafted neutrophils (median, 18 days; range, 14-30) and platelets (median, 31 days; rang",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *Journal of Clinical Oncology* (DOI: 10.1200/JCO-25-02510) investigou uma estratégia para melhorar os resultados clínicos em transplantes de células-tronco de sangue de cordão umbilical, uma abordagem frequentemente limitada pela lenta recuperação hematopoética. A pesquisa, conduzida entre março de 2022 e julho de 2025, avaliou a segurança e eficácia da adição de *dilanubicel* — um produto derivado de células progenitoras expandidas de sangue de cordão, obtidas de doadores não compatíveis para antígenos leucocitários humanos (HLA) — a transplantes de unidades únicas de sangue de cordão. O *dilanubicel* é uma preparação criopreservada, desenvolvida a partir de doadores múltiplos, projetada para acelerar a enxertia sem exigir compatibilidade HLA.\n\nO ensaio clínico de fase II, realizado em um único centro, recrutou 28 pacientes com doenças hematológicas malignas, majoritariamente leucemias agudas (25 casos). Os participantes, com mediana de idade de 36 anos (10-63 anos), receberam um regime de condicionamento mieloablativo seguido de profilaxia para doença do enxerto contra hospedeiro (GVHD) com ciclosporina e micofenolato de mofetila. A infusão do *dilanubicel* atingiu uma dose-alvo de 800 milhões de células CD34+ por paciente. Todos os pacientes apresentaram enxertia neutrofílica, com mediana de 18 dias (variação: 14-30 dias), enquanto a recuperação plaquetária ocorreu em mediana de 31 dias (variação: não informada no resumo). Não foram relatados eventos adversos graves relacionados ao produto, sugerindo um perfil de segurança aceitável.\n\nOs resultados indicam que a estratégia pode contornar a necessidade de transplantes com unidades duplas de sangue de cordão, uma prática comum para reduzir o risco de falha de enxertia. Embora os dados sejam promissores, o estudo apresenta limitações, como o pequeno tamanho amostral, a ausência de grupo controle e o acompanhamento ainda em andamento, o que impede conclusões definitivas sobre eficácia a longo prazo e impacto na sobrevida global. Pesquisas futuras devem incluir ensaios randomizados com maior número de participantes para validar esses achados e explorar o potencial do *dilanubicel* em diferentes contextos clínicos.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Clinical Oncology* (DOI: 10.1200/JCO-25-02510) explored a strategy to enhance clinical outcomes in cord blood stem cell transplantation, a procedure often constrained by delayed hematopoietic recovery. The research, conducted between March 2022 and July 2025, assessed the safety and efficacy of adding *dilanubicel*—a cryopreserved product derived from expanded progenitor cells sourced from pooled, non–human leukocyte antigen–matched cord blood donors—to single-unit cord blood transplants. *Dilanubicel* is a multi-donor, HLA-unmatched expanded progenitor cell product designed to accelerate engraftment without requiring HLA compatibility.\n\nThe phase II single-center clinical trial enrolled 28 patients with hematologic malignancies, predominantly acute leukemias (25 cases). Participants, with a median age of 36 years (range: 10-63), received a myeloablative conditioning regimen followed by graft-versus-host disease (GVHD) prophylaxis with cyclosporine and mycophenolate mofetil. The *dilanubicel* infusion achieved a target dose of 800 × 10⁶ CD34+ cells per patient. All patients achieved neutrophil engraftment with a median of 18 days (range: 14-30 days), while platelet recovery occurred at a median of 31 days (range: not reported in the abstract). No serious adverse events related to the product were reported, indicating an acceptable safety profile.\n\nThe findings suggest that this approach may mitigate the need for double-unit cord blood transplants, a common strategy to reduce engraftment failure risk. While promising, the study has limitations, including a small sample size, the absence of a control group, and ongoing follow-up, which preclude definitive conclusions on long-term efficacy and overall survival impact. Future research should include larger randomized trials to validate these results and further investigate *dilanubicel*’s potential across broader clinical settings.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42044462",
-    "authors": [
-      {
-        "name": "Filippo Milano",
-        "affiliation": "Translational Science and Therapeutics, Fred Hutchinson Cancer Center, Seattle, WA."
-      },
-      {
-        "name": "Ann Dahlberg",
-        "affiliation": "Department of Medicine, University of Washington School of Medicine, Seattle, WA."
-      },
-      {
-        "name": "Jenna Pedersen",
-        "affiliation": "Department of Pediatrics, University of Washington School of Medicine and Seattle Children's Hospital, Seattle, WA."
-      },
-      {
-        "name": "Laura Roberts",
-        "affiliation": "Clinical Research Division, Fred Hutchinson Cancer Center, Seattle, WA."
-      }
-    ],
-    "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-    "publishedDate": "2026-07-15",
-    "fetchedDate": "2026-07-15",
-    "category": "Oncologia",
-    "tags": [
-      "leukemia",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
