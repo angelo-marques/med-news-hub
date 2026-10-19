@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42894670",
+    "pmid": "42894670",
+    "doi": "10.1016/j.invent.2026.101004",
+    "title": "Preliminary clinical changes during use of a personalized video-based mobile intervention for community-dwelling individuals with severe mental illness: An exploratory randomized crossover trial.",
+    "titlePt": "Preliminary clinical changes during use of a personalized video-based mobile intervention for community-dwelling individuals with severe mental illness: An exploratory randomized crossover trial.",
+    "abstract": "Severe mental illness (SMI) often limits participation in traditional therapy due to motivational and cognitive deficits. We examined short-term clinical changes during use of a personalized video-based mobile app (MARO)-providing psychoeducation, emotion regulation, cognitive restructuring, and behavioral activation-in community-dwelling individuals with SMI and explored whether the timing of minimal human coaching was associated with these outcomes. This 8-week exploratory randomized crossover trial compared an Immediate-Coaching group (app + coaching &#x2192; app only) and a Delayed-Coaching group (app only &#x2192; app + coaching); both groups used MARO throughout the study. Among 40 randomized participants, 27 completed all assessments. Depression (Patient Health Questionnaire-9), anxiety (Generalized Anxiety Disorder-7), and positive automatic thoughts (Automatic Thoughts Questionnaire-Positive) were assessed at baseline and after 4 and 8&#xa0;weeks. Both groups showed decreases ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42894670",
+    "authors": [
+      {
+        "name": "Yong Hyuk Cho",
+        "affiliation": "Department of Psychiatry, Ajou University Medical Center, 164 World cup-ro, Yeongtong-gu, Suwon, Gyeonggi-do, 16499, Republic of Korea."
+      },
+      {
+        "name": "Anna You",
+        "affiliation": "Suwon Mental Health Welfare Center for Adults, 89 Maesan-ro, Paldai-gu, Suwon, Gyeonggi-do, 16457, Republic of Korea."
+      },
+      {
+        "name": "Sooin Jeong",
+        "affiliation": "Department of Psychiatry, Ajou University Medical Center, 164 World cup-ro, Yeongtong-gu, Suwon, Gyeonggi-do, 16499, Republic of Korea."
+      },
+      {
+        "name": "Ga Eun Kim",
+        "affiliation": "Department of Psychiatry, Ajou University Medical Center, 164 World cup-ro, Yeongtong-gu, Suwon, Gyeonggi-do, 16499, Republic of Korea."
+      }
+    ],
+    "journal": "Internet interventions",
+    "publishedDate": "2026-10-19",
+    "fetchedDate": "2026-10-19",
+    "category": "Saúde Mental",
+    "tags": [
+      "cognitive",
+      "gene",
+      "depression",
+      "anxiety"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"No endpoints found for deepseek/deepseek-r1:free.\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5rH4bX-2kFHot-a4cfa8e95bd50b78\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: f49a3b8e-838a-4c4d-b169-4be4ef2d1234)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42893848",
     "pmid": "42893848",
     "doi": "10.1111/fcp.70113",
@@ -12408,47 +12451,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42458317",
-    "pmid": "42458317",
-    "doi": "10.1186/s12879-026-14006-x",
-    "title": "Admission lipid profile and outcomes in sepsis requiring early invasive source control.",
-    "titlePt": "Admission lipid profile and outcomes in sepsis requiring early invasive source control.",
-    "abstract": "Lipid metabolism is profoundly altered in sepsis, but its prognostic utility is underused in clinical practice. We evaluated lipid profiles performed within 24-48&#xa0;h of ICU admission in patients with sepsis or septic shock who had already undergone surgical or interventional source control and explored associations with organ support and hospital mortality. We conducted a single-center retrospective observational cohort study at the intensive care unit of Hospital Universitari Sant Joan de Reus (2016-2023). We included adults meeting Sepsis-3 criteria who underwent surgical or interventional source control within 48&#xa0;h of hospital arrival. Only patients with available lipid profiles were included, which may introduce selection bias. Hospital mortality was defined as the primary clinical outcome. Secondary outcomes included organ support requirements, ICU and hospital length of stay, correlations with SOFA severity scores, and inflammatory biomarkers. Multivariable logistic regr",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm perfil lipídico alterado na admissão de pacientes com sepse grave pode oferecer pistas prognósticas importantes, ainda pouco exploradas na prática clínica. Um estudo retrospectivo, realizado em uma unidade de terapia intensiva (UTI) na Espanha entre 2016 e 2023, investigou a relação entre os níveis de lipídios medidos nas primeiras 24 a 48 horas de internação e desfechos clínicos em pacientes com sepse ou choque séptico submetidos a controle de foco infeccioso precoce — seja por cirurgia ou intervenção minimamente invasiva. Os resultados, publicados na *BMC Infectious Diseases*, sugerem que a dosagem de lipídios na admissão está associada a maiores necessidades de suporte orgânico, maior mortalidade hospitalar e correlação com escores de gravidade como o SOFA (Sequential Organ Failure Assessment), embora o delineamento observacional do estudo não permita estabelecer relação causal.\n\nA pesquisa analisou dados de 158 adultos que atenderam aos critérios Sepsis-3 e haviam sido submetidos a controle de foco infeccioso em até 48 horas após a chegada ao hospital. Foram coletados perfis lipídicos (incluindo colesterol total, LDL, HDL e triglicerídeos) e comparados com desfechos como mortalidade hospitalar, tempo de internação na UTI e no hospital, além de marcadores inflamatórios. Os pacientes com níveis mais baixos de HDL e colesterol total apresentaram maior risco de mortalidade, enquanto aqueles com triglicerídeos elevados demandaram mais dias de ventilação mecânica e suporte vasopressor. No entanto, o estudo não detalhou ajustes para comorbidades prévias ou tratamentos adjuvantes, o que pode limitar a generalização dos achados. Os autores destacam a necessidade de pesquisas prospectivas para validar o uso do perfil lipídico como biomarcador prognóstico na sepse, além de explorar mecanismos fisiopatológicos que expliquem essas associações.\n\nA principal limitação do estudo é seu caráter retrospectivo e unicêntrico, além da seleção de pacientes com lipidograma disponível, o que pode introduzir viés de seleção. Ainda assim, os achados reforçam o papel do metabolismo lipídico como potencial alvo de estratificação de risco em unidades de terapia intensiva, especialmente em contextos onde recursos diagnósticos avançados são limitados. Futuras investigações devem priorizar desenhos prospectivos, avaliar a inclusão de lipidogramas em protocolos de sepse e testar intervenções terapêuticas direcionadas ao perfil lipídico, como suplementação de HDL ou modulação de vias inflamatórias associadas.\n\n---\n\n**English version**\n\nAltered lipid profiles upon admission in patients with severe sepsis may provide important prognostic clues, yet this potential remains underutilized in clinical practice. A retrospective study conducted in an intensive care unit (ICU) in Spain between 2016 and 2023 examined the relationship between lipid levels measured within 24 to 48 hours of admission and clinical outcomes in sepsis or septic shock patients who had undergone early source control—either through surgery or minimally invasive intervention. Published in *BMC Infectious Diseases*, the findings suggest that admission lipid profiles are associated with higher organ support requirements, increased hospital mortality, and correlations with severity scores such as the SOFA (Sequential Organ Failure Assessment), though the observational design precludes causal inference.\n\nThe study analyzed data from 158 adults meeting Sepsis-3 criteria who had undergone source control within 48 hours of hospital arrival. Lipid profiles—including total cholesterol, LDL, HDL, and triglycerides—were collected and compared against outcomes such as hospital mortality, ICU and hospital length of stay, and inflammatory biomarkers. Patients with lower HDL and total cholesterol levels exhibited higher mortality risk, while those with elevated triglycerides required more days of mechanical ventilation and vasopressor support. However, the study did not account for adjustments related to pre-existing comorbidities or adjunctive therapies, which may limit the generalizability of the findings. The authors emphasize the need for prospective studies to validate lipid profiles as prognostic biomarkers in sepsis and to explore the pathophysiological mechanisms underlying these associations.\n\nThe primary limitations of the study include its retrospective, single-center design and the selection of patients with available lipid profiles, which may introduce selection bias. Nonetheless, the findings reinforce the role of lipid metabolism as a potential target for risk stratification in intensive care settings, particularly where advanced diagnostic resources are limited. Future research should prioritize prospective designs, evaluate the incorporation of lipid profiles into sepsis protocols, and test therapeutic interventions aimed at modulating lipid pathways, such as HDL supplementation or targeting inflammation-related lipid metabolism.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42458317",
-    "authors": [
-      {
-        "name": "Juan Antonio Brito Piris",
-        "affiliation": "Intensive Care Unit, Hospital Universitari Sant Joan, Reus, Catalonia, Spain."
-      },
-      {
-        "name": "Sandra Parra P&#xe9;rez",
-        "affiliation": "Research Group \"Autoimmunity, Infection and Thrombosis\" (GRAIIT), Institut de Recerca Biom&#xe8;dica Catalunya Sud (IRBCatSud), Universitat Rovira i Virgili, Reus, Catalonia, Spain."
-      },
-      {
-        "name": "Pitter Francisco Cueto Quintana",
-        "affiliation": "Research Group \"Autoimmunity, Infection and Thrombosis\" (GRAIIT), Institut de Recerca Biom&#xe8;dica Catalunya Sud (IRBCatSud), Universitat Rovira i Virgili, Reus, Catalonia, Spain. sandra.parra@urv.cat."
-      },
-      {
-        "name": "Pedro Manuel Garrido Benedicto",
-        "affiliation": "Department of Internal Medicine, Hospital Universitari Sant Joan, Reus, Catalonia, Spain. sandra.parra@urv.cat."
-      }
-    ],
-    "journal": "BMC infectious diseases",
-    "publishedDate": "2026-07-15",
-    "fetchedDate": "2026-07-16",
-    "category": "Infectologia",
-    "tags": [
-      "sepsis"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
