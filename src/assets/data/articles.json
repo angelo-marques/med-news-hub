@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42898852",
+    "pmid": "42898852",
+    "doi": "10.1016/j.xagr.2026.100693",
+    "title": "Prevalence and spectrum of variants in homologous recombination repair genes in ovarian cancer in Latin America: a systematic review and meta-analysis.",
+    "titlePt": "Prevalence and spectrum of variants in homologous recombination repair genes in ovarian cancer in Latin America: a systematic review and meta-analysis.",
+    "abstract": "Ovarian cancer is a major cause of gynecologic cancer mortality worldwide, with disproportionately poor outcomes in Latin America (LATAM). Variants in homologous recombination repair genes, especially BRCA1/2, are predictive biomarkers for platinum-based chemotherapy and PARP inhibitors. However, data on the prevalence and spectrum of homologous recombination repair variants in LATAM populations remain limited. To synthesize the prevalence and spectrum of pathogenic and likely pathogenic variants in homologous recombination repair pathway genes among LATAM ovarian cancer patients and highlight clinical and research implications. The review protocol was developed in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) and was registered in the international prospective register of systematic reviews (PROSPERO; registration number CRD420251019706). We systematically searched MEDLINE, EMBASE, Scopus, Web of Science, LILACS, Cochrane, and Epistemo",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42898852",
+    "authors": [
+      {
+        "name": "Elizabeth Vargas-Castellanos",
+        "affiliation": "Hospital Universitario Mayor-M&#xe9;deri (Vargas-Castellanos and Murcia-Sonaiano), Universidad del Rosario. Bogot&#xe1; D.C., Colombia."
+      },
+      {
+        "name": "Natalia Santiago-Tovar",
+        "affiliation": "Faculty of Medicine. Universidad Cooperativa de Colombia (Santiago-Tovar and Riano-Moreno), Villavicencio, Colombia."
+      },
+      {
+        "name": "Luisa Murcia-Soriano",
+        "affiliation": "Hospital Universitario Mayor-M&#xe9;deri (Vargas-Castellanos and Murcia-Sonaiano), Universidad del Rosario. Bogot&#xe1; D.C., Colombia."
+      },
+      {
+        "name": "Ariana Patino-Herrera",
+        "affiliation": "Faculty of Medicine. Universidad Nacional de Colombia (Patino-Herrera), Bogot&#xe1; D.C., Colombia."
+      }
+    ],
+    "journal": "AJOG global reports",
+    "publishedDate": "2026-10-20",
+    "fetchedDate": "2026-10-20",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "chemotherapy",
+      "gene",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"No endpoints found for deepseek/deepseek-r1:free.\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p61rFEs-2kFHot-a4d9fd8399c590b3\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 1ea87b7b-43d9-4d25-9431-f8067c8ec9f6)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42898128",
     "pmid": "42898128",
     "doi": "10.1016/j.vas.2026.100892",
@@ -12395,49 +12438,6 @@
     ],
     "isHighlight": false,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42462161",
-    "pmid": "42462161",
-    "doi": "10.1093/ejhf/xuag232",
-    "title": "Catheter ablation of atrial fibrillation in patients with heart failure: a trial-level meta-analysis.",
-    "titlePt": "Catheter ablation of atrial fibrillation in patients with heart failure: a trial-level meta-analysis.",
-    "abstract": "Many patients with heart failure (HF) have or develop atrial fibrillation (AF), which may contribute to worsening symptoms, hospitalisations and mortality. Whether catheter ablation improves outcomes in patients with HF and AF receiving guideline-recommended pharmacological therapy (GRPT) is controversial. A systematic review and meta-analysis of relevant randomised controlled trials (RCT)s on the role of catheter ablation in patients with AF and HF. Public databases for trials published prior to 17th March 2025 and investigating the effects of catheter ablation on morbidity and mortality in patients with HF and AF were searched. Outcomes of interest were all-cause and cardiovascular mortality, adverse events due to HF or AF, changes in left ventricular ejection fraction (LVEF), 6-Minute Walking Distance (6-MWD) and Minnesota Living With Heart Failure Questionnaire (MLWHFQ) scores. Altogether, thirteen RCTs including 2,490 patients (predominantly aged &lt;65 years; of whom 73% were men",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo estudo publicado no *European Journal of Heart Failure* lança luz sobre o papel da ablação por cateter em pacientes com insuficiência cardíaca (IC) e fibrilação atrial (FA), uma combinação clínica frequente e associada a piores desfechos. A meta-análise, que compilou dados de 13 ensaios clínicos randomizados envolvendo 2.490 pacientes — majoritariamente homens com menos de 65 anos —, buscou esclarecer se a ablação por cateter, além da terapia farmacológica guiada por diretrizes (GRPT), melhora desfechos clínicos nesses indivíduos. Os resultados sugerem benefícios significativos em parâmetros como fração de ejeção ventricular esquerda (FEVE), capacidade funcional avaliada pelo teste de caminhada de 6 minutos (6-MWD) e qualidade de vida, medida pelo escore *Minnesota Living With Heart Failure Questionnaire* (MLWHFQ). Contudo, a evidência não foi conclusiva quanto à redução de mortalidade global ou cardiovascular, nem de eventos adversos relacionados à IC ou FA, indicando a necessidade de mais pesquisas com amostras maiores e seguimento prolongado.\n\nOs achados reforçam o potencial da ablação por cateter como estratégia adjuvante em pacientes com IC e FA, especialmente para melhora sintomática e função cardíaca. No entanto, a ausência de impacto claro em desfechos duros — como mortalidade — limita a generalização dos resultados. Os autores destacam que a maioria dos estudos incluídos não reportou estratificação por subtipos de IC (com fração de ejeção reduzida, preservada ou intermediária), um fator que poderia influenciar a eficácia do procedimento. Além disso, a heterogeneidade nos protocolos de ablação e nos critérios de seleção dos pacientes dificulta a comparação direta entre os estudos. Como próximos passos, os pesquisadores recomendam ensaios clínicos com desenho padronizado, maior poder estatístico e foco em subgrupos específicos, além das avaliações de custo-efetividade e segurança a longo prazo.\n\n---\n\n**English version**\n\nA new study published in the *European Journal of Heart Failure* provides insights into the role of catheter ablation in patients with heart failure (HF) and atrial fibrillation (AF), a common and clinically challenging combination linked to worse outcomes. The trial-level meta-analysis, pooling data from 13 randomized controlled trials involving 2,490 patients—predominantly men under 65 years—aimed to determine whether catheter ablation, in addition to guideline-recommended pharmacological therapy (GRPT), improves clinical outcomes in this population. The findings suggest significant benefits in key parameters such as left ventricular ejection fraction (LVEF), functional capacity measured by the 6-Minute Walk Distance (6-MWD), and quality of life assessed by the *Minnesota Living With Heart Failure Questionnaire* (MLWHFQ). However, the evidence remained inconclusive regarding reductions in all-cause or cardiovascular mortality, as well as adverse events related to HF or AF, underscoring the need for further research with larger sample sizes and extended follow-up.\n\nThe results support catheter ablation as a potential adjunctive strategy for patients with HF and AF, particularly for symptomatic relief and cardiac function improvement. Yet, the lack of clear impact on hard outcomes—such as mortality—restricts the generalizability of the findings. The authors note that most included studies did not stratify results by HF subtypes (reduced, preserved, or mid-range ejection fraction), a factor that could influence procedure efficacy. Additionally, heterogeneity in ablation protocols and patient selection criteria complicates direct comparisons across studies. Moving forward, researchers advocate for standardized, adequately powered clinical trials focused on specific subgroups, as well as long-term cost-effectiveness and safety evaluations.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462161",
-    "authors": [
-      {
-        "name": "Antonio Iaconelli",
-        "affiliation": "School of Cardiovascular and Metabolic Health, College of Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow, UK."
-      },
-      {
-        "name": "Matteo Busti",
-        "affiliation": "Department of Cardiovascular Medicine, Fondazione Policlinico Universitario A. Gemelli IRCCS, L.go A. Gemelli, 1, 00168 Rome, Italy."
-      },
-      {
-        "name": "Luca Sensini",
-        "affiliation": "Department of Cardiovascular and Pulmonary Sciences, Catholic University of the Sacred Heart, Rome, Italy."
-      },
-      {
-        "name": "Pasquale Dolce",
-        "affiliation": "Department of Cardiovascular and Pulmonary Sciences, Catholic University of the Sacred Heart, Rome, Italy."
-      }
-    ],
-    "journal": "European journal of heart failure",
-    "publishedDate": "2026-07-16",
-    "fetchedDate": "2026-07-16",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "heart",
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
