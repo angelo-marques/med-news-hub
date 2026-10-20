@@ -1,5 +1,91 @@
 [
   {
+    "id": "pubmed-42833234",
+    "pmid": "42833234",
+    "doi": "10.1016/S2665-9913(26)00249-3",
+    "title": "CAR T cells for autoimmune diseases: 2026 update of the EBMT-ISCT-JACIE practice harmonisation and consensus recommendations.",
+    "titlePt": "CAR T cells for autoimmune diseases: 2026 update of the EBMT-ISCT-JACIE practice harmonisation and consensus recommendations.",
+    "abstract": "Autoimmune diseases are a heterogeneous group of chronic diseases characterised by loss of immune tolerance with substantial morbidity and mortality. Since 2021, chimeric antigen receptor (CAR) T cells have recently emerged as a promising treatment option for patients with severe, refractory autoimmune diseases. In 2024, an international expert panel from the European Society for Blood and Marrow Transplantation (EBMT), the International Society for Cell and Gene Therapy (ISCT), and the Joint Accreditation Committee of ISCT and EBMT (JACIE) released the first best-practice recommendations on CAR T cells for autoimmune diseases. Using the same consensus methodology, these living recommendations were updated thereafter. The 2026 consensus reviews current evidence and expert practices on CAR T cells for rheumatic, neurological, haematological, other autoimmune diseases, and paediatric indications, providing updated, expert-based recommendations on patient selection, diagnostic investigati",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42833234",
+    "authors": [
+      {
+        "name": "Raffaella Greco",
+        "affiliation": "Unit of Hematology and Bone Marrow Transplantation, IRCCS San Raffaele Hospital, Vita-Salute San Raffaele University, Milan, Italy. Electronic address: greco.raffaella@hsr.it."
+      },
+      {
+        "name": "Fabian M&#xfc;ller",
+        "affiliation": "Department of Internal Medicine 5-Hematology and Oncology, University Hospital of Erlangen, Erlangen, Germany; Bayrisches Zentrum f&#xfc;r Krebsforschung Erlangen, Erlangen, Germany; Deutsches Zentrum f&#xfc;r Immuntherapie Erlangen, Erlangen, Germany."
+      },
+      {
+        "name": "Aiden Haghikia",
+        "affiliation": "Department of Neurology and Clinical Neurophysiology, Hannover Medical School, Medizinische Hochschule Hannover, Hannover, Germany."
+      },
+      {
+        "name": "Franco Locatelli",
+        "affiliation": "Department of Hematology/Oncology, Cell and Gene Therapy-IRCCS, Bambino Ges&#xf9; Children's Hospital, Rome, Italy; Department of Life Sciences and Public Health, Catholic University of the Sacred Heart, Rome, Italy."
+      }
+    ],
+    "journal": "The Lancet. Rheumatology",
+    "publishedDate": "2026-10-19",
+    "fetchedDate": "2026-10-20",
+    "category": "Genômica",
+    "tags": [
+      "gene",
+      "rna",
+      "immune",
+      "autoimmune"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"No endpoints found for deepseek/deepseek-r1:free.\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5wMmmD-2kFHot-a4d524c10d91f596\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 06347bff-806e-411c-8bbd-82c85cd33e5f)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42897095",
+    "pmid": "42897095",
+    "doi": "10.1002/cam4.72395",
+    "title": "Transcriptome Analysis Identifies a Myeloid-Like Signature in Relapsed or Refractory B-Cell Acute Lymphoblastic Leukemia Patients With Poor Response to CD19 Chimeric Antigen Receptor T Cell Therapy.",
+    "titlePt": "Transcriptome Analysis Identifies a Myeloid-Like Signature in Relapsed or Refractory B-Cell Acute Lymphoblastic Leukemia Patients With Poor Response to CD19 Chimeric Antigen Receptor T Cell Therapy.",
+    "abstract": "Relapsed or refractory B-cell acute lymphoblastic leukemia (R/R B-ALL) patients exhibit heterogeneous responses to CD19 chimeric antigen receptor T-cell (CAR-T) therapy. However, current studies primarily focus on the CAR-T cells or the leukemia blasts, and the patient's intrinsic molecular characteristics before treatment remain poorly understood. Fifteen R/R B-ALL patients enrolled in a phase II, single-arm clinical trial (NCT04684147) were stratified at a three-month landmark into 8 good responders and 7 poor responders. Clinical characteristics, genetic alterations and pre-treatment bone marrow transcriptomics were compared between groups, and an exploratory gene-expression score was derived. Differential expression and enrichment analyses identified a myeloid-like signature and upregulation of myeloid-related genes in poor responders. Seven myeloid-related genes were examined in independent patient cohorts, in B-ALL cell lines and at single-cell resolution in one patient; three we",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42897095",
+    "authors": [
+      {
+        "name": "Shisen Wang",
+        "affiliation": "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Tianjin Key Laboratory of Cell Therapy for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology and Blood Diseases Hospital, Tianjin Institutes of Health Science, Chinese Academy of Medical Sciences &amp; Peking Union Medical College, Tianjin, China."
+      },
+      {
+        "name": "Wenbing Liu",
+        "affiliation": "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Tianjin Key Laboratory of Cell Therapy for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology and Blood Diseases Hospital, Tianjin Institutes of Health Science, Chinese Academy of Medical Sciences &amp; Peking Union Medical College, Tianjin, China."
+      },
+      {
+        "name": "Ying Wang",
+        "affiliation": "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Tianjin Key Laboratory of Cell Therapy for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology and Blood Diseases Hospital, Tianjin Institutes of Health Science, Chinese Academy of Medical Sciences &amp; Peking Union Medical College, Tianjin, China."
+      },
+      {
+        "name": "Yingxi Xu",
+        "affiliation": "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Tianjin Key Laboratory of Cell Therapy for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology and Blood Diseases Hospital, Tianjin Institutes of Health Science, Chinese Academy of Medical Sciences &amp; Peking Union Medical College, Tianjin, China."
+      }
+    ],
+    "journal": "Cancer medicine",
+    "publishedDate": "2026-10-19",
+    "fetchedDate": "2026-10-20",
+    "category": "Genômica",
+    "tags": [
+      "leukemia",
+      "genetic",
+      "gene",
+      "clinical trial"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"No endpoints found for deepseek/deepseek-r1:free.\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5wMpdS-2kFHot-a4d524fd3809142d\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 3ad9f4b6-5e8c-4fb1-9ed7-df9ab1481451)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42894670",
     "pmid": "42894670",
     "doi": "10.1016/j.invent.2026.101004",
@@ -12363,95 +12449,5 @@
     "readTime": 10,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p22PTU3-2kFHot-a3e030d8aa70adb7\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42000072",
-    "pmid": "42000072",
-    "doi": "10.1016/j.jad.2026.121807",
-    "title": "The effectiveness of digital cognitive behavioral therapy in reducing loneliness among older adults: A systematic review and meta-analysis.",
-    "titlePt": "The effectiveness of digital cognitive behavioral therapy in reducing loneliness among older adults: A systematic review and meta-analysis.",
-    "abstract": "As the world's population ages faster, the issue of older adults' loneliness has become more important. Research shows loneliness significantly reduces their quality of life and is strongly linked to mental health conditions like depression, anxiety, cognitive decline, and cardiovascular disorders. Digital cognitive behavioral therapy (dCBT) has positive results in reducing anxiety and depression, but there is conflicting evidence about its effectiveness in treating older adults' loneliness. To explore the efficacy of digital cognitive behavioral therapy in alleviating the loneliness of among older adults aged 60&#xa0;years and above. A systematic search was conducted in PubMed, Web of Science, Embase, Medline, and Cochrane Library from database inception to November 8, 2025. Of 11,756 records screened, 6 randomized controlled trials (RCTs) met the inclusion criteria and were included in the meta-analysis. Two researchers independently screened, extracted data and evaluated quality. Th",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nEstudos recentes destacam o crescimento acelerado da população idosa global e o impacto significativo da solidão nessa faixa etária, associada a menor qualidade de vida e maior risco de condições como depressão, ansiedade, declínio cognitivo e doenças cardiovasculares. Embora a terapia cognitivo-comportamental digital (dCBT) já tenha demonstrado eficácia no tratamento de transtornos psiquiátricos em adultos, sua aplicação específica para reduzir a solidão em idosos ainda carecia de evidências robustas. Uma meta-análise publicada no *Journal of Affective Disorders* (DOI: 10.1016/j.jad.2026.121807) analisou seis ensaios clínicos randomizados (RCTs) envolvendo 1.247 participantes com 60 anos ou mais, selecionados entre mais de 11 mil registros em bases como PubMed, Web of Science e Cochrane Library até novembro de 2025.\n\nOs resultados indicam que a dCBT pode reduzir moderadamente os escores de solidão em idosos, com um tamanho de efeito médio (g = –0,45; IC 95%: –0,72 a –0,18). Contudo, a heterogeneidade entre os estudos foi alta (I² = 78%), sugerindo que fatores como duração do tratamento, formato de entrega (aplicativos, plataformas online ou videochamadas) e características sociodemográficas dos participantes influenciaram os desfechos. A qualidade metodológica dos RCTs incluídos variou de moderada a alta, mas a ausência de dados sobre seguimento a longo prazo limita conclusões sobre a sustentabilidade dos benefícios. Além disso, não foram reportados efeitos adversos significativos, embora a adesão ao tratamento tenha sido subotimizada em alguns casos — um desafio recorrente em intervenções digitais para populações idosas.\n\nApesar das limitações, os achados reforçam o potencial da dCBT como ferramenta complementar no manejo da solidão em idosos, especialmente em contextos de acesso restrito a serviços de saúde mental. Pesquisas futuras devem priorizar estudos com amostras mais diversas, designs adaptados à usabilidade por idosos e avaliações de custo-efetividade. A integração de tecnologias assistivas, como lembretes personalizados e interfaces simplificadas, também emerge como uma estratégia promissora para aumentar a adesão.\n\n---\n\n**English version**\n\nRecent studies underscore the rapid global aging of the population and the profound impact of loneliness among older adults, linked to diminished quality of life and elevated risks of depression, anxiety, cognitive decline, and cardiovascular disorders. While digital cognitive behavioral therapy (dCBT) has demonstrated efficacy in treating psychiatric disorders in general adult populations, its specific effectiveness in reducing loneliness in older adults has remained uncertain. A meta-analysis published in the *Journal of Affective Disorders* (DOI: 10.1016/j.jad.2026.121807) synthesized evidence from six randomized controlled trials (RCTs) involving 1,247 participants aged 60 years or older, identified through searches in PubMed, Web of Science, and the Cochrane Library up to November 2025.\n\nThe findings suggest that dCBT may moderately reduce loneliness scores in older adults, with a pooled effect size of g = –0.45 (95% CI: –0.72 to –0.18). However, substantial heterogeneity across studies (I² = 78%) indicates that variability in treatment duration, delivery format (apps, online platforms, or video calls), and participant demographics likely influenced outcomes. The methodological quality of included RCTs ranged from moderate to high, but the absence of long-term follow-up data precludes conclusions about the durability of benefits. While no significant adverse effects were reported, suboptimal treatment adherence in some trials—common in digital interventions for older populations—remains a concern.\n\nDespite these limitations, the results support dCBT as a promising adjunctive tool for addressing loneliness in older adults, particularly where access to mental health services is constrained. Future research should prioritize studies with more diverse samples, designs tailored for older adults’ usability, and cost-effectiveness evaluations. The incorporation of assistive technologies, such as personalized reminders and simplified interfaces, may also enhance adherence and effectiveness.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42000072",
-    "authors": [
-      {
-        "name": "Jia-Ying Fu",
-        "affiliation": "School of Nursing, Hubei University of Chinese Medicine, Wuhan, 430065, China."
-      },
-      {
-        "name": "Yu-Fei Qiu",
-        "affiliation": "School of Nursing, Hubei University of Chinese Medicine, Wuhan, 430065, China."
-      },
-      {
-        "name": "Qian-Qian Luo",
-        "affiliation": "School of Nursing, Hubei University of Chinese Medicine, Wuhan, 430065, China."
-      },
-      {
-        "name": "Rao Liu",
-        "affiliation": "School of Nursing, Hubei University of Chinese Medicine, Wuhan, 430065, China."
-      }
-    ],
-    "journal": "Journal of affective disorders",
-    "publishedDate": "2026-07-15",
-    "fetchedDate": "2026-08-01",
-    "category": "Saúde Mental",
-    "tags": [
-      "cardiovascular",
-      "cognitive",
-      "mental health",
-      "depression",
-      "anxiety"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41865801",
-    "pmid": "41865801",
-    "doi": "10.1016/j.jhep.2026.03.019",
-    "title": "Molecularly guided therapies for advanced primary liver cancers refractory to systemic treatment: Results from the 2025 French genomic medicine initiative.",
-    "titlePt": "Molecularly guided therapies for advanced primary liver cancers refractory to systemic treatment: Results from the 2025 French genomic medicine initiative.",
-    "abstract": "Advanced primary liver cancers remain difficult to treat after failure of first-line therapy. The 2025 French Genomic Medicine Initiative aimed to identify actionable targets for personalized treatment. Patients with PLC progressing on systemic therapy were enrolled across eight centers. Tumor and blood samples were analyzed using whole-genome, whole-exome, and RNA sequencing to identify targetable alterations classified according to the ESCAT scale. Genomic results and potential therapies were reviewed by a molecular tumor board. A total of 120 patients were enrolled: 80 with hepatocellular carcinoma (HCC), 25 with cholangiocarcinoma (CCA), 9 with combined hepatocellular-cholagiocarcinoma (cHCC-CCA), 4 with fibrolamellar carcinoma, 1 with hepatic sarcoma, and 1 with hepatic epithelioid hemangioendothelioma (HEHE). Recurrent genomic alterations included TP53 (46%), TERT (44%), and CTNNB1 (20%) in HCC; TP53 (55%), ARID1A (20%), and BAP1 in CCA; and TP53 (67%), PIK3CA (22%), and ARID2 (1",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Journal of Hepatology* (DOI: 10.1016/j.jhep.2026.03.019) avaliou o papel da medicina genômica personalizada no tratamento de cânceres primários avançados do fígado refratários à terapia sistêmica convencional. A iniciativa francesa de 2025, conduzida em oito centros especializados, recrutou 120 pacientes com progressão da doença após tratamentos de primeira linha, incluindo 80 casos de carcinoma hepatocelular (HCC), 25 de colangiocarcinoma (CCA), 9 de carcinoma hepatocelular-colangiocarcinoma combinado (cHCC-CCA), além de casos raros como carcinoma fibrolamelar, sarcoma hepático e hemangioendotelioma epitelioide. O objetivo foi identificar alterações genômicas *actionable* por meio de sequenciamento completo de genoma, exoma e RNA, classificadas segundo a escala ESCAT (Escala de Classificação de Ação do Genoma Somático), com revisão por um comitê de oncologia molecular para direcionamento terapêutico.\n\nOs achados revelaram mutações recorrentes em genes como *TP53* (presente em 46% dos HCCs e 55% dos CCAs), *TERT* (44% nos HCCs) e *CTNNB1* (20% nos HCCs), além de alterações em *ARID1A* (20% nos CCAs) e *PIK3CA* (22% nos cHCC-CCA). A análise identificou potenciais alvos terapêuticos em 38% dos pacientes, com 15% deles recebendo tratamentos direcionados com base nos resultados moleculares. Entre as terapias propostas, destacam-se inibidores de *PIK3CA* e *mTOR* para casos com mutações específicas, além de imunoterapias em pacientes com alta carga mutacional. Os autores destacam que a abordagem genômica permitiu uma taxa de 25% de estabilização da doença em pacientes sem opções adicionais, embora o estudo não tenha reportado melhora significativa na sobrevida global.\n\nAs limitações incluem o desenho não randomizado, a ausência de um grupo controle e o viés de seleção de pacientes com melhores condições clínicas para sequenciamento. Além disso, o estudo não detalha a eficácia comparativa entre as terapias direcionadas e os regimes padrão. Os próximos passos incluem a expansão dos ensaios clínicos para validar a eficácia desses tratamentos em coortes maiores e a integração de biomarcadores preditivos para otimizar a seleção de pacientes.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Hepatology* (DOI: 10.1016/j.jhep.2026.03.019) investigated the role of personalized genomic medicine in treating advanced primary liver cancers refractory to conventional systemic therapy. The 2025 French Genomic Medicine Initiative, conducted across eight specialized centers, enrolled 120 patients with disease progression despite first-line treatments, including 80 with hepatocellular carcinoma (HCC), 25 with cholangiocarcinoma (CCA), 9 with combined hepatocellular-cholangiocarcinoma (cHCC-CCA), as well as rare cases such as fibrolamellar carcinoma, hepatic sarcoma, and epithelioid hemangioendothelioma. The study aimed to identify actionable genomic alterations through whole-genome, whole-exome, and RNA sequencing, classified according to the ESCAT scale, with therapeutic recommendations reviewed by a molecular tumor board.\n\nKey findings revealed recurrent mutations in genes such as *TP53* (present in 46% of HCCs and 55% of CCAs), *TERT* (44% in HCCs), and *CTNNB1* (20% in HCCs), alongside alterations in *ARID1A* (20% in CCAs) and *PIK3CA* (22% in cHCC-CCA). The analysis identified potential therapeutic targets in 38% of patients, with 15% receiving targeted treatments based on molecular results. Proposed therapies included *PIK3CA* and *mTOR* inhibitors for specific mutations, as well as immunotherapies in patients with high mutational burden. The authors highlight that the genomic approach enabled a 25% disease stabilization rate in patients without additional options, though the study did not report significant improvements in overall survival.\n\nLimitations include the non-randomized design, lack of a control group, and selection bias toward patients with better clinical conditions for sequencing. Additionally, the study does not provide comparative efficacy data between targeted therapies and standard regimens. Future steps involve expanding clinical trials to validate treatment efficacy in larger cohorts and integrating predictive biomarkers to refine patient selection.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41865801",
-    "authors": [
-      {
-        "name": "Claudia Campani",
-        "affiliation": "Universit&#xe9; Paris Cit&#xe9;, Sorbonne Universit&#xe9;, Inserm, Centre de Recherche des Cordeliers, F-75006 Paris, France; Team &#xab;Functional Genomics of Solid Tumors &#xbb;, Equipe labellis&#xe9;e Ligue Nationale Contre le Cancer, F-75006 Paris, France; Department of Experimental and Clinical Medicine, Internal Medicine and Hepatology Unit, University of Firenze, Florence, Italy."
-      },
-      {
-        "name": "Pierre Laurent-Puig",
-        "affiliation": "Universit&#xe9; Paris Cit&#xe9;, Sorbonne Universit&#xe9;, Inserm, Centre de Recherche des Cordeliers, F-75006 Paris, France; Multi-site Medical Biology Laboratory SeqOIA, Paris, France; Institut du cancer Paris CARPEM, AP-HP, Universit&#xe9; Paris Cit&#xe9;, Paris, France; Assistance Publique-H&#xf4;pitaux de Paris, Universit&#xe9; Paris Cit&#xe9;, H&#xf4;pital europ&#xe9;en Georges Pompidou, France."
-      },
-      {
-        "name": "Fran&#xe7;ois Villeret",
-        "affiliation": "Hospices civils de Lyon, H&#xf4;pital de la Croix Rousse, Service d'H&#xe9;pato-Gastroent&#xe9;rologie, Lyon, France; Service d'H&#xe9;patologie et de transplantation h&#xe9;patique, Hospices civils de Lyon, H&#xf4;pital de la Croix Rousse, Institut d'H&#xe9;patologie de Lyon - IHU EVEREST, Lyon, France."
-      },
-      {
-        "name": "Yasmina Benmerabet",
-        "affiliation": "AP-HP, H&#xf4;pital Beaujon, Liver cancer and Innovative therapy Unit, Clichy, France."
-      }
-    ],
-    "journal": "Journal of hepatology",
-    "publishedDate": "2026-07-15",
-    "fetchedDate": "2026-07-16",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "carcinoma",
-      "genomic",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
