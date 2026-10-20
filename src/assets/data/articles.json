@@ -1,5 +1,40 @@
 [
   {
+    "id": "pubmed-42898128",
+    "pmid": "42898128",
+    "doi": "10.1016/j.vas.2026.100892",
+    "title": "Dietary licorice improves carcass yield, hepatocellular protection, gut health, oxidative status, and cecal bacterial balance in broiler chickens.",
+    "titlePt": "Dietary licorice improves carcass yield, hepatocellular protection, gut health, oxidative status, and cecal bacterial balance in broiler chickens.",
+    "abstract": "Over the past decade, phytotherapy such as licorice has attracted research as an alternative to antibiotic growth promoters in broiler production, driven by rising concerns over antimicrobial resistance. However, the consistency of its effects across productive, physiological, and health outcomes remains inconsistent. This meta-analysis quantitatively synthesized published experimental evidence on the effects of dietary licorice on growth performance, carcass yield, blood indices, visceral organs, oxidative status, intestinal morphology, and cecal bacterial balance in broiler chickens. A systematic literature search identified studies published between 2010 and 2025, and effect sizes were computed (Hedges' g; 95% confidence interval). Pooled estimates were derived under the random-effects model using the restricted maximum likelihood estimator, with between-study heterogeneity characterized by I&#xb2; and the Q-statistic. Univariable mixed-effects meta-regression was conducted to ident",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42898128",
+    "authors": [
+      {
+        "name": "Chidozie F Egbu",
+        "affiliation": "Department of Agriculture and Animal Health, College of Agriculture and Environmental Sciences, University of South Africa, Florida Park, Roodepoort, 1709, South Africa."
+      },
+      {
+        "name": "Christiaan J Smit",
+        "affiliation": "Department of Agricultural Science, Faculty of Vocational and Technology Education, Alvan Ikoku Federal University of Education, Owerri, P.M.B. 1033, Nigeria."
+      }
+    ],
+    "journal": "Veterinary and animal science",
+    "publishedDate": "2026-10-20",
+    "fetchedDate": "2026-10-20",
+    "category": "Infectologia",
+    "tags": [
+      "bacterial",
+      "antimicrobial",
+      "gene",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"No endpoints found for deepseek/deepseek-r1:free.\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5yD1vX-2kFHot-a4d7239bde5c6a44\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 4bd196ea-3847-49ae-a3e1-30718d8f79d4)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42833234",
     "pmid": "42833234",
     "doi": "10.1016/S2665-9913(26)00249-3",
@@ -12405,49 +12440,5 @@
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42053343",
-    "pmid": "42053343",
-    "doi": "10.1080/21645515.2026.2664323",
-    "title": "Safety of COVID-19 and influenza vaccines in children and adolescents with immunocompromised or autoimmune conditions: Findings from the Canadian National Vaccine Safety (CANVAS) network.",
-    "titlePt": "Safety of COVID-19 and influenza vaccines in children and adolescents with immunocompromised or autoimmune conditions: Findings from the Canadian National Vaccine Safety (CANVAS) network.",
-    "abstract": "Safety data on COVID-19 and influenza vaccination in immunocompromised and/or autoimmune pediatric populations remains limited. This study evaluated post-vaccination health events in this vulnerable population using active surveillance data from the Canadian National Vaccine Safety (CANVAS) Network. A prospective cohort of participants aged 6&#x2009;months to 19&#x2009;y, who self-identified with an autoimmune and/or immunocompromised condition, were followed across several Canadian provinces (2023-2025). Participants were vaccinated with COVID-19 only, seasonal influenza vaccine only, or had both vaccines co-administered and reported new or worsening health events within 7 d post-vaccination; unvaccinated participants reported new or worsening events in the prior week. Health events were defined as events resulting in school/daycare absenteeism, prevention of daily activities, or requiring medical consultation. Symptoms were collected in a structured survey. Associations between vacci",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42053343",
-    "authors": [
-      {
-        "name": "Cailey Turner",
-        "affiliation": "Department of Pediatrics, University of Calgary, Calgary, Alberta, Canada."
-      },
-      {
-        "name": "Otto G Vanderkooi",
-        "affiliation": "Department of Pediatrics, University of Calgary, Calgary, Alberta, Canada."
-      },
-      {
-        "name": "James D Kellner",
-        "affiliation": "Department of Pediatrics, University of Calgary, Calgary, Alberta, Canada."
-      },
-      {
-        "name": "Hennady P Shulha",
-        "affiliation": "Vaccine Evaluation Center, BC Children's Hospital Research Institute, Vancouver, British Columbia, Canada."
-      }
-    ],
-    "journal": "Human vaccines &amp; immunotherapeutics",
-    "publishedDate": "2026-07-15",
-    "fetchedDate": "2026-09-20",
-    "category": "Imunologia",
-    "tags": [
-      "covid",
-      "pediatric",
-      "children",
-      "immune",
-      "autoimmune"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p22PTU3-2kFHot-a3e030d8aa70adb7\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
