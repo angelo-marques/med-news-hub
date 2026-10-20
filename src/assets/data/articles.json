@@ -35,6 +35,47 @@
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"No endpoints found for deepseek/deepseek-r1:free.\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5yD1vX-2kFHot-a4d7239bde5c6a44\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 4bd196ea-3847-49ae-a3e1-30718d8f79d4)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   },
   {
+    "id": "pubmed-42753279",
+    "pmid": "42753279",
+    "doi": "10.1016/j.ijporl.2026.113018",
+    "title": "Continuous oximetry monitoring in children admitted after adenotonsillectomy, an observational study.",
+    "titlePt": "Continuous oximetry monitoring in children admitted after adenotonsillectomy, an observational study.",
+    "abstract": "Children undergoing adenotonsillectomy (AT) are frequently admitted overnight because of concerns regarding postoperative respiratory events. The current admission guidelines are largely based on retrospective data. Continuous overnight oximetry may better define the incidence and severity of clinically meaningful postoperative desaturation. We sought to determine the incidence of significant overnight oxygen desaturation (SpO2 &lt;85% for &gt;30&#x202f;s) or supplemental oxygen requirement in non-syndromic children admitted for AT. This prospective observational study was conducted at the Texas Children's Hospital, a tertiary freestanding pediatric hospital. Consecutive patients admitted following AT between July 26, 2024, and May 27, 2025, were assessed for eligibility. Patients with fewer than 4&#x202f;h of overnight oximetry data were excluded. The final analysis included 147 non-syndromic children, including those younger than 3 years, those with severe obstructive sleep apnea con",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753279",
+    "authors": [
+      {
+        "name": "Adam C Adler",
+        "affiliation": "Department of Anesthesiology, Perioperative and Pain Medicine, Texas Children's Hospital, Houston, TX, USA; Baylor College of Medicine, Houston, TX, USA. Electronic address: adam.adler@bcm.edu."
+      },
+      {
+        "name": "Robert C Vernick",
+        "affiliation": "Department of Anesthesiology, Critical Care, and Pain Medicine, UTHealth-Houston, Texas, USA."
+      },
+      {
+        "name": "Hye Min Kim",
+        "affiliation": "Texas A&amp;M School of Medicine, College Station, TX, USA."
+      },
+      {
+        "name": "Arvind Chandrakantan",
+        "affiliation": "Department of Anesthesiology, Perioperative and Pain Medicine, Texas Children's Hospital, Houston, TX, USA; Baylor College of Medicine, Houston, TX, USA."
+      }
+    ],
+    "journal": "International journal of pediatric otorhinolaryngology",
+    "publishedDate": "2026-10-19",
+    "fetchedDate": "2026-10-20",
+    "category": "Pediatria",
+    "tags": [
+      "pediatric",
+      "children"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"No endpoints found for deepseek/deepseek-r1:free.\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p5yYsPo-2kFHot-a4d7822d7fa1a1bb\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: ce8f1e85-938d-4219-987a-705735d538fd)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42833234",
     "pmid": "42833234",
     "doi": "10.1016/S2665-9913(26)00249-3",
@@ -12394,47 +12435,6 @@
       "cardiovascular",
       "heart",
       "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41436719",
-    "pmid": "41436719",
-    "doi": "10.1007/s11255-025-04959-4",
-    "title": "Acute kidney injury prediction and prognostication using machine learning.",
-    "titlePt": "Acute kidney injury prediction and prognostication using machine learning.",
-    "abstract": "Acute Kidney Injury (AKI) is a major health concern with high costs and poor outcomes, partly due to late diagnosis. This paper reviews the application of artificial intelligence (AI) and machine learning (ML) to overcome these limitations by enabling earlier and more accurate prediction and prognostication of AKI. Many studies on AI and ML models used to predict and prognosticate AKI were included in the review. The focus was on models that analyze complex datasets, including real-time data streams like novel biomarkers and continuous vital signs, to achieve earlier and more accurate predictions than conventional methods. ML models show high predictive accuracy for AKI onset and outcomes across various clinical settings, including intensive care units, sepsis, and postoperative and postcontrast situations, with key findings like the successful integration of real-time data to reflect the evolving nature of kidney injury. AI and ML offer a powerful, proactive solution for AKI managemen",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nA lesão renal aguda (LRA) representa um desafio clínico significativo, associado a altos custos hospitalares, morbidade e mortalidade elevadas, muitas vezes decorrentes de diagnósticos tardios. Um estudo recentemente publicado no *PubMed* (DOI: 10.1007/s11255-025-04959-4) investiga o potencial da inteligência artificial (IA) e do aprendizado de máquina (AM) para transformar a abordagem a essa condição. A revisão sistemática avalia modelos que integram dados complexos — incluindo biomarcadores emergentes e sinais vitais contínuos — para antecipar a ocorrência e evolução da LRA com maior precisão do que os métodos convencionais.\n\nOs achados indicam que algoritmos de AM demonstram alta acurácia na predição do início da LRA e em sua prognosticação, abrangendo cenários como unidades de terapia intensiva, sepse, pós-operatório e exposição a meios de contraste. A capacidade de processar fluxos de dados em tempo real destaca-se como um diferencial, permitindo ajustes dinâmicos às mudanças fisiológicas do paciente. Embora os resultados sejam promissores, a revisão não detalha métricas espec��ficas de desempenho (como AUC ou sensibilidade) nem comparações diretas com escores clínicos tradicionais. Além disso, a aplicabilidade em ambientes com recursos limitados permanece uma questão em aberto.\n\nOs autores sugerem que a IA pode viabilizar uma abordagem proativa, reduzindo atrasos no diagnóstico e otimizando intervenções precoces. No entanto, a validação prospectiva em coortes diversificadas e a integração com fluxos de trabalho clínicos — além de considerações éticas e regulatórias — são etapas críticas antes da adoção generalizada. O estudo reforça a necessidade de pesquisas futuras para padronizar protocolos e avaliar o impacto em desfechos reais, como a redução de mortalidade ou a necessidade de terapia de substituição renal.\n\n---\n\n**English version**\n\nAcute kidney injury (AKI) remains a major clinical challenge, linked to high healthcare costs, substantial morbidity, and mortality—often due to delayed diagnosis. A recent study published in *PubMed* (DOI: 10.1007/s11255-025-04959-4) explores how artificial intelligence (AI) and machine learning (ML) could revolutionize AKI management. The systematic review examines models that analyze complex datasets—including novel biomarkers and continuous vital signs—to predict and prognosticate AKI earlier and more accurately than conventional methods.\n\nThe findings highlight that ML algorithms achieve high predictive accuracy for both AKI onset and outcomes across diverse clinical settings, such as intensive care units, sepsis, postoperative care, and post-contrast exposure. A key strength lies in their ability to process real-time data streams, enabling dynamic adaptation to the evolving nature of kidney injury. However, the review does not specify performance metrics (e.g., AUC or sensitivity) or direct comparisons with traditional clinical scores. Additionally, the feasibility of implementation in resource-limited environments remains uncertain.\n\nThe authors propose that AI-driven tools could enable proactive AKI management by reducing diagnostic delays and optimizing early interventions. Yet, prospective validation in diverse cohorts, seamless integration into clinical workflows, and consideration of ethical and regulatory aspects are essential before widespread adoption. The study underscores the need for future research to standardize protocols and assess real-world impact, such as reductions in mortality or dialysis dependency.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41436719",
-    "authors": [
-      {
-        "name": "Senatore Annalisa",
-        "affiliation": "Department of Translational Medicine and Surgery, Universit&#xe0; Cattolica del Sacro Cuore, 00168, Rome, Italy."
-      },
-      {
-        "name": "Fiorentino Marco",
-        "affiliation": "Nephrology, Dialysis and Transplantation Unit, Fondazione Policlinico Universitario A. Gemelli IRCCS, 00168, Rome, Italy."
-      },
-      {
-        "name": "Bonerba Bibiana",
-        "affiliation": "Nephrology, Dialysis and Transplantation Unit, Department of Precision and Regenerative Medicine and Ionian Area (DiMePRe-J), University of Bari, Bari, Italy."
-      },
-      {
-        "name": "Baldassini Moraes Bruno",
-        "affiliation": "Department of Translational Medicine and Surgery, Universit&#xe0; Cattolica del Sacro Cuore, 00168, Rome, Italy."
-      }
-    ],
-    "journal": "International urology and nephrology",
-    "publishedDate": "2026-07-16",
-    "fetchedDate": "2026-07-16",
-    "category": "Infectologia",
-    "tags": [
-      "sepsis"
     ],
     "isHighlight": false,
     "readTime": 9,
