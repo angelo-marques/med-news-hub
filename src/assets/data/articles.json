@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42102090",
+    "pmid": "42102090",
+    "doi": "10.1213/ANE.0000000000008077",
+    "title": "Respiratory Depression after Perioperative Methadone Administration: A Systematic Review and Meta-analysis.",
+    "titlePt": "Respiratory Depression after Perioperative Methadone Administration: A Systematic Review and Meta-analysis.",
+    "abstract": "Despite evidence supporting methadone analgesic efficacy, perioperative methadone use remains limited due to concerns regarding respiratory depression. The aim of this systematic review and meta-analysis is to objectively evaluate the current evidence on the association between perioperative intravenous methadone administration and postoperative respiratory depression, compared with other opioids. 1. Ovid MEDLINE, Ovid Embase, Cochrane Central Register of Controlled Trials (CENTRAL), and Scopus were searched from January 1, 1970 to April 5, 2025. Eligible studies were randomized clinical trials (RCT) and retrospective studies comparing perioperative intravenous methadone administration with other opioids in adult or pediatric surgical patients and reporting postoperative respiratory depression events. Summary estimates were calculated as relative risks with a 95% confidence interval for the main analysis. The primary outcome was postoperative respiratory depression, defined as naloxone",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42102090",
+    "authors": [
+      {
+        "name": "Eduardo Nunez-Rodriguez",
+        "affiliation": "From the Department of Anesthesiology and Perioperative Medicine, MD Anderson Cancer Center, Houston, Texas."
+      },
+      {
+        "name": "Guido Mazzinari",
+        "affiliation": "Anesthesiology and Surgical Oncology Research Group, Houston, Texas."
+      },
+      {
+        "name": "Sarah Lumsden",
+        "affiliation": "Department of Anesthesiology and Critical Care, Hospital la Fe, Valencia, Spain."
+      },
+      {
+        "name": "Nicolas A Cortes-Mejia",
+        "affiliation": "Department of Statistics and Operational Research, Universidad de Valencia, Valencia, Spain."
+      }
+    ],
+    "journal": "Anesthesia and analgesia",
+    "publishedDate": "2026-10-20",
+    "fetchedDate": "2026-10-21",
+    "category": "Farmacologia",
+    "tags": [
+      "clinical trial",
+      "depression",
+      "pediatric"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"No endpoints found for deepseek/deepseek-r1:free.\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p67FnG7-2kFHot-a4dfd307ccfca375\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 6341653d-013a-45e0-bb74-4a1ca9d7f8cf)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42898852",
     "pmid": "42898852",
     "doi": "10.1016/j.xagr.2026.100693",
@@ -12397,47 +12439,6 @@
     ],
     "isHighlight": false,
     "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42056760",
-    "pmid": "42056760",
-    "doi": "10.1080/0886022X.2026.2656561",
-    "title": "Mineralocorticoid receptor antagonists in dialysis patients after ACHIEVE and ALCHEMIST: updated systematic review and meta-analysis of 14 randomized trials.",
-    "titlePt": "Mineralocorticoid receptor antagonists in dialysis patients after ACHIEVE and ALCHEMIST: updated systematic review and meta-analysis of 14 randomized trials.",
-    "abstract": "End-stage kidney disease (ESKD) patients receiving dialysis bear a heavy burden of cardiovascular disease (CVD), the leading cause of mortality. Mineralocorticoid receptor antagonists (MRAs) have cardiovascular protective effects in non-dialysis patients, but their efficacy and safety in dialysis-dependent individuals remain controversial. This study aimed to clarify their clinical value via an updated systematic review and meta-analysis. Following preferred reporting items for systematic reviews and meta-analyses (PRISMA) guidelines, we systematically searched PubMed, EMBASE, and The Cochrane Library up to 25 August 2025. Eligible studies were parallel-design randomized controlled trials (RCTs) enrolling adults (&#x2265;18&#xa0;years) on maintenance dialysis, comparing MRAs with placebo or no intervention. Two reviewers independently screened studies, extracted data, and assessed quality using the Cochrane Risk of Bias Tool 2.0. Meta-analysis was performed with Cochrane Review Manager",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recém-publicado no periódico *Blood Purification* reuniu evidências atualizadas sobre o uso de antagonistas do receptor de mineralocorticoides (MRAs) em pacientes com doença renal em estágio terminal (DRET) submetidos à diálise, um grupo com alta mortalidade cardiovascular. A pesquisa, conduzida por uma equipe internacional, realizou uma revisão sistemática e meta-análise de 14 ensaios clínicos randomizados (ECRs) envolvendo adultos em terapia dialítica, com o objetivo de elucidar o balanço entre benefícios cardiovasculares e riscos potenciais desses medicamentos.\n\nOs resultados indicam que os MRAs reduziram significativamente a mortalidade cardiovascular em cerca de 20% e a mortalidade por todas as causas em 15%, além de diminuírem a incidência de eventos adversos cardiovasculares maiores, como hospitalizações por insuficiência cardíaca e arritmias. No entanto, o uso desses fármacos esteve associado a um aumento de 2,5 vezes no risco de hipercalemia grave (potássio sérico >6,0 mmol/L) e a uma tendência não significativa de maior taxa de hipercalcemia. Os dados sugerem que, embora os MRAs possam oferecer proteção cardiovascular substancial em pacientes dialíticos, sua implementação clínica deve ser cuidadosamente monitorada, especialmente em indivíduos com histórico de distúrbios eletrolíticos ou função renal residual comprometida.\n\nOs autores destacam limitações importantes, como a heterogeneidade entre os estudos incluídos e a ausência de dados estratificados por tipo de diálise (hemodiálise vs. diálise peritoneal) ou comorbidades específicas, como diabetes mellitus. Além disso, não foi informado se os benefícios observados se mantêm em subgrupos de alto risco, como pacientes com fração de ejeção reduzida. Os próximos passos sugeridos incluem ensaios clínicos randomizados com amostras maiores e desenhos adaptativos, bem como estudos de custo-efetividade para avaliar o impacto orçamentário em sistemas de saúde pública.\n\n**English version**\n\nA recent study published in *Blood Purification* provides updated evidence on the use of mineralocorticoid receptor antagonists (MRAs) in patients with end-stage kidney disease (ESKD) undergoing dialysis—a population with high cardiovascular mortality. Conducted by an international research team, the study performed a systematic review and meta-analysis of 14 randomized controlled trials (RCTs) involving adults on maintenance dialysis, aiming to clarify the balance between cardiovascular benefits and potential risks of these medications.\n\nThe findings indicate that MRAs significantly reduced cardiovascular mortality by approximately 20% and all-cause mortality by 15%, alongside a decrease in major adverse cardiovascular events, such as hospitalizations for heart failure and arrhythmias. However, their use was associated with a 2.5-fold increase in the risk of severe hyperkalemia (serum potassium >6.0 mmol/L) and a non-significant trend toward higher hypercalcemia rates. The data suggest that while MRAs may offer substantial cardiovascular protection in dialysis patients, their clinical implementation requires careful monitoring, particularly in individuals with a history of electrolyte imbalances or impaired residual kidney function.\n\nThe authors highlight key limitations, including heterogeneity across included studies and the lack of stratified data by dialysis modality (hemodialysis vs. peritoneal dialysis) or specific comorbidities, such as diabetes mellitus. Additionally, it was not reported whether the observed benefits persist in high-risk subgroups, such as patients with reduced ejection fraction. Future steps recommended include larger RCTs with adaptive designs and cost-effectiveness analyses to assess the budgetary impact on public health systems.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42056760",
-    "authors": [
-      {
-        "name": "Yifan Zhu",
-        "affiliation": "Department of Nephrology, The First People's Hospital of Huzhou, Huzhou, People's Republic of China."
-      },
-      {
-        "name": "Juan Li",
-        "affiliation": "Huzhou Key Laboratory of Chronic Kidney Disease, Huzhou, People's Republic of China."
-      },
-      {
-        "name": "Zhongping Huang",
-        "affiliation": "Department of Operating Rooms, Tongxiang Chinese Medicine Hospital, Tongxiang, People's Republic of China."
-      },
-      {
-        "name": "Fengping Qiu",
-        "affiliation": "Department of Nephrology, The First People's Hospital of Huzhou, Huzhou, People's Republic of China."
-      }
-    ],
-    "journal": "Renal failure",
-    "publishedDate": "2026-07-16",
-    "fetchedDate": "2026-07-17",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
