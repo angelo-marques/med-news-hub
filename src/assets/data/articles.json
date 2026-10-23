@@ -12357,6 +12357,40 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42057665",
+    "pmid": "42057665",
+    "doi": "10.1080/07853890.2026.2662627",
+    "title": "Effect of intensive versus standard blood pressure control on cardiovascular outcomes: a meta-analysis of randomized controlled trials.",
+    "titlePt": "Effect of intensive versus standard blood pressure control on cardiovascular outcomes: a meta-analysis of randomized controlled trials.",
+    "abstract": "This meta-analysis systematically evaluated the impact of intensive (typically targeting systolic BP [SBP] &lt;120 or &lt;130 mmHg) versus standard (typically targeting SBP &lt;140 mmHg) blood pressure control on cardiovascular outcomes in patients with hypertension. Relevant randomized controlled trials (RCTs) published up to May 2025 were identified through systematic searches of PubMed, Embase, Web of Science, and the Cochrane Library. A random-effects model was used to calculate pooled relative risks (RRs) with 95% confidence intervals (CIs). Thirty-one RCTs involving a total of 156,933 participants (mean age range of trial populations: 36.6 to 83.6 years; proportion of male participants: 34.5% to 69.4%; follow-up duration: 1.8 to 19.3 years) were included in the final meta-analysis. Compared to standard blood pressure control, intensive control significantly reduced the risk of major cardiovascular events (RR: 0.80; 95% CI: 0.75-0.84; p &lt; 0.001), myocardial infarction (RR: 0.83",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42057665",
+    "authors": [
+      {
+        "name": "Qiu Gao",
+        "affiliation": "Department of Cardiology, Yixing People's Hospital, Yixing, Jiangsu Province, China."
+      },
+      {
+        "name": "Yanni Ji",
+        "affiliation": "Department of Cardiology, Yixing People's Hospital, Yixing, Jiangsu Province, China."
+      }
+    ],
+    "journal": "Annals of medicine",
+    "publishedDate": "2026-07-16",
+    "fetchedDate": "2026-10-23",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "myocardial",
+      "hypertension"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6QhHtx-2kFHot-a4f2a556996cb1eb\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: a812b08d-77ae-41a7-b9e6-80113a1a8477)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42081954",
     "pmid": "42081954",
     "doi": "10.1016/j.jep.2026.121780",
@@ -12399,50 +12433,5 @@
     "readTime": 10,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"oyWLjF4-2kFHot-a34292bb5c62e5f1\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 503: upstream connect error or disconnect/reset before headers. reset reason: connection timeout | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42142262",
-    "pmid": "42142262",
-    "doi": "10.1007/s11033-026-11968-8",
-    "title": "Circulating lncRNA as Biomarkers and Therapeutics in Oral Cancer: Silent Scripts with Loud Impact.",
-    "titlePt": "Circulating lncRNA as Biomarkers and Therapeutics in Oral Cancer: Silent Scripts with Loud Impact.",
-    "abstract": "Oral squamous cell carcinoma (OSCC) remains a major global health challenge due to late diagnosis, high recurrence, and limited therapeutic success. This review focuses on circulating long non-coding RNAs (lncRNAs) as emerging biomarkers and therapeutic targets that can transform the clinical management of OSCC. Unlike earlier studies restricted to tissue-based analyses, this work emphasizes circulating lncRNAs detectable in saliva, plasma, and serum, highlighting their non-invasive diagnostic potential and mechanistic relevance in tumor progression, metastasis, and therapy resistance. Relevant studies published up to 2025 were systematically reviewed from PubMed and Google Scholar to synthesize current knowledge on their biogenesis, secretion through extracellular vesicles and RNA-binding proteins, detection technologies, and clinical applicability. Several circulating lncRNAs, including HOTAIR, MALAT1, MEG3, ANRIL, and LINC00657, show strong associations with tumor stage, prognosis, ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nO carcinoma de células escamosas oral (OSCC) persiste como um desafio global devido ao diagnóstico tardio, altas taxas de recidiva e limitações nos resultados terapêuticos. Uma revisão publicada recentemente na *Medical Oncology* explora o potencial dos RNAs não codificantes longos (lncRNAs) circulantes como biomarcadores e alvos terapêuticos, com foco em sua detecção não invasiva em saliva, plasma e soro. Diferentemente de estudos anteriores, centrados em análises de tecido tumoral, este trabalho sintetiza evidências até 2025 sobre a biogênese, secreção por vesículas extracelulares e proteínas de ligação a RNA, além das tecnologias de detecção e aplicabilidade clínica desses biomarcadores.\n\nEntre os lncRNAs circulantes avaliados, destacam-se HOTAIR, MALAT1, MEG3, ANRIL e LINC00657, cujas associações com estágio tumoral, prognóstico, progressão metastática e resistência a terapias foram consistentemente relatadas. A revisão ainda aborda mecanismos moleculares, como a modulação de vias oncogênicas e a regulação da plasticidade tumoral, sugerindo que esses RNAs possam atuar não apenas como marcadores diagnósticos, mas também como alvos para intervenções terapêuticas direcionadas. A detecção em fluidos biológicos, especialmente saliva, oferece vantagens significativas em termos de acessibilidade e monitoramento dinâmico da doença.\n\nApesar do avanço promissor, os autores ressaltam limitações importantes, como a falta de padronização nos métodos de quantificação e a necessidade de validação prospectiva em coortes maiores e diversificadas. Além disso, embora alguns lncRNAs apresentem potencial translacional, ainda não há ensaios clínicos robustos que confirmem sua eficácia como biomarcadores prognósticos ou alvos terapêuticos específicos para OSCC. Os próximos passos incluem estudos multicêntricos para validar painéis de lncRNAs em diferentes populações e o desenvolvimento de plataformas de diagnóstico point-of-care baseadas em tecnologias de sequenciamento de terceira geração ou biossensores.\n\n---\n\n**English version**\n\nOral squamous cell carcinoma (OSCC) remains a global health challenge due to late-stage diagnosis, high recurrence rates, and limited therapeutic success. A recent review in *Medical Oncology* examines the potential of circulating long non-coding RNAs (lncRNAs) as biomarkers and therapeutic targets, emphasizing their non-invasive detection in saliva, plasma, and serum. Unlike earlier studies focused on tissue-based analyses, this work synthesizes evidence up to 2025 on the biogenesis, secretion via extracellular vesicles and RNA-binding proteins, detection technologies, and clinical applicability of these biomarkers.\n\nAmong the circulating lncRNAs evaluated—including HOTAIR, MALAT1, MEG3, ANRIL, and LINC00657—consistent associations with tumor stage, prognosis, metastatic progression, and therapy resistance were reported. The review also explores molecular mechanisms, such as modulation of oncogenic pathways and regulation of tumor plasticity, suggesting that these RNAs could serve not only as diagnostic markers but also as targets for precision interventions. The detection in biological fluids, particularly saliva, offers significant advantages in terms of accessibility and dynamic disease monitoring.\n\nDespite these promising advances, the authors highlight key limitations, including the lack of standardized quantification methods and the need for prospective validation in larger, diverse cohorts. Additionally, while several lncRNAs show translational potential, robust clinical trials confirming their efficacy as prognostic biomarkers or therapeutic targets for OSCC are still lacking. Future steps include multicenter studies to validate lncRNA panels across populations and the development of point-of-care diagnostic platforms based on third-generation sequencing or biosensor technologies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42142262",
-    "authors": [
-      {
-        "name": "Riddhiman Bhattacharyya",
-        "affiliation": "Cancer and Translational Research Centre, Dr. D.Y. Patil Biotechnology and Bioinformatics Institute, Dr. D. Y. Patil Vidyapeeth (DPU), Tathawade, Pune, 411033, India."
-      },
-      {
-        "name": "Chandra Biswas",
-        "affiliation": "Cancer and Translational Research Centre, Dr. D.Y. Patil Biotechnology and Bioinformatics Institute, Dr. D. Y. Patil Vidyapeeth (DPU), Tathawade, Pune, 411033, India."
-      },
-      {
-        "name": "Md Sadi Khan",
-        "affiliation": "Department of Oncogene Regulation, Chittaranjan National Cancer Institution, Kolkata, 700026, India."
-      },
-      {
-        "name": "Sankhadeep Dutta",
-        "affiliation": "Department of Oncogene Regulation, Chittaranjan National Cancer Institution, Kolkata, 700026, India. sankhadeepdutta@cnci.ac.in."
-      }
-    ],
-    "journal": "Molecular biology reports",
-    "publishedDate": "2026-07-16",
-    "fetchedDate": "2026-08-12",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "carcinoma",
-      "gene",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
