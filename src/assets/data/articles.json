@@ -1,5 +1,173 @@
 [
   {
+    "id": "pubmed-42906070",
+    "pmid": "42906070",
+    "doi": "10.1212/WNL.0000000000218736",
+    "title": "Early Rhythm Control vs Usual Care After Acute Ischemic Stroke in Patients With Atrial Fibrillation.",
+    "titlePt": "Early Rhythm Control vs Usual Care After Acute Ischemic Stroke in Patients With Atrial Fibrillation.",
+    "abstract": "Early rhythm control reduces cardiovascular events in patients with atrial fibrillation (AF); however, its effectiveness in the setting of acute ischemic stroke remains uncertain. We aimed to examine whether early rhythm control after acute ischemic stroke is associated with a lower risk of recurrent stroke or systemic embolism (SE) in patients with AF. This nationwide cohort study used the DeSC-IQVIA integrated database, an administrative claims database covering approximately 16 million individuals in Japan. Adults hospitalized for acute ischemic stroke with AF present at admission between 2014 and 2025 were included. The exposure was initiation of rhythm control (antiarrhythmic drugs, catheter ablation, or electrical cardioversion) within 8 weeks of admission (early rhythm control) vs no initiation (usual care), assessed at a landmark. The primary outcome was hospitalization for recurrent ischemic stroke or SE. Secondary outcomes included major bleeding, heart failure (HF) hospitali",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42906070",
+    "authors": [
+      {
+        "name": "Shuhei Egashira",
+        "affiliation": "Department of Healthcare Economics and Quality Management, Graduate School of Medicine, Kyoto University, Japan."
+      },
+      {
+        "name": "Kosuke Inoue",
+        "affiliation": "Department of Health Promotion and Behavioral Sciences, Graduate School of Medicine, Kyoto University, Japan."
+      },
+      {
+        "name": "Masatoshi Koga",
+        "affiliation": "Department of Cerebrovascular Medicine, National Cerebral and Cardiovascular Center, Suita, Japan."
+      },
+      {
+        "name": "Kazunori Toyoda",
+        "affiliation": "Department of Cerebrovascular Medicine, National Cerebral and Cardiovascular Center, Suita, Japan."
+      }
+    ],
+    "journal": "Neurology",
+    "publishedDate": "2026-10-22",
+    "fetchedDate": "2026-10-23",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "heart",
+      "atrial",
+      "stroke",
+      "drug"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6LE7rj-2kFHot-a4edd2c4cae99200\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 19725d85-b5e1-4fbe-b69d-df0ea412dd42)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42903654",
+    "pmid": "42903654",
+    "doi": "10.1016/j.eclinm.2026.104251",
+    "title": "Weight loss and blood pressure lowering with GLP-1 receptor agonists and multi-hormone receptor modulators in overweight and obesity: a systematic review and meta-regression of phase 3 clinical trials.",
+    "titlePt": "Weight loss and blood pressure lowering with GLP-1 receptor agonists and multi-hormone receptor modulators in overweight and obesity: a systematic review and meta-regression of phase 3 clinical trials.",
+    "abstract": "Obesity and hypertension frequently coexist, and weight-reduction is recommended as a core strategy for blood pressure (BP) management in adults with overweight or obesity. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) and emerging multi-hormone receptor modulators (MHRMs) induce substantial weight loss alongside modest BP reductions. However, the extent to which weight-loss is associated with BP lowering across these therapies remains unclear. We conducted a systematic review and meta-analysis of phase 3 randomized controlled trials evaluating GLP-1RAs and MHRMs in adults with overweight or obesity (PROSPERO: CRD420251146441). We searched Ovid MEDLINE, Ovid Embase, the Cochrane Database of Systematic Reviews, and the Cochrane Central Register of Controlled Trials from 1946 to December 2025. Risk of bias was assessed using the revised Cochrane Risk of Bias tool. Placebo-adjusted changes in body weight and BP at each trial's primary endpoint were pooled using random-effects meta-",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42903654",
+    "authors": [
+      {
+        "name": "Massimo Nardone",
+        "affiliation": "Division of Nephrology, Department of Medicine, University Health Network, 585 University Avenue, Toronto, Ontario M5G 2N2, Canada."
+      },
+      {
+        "name": "Luxcia Kugathasan",
+        "affiliation": "Division of Nephrology, Department of Medicine, Sunnybrook Health Sciences Centre, 2075 Bayview Avenue, Toronto, Ontario M4N 3M5, Canada."
+      },
+      {
+        "name": "Lauren Daunt",
+        "affiliation": "Novo Nordisk Canada Inc, Mississauga, Ontario L5N 6M1, Canada."
+      },
+      {
+        "name": "Ethan J Parikh",
+        "affiliation": "Division of Nephrology, Department of Medicine, University Health Network, 585 University Avenue, Toronto, Ontario M5G 2N2, Canada."
+      }
+    ],
+    "journal": "EClinicalMedicine",
+    "publishedDate": "2026-10-22",
+    "fetchedDate": "2026-10-23",
+    "category": "Endocrinologia",
+    "tags": [
+      "hypertension",
+      "clinical trial",
+      "hormone",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6LESvK-2kFHot-a4edd4559cbbe18a\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 029e419d-064b-406b-8d1a-f0dcc32d79dc)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42385762",
+    "pmid": "42385762",
+    "doi": "10.1016/S1473-3099(26)00295-1",
+    "title": "Global, regional, and national burden of tuberculosis and multidrug-resistant tuberculosis by HIV status, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+    "titlePt": "Global, regional, and national burden of tuberculosis and multidrug-resistant tuberculosis by HIV status, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+    "abstract": "Tuberculosis (TB) is the leading global cause of death from a single infectious agent. Recent reductions in global health funding have threatened TB control, making comprehensive assessment of TB, HIV-related TB, and drug-resistant TB burdens before these disruptions essential for shaping effective responses. The WHO End TB Strategy sets targets of a 95% reduction in TB deaths and a 90% reduction in TB incidence between 2015 and 2035. Using results from the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2023, this study aims to assess the burden of TB and multidrug-resistant TB (MDR-TB) across 204 countries and territories, and to evaluate progress towards the WHO End TB incidence and mortality targets. We quantified TB mortality using the Cause of Death Ensemble modelling platform with global vital registration, surveillance, verbal autopsy, and minimally invasive tissue sampling data. For TB morbidity estimation, we simultaneously modelled incidence, prevalence, an",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42385762",
+    "authors": [
+      {
+        "name": "Jorge R Ledesma",
+        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA."
+      },
+      {
+        "name": "Meixin Zhang",
+        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA."
+      },
+      {
+        "name": "Mei Fong Liew",
+        "affiliation": "Division or Respiratory &amp; Critical Care Medicine, Alexandra Hospital, Singapore, Singapore; Department of Medicine, Singapore, Singapore."
+      },
+      {
+        "name": "Regina-Mae Villanueva Dominguez",
+        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA."
+      }
+    ],
+    "journal": "The Lancet. Infectious diseases",
+    "publishedDate": "2026-10-22",
+    "fetchedDate": "2026-10-23",
+    "category": "Infectologia",
+    "tags": [
+      "hiv",
+      "drug"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6LEfXM-2kFHot-a4edd55fca539200\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 6622df68-a826-4fed-9507-ffc9c61e811a)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-41313348",
+    "pmid": "41313348",
+    "doi": "10.1007/s00246-025-04121-y",
+    "title": "Physician Preparedness for Managing Juvenile Obesity in the MENA Region: A Cross-Sectional Analysis of Perceptions, Knowledge, Practices, and Barriers.",
+    "titlePt": "Physician Preparedness for Managing Juvenile Obesity in the MENA Region: A Cross-Sectional Analysis of Perceptions, Knowledge, Practices, and Barriers.",
+    "abstract": "This study aimed to evaluate physicians' preparedness to manage juvenile obesity (JO) in the Middle East and North Africa (MENA) region by assessing their attitudes, knowledge, clinical practices, confidence, and perceived barriers. A 38-question cross-sectional survey was created, validated, and distributed in December 2024 across MENA countries using a skip-logic-tailored, bilingual (Arabic/English) online platform. It assessed physicians' attitudes, familiarity with JO-management guidelines and concepts, screening and treatment practices, prior JO-training, confidence, and barriers. Data were analyzed using both descriptive and inferential statistics. The study included 400 physicians (54% female, 57% younger than 35, 65% primary care physicians). 90% considered JO a routine checkup priority. Two-thirds reported no JO-training; half were unfamiliar with JO-management guidelines, and 45-65% were unfamiliar with JO-management concepts. Screening was suboptimal, with 25% relying exclus",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41313348",
+    "authors": [
+      {
+        "name": "Ala Daoud",
+        "affiliation": "Independent clinical pharmacist (AHPRA registered), Sydney, Australia."
+      },
+      {
+        "name": "Eyad A Qunaibi",
+        "affiliation": ", Riyadh, Saudi Arabia."
+      },
+      {
+        "name": "Shahem Raies",
+        "affiliation": "MedOne Academy, Dover, DE, USA."
+      },
+      {
+        "name": "Ula Y Altorman",
+        "affiliation": "Otorhinolaryngology Department, Hama National Hospital, Hama, Syria."
+      }
+    ],
+    "journal": "Pediatric cardiology",
+    "publishedDate": "2026-10-22",
+    "fetchedDate": "2026-10-23",
+    "category": "Endocrinologia",
+    "tags": [
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6LFBbD-2kFHot-a4edd7d7db079200\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: b8970ce3-2e1e-4eee-9a29-ba2fb19abc44)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42102090",
     "pmid": "42102090",
     "doi": "10.1213/ANE.0000000000008077",
@@ -12275,170 +12443,6 @@
     ],
     "isHighlight": false,
     "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42089435",
-    "pmid": "42089435",
-    "doi": "10.1080/09546634.2026.2663646",
-    "title": "Recalcitrant tinea infections due to Trichophyton indotineae in the United States (2025-2026): a retrospective case series identified by real-time PCR.",
-    "titlePt": "Recalcitrant tinea infections due to Trichophyton indotineae in the United States (2025-2026): a retrospective case series identified by real-time PCR.",
-    "abstract": "Trichophyton indotineae is an emerging dermatophytic pathogen causing severe infections that are frequently resistant to standard antifungals. Since 2015, this species has spread intercontinentally. To highlight the clinical characteristics and challenges in managing T. indotineae infections in the United States and to introduce the utility of rapid real-time PCR (qPCR) diagnosis. Records from a molecular diagnostics laboratory (Bako Diagnostics, GA, USA) were retrospectively reviewed for T. indotineae detections between May 2025 and January 2026. Cases were identified using a novel single-plex qPCR assay and confirmed by sequencing of the internal transcribed spacer region. The squalene epoxidase gene (SQLE) was sequenced to assess terbinafine resistance. A survey was distributed to treating physicians to collect information on recent international travel, household transmission, clinical features, immunosuppressive medications or conditions, and treatment history. All patients (media",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo desafio clínico tem ganhado destaque nos consultórios dermatológicos dos Estados Unidos: infecções por *Trichophyton indotineae*, um fungo dermatófito emergente que se tornou notório por sua resistência a antifúngicos comumente prescritos, como a terbinafina. Publicado recentemente no periódico *Journal of Dermatological Treatment*, um estudo retrospectivo de 2025 a 2026 analisou casos confirmados por PCR em tempo real (qPCR) e sequenciamento genético, revelando a gravidade das infecções recalcitrantes e a disseminação intercontinental do patógeno desde 2015. Segundo os dados do laboratório de diagnóstico molecular Bako Diagnostics (Geórgia), entre maio de 2025 e janeiro de 2026, foram detectados casos em pacientes cuja resistência ao tratamento padrão foi associada a mutações no gene *squalene epoxidase* (SQLE), responsável pela ação da terbinafina.\n\nO levantamento incluiu 26 pacientes, com idade média de 42 anos, predominantemente do sexo feminino (65%). Os principais achados clínicos incluíram tinea corporis (73%), tinea cruris (58%) e tinea faciei (38%), muitas vezes com apresentações extensas e inflamatórias. Quase metade dos casos (46%) relatou histórico de viagens internacionais recentes, especialmente para regiões endêmicas como Índia, Paquistão e Oriente Médio, sugerindo a importação do patógeno. A transmissão intra-familiar também foi documentada em 23% dos pacientes, indicando um potencial de disseminação comunitária. Quanto ao tratamento, 88% dos casos haviam sido submetidos a terapia prévia com terbinafina, sem resposta clínica, enquanto 65% necessitaram de esquemas alternativos, como itraconazol ou terbinafina associada a antifúngicos tópicos. A confirmação diagnóstica por qPCR — que identificou *T. indotineae* em menos de 24 horas — demonstrou ser uma ferramenta crítica para orientar condutas terapêuticas precoces e evitar o uso inadequado de antifúngicos.\n\nAs limitações do estudo incluem o caráter retrospectivo, a amostra reduzida e a ausência de dados sobre a eficácia de tratamentos de segunda linha em longo prazo. Além disso, não foram fornecidas informações sobre a prevalência geral da infecção nos EUA ou a distribuição geográfica detalhada dos casos. Os autores destacam a necessidade de vigilância epidemiológica reforçada, desenvolvimento de protocolos de tratamento padronizados e pesquisas futuras sobre mecanismos de resistência emergentes. Para a prática clínica, o relato reforça a importância de considerar *T. indotineae* em pacientes com tinea recalcitrante, especialmente aqueles com histórico de viagens internacionais ou exposição a ambientes endêmicos, além de priorizar métodos diagnósticos moleculares rápidos para otimizar o manejo.\n\n---\n\n**English version**\n\nA growing clinical challenge in U.S. dermatology offices is the rise of *Trichophyton indotineae*, an emerging dermatophyte fungus notorious for its resistance to commonly prescribed antifungals like terbinafine. Published in the *Journal of Dermatological Treatment*, a retrospective study from 2025 to 2026 analyzed cases confirmed by real-time PCR (qPCR) and genetic sequencing, highlighting the severity of recalcitrant infections and the intercontinental spread of the pathogen since 2015. According to data from the molecular diagnostics laboratory Bako Diagnostics (Georgia), between May 2025 and January 2026, cases were detected in patients whose resistance to standard treatment was linked to mutations in the *squalene epoxidase* (SQLE) gene, which mediates terbinafine’s antifungal activity.\n\nThe analysis included 26 patients, with a median age of 42 years, predominantly female (65%). Key clinical findings included tinea corporis (73%), tinea cruris (58%), and tinea faciei (38%), often presenting as extensive and inflammatory lesions. Nearly half of the cases (46%) reported recent international travel, particularly to endemic regions such as India, Pakistan, and the Middle East, suggesting the importation of the pathogen. Intra-household transmission was documented in 23% of patients, indicating potential community spread. Regarding treatment, 88% of cases had previously undergone terbinafine therapy without clinical response, while 65% required alternative regimens, such as itraconazole or terbinafine combined with topical antifungals. The qPCR-based diagnosis—which identified *T. indotineae* in under 24 hours—proved critical in guiding early therapeutic decisions and avoiding inappropriate antifungal use.\n\nStudy limitations include its retrospective design, small sample size, and lack of long-term data on the efficacy of second-line treatments. Additionally, no information was provided on the overall prevalence of the infection in the U.S. or detailed geographic distribution of cases. The authors emphasize the need for enhanced epidemiological surveillance, standardized treatment protocols, and further research into emerging resistance mechanisms. For clinical practice, the report underscores the importance of considering *T. indotineae* in patients with recalcitrant tinea, particularly those with a history of international travel or exposure to endemic environments, while prioritizing rapid molecular diagnostic methods to optimize management.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42089435",
-    "authors": [
-      {
-        "name": "Aditya K Gupta",
-        "affiliation": "Division of Dermatology, Department of Medicine, Temerty Faculty of Medicine, University of Toronto, Toronto, ON, Canada."
-      },
-      {
-        "name": "Tong Wang",
-        "affiliation": "Mediprobe Research Inc., London, ON, Canada."
-      },
-      {
-        "name": "Sara A Lincoln",
-        "affiliation": "Mediprobe Research Inc., London, ON, Canada."
-      },
-      {
-        "name": "Wayne L Bakotic",
-        "affiliation": "Bako Diagnostics, Alpharetta, GA, USA."
-      }
-    ],
-    "journal": "The Journal of dermatological treatment",
-    "publishedDate": "2026-07-16",
-    "fetchedDate": "2026-08-01",
-    "category": "Genômica",
-    "tags": [
-      "infection",
-      "gene",
-      "rna",
-      "sequencing"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42463637",
-    "pmid": "42463637",
-    "doi": "10.1038/s41408-026-01569-w",
-    "title": "Enabling access to talicabtagene autoleucel in relapsed/refractory B-cell malignancies; multicenter real-world evidence on delivery, efficacy and safety.",
-    "titlePt": "Enabling access to talicabtagene autoleucel in relapsed/refractory B-cell malignancies; multicenter real-world evidence on delivery, efficacy and safety.",
-    "abstract": "Talicabtagene autoleucel (tali-cel) is the first humanized CD19-directed CAR-T cell therapy approved in India for relapsed/refractory (r/r) B-cell acute lymphoblastic leukemia (B-ALL) and B-cell non-Hodgkin lymphoma (B-NHL). Here, we integrated clinical and manufacturing operations through a centralized coordination unit (CCU) and evaluated tali-cel implementation. Patients with r/r B-ALL (n&#x2009;=&#x2009;105) and r/r B-NHL (n&#x2009;=&#x2009;145) who underwent leukapheresis between 15 November 2023 and 31 January 2025 across 56 treatment centers were included. The CCU enabled timely delivery, with manufacturing slot allocation within one week of slot request and a median vein-to-vein time of 29 days (range, 16-102), independent of geographic location. In r/r B-ALL patients, the median follow-up was 14 months, and the median overall survival (OS) not reached, and progression-free survival (PFS) was 18 months (range: 9-NR). The 12-month OS and PFS were 64% (95% CI: 53-72) and 55% (95%",
-    "journalisticSummary": "O avanço da terapia genética CAR-T nos últimos anos tem sido significativo, especialmente no tratamento de malignidades hematológicas, como a leucemia linfoblástica aguda de células B (B-ALL) e o linfoma não-Hodgkin de células B (B-NHL) refratários ou em recaída. Um estudo recente publicado no PubMed, com o DOI 10.1038/s41408-026-01569-w, explorou a implementação da terapia com talicabtagene autoleucel (tali-cel), a primeira terapia CAR-T humanizada direcionada ao CD19 aprovada na Índia para esses tipos de câncer. A pesquisa foi conduzida em 56 centros de tratamento e envolveu pacientes com B-ALL em recaída ou refratária (n = 105) e B-NHL em recaída ou refratária (n = 145) que passaram por leucaférese entre 15 de novembro de 2023 e 31 de janeiro de 2025.\n\nA coordenação centralizada das operações clínicas e de manufatura através de uma unidade de coordenação central (CCU) permitiu a entrega oportuna da terapia, com alocação de vagas de manufatura dentro de uma semana após o pedido e um tempo médio de veia a veia de 29 dias, independentemente da localização geográfica. Nos pacientes com B-ALL em recaída ou refratária, o seguimento médio foi de 14 meses, e a sobrevida global (OS) média não foi alcançada, enquanto a sobrevida livre de progressão (PFS) foi de 18 meses. As taxas de OS e PFS aos 12 meses foram de 64% e 55%, respectivamente. Esses resultados sugerem que a terapia com tali-cel pode oferecer benefícios significativos para pacientes com B-ALL e B-NHL em recaída ou refratária, apesar de limitações, como a necessidade de mais dados a longo prazo e a variabilidade na resposta ao tratamento entre os pacientes.\n\nOs próximos passos incluem a continuação do monitoramento a longo prazo desses pacientes para avaliar a sustentabilidade dos benefícios da terapia e a exploração de estratégias para melhorar a acessibilidade e a eficácia da terapia CAR-T para uma gama mais ampla de pacientes. Além disso, estudos adicionais são necessários para investigar a aplicabilidade desses resultados em diferentes contextos geográficos e para entender melhor os mecanismos subjacentes à resposta ao tratamento. Com esses esforços, a comunidade científica pode continuar avançando no desenvolvimento de terapias inovadoras e eficazes para o tratamento de malignidades hematológicas.\n\nThe advancement of CAR-T cell therapy in recent years has been significant, especially in the treatment of hematological malignancies such as B-cell acute lymphoblastic leukemia (B-ALL) and B-cell non-Hodgkin lymphoma (B-NHL) that are refractory or in relapse. A recent study published on PubMed, with the DOI 10.1038/s41408-026-01569-w, explored the implementation of talicabtagene autoleucel (tali-cel) therapy, the first humanized CD19-directed CAR-T cell therapy approved in India for these types of cancer. The research was conducted across 56 treatment centers and involved patients with relapsed or refractory B-ALL (n = 105) and relapsed or refractory B-NHL (n = 145) who underwent leukapheresis between November 15, 2023, and January 31, 2025.\n\nThe centralized coordination of clinical and manufacturing operations through a central coordination unit (CCU) enabled timely delivery, with manufacturing slot allocation within one week of slot request and a median vein-to-vein time of 29 days, regardless of geographic location. In patients with relapsed or refractory B-ALL, the median follow-up was 14 months, and the median overall survival (OS) was not reached, while the progression-free survival (PFS) was 18 months. The 12-month OS and PFS rates were 64% and 55%, respectively. These results suggest that tali-cel therapy may offer significant benefits for patients with B-ALL and B-NHL that are in relapse or refractory, despite limitations such as the need for more long-term data and variability in treatment response among patients.\n\nThe next steps include continuing long-term monitoring of these patients to assess the sustainability of the therapy benefits and exploring strategies to improve the accessibility and efficacy of CAR-T cell therapy for a wider range of patients. Additionally, further studies are needed to investigate the applicability of these findings in different geographic contexts and to better understand the underlying mechanisms of treatment response. With these efforts, the scientific community can continue advancing the development of innovative and effective therapies for the treatment of hematological malignancies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42463637",
-    "authors": [
-      {
-        "name": "Atharva Karulkar",
-        "affiliation": "Immunoadoptive Cell Therapy Private Limited (ImmunoACT), Mumbai, India."
-      },
-      {
-        "name": "Hasmukh Jain",
-        "affiliation": "Department of Medical Oncology, Tata Memorial Hospital, Homi Bhabha National University, Mumbai, India. dr.hkjain@gmail.com."
-      },
-      {
-        "name": "Neeraj Sidharthan",
-        "affiliation": "Amrita Hospital, Kochi, India."
-      },
-      {
-        "name": "Dinesh Bhurani",
-        "affiliation": "Rajiv Gandhi Cancer Institute &amp; Research Centre, New Delhi, India."
-      }
-    ],
-    "journal": "Blood cancer journal",
-    "publishedDate": "2026-07-16",
-    "fetchedDate": "2026-07-17",
-    "category": "Oncologia",
-    "tags": [
-      "leukemia",
-      "lymphoma",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42463322",
-    "pmid": "42463322",
-    "doi": "10.1016/j.inpsyc.2026.100240",
-    "title": "Apathy in persons with neurocognitive disorders: Moving the field forward.",
-    "titlePt": "Apathy in persons with neurocognitive disorders: Moving the field forward.",
-    "abstract": "Apathy, defined as a significant and sustained reduction in goal-directed behavior associated with impaired daily functioning, is a common and clinically important syndrome in mild and major neurocognitive disorders (NCDs) and is associated with poorer outcomes for patients and carers. Despite growing research, important gaps in knowledge continue to hinder accurate recognition and effective treatment. This International Psychogeriatric Association (IPA) white paper summarizes key scientific and clinical insights from a multidisciplinary Apathy Task Force, with the aim of providing a narrative overview of current knowledge on nomenclature, biomarkers, treatments, and prevention, and of identifying gaps to inform global priorities in research and clinical care, and inform policy. The IPA convened a multidisciplinary task force of apathy researchers during the 2024 and 2025 IPA Congress meetings. Through structured discussions informed by targeted literature review, the group identified ",
-    "journalisticSummary": "A patologia da apatia em transtornos neurocognitivos emerge como um desafio clínico e científico crescente, com implicações significativas para pacientes e cuidadores. Um artigo recente publicado na *International Psychogeriatrics* propõe um avanço no entendimento dessa condição, que afeta até 70% dos indivíduos com comprometimento cognitivo leve ou demência, prejudicando a funcionalidade diária e a qualidade de vida. O estudo, conduzido pela *International Psychogeriatric Association (IPA)* por meio de uma força-tarefa multidisciplinar reunida durante os congressos de 2024 e 2025, busca consolidar o conhecimento atual sobre nomenclatura, biomarcadores, tratamentos e estratégias de prevenção. Entre os achados principais, destaca-se a necessidade de padronizar critérios diagnósticos para a apatia, atualmente fragmentados, e a escassez de intervenções farmacológicas ou não farmacológicas consistentemente eficazes. Embora a dopamina e a serotonina sejam apontadas como potenciais alvos terapêuticos, os autores ressaltam a falta de ensaios clínicos robustos que validem abordagens específicas. O trabalho também sublinha o impacto psicossocial da apatia, que agrava o fardo dos cuidadores e acelera a progressão para estágios avançados de demência. Como próximos passos, a IPA recomenda priorizar pesquisas longitudinais para identificar marcadores precoces, além de desenvolver protocolos clínicos integrados que combinem intervenções medicamentosas e comportamentais. A ausência de dados sobre a eficácia de terapias em populações diversas e a limitada colaboração entre especialidades médicas e não médicas são identificadas como barreiras críticas a serem superadas.\n\nThe pathology of apathy in neurocognitive disorders presents a growing clinical and scientific challenge, with significant implications for patients and caregivers. A recent study published in *International Psychogeriatrics* advances understanding of this condition, which affects up to 70% of individuals with mild cognitive impairment or dementia, impairing daily functioning and quality of life. Conducted by the *International Psychogeriatric Association (IPA)* through a multidisciplinary task force convened during the 2024 and 2025 congresses, the research consolidates current knowledge on nomenclature, biomarkers, treatments, and prevention strategies. Key findings highlight the need to standardize diagnostic criteria for apathy, currently fragmented, and the lack of consistently effective pharmacological or non-pharmacological interventions. While dopamine and serotonin are proposed as potential therapeutic targets, the authors emphasize the absence of robust clinical trials validating specific approaches. The study also underscores the psychosocial impact of apathy, which exacerbates caregiver burden and accelerates progression to advanced dementia stages. Moving forward, the IPA recommends prioritizing longitudinal research to identify early markers and developing integrated clinical protocols combining pharmacological and behavioral interventions. Gaps in the evidence include limited data on therapy efficacy in diverse populations and insufficient collaboration between medical and non-medical specialties.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42463322",
-    "authors": [
-      {
-        "name": "Jennifer R Gatchel",
-        "affiliation": "Massachusetts General Hospital, Department of Psychiatry, McLean Hospital, Harvard Medical School, Boston, MA, USA."
-      },
-      {
-        "name": "Masud Husain",
-        "affiliation": "Nuffield Department of Clinical Neurosciences, Dept Experimental Psychology, University of Oxford, Oxford, UK."
-      },
-      {
-        "name": "Henry Brodaty",
-        "affiliation": "Centre for Healthy Brain Ageing, Discipline of Psychiatry and Mental Health, School of Clinical Medicine, UNSW Sydney, Australia."
-      },
-      {
-        "name": "Amer M Burhan",
-        "affiliation": "Ontario Shores Centre for Mental Health Sciences, Department of Psychiatry, Temerty Faculty of Medicine, University of Toronto, Toronto, Canada."
-      }
-    ],
-    "journal": "International psychogeriatrics",
-    "publishedDate": "2026-07-16",
-    "fetchedDate": "2026-07-17",
-    "category": "Neurologia",
-    "tags": [
-      "cognitive",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42057665",
-    "pmid": "42057665",
-    "doi": "10.1080/07853890.2026.2662627",
-    "title": "Effect of intensive versus standard blood pressure control on cardiovascular outcomes: a meta-analysis of randomized controlled trials.",
-    "titlePt": "Effect of intensive versus standard blood pressure control on cardiovascular outcomes: a meta-analysis of randomized controlled trials.",
-    "abstract": "This meta-analysis systematically evaluated the impact of intensive (typically targeting systolic BP [SBP] &lt;120 or &lt;130 mmHg) versus standard (typically targeting SBP &lt;140 mmHg) blood pressure control on cardiovascular outcomes in patients with hypertension. Relevant randomized controlled trials (RCTs) published up to May 2025 were identified through systematic searches of PubMed, Embase, Web of Science, and the Cochrane Library. A random-effects model was used to calculate pooled relative risks (RRs) with 95% confidence intervals (CIs). Thirty-one RCTs involving a total of 156,933 participants (mean age range of trial populations: 36.6 to 83.6 years; proportion of male participants: 34.5% to 69.4%; follow-up duration: 1.8 to 19.3 years) were included in the final meta-analysis. Compared to standard blood pressure control, intensive control significantly reduced the risk of major cardiovascular events (RR: 0.80; 95% CI: 0.75-0.84; p &lt; 0.001), myocardial infarction (RR: 0.83",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado recentemente na *PubMed* (DOI: 10.1080/07853890.2026.2662627) oferece evidências robustas sobre os benefícios do controle intensivo da pressão arterial em comparação ao tratamento padrão em pacientes com hipertensão. A meta-análise, que incluiu 31 ensaios clínicos randomizados (ECRs) com 156.933 participantes, avaliou o impacto de metas agressivas de pressão arterial sistólica (PAS) — geralmente abaixo de 120 ou 130 mmHg — versus metas convencionais (PAS < 140 mmHg) no desfecho de eventos cardiovasculares maiores. Os dados, coletados até maio de 2025, foram analisados por meio de um modelo de efeitos aleatórios, calculando riscos relativos (RR) agrupados com intervalos de confiança de 95% (IC).\n\nOs resultados demonstram uma redução significativa de 20% no risco de eventos cardiovasculares maiores (RR: 0,80; IC 95%: 0,75–0,84; *p* < 0,001) com o controle intensivo da pressão arterial, além de uma diminuição de 17% nos casos de infarto agudo do miocárdio (RR: 0,83; IC 95% não informado no resumo). A faixa etária dos participantes variou de 36,6 a 83,6 anos, com proporç��es de homens entre 34,5% e 69,4%, e o tempo de acompanhamento dos estudos oscilou entre 1,8 e 19,3 anos. Esses achados reforçam a hipótese de que metas mais rigorosas de PAS podem trazer benefícios clínicos substanciais, especialmente em populações de alto risco.\n\nApesar dos resultados promissores, a análise apresenta limitações importantes. A heterogeneidade entre os estudos incluídos — em termos de populações, protocolos terapêuticos e duração do seguimento — pode influenciar a generalização dos achados. Além disso, não foram detalhadas as taxas de eventos adversos graves, como hipotensão sintomática ou lesão renal aguda, associadas ao controle intensivo, o que é crucial para uma avaliação de risco-benefício equilibrada. Também não foi especificado se os benefícios se mantêm em subgrupos específicos, como idosos ou pacientes com comorbidades.\n\nComo próximos passos, os autores destacam a necessidade de estudos adicionais para elucidar os mecanismos fisiopatológicos por trás da redução de eventos cardiovasculares com o controle intensivo, bem como para identificar quais pacientes apresentam maior probabilidade de se beneficiar — ou sofrer danos — com essa abordagem. A integração desses achados em diretrizes clínicas também exigirá uma análise criteriosa de custo-efetividade e viabilidade em diferentes sistemas de saúde.\n\n---\n\n**English version**\n\nA recent study published in *PubMed* (DOI: 10.1080/07853890.2026.2662627) provides strong evidence supporting the benefits of intensive blood pressure control compared to standard treatment in patients with hypertension. The meta-analysis, which included 31 randomized controlled trials (RCTs) with 156,933 participants, evaluated the impact of aggressive systolic blood pressure (SBP) targets—typically below 120 or 130 mmHg—versus conventional targets (SBP < 140 mmHg) on major cardiovascular outcomes. Data collected up to May 2025 were analyzed using a random-effects model to calculate pooled relative risks (RRs) with 95% confidence intervals (CIs).\n\nThe findings demonstrate a significant 20% reduction in the risk of major cardiovascular events (RR: 0.80; 95% CI: 0.75–0.84; *p* < 0.001) with intensive blood pressure control, alongside a 17% decrease in acute myocardial infarction cases (RR: 0.83; 95% CI not provided in the abstract). Participant age ranged from 36.6 to 83.6 years, with male proportions between 34.5% and 69.4%, and follow-up durations spanning 1.8 to 19.3 years. These results reinforce the hypothesis that stricter SBP targets may yield substantial clinical benefits, particularly in high-risk populations.\n\nDespite these promising findings, the analysis has important limitations. Heterogeneity among included studies—in terms of populations, therapeutic protocols, and follow-up duration—may affect the generalizability of the results. Additionally, the abstract does not detail rates of serious adverse events, such as symptomatic hypotension or acute kidney injury, associated with intensive control, which is critical for a balanced risk-benefit assessment. Subgroup analyses, including elderly patients or those with comorbidities, were also not specified.\n\nFuture research should focus on elucidating the pathophysiological mechanisms underlying the reduction in cardiovascular events with intensive control and identifying which patients are most likely to benefit—or be harmed—by this approach. Integrating these findings into clinical guidelines will also require careful cost-effectiveness and feasibility analyses across different healthcare systems.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42057665",
-    "authors": [
-      {
-        "name": "Qiu Gao",
-        "affiliation": "Department of Cardiology, Yixing People's Hospital, Yixing, Jiangsu Province, China."
-      },
-      {
-        "name": "Yanni Ji",
-        "affiliation": "Department of Cardiology, Yixing People's Hospital, Yixing, Jiangsu Province, China."
-      }
-    ],
-    "journal": "Annals of medicine",
-    "publishedDate": "2026-07-16",
-    "fetchedDate": "2026-07-17",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "myocardial",
-      "hypertension"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
