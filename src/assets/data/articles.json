@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42908603",
+    "pmid": "42908603",
+    "doi": "10.3389/fonc.2026.1941788",
+    "title": "From etiology to precision oncology: a systematic review of the causes and evolving treatments of prostate cancer.",
+    "titlePt": "From etiology to precision oncology: a systematic review of the causes and evolving treatments of prostate cancer.",
+    "abstract": "Prostate cancer remains one of the most frequently diagnosed malignancies and a leading cause of cancer-related mortality among men globally. Its development is driven by a complex interaction of genetic susceptibility, molecular alterations, hormonal signaling, environmental exposures, and lifestyle-related factors. This systematic review synthesizes current evidence on the etiological mechanisms and evolving therapeutic landscape of prostate cancer. A systematic review was conducted according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines. Literature published between January 2010 and December 2025 was searched in PubMed, Scopus, and Web of Science databases. Eligible studies included original research, clinical studies, translational studies, and experimental investigations evaluating prostate cancer etiology, molecular mechanisms, risk factors, biomarkers, or therapeutic interventions. The review included 29 studies encompassing e",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908603",
+    "authors": [
+      {
+        "name": "Nakitto Irene Kisakye",
+        "affiliation": "Kabale University School of Medicine, Kabale, Uganda."
+      },
+      {
+        "name": "Geoffrey Ayebazibwe",
+        "affiliation": "Kabale University School of Medicine, Kabale, Uganda."
+      },
+      {
+        "name": "Paula Mary Amito",
+        "affiliation": "Kabale University School of Medicine, Kabale, Uganda."
+      },
+      {
+        "name": "Patricia D Ajambo",
+        "affiliation": "Kabale University School of Medicine, Kabale, Uganda."
+      }
+    ],
+    "journal": "Frontiers in oncology",
+    "publishedDate": "2026-10-23",
+    "fetchedDate": "2026-10-23",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "oncology",
+      "genetic",
+      "gene",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6PfJMp-2kFHot-a4f18791ab463478\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: c5f256db-17c8-4197-800c-7b16b30f5b0e)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42906070",
     "pmid": "42906070",
     "doi": "10.1212/WNL.0000000000218736",
@@ -12398,51 +12442,6 @@
     ],
     "isHighlight": false,
     "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42097137",
-    "pmid": "42097137",
-    "doi": "10.1016/j.cell.2026.03.049",
-    "title": "Multi-cohort proteogenomic analyses reveal genetic effects across the proteome and diseasome.",
-    "titlePt": "Multi-cohort proteogenomic analyses reveal genetic effects across the proteome and diseasome.",
-    "abstract": "Understanding the genetic regulation of circulating protein levels can provide new insights into disease mechanisms. Here, we present the largest proteogenomic study to date (n = 78,664 participants across 38 studies), identifying &gt;24,000 protein quantitative trait loci (QTLs) associated with 1,116 proteins, acting near to (n = 5,040) or distant (n = 19,698) from the cognate gene. Using machine learning-guided effector gene assignment, we provide genetic evidence for pathways, cell types, and tissues that modulate circulating protein levels, highlighting N-linked glycosylation as an important regulatory pathway. We demonstrate that genetic instruments of protein production/function (\"cis\") versus modulation (\"trans\") reveal distinct phenotypic insights. We identify proteins as candidates for drug targets and engagement (e.g., plasma furin and cardiovascular diseases) by comparing cis-based genetic evidence with protein-disease associations. Systematic triangulation of trans-protein ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm dos maiores estudos de proteogenômica já realizados revelou novos mecanismos pelos quais variações genéticas influenciam os níveis de proteínas circulantes no sangue, oferecendo insights sobre doenças humanas. Publicado na *Cell*, a pesquisa analisou dados de 78.664 participantes em 38 estudos, identificando mais de 24 mil loci de traço quantitativo de proteína (QTLs) associados a 1.116 proteínas. Esses QTLs atuam tanto próximo aos genes correspondentes (5.040 casos) quanto em regiões distantes (19.698 casos), sugerindo mecanismos regulatórios complexos.\n\nUtilizando aprendizado de máquina para atribuir genes efetores, os pesquisadores mapearam vias biológicas, tipos celulares e tecidos envolvidos na modulação dessas proteínas. Um achado destacado foi o papel da *N*-glicosilação — um processo de modificação proteica — como via regulatória importante. Além disso, o estudo diferenciou os efeitos genéticos em proteínas produzidas localmente (*cis*) daqueles que modulam proteínas circulantes (*trans*), revelando padrões distintos de associação com fenótipos clínicos.\n\nA análise permitiu ainda identificar proteínas com potencial como alvos terapêuticos, como a furina no plasma, cuja associação com doenças cardiovasculares foi reforçada por evidências genéticas. Os autores também realizaram uma triangulação sistemática de proteínas reguladas por QTLs *trans*, integrando dados de associação doença-proteína para priorizar candidatos farmacológicos. Embora o estudo ofereça uma base robusta para futuras pesquisas, limitações incluem a dependência de dados observacionais e a necessidade de validação funcional em modelos experimentais. Os próximos passos envolvem estudos de intervenção e análises de causalidade para confirmar o potencial terapêutico das proteínas identificadas.\n\n---\n\n**English version**\n\nOne of the largest proteogenomic studies to date has uncovered new mechanisms by which genetic variations influence circulating blood protein levels, offering insights into human disease. Published in *Cell*, the research analyzed data from 78,664 participants across 38 studies, identifying over 24,000 protein quantitative trait loci (QTLs) linked to 1,116 proteins. These QTLs act either near their cognate genes (5,040 cases) or in distant regions (19,698 cases), suggesting complex regulatory mechanisms.\n\nUsing machine learning to assign effector genes, the researchers mapped biological pathways, cell types, and tissues involved in modulating these proteins. A key finding was the role of *N*-linked glycosylation—a protein modification process—as an important regulatory pathway. The study also differentiated genetic effects on locally produced proteins (*cis*) from those modulating circulating proteins (*trans*), revealing distinct patterns of association with clinical phenotypes.\n\nThe analysis further enabled the identification of proteins with potential as therapeutic targets, such as plasma furin, whose link to cardiovascular diseases was strengthened by genetic evidence. The authors also conducted a systematic triangulation of proteins regulated by *trans*-QTLs, integrating disease-protein association data to prioritize drug candidates. While the study provides a robust foundation for future research, limitations include its reliance on observational data and the need for functional validation in experimental models. Future steps involve intervention studies and causal analyses to confirm the therapeutic potential of the identified proteins.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42097137",
-    "authors": [
-      {
-        "name": "Mine Koprulu",
-        "affiliation": "Precision Healthcare University Research Institute, Queen Mary University of London, London E1 1HH, UK; MRC Epidemiology Unit, School of Clinical Medicine, University of Cambridge, Cambridge CB2 0QQ, UK; Computational Medicine, Berlin Institute of Health at Charit&#xe9; - Universit&#xe4;tsmedizin Berlin, Berlin 10117, Germany. Electronic address: m.koprulu@qmul.ac.uk."
-      },
-      {
-        "name": "Karl Smith-Byrne",
-        "affiliation": "Cancer Epidemiology Unit, Nuffield Department of Population Health, University of Oxford, Oxford OX3 7LF, UK."
-      },
-      {
-        "name": "Brian Richard Ferolito",
-        "affiliation": "Million Veteran Program (MVP) Coordinating Center, Veterans Affairs Healthcare System, Boston, MA 02111, USA."
-      },
-      {
-        "name": "Erin Macdonald-Dunlop",
-        "affiliation": "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm 171 65, Sweden; Pfizer Research and Development, Pfizer, Stockholm 113 63, Sweden; Centre for Global Health Research, Usher Institute, University of Edinburgh, Edinburgh EH16 4UX, UK."
-      }
-    ],
-    "journal": "Cell",
-    "publishedDate": "2026-07-16",
-    "fetchedDate": "2026-08-04",
-    "category": "Genômica",
-    "tags": [
-      "cardiovascular",
-      "genomic",
-      "genetic",
-      "gene",
-      "drug"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
