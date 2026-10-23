@@ -1,4 +1,5 @@
-# Vexlyn News
+# med-news-hub ⭐ — prova de Full Stack (Angular 21)
+Portal de jornalismo científico médico alimentado por IA. Converte papers do PubMed em resumos jornalísticos em português com cascata de IAs generativas. Stack: Angular 21, Angular Material M3, Tailwind CSS 3, TypeScript 5.9, GitHub Actions e GitHub Pages.
 
 > Portal de jornalismo científico médico alimentado por inteligência artificial — Angular 21 + GitHub Pages
 
