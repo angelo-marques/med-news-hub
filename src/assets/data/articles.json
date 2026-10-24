@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42918778",
+    "pmid": "42918778",
+    "doi": "10.1038/s41467-026-78390-3",
+    "title": "Tau isoform mapping across tissues and biofluids reveals a signature distinguishing Alzheimer's disease from amyotrophic lateral sclerosis.",
+    "titlePt": "Tau isoform mapping across tissues and biofluids reveals a signature distinguishing Alzheimer's disease from amyotrophic lateral sclerosis.",
+    "abstract": "Blood phosphorylated tau 217&#xa0;(p-tau217) accurately detects Alzheimer's disease (AD) pathology but is also elevated in amyotrophic lateral sclerosis (ALS), likely reflecting peripheral (big) tau released from muscle. Assays selectively measuring brain-derived (BD-) tau and BD-p-tau217 are therefore needed. We analysed serum BD-tau and p-tau217 in ALS (n&#x2009;=&#x2009;139), AD (n&#x2009;=&#x2009;101) and controls (n&#x2009;=&#x2009;75) using direct immunoassays and after BD-Tau immunoprecipitation (BD-Tau-IP), and tau species in brain (n&#x2009;=&#x2009;16), spinal cord (n&#x2009;=&#x2009;11) and muscle (n&#x2009;=&#x2009;10) by targeted mass spectrometry. With the direct immunoassays, BD-tau and p-tau217 were increased in AD and ALS versus controls. After BD-Tau-IP, BD-tau and BD-p-tau217 were elevated in AD only, improving diagnostic accuracy. Mass spectrometry revealed a central-to-peripheral shift from BD-tau to big tau predominance, with exclusively big p-tau217 detected&#xa0",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42918778",
+    "authors": [
+      {
+        "name": "Samir Abu-Rumeileh",
+        "affiliation": "Department of Neurology, Martin-Luther-University Halle-Wittenberg, Halle (Saale), Germany."
+      },
+      {
+        "name": "Henning Gro&#xdf;kopf",
+        "affiliation": "Department of Neurology, Martin-Luther-University Halle-Wittenberg, Halle (Saale), Germany."
+      },
+      {
+        "name": "Arthur Guthknecht",
+        "affiliation": "Department of Neurology, Martin-Luther-University Halle-Wittenberg, Halle (Saale), Germany."
+      },
+      {
+        "name": "Alexander Mensch",
+        "affiliation": "Department of Neurology, Martin-Luther-University Halle-Wittenberg, Halle (Saale), Germany."
+      }
+    ],
+    "journal": "Nature communications",
+    "publishedDate": "2026-10-23",
+    "fetchedDate": "2026-10-24",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "alzheimer"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6UMsiE-2kFHot-a4f699f83b7da215\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 91b90434-d521-4e19-a96e-50279dedeed9)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42912973",
     "pmid": "42912973",
     "doi": "10.26635/6965.7288",
@@ -12401,47 +12442,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42143213",
-    "pmid": "42143213",
-    "doi": "10.1080/07853890.2026.2673631",
-    "title": "Endovascular thrombectomy versus best medical therapy for acute vertebrobasilar artery occlusion in patients with low NIHSS scores: a&#xa0;meta-analysis.",
-    "titlePt": "Endovascular thrombectomy versus best medical therapy for acute vertebrobasilar artery occlusion in patients with low NIHSS scores: a&#xa0;meta-analysis.",
-    "abstract": "The efficacy of endovascular thrombectomy (EVT) for acute vertebrobasilar artery occlusion (VBAO) presenting with mild symptoms (National Institutes of Health Stroke Scale [NIHSS] score &#x2264;10) remains uncertain. This meta-analysis aimed to compare the effectiveness and safety of EVT versus best medical therapy (BMT) in this population. We systematically searched PubMed, Embase, and the Cochrane Central Register of Controlled Trials from inception to September 2025 for comparative studies. The primary outcome was 90-day excellent functional outcome (modified Rankin Scale [mRS] score 0-1). Secondary outcomes included functional independence (mRS 0-2), symptomatic intracranial hemorrhage (sICH), and all-cause mortality. Pooled odds ratios (OR) with 95% confidence intervals (CI) were calculated using a random-effects model. Seven observational studies involving 3,107 patients were included. In unadjusted analyses, EVT was associated with a higher rate of excellent functional outcome (",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recém-publicado no *PubMed* (DOI: 10.1080/07853890.2026.2673631) investigou a eficácia da trombectomia endovascular (EVT) em comparação ao tratamento médico otimizado (BMT) para oclusões agudas da artéria vertebrobasilar (VBAO) em pacientes com sintomas leves, definidos por escores ≤10 na *National Institutes of Health Stroke Scale* (NIHSS). A pesquisa, conduzida por meio de meta-análise de sete estudos observacionais (n=3.107 pacientes), buscou esclarecer se a intervenção mecânica supera a terapia convencional em desfechos funcionais e segurança.\n\nOs resultados preliminares, ainda não ajustados para variáveis de confusão, indicaram uma associação entre EVT e maior probabilidade de alcançar excelentes desfechos funcionais em 90 dias (escala *modified Rankin Scale*, mRS 0–1). No entanto, os achados não esclareceram diferenças significativas em relação à independência funcional (mRS 0–2), hemorragia intracraniana sintomática (sICH) ou mortalidade por todas as causas. A ausência de dados ajustados e a heterogeneidade metodológica entre os estudos incluídos limitam a robustez das conclusões, reforçando a necessidade de ensaios clínicos randomizados para validar esses achados. Até o momento, a literatura mantém lacunas sobre protocolos ideais para VBAO com NIHSS baixo, um cenário clínico ainda pouco explorado.\n\n---\n\n**English version**\n\nA recent study published in *PubMed* (DOI: 10.1080/07853890.2026.2673631) examined the efficacy of endovascular thrombectomy (EVT) compared to best medical therapy (BMT) for acute vertebrobasilar artery occlusion (VBAO) in patients with mild symptoms, defined by *National Institutes of Health Stroke Scale* (NIHSS) scores ≤10. The meta-analysis, which included seven observational studies (n=3,107 patients), aimed to determine whether mechanical thrombectomy outperforms conventional treatment in functional outcomes and safety.\n\nPreliminary findings, based on unadjusted analyses, suggested EVT was associated with a higher likelihood of achieving excellent functional outcomes at 90 days (*modified Rankin Scale*, mRS 0–1). However, no significant differences were observed in functional independence (mRS 0–2), symptomatic intracranial hemorrhage (sICH), or all-cause mortality. The lack of adjusted data and methodological heterogeneity across included studies constrain the strength of conclusions, underscoring the need for randomized controlled trials to validate these results. Current literature remains inconclusive regarding optimal management strategies for VBAO with low NIHSS, a clinical scenario that remains underexplored.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42143213",
-    "authors": [
-      {
-        "name": "Yaqin Qin",
-        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
-      },
-      {
-        "name": "Zhuo Min",
-        "affiliation": "Department of Neurology and Centre for Clinical Neuroscience, Daping Hospital, Army Medical Centre of PLA, Army Medical University, Chongqing, China."
-      },
-      {
-        "name": "Guangxin Sun",
-        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
-      },
-      {
-        "name": "Hui Xu",
-        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
-      }
-    ],
-    "journal": "Annals of medicine",
-    "publishedDate": "2026-07-17",
-    "fetchedDate": "2026-08-12",
-    "category": "Neurologia",
-    "tags": [
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
