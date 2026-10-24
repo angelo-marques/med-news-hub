@@ -1,5 +1,43 @@
 [
   {
+    "id": "pubmed-42526549",
+    "pmid": "42526549",
+    "doi": "10.1016/j.jep.2026.122255",
+    "title": "Prunella Oral Liquid in combination with Western medical treatment for Graves' disease: A systematic review and meta-analysis.",
+    "titlePt": "Prunella Oral Liquid in combination with Western medical treatment for Graves' disease: A systematic review and meta-analysis.",
+    "abstract": "Prunella Oral Liquid is a Chinese patent medicine prepared from Prunella vulgaris L. Modern pharmacological studies indicate that its primary active constituents, such as rosmarinic acid, possess significant anti-inflammatory, immunomodulatory, and antioxidant properties. Although it is widely used in clinical practice for Graves' disease (GD), uncertainty remains. This study aimed to evaluate the efficacy and safety of Prunella Oral Liquid in patients with GD. We searched seven databases for the randomized controlled trials (RCTs) of Prunella Oral Liquid on GD patients from inception to September 2025, and references in the literature were hand searched. Risk of bias was assessed using the Cochrane RoB 1.0. Data analysis was performed using RevMan 5.4. The certainty of evidence was evaluated with the GRADE framework. Nine RCTs involving 966 patients were included. All included trials compared Prunella Oral Liquid in combination with Western medical treatment with the corresponding Wes",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526549",
+    "authors": [
+      {
+        "name": "Zhaoyang Chen",
+        "affiliation": "Centre for Evidence-Based Chinese Medicine, Beijing University of Chinese Medicine, Beijing, China."
+      },
+      {
+        "name": "Bichai Yuan",
+        "affiliation": "Department of Endocrinology, Jieyang People's Hospital, Jieyang, China."
+      },
+      {
+        "name": "Lina Zhang",
+        "affiliation": "The Second Medical Department, Shanghai Haitian Pharmaceutical Technology Development Co., Ltd., Shanghai, China."
+      },
+      {
+        "name": "Lu Zhang",
+        "affiliation": "The Second Medical Department, Shanghai Haitian Pharmaceutical Technology Development Co., Ltd., Shanghai, China."
+      }
+    ],
+    "journal": "Journal of ethnopharmacology",
+    "publishedDate": "2026-10-24",
+    "fetchedDate": "2026-10-24",
+    "category": "Farmacologia",
+    "tags": [],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6VsgEQ-2kFHot-a4f83c378de2e178\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 21ecbdc8-b122-4106-88c4-d526a0869845)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42918778",
     "pmid": "42918778",
     "doi": "10.1038/s41467-026-78390-3",
@@ -12363,86 +12401,43 @@
     "aiProvider": "Mistral"
   },
   {
-    "id": "pubmed-42223336",
-    "pmid": "42223336",
-    "doi": "10.1080/13696998.2026.2678778",
-    "title": "Cost-effectiveness analysis of apixaban compared with other oral anticoagulants for the treatment of non-valvular atrial fibrillation in a Belgian healthcare setting.",
-    "titlePt": "Cost-effectiveness analysis of apixaban compared with other oral anticoagulants for the treatment of non-valvular atrial fibrillation in a Belgian healthcare setting.",
-    "abstract": "Direct oral anticoagulants (DOACs) are recommended for stroke and systemic embolism prevention in patients with non-valvular atrial fibrillation (NVAF) in preference to vitamin K antagonists (VKAs, e.g. warfarin). This study assessed the cost-effectiveness of apixaban versus warfarin, dabigatran, edoxaban, and rivaroxaban for patients with NVAF from the Belgian payer perspective. Based on a previously-validated model, a lifetime cohort-level Markov model was built in Microsoft Excel for the Belgian setting, incorporating costs (2025) representative of a DOAC market following patent expiry. The cohort (n&#x2009;=&#x2009;1,000) included patients with NVAF eligible for oral anticoagulation. Different study types provided clinical inputs for event risk in the base case analysis (based on a network meta-analysis of randomised controlled trials) and in a scenario analysis (based on real-world evidence). The primary model outcome was the incremental cost-effectiveness ratio (ICER), measured b",
-    "journalisticSummary": "**Versão em português brasileiro:**\n\nUm estudo recente publicado no *Journal of Medical Economics* avaliou a relação custo-efetividade do apixabana em comparação com outros anticoagulantes orais diretos (DOACs) e varfarina no tratamento de pacientes com fibrilação atrial não valvar (FANV) no contexto do sistema de saúde belga. Utilizando um modelo de Markov de coorte ao longo da vida, os pesquisadores simularam os desfechos clínicos e econômicos de 1.000 pacientes elegíveis para anticoagulação oral, com dados de custos projetados para 2025, após o vencimento de patentes de DOACs no mercado belga.\n\nOs resultados, baseados em uma meta-análise em rede de ensaios clínicos randomizados, indicaram que o apixabana apresentou um perfil custo-efetivo em relação à varfarina, com uma relação de custo-efetividade incremental (ICER) favorável. No entanto, quando comparado a outros DOACs — dabigatrana, edoxabana e rivaroxabana —, os achados foram menos conclusivos, sugerindo que a escolha entre esses agentes pode depender de fatores como perfil de risco do paciente, disponibilidade de preços e preferências clínicas. Uma análise de cenário com dados do mundo real reforçou a robustez dos resultados, embora tenha sido observada uma variabilidade considerável nos desfechos quando comparados aos dados de ensaios clínicos.\n\nEmbora o estudo ofereça insights valiosos para formuladores de políticas e clínicos na Bélgica, algumas limitações devem ser consideradas. Primeiramente, o modelo não incorporou possíveis variações regionais nos custos de saúde dentro do país, o que pode influenciar os resultados em diferentes contextos. Além disso, a ausência de dados específicos sobre adesão ao tratamento e interrupções terapêuticas limita a generalização dos achados. Os autores destacam a necessidade de pesquisas futuras que incluam avaliações de subgrupos, como pacientes com comorbidades ou idosos, para refinar as estimativas de custo-efetividade. Também seria relevante explorar o impacto de estratégias de gerenciamento de doenças concomitantes no custo global do tratamento.\n\n---\n\n**English version:**\n\nA recent study published in the *Journal of Medical Economics* assessed the cost-effectiveness of apixaban compared with other direct oral anticoagulants (DOACs) and warfarin for the treatment of patients with non-valvular atrial fibrillation (NVAF) within the Belgian healthcare system. Using a lifetime cohort-level Markov model, researchers simulated clinical and economic outcomes for 1,000 patients eligible for oral anticoagulation, with cost data projected for 2025 following the expiration of DOAC patents in the Belgian market.\n\nFindings, based on a network meta-analysis of randomized controlled trials, indicated that apixaban demonstrated a cost-effective profile relative to warfarin, with a favorable incremental cost-effectiveness ratio (ICER). However, when compared to other DOACs—dabigatran, edoxaban, and rivaroxaban—the results were less conclusive, suggesting that the choice among these agents may depend on factors such as patient risk profiles, pricing availability, and clinical preferences. A scenario analysis incorporating real-world evidence reinforced the robustness of the results, though considerable variability in outcomes was observed when compared to trial data.\n\nWhile the study provides valuable insights for policymakers and clinicians in Belgium, several limitations should be acknowledged. First, the model did not account for potential regional variations in healthcare costs within the country, which may influence results across different settings. Additionally, the absence of specific data on treatment adherence and therapeutic interruptions limits the generalizability of the findings. The authors emphasize the need for future research that includes subgroup evaluations, such as patients with comorbidities or the elderly, to refine cost-effectiveness estimates. Exploring the impact of strategies for managing concomitant diseases on the overall treatment cost would also be relevant.",
+    "id": "pubmed-42143213",
+    "pmid": "42143213",
+    "doi": "10.1080/07853890.2026.2673631",
+    "title": "Endovascular thrombectomy versus best medical therapy for acute vertebrobasilar artery occlusion in patients with low NIHSS scores: a&#xa0;meta-analysis.",
+    "titlePt": "Endovascular thrombectomy versus best medical therapy for acute vertebrobasilar artery occlusion in patients with low NIHSS scores: a&#xa0;meta-analysis.",
+    "abstract": "The efficacy of endovascular thrombectomy (EVT) for acute vertebrobasilar artery occlusion (VBAO) presenting with mild symptoms (National Institutes of Health Stroke Scale [NIHSS] score &#x2264;10) remains uncertain. This meta-analysis aimed to compare the effectiveness and safety of EVT versus best medical therapy (BMT) in this population. We systematically searched PubMed, Embase, and the Cochrane Central Register of Controlled Trials from inception to September 2025 for comparative studies. The primary outcome was 90-day excellent functional outcome (modified Rankin Scale [mRS] score 0-1). Secondary outcomes included functional independence (mRS 0-2), symptomatic intracranial hemorrhage (sICH), and all-cause mortality. Pooled odds ratios (OR) with 95% confidence intervals (CI) were calculated using a random-effects model. Seven observational studies involving 3,107 patients were included. In unadjusted analyses, EVT was associated with a higher rate of excellent functional outcome (",
     "imagePlaceholder": true,
     "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42223336",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42143213",
     "authors": [
       {
-        "name": "Hannah Goovaerts",
-        "affiliation": "Pfizer NV-SA, Brussels, Belgium."
+        "name": "Yaqin Qin",
+        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
       },
       {
-        "name": "Rupesh Subash",
-        "affiliation": "Pfizer Ltd, Surrey, UK."
+        "name": "Zhuo Min",
+        "affiliation": "Department of Neurology and Centre for Clinical Neuroscience, Daping Hospital, Army Medical Centre of PLA, Army Medical University, Chongqing, China."
       },
       {
-        "name": "Chloe Salter",
-        "affiliation": "Health Economics and Outcomes Research Ltd, Cardiff, UK."
+        "name": "Guangxin Sun",
+        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
       },
       {
-        "name": "Carissa Dickerson",
-        "affiliation": "Health Economics and Outcomes Research Ltd, Cardiff, UK."
+        "name": "Hui Xu",
+        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
       }
     ],
-    "journal": "Journal of medical economics",
+    "journal": "Annals of medicine",
     "publishedDate": "2026-07-17",
-    "fetchedDate": "2026-09-01",
-    "category": "Cardiologia",
+    "fetchedDate": "2026-10-24",
+    "category": "Neurologia",
     "tags": [
-      "atrial",
       "stroke"
     ],
     "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42202217",
-    "pmid": "42202217",
-    "doi": "10.1080/21645515.2026.2665969",
-    "title": "Evaluation of influenza vaccine effectiveness among older adults in Jiaxing, China, 2022-2025: A test negative design-based study.",
-    "titlePt": "Evaluation of influenza vaccine effectiveness among older adults in Jiaxing, China, 2022-2025: A test negative design-based study.",
-    "abstract": "Influenza imposes a substantial burden on older adults, underscoring the need for annual evaluation of vaccine effectiveness (VE). Using a test-negative case-control design, this study assessed VE among patients aged &#x2265;60&#x2009;y with acute respiratory symptoms in Jiaxing, China, across three influenza seasons (2022-2025). Among 3,214 participants, vaccination provided moderate overall protection against laboratory-confirmed influenza, with adjusted VE of 42.5% (95% CI: 31.2-51.9). Protection was highest in the 2024-2025 season (47.2%) and against influenza A(H1N1) (42.4%). Notably, subgroup analyses revealed significantly higher VE among females, individuals without underlying disease (49.2%), those presenting with high fever (&gt;39&#xb0;C, 44.3%), and within 90&#x2009;d post-vaccination (52.3%). These findings affirm the moderate protective effect of influenza vaccines in the older individuals and strongly support the critical importance of timely annual vaccination ahead of ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo conduzido em Jiaxing, na China, entre 2022 e 2025 avaliou a eficácia da vacinação anual contra a influenza em adultos com 60 anos ou mais, um grupo particularmente vulnerável a complicações da doença. Utilizando um *design* de caso-controle com teste negativo, pesquisadores analisaram dados de 3.214 pacientes que apresentavam sintomas respiratórios agudos, dos quais 42,5% haviam recebido a vacina contra a gripe no período. Os resultados demonstraram uma eficácia vacinal (EV) ajustada de 42,5% (IC 95%: 31,2–51,9) na prevenção de casos confirmados laboratorialmente, indicando uma proteção moderada.\n\nA proteção variou conforme a temporada e o subtipo viral. Na temporada 2024-2025, a EV atingiu 47,2%, enquanto contra o vírus influenza A(H1N1), a eficácia foi de 42,4%. Análises de subgrupos revelaram diferenças significativas: mulheres apresentaram maior proteção, assim como indivíduos sem doenças crônicas subjacentes (EV de 49,2%) e aqueles com febre alta (>39°C, 44,3%). Além disso, a vacinação mostrou-se mais efetiva quando administrada até 90 dias antes do início dos sintomas (EV de 52,3%). Esses achados reforçam a importância da imunização anual e oportuna nesse grupo etário.\n\nApesar dos resultados promissores, o estudo apresenta limitações inerentes ao *design* empregado, como a possibilidade de viés de seleção ou confusão residual não mensurada. Além disso, as variantes virais circulantes e a cobertura vacinal da população podem influenciar os achados, sendo necessária cautela na extrapolação para outras regiões ou contextos epidemiológicos. O trabalho não detalha a distribuição dos subtipos de influenza A(H3N2) ou B, nem o impacto da coinfecção com outros patógenos respiratórios. Como próximos passos, os autores destacam a necessidade de estudos longitudinais que avaliem a duração da proteção vacinal e a eficácia em populações com comorbidades específicas.\n\n---\n\n**English version**\n\nA study conducted in Jiaxing, China, from 2022 to 2025 assessed the annual influenza vaccine effectiveness (VE) in adults aged 60 years or older—a population at heightened risk of severe influenza complications. Using a test-negative case-control design, researchers analyzed data from 3,214 patients with acute respiratory symptoms, 42.5% of whom had received the seasonal influenza vaccine. The adjusted VE was 42.5% (95% CI: 31.2–51.9) against laboratory-confirmed influenza, indicating moderate protection.\n\nProtection varied by season and viral subtype. During the 2024–2025 season, VE reached 47.2%, while against influenza A(H1N1), it was 42.4%. Subgroup analyses revealed significantly higher VE among females, individuals without underlying chronic diseases (49.2%), those presenting with high fever (>39°C, 44.3%), and within 90 days post-vaccination (52.3%). These findings underscore the importance of timely annual vaccination in this age group.\n\nHowever, the study has inherent limitations tied to its design, including potential selection bias or residual confounding. The circulating viral variants and regional vaccination coverage may also influence the results, warranting caution in generalizing findings to other settings. The paper does not report data on influenza A(H3N2) or B subtypes separately, nor the impact of co-circulating respiratory pathogens. Future research should prioritize longitudinal studies to evaluate the durability of vaccine-induced protection and VE in high-risk subgroups with comorbidities.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42202217",
-    "authors": [
-      {
-        "name": "Yang Liu",
-        "affiliation": "Department of Infectious Diseases Control and Prevention, Jiaxing Center for Disease Control and Prevention, Jiaxing, Zhejiang, China."
-      },
-      {
-        "name": "Xiaofei Fu",
-        "affiliation": "Department of Infectious Diseases Control and Prevention, Jiaxing Center for Disease Control and Prevention, Jiaxing, Zhejiang, China."
-      },
-      {
-        "name": "Yuanhang Wang",
-        "affiliation": "Department of Infectious Diseases Control and Prevention, Jiaxing Center for Disease Control and Prevention, Jiaxing, Zhejiang, China."
-      },
-      {
-        "name": "Lei Jia",
-        "affiliation": "Department of Infection Control and Public Health, Affiliated Hospital of Jiaxing University (The First Hospital of Jiaxing), Jiaxing, Zhejiang, China."
-      }
-    ],
-    "journal": "Human vaccines &amp; immunotherapeutics",
-    "publishedDate": "2026-07-17",
-    "fetchedDate": "2026-09-01",
-    "category": "Imunologia",
-    "tags": [
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6VsJ4g-2kFHot-a4f83a656d02e178\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 505681fe-93b8-4eaa-b9f4-fc859110a7c0)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
