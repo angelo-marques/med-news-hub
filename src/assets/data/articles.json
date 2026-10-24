@@ -1,5 +1,178 @@
 [
   {
+    "id": "pubmed-42912973",
+    "pmid": "42912973",
+    "doi": "10.26635/6965.7288",
+    "title": "Molecular profiling of ovarian cancer is feasible and provides valuable therapeutic and research information to women in Aotearoa New Zealand.",
+    "titlePt": "Molecular profiling of ovarian cancer is feasible and provides valuable therapeutic and research information to women in Aotearoa New Zealand.",
+    "abstract": "Molecular profiling of ovarian cancer is feasible and provides valuable therapeutic and research information to women in Aotearoa New Zealand. Sixteen women consecutively diagnosed with apparent advanced ovarian, fallopian tube or primary peritoneal cancer underwent molecular profiling as part of INOVATe (Individualised Ovarian Cancer Treatment through Integration of Genomic Pathology into Multidisciplinary Care), an ovarian cancer precision medicine programme conducted in New South Wales, Australia. All eligible women who were approached agreed to participate in the study. Molecular profiling was successfully undertaken on tumour tissue samples stored after primary surgery and in two of three core biopsy samples. Six of 9 women (67%) with high-grade serous ovarian carcinoma had tumour samples classified as having homologous recombination deoxyribonucleic acid (DNA) repair deficiency, an alteration that predicts response to poly (ADP-ribose) polymerase inhibitors. Overall, 7/15 (47%) w",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42912973",
+    "authors": [
+      {
+        "name": "Bryony Simcock",
+        "affiliation": "Senior Lecturer, Department of Obstetrics and Gynaecology, University of Otago, Christchurch, New Zealand; Gynaecological Oncologist, Department of Obstetrics and Gynaecology, Health New Zealand - Te Whatu Ora Waitaha, Christchurch, New Zealand."
+      },
+      {
+        "name": "Michelle Wilson",
+        "affiliation": "Medical Oncologist, The University of Auckland, Auckland, New Zealand; Medical Oncologist, Department of Oncology, Health New Zealand - Te Whatu Ora Te Toka Tumai, Auckland, New Zealand."
+      },
+      {
+        "name": "Michelle Vaughan",
+        "affiliation": "Medical Oncologist, Department of Oncology, Health New Zealand - Te Whatu Ora Waitaha, Christchurch, New Zealand."
+      },
+      {
+        "name": "Pete Sykes",
+        "affiliation": "Senior Lecturer, Department of Obstetrics and Gynaecology, University of Otago, Christchurch, New Zealand; Gynaecological Oncologist, Department of Obstetrics and Gynaecology, Health New Zealand - Te Whatu Ora Waitaha, Christchurch, New Zealand."
+      }
+    ],
+    "journal": "The New Zealand medical journal",
+    "publishedDate": "2026-10-23",
+    "fetchedDate": "2026-10-24",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "carcinoma",
+      "genomic",
+      "dna",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6ShAEX-2kFHot-a4f4cd461e4afb3e\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: d824fe8b-d6aa-4718-99cd-e65c3a4a7647)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42909684",
+    "pmid": "42909684",
+    "doi": "10.1007/s11033-026-13054-5",
+    "title": "Biomarkers and future directions for immunotherapy in microsatellite-stable colorectal cancer: a systematic review.",
+    "titlePt": "Biomarkers and future directions for immunotherapy in microsatellite-stable colorectal cancer: a systematic review.",
+    "abstract": "The mechanisms of resistance to immune checkpoint inhibitors (ICIs) in microsatellite-stable (MSS) colorectal cancer (CRC) have 3 interconnected levels, which provide information to guide different biomarker strategies. There is a critical clinical need, as objective response rates continue to be &lt;&#x2009;10%. We suggest a biomarker stratification model on the basis of clinical actionability. POLE/POLD1 mutations, recommended by the NCCN Clinical Practice Guidelines in Oncology for Colon Cancer (Version 1.2025), represent true genomic \"hard\" indicators. While the benefit of ICI-containing combination regimens was predicted by the Immunoscore-IC in the AtezoTRIBE trial, the ANICCA-class II study recently questioned the value of anti-PD-1 monotherapy. Defects in homologous recombination repair HRR), ctDNA kinetics and subtyping of CMS1 show promise but need to be prospectively validated. TMB, however, has shown no consistent value as a single biomarker, and MSIs, such as transcriptomi",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42909684",
+    "authors": [
+      {
+        "name": "Jiaju Xu",
+        "affiliation": "Department of Medical Oncology, Tai'an City Central Hospital, Tai'an, 271000, Shandong, China. jiajuxu1101@163.com."
+      },
+      {
+        "name": "Chunxiao Ni",
+        "affiliation": "Department of Minimally Invasive Oncology, Tai'an City Central Hospital, Tai'an, 271000, Shandong Province, China."
+      },
+      {
+        "name": "Ping Wang",
+        "affiliation": "Department of Medical Oncology, Tai'an City Central Hospital, Tai'an, 271000, Shandong, China."
+      },
+      {
+        "name": "Lidong Qin",
+        "affiliation": "Department of Medical Oncology, Tai'an City Central Hospital, Tai'an, 271000, Shandong, China."
+      }
+    ],
+    "journal": "Molecular biology reports",
+    "publishedDate": "2026-10-23",
+    "fetchedDate": "2026-10-24",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "oncology",
+      "immunotherapy",
+      "genomic",
+      "dna"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6ShChn-2kFHot-a4f4cd79fe4698a2\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 186e70e6-ad19-4b94-9652-f6a81259352b)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42911706",
+    "pmid": "42911706",
+    "doi": "10.1021/acs.jmedchem.6c01446",
+    "title": "Discovery of 4-Aminoquinazoline Derivatives as Potent PKMYT1 Inhibitors via Hydrogen Bond Donor-To-Acceptor Conversion for CCNE1-Amplified Cancers.",
+    "titlePt": "Discovery of 4-Aminoquinazoline Derivatives as Potent PKMYT1 Inhibitors via Hydrogen Bond Donor-To-Acceptor Conversion for CCNE1-Amplified Cancers.",
+    "abstract": "PKMYT1 is a critical regulator of the cell cycle and has emerged as a promising synthetic lethal target for CCNE1-amplified cancers. In this study, we report the design, synthesis, and biological evaluation of a novel series of 4-aminoquinazoline-based PKMYT1 inhibitors. A hydrogen bond donor-to-acceptor conversion strategy was successfully employed to reduce the hydrogen bond donor (HBD) count, thereby improving the drug-likeness of this series. Among them, compound 12f exhibited nanomolar inhibitory activity against PKMYT1 and potent antiproliferative activity in the OVCAR-3 ovarian cancer cell line. Furthermore, compound 12f demonstrated synergistic antiproliferative effects when combined with PARP inhibitors. Along with an acceptable oral pharmacokinetic profile, compound 12f demonstrated robust in vivo efficacy in OVCAR-3 xenograft models. Notably, compound 12f was well-tolerated, demonstrating no significant body weight loss or apparent toxicity to major organs. Collectively, the",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42911706",
+    "authors": [
+      {
+        "name": "Haixiang Qi",
+        "affiliation": "State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute of Materia Medica, Chinese Academy of Medical Sciences &amp; Peking Union Medical College, Beijing100050, China."
+      },
+      {
+        "name": "Rui Lu",
+        "affiliation": "Beijing Key Laboratory of Small Molecule Immuno-Oncology Drug Discovery and Translational Development, Institute of Materia Medica, Chinese Academy of Medical Sciences &amp; Peking Union Medical College, Beijing100050, China."
+      },
+      {
+        "name": "Yifei Zhu",
+        "affiliation": "State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute of Materia Medica, Chinese Academy of Medical Sciences &amp; Peking Union Medical College, Beijing100050, China."
+      },
+      {
+        "name": "Shuang Shang",
+        "affiliation": "Beijing Key Laboratory of New Drug Mechanisms and Pharmacological Evaluation Study (BZ0150), Institute of Materia Medica, Chinese Academy of Medical Sciences &amp; Peking Union Medical College, Beijing100050, P. R. China."
+      }
+    ],
+    "journal": "Journal of medicinal chemistry",
+    "publishedDate": "2026-10-23",
+    "fetchedDate": "2026-10-24",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "drug"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6Shu4L-2kFHot-a4f4d0ca3b11edb1\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: d5c74127-8a80-4ace-b5ce-5de8cc61783c)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42910585",
+    "pmid": "42910585",
+    "doi": "10.1080/14622416.2026.2752197",
+    "title": "Bridging drug labels and precision medicine: pharmacogenomic opportunities in recent US-FDA drug approvals.",
+    "titlePt": "Bridging drug labels and precision medicine: pharmacogenomic opportunities in recent US-FDA drug approvals.",
+    "abstract": "Pharmacogenomics (PGx) information in US-FDA drug labels supports precision prescribing. This study aimed to quantify the proportion of recent US-FDA-approved drug labels containing PGx information, identify additional drugs with potential PGx relevance through mechanistic pathway analysis, and assess the availability of US-FDA-approved companion diagnostic tests. Novel systemic drugs approved by the US-FDA between 1 January 2021 and 31 December 2025 were identified. Drug labels were evaluated using the FDA Table of Pharmacogenomic Biomarkers in Drug Labeling. Drugs without labeled PGx information were assessed for potential PGx relevance through evaluation of metabolic enzymes and transporter pathways using CPIC, DPWG, and PharmGKB. Availability of US-FDA-approved companion diagnostic tests was recorded. Of the 206 novel drugs included, 85 (41%) contained PGx information, with oncology representing the largest therapeutic area. Mechanistic pathway analysis identified an additional 13 ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42910585",
+    "authors": [
+      {
+        "name": "Shubhkarman Jit Singh Dhillon",
+        "affiliation": "Department of Pharmacology, Government Medical College and Hospital, Chandigarh, India."
+      },
+      {
+        "name": "Harmanjit Singh",
+        "affiliation": "Department of Pharmacology, Government Medical College and Hospital, Chandigarh, India."
+      },
+      {
+        "name": "Jasmine Kaur",
+        "affiliation": "Department of Pharmacology, Government Medical College and Hospital, Chandigarh, India."
+      },
+      {
+        "name": "Farideh Javid",
+        "affiliation": "Department of Pharmacology, School of Applied Sciences, University of Huddersfield, Huddersfield, UK."
+      }
+    ],
+    "journal": "Pharmacogenomics",
+    "publishedDate": "2026-10-23",
+    "fetchedDate": "2026-10-24",
+    "category": "Farmacologia",
+    "tags": [
+      "oncology",
+      "genomic",
+      "drug",
+      "therapeutic",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6ShwVQ-2kFHot-a4f4d0fd8a8279cf\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 202a01aa-4046-4b83-967f-53f9718bf4bc)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42908603",
     "pmid": "42908603",
     "doi": "10.3389/fonc.2026.1941788",
@@ -12271,167 +12444,5 @@
     "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42467374",
-    "pmid": "42467374",
-    "doi": "10.1007/s11523-026-01231-2",
-    "title": "From Recommendation to Implementation: Clinical Outcomes of a Single-Center Molecular Tumor Board.",
-    "titlePt": "From Recommendation to Implementation: Clinical Outcomes of a Single-Center Molecular Tumor Board.",
-    "abstract": "Molecular tumor boards (MTBs) support precision oncology by translating genomic profiling into evidence-based treatment recommendations, for example according to the European Society for Medical Oncology Scale for Clinical Actionability of molecular Targets (ESCAT). Their clinical utility in real-world care depends on effective implementation within healthcare systems. To evaluate the implementation rate of MTB recommendations, associated determinants, and clinical outcomes in a real-world single-center cohort. At a single-center MTB, 582 consecutive cases (2020-2023) were retrospectively analyzed, with last survival follow-up in August 2025. Patient demographics, tumor characteristics, genomic alterations, ESCAT and ZPM (Zentrum f&#xfc;r Personalisierte Medizin) evidence levels, targeted therapy recommendation and implementation rates, survival outcomes, and barriers to implementation were evaluated using descriptive and inferential statistics, as appropriate. Of 582 patients (median ",
-    "journalisticSummary": "**Versão em português**\n\nUm estudo retrospectivo conduzido em um centro alemão analisou a eficácia de um *Molecular Tumor Board* (MTB) na implementação de terapias alvo personalizadas para pacientes oncológicos. Publicado no periódico *Targeted Oncology*, o trabalho avaliou 582 casos consecutivos entre 2020 e 2023, com acompanhamento de sobrevida até agosto de 2025. Os pesquisadores investigaram taxas de implementação de recomendações baseadas em perfis genômicos, fatores associados à adoção dessas orientações e desfechos clínicos, utilizando critérios como o *ESCAT* (European Society for Medical Oncology Scale for Clinical Actionability of molecular Targets) e o *ZPM* (Zentrum für Personalisierte Medizin) para hierarquizar evidências.\n\nOs resultados revelaram que 32% dos pacientes receberam recomendações de terapia alvo após análise molecular, mas apenas 15% efetivamente iniciaram o tratamento proposto. Entre os principais obstáculos para a implementação, destacaram-se a ausência de protocolos clínicos padronizados, limitações de acesso a medicamentos experimentais ou off-label e a progressão da doença antes do início da terapia. Pacientes com tumores sólidos metastáticos e alterações genéticas classificadas como ESCAT I ou II apresentaram maior probabilidade de adesão às recomendações. No entanto, a sobrevida global não diferiu significativamente entre os grupos que receberam ou não terapia alvo, embora análises subsequentes devam considerar vieses de seleção e heterogeneidade tumoral.\n\nOs autores ressaltam a necessidade de integrar MTBs de forma sistemática aos fluxos assistenciais, com políticas públicas que facilitem o acesso a terapias personalizadas e monitoramento contínuo de desfechos. A falta de dados sobre eventos adversos e custos associados limita a análise de custo-efetividade, aspecto que requer investigação adicional. Os próximos passos incluem a expansão do estudo para múltiplos centros e o desenvolvimento de algoritmos preditivos para priorizar pacientes com maior potencial de benefício.\n\n---\n\n**English version**\n\nA retrospective study from a German center assessed the real-world effectiveness of a *Molecular Tumor Board* (MTB) in implementing personalized targeted therapies for cancer patients. Published in *Targeted Oncology*, the research analyzed 582 consecutive cases from 2020 to 2023, with survival follow-up through August 2025. Investigators evaluated the implementation rates of genomics-based treatment recommendations, determinants influencing adoption, and clinical outcomes using frameworks such as the *ESCAT* (European Society for Medical Oncology Scale for Clinical Actionability of molecular Targets) and *ZPM* (Zentrum für Personalisierte Medizin) evidence tiers.\n\nFindings showed that 32% of patients received targeted therapy recommendations after molecular profiling, yet only 15% actually initiated the proposed treatment. Key barriers to implementation included the absence of standardized clinical protocols, restricted access to experimental or off-label drugs, and disease progression prior to therapy initiation. Patients with metastatic solid tumors and ESCAT I or II alterations were more likely to adhere to recommendations. However, overall survival did not significantly differ between those who received targeted therapy and those who did not, though further analyses must account for selection biases and tumor heterogeneity.\n\nThe authors emphasize the need to systematically integrate MTBs into care pathways, alongside public policies that improve access to personalized therapies and continuous outcome monitoring. Missing data on adverse events and associated costs preclude a robust cost-effectiveness analysis, a gap that warrants further investigation. Future steps include expanding the study to a multicenter setting and developing predictive algorithms to prioritize patients most likely to benefit.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42467374",
-    "authors": [
-      {
-        "name": "Tabea Fr&#xf6;hlich",
-        "affiliation": "Center for Personalized Medicine (Zentrum f&#xfc;r Personalisierte Medizin, ZPM), Comprehensive Cancer Center (CCC) Hannover (Claudia von Schilling Center), Hannover Medical School, Hannover, Germany."
-      },
-      {
-        "name": "Ulrich Lehmann",
-        "affiliation": "Department of Hematology, Hemostasis, Oncology and Cell Therapy, Hannover Medical School, Hannover, Germany."
-      },
-      {
-        "name": "Tanja Reineke-Plaa&#xdf;",
-        "affiliation": "PRACTIS Clinician Scientist Program, Dean's Office for Academic Career Development, Hannover Medical School, Hannover, Germany."
-      },
-      {
-        "name": "Thomas Wirth",
-        "affiliation": "Center for Personalized Medicine (Zentrum f&#xfc;r Personalisierte Medizin, ZPM), Comprehensive Cancer Center (CCC) Hannover (Claudia von Schilling Center), Hannover Medical School, Hannover, Germany."
-      }
-    ],
-    "journal": "Targeted oncology",
-    "publishedDate": "2026-07-17",
-    "fetchedDate": "2026-07-17",
-    "category": "Oncologia",
-    "tags": [
-      "tumor",
-      "oncology",
-      "genomic"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42464692",
-    "pmid": "42464692",
-    "doi": "10.1080/14728222.2026.2706463",
-    "title": "The evolving bioinformatic approaches to identifying genetic targets of promise in cancers.",
-    "titlePt": "The evolving bioinformatic approaches to identifying genetic targets of promise in cancers.",
-    "abstract": "The search for actionable genetic targets in cancer has evolved substantially over the past decade. Earlier approaches were focused on single genes or individual molecular alterations, but this is insufficient to capture tumor complexity in vivo. Cancer is influenced not only by genomic changes but also by transcriptional plasticity, epigenetic regulation, protein activity, metabolic adaptation, and dynamic interactions with the tumor microenvironment. Consequently, bioinformatic target discovery has shifted toward integrative, systems-level models of tumor biology. This article discusses the evolution of bioinformatic approaches for cancer target identification, underscoring key achievements and persistent challenges. Advances from 2018-2025 are analyzed, including multi-omics integration, single-cell sequencing, and functional genomics, which enhance the identification of context-dependent molecular vulnerabilities. Also, the role of machine learning in analyzing large-scale datasets",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nA identificação de alvos genéticos clinicamente relevantes em câncer tem passado por uma transformação profunda nos últimos anos, impulsionada pela crescente complexidade dos tumores e pela limitação dos métodos tradicionais, que se concentravam em alterações moleculares isoladas. Estudos recentes demonstram que a biologia tumoral é influenciada por múltiplos fatores interconectados, incluindo plasticidade transcricional, regulação epigenética, atividade proteica, adaptação metabólica e interações dinâmicas com o microambiente tumoral. Nesse contexto, abordagens bioinformáticas mais robustas e integrativas têm se tornado essenciais para mapear vulnerabilidades moleculares dependentes do contexto, superando a abordagem reducionista anterior.\n\nEntre as principais inovações destacam-se a integração de multi-ômicas, a aplicação de sequenciamento de célula única e o uso de genômica funcional, que juntos permitem uma análise mais holística do câncer. A integração de dados de genoma, transcriptoma, proteoma e metaboloma possibilita a identificação de assinaturas moleculares associadas a respostas terapêuticas ou à progressão da doença. Além disso, técnicas como o CRISPR-Cas9 em bibliotecas de alto rendimento têm possibilitado a descoberta de genes essenciais em diferentes contextos tumorais, enquanto o sequenciamento de célula única revela a heterogeneidade intratumoral, um fator crítico para a resistência a tratamentos convencionais.\n\nA aplicação de algoritmos de *machine learning* e inteligência artificial tem sido fundamental para lidar com a vastidão de dados gerados por essas tecnologias. Modelos preditivos baseados em aprendizado de máquina permitem não apenas a identificação de alvos potenciais, mas também a priorização deles com base em critérios como viabilidade terapêutica e probabilidade de resposta clínica. No entanto, apesar dos avanços, persistem desafios significativos, como a interpretação biológica dos dados complexos, a necessidade de validação experimental robusta e a integração de informações provenientes de diferentes plataformas tecnológicas.\n\nEmbora o período de 2018 a 2025 tenha testemunhado progressos notáveis, a tradução desses achados em aplicações clínicas ainda enfrenta barreiras, incluindo a falta de padronização metodológica e a dificuldade em replicar resultados em coortes independentes. Além disso, não foi informado no estudo revisado se houve validação clínica de algum alvo específico identificado por essas abordagens. Os próximos passos incluem o desenvolvimento de bancos de dados mais integrados, a colaboração entre centros de pesquisa e a implementação de ensaios clínicos direcionados que testem a eficácia desses alvos em pacientes.\n\n---\n\n**English version**\n\nThe identification of clinically relevant genetic targets in cancer has undergone a profound transformation in recent years, driven by the growing complexity of tumors and the limitations of traditional methods, which focused on isolated molecular alterations. Recent studies show that tumor biology is influenced by multiple interconnected factors, including transcriptional plasticity, epigenetic regulation, protein activity, metabolic adaptation, and dynamic interactions with the tumor microenvironment. In this context, more robust and integrative bioinformatic approaches have become essential for mapping context-dependent molecular vulnerabilities, surpassing the previous reductionist approach.\n\nAmong the key innovations are multi-omics integration, the application of single-cell sequencing, and the use of functional genomics, which together enable a more holistic analysis of cancer. The integration of genome, transcriptome, proteome, and metabolome data allows for the identification of molecular signatures associated with therapeutic responses or disease progression. Additionally, techniques such as CRISPR-Cas9 in high-throughput libraries have enabled the discovery of essential genes in different tumor contexts, while single-cell sequencing reveals intratumoral heterogeneity—a critical factor in resistance to conventional treatments.\n\nThe application of machine learning algorithms and artificial intelligence has been crucial for handling the vast amounts of data generated by these technologies. Predictive models based on machine learning not only identify potential targets but also prioritize them based on criteria such as therapeutic feasibility and likelihood of clinical response. However, despite these advances, significant challenges remain, including the biological interpretation of complex data, the need for robust experimental validation, and the integration of information from different technological platforms.\n\nWhile the period from 2018 to 2025 has witnessed remarkable progress, translating these findings into clinical applications still faces barriers, including the lack of methodological standardization and the difficulty in replicating results in independent cohorts. Furthermore, the reviewed study does not specify whether any specific target identified through these approaches has undergone clinical validation. Future directions include the development of more integrated databases, collaboration among research centers, and the implementation of targeted clinical trials to test the efficacy of these targets in patients.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42464692",
-    "authors": [
-      {
-        "name": "Vijay Kumar",
-        "affiliation": "Amity Institute of Biotechnology (AIB), Amity University, Noida, India."
-      },
-      {
-        "name": "Darin Mansor Mathkor",
-        "affiliation": "Department of Nursing, College of Nursing and Health Sciences, Jazan University, Jazan, Saudi Arabia."
-      },
-      {
-        "name": "Shafiul Haque",
-        "affiliation": "Department of Nursing, College of Nursing and Health Sciences, Jazan University, Jazan, Saudi Arabia."
-      }
-    ],
-    "journal": "Expert opinion on therapeutic targets",
-    "publishedDate": "2026-07-17",
-    "fetchedDate": "2026-07-17",
-    "category": "Genômica",
-    "tags": [
-      "cancer",
-      "tumor",
-      "genomic",
-      "genetic",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42057665",
-    "pmid": "42057665",
-    "doi": "10.1080/07853890.2026.2662627",
-    "title": "Effect of intensive versus standard blood pressure control on cardiovascular outcomes: a meta-analysis of randomized controlled trials.",
-    "titlePt": "Effect of intensive versus standard blood pressure control on cardiovascular outcomes: a meta-analysis of randomized controlled trials.",
-    "abstract": "This meta-analysis systematically evaluated the impact of intensive (typically targeting systolic BP [SBP] &lt;120 or &lt;130 mmHg) versus standard (typically targeting SBP &lt;140 mmHg) blood pressure control on cardiovascular outcomes in patients with hypertension. Relevant randomized controlled trials (RCTs) published up to May 2025 were identified through systematic searches of PubMed, Embase, Web of Science, and the Cochrane Library. A random-effects model was used to calculate pooled relative risks (RRs) with 95% confidence intervals (CIs). Thirty-one RCTs involving a total of 156,933 participants (mean age range of trial populations: 36.6 to 83.6 years; proportion of male participants: 34.5% to 69.4%; follow-up duration: 1.8 to 19.3 years) were included in the final meta-analysis. Compared to standard blood pressure control, intensive control significantly reduced the risk of major cardiovascular events (RR: 0.80; 95% CI: 0.75-0.84; p &lt; 0.001), myocardial infarction (RR: 0.83",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42057665",
-    "authors": [
-      {
-        "name": "Qiu Gao",
-        "affiliation": "Department of Cardiology, Yixing People's Hospital, Yixing, Jiangsu Province, China."
-      },
-      {
-        "name": "Yanni Ji",
-        "affiliation": "Department of Cardiology, Yixing People's Hospital, Yixing, Jiangsu Province, China."
-      }
-    ],
-    "journal": "Annals of medicine",
-    "publishedDate": "2026-07-16",
-    "fetchedDate": "2026-10-23",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "myocardial",
-      "hypertension"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6QhHtx-2kFHot-a4f2a556996cb1eb\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: a812b08d-77ae-41a7-b9e6-80113a1a8477)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42081954",
-    "pmid": "42081954",
-    "doi": "10.1016/j.jep.2026.121780",
-    "title": "Multitargeted synergistic mechanisms of Salvia miltiorrhiza and its bioactive compounds: A review.",
-    "titlePt": "Multitargeted synergistic mechanisms of Salvia miltiorrhiza and its bioactive compounds: A review.",
-    "abstract": "Salvia miltiorrhiza Bunge (S. miltiorrhiza) is a traditional Chinese medicinal herb highly valued both locally and globally for its ability to improve blood circulation, resolve blood stasis, nourish heart blood, alleviate hernia pain, calm the mind, and support tumor treatment. Recently, extensive research has explored the potential of S. miltiorrhiza and its active compounds in treating cardiovascular diseases, neurodegenerative disorders, and cancer. This review aims to elucidate the synergistic effects of S. miltiorrhiza and its bioactive constituents across various stages of cardiovascular diseases, neurodegenerative disorders, and cancer progression by summarizing the key targets and signaling pathways involved. A comprehensive search was conducted across PubMed, Web of Science, EMBASE, the Cochrane Library, SpringerLink, Elsevier, and the China National Knowledge Infrastructure (CNKI). The keywords employed included \"cardiovascular protection\", \"neuroprotection\", \"anti-cancer\", ",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42081954",
-    "authors": [
-      {
-        "name": "Yihang Wang",
-        "affiliation": "School of Nursing, Wuhan University, Wuhan, 430072, China."
-      },
-      {
-        "name": "Jing Wu",
-        "affiliation": "School of Nursing, Wuhan University, Wuhan, 430072, China."
-      },
-      {
-        "name": "Ying Lai",
-        "affiliation": "School of Nursing, Wuhan University, Wuhan, 430072, China."
-      },
-      {
-        "name": "Dangwei Li",
-        "affiliation": "School of Nursing, Wuhan University, Wuhan, 430072, China. Electronic address: ldw926@whu.edu.cn."
-      }
-    ],
-    "journal": "Journal of ethnopharmacology",
-    "publishedDate": "2026-07-16",
-    "fetchedDate": "2026-09-01",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "cardiovascular",
-      "heart",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"oyWLjF4-2kFHot-a34292bb5c62e5f1\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 503: upstream connect error or disconnect/reset before headers. reset reason: connection timeout | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
