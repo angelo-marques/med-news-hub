@@ -12401,43 +12401,44 @@
     "aiProvider": "Mistral"
   },
   {
-    "id": "pubmed-42143213",
-    "pmid": "42143213",
-    "doi": "10.1080/07853890.2026.2673631",
-    "title": "Endovascular thrombectomy versus best medical therapy for acute vertebrobasilar artery occlusion in patients with low NIHSS scores: a&#xa0;meta-analysis.",
-    "titlePt": "Endovascular thrombectomy versus best medical therapy for acute vertebrobasilar artery occlusion in patients with low NIHSS scores: a&#xa0;meta-analysis.",
-    "abstract": "The efficacy of endovascular thrombectomy (EVT) for acute vertebrobasilar artery occlusion (VBAO) presenting with mild symptoms (National Institutes of Health Stroke Scale [NIHSS] score &#x2264;10) remains uncertain. This meta-analysis aimed to compare the effectiveness and safety of EVT versus best medical therapy (BMT) in this population. We systematically searched PubMed, Embase, and the Cochrane Central Register of Controlled Trials from inception to September 2025 for comparative studies. The primary outcome was 90-day excellent functional outcome (modified Rankin Scale [mRS] score 0-1). Secondary outcomes included functional independence (mRS 0-2), symptomatic intracranial hemorrhage (sICH), and all-cause mortality. Pooled odds ratios (OR) with 95% confidence intervals (CI) were calculated using a random-effects model. Seven observational studies involving 3,107 patients were included. In unadjusted analyses, EVT was associated with a higher rate of excellent functional outcome (",
+    "id": "pubmed-42223336",
+    "pmid": "42223336",
+    "doi": "10.1080/13696998.2026.2678778",
+    "title": "Cost-effectiveness analysis of apixaban compared with other oral anticoagulants for the treatment of non-valvular atrial fibrillation in a Belgian healthcare setting.",
+    "titlePt": "Cost-effectiveness analysis of apixaban compared with other oral anticoagulants for the treatment of non-valvular atrial fibrillation in a Belgian healthcare setting.",
+    "abstract": "Direct oral anticoagulants (DOACs) are recommended for stroke and systemic embolism prevention in patients with non-valvular atrial fibrillation (NVAF) in preference to vitamin K antagonists (VKAs, e.g. warfarin). This study assessed the cost-effectiveness of apixaban versus warfarin, dabigatran, edoxaban, and rivaroxaban for patients with NVAF from the Belgian payer perspective. Based on a previously-validated model, a lifetime cohort-level Markov model was built in Microsoft Excel for the Belgian setting, incorporating costs (2025) representative of a DOAC market following patent expiry. The cohort (n&#x2009;=&#x2009;1,000) included patients with NVAF eligible for oral anticoagulation. Different study types provided clinical inputs for event risk in the base case analysis (based on a network meta-analysis of randomised controlled trials) and in a scenario analysis (based on real-world evidence). The primary model outcome was the incremental cost-effectiveness ratio (ICER), measured b",
     "imagePlaceholder": true,
     "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42143213",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42223336",
     "authors": [
       {
-        "name": "Yaqin Qin",
-        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
+        "name": "Hannah Goovaerts",
+        "affiliation": "Pfizer NV-SA, Brussels, Belgium."
       },
       {
-        "name": "Zhuo Min",
-        "affiliation": "Department of Neurology and Centre for Clinical Neuroscience, Daping Hospital, Army Medical Centre of PLA, Army Medical University, Chongqing, China."
+        "name": "Rupesh Subash",
+        "affiliation": "Pfizer Ltd, Surrey, UK."
       },
       {
-        "name": "Guangxin Sun",
-        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
+        "name": "Chloe Salter",
+        "affiliation": "Health Economics and Outcomes Research Ltd, Cardiff, UK."
       },
       {
-        "name": "Hui Xu",
-        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
+        "name": "Carissa Dickerson",
+        "affiliation": "Health Economics and Outcomes Research Ltd, Cardiff, UK."
       }
     ],
-    "journal": "Annals of medicine",
+    "journal": "Journal of medical economics",
     "publishedDate": "2026-07-17",
     "fetchedDate": "2026-10-24",
-    "category": "Neurologia",
+    "category": "Cardiologia",
     "tags": [
+      "atrial",
       "stroke"
     ],
     "isHighlight": false,
-    "readTime": 8,
+    "readTime": 6,
     "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6ZALFu-2kFHot-a4fbc8663a71acf4\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 6322bdf0-5eff-4d09-905c-78abea7eefd4)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6Zv2Yn-2kFHot-a4fc988a0b2514b6\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 9dd18de0-1b03-4efc-9bbd-f46dee198349)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
