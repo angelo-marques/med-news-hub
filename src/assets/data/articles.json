@@ -1,5 +1,168 @@
 [
   {
+    "id": "pubmed-42926841",
+    "pmid": "42926841",
+    "doi": "10.1016/j.omton.2026.201355",
+    "title": "A novel spliceosome inhibitor triggers anti-tumor CD4+ and CD8+ T cell responses in murine models of pediatric-relevant cancer.",
+    "titlePt": "A novel spliceosome inhibitor triggers anti-tumor CD4+ and CD8+ T cell responses in murine models of pediatric-relevant cancer.",
+    "abstract": "Immunotherapy has been proved to have a high potential to change the outcomes of patients with advanced cancer. However, the efficacy of immune checkpoint inhibitors in most classical pediatric cancers remains limited, underscoring the need for other novel immunomodulatory strategies, such as small-molecule agents, either synthetically derived or isolated from natural sources, which can modulate intracellular immune pathways. Among these, spliceosome inhibitors have emerged as a promising class of compounds capable of reshaping the tumor antigenic landscape. We developed a new generation of spliceosome-targeting molecules that interfere with mRNA processing, enhance major histocompatibility complex class I (MHC-I) and MHC-II expression in tumor cell, and potentiate T cell-mediated immune responses. The new splicing inhibitor BL828 inhibited spliceosome function, upregulated surface MHC-I and MHC-II expression, and induced hallmarks associated with immunogenic cell death in vitro. In ne",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926841",
+    "authors": [
+      {
+        "name": "M&#xe9;lanie Demeules",
+        "affiliation": "Universit&#xe9; Paris-Saclay, INSERM UMR1015, 114 Rue Edouard Vaillant, 94800 Villejuif, France."
+      },
+      {
+        "name": "Boris Letribot",
+        "affiliation": "Universit&#xe9; Paris-Saclay, CNRS, BioCIS, 91400 Orsay, France."
+      },
+      {
+        "name": "Lisa Giraldo",
+        "affiliation": "Universit&#xe9; Paris Cit&#xe9;, INSERM U1342, Institut de Recherche Saint-Louis (IRSL), Paris, France."
+      },
+      {
+        "name": "Congcong Li",
+        "affiliation": "SABNP, Universit&#xe9; Evry, INSERM U1204, Universit&#xe9; Paris-Saclay, 91025 Evry, France."
+      }
+    ],
+    "journal": "Molecular therapy. Oncology",
+    "publishedDate": "2026-10-25",
+    "fetchedDate": "2026-10-25",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "immunotherapy",
+      "gene",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6dek8i-2kFHot-a500a0dd6e4c12ad\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: f874131d-2901-459a-bc8e-23fd5124b043)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42159410",
+    "pmid": "42159410",
+    "doi": "10.1177/1877718X261452869",
+    "title": "Neurobiology of exercise in Parkinson's disease.",
+    "titlePt": "Neurobiology of exercise in Parkinson's disease.",
+    "abstract": "Epidemiological, preclinical, and clinical studies increasingly support exercise as a potent neuroprotective and disease-modifying intervention in Parkinson's disease (PD). Preclinical studies, including toxin- and &#x3b1;-synuclein-based models, using voluntary, forced, and skilled exercise paradigms demonstrate preservation of nigrostriatal dopaminergic neurons, improved motor function, and activation of convergent pathways. Protective processes include upregulation of neurotrophic factors (BDNF, GDNF, VEGF and Irisin), enhanced mitochondrial biogenesis and oxidative resilience, reduced neuroinflammation, improved basal ganglia synaptic plasticity and increased lysosomal functions. Additional emerging mechanisms underlying exercise-induced neuroprotection involve vascular remodeling, pathways regulating cellular oxygen and hypoxia, modulation of the gut microbiome, and epigenetic reprogramming. Importantly, clinical studies mirror these preclinical findings, demonstrating improvement",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42159410",
+    "authors": [
+      {
+        "name": "Tabitha N Rodriguez",
+        "affiliation": "Department of Neuroscience, Thomas Jefferson University, Vickie and Jack Farber Institute of Neuroscience, Philadelphia, PA, USA.6559"
+      },
+      {
+        "name": "Richard J Smeyne",
+        "affiliation": "Department of Neuroscience, Thomas Jefferson University, Vickie and Jack Farber Institute of Neuroscience, Philadelphia, PA, USA.6559"
+      },
+      {
+        "name": "Michelle Smeyne",
+        "affiliation": "Department of Neuroscience, Thomas Jefferson University, Vickie and Jack Farber Institute of Neuroscience, Philadelphia, PA, USA.6559"
+      }
+    ],
+    "journal": "Journal of Parkinson's disease",
+    "publishedDate": "2026-10-24",
+    "fetchedDate": "2026-10-25",
+    "category": "Genômica",
+    "tags": [
+      "parkinson",
+      "genetic",
+      "gene",
+      "microbiome"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6ddpvf-2kFHot-a5009c7edddf12ad\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 21600037-9b3d-4db3-bb4f-c12275fc96f1)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42921463",
+    "pmid": "42921463",
+    "doi": "10.1016/j.ijregi.2026.101021",
+    "title": "Epidemiology and antimicrobial susceptibility of Vibrio cholerae in recurrent cholera outbreaks in Ethiopia: a multicenter study.",
+    "titlePt": "Epidemiology and antimicrobial susceptibility of Vibrio cholerae in recurrent cholera outbreaks in Ethiopia: a multicenter study.",
+    "abstract": "The recurrence of cholera continues to be a public health concern in Ethiopia. The emergence of antimicrobial-resistant Vibrio cholerae strains has complicated case management. Thus, this study aimed to assess the epidemiologic distribution and antimicrobial susceptibility profile of V. cholerae in Ethiopia. A cross-sectional study was conducted among patients in cholera treatment centers and health care facilities in Ethiopia from September 2023 to September 2025. Diarrheic stool and suspected water samples were collected and transported to the Ethiopian Public Health Institute to isolate and confirm V. cholerae using standard microbiology techniques. Antimicrobial susceptibility testing was performed by the Kirby-Bauer disc diffusion and E-test methods in accordance with updated Clinical and Laboratory Standards Institute guidelines. Among 356 stool samples and 30 water samples, 66.3% and 3.3% were culture-positive for V. cholerae, respectively. All isolates were confirmed as V. chol",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42921463",
+    "authors": [
+      {
+        "name": "Zeleke Ayenew",
+        "affiliation": "Aklilu Lemma Institute of Health Research, Addis Ababa University, Addis Ababa, Ethiopia."
+      },
+      {
+        "name": "Alem Abrha Kalayu",
+        "affiliation": "Department of Microbiology, Immunology, and Parasitology, Addis Ababa, Ethiopia."
+      },
+      {
+        "name": "Rajiha Abubeker Ibrahim",
+        "affiliation": "Ethiopian Public Health Institute, Addis Ababa, Ethiopia."
+      },
+      {
+        "name": "Yeshambel Worku Demlie",
+        "affiliation": "Department of Microbiology, Immunology, and Parasitology, Addis Ababa, Ethiopia."
+      }
+    ],
+    "journal": "IJID regions",
+    "publishedDate": "2026-10-24",
+    "fetchedDate": "2026-10-25",
+    "category": "Infectologia",
+    "tags": [
+      "antimicrobial"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6deFuc-2kFHot-a5009e8be8bbfc03\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 6b697270-3c69-4443-a845-86d9e82b170f)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42832826",
+    "pmid": "42832826",
+    "doi": "10.1016/j.euroneuro.2026.113881",
+    "title": "Nutraceuticals and phytoceuticals in the treatment of bipolar disorder: A systematic review and network meta-analysis.",
+    "titlePt": "Nutraceuticals and phytoceuticals in the treatment of bipolar disorder: A systematic review and network meta-analysis.",
+    "abstract": "Nutraceuticals and phytoceuticals are increasingly investigated for bipolar disorder (BD). We conducted a systematic review and network meta-analysis of randomized controlled trials (RCTs). PubMed/MEDLINE, EMBASE, Scopus, PsycINFO, and ClinicalTrials.gov were searched from inception to July 1, 2025. Co-primary outcomes were changes in depressive or manic symptoms (standardized mean difference [SMD]), treatment response, and acceptability (risk ratio [RR]); tolerability and remission (RR) were secondary outcomes. Heterogeneity, transitivity, inconsistency, small-study effects, risk of bias, and confidence in evidence (CINeMA) were assessed. Twenty-eight RCTs (n=2,222) evaluated 22 treatments. No treatment outperformed placebo for depressive symptoms; placebo outperformed palmitoylethanolamide (SMD=2.69, 95% CI 1.43-3.95), based on one trial, amid substantial heterogeneity (I&#xb2;=86%) but no global inconsistency. For manic symptoms, palmitoylethanolamide (SMD=-4.58, 95% CI -6.24 to -2.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42832826",
+    "authors": [
+      {
+        "name": "Michele Fornaro",
+        "affiliation": "Department of Psychiatry, Federico II University of Naples, Naples, Italy. Electronic address: dott.fornaro@gmail.com."
+      },
+      {
+        "name": "Nicolas A Nunez",
+        "affiliation": "Department of Psychiatry &amp; Psychology, Mayo Clinic, Rochester, Minnesota, USA; Department of Psychiatry, University of Utah, Salt Lake City, Utah, USA."
+      },
+      {
+        "name": "Chiara Di Lorenzo",
+        "affiliation": "Department of Advanced Biomedical Science-Legal Medicine Section, University of Naples \"Federico II\", Naples, Italy."
+      },
+      {
+        "name": "Luca Steardo",
+        "affiliation": "Psychiatric Unit, Department of Health Sciences, University Magna Graecia of Catanzaro, Catanzaro, Italy."
+      }
+    ],
+    "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+    "publishedDate": "2026-10-24",
+    "fetchedDate": "2026-10-25",
+    "category": "Genômica",
+    "tags": [
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6deVA2-2kFHot-a5009fa2aaeec277\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: ff4a5bbf-3b3d-45ec-b8ae-92a4874dac35)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42526549",
     "pmid": "42526549",
     "doi": "10.1016/j.jep.2026.122255",
@@ -12281,163 +12444,5 @@
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42449403",
-    "pmid": "42449403",
-    "doi": "10.1186/s12967-026-08649-2",
-    "title": "Severe hyperoxia during VA-ECMO promotes oxidative stress and multi-organ injury in an experimental rat model of septic cardiomyopathy.",
-    "titlePt": "Severe hyperoxia during VA-ECMO promotes oxidative stress and multi-organ injury in an experimental rat model of septic cardiomyopathy.",
-    "abstract": "Severe hyperoxia during venoarterial extracorporeal membrane oxygenation (VA-ECMO) has been associated with adverse clinical outcomes in observational studies. However, causal evidence and optimal oxygen targets remain uncertain. Hyperoxia may exacerbate oxidative stress and organ injury, particularly in the presence of systemic inflammation and ischemic shock. This study aimed to investigate the dose-dependent effects of membrane lung sweep oxygen fraction (FsO&#x2082;) during the early phase of VA-ECMO on systemic oxidative stress and early multi-organ injury markers, and to explore the mechanistic role of reactive oxygen species (ROS) using a rat VA-ECMO model. In this randomized experimental study, Sprague-Dawley rats were divided into normal rats and rats with cardiogenic shock induced by septic cardiomyopathy using LPS. Graded membrane FsO2 levels of 30%, 60%, and 90% were assigned, corresponding to normoxia, moderate hyperoxia, and severe hyperoxia, respectively. At least five a",
-    "journalisticSummary": "A utilização da oxigenação por membrana extracorpórea venoarterial (VA-ECMO) tem sido cada vez mais comum em pacientes críticos, especialmente aqueles com cardiomiopatia séptica. No entanto, a hiperoxia severa durante o procedimento tem sido associada a resultados clínicos adversos. Um estudo recente publicado no PubMed investigou os efeitos da fração de oxigênio no sweep da membrana pulmonar (FsO2) durante a fase inicial da VA-ECMO em um modelo experimental de rato com cardiomiopatia séptica.\n\nOs resultados mostraram que a hiperoxia severa, correspondente a uma FsO2 de 90%, promoveu estresse oxidativo e lesão em múltiplos órgãos nos ratos com cardiomiopatia séptica. Já a normoxia, com uma FsO2 de 30%, e a hiperoxia moderada, com uma FsO2 de 60%, não apresentaram efeitos significativos. Esses achados sugerem que a hiperoxia severa pode exacerbate a lesão orgânica em pacientes com condições inflamatórias e choque isquêmico. No entanto, não foram fornecidos detalhes sobre as limitações do estudo e os próximos passos para investigar os efeitos da hiperoxia na VA-ECMO.\n\nÉ importante notar que o estudo foi realizado em um modelo animal e que os resultados podem não ser diretamente aplicáveis à população humana. Além disso, não foram fornecidos dados sobre a relação entre a hiperoxia e a morbidade ou mortalidade em pacientes submetidos à VA-ECMO. Mais estudos são necessários para determinar os alvos ótimos de oxigênio durante a VA-ECMO e minimizar os riscos associados à hiperoxia severa.\n\nThe use of venoarterial extracorporeal membrane oxygenation (VA-ECMO) has become increasingly common in critically ill patients, especially those with septic cardiomyopathy. However, severe hyperoxia during the procedure has been associated with adverse clinical outcomes. A recent study published in PubMed investigated the effects of membrane lung sweep oxygen fraction (FsO2) during the early phase of VA-ECMO in an experimental rat model of septic cardiomyopathy.\n\nThe results showed that severe hyperoxia, corresponding to an FsO2 of 90%, promoted oxidative stress and multi-organ injury in rats with septic cardiomyopathy. In contrast, normoxia, with an FsO2 of 30%, and moderate hyperoxia, with an FsO2 of 60%, had no significant effects. These findings suggest that severe hyperoxia may exacerbate organ injury in patients with inflammatory conditions and ischemic shock. However, no details were provided on the study's limitations and future steps to investigate the effects of hyperoxia on VA-ECMO.\n\nIt is essential to note that the study was conducted in an animal model, and the results may not be directly applicable to the human population. Additionally, no data were provided on the relationship between hyperoxia and morbidity or mortality in patients undergoing VA-ECMO. Further studies are needed to determine the optimal oxygen targets during VA-ECMO and minimize the risks associated with severe hyperoxia.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42449403",
-    "authors": [
-      {
-        "name": "Tianlong Wang",
-        "affiliation": "Department of Cardiopulmonary Bypass, Fuwai Hospital, State Key Laboratory of Cardiovascular Medicine, National Center for Cardiovascular Disease, Chinese Academy of Medical Sciences &amp; Peking Union Medical College, No. 167 Beilishi Road, Xicheng District, Beijing, 10010, China."
-      },
-      {
-        "name": "Mingru Zhang",
-        "affiliation": "Department of Anesthesiology, Beijing Tongren Hospital, Capital Medical University, Beijing, China."
-      },
-      {
-        "name": "Jing Wang",
-        "affiliation": "Department of Cardiopulmonary Bypass, Fuwai Hospital, State Key Laboratory of Cardiovascular Medicine, National Center for Cardiovascular Disease, Chinese Academy of Medical Sciences &amp; Peking Union Medical College, No. 167 Beilishi Road, Xicheng District, Beijing, 10010, China."
-      },
-      {
-        "name": "Han Zhang",
-        "affiliation": "Department of Cardiopulmonary Bypass, Fuwai Hospital, State Key Laboratory of Cardiovascular Medicine, National Center for Cardiovascular Disease, Chinese Academy of Medical Sciences &amp; Peking Union Medical College, No. 167 Beilishi Road, Xicheng District, Beijing, 10010, China."
-      }
-    ],
-    "journal": "Journal of translational medicine",
-    "publishedDate": "2026-07-21",
-    "fetchedDate": "2026-08-01",
-    "category": "Farmacologia",
-    "tags": [],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42269231",
-    "pmid": "42269231",
-    "doi": "10.1016/j.clineuro.2026.109538",
-    "title": "Endovascular treatment of acute common carotid artery occlusion: Mechanisms, therapeutic challenges, and clinical outcomes.",
-    "titlePt": "Endovascular treatment of acute common carotid artery occlusion: Mechanisms, therapeutic challenges, and clinical outcomes.",
-    "abstract": "Acute common carotid artery occlusion (CCAO) is an uncommon and underrecognized cause of ischemic stroke, often underrepresented in randomized thrombectomy trials, leaving uncertainty regarding optimal treatment strategies. We conducted a retrospective analysis of consecutive patients with angiographically confirmed acute CCAO treated with mechanical thrombectomy at a comprehensive stroke center between 2018 and 2025. Clinical characteristics, procedural details, and outcomes were evaluated. Primary endpoints were successful reperfusion (eTICI 2b-3) and functional independence at 90 days (mRS 0-2). Among 2440 thrombectomy procedures, 22 patients (0.9%) had acute CCAO. Baseline deficits were severe (mean NIHSS 17.2), and atrial fibrillation was present in 50%. Concomitant intracranial occlusion occurred in 54.5%. High rates of successful reperfusion were achieved (100%), with first-pass success in 45.5%. Adjunctive carotid stenting was required in 50%. No symptomatic intracranial haemor",
-    "journalisticSummary": "A oclusão aguda da artéria carótida comum (CCAO) é uma causa incomum e subestimada de acidente vascular cerebral isquêmico, frequentemente subrepresentada em ensaios clínicos randomizados de trombectomia, o que deixa incertezas sobre as estratégias de tratamento ótimas. Um estudo retrospectivo recente publicado no PubMed investigou os mecanismos, desafios terapêuticos e resultados clínicos do tratamento endovascular da CCAO. Os pesquisadores analisaram dados de pacientes consecutivos com CCAO confirmada por angiografia e tratados com trombectomia mecânica em um centro de tratamento de acidente vascular cerebral entre 2018 e 2025. Os principais achados incluíram déficits basais severos, com uma média de 17,2 no NIHSS, e fibrilação atrial presente em 50% dos pacientes. Além disso, 54,5% dos pacientes apresentaram oclusão intracraniana concomitante. O estudo alcançou taxas altas de reperfusão bem-sucedida, com 100% de sucesso na reperfusão e 45,5% de sucesso na primeira passagem. No entanto, foi necessária a colocação de stent carotídeo adjunto em 50% dos pacientes. Não foram observadas hemorragias intracranianas sintomáticas. Embora os resultados sejam promissores, as limitações do estudo incluem a natureza retrospectiva e a baixa frequência de CCAO, o que pode afetar a generalização dos resultados. Próximos passos incluem a realização de estudos prospectivos e randomizados para melhor definir as estratégias de tratamento para a CCAO.\n\nA acute common carotid artery occlusion (CCAO) is an uncommon and underrecognized cause of ischemic stroke, often underrepresented in randomized thrombectomy trials, leaving uncertainty regarding optimal treatment strategies. A recent retrospective study published in PubMed investigated the mechanisms, therapeutic challenges, and clinical outcomes of endovascular treatment of CCAO. The researchers analyzed data from consecutive patients with angiographically confirmed acute CCAO treated with mechanical thrombectomy at a comprehensive stroke center between 2018 and 2025. Key findings included severe baseline deficits, with a mean NIHSS score of 17.2, and atrial fibrillation present in 50% of patients. Additionally, 54.5% of patients had concomitant intracranial occlusion. The study achieved high rates of successful reperfusion, with 100% success in reperfusion and 45.5% first-pass success. However, adjunctive carotid stenting was required in 50% of patients. No symptomatic intracranial hemorrhages were observed. While the results are promising, the study's limitations include its retrospective nature and the low frequency of CCAO, which may affect the generalizability of the results. Next steps include conducting prospective and randomized studies to better define treatment strategies for CCAO.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42269231",
-    "authors": [
-      {
-        "name": "Song&#xfc;l &#x15e;enad&#x131;m",
-        "affiliation": "Department of Neurology, Istanbul Aydin University Faculty of Medicine, Istanbul, T&#xfc;rkiye. Electronic address: songulsenadim@gmail.com."
-      },
-      {
-        "name": "Arsida Bajrami",
-        "affiliation": "Department of Neurology, Istanbul Aydin University Faculty of Medicine, Istanbul, T&#xfc;rkiye."
-      },
-      {
-        "name": "Sena Aksoy",
-        "affiliation": "Department of Neurology, Istanbul Aydin University Faculty of Medicine, Istanbul, T&#xfc;rkiye."
-      },
-      {
-        "name": "Serdar Geyik",
-        "affiliation": "Department of Radiology, Istanbul Aydin University Faculty of Medicine, Istanbul, T&#xfc;rkiye."
-      }
-    ],
-    "journal": "Clinical neurology and neurosurgery",
-    "publishedDate": "2026-07-20",
-    "fetchedDate": "2026-08-01",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "stroke",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42474167",
-    "pmid": "42474167",
-    "doi": "10.36721/PJPS.2026.39.10.288.1",
-    "title": "Pharmacological strategies for slowing the rise of creatinine and urea nitrogen in diabetic kidney disease: A scoping review.",
-    "titlePt": "Pharmacological strategies for slowing the rise of creatinine and urea nitrogen in diabetic kidney disease: A scoping review.",
-    "abstract": "Adolescent diabetic kidney disease (DKD) represents an early-onset microvascular complication characterized by prolonged metabolic exposure and accelerated renal decline. Elevated serum creatinine and blood urea nitrogen (BUN) are key biochemical indicators of impaired renal function. This scoping review aims to systematically map and evaluate pharmacological strategies for slowing the rise of creatinine and BUN in adolescents (aged 10-19 years) with DKD, with emphasis on renoprotective mechanisms, therapeutic sequencing and the potential applicability of these therapies to adolescent populations. A scoping review was conducted in accordance with PRISMA-ScR guidelines. A comprehensive literature search was performed using PubMed, Scopus and Google Scholar for studies published between 2020 and 2025. Eligible studies included clinical trials, observational studies, clinical guidelines and relevant reviews focusing on pharmacological interventions in adolescents (10-19 years) with diabet",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nA doença renal diabética (DRD) em adolescentes configura uma complicação microvascular de início precoce, associada à exposição metabólica prolongada e ao declínio renal acelerado. A elevação dos níveis séricos de creatinina e ureia nitrogenada (BUN) é um marcador bioquímico central da disfunção renal, mas estratégias farmacológicas para atenuar essa progressão nesse grupo etário permanecem pouco consolidadas. Uma revisão de escopo, publicada recentemente, mapeou as evidências disponíveis entre 2020 e 2025 sobre intervenções farmacológicas capazes de retardar o aumento desses marcadores em adolescentes (10–19 anos) com DRD, com foco em mecanismos renoprotetores, sequenciamento terapêutico e aplicabilidade clínica.\n\nO estudo, conduzido segundo as diretrizes PRISMA-ScR, analisou ensaios clínicos, estudos observacionais, guias clínicos e revisões relevantes indexados nas bases PubMed, Scopus e Google Scholar. Embora os resultados indiquem que inibidores do sistema renina-angiotensina (iECA/BRA) e análogos de GLP-1 mantêm papel central no manejo da DRD — com potencial efeito sobre a progressão da doença —, a escassez de ensaios randomizados específicos para adolescentes limita a robustez das conclusões. Os dados sugerem benefícios em reduzir a proteinúria e estabilizar a função renal, mas a ausência de estudos com desfechos hard (como progressão para doença renal terminal) e a variabilidade metodológica entre os trabalhos incluídos restringem inferências definitivas. Além disso, a segurança e eficácia de terapias emergentes, como inibidores de SGLT2, não foram avaliadas de forma consistente nesse grupo etário.\n\nOs autores destacam a necessidade de pesquisas prospectivas com populações adolescentes, priorizando desfechos clínicos relevantes e avaliações de longo prazo. A integração de estratégias multialvo — combinando controle glicêmico rigoroso, inibição do sistema renina-angiotensina e, possivelmente, novas classes terapêuticas — emerge como um caminho promissor, mas carece de validação em ensaios clínicos dedicados. Enquanto isso, a prática clínica deve basear-se em extrapolações de dados adultos, com monitoramento cuidadoso de efeitos adversos e adesão ao tratamento.\n\n---\n\n**English version**\n\nAdolescent diabetic kidney disease (DKD) represents an early-onset microvascular complication linked to prolonged metabolic exposure and accelerated renal decline. Elevated serum creatinine and blood urea nitrogen (BUN) levels serve as key biochemical indicators of impaired renal function, yet pharmacological strategies to slow their rise in this age group remain insufficiently defined. A recent scoping review systematically mapped available evidence from 2020 to 2025 on drug-based interventions capable of attenuating these biomarker increases in adolescents (aged 10–19 years) with DKD, focusing on renoprotective mechanisms, therapeutic sequencing, and clinical applicability.\n\nConducted in accordance with PRISMA-ScR guidelines, the study synthesized data from clinical trials, observational studies, clinical guidelines, and relevant reviews indexed in PubMed, Scopus, and Google Scholar. While findings suggest that renin-angiotensin system inhibitors (ACEi/ARBs) and GLP-1 receptor agonists remain central to DKD management—with potential to slow disease progression—the paucity of adolescent-specific randomized trials constrains the strength of conclusions. Evidence indicates benefits in reducing proteinuria and stabilizing renal function, but the absence of hard outcome trials (e.g., progression to end-stage renal disease) and methodological variability among included studies limit definitive inferences. Moreover, the safety and efficacy of emerging therapies, such as SGLT2 inhibitors, have not been consistently evaluated in adolescent populations.\n\nThe authors emphasize the urgent need for prospective adolescent-focused research with clinically meaningful endpoints and long-term follow-up. Multitarget strategies—combining strict glycemic control, renin-angiotensin system blockade, and potentially novel drug classes—appear promising but require validation in dedicated clinical trials. In the interim, clinical practice must rely on extrapolations from adult data, with careful monitoring of adverse effects and treatment adherence.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42474167",
-    "authors": [
-      {
-        "name": "Daoman Xia",
-        "affiliation": "Department of Internal Medicine, Qufu Normal University Hospital, Jining City, Shandong Province, Jining 273100, Shandong, China."
-      },
-      {
-        "name": "Jiana Zang",
-        "affiliation": "Department of Pharmacy, Qufu Normal University (Rizhao Campus) Health Center, Rizhao City, Shandong Province, Rizhao 276800, Shandong, China."
-      }
-    ],
-    "journal": "Pakistan journal of pharmaceutical sciences",
-    "publishedDate": "2026-07-20",
-    "fetchedDate": "2026-08-01",
-    "category": "Farmacologia",
-    "tags": [
-      "sequencing",
-      "clinical trial",
-      "therapeutic",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42143213",
-    "pmid": "42143213",
-    "doi": "10.1080/07853890.2026.2673631",
-    "title": "Endovascular thrombectomy versus best medical therapy for acute vertebrobasilar artery occlusion in patients with low NIHSS scores: a&#xa0;meta-analysis.",
-    "titlePt": "Endovascular thrombectomy versus best medical therapy for acute vertebrobasilar artery occlusion in patients with low NIHSS scores: a&#xa0;meta-analysis.",
-    "abstract": "The efficacy of endovascular thrombectomy (EVT) for acute vertebrobasilar artery occlusion (VBAO) presenting with mild symptoms (National Institutes of Health Stroke Scale [NIHSS] score &#x2264;10) remains uncertain. This meta-analysis aimed to compare the effectiveness and safety of EVT versus best medical therapy (BMT) in this population. We systematically searched PubMed, Embase, and the Cochrane Central Register of Controlled Trials from inception to September 2025 for comparative studies. The primary outcome was 90-day excellent functional outcome (modified Rankin Scale [mRS] score 0-1). Secondary outcomes included functional independence (mRS 0-2), symptomatic intracranial hemorrhage (sICH), and all-cause mortality. Pooled odds ratios (OR) with 95% confidence intervals (CI) were calculated using a random-effects model. Seven observational studies involving 3,107 patients were included. In unadjusted analyses, EVT was associated with a higher rate of excellent functional outcome (",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42143213",
-    "authors": [
-      {
-        "name": "Yaqin Qin",
-        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
-      },
-      {
-        "name": "Zhuo Min",
-        "affiliation": "Department of Neurology and Centre for Clinical Neuroscience, Daping Hospital, Army Medical Centre of PLA, Army Medical University, Chongqing, China."
-      },
-      {
-        "name": "Guangxin Sun",
-        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
-      },
-      {
-        "name": "Hui Xu",
-        "affiliation": "Department of Neurology, Fuyang People's Hospital, Fuyang, China."
-      }
-    ],
-    "journal": "Annals of medicine",
-    "publishedDate": "2026-07-17",
-    "fetchedDate": "2026-10-25",
-    "category": "Neurologia",
-    "tags": [
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6cbLau-2kFHot-a4ff7c5bde575e98\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 60de710c-2b5a-4a9a-a308-b79c2f53c242)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
