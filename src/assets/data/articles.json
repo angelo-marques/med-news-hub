@@ -12119,6 +12119,48 @@
     "aiProvider": "Groq"
   },
   {
+    "id": "pubmed-42526489",
+    "pmid": "42526489",
+    "doi": "10.1016/j.lanmic.2026.101443",
+    "title": "Advances in development of tuberculosis vaccines and preventive drug therapies: current pipeline, evidence, and access.",
+    "titlePt": "Advances in development of tuberculosis vaccines and preventive drug therapies: current pipeline, evidence, and access.",
+    "abstract": "Tuberculosis remains the leading cause of death from a single infectious agent globally. The WHO Global Tuberculosis Report 2025 indicates that progress towards the WHO End TB Strategy targets remains off track despite modest declines in incidence and mortality. In 2024, an estimated 10&#xb7;7 million people developed tuberculosis and 1&#xb7;23 million died from the disease. In this Series paper, we examine evidence published between Jan 6, 2020, and Jan 6, 2026, to provide an updated overview of tuberculosis vaccines and tuberculosis preventive treatment (TPT). As of June 4, 2026, 18 tuberculosis vaccine candidates are in active clinical development, including six in phase 3 (M72/AS01E, MTBVAC, VPM1002, GamTBvac, Immuvac [MIP], and BCG revaccination trials), representing the most diverse and advanced pipeline since the introduction of BCG in 1921. Platforms include live-attenuated mycobacterial vaccines (eg, MTBVAC), recombinant BCG-derived approaches (eg, VPM1002), protein-adjuvant s",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526489",
+    "authors": [
+      {
+        "name": "Christopher da Costa",
+        "affiliation": "Harvard TH Chan School of Public Health, Department of Global Health and Population, Boston, MA, USA."
+      },
+      {
+        "name": "Ben J Marais",
+        "affiliation": "Sydney Infectious Diseases Institute and The Children's Hospital at Westmead Clinical School, University of Sydney, Sydney, NSW, Australia."
+      },
+      {
+        "name": "Delia Goletti",
+        "affiliation": "Translational Research Unit, National Institute for Infectious Diseases Lazzaro Spallanzani, Istituto di Ricovero e Cura a Carattere Scientifico, Rome, Italy."
+      },
+      {
+        "name": "Philip Onyebujoh",
+        "affiliation": "Lusaka Apex Medical University, Lusaka, Zambia."
+      }
+    ],
+    "journal": "The Lancet. Microbe",
+    "publishedDate": "2026-07-29",
+    "fetchedDate": "2026-10-27",
+    "category": "Infectologia",
+    "tags": [
+      "bacterial",
+      "drug",
+      "vaccine"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6wrSEC-2kFHot-a51445a0089fbc82\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 9ba51995-0ca8-42a1-9cee-cde1bb460f1e)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42425179",
     "pmid": "42425179",
     "doi": "10.1016/j.ijcard.2026.134666",
@@ -12369,48 +12411,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41759868",
-    "pmid": "41759868",
-    "doi": "10.1016/j.hrthm.2026.02.028",
-    "title": "Pulsed field vs thermal ablation for atrial fibrillation: A Bayesian meta-analysis.",
-    "titlePt": "Pulsed field vs thermal ablation for atrial fibrillation: A Bayesian meta-analysis.",
-    "abstract": "Pulsed field ablation (PFA) has emerged as a promising alternative to thermal catheter ablation for pulmonary vein isolation in atrial fibrillation (AF). This study aimed to estimate the efficacy and safety of PFA vs thermal ablation in AF. We searched PubMed, Embase, and Cochrane through July 2025 for studies comparing PFA with thermal ablation. Individual patient data were reconstructed from Kaplan-Meier curves, and hazard ratios were estimated using a Cox frailty regression model. Time to benefit was assessed to determine when the treatment effect became clinically meaningful. Study-level odds ratios and mean differences with 95% credible intervals were estimated fitting a Bayesian random-effects model and vague priors for overall effect in the primary analyses. 12 studies (4 randomized controlled trials [RCTs], 8 observational) involving 3120 patients (46.6% PFA) were included. Time-to-event analysis (1 RCT, 6 observational) showed PFA was associated with a higher freedom from atri",
-    "journalisticSummary": "A ablação por campo pulsado (PFA) tem surgido como uma alternativa promissora à ablação cateter por calor para isolamento da veia pulmonar na fibrilação atrial (FA). Um estudo recente publicado no PubMed, com DOI 10.1016/j.hrthm.2026.02.028, teve como objetivo estimar a eficácia e segurança da PFA em comparação com a ablação térmica em pacientes com FA. A análise incluiu 12 estudos, sendo 4 ensaios clínicos randomizados (ECRs) e 8 estudos observacionais, que envolveram 3120 pacientes, com 46,6% submetidos à PFA. Os resultados sugerem que a PFA está associada a uma maior liberdade de recorrência de FA em comparação com a ablação térmica. No entanto, não foi possível determinar o impacto clínico completo devido à falta de informações detalhadas sobre os desfechos clínicos a longo prazo. Além disso, as limitações do estudo incluem a heterogeneidade entre os estudos incluídos e a possibilidade de viés de publicação. Os próximos passos devem incluir a realização de ECRs adicionais e a coleta de dados a longo prazo para melhor compreender os benefícios e riscos da PFA em comparação com a ablação térmica.\n\nPulsed field ablation (PFA) has emerged as a promising alternative to thermal catheter ablation for pulmonary vein isolation in atrial fibrillation (AF). A recent study published on PubMed, with DOI 10.1016/j.hrthm.2026.02.028, aimed to estimate the efficacy and safety of PFA compared to thermal ablation in AF patients. The analysis included 12 studies, comprising 4 randomized controlled trials (RCTs) and 8 observational studies, which involved 3120 patients, with 46.6% undergoing PFA. The results suggest that PFA is associated with a higher freedom from AF recurrence compared to thermal ablation. However, it was not possible to determine the full clinical impact due to the lack of detailed information on long-term clinical outcomes. Furthermore, the study's limitations include the heterogeneity among the included studies and the possibility of publication bias. The next steps should include conducting additional RCTs and collecting long-term data to better understand the benefits and risks of PFA compared to thermal ablation.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41759868",
-    "authors": [
-      {
-        "name": "Fl&#xe1;via Queiroga",
-        "affiliation": "Department of General Internal Medicine, Emory University School of Medicine, Atlanta, Georgia. Electronic address: flaviaqueiroga@gmail.com."
-      },
-      {
-        "name": "Andr&#xe9; Rivera",
-        "affiliation": "Universidade Nove de Julho, S&#xe3;o Bernardo do Campo, S&#xe3;o Paulo, Brazil."
-      },
-      {
-        "name": "Leo N Consoli",
-        "affiliation": "Universidade Federal da Bahia, Salvador, Brazil."
-      },
-      {
-        "name": "Arthur M Albuquerque",
-        "affiliation": "Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil."
-      }
-    ],
-    "journal": "Heart rhythm",
-    "publishedDate": "2026-07-29",
-    "fetchedDate": "2026-08-01",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
