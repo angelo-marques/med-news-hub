@@ -1,5 +1,209 @@
 [
   {
+    "id": "pubmed-42809741",
+    "pmid": "42809741",
+    "doi": "10.1152/physrev.00004.2026",
+    "title": "Monocarboxylate transporters in physiology and cancer: from fundamentals to clinical translation.",
+    "titlePt": "Monocarboxylate transporters in physiology and cancer: from fundamentals to clinical translation.",
+    "abstract": "Monocarboxylate transporters (MCTs) are vital to physiological pH regulation, redox balance, and energy homeostasis, as they mediate proton-coupled transport of lactate and other monocarboxylates across cell membranes. MCT1 and MCT4 are especially important during metabolically demanding states, where they support lactate shuttling between oxidative and glycolytic cells. To sustain rapid growth and biosynthesis, the metabolism of highly proliferative cells, including cancer cells, shifts toward glycolysis with increased lactate production. In this setting, MCTs enable lactate and proton efflux, preventing intracellular acidification and maintaining glycolytic flux. Cancer cells frequently co-opt this system, overexpressing MCT1 and MCT4, which is associated with aggressive behavior, poor prognosis, and treatment resistance. These insights have motivated the development of MCT inhibitors, one of which has entered early clinical evaluation, suggesting potential therapeutic benefit in sel",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42809741",
+    "authors": [
+      {
+        "name": "Julieta Afonso",
+        "affiliation": "Life and Health Sciences Research Institute (ICVS), University of Minho, Campus of Gualtar, Braga, Portugal."
+      },
+      {
+        "name": "Joana Pereira-Vieira",
+        "affiliation": "ICVS/Biomaterials, Biodegradables and Biomimetics (3B's)-Portuguese (PT) Government Associate Laboratory, Braga, Portugal."
+      },
+      {
+        "name": "Vera Miranda-Gon&#xe7;alves",
+        "affiliation": "Life and Health Sciences Research Institute (ICVS), University of Minho, Campus of Gualtar, Braga, Portugal."
+      },
+      {
+        "name": "Sara Granja",
+        "affiliation": "ICVS/Biomaterials, Biodegradables and Biomimetics (3B's)-Portuguese (PT) Government Associate Laboratory, Braga, Portugal."
+      }
+    ],
+    "journal": "Physiological reviews",
+    "publishedDate": "2026-10-26",
+    "fetchedDate": "2026-10-27",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "therapeutic",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6qsY2M-2kFHot-a50dd12cd8ee983a\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: de2c987d-1604-4450-a066-45e2f06be90c)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42932122",
+    "pmid": "42932122",
+    "doi": "10.1007/s12265-026-10860-x",
+    "title": "Admission Circulating microRNAs and Residual Congestion in Very Elderly Patients With Acute Decompensated Heart Failure: Associations With miR-223-3p and miR-423-5p.",
+    "titlePt": "Admission Circulating microRNAs and Residual Congestion in Very Elderly Patients With Acute Decompensated Heart Failure: Associations With miR-223-3p and miR-423-5p.",
+    "abstract": "MicroRNAs may provide information about decongestion in acute decompensated heart failure (ADHF). We examined associations with residual congestion and diuretic treatment intensity. In 145 adults with ADHF, seven admission serum miRNAs were quantified by RT-qPCR. Residual congestion at 48&#xa0;h required at least 2 of: VExUS score&#x2009;&#x2265;&#x2009;1, clinical congestion score&#x2009;&#x2265;&#x2009;3, or NT-proBNP ratio&#x2009;&#x2265;&#x2009;0.70. Logistic and robust log-linear models assessed residual congestion and intravenous loop-diuretic dose intensity. Residual congestion occurred in 69 patients (47.6%). In complete-case models (n&#x2009;=&#x2009;119), higher miR-223-3p expression was associated with lower odds (adjusted OR, 0.57; 95% CI, 0.36-0.91), whereas higher miR-423-5p expression was associated with higher odds (adjusted OR, 1.54; 95% CI, 1.00-2.38). Neither was independently associated with diuretic dose intensity. miR-223-3p showed the more consistent exploratory ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42932122",
+    "authors": [
+      {
+        "name": "Amelia Campos-S&#xe1;enz de Santamar&#xed;a",
+        "affiliation": "Department of Medicine, School of Medicine, University of Zaragoza, Zaragoza, Spain."
+      },
+      {
+        "name": "Laura Mart&#xed;nez-Gimeno",
+        "affiliation": "Renal and Cardiovascular Pathophysiological Interactions (IFICAR), IIS Aragon, Zaragoza, Spain."
+      },
+      {
+        "name": "Laura Karla Esterellas-S&#xe1;nchez",
+        "affiliation": "Internal Medicine Department, Hospital Cl&#xed;nico Lozano Blesa, IIS Aragon, Zaragoza, Spain."
+      },
+      {
+        "name": "Marc G&#xf3;mez-Godos",
+        "affiliation": "Renal and Cardiovascular Pathophysiological Interactions (IFICAR), IIS Aragon, Zaragoza, Spain."
+      }
+    ],
+    "journal": "Journal of cardiovascular translational research",
+    "publishedDate": "2026-10-26",
+    "fetchedDate": "2026-10-27",
+    "category": "Cardiologia",
+    "tags": [
+      "heart",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6qssaC-2kFHot-a50dd2c7dc6b5f12\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 4ed302bd-91aa-497c-989e-2a27e2288fd0)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42930913",
+    "pmid": "42930913",
+    "doi": "10.3390/jcdd13100517",
+    "title": "Recurrence Rates and Outcomes After First Detected Atrial Fibrillation Episode in a Contemporary Hypertrophic Cardiomyopathy Center.",
+    "titlePt": "Recurrence Rates and Outcomes After First Detected Atrial Fibrillation Episode in a Contemporary Hypertrophic Cardiomyopathy Center.",
+    "abstract": "Atrial fibrillation (AF) is the most common sustained arrhythmia in hypertrophic cardiomyopathy (HCM), occurring in 20-25% of patients and associated with increased morbidity, stroke risk, and symptom burden. Despite this substantial clinical impact, the understanding of the short-term natural history of AF, including recurrence and the effectiveness of treatment strategies in HCM, remains poorly characterized. We assessed 2016 patients referred to Lahey Hospital and Medical Center for the diagnosis and subspecialty management of HCM, of whom 341 (17%) had a remote history of AF (&#x2265;5 years), and 149 (7%) had AF episodes initially detected between January 2020 and June 2025. These 149 patients were included in this retrospective analysis to allow comprehensive short-term assessment of AF recurrence, treatment interventions, and clinical outcomes from first detected AF utilizing contemporary treatments. AF was first detected at a median age of 63 years (IQR 54-70); 63% were male. M",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42930913",
+    "authors": [
+      {
+        "name": "Mauro Rogerio de Barros Wanderley",
+        "affiliation": "Internal Medicine Department, Lahey Hospital and Medical Center, Burlington, MA 01803, USA."
+      },
+      {
+        "name": "Martin S Maron",
+        "affiliation": "Hypertrophic Cardiomyopathy Center, Lahey Hospital and Medical Center, Burlington, MA 01803, USA."
+      },
+      {
+        "name": "Jonathan S Silver",
+        "affiliation": "Department of Electrophysiology, Lahey Hospital and Medical Center, Burlington, MA 01803, USA."
+      },
+      {
+        "name": "Paul Harnish",
+        "affiliation": "Department of Electrophysiology, Lahey Hospital and Medical Center, Burlington, MA 01803, USA."
+      }
+    ],
+    "journal": "Journal of cardiovascular development and disease",
+    "publishedDate": "2026-10-26",
+    "fetchedDate": "2026-10-27",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial",
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6qsxxf-2kFHot-a50dd3391ef35f12\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 3975bdc2-7956-4d88-88f7-3f4212f3a19a)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42803010",
+    "pmid": "42803010",
+    "doi": "10.1161/STROKEAHA.126.055666",
+    "title": "Current Evidence on Periprocedural Flat-Panel CT in Endovascular Stroke Treatment: A Systematic Review and Meta-Analysis.",
+    "titlePt": "Current Evidence on Periprocedural Flat-Panel CT in Endovascular Stroke Treatment: A Systematic Review and Meta-Analysis.",
+    "abstract": "Periprocedural flat-panel computed tomography (FPCT) may complement real-time decision-making during endovascular treatment for stroke. This study aims to summarize current evidence on diagnostic findings, prognostic associations, and clinical applications of periprocedural FPCT in the angiography suite. A systematic review and meta-analysis was preregistered (URL: https://www.crd.york.ac.uk/PROSPERO/; Unique identifier: CRD420251142156), conducted and reported according to MOOSE guidelines (Meta-Analysis of Observational Studies in Epidemiology). Medline, Embase, and Scopus were searched for studies published between January 2019 and September 2025 reporting on periprocedural FPCT in endovascular treatment patients (noncontrast FPCT, 3-dimensional-digital subtraction angiography/contrast-enhanced FPCT, or FPCT perfusion). Random-effects models were used to calculate pooled prevalences and odds ratios for associations with outcomes, primarily functional status assessed via the 90-day m",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42803010",
+    "authors": [
+      {
+        "name": "Lorenz Grunder",
+        "affiliation": "Department of Diagnostic and Interventional Neuroradiology, University Hospital Bern, Inselspital (L.G., P.C., D.O.W., A.M., J.G., E.P., T.D., J.K.), University of Bern, Switzerland."
+      },
+      {
+        "name": "Petra Cimflova",
+        "affiliation": "Department of Diagnostic and Interventional Neuroradiology, University Hospital Bern, Inselspital (L.G., P.C., D.O.W., A.M., J.G., E.P., T.D., J.K.), University of Bern, Switzerland."
+      },
+      {
+        "name": "Matthew M Zidan",
+        "affiliation": "Department of Diagnostic and Interventional Neuroradiology, University Hospital Bonn, Germany (M.M.Z., F. Dorn)."
+      },
+      {
+        "name": "Jeremy Hofmeister",
+        "affiliation": "Division of Neuroradiology, Geneva University Hospitals, Switzerland (J.H.)."
+      }
+    ],
+    "journal": "Stroke",
+    "publishedDate": "2026-10-26",
+    "fetchedDate": "2026-10-27",
+    "category": "Neurologia",
+    "tags": [
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6qt4kT-2kFHot-a50dd3b2ae24d5d0\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 95e79a4d-8027-458c-a458-ac6b11b118b0)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42723634",
+    "pmid": "42723634",
+    "doi": "10.1161/STROKEAHA.126.056382",
+    "title": "High-Resolution Disconnectome Predicts Outcome and Response to Thrombectomy in Basilar Artery Occlusion.",
+    "titlePt": "High-Resolution Disconnectome Predicts Outcome and Response to Thrombectomy in Basilar Artery Occlusion.",
+    "abstract": "Acute basilar artery occlusion causes devastating strokes. Despite the benefit of endovascular treatment, the optimal management remains controversial in specific subgroups, particularly patients with mild deficits, and would benefit from robust prognostic tools. Given the dense white matter networks within the posterior fossa, we tested whether quantifying disconnections from acute diffusion-weighted imaging could improve outcome prediction and identify responders to recanalization compared with conventional metrics. We conducted a secondary analysis of a prospective multicenter stroke registry in France, including consecutive patients (2017-2024) with basilar artery occlusion and admission magnetic resonance imaging. Ultra-high-resolution diffusion magnetic resonance imaging was acquired in 2 healthy participants to build normative tractograms with optimized posterior fossa quality. Patient infarcts delineated on diffusion-weighted imaging were projected onto these tractograms to est",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42723634",
+    "authors": [
+      {
+        "name": "Benjamin Authamayou",
+        "affiliation": "Neuroimagerie Diagnostique et Th&#xe9;rapeutique, CHU de Bordeaux, France (B.A., G.M., A.L., O.E., T.T.)."
+      },
+      {
+        "name": "Gaultier Marnat",
+        "affiliation": "Neuroimagerie Diagnostique et Th&#xe9;rapeutique, CHU de Bordeaux, France (B.A., G.M., A.L., O.E., T.T.)."
+      },
+      {
+        "name": "Anna Matsulevits",
+        "affiliation": "Groupe d'Imagerie Neurofonctionnelle, Institut des Maladies Neurod&#xe9;g&#xe9;n&#xe9;ratives-UMR 5293, CNRS, CEA, University of Bordeaux, France (A.M., C.F., M.T.S.)."
+      },
+      {
+        "name": "Fanny Munsch",
+        "affiliation": "Brain Connectivity and Behaviour Laboratory, Bordeaux, France (A.M., C.F., M.T.S., T.T.)."
+      }
+    ],
+    "journal": "Stroke",
+    "publishedDate": "2026-10-26",
+    "fetchedDate": "2026-10-27",
+    "category": "Neurologia",
+    "tags": [
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6qt7Me-2kFHot-a50dd3e9cdc6983a\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 77e51151-4144-49be-8821-bd94a75aa23b)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42926841",
     "pmid": "42926841",
     "doi": "10.1016/j.omton.2026.201355",
@@ -12222,226 +12426,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42492033",
-    "pmid": "42492033",
-    "doi": "10.1212/WNL.0000000000218373",
-    "title": "Efficacy Measures Used in Alzheimer Disease Clinical Trials Between 2015 and 2025: A Systematic Review.",
-    "titlePt": "Efficacy Measures Used in Alzheimer Disease Clinical Trials Between 2015 and 2025: A Systematic Review.",
-    "abstract": "Regulatory guidance has long emphasized clinically meaningful outcomes in Alzheimer disease (AD) drug trials. No contemporary review has examined the efficacy measures used for clinical trials of AD therapies. The objective of this study was to evaluate the clinical relevance and heterogeneity of efficacy measures used in phase II-IV AD drug trials over the past decade. We systematically searched PubMed, Embase, the Cochrane Central Register of Controlled Trials, and ClinicalTrials.gov. All phase II-IV clinical trials of pharmacologic therapies in individuals with mild cognitive impairment due to AD or mild-to-moderate AD that were published, completed, or terminated between January 1, 2015, and November 15, 2025, or still ongoing as of November 15, 2025, were eligible for inclusion. We summarized the proportion of trials using clinical outcomes or biomarkers as primary or secondary efficacy measures, key clinical domains addressed, and the number of distinct measures using descriptive",
-    "journalisticSummary": "Um estudo recente publicado no PubMed examinou a eficácia das medidas utilizadas em ensaios clínicos para o tratamento da doença de Alzheimer (DA) entre 2015 e 2025. A pesquisa, que abrangeu ensaios clínicos de fase II a IV, visou avaliar a relevância clínica e a heterogeneidade das medidas de eficácia utilizadas nesses estudos. Os autores realizaram uma busca sistemática em bases de dados como PubMed, Embase, o Registro Central de Ensaios Controlados da Cochrane e ClinicalTrials.gov, incluindo ensaios clínicos de terapias farmacológicas para indivíduos com deficiência cognitiva leve devido à DA ou DA leve a moderada. Os resultados mostraram a proporção de ensaios que utilizaram resultados clínicos ou biomarcadores como medidas de eficácia primária ou secundária, os principais domínios clínicos abordados e o número de medidas distintas, usando descrições.\n\nOs achados principais desse estudo destacam a importância de medidas clínicas relevantes nos ensaios clínicos para a DA, conforme orientações regulatórias. No entanto, não foram fornecidos detalhes sobre as limitações específicas do estudo ou os próximos passos para a pesquisa. Além disso, não foi informado se houve variações significativas nas medidas de eficácia utilizadas ao longo do período estudado. Em resumo, este estudo fornece uma visão geral valiosa sobre as medidas de eficácia utilizadas nos ensaios clínicos para a DA, mas mais pesquisas são necessárias para explorar as implicações clínicas e os desafios futuros nessa área.\n\nA doença de Alzheimer é uma condição complexa e multifacetada, e o desenvolvimento de terapias eficazes requer uma abordagem cuidadosa e baseada em evidências. Este estudo contribui para o entendimento das medidas de eficácia utilizadas nos ensaios clínicos, o que pode informar futuras pesquisas e melhorar os resultados para os pacientes. No entanto, é crucial considerar as limitações e os desafios associados à condução de ensaios clínicos para a DA, incluindo a heterogeneidade dos pacientes e a complexidade das medidas de eficácia.\n\nUm aspecto importante a ser explorado em futuras pesquisas é a relação entre as medidas de eficácia utilizadas e os resultados clínicos reais. Além disso, é fundamental investigar como as medidas de eficácia podem ser padronizadas e aprimoradas para melhorar a comparabilidade entre os estudos e a tomada de decisões clínicas. Em resumo, este estudo representa um passo importante no entendimento das medidas de eficácia nos ensaios clínicos para a DA, mas mais pesquisas são necessárias para avançar no tratamento e no manejo dessa condição.\n\nA pesquisa sobre a doença de Alzheimer é um campo em constante evolução, com novas descobertas e abordagens sendo desenvolvidas regularmente. Este estudo sobre as medidas de eficácia utilizadas nos ensaios clínicos para a DA contribui significativamente para o conhecimento atual e destaca a necessidade de uma abordagem cuidadosa e baseada em evidências para o desenvolvimento de terapias eficazes. No entanto, é crucial que os pesquisadores e os profissionais de saúde continuem a trabalhar juntos para superar os desafios associados à DA e melhorar os resultados para os pacientes.\n\nA eficácia das terapias para a doença de Alzheimer depende de uma variedade de fatores, incluindo a seleção de medidas de eficácia apropriadas. Este estudo fornece uma visão geral abrangente das medidas de eficácia utilizadas nos ensaios clínicos para a DA, o que pode informar futuras pesquisas e melhorar a prática clínica. No entanto, é fundamental considerar as limitações e os desafios associados à condução de ensaios clínicos para a DA, incluindo a necessidade de medidas de eficácia mais sensíveis e específicas.\n\nEm resumo, este estudo sobre as medidas de eficácia utilizadas nos ensaios clínicos para a doença de Alzheimer fornece uma contribuição valiosa para o campo, destacando a importância de medidas clínicas relevantes e a necessidade de uma abordagem cuidadosa e baseada em evidências para o desenvolvimento de terapias eficazes. No entanto, mais pesquisas são necessárias para explorar as implicações clínicas e os desafios futuros nessa área.\n\nA versão em inglês é a seguinte:\n\nA recent study published on PubMed examined the efficacy measures used in clinical trials for Alzheimer's disease (AD) between 2015 and 2025. The research, which covered phase II to IV clinical trials, aimed to evaluate the clinical relevance and heterogeneity of the efficacy measures used in these studies. The authors conducted a systematic search of databases such as PubMed, Embase, the Cochrane Central Register of Controlled Trials, and ClinicalTrials.gov, including clinical trials of pharmacological therapies for individuals with mild cognitive impairment due to AD or mild-to-moderate AD. The results showed the proportion of trials that used clinical outcomes or biomarkers as primary or secondary efficacy measures, the key clinical domains addressed, and the number of distinct measures using descriptive statistics.\n\nThe main findings of this study highlight the importance of clinically relevant measures in AD clinical trials, as per regulatory guidance. However, specific limitations of the study or future research directions were not provided. Additionally, it was not reported whether there were significant variations in the efficacy measures used over the study period. In summary, this study provides a valuable overview of the efficacy measures used in AD clinical trials, but further research is needed to explore the clinical implications and future challenges in this area.\n\nAlzheimer's disease is a complex and multifaceted condition, and the development of effective therapies requires a careful and evidence-based approach. This study contributes to the understanding of the efficacy measures used in clinical trials, which can inform future research and improve outcomes for patients. However, it is crucial to consider the limitations and challenges associated with conducting clinical trials for AD, including patient heterogeneity and the complexity of efficacy measures.\n\nAn important aspect to be explored in future research is the relationship between the efficacy measures used and actual clinical outcomes. Furthermore, it is essential to investigate how efficacy measures can be standardized and improved to enhance comparability between studies and clinical decision-making. In summary, this study represents a significant step in understanding the efficacy measures used in",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42492033",
-    "authors": [
-      {
-        "name": "Can Li",
-        "affiliation": "Department of Pharmacy Administration and Clinical Pharmacy, School of Pharmaceutical Sciences, Peking University, Beijing, China."
-      },
-      {
-        "name": "Mengyuan Fu",
-        "affiliation": "International Research Center for Medicinal Administration, Peking University, Beijing, China."
-      },
-      {
-        "name": "Karina Berg",
-        "affiliation": "Department of Internal Medicine, Yale School of Medicine, New Haven, CT."
-      },
-      {
-        "name": "Joshua Wallach",
-        "affiliation": "Center on Aging, Department of Medicine, University of Connecticut School of Medicine, Farmington, CT."
-      }
-    ],
-    "journal": "Neurology",
-    "publishedDate": "2026-07-23",
-    "fetchedDate": "2026-08-01",
-    "category": "Neurologia",
-    "tags": [
-      "alzheimer",
-      "cognitive",
-      "gene",
-      "drug",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42491427",
-    "pmid": "42491427",
-    "doi": "10.1016/j.obpill.2026.100300",
-    "title": "Real-world treatment satisfaction and experience with once-weekly tirzepatide: Insights from prescribing physicians and people with obesity or overweight.",
-    "titlePt": "Real-world treatment satisfaction and experience with once-weekly tirzepatide: Insights from prescribing physicians and people with obesity or overweight.",
-    "abstract": "Tirzepatide, a once-weekly glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist, has demonstrated its efficacy in clinical trials; however, real-world evidence on treatment satisfaction and experiences among people with obesity or overweight (PwO) and their prescribing physicians remains limited. This study aimed to assess the real-world clinical characteristics, treatment patterns, and satisfaction with tirzepatide among PwO without type 2 diabetes (T2D) and their prescribing physicians in the United States. This secondary analysis utilized data from a cross-sectional survey of physicians and PwO from October 2023 to April 2024, and from October 2024 to January 2025. Physicians provided data for PwO meeting selection criteria, at data capture/previous body mass index (BMI) &#x2265;30 or &#x2265;27 and&#x202f;&lt;&#x202f;30&#x202f;kg/m2 with at least one obesity-related complication (ORC), without T2D, enrolled in a weight management p",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a satisfação e a experiência com o tratamento com tirzepatida, um agonista do receptor de polipeptídeo insulinotrópico dependente de glicose (GIP) e glucagon-like peptídeo-1 (GLP-1), administrado uma vez por semana, em pessoas com obesidade ou sobrepeso sem diabetes tipo 2. Embora a eficácia da tirzepatida tenha sido demonstrada em ensaios clínicos, a evidência do mundo real sobre a satisfação e as experiências dos pacientes e de seus médicos prescritores ainda é limitada. Este estudo visou avaliar as características clínicas, os padrões de tratamento e a satisfação com a tirzepatida entre pessoas com obesidade ou sobrepeso sem diabetes tipo 2 e seus médicos prescritores nos Estados Unidos.\n\nA análise secundária utilizou dados de uma pesquisa transversal de médicos e pacientes realizada em dois períodos: de outubro de 2023 a abril de 2024 e de outubro de 2024 a janeiro de 2025. Os médicos forneceram dados para pacientes que atendiam aos critérios de seleção, com índice de massa corporal (IMC) igual ou superior a 30 ou igual ou superior a 27 e inferior a 30 kg/m² com pelo menos uma complicação relacionada à obesidade, sem diabetes tipo 2, inscritos em um programa de gerenciamento de peso. No entanto, não foi informado no resumo original quais foram os principais achados do estudo, o que limita a capacidade de discutir o impacto clínico e as limitações do estudo.\n\nO impacto clínico potencial da tirzepatida no tratamento da obesidade e do sobrepeso é significativo, especialmente em pacientes sem diabetes tipo 2, pois pode oferecer uma opção terapêutica eficaz para o gerenciamento de peso. No entanto, sem os dados específicos do estudo, é difícil determinar como a tirzepatida se compara a outras opções de tratamento disponíveis. Os próximos passos para a pesquisa incluiriam a realização de estudos adicionais para avaliar a eficácia e a segurança a longo prazo da tirzepatida nessa população, bem como a comparação com outras terapias para obesidade e sobrepeso.\n\nUm estudo recente publicado no PubMed investigou a satisfação e a experiência com o tratamento com tirzepatida, um agonista do receptor de polipeptídeo insulinotrópico dependente de glicose (GIP) e glucagon-like peptídeo-1 (GLP-1), administrado uma vez por semana, em pessoas com obesidade ou sobrepeso sem diabetes tipo 2. Embora a eficácia da tirzepatida tenha sido demonstrada em ensaios clínicos, a evidência do mundo real sobre a satisfação e as experiências dos pacientes e de seus médicos prescritores ainda é limitada. Este estudo visou avaliar as características clínicas, os padrões de tratamento e a satisfação com a tirzepatida entre pessoas com obesidade ou sobrepeso sem diabetes tipo 2 e seus médicos prescritores nos Estados Unidos.\n\nA análise secundária utilizou dados de uma pesquisa transversal de médicos e pacientes realizada em dois períodos: de outubro de 2023 a abril de 2024 e de outubro de 2024 a janeiro de 2025. Os médicos forneceram dados para pacientes que atendiam aos critérios de seleção, com índice de massa corporal (IMC) igual ou superior a 30 ou igual ou superior a 27 e inferior a 30 kg/m² com pelo menos uma complicação relacionada à obesidade, sem diabetes tipo 2, inscritos em um programa de gerenciamento de peso. No entanto, não foi informado no resumo original quais foram os principais achados do estudo, o que limita a capacidade de discutir o impacto clínico e as limitações do estudo.\n\nO impacto clínico potencial da tirzepatida no tratamento da obesidade e do sobrepeso é significativo, especialmente em pacientes sem diabetes tipo 2, pois pode oferecer uma opção terapêutica eficaz para o gerenciamento de peso. No entanto, sem os dados específicos do estudo, é difícil determinar como a tirzepatida se compara a outras opções de tratamento disponíveis. Os próximos passos para a pesquisa incluiriam a realização de estudos adicionais para avaliar a eficácia e a segurança a longo prazo da tirzepatida nessa população, bem como a comparação com outras terapias para obesidade e sobrepeso.\n\nA recent study published on PubMed investigated the satisfaction and experience with once-weekly tirzepatide treatment, a glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist, in people with obesity or overweight without type 2 diabetes. Although tirzepatide's efficacy has been demonstrated in clinical trials, real-world evidence on treatment satisfaction and experiences among patients and their prescribing physicians remains limited. This study aimed to assess the real-world clinical characteristics, treatment patterns, and satisfaction with tirzepatide among people with obesity or overweight without type 2 diabetes and their prescribing physicians in the United States.\n\nThe secondary analysis utilized data from a cross-sectional survey of physicians and patients conducted in two periods: from October 2023 to April 2024 and from October 2024 to January 2025. Physicians provided data for patients meeting selection criteria, with a body mass index (BMI) of 30 or higher or 27 and less than 30 kg/m² with at least one obesity-related complication, without type 2 diabetes, enrolled in a weight management program. However, the original abstract did not provide the main findings of the study, which limits the ability to discuss the clinical impact and study limitations.\n\nThe potential clinical impact of tirzepatide in treating obesity and overweight is significant, particularly in patients without type 2 diabetes, as it may offer an effective therapeutic option for weight management. However, without the specific study data, it is difficult to determine how tirzepatide compares to other available treatment options. Future research steps would include conducting additional studies to evaluate the long-term efficacy and safety of tirzepatide in this population, as well as comparing it to other",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42491427",
-    "authors": [
-      {
-        "name": "Theresa Hunter Gibble",
-        "affiliation": "Eli Lilly and Company, Indianapolis, IN, USA."
-      },
-      {
-        "name": "Andrea Leith",
-        "affiliation": "Adelphi Real World, Bollington, UK."
-      },
-      {
-        "name": "Lewis Harrison",
-        "affiliation": "Adelphi Real World, Bollington, UK."
-      },
-      {
-        "name": "Claire Gerber",
-        "affiliation": "Eli Lilly and Company, Indianapolis, IN, USA."
-      }
-    ],
-    "journal": "Obesity pillars",
-    "publishedDate": "2026-07-23",
-    "fetchedDate": "2026-08-01",
-    "category": "Endocrinologia",
-    "tags": [
-      "clinical trial",
-      "diabetes",
-      "insulin",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42105778",
-    "pmid": "42105778",
-    "doi": "10.1016/S1473-3099(26)00119-2",
-    "title": "Immunogenicity, reactogenicity, and safety of a reduced-interval 4CMenB primary immunisation schedule in UK infants: a multicentre, open-label, assessor-blinded, phase 4 randomised controlled trial.",
-    "titlePt": "Immunogenicity, reactogenicity, and safety of a reduced-interval 4CMenB primary immunisation schedule in UK infants: a multicentre, open-label, assessor-blinded, phase 4 randomised controlled trial.",
-    "abstract": "Until July, 2025, infants in the UK received the four-component meningococcal B vaccine (4CMenB) at ages 8 weeks and 16 weeks, boosted at 1 year. 4CMenB introduction was associated with large reductions in serogroup B (MenB) invasive meningococcal disease in childhood (cases now peak at age 3 months vs age 5-6 months before routine immunisation). A shorter interval between 4CMenB priming doses could reduce cases further. This study aimed to compare the immunogenicity, reactogenicity, and safety of 4CMenB priming schedules. This multicentre, open-label, assessor-blinded, phase 4, randomised controlled trial compared reduced-interval 4CMenB (Group 1) priming at ages 8 and 12 weeks and 13-valent pneumococcal conjugate vaccine (PCV13) at 16 weeks with the standard-schedule 4CMenB (Group 2) at ages 8 and 16 weeks and PCV13 at 12 weeks, via computer-generated block randomisation (1:1). 4CMenB and PCV13 boosters were given at 1 year. Six hospitals in England enrolled full-term, unvaccinated, ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recentemente publicado no *The Lancet Infectious Diseases* avaliou a eficácia de um esquema de imunização primária reduzido para a vacina 4CMenB, direcionada à prevenção de doença meningocócica invasiva do sorogrupo B (MenB). Até julho de 2025, o esquema padrão no Reino Unido consistia em duas doses de 4CMenB aos 8 e 16 semanas, com reforço aos 12 meses, o que já contribuiu para uma queda significativa nos casos de MenB em crianças, com pico de incidência agora aos 3 meses — antes da vacinação, o pico ocorria entre 5 e 6 meses. Os pesquisadores investigaram se um intervalo mais curto entre as doses iniciais poderia potencializar ainda mais a proteção, reduzindo a incidência da doença.\n\nO ensaio clínico de fase 4, multicêntrico, aberto para participantes e avaliadores cegos, randomizou 1.024 lactentes saudáveis em dois grupos: o grupo 1 recebeu 4CMenB aos 8 e 12 semanas, com a vacina pneumocócica 13-valente (PCV13) aos 16 semanas; o grupo 2 seguiu o esquema padrão (4CMenB aos 8 e 16 semanas, PCV13 aos 12 semanas). Ambos os grupos receberam reforços com 4CMenB e PCV13 aos 12 meses. Os principais desfechos avaliados foram imunogenicidade (resposta de anticorpos bactericidas séricos [rSBA]), reatogenicidade (reações locais e sistêmicas) e segurança (eventos adversos graves).\n\nOs resultados preliminares indicaram que o esquema reduzido (8 e 12 semanas) não foi inferior ao padrão em termos de resposta imunológica contra os sorogrupos MenB presentes na vacina, medidos pela concentração de anticorpos. A reatogenicidade — avaliada por meio de registros diários dos pais — foi semelhante entre os grupos, com eventos leves a moderados, como febre e irritabilidade, sendo os mais comuns. Nenhum evento adverso grave foi atribuído à vacinação. Contudo, o estudo não reportou dados sobre a eficácia clínica real na prevenção de casos de MenB, limitando a interpretação do impacto direto na saúde pública.\n\nEmbora os achados sugiram que um intervalo reduzido pode ser uma estratégia viável para otimizar a imunização precoce, os autores destacam a necessidade de estudos adicionais para confirmar se essa abordagem resulta em uma redução efetiva na incidência da doença. Além disso, a generalização dos resultados pode ser limitada pela população estudada (lactentes a termo e não vacinados previamente), e não foram avaliados subgrupos de risco, como prematuros ou crianças com comorbidades. A próxima etapa inclui análises de longo prazo para monitorar a persistência da resposta imune e a durabilidade da proteção conferida pelo esquema modificado.\n\n---\n\n**English version**\n\nA recent study published in *The Lancet Infectious Diseases* evaluated the efficacy of a reduced-interval primary immunisation schedule for the 4CMenB vaccine, which targets invasive meningococcal disease caused by serogroup B (*Neisseria meningitidis* MenB). Until July 2025, the standard UK immunisation schedule consisted of two doses of 4CMenB at 8 and 16 weeks, followed by a booster at 12 months, a regimen already associated with a significant reduction in MenB cases among children, with incidence now peaking at 3 months—previously, the peak occurred between 5 and 6 months. Researchers investigated whether a shorter interval between priming doses could further enhance protection by reducing disease incidence.\n\nThis phase 4, multicentre, open-label, assessor-blinded, randomised controlled trial enrolled 1,024 healthy infants and allocated them equally to two groups via computer-generated block randomisation. Group 1 received 4CMenB at 8 and 12 weeks, with the 13-valent pneumococcal conjugate vaccine (PCV13) at 16 weeks; Group 2 followed the standard schedule (4CMenB at 8 and 16 weeks, PCV13 at 12 weeks). Both groups received booster doses of 4CMenB and PCV13 at 12 months. The primary endpoints were immunogenicity (serum bactericidal antibody [rSBA] response), reactogenicity (local and systemic reactions), and safety (serious adverse events).\n\nPreliminary findings indicated that the reduced-interval schedule (8 and 12 weeks) was non-inferior to the standard schedule in inducing immunogenic responses against the MenB serogroups covered by the vaccine, as measured by antibody concentrations. Reactogenicity, assessed through daily parental diaries, was comparable between groups, with mild to moderate events such as fever and irritability being most common. No serious adverse events were attributed to vaccination. However, the study did not report data on actual clinical efficacy in preventing MenB cases, limiting interpretation of direct public health impact.\n\nWhile the results suggest that a reduced interval may be a feasible strategy to optimise early immunisation, the authors emphasise the need for further studies to confirm whether this approach translates into a measurable reduction in disease incidence. Additionally, the generalisability of findings may be limited by the study population (term infants with no prior vaccination), and risk subgroups such as preterm infants or children with comorbidities were not evaluated. Future steps include long-term analyses to assess the persistence of immune response and the durability of protection conferred by the modified schedule.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42105778",
-    "authors": [
-      {
-        "name": "Natasha Thorn",
-        "affiliation": "Centre for Neonatal and Paediatric Infection and Vaccine Institute, City St George's, University of London, London, UK; St George's University Hospitals NHS Foundation Trust, London, UK."
-      },
-      {
-        "name": "Zsofia Danos",
-        "affiliation": "Centre for Neonatal and Paediatric Infection and Vaccine Institute, City St George's, University of London, London, UK; St George's University Hospitals NHS Foundation Trust, London, UK."
-      },
-      {
-        "name": "Nick J Andrews",
-        "affiliation": "Immunisation and Vaccine Preventable Diseases Division, UK Health Security Agency, London, UK."
-      },
-      {
-        "name": "Natalina Sutton",
-        "affiliation": "Centre for Neonatal and Paediatric Infection and Vaccine Institute, City St George's, University of London, London, UK; St George's University Hospitals NHS Foundation Trust, London, UK."
-      }
-    ],
-    "journal": "The Lancet. Infectious diseases",
-    "publishedDate": "2026-07-22",
-    "fetchedDate": "2026-08-05",
-    "category": "Pediatria",
-    "tags": [
-      "gene",
-      "infant",
-      "childhood",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41250793",
-    "pmid": "41250793",
-    "doi": "10.1177/00033197251390139",
-    "title": "Triglyceride-Glucose Index Mediated by Metabolic Burden Predicts Cardiovascular Events in Patients With Complex Coronary Lesions: A Prospective Cohort Study.",
-    "titlePt": "Triglyceride-Glucose Index Mediated by Metabolic Burden Predicts Cardiovascular Events in Patients With Complex Coronary Lesions: A Prospective Cohort Study.",
-    "abstract": "This prospective cohort study evaluated the prognostic value of the triglyceride-glucose (TyG) index and its metabolic mediation pathways in 16&#x2009;499 patients with complex coronary lesions (American College of Cardiology/American Heart Association type B2/C) undergoing percutaneous coronary intervention (PCI). Over a median 3-year follow-up, 535 patients (3.2%) experienced cardiovascular (CV) events. Patients in the highest TyG tertile (T3: &gt;9.10) demonstrated a 2.442-fold increased CV risk compared with the lowest tertile (T1: &lt;8.63; 95% CI 1.923-3.102, P&#x2009;&lt;&#x2009;.001), with a significant dose-response relationship (P-trend&#x2009;&lt;&#x2009;.001). Structural equation modeling revealed that metabolic burden (hypertension, dyslipidemia, type 2 diabetes mellitus) mediated 50.0% of TyG-associated risk (indirect effect P&#x2009;=&#x2009;.038). TyG index exhibited superior predictive accuracy for CV events compared with the TG/HDL-C ratio (area under the curve [AUC] ",
-    "journalisticSummary": "Um estudo recente publicado na literatura científica avaliou o valor prognóstico do índice triglicerídeo-glicose (TyG) e suas vias de mediação metabólica em pacientes com lesões coronárias complexas. Essa pesquisa, que contou com uma coorte prospectiva de 16.499 pacientes submetidos a intervenção coronária percutânea (PCI), buscou entender melhor como o TyG indexa se relaciona com o risco de eventos cardiovasculares. Durante um seguimento médio de três anos, 535 pacientes (3,2%) experimentaram eventos cardiovasculares. Os resultados mostraram que os pacientes no tertil mais alto do TyG index (>9,10) apresentaram um risco 2,442 vezes maior de eventos cardiovasculares em comparação com aqueles no tertil mais baixo (<8,63), com uma relação dose-resposta significativa.\n\nAlém disso, o modelo de equação estrutural revelou que a carga metabólica, que inclui hipertensão, dislipidemia e diabetes mellitus tipo 2, mediou 50,0% do risco associado ao TyG index. Isso sugere que o TyG index pode ser um marcador importante para prever eventos cardiovasculares em pacientes com lesões coronárias complexas. O estudo também comparou a precisão preditiva do TyG index com a razão TG/HDL-C, concluindo que o TyG index exibiu uma superioridade na previsão de eventos cardiovasculares. Esses achados têm implicações clínicas significativas, pois podem ajudar na identificação de pacientes de alto risco e no desenvolvimento de estratégias personalizadas para a prevenção de eventos cardiovasculares.\n\nNo entanto, é importante considerar as limitações do estudo, como a necessidade de mais pesquisas para entender completamente as vias metabólicas subjacentes ao TyG index e sua relação com eventos cardiovasculares. Além disso, não foram fornecidos detalhes sobre as intervenções específicas ou tratamentos utilizados durante o seguimento, o que poderia influenciar os resultados. Os próximos passos incluem a realização de estudos adicionais para validar esses achados e explorar como o TyG index pode ser integrado na prática clínica para melhorar os resultados dos pacientes.\n\nUm estudo recente publicado na literatura científica avaliou o valor prognóstico do índice triglicerídeo-glicose (TyG) e suas vias de mediação metabólica em pacientes com lesões coronárias complexas. Infelizmente, não foi possível obter informações adicionais sobre as implicações futuras desse estudo.\n\n\nA recent study published in the scientific literature evaluated the prognostic value of the triglyceride-glucose (TyG) index and its metabolic mediation pathways in patients with complex coronary lesions. This research, which included a prospective cohort of 16,499 patients undergoing percutaneous coronary intervention (PCI), sought to better understand how the TyG index relates to the risk of cardiovascular events. During a median three-year follow-up, 535 patients (3.2%) experienced cardiovascular events. The results showed that patients in the highest TyG tertile (>9.10) had a 2.442-fold increased risk of cardiovascular events compared to those in the lowest tertile (<8.63), with a significant dose-response relationship.\n\nFurthermore, structural equation modeling revealed that metabolic burden, including hypertension, dyslipidemia, and type 2 diabetes mellitus, mediated 50.0% of the TyG-associated risk. This suggests that the TyG index may be an important marker for predicting cardiovascular events in patients with complex coronary lesions. The study also compared the predictive accuracy of the TyG index with the TG/HDL-C ratio, concluding that the TyG index exhibited superior predictive accuracy for cardiovascular events. These findings have significant clinical implications, as they may help in identifying high-risk patients and developing personalized strategies for preventing cardiovascular events.\n\nHowever, it is essential to consider the study's limitations, such as the need for further research to fully understand the underlying metabolic pathways of the TyG index and its relationship with cardiovascular events. Additionally, no details were provided about the specific interventions or treatments used during follow-up, which could influence the results. The next steps include conducting additional studies to validate these findings and exploring how the TyG index can be integrated into clinical practice to improve patient outcomes.\n\nA recent study published in the scientific literature evaluated the prognostic value of the triglyceride-glucose (TyG) index and its metabolic mediation pathways in patients with complex coronary lesions. Unfortunately, it was not possible to obtain further information about the future implications of this study.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41250793",
-    "authors": [
-      {
-        "name": "Zhihao Zheng",
-        "affiliation": "Cardiometabolic Medicine Center, Department of Cardiology, National Center for Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union Medical College, Fuwai Hospital, Beijing, China."
-      },
-      {
-        "name": "Jining He",
-        "affiliation": "State Key Laboratory of Cardiovascular Disease, Beijing, China."
-      },
-      {
-        "name": "Yanjun Song",
-        "affiliation": "Cardiometabolic Medicine Center, Department of Cardiology, National Center for Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union Medical College, Fuwai Hospital, Beijing, China."
-      },
-      {
-        "name": "Shanshan Shi",
-        "affiliation": "State Key Laboratory of Cardiovascular Disease, Beijing, China."
-      }
-    ],
-    "journal": "Angiology",
-    "publishedDate": "2026-07-22",
-    "fetchedDate": "2026-08-01",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "heart",
-      "coronary",
-      "hypertension",
-      "diabetes"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42320775",
-    "pmid": "42320775",
-    "doi": "10.1016/j.jep.2026.122088",
-    "title": "Ethnopharmacological landscape of Azadirachta indica (Neem): Phytochemical diversity bridging traditional heritage and modern medicine.",
-    "titlePt": "Ethnopharmacological landscape of Azadirachta indica (Neem): Phytochemical diversity bridging traditional heritage and modern medicine.",
-    "abstract": "Azadirachta indica A. Juss. (neem) is a cornerstone of traditional medicine across tropical regions, recognized for its broad-spectrum therapeutic applications. However, the translation of its extensive ethnopharmacological legacy into evidence-based therapy is hindered by fragmented reports and a lack of systematic integration. This narrative review aims to provide a quantitative and mechanistic synthesis of neem's phytochemical diversity and pharmacological landscape, explicitly distinguishing itself from prior work by mapping over 140 bioactive compounds to specific molecular pathways and clinical potential, while critically evaluating translational barriers. A literature search of Web of Science, PubMed, and Scopus was conducted for peer-reviewed articles published between January 2001 and November 2025, using keywords related to Azadirachta indica, neem phytochemistry, pharmacology, and toxicology. Phytochemical investigations have identified over 140 distinct compounds, including",
-    "journalisticSummary": "O neem, conhecido cientificamente como Azadirachta indica, é uma planta amplamente utilizada na medicina tradicional em regiões tropicais, reconhecida por suas amplas aplicações terapêuticas. No entanto, a tradução de seu legado etnofarmacológico em terapias baseadas em evidências é dificultada por relatos fragmentados e falta de integração sistemática. Um estudo recente publicado na literatura científica busca superar essa barreira, apresentando uma síntese quantitativa e mecanicista da diversidade fitoquímica e do paisagem farmacológico do neem. Os autores realizaram uma busca literária abrangente em bases de dados como Web of Science, PubMed e Scopus, considerando artigos publicados entre janeiro de 2001 e novembro de 2025, utilizando palavras-chave relacionadas à Azadirachta indica, fitoquímica do neem, farmacologia e toxicologia.\n\nOs resultados apontam que mais de 140 compostos bioativos distintos foram identificados nas investigações fitoquímicas, evidenciando a rica diversidade química do neem. Esses compostos foram mapeados para vias moleculares específicas e potencial clínico, oferecendo uma visão mais clara sobre como esses componentes podem ser traduzidos em tratamentos eficazes. O estudo também avalia criticamente as barreiras para a tradução desses achados em práticas clínicas, destacando a necessidade de mais pesquisas que conectem a sabedoria tradicional com a medicina moderna. Embora o estudo não forneça detalhes sobre os próximos passos específicos ou os resultados clínicos diretos, ele estabelece uma base sólida para futuras investigações, podendo contribuir significativamente para o desenvolvimento de terapias inovadoras baseadas nos princípios ativos do neem.\n\nThe neem, scientifically known as Azadirachta indica, is a plant widely used in traditional medicine across tropical regions, recognized for its broad therapeutic applications. However, the translation of its ethnopharmacological legacy into evidence-based therapy is hindered by fragmented reports and a lack of systematic integration. A recent study published in the scientific literature seeks to overcome this barrier, presenting a quantitative and mechanistic synthesis of the phytochemical diversity and pharmacological landscape of neem. The authors conducted a comprehensive literature search in databases such as Web of Science, PubMed, and Scopus, considering articles published between January 2001 and November 2025, using keywords related to Azadirachta indica, neem phytochemistry, pharmacology, and toxicology.\n\nThe results indicate that over 140 distinct bioactive compounds were identified in the phytochemical investigations, highlighting the rich chemical diversity of neem. These compounds were mapped to specific molecular pathways and clinical potential, providing a clearer view on how these components can be translated into effective treatments. The study also critically evaluates the barriers to translating these findings into clinical practices, emphasizing the need for further research that connects traditional wisdom with modern medicine. Although the study does not provide details on specific next steps or direct clinical outcomes, it establishes a solid foundation for future investigations, potentially contributing significantly to the development of innovative therapies based on neem's active principles.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42320775",
-    "authors": [
-      {
-        "name": "Arpit Sharma",
-        "affiliation": "Biomolecular Engineering Laboratory, School of Biochemical Engineering, Indian Institute of Technology (IIT-BHU), Varanasi, Uttar Pradesh, 221005, India; Translational cancer research and Immunology Lab, Department of Pharmacology, Institute of Medical Science-Banaras Hindu University (IMS- BHU), Varanasi, Uttar Pradesh, 221005, India."
-      },
-      {
-        "name": "Shruti S Raut",
-        "affiliation": "Biomolecular Engineering Laboratory, School of Biochemical Engineering, Indian Institute of Technology (IIT-BHU), Varanasi, Uttar Pradesh, 221005, India."
-      },
-      {
-        "name": "Alok Shukla",
-        "affiliation": "Biomolecular Engineering Laboratory, School of Biochemical Engineering, Indian Institute of Technology (IIT-BHU), Varanasi, Uttar Pradesh, 221005, India."
-      },
-      {
-        "name": "Nancy Parul",
-        "affiliation": "Department of Pharmacology, Baba Kinaram State Autonomous Medical college (BKASMC), Chandauli, Uttar Pradesh, 232110, India."
-      }
-    ],
-    "journal": "Journal of ethnopharmacology",
-    "publishedDate": "2026-07-21",
-    "fetchedDate": "2026-08-01",
-    "category": "Farmacologia",
-    "tags": [
-      "pharmacology",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
