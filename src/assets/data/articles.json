@@ -1,5 +1,212 @@
 [
   {
+    "id": "pubmed-42938906",
+    "pmid": "42938906",
+    "doi": "10.3390/cancers18203374",
+    "title": "Longitudinal Flow Cytometric Profiling of CAR-T and Endogenous T Cells Following CD19 CAR-T Therapy.",
+    "titlePt": "Longitudinal Flow Cytometric Profiling of CAR-T and Endogenous T Cells Following CD19 CAR-T Therapy.",
+    "abstract": "Background/Objectives: Longitudinal monitoring after CD19-directed chimeric antigen receptor (CAR) T-cell therapy primarily focuses on CAR-T-cell expansion. However, comprehensive immunophenotypic characterization of both CAR-T and endogenous T cells remains limited. We investigated longitudinal immune dynamics following tisagenlecleucel treatment using multiparameter flow cytometry. Methods: Nineteen patients with relapsed or refractory B-cell malignancies (11 diffuse large B-cell lymphoma and eight B-cell acute lymphoblastic leukemia) receiving tisagenlecleucel were prospectively enrolled. Serial peripheral blood samples collected during the first 28 days after infusion were analyzed for CAR-T-cell kinetics, differentiation status, activation and exhaustion marker expression, longitudinal phenotypic changes, as well as associations with treatment response and immune-related toxicities. Results: CAR-T-cell expansion predominantly peaked on day 7 after infusion. However, in several pat",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42938906",
+    "authors": [
+      {
+        "name": "Sungyu Jee",
+        "affiliation": "Department of Laboratory Medicine, Seoul St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Seoul 06591, Republic of Korea."
+      },
+      {
+        "name": "Taewon Kang",
+        "affiliation": "Department of Medical and Biological Sciences, Songeui Campus, The Catholic University of Korea, Seoul 06591, Republic of Korea."
+      },
+      {
+        "name": "Hyunjoo Bae",
+        "affiliation": "Department of Medical and Biological Sciences, Songeui Campus, The Catholic University of Korea, Seoul 06591, Republic of Korea."
+      },
+      {
+        "name": "Takho Kang",
+        "affiliation": "Department of Laboratory Medicine, Seoul St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Seoul 06591, Republic of Korea."
+      }
+    ],
+    "journal": "Cancers",
+    "publishedDate": "2026-10-27",
+    "fetchedDate": "2026-10-27",
+    "category": "Oncologia",
+    "tags": [
+      "leukemia",
+      "lymphoma",
+      "immune"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6wZdXb-2kFHot-a513f5924fd8a1f7\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: e52c808c-87df-4991-8ed5-d1633865af6c)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42935495",
+    "pmid": "42935495",
+    "doi": "10.1016/j.ahjo.2026.100929",
+    "title": "Comparative risk assessment of cardiovascular and kidney outcomes in patients with type 2 diabetes using cystatin C and creatinine in DECLARE-TIMI 58.",
+    "titlePt": "Comparative risk assessment of cardiovascular and kidney outcomes in patients with type 2 diabetes using cystatin C and creatinine in DECLARE-TIMI 58.",
+    "abstract": "The relationship between cystatin C and cardiovascular and kidney outcomes is not well explored in individuals with type 2 diabetes (T2D) and normal or mild kidney dysfunction. This nested prospective biomarker study included patients enrolled in DECLARE-TIMI 58. Participants were categorized into quartiles of CysC/creatinine and eGFRCysC/eGFRCr and classified according to Kidney Disease Improving Global Outcomes (KDIGO) risk categories. Hazard ratios were estimated for a composite of cardiovascular death and hospitalization for heart failure (CVD/HHF), major adverse cardiovascular events (MACE), and a kidney-specific composite outcome (persistent &#x2265;40% decrease in eGFR, end-stage renal disease, or renal death). Among 1899 placebo-treated patients, higher baseline CysC was associated with higher risk for CVD/HHF, MACE, and the kidney-specific composite outcome. A gradient of risk across quartiles was observed for CVD/HHF [Q4 v Q1: 1.33 (0.98-1.80), p-trend&#xa0;=&#xa0;0.016]; MAC",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42935495",
+    "authors": [
+      {
+        "name": "Andre M Small",
+        "affiliation": "Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA."
+      },
+      {
+        "name": "David D Berg",
+        "affiliation": "TIMI Study Group, Cardiovascular Division, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA."
+      },
+      {
+        "name": "Itamar Raz",
+        "affiliation": "The Diabetes Unit, Department of Endocrinology and Metabolism, Hadassah Medical Center, Hebrew University of Jerusalem, The Faculty of Medicine, Jerusalem, Israel."
+      },
+      {
+        "name": "Petr Jarolim",
+        "affiliation": "Department of Pathology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA."
+      }
+    ],
+    "journal": "American heart journal plus : cardiology research and practice",
+    "publishedDate": "2026-10-27",
+    "fetchedDate": "2026-10-27",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "heart",
+      "diabetes"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6wZpsX-2kFHot-a513f6817ba5510e\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 2c31c1bf-9374-4bf1-a9d0-7f30d5feb5c6)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42936460",
+    "pmid": "42936460",
+    "doi": "10.1016/j.infpip.2026.100598",
+    "title": "Cold plasma technology as a novel antimicrobial platform: mechanisms, efficacy, and clinical translation: a systematic literature review.",
+    "titlePt": "Cold plasma technology as a novel antimicrobial platform: mechanisms, efficacy, and clinical translation: a systematic literature review.",
+    "abstract": "The global antimicrobial resistance (AMR) crisis necessitates innovative therapeutic approaches beyond traditional antibiotics. Cold atmospheric plasma (CAP), an ionized gas containing reactive species, has emerged as a potent physical antimicrobial technology with broad-spectrum activity. This systematic review critically evaluates current evidence on CAP's antimicrobial mechanisms, efficacy against diverse pathogens, and clinical translation potential. We conducted a systematic literature search following Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines across PubMed, Scopus, and Web of Science databases (January 2018-December 2025). Included studies investigated CAP's antimicrobial properties in vitro, in vivo, or clinically. Analysis of 64 included studies revealed that CAP's antimicrobial effects primarily stem from reactive oxygen and nitrogen species generation, causing oxidative damage to microbial membranes, proteins, and DNA. CAP demonstrates sign",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42936460",
+    "authors": [
+      {
+        "name": "Amir Namvar Vansofla",
+        "affiliation": "Department of Biology, Faculty of Basic Sciences, Imam Hossein Comprehensive University, Tehran, Iran."
+      },
+      {
+        "name": "Mohammad Ebrahim Minaei",
+        "affiliation": "Department of Biology, Faculty of Basic Sciences, Imam Hossein Comprehensive University, Tehran, Iran."
+      },
+      {
+        "name": "Neda Yousefi Nojookambari",
+        "affiliation": "Department of Microbiology, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran."
+      },
+      {
+        "name": "Sajjad Yazdansetad",
+        "affiliation": "Department of Biology, Faculty of Basic Sciences, Imam Hossein Comprehensive University, Tehran, Iran."
+      }
+    ],
+    "journal": "Infection prevention in practice",
+    "publishedDate": "2026-10-27",
+    "fetchedDate": "2026-10-27",
+    "category": "Genômica",
+    "tags": [
+      "antimicrobial",
+      "gene",
+      "dna",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6waWYw-2kFHot-a513f9c37e4da1e9\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 4f6f3cc9-a22f-4959-8d00-4214efe9374a)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42938782",
+    "pmid": "42938782",
+    "doi": "10.3390/antibiotics15101042",
+    "title": "Procalcitonin-Informed Decision-Making in Abdominal and Emergency Surgery: A WSES Position Paper.",
+    "titlePt": "Procalcitonin-Informed Decision-Making in Abdominal and Emergency Surgery: A WSES Position Paper.",
+    "abstract": "Background: Procalcitonin (PCT) may support decision-making in abdominal and emergency surgery when infection is difficult to distinguish from non-infectious inflammation. Its interpretation remains challenging because clinical settings, sampling schedules, and proposed thresholds vary. This WSES position paper examines the evidence across six clinical scenarios to provide a practical framework for PCT-informed decision-making. Methods: A structured literature review covering January 1980 to December 2025, with targeted updates through August 2026, informed six PICO-based clinical questions. Evidence appraisal drew on selected GRADE domains, including consistency, directness, and precision. Recommendations were developed through iterative expert review and consensus. Results: The panel formulated six conditional recommendations addressing intra-abdominal infection diagnosis, antibiotic discontinuation after source control, suspected source-control failure, infected pancreatic necrosis,",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42938782",
+    "authors": [
+      {
+        "name": "Fausto Catena",
+        "affiliation": "World Society of Emergency Surgery, Institute for Research in Emergency General Surgery (IREGS), Via Cracovia 23, 40139 Bologna, Italy."
+      },
+      {
+        "name": "Belinda De Simone",
+        "affiliation": "Department of Emergency and General Minimally Invasive Surgery, Level I Trauma Center, Bufalini Hospital, AUSL Romagna, Viale Ghirotti 286, 47521 Cesena, Italy."
+      },
+      {
+        "name": "Igor A Kryvoruchko",
+        "affiliation": "Department of Theoretical and Applied Sciences, eCampus University, Novedrate, 22060 Como, Italy."
+      },
+      {
+        "name": "Salomone Di Saverio",
+        "affiliation": "Department of Surgery No. 2, Kharkiv National Medical University, 61022 Kharkiv, Ukraine."
+      }
+    ],
+    "journal": "Antibiotics (Basel, Switzerland)",
+    "publishedDate": "2026-10-27",
+    "fetchedDate": "2026-10-27",
+    "category": "Infectologia",
+    "tags": [
+      "infection"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6waZf9-2kFHot-a513fa04cc284c9d\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 5c4ab014-88fd-4029-9c0e-cecec13054b7)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42942339",
+    "pmid": "42942339",
+    "doi": "10.3390/life16101753",
+    "title": "Procalcitonin in Acute Pancreatitis: Diagnostic Utility for Differentiating Infected from Sterile Pancreatic Necrosis.",
+    "titlePt": "Procalcitonin in Acute Pancreatitis: Diagnostic Utility for Differentiating Infected from Sterile Pancreatic Necrosis.",
+    "abstract": "Acute pancreatitis (AP) is an acute inflammatory disorder of the pancreas that disrupts its normal function and often requires hospitalization because of severe abdominal pain. While most patients recover without major complications, some develop pancreatic necrosis, infected pancreatic necrosis (IPN), persistent organ failure, and other severe complications associated with increased morbidity and mortality. A key clinical challenge is distinguishing infected pancreatic necrosis from sterile pancreatic inflammation, as delayed or inaccurate diagnosis may result in inappropriate antibiotic use and poorer clinical outcomes. This review aimed to evaluate the diagnostic and prognostic utility of procalcitonin (PCT) in differentiating infected pancreatic necrosis from sterile inflammation and to assess its role in supporting antimicrobial decision-making in patients with AP. A structured narrative literature review was conducted using PubMed, Embase, Scopus, and Web of Science to identify E",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42942339",
+    "authors": [
+      {
+        "name": "Geetha Kandasamy",
+        "affiliation": "Department of Clinical Pharmacy, College of Pharmacy, King Khalid University, Abha 61421, Saudi Arabia."
+      },
+      {
+        "name": "Lavanya Selvaraj",
+        "affiliation": "Department of Pharmacy Practice, PSG College of Pharmacy, Peelamedu, Coimbatore 641004, Tamil Nadu, India."
+      },
+      {
+        "name": "Yashvi Ambrish Pathak",
+        "affiliation": "Department of Pharmacy Practice, PSG College of Pharmacy, Peelamedu, Coimbatore 641004, Tamil Nadu, India."
+      },
+      {
+        "name": "Sangavi Anandan",
+        "affiliation": "Department of Pharmacy Practice, PSG College of Pharmacy, Peelamedu, Coimbatore 641004, Tamil Nadu, India."
+      }
+    ],
+    "journal": "Life (Basel, Switzerland)",
+    "publishedDate": "2026-10-27",
+    "fetchedDate": "2026-10-27",
+    "category": "Infectologia",
+    "tags": [
+      "antimicrobial"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6wacKs-2kFHot-a513fa3cf9aba1e9\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 2810a091-e4d5-4711-93b4-681fef6dc453)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42803531",
     "pmid": "42803531",
     "doi": "10.1177/09612033261493819",
@@ -12204,224 +12411,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42527559",
-    "pmid": "42527559",
-    "doi": "10.1038/s41588-026-02687-8",
-    "title": "Translating genomic data into healthcare practice with the Singapore National Precision Medicine program.",
-    "titlePt": "Translating genomic data into healthcare practice with the Singapore National Precision Medicine program.",
-    "abstract": "The Singapore National Precision Medicine (NPM) program is a three-phase whole-of-nation effort designed to develop scalable, evidence-based solutions for precision health tailored to Asia's diverse populations. Here we present NPM phase II (2020-2025), highlighting how large-scale precision medicine initiatives can drive new research insights, enable healthcare innovations and create economic value. Key achievements include the PRECISE-SG100K population dataset, which reflects Singapore's unique multi-ancestry Asian population; the successful translation of research findings into mainstream national healthcare using familial hypercholesterolemia as a use case; and the establishment of strategic public-private partnerships with diverse industry sectors. We also outline phase III (2025-2031), which aims to establish whole-genome sequencing as a foundational element of a patient's lifelong healthcare record for 10% of the population. NPM provides a model for how smaller countries, despit",
-    "journalisticSummary": "O programa de Medicina de Precisão Nacional de Singapura (NPM) é um esforço em três fases que visa desenvolver soluções escaláveis e baseadas em evidências para a saúde de precisão adaptadas às populações diversificadas da Ásia. A segunda fase do programa (2020-2025) destacou como iniciativas de medicina de precisão em larga escala podem impulsionar novas descobertas de pesquisa, habilitar inovações em saúde e criar valor econômico. Entre os principais feitos estão a criação do conjunto de dados populacional PRECISE-SG100K, que reflete a população asiática multi-ancestral única de Singapura, a tradução bem-sucedida de descobertas de pesquisa para a assistência à saúde nacional utilizando a hipercolesterolemia familiar como caso de uso e o estabelecimento de parcerias público-privadas estratégicas com diversos setores da indústria. Além disso, o programa pretende estabelecer a sequenciação do genoma completo como um elemento fundamental do registro de saúde de um paciente ao longo da vida para 10% da população na terceira fase (2025-2031). O NPM oferece um modelo para como países menores podem desenvolver soluções de saúde de precisão inovadoras e eficazes, apesar de limitações de recursos.\n\nA implementação do NPM enfrentou desafios, como a necessidade de infraestrutura de dados robusta e a garantia de privacidade e segurança dos dados dos pacientes. No entanto, os resultados do programa demonstram o potencial da medicina de precisão em melhorar os resultados de saúde e reduzir os custos de saúde a longo prazo. Com a continuação do programa, é fundamental avaliar o impacto clínico e econômico das intervenções baseadas em genômica e monitorar a adoção e a sustentabilidade das soluções de saúde de precisão. Além disso, a colaboração internacional e o compartilhamento de conhecimentos serão essenciais para acelerar o progresso na medicina de precisão e melhorar a saúde global.\n\nThe Singapore National Precision Medicine (NPM) program is a three-phase effort designed to develop scalable, evidence-based solutions for precision health tailored to Asia's diverse populations. The second phase of the program (2020-2025) highlighted how large-scale precision medicine initiatives can drive new research insights, enable healthcare innovations, and create economic value. Key achievements include the creation of the PRECISE-SG100K population dataset, which reflects Singapore's unique multi-ancestry Asian population, the successful translation of research findings into mainstream national healthcare using familial hypercholesterolemia as a use case, and the establishment of strategic public-private partnerships with diverse industry sectors. Additionally, the program aims to establish whole-genome sequencing as a foundational element of a patient's lifelong healthcare record for 10% of the population in the third phase (2025-2031). The NPM provides a model for how smaller countries can develop innovative and effective precision health solutions, despite resource limitations.\n\nThe implementation of the NPM faced challenges, such as the need for robust data infrastructure and ensuring patient data privacy and security. However, the program's results demonstrate the potential of precision medicine to improve health outcomes and reduce healthcare costs in the long term. As the program continues, it is crucial to evaluate the clinical and economic impact of genomics-based interventions and monitor the adoption and sustainability of precision health solutions. Furthermore, international collaboration and knowledge sharing will be essential to accelerate progress in precision medicine and improve global health. The program's next steps will focus on expanding the use of precision medicine and exploring new applications, such as the use of artificial intelligence and machine learning to analyze genomic data and improve patient outcomes.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527559",
-    "authors": [
-      {
-        "name": "Shih Wee Seow",
-        "affiliation": "Precision Health Research, Singapore (PRECISE), Singapore, Singapore."
-      },
-      {
-        "name": "Theresia Mina",
-        "affiliation": "Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore, Singapore."
-      },
-      {
-        "name": "Maxime Hebrard",
-        "affiliation": "Genome Institute of Singapore, Agency for Science, Technology and Research, Singapore, Singapore."
-      },
-      {
-        "name": "Nilanjana Sadhu",
-        "affiliation": "Garvan Institute of Medical Research, Sydney, New South Wales, Australia."
-      }
-    ],
-    "journal": "Nature genetics",
-    "publishedDate": "2026-07-29",
-    "fetchedDate": "2026-08-01",
-    "category": "Genômica",
-    "tags": [
-      "genomic",
-      "sequencing"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42509546",
-    "pmid": "42509546",
-    "doi": "10.1186/s12919-026-00387-z",
-    "title": "Africa's emerging role in precision oncology: translational insights from the harnessing functional genomics in cancer research conference, Windhoek, 23-26 September 2025.",
-    "titlePt": "Africa's emerging role in precision oncology: translational insights from the harnessing functional genomics in cancer research conference, Windhoek, 23-26 September 2025.",
-    "abstract": "Africa is entering a new era of cancer research, driven by renewed commitments to genomic innovation, data equity, and strengthened cancer registry systems. The \"Harnessing Functional Genomics in Cancer Research: Opportunities for Diagnosis and Treatment\" conference, held in Windhoek, Namibia, from 23 to 26 September 2025, convened leading experts to evaluate current progress and identify priorities for advancing cancer genomics and precision oncology across the continent. This conference synthesis report and narrative review drew on four days of expert-led presentations, interactive panel discussions, and structured delegate engagement sessions. Conference proceedings were documented through session minutes, presenter slide decks, recorded discussions, and post-conference feedback. Perspectives from more than 160 participants representing 21 countries were synthesized into priority thematic areas through an iterative drafting and multi-author review process. Conference findings were i",
-    "journalisticSummary": "A África está ingressando em uma nova era de pesquisa sobre câncer, impulsionada por renovados compromissos com inovação genômica, equidade de dados e sistemas de registro de câncer fortalecidos. A conferência \"Harnessing Functional Genomics in Cancer Research: Opportunities for Diagnosis and Treatment\", realizada em Windhoek, Namíbia, de 23 a 26 de setembro de 2025, reuniu especialistas líderes para avaliar o progresso atual e identificar prioridades para avançar na genômica do câncer e na oncologia de precisão em todo o continente. Este relatório de síntese da conferência e revisão narrativa foi baseado em quatro dias de apresentações lideradas por especialistas, discussões de painel interativo e sessões de engajamento de delegados estruturadas. Os procedimentos da conferência foram documentados por meio de atas de sessão, conjuntos de slides de apresentadores, discussões gravadas e feedback pós-conferência. Perspectivas de mais de 160 participantes, representando 21 países, foram sintetizadas em áreas temáticas prioritárias por meio de um processo de elaboração iterativa e revisão multi-autor. Os principais achados da conferência incluíram a necessidade de fortalecer os sistemas de registro de câncer e melhorar a equidade de dados, bem como a importância de investir em inovação genômica para avançar na oncologia de precisão. No entanto, não foram fornecidos detalhes sobre os próximos passos ou sobre como essas prioridades serão implementadas. \n\nThe Africa is entering a new era of cancer research, driven by renewed commitments to genomic innovation, data equity, and strengthened cancer registry systems. The \"Harnessing Functional Genomics in Cancer Research: Opportunities for Diagnosis and Treatment\" conference, held in Windhoek, Namibia, from 23 to 26 September 2025, convened leading experts to evaluate current progress and identify priorities for advancing cancer genomics and precision oncology across the continent. This conference synthesis report and narrative review drew on four days of expert-led presentations, interactive panel discussions, and structured delegate engagement sessions. Conference proceedings were documented through session minutes, presenter slide decks, recorded discussions, and post-conference feedback. Perspectives from more than 160 participants representing 21 countries were synthesized into priority thematic areas through an iterative drafting and multi-author review process. The main findings of the conference included the need to strengthen cancer registry systems and improve data equity, as well as the importance of investing in genomic innovation to advance precision oncology. However, details on next steps or how these priorities will be implemented were not provided.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42509546",
-    "authors": [
-      {
-        "name": "Charlize L Rix",
-        "affiliation": "Department of Biology, Chemistry and Physics, Faculty of Health, Natural Resources and Applied Sciences, Namibia University of Science and Technology, Private Bag 13388, 13 Jackson Kaujeua Street, Windhoek, Namibia."
-      },
-      {
-        "name": "Eliud Buchard Buberwa",
-        "affiliation": "Department of Haematology and Blood Transfusion, Muhimbili University of Health and Allied Sciences, Dar-Es-Salaam, Tanzania."
-      },
-      {
-        "name": "Justice Amofa",
-        "affiliation": "Genomics and Bioinformatics Core Facility Unit, Noguchi Memorial Institute for Medical Research, University of Ghana, Accra, Ghana."
-      },
-      {
-        "name": "Uvatera Maurihungirire",
-        "affiliation": "Department of Biology, Chemistry and Physics, Faculty of Health, Natural Resources and Applied Sciences, Namibia University of Science and Technology, Private Bag 13388, 13 Jackson Kaujeua Street, Windhoek, Namibia."
-      }
-    ],
-    "journal": "BMC proceedings",
-    "publishedDate": "2026-07-29",
-    "fetchedDate": "2026-08-01",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "oncology",
-      "genomic"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42526489",
-    "pmid": "42526489",
-    "doi": "10.1016/j.lanmic.2026.101443",
-    "title": "Advances in development of tuberculosis vaccines and preventive drug therapies: current pipeline, evidence, and access.",
-    "titlePt": "Advances in development of tuberculosis vaccines and preventive drug therapies: current pipeline, evidence, and access.",
-    "abstract": "Tuberculosis remains the leading cause of death from a single infectious agent globally. The WHO Global Tuberculosis Report 2025 indicates that progress towards the WHO End TB Strategy targets remains off track despite modest declines in incidence and mortality. In 2024, an estimated 10&#xb7;7 million people developed tuberculosis and 1&#xb7;23 million died from the disease. In this Series paper, we examine evidence published between Jan 6, 2020, and Jan 6, 2026, to provide an updated overview of tuberculosis vaccines and tuberculosis preventive treatment (TPT). As of June 4, 2026, 18 tuberculosis vaccine candidates are in active clinical development, including six in phase 3 (M72/AS01E, MTBVAC, VPM1002, GamTBvac, Immuvac [MIP], and BCG revaccination trials), representing the most diverse and advanced pipeline since the introduction of BCG in 1921. Platforms include live-attenuated mycobacterial vaccines (eg, MTBVAC), recombinant BCG-derived approaches (eg, VPM1002), protein-adjuvant s",
-    "journalisticSummary": "A tuberculose continua sendo a principal causa de morte por um agente infeccioso único em todo o mundo. De acordo com o Relatório Global de Tuberculose da OMS de 2025, o progresso em direção às metas da Estratégia de Tuberculose da OMS permanece atrasado, apesar de declínios modestos na incidência e mortalidade. Em 2024, estima-se que 10,7 milhões de pessoas desenvolveram tuberculose e 1,23 milhão morreram devido à doença. Neste contexto, um recente estudo publicado na literatura científica fornece uma visão geral atualizada das vacinas contra a tuberculose e do tratamento preventivo de tuberculose (TPT). Até 4 de junho de 2026, 18 candidatos a vacinas contra a tuberculose estão em desenvolvimento clínico ativo, incluindo seis em fase 3, o que representa o pipeline mais diverso e avançado desde a introdução da BCG em 1921.\n\nOs principais achados do estudo incluem a existência de diversas plataformas de vacinas, incluindo vacinas micobacterianas atenuadas vivas, como MTBVAC, e abordagens derivadas de BCG recombinante, como VPM1002. Além disso, o estudo destaca a importância do acesso a essas vacinas e tratamentos, especialmente em áreas de alta incidência de tuberculose. No entanto, não foram fornecidos detalhes sobre os resultados específicos dos estudos clínicos em andamento ou sobre as limitações do estudo. Os próximos passos incluem a continuação do desenvolvimento e teste dessas vacinas e tratamentos, com o objetivo de alcançar as metas da Estratégia de Tuberculose da OMS e reduzir a incidência e mortalidade por tuberculose em todo o mundo.\n\nA tuberculose é uma doença complexa que requer abordagens multifacetadas para seu controle e erradicação. O desenvolvimento de vacinas eficazes e tratamentos preventivos é fundamental para alcançar esses objetivos. Além disso, é essencial garantir o acesso equitativo a essas intervenções, especialmente em populações vulneráveis e de alta risco. Com a continuação dos esforços de pesquisa e desenvolvimento, é possível que sejam alcançados avanços significativos no controle da tuberculose nos próximos anos.\n\nThe tuberculosis remains the leading cause of death from a single infectious agent globally. According to the WHO Global Tuberculosis Report 2025, progress towards the WHO End TB Strategy targets remains off track despite modest declines in incidence and mortality. In 2024, an estimated 10.7 million people developed tuberculosis and 1.23 million died from the disease. In this context, a recent study published in the scientific literature provides an updated overview of tuberculosis vaccines and tuberculosis preventive treatment (TPT). As of June 4, 2026, 18 tuberculosis vaccine candidates are in active clinical development, including six in phase 3, representing the most diverse and advanced pipeline since the introduction of BCG in 1921.\n\nThe main findings of the study include the existence of various vaccine platforms, including live-attenuated mycobacterial vaccines, such as MTBVAC, and recombinant BCG-derived approaches, such as VPM1002. Additionally, the study highlights the importance of access to these vaccines and treatments, especially in areas of high tuberculosis incidence. However, specific results from ongoing clinical trials or study limitations were not provided. The next steps include the continuation of the development and testing of these vaccines and treatments, with the goal of achieving the WHO End TB Strategy targets and reducing tuberculosis incidence and mortality worldwide.\n\nTuberculosis is a complex disease that requires multifaceted approaches for its control and eradication. The development of effective vaccines and preventive treatments is crucial for achieving these objectives. Furthermore, ensuring equitable access to these interventions, especially in vulnerable and high-risk populations, is essential. With continued research and development efforts, significant advances in tuberculosis control are possible in the coming years.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526489",
-    "authors": [
-      {
-        "name": "Christopher da Costa",
-        "affiliation": "Harvard TH Chan School of Public Health, Department of Global Health and Population, Boston, MA, USA."
-      },
-      {
-        "name": "Ben J Marais",
-        "affiliation": "Sydney Infectious Diseases Institute and The Children's Hospital at Westmead Clinical School, University of Sydney, Sydney, NSW, Australia."
-      },
-      {
-        "name": "Delia Goletti",
-        "affiliation": "Translational Research Unit, National Institute for Infectious Diseases Lazzaro Spallanzani, Istituto di Ricovero e Cura a Carattere Scientifico, Rome, Italy."
-      },
-      {
-        "name": "Philip Onyebujoh",
-        "affiliation": "Lusaka Apex Medical University, Lusaka, Zambia."
-      }
-    ],
-    "journal": "The Lancet. Microbe",
-    "publishedDate": "2026-07-29",
-    "fetchedDate": "2026-08-01",
-    "category": "Infectologia",
-    "tags": [
-      "bacterial",
-      "drug",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42508433",
-    "pmid": "42508433",
-    "doi": "10.1016/S1470-2045(26)00194-4",
-    "title": "Intravesical cretostimogene grenadenorepvec oncolytic immunotherapy in high-risk, BCG-unresponsive, non-muscle-invasive bladder cancer with carcinoma in situ (BOND-003 Cohort C): a single-arm, phase 3 trial.",
-    "titlePt": "Intravesical cretostimogene grenadenorepvec oncolytic immunotherapy in high-risk, BCG-unresponsive, non-muscle-invasive bladder cancer with carcinoma in situ (BOND-003 Cohort C): a single-arm, phase 3 trial.",
-    "abstract": "There are few bladder-sparing treatment options for high-risk, BCG-unresponsive, non-muscle-invasive bladder cancer that are effective and have a manageable adverse event profile. Cretostimogene grenadenorepvec (hereafter, cretostimogene) is an oncolytic immunotherapy with dual mechanisms of action-it replicates in and lyses cancer cells with retinoblastoma-E2F pathway alterations and amplifies the immune response. We evaluated the response and safety/tolerability of cretostimogene in patients with high-risk, BCG-unresponsive, non-muscle-invasive bladder cancer. BOND-003 Cohort C is a single-arm, international, phase 3 study done in 41 centres (community practices and academic centres) located in North America, Asia, and Australia. Sites were selected through a study team-led qualification process that evaluated feasibility, protocol alignment, operational capabilities, and regulatory readiness, as applicable. We enrolled patients aged at least 18 years with Eastern Cooperative Oncolog",
-    "journalisticSummary": "O tratamento do câncer de bexiga não invasivo de alto risco e refratário à terapia com BCG (Bacillus Calmette-Guérin) é um desafio clínico significativo, com poucas opções de tratamento que sejam eficazes e tenham um perfil de eventos adversos gerenciável. Nesse contexto, a terapia oncolítica imunológica intravesical com cretostimogene grenadenorepvec, também conhecida como cretostimogene, tem sido avaliada como uma possível opção. Esta terapia apresenta mecanismos de ação dupla, pois replica e lisa células cancerígenas com alterações na via de sinalização retinoblastoma-E2F e amplifica a resposta imune. O estudo BOND-003, Cohorte C, é um ensaio clínico de fase 3, realizado em 41 centros internacionais, que avaliou a resposta e a segurança da cretostimogene em pacientes com câncer de bexiga não invasivo de alto risco e refratário à BCG. Os resultados deste estudo podem oferecer novas perspectivas para o tratamento desses pacientes, que atualmente têm limitadas opções terapêuticas eficazes.\n\nOs achados principais do estudo não foram especificados no resumo disponível, mas a pesquisa foi conduzida em pacientes com idade mínima de 18 anos, diagnosticados com câncer de bexiga não invasivo de alto risco e refratários à terapia com BCG. A terapia com cretostimogene grenadenorepvec foi administrada por via intravesical, e os pacientes foram acompanhados para avaliar a resposta ao tratamento e a ocorrência de eventos adversos. Embora o resumo não forneça detalhes sobre os resultados, estudos como o BOND-003 Cohorte C são cruciais para expandir as opções de tratamento para pacientes com câncer de bexiga não invasivo de alto risco e refratário à BCG.\n\nO impacto clínico de uma terapia eficaz e segura para esses pacientes pode ser significativo, pois pode oferecer uma alternativa à cistectomia, procedimento cirúrgico que remove a bexiga, e melhorar a qualidade de vida dos pacientes. Além disso, a terapia oncolítica imunológica intravesical pode ser uma opção menos invasiva e com menor risco de complicações em comparação com outras abordagens terapêuticas. No entanto, é importante considerar as limitações do estudo, incluindo a necessidade de mais dados sobre a eficácia e segurança a longo prazo da cretostimogene grenadenorepvec.\n\nOs próximos passos para a terapia com cretostimogene grenadenorepvec incluem a análise detalhada dos resultados do estudo BOND-003 Cohorte C e a avaliação de sua eficácia em comparação com outras opções de tratamento disponíveis. Além disso, será fundamental investigar a possibilidade de combinar a cretostimogene com outras terapias para potencializar seus efeitos e melhorar os resultados clínicos. Com a continuação dos estudos clínicos e a expansão do conhecimento sobre a terapia oncolítica imunológica intravesical, os pacientes com câncer de bexiga não invasivo de alto risco e refratário à BCG podem ter acesso a opções de tratamento mais eficazes e personalizadas.\n\nThe treatment of high-risk, BCG-unresponsive, non-muscle-invasive bladder cancer is a significant clinical challenge, with few effective treatment options that have a manageable adverse event profile. In this context, intravesical oncolytic immunotherapy with cretostimogene grenadenorepvec, also known as cretostimogene, has been evaluated as a potential option. This therapy has dual mechanisms of action, as it replicates and lyses cancer cells with retinoblastoma-E2F pathway alterations and amplifies the immune response. The BOND-003 study, Cohort C, is a phase 3 clinical trial conducted at 41 international centers, which assessed the response and safety of cretostimogene in patients with high-risk, BCG-unresponsive, non-muscle-invasive bladder cancer. The results of this study may offer new perspectives for the treatment of these patients, who currently have limited effective therapeutic options.\n\nThe main findings of the study were not specified in the available summary, but the research was conducted in patients aged at least 18 years, diagnosed with high-risk, BCG-unresponsive, non-muscle-invasive bladder cancer. Cretostimogene grenadenorepvec therapy was administered intravesically, and patients were followed to evaluate the response to treatment and the occurrence of adverse events. Although the summary does not provide details on the results, studies like BOND-003 Cohort C are crucial to expanding treatment options for patients with high-risk, BCG-unresponsive, non-muscle-invasive bladder cancer.\n\nThe clinical impact of an effective and safe therapy for these patients can be significant, as it may offer an alternative to cystectomy, a surgical procedure that removes the bladder, and improve the quality of life of patients. Additionally, intravesical oncolytic immunotherapy may be a less invasive option with a lower risk of complications compared to other therapeutic approaches. However, it is essential to consider the limitations of the study, including the need for more data on the long-term efficacy and safety of cretostimogene grenadenorepvec.\n\nThe next steps for cretostimogene grenadenorepvec therapy include a detailed analysis of the results of the BOND-003 Cohort C study and an evaluation of its efficacy compared to other available treatment options. Furthermore, it will be crucial to investigate the possibility of combining cretostimogene with other therapies to enhance its effects and improve clinical outcomes. With the continuation of clinical trials and the expansion of knowledge about intravesical oncolytic immunotherapy, patients with high-risk, BCG-unresponsive, non-muscle-invasive bladder cancer may have access to more effective and personalized treatment options.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42508433",
-    "authors": [
-      {
-        "name": "Mark D Tyson",
-        "affiliation": "Department of Urology, Mayo Clinic, Phoenix, AZ, USA. Electronic address: tyson.mark@mayo.edu."
-      },
-      {
-        "name": "Jong-Kil Nam",
-        "affiliation": "Department of Urology, Pusan National University Yangsan Hospital, Yangsan, South Korea."
-      },
-      {
-        "name": "Shreyas S Joshi",
-        "affiliation": "Department of Urology, Emory University School of Medicine, Atlanta, GA, USA."
-      },
-      {
-        "name": "Edward M Uchio",
-        "affiliation": "Department of Urology, University of California Irvine, Irvine, CA, USA."
-      }
-    ],
-    "journal": "The Lancet. Oncology",
-    "publishedDate": "2026-07-28",
-    "fetchedDate": "2026-08-01",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "carcinoma",
-      "immunotherapy",
-      "gene",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42503939",
-    "pmid": "42503939",
-    "doi": "10.3760/cma.j.cn112150-20251230-01243",
-    "title": "[Advances in research on the molecular mechanisms and gene therapy of hereditary hearing impairment].",
-    "titlePt": "[Advances in research on the molecular mechanisms and gene therapy of hereditary hearing impairment].",
-    "abstract": "Hereditary hearing impairment represents a significant etiology of language and social dysfunction in both children and adults, primarily caused by genetic factors. To date, over 150 genes have been identified in association with this disorder. The pathogenic mechanisms involve multiple molecular levels, including abnormalities in hair cell cytoskeleton and stereociliary structure, dysfunction of intercellular gap junctions (e.g., GJB2, GJB6), dysregulation of ion channels and transporters (e.g., SLC26A4, KCNQ4), alterations in extracellular matrix composition, and disruption of intracellular signaling pathways. In recent years, research has expanded to investigate the role of the inner ear immune microenvironment in this condition, with emerging evidence suggesting that immune dysregulation may contribute to disease initiation and progression. Therapeutically, novel strategies such as adeno-associated virus (AAV)-based gene replacement therapy, CRISPR/Cas-mediated gene editing systems",
-    "journalisticSummary": "A deficiência auditiva hereditária representa uma causa significativa de disfunção linguística e social em crianças e adultos, sendo principalmente causada por fatores genéticos. Até o momento, mais de 150 genes foram identificados em associação com essa doença. Os mecanismos patogênicos envolvem múltiplos níveis moleculares, incluindo anormalidades na estrutura do citosqueleto e estereocílios das células pilosas, disfunção das junções intercelulares (por exemplo, GJB2, GJB6), desregulação de canais iônicos e transportadores (por exemplo, SLC26A4, KCNQ4), alterações na composição da matriz extracelular e interrupção das vias de sinalização intracelular. Nos últimos anos, a pesquisa se expandiu para investigar o papel do microambiente imunológico do ouvido interno nessa condição, com evidências emergentes sugerindo que a disregulação imunológica pode contribuir para o início e progressão da doença. Terapeuticamente, estratégias novas, como a terapia de reposição gênica baseada em vírus associados a adenovirus (AAV) e sistemas de edição gênica mediados por CRISPR/Cas, vêm sendo exploradas. Embora esses avanços sejam promissores, ainda existem limitações e desafios a serem superados, incluindo a necessidade de mais pesquisas sobre a eficácia e segurança dessas abordagens em humanos. Além disso, não foi informado no resumo original quais são os próximos passos específicos para a implementação dessas terapias em larga escala.\n\nHereditary hearing impairment represents a significant etiology of language and social dysfunction in both children and adults, primarily caused by genetic factors. To date, over 150 genes have been identified in association with this disorder. The pathogenic mechanisms involve multiple molecular levels, including abnormalities in hair cell cytoskeleton and stereociliary structure, dysfunction of intercellular gap junctions (e.g., GJB2, GJB6), dysregulation of ion channels and transporters (e.g., SLC26A4, KCNQ4), alterations in extracellular matrix composition, and disruption of intracellular signaling pathways. In recent years, research has expanded to investigate the role of the inner ear immune microenvironment in this condition, with emerging evidence suggesting that immune dysregulation may contribute to disease initiation and progression. Therapeutically, novel strategies such as adeno-associated virus (AAV)-based gene replacement therapy and CRISPR/Cas-mediated gene editing systems are being explored. Although these advances are promising, there are still limitations and challenges to be overcome, including the need for further research on the efficacy and safety of these approaches in humans. Additionally, the original summary did not provide information on the specific next steps for the large-scale implementation of these therapies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42503939",
-    "authors": [
-      {
-        "name": "X P Yang",
-        "affiliation": "Department of Otorhinolaryngology-Head and Neck Surgery, Children's Hospital Affiliated to Kunming Medical University, Kunming 650228, China Key Laboratory of Pediatric Infection and Immunity, Kunming 650228, China Key Laboratory of Research on Major Pediatric Diseases, Kunming 650228, China Yunnan Provincial Institute of Pediatrics, Kunming 650228, China."
-      },
-      {
-        "name": "Y Q Gao",
-        "affiliation": "Department of Otorhinolaryngology-Head and Neck Surgery, Children's Hospital Affiliated to Kunming Medical University, Kunming 650228, China Key Laboratory of Pediatric Infection and Immunity, Kunming 650228, China."
-      },
-      {
-        "name": "L Huang",
-        "affiliation": "Key Laboratory of Pediatric Infection and Immunity, Kunming 650228, China."
-      },
-      {
-        "name": "L J Zhao",
-        "affiliation": "Department of Otorhinolaryngology-Head and Neck Surgery, Children's Hospital Affiliated to Kunming Medical University, Kunming 650228, China Key Laboratory of Pediatric Infection and Immunity, Kunming 650228, China Key Laboratory of Research on Major Pediatric Diseases, Kunming 650228, China Yunnan Provincial Institute of Pediatrics, Kunming 650228, China."
-      }
-    ],
-    "journal": "Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine]",
-    "publishedDate": "2026-07-27",
-    "fetchedDate": "2026-08-01",
-    "category": "Genômica",
-    "tags": [
-      "genetic",
-      "crispr",
-      "gene",
-      "therapeutic",
-      "children"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
