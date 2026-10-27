@@ -1,5 +1,172 @@
 [
   {
+    "id": "pubmed-42927765",
+    "pmid": "42927765",
+    "doi": "10.1016/S1470-2045(26)00446-8",
+    "title": "Neoadjuvant short-course radiotherapy followed by camrelizumab and chemotherapy versus standard of care for locally advanced rectal cancer (UNION): a prespecified interim analysis of a multicentre, open-label, randomised, phase 3 trial.",
+    "titlePt": "Neoadjuvant short-course radiotherapy followed by camrelizumab and chemotherapy versus standard of care for locally advanced rectal cancer (UNION): a prespecified interim analysis of a multicentre, open-label, randomised, phase 3 trial.",
+    "abstract": "To our knowledge, UNION is the first phase 3 trial to assess a neoadjuvant strategy incorporating radiotherapy, immunotherapy, and chemotherapy compared with standard care in patients with locally advanced rectal cancer, which reported positive results for the primary endpoint (blinded independent review committee [BIRC]-assessed pathological complete response rate; 39&#xb7;8% vs 15&#xb7;3%). Here, we present a prespecified interim analysis of event-free survival. This open-label, randomised, phase 3 trial was conducted at nine hospitals in China. Eligible patients were aged 18-75 years with untreated cT3-4 or N+ rectal adenocarcinoma (&#x2264;10 cm distance from the anal verge) and an Eastern Cooperative Oncology Group performance status of 0 or 1. Patients were randomly assigned (1:1; stratified by clinical T stage and N stage), using permuted blocks, to receive neoadjuvant short-course radiotherapy (25 Gy in five fractions) followed by two cycles of intravenous camrelizumab (200 mg ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927765",
+    "authors": [
+      {
+        "name": "Kaixiong Tao",
+        "affiliation": "Department of Gastrointestinal Surgery, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China; Institute of Digestive Diseases, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+      },
+      {
+        "name": "Zhenyu Lin",
+        "affiliation": "Cancer Center, Hubei Key Laboratory of Precision Radiation Oncology, Institute of Radiation Oncology, Hubei International Scientific and Technological Cooperation Base of Precision Radiation Oncology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China; Key Laboratory of Biological Targeted Therapy (Huazhong University of Science and Technology), Ministry of Education, Wuhan, China."
+      },
+      {
+        "name": "Peng Zhang",
+        "affiliation": "Department of Gastrointestinal Surgery, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China; Institute of Digestive Diseases, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+      },
+      {
+        "name": "Pan Chi",
+        "affiliation": "Department of Colorectal Surgery, Fujian Medical University Union Hospital, Fuzhou, China."
+      }
+    ],
+    "journal": "The Lancet. Oncology",
+    "publishedDate": "2026-10-26",
+    "fetchedDate": "2026-10-27",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "oncology",
+      "carcinoma",
+      "chemotherapy",
+      "immunotherapy"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6stVS6-2kFHot-a50ffe49ff323adc\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 87abd96a-bd56-446d-bea9-59936511f5b1)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42933888",
+    "pmid": "42933888",
+    "doi": "10.1136/jitc-2025-013670",
+    "title": "CD83 CAR T provides an alternative strategy to CD19-targeting in B cell malignancies.",
+    "titlePt": "CD83 CAR T provides an alternative strategy to CD19-targeting in B cell malignancies.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42933888",
+    "authors": [
+      {
+        "name": "Brian Christopher Betts",
+        "affiliation": "Medicine, Roswell Park Comprehensive Cancer Center, Buffalo, New York, USA brian.betts@roswellpark.org marco.davila@roswellpark.org."
+      },
+      {
+        "name": "Constanza Savid-Frontera",
+        "affiliation": "Blood and Marrow Transplant and Cellular Immunotherapy, Moffitt Cancer Center, Tampa, Florida, USA."
+      },
+      {
+        "name": "Shannon McSain",
+        "affiliation": "Medicine, Roswell Park Comprehensive Cancer Center, Buffalo, New York, USA."
+      },
+      {
+        "name": "Kelly Walton",
+        "affiliation": "Medicine, Roswell Park Comprehensive Cancer Center, Buffalo, New York, USA."
+      }
+    ],
+    "journal": "Journal for immunotherapy of cancer",
+    "publishedDate": "2026-10-26",
+    "fetchedDate": "2026-10-27",
+    "category": "Genômica",
+    "tags": [
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6stdxQ-2kFHot-a50ffefd3d1b3adc\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 7b96617c-5634-4980-aad2-ca828d59d466)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42933739",
+    "pmid": "42933739",
+    "doi": "10.1016/j.jep.2026.122574",
+    "title": "Mechanisms of Traditional Chinese Medicine-Derived Active Components in the Treatment of Alzheimer's Disease: A Comprehensive Review.",
+    "titlePt": "Mechanisms of Traditional Chinese Medicine-Derived Active Components in the Treatment of Alzheimer's Disease: A Comprehensive Review.",
+    "abstract": "Alzheimer's disease (AD) is a neurodegenerative disorder characterized by progressive cognitive decline and multifactorial pathology. Because AD involves interacting pathological processes, the limited efficacy of conventional single-target therapies has increased interest in traditional Chinese medicine (TCM) and other natural medicines with multi-target pharmacological actions. TCM-derived active components originate from medicinal materials used in traditional practice and are evaluated using modern pharmacological approaches. Their source medicines have diverse traditional-use backgrounds. Some have historical associations with memory or cognitive symptoms, whereas many others were traditionally used for broader deficiency, phlegm, blood-stasis, heat, or related syndromic patterns. These records provide ethnopharmacological context for the source medicines but should not be taken as historical evidence for the anti-AD activity of their isolated constituents. This review synthesizes",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42933739",
+    "authors": [
+      {
+        "name": "Yu Tian",
+        "affiliation": "Guangxi University of Chinese Medicine, Nanning 530000, China; Guangxi Key Laboratory of Efficacy Study on Chinese Materia Medica, Guangxi University of Chinese Medicine, Nanning 530000, China; University Engineering Research Center of Reutilization of Traditional Chinese Medicine Resources, Nanning 530000, China; Guangxi Key Laboratory of TCM Formulas Theory and Transformation for Damp Diseases, Guangxi University of Chinese Medicine, Nanning 530000, China."
+      },
+      {
+        "name": "Jiageng Guo",
+        "affiliation": "School of Pharmaceutical Sciences, Guangzhou University of Chinese Medicine, Guangzhou 510006, People's Republic of China."
+      },
+      {
+        "name": "Xinyue Lin",
+        "affiliation": "Guangxi University of Chinese Medicine, Nanning 530000, China; Guangxi Key Laboratory of Efficacy Study on Chinese Materia Medica, Guangxi University of Chinese Medicine, Nanning 530000, China; University Engineering Research Center of Reutilization of Traditional Chinese Medicine Resources, Nanning 530000, China; Guangxi Key Laboratory of TCM Formulas Theory and Transformation for Damp Diseases, Guangxi University of Chinese Medicine, Nanning 530000, China."
+      },
+      {
+        "name": "Fan Zhang",
+        "affiliation": "Guangxi University of Chinese Medicine, Nanning 530000, China; Guangxi Key Laboratory of Efficacy Study on Chinese Materia Medica, Guangxi University of Chinese Medicine, Nanning 530000, China; University Engineering Research Center of Reutilization of Traditional Chinese Medicine Resources, Nanning 530000, China; Guangxi Key Laboratory of TCM Formulas Theory and Transformation for Damp Diseases, Guangxi University of Chinese Medicine, Nanning 530000, China."
+      }
+    ],
+    "journal": "Journal of ethnopharmacology",
+    "publishedDate": "2026-10-26",
+    "fetchedDate": "2026-10-27",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "cognitive",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6straJ-2kFHot-a51000065e064113\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: d8458416-aa2a-4e8d-b576-c87064ae12ec)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42869876",
+    "pmid": "42869876",
+    "doi": "10.1016/j.vaccine.2026.129233",
+    "title": "High willingness to receive a vaccine for gonorrhoea prevention among gay, bisexual, queer, and other sexuality diverse men, and non-binary people in Australia.",
+    "titlePt": "High willingness to receive a vaccine for gonorrhoea prevention among gay, bisexual, queer, and other sexuality diverse men, and non-binary people in Australia.",
+    "abstract": "Gonorrhoea incidence and antimicrobial resistance are increasing among gay, bisexual, queer, and other sexuality diverse men, and non-binary (GBQ+) people. Observational studies suggested that 4CMenB vaccine (Bexsero&#xae;) may provide partial protection against gonorrhoea, but recent randomised trials found no clear evidence of protection. We analysed willingness to receive 4CMenB for gonorrhoea prevention in a 2025 Australian cross-sectional survey of GBQ+ individuals aged &#x2265;16&#x202f;years. Multivariable logistic regression examined associated factors. Among 2138 participants (median age 39&#x202f;years), 89.2% were willing to be vaccinated. Willingness was lower among participants aged &#x2265;30 (aOR&#x202f;=&#x202f;0.46;95%CI&#x202f;=&#x202f;0.29-0.74), born outside Australia (aOR&#x202f;=&#x202f;0.71;95%CI&#x202f;=&#x202f;0.51-0.99), higher among those reporting recent HIV PrEP use (aOR&#x202f;=&#x202f;2.80;95%CI&#x202f;=&#x202f;1.30-5.99), familiarity with antimicrobial r",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869876",
+    "authors": [
+      {
+        "name": "Mo Hammoud",
+        "affiliation": "LGBTQ+ Population Health Research Group, Kirby Institute, Faculty of Medicine and Health, UNSW Sydney, Australia; Australian Research Centre in Sex, Health and Society (ARCSHS), La Trobe University, Australia. Electronic address: mhammoud@kirby.unsw.edu.au."
+      },
+      {
+        "name": "Martin Holt",
+        "affiliation": "Centre for Social Research in Health, Faculty of Arts, Design &amp; Architecture, UNSW Sydney, Australia."
+      },
+      {
+        "name": "Timothy R Broady",
+        "affiliation": "Centre for Social Research in Health, Faculty of Arts, Design &amp; Architecture, UNSW Sydney, Australia."
+      },
+      {
+        "name": "Andrew Grulich",
+        "affiliation": "LGBTQ+ Population Health Research Group, Kirby Institute, Faculty of Medicine and Health, UNSW Sydney, Australia."
+      }
+    ],
+    "journal": "Vaccine",
+    "publishedDate": "2026-10-26",
+    "fetchedDate": "2026-10-27",
+    "category": "Infectologia",
+    "tags": [
+      "hiv",
+      "antimicrobial",
+      "vaccine"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6suQbf-2kFHot-a51002a709f9f835\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 524db2ef-5051-4ba1-923b-14a01ef9b95d)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42809741",
     "pmid": "42809741",
     "doi": "10.1152/physrev.00004.2026",
@@ -12257,175 +12424,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42502744",
-    "pmid": "42502744",
-    "doi": "10.1016/j.pmedr.2026.103576",
-    "title": "Obesity and severe obesity prevalence among youth aged 2-17 in Minnesota, 2020-2025.",
-    "titlePt": "Obesity and severe obesity prevalence among youth aged 2-17 in Minnesota, 2020-2025.",
-    "abstract": "Existing sources for monitoring pediatric obesity prevalence are limited by delayed data availability and insufficient granularity for small-area estimates. We used data from the Minnesota Electronic Health Record Consortium's Health Trends Across Communities (HTAC) project to estimate obesity and severe obesity prevalence among Minnesota youth. In serial cross-sectional analyses, HTAC data were obtained from 11 health systems in Minnesota. Patients aged 2-17&#xa0;years with a valid body mass index (BMI) measurement at a participating health system from 2020 to 2025 were included. Obesity was defined as BMI &#x2265;95th percentile for age and sex, and severe obesity as BMI &#x2265;120% of the 95th percentile. Results are reported as prevalence estimates stratified by sociodemographic characteristics. Among 486,744 youth with BMI measured in 2025, 80,360 (16.5%, 95% CI: 16.4, 16.6) had obesity and 25,776 (5.3%, 95% CI: 5.2, 5.4) had severe obesity. Prevalence was higher among youth 12-1",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nPesquisadores do *Minnesota Electronic Health Record Consortium* apresentam, em estudo publicado no *Preventive Medicine Reports*, uma análise inédita sobre a prevalência de obesidade e obesidade grave em jovens de 2 a 17 anos no estado de Minnesota, entre 2020 e 2025. Utilizando dados do projeto *Health Trends Across Communities* (HTAC), que agrega informações de 11 sistemas de saúde, o estudo avaliou mais de 486 mil crianças e adolescentes com medição válida de IMC no último ano da série. Os resultados revelam que, em 2025, 16,5% dos jovens (IC 95%: 16,4–16,6) apresentavam obesidade — definida como IMC ≥ percentil 95 para idade e sexo — e 5,3% (IC 95%: 5,2–5,4) tinham obesidade grave, caracterizada por IMC ≥ 120% do percentil 95.\n\nA estratificação por características sociodemográficas indicou que a prevalência de obesidade e obesidade grave foi significativamente maior entre adolescentes de 12 a 17 anos, embora o estudo não especifique os valores exatos para essa faixa etária. Os dados, obtidos em tempo quase real, superam limitações de fontes tradicionais, que costumam sofrer atrasos na disponibilização e baixa granularidade para análises em pequenas áreas geográficas. Segundo os autores, a abordagem baseada em registros eletrônicos de saúde pode aprimorar o monitoramento epidemiológico, possibilitando intervenções mais rápidas e direcionadas.\n\nApesar dos avanços metodológicos, o estudo não detalha possíveis vieses decorrentes da representatividade dos sistemas de saúde incluídos ou da variabilidade na coleta de dados antropométricos. Além disso, a ausência de informações sobre fatores comportamentais, dietéticos ou socioeconômicos — conhecidos por influenciar o IMC — limita a interpretação causal dos achados. Os próximos passos incluem a expansão da cobertura para outras regiões e a integração de variáveis clínicas e ambientais para elucidar os determinantes da obesidade infantil em Minnesota.\n\n---\n\n**English version**\n\nResearchers from the *Minnesota Electronic Health Record Consortium* have published an analysis in *Preventive Medicine Reports* examining the prevalence of obesity and severe obesity among youth aged 2 to 17 in Minnesota between 2020 and 2025. Using data from the *Health Trends Across Communities* (HTAC) project, which aggregates records from 11 health systems, the study assessed over 486,000 children and adolescents with valid BMI measurements in 2025. Findings indicate that 16.5% of youth (95% CI: 16.4–16.6) were classified as obese—defined as BMI ≥ the 95th percentile for age and sex—while 5.3% (95% CI: 5.2–5.4) had severe obesity, defined as BMI ≥ 120% of the 95th percentile.\n\nStratified analyses by sociodemographic characteristics revealed higher prevalence rates among adolescents aged 12 to 17, though the study does not provide exact figures for this subgroup. By leveraging near real-time electronic health records, the researchers address key limitations of traditional surveillance systems, which often suffer from delayed reporting and insufficient granularity for small-area estimates. The authors suggest that this approach could enhance epidemiological monitoring, enabling more timely and targeted public health interventions.\n\nHowever, potential biases stemming from the representativeness of participating health systems or variability in anthropometric data collection were not explored in depth. Furthermore, the lack of details on behavioral, dietary, or socioeconomic factors—known to influence BMI—restricts causal interpretation of the results. Future research should expand geographic coverage and integrate clinical and environmental variables to better elucidate the determinants of pediatric obesity in Minnesota.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42502744",
-    "authors": [
-      {
-        "name": "Samuel T Patnoe",
-        "affiliation": "HealthPartners Institute, Minneapolis, MN, United States of America."
-      },
-      {
-        "name": "Gabriela Vazquez-Benitez",
-        "affiliation": "HealthPartners Institute, Minneapolis, MN, United States of America."
-      },
-      {
-        "name": "Kelly R Bergmann",
-        "affiliation": "Children's Minnesota, Minneapolis, MN, United States of America."
-      },
-      {
-        "name": "Gretchen J Buchanan",
-        "affiliation": "Hennepin Healthcare, Minneapolis, MN, United States of America."
-      }
-    ],
-    "journal": "Preventive medicine reports",
-    "publishedDate": "2026-07-26",
-    "fetchedDate": "2026-08-01",
-    "category": "Pediatria",
-    "tags": [
-      "pediatric",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42502482",
-    "pmid": "42502482",
-    "doi": "10.1016/j.gendis.2025.101996",
-    "title": "The emerging roles of small nucleolar RNAs, piwi-interacting RNAs, tRNA-derived small RNAs, and circular RNAs in the regulation of cardiac hypertrophy, ischemic heart disease, and heart failure.",
-    "titlePt": "The emerging roles of small nucleolar RNAs, piwi-interacting RNAs, tRNA-derived small RNAs, and circular RNAs in the regulation of cardiac hypertrophy, ischemic heart disease, and heart failure.",
-    "abstract": "Heart disease, including cardiac hypertrophy, ischemic heart disease, and heart failure, remains a global health challenge. Given the limitations of existing diagnostic and treatment methods, finding new biomarkers and therapies is essential. Non-coding RNAs (ncRNAs) are gaining prominence as key regulators in the medical field, playing a pivotal role in modulating the onset and progression of heart disease. Their significant potential as diagnostic biomarkers and therapeutic targets is increasingly recognized. This article comprehensively analyzes the basic characteristics of small nucleolar RNAs (snoRNAs), piwi-interacting RNAs (piRNAs), tRNA-derived small RNAs (tsRNAs), and circular RNAs (circRNAs), along with their recent research progress in cardiac hypertrophy, ischemic heart disease, and heart failure. By elucidating their functional mechanisms and clinical potential, this review provides foundational insights for translating ncRNA research into medical applications.",
-    "journalisticSummary": "A doença cardíaca, incluindo hipertrofia cardíaca, doença cardíaca isquêmica e insuficiência cardíaca, continua sendo um desafio global de saúde. Diante das limitações dos métodos diagnósticos e de tratamento existentes, é fundamental encontrar novos biomarcadores e terapias. Os RNAs não codificantes (ncRNAs) estão ganhando destaque como reguladores-chave no campo médico, desempenhando um papel fundamental na modulação do início e progressão da doença cardíaca. Seu potencial significativo como biomarcadores diagnósticos e alvos terapêuticos é cada vez mais reconhecido. Este artigo analisa de forma abrangente as características básicas de pequenos RNAs nucleolares (snoRNAs), RNAs que interagem com piwi (piRNAs), RNAs pequenos derivados de tRNA (tsRNAs) e RNAs circulares (circRNAs), juntamente com os recentes progressos de pesquisa em hipertrofia cardíaca, doença cardíaca isquêmica e insuficiência cardíaca. Ao elucidar seus mecanismos funcionais e potencial clínico, esta revisão fornece insights fundamentais para traduzir a pesquisa de ncRNA em aplicações médicas. Embora o estudo não forneça informações específicas sobre os próximos passos ou limitações, destaca a importância da pesquisa sobre ncRNAs para o desenvolvimento de novas abordagens diagnósticas e terapêuticas para a doença cardíaca.\n\nThe heart disease, including cardiac hypertrophy, ischemic heart disease, and heart failure, remains a global health challenge. Given the limitations of existing diagnostic and treatment methods, finding new biomarkers and therapies is essential. Non-coding RNAs (ncRNAs) are gaining prominence as key regulators in the medical field, playing a pivotal role in modulating the onset and progression of heart disease. Their significant potential as diagnostic biomarkers and therapeutic targets is increasingly recognized. This article comprehensively analyzes the basic characteristics of small nucleolar RNAs (snoRNAs), piwi-interacting RNAs (piRNAs), tRNA-derived small RNAs (tsRNAs), and circular RNAs (circRNAs), along with their recent research progress in cardiac hypertrophy, ischemic heart disease, and heart failure. By elucidating their functional mechanisms and clinical potential, this review provides foundational insights for translating ncRNA research into medical applications. Although the study does not provide specific information on next steps or limitations, it highlights the importance of ncRNA research for the development of new diagnostic and therapeutic approaches for heart disease.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42502482",
-    "authors": [
-      {
-        "name": "Jingyi Wang",
-        "affiliation": "Morphology Lab, School of Basic Medical Sciences, Shandong Second Medical University, Weifang, Shandong 261053, China."
-      },
-      {
-        "name": "Jingyi Xie",
-        "affiliation": "Neurologic Disorders and Regenerative Repair Laboratory, Shandong Second Medical University, Weifang, Shandong 261053, China."
-      },
-      {
-        "name": "Hao Chen",
-        "affiliation": "Institute for Translational Medicine, The Affiliated Hospital of Qingdao University, College of Medicine, Qingdao University, Qingdao, Shandong 266021, China."
-      },
-      {
-        "name": "Wenxu Wang",
-        "affiliation": "Department of Physiology, School of Basic Medical Sciences, Shandong Second Medical University, Weifang, Shandong 261053, China."
-      }
-    ],
-    "journal": "Genes &amp; diseases",
-    "publishedDate": "2026-07-26",
-    "fetchedDate": "2026-08-01",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiac",
-      "heart",
-      "rna",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42498928",
-    "pmid": "42498928",
-    "doi": "10.1186/s12962-026-00803-3",
-    "title": "Cost-effectiveness analysis of molecular reflex testing-based targeted therapy in non-small cell lung cancer from a German healthcare payer perspective using a decision tree model.",
-    "titlePt": "Cost-effectiveness analysis of molecular reflex testing-based targeted therapy in non-small cell lung cancer from a German healthcare payer perspective using a decision tree model.",
-    "abstract": "Reflex testing (RT) - pathologist-initiated molecular testing performed at non-small cell lung cancer (NSCLC) diagnosis - enables rapid identification of actionable genomic alterations for targeted therapy (TT) selection. Despite national and international guideline recommendations, approximately 15% of patients with advanced NSCLC in Germany remain untested for driver mutations. The portion of untested patients in early stages is likely to be even higher. This study simulated the clinical and economic impact of introducing RT for untested NSCLC patients under different implementation scenarios, using a decision-tree model from the German statutory health insurance (SHI) perspective. A decision-tree model simulated four RT cases (C): (C1) no molecular testing, (C2) testing per German S3 guideline recommendations, (C3) testing according to current TT approvals, and (C4) comprehensive panel testing (standard in Austria). PD-L1 expression was tested in all cases. The untested NSCLC popula",
-    "journalisticSummary": "O diagnóstico de câncer de pulmão não pequenas células (NSCLC) é um desafio complexo, e a identificação de alterações genômicas específicas é crucial para a seleção de terapias direcionadas eficazes. No entanto, apesar das recomendações de diretrizes nacionais e internacionais, aproximadamente 15% dos pacientes com NSCLC avançado na Alemanha permanecem sem testes para mutações motoras. Este número provavelmente é ainda maior em estágios iniciais da doença. Um estudo recente publicado no PubMed, com o DOI 10.1186/s12962-026-00803-3, investigou o impacto clínico e econômico da introdução de testes moleculares de reflexo (RT) para pacientes com NSCLC não testados, sob diferentes cenários de implementação, utilizando um modelo de árvore de decisão a partir da perspectiva do seguro de saúde estatutário alemão.\n\nOs resultados do estudo mostraram que a implementação de RT pode ter um impacto significativo no tratamento de pacientes com NSCLC, permitindo a identificação rápida de alterações genômicas específicas e a seleção de terapias direcionadas mais eficazes. O modelo de árvore de decisão simulou quatro cenários de RT, incluindo a ausência de testes moleculares, testes de acordo com as recomendações das diretrizes alemãs S3, testes de acordo com as aprovações atuais de terapias direcionadas e testes de painel abrangente. Além disso, a expressão de PD-L1 foi testada em todos os casos. Embora o estudo não tenha fornecido detalhes sobre os resultados específicos de cada cenário, é claro que a implementação de RT pode melhorar a eficácia do tratamento e reduzir os custos de saúde a longo prazo.\n\nNo entanto, é importante notar que o estudo também destacou as limitações da implementação de RT, incluindo a necessidade de infraestrutura e recursos adequados para a realização dos testes. Além disso, o estudo não forneceu informações sobre a disponibilidade e o acesso a RT em diferentes regiões da Alemanha, o que pode afetar a implementação eficaz desses testes. Em resumo, o estudo sugere que a implementação de RT pode ser uma abordagem valiosa para melhorar o tratamento de pacientes com NSCLC, mas é necessário mais pesquisas para superar as limitações e garantir a acessibilidade e a equidade no acesso a esses testes.\n\nThe diagnosis of non-small cell lung cancer (NSCLC) is a complex challenge, and the identification of specific genomic alterations is crucial for the selection of effective targeted therapies. However, despite national and international guideline recommendations, approximately 15% of patients with advanced NSCLC in Germany remain untested for driver mutations. This number is likely to be even higher in early stages of the disease. A recent study published in PubMed, with the DOI 10.1186/s12962-026-00803-3, investigated the clinical and economic impact of introducing molecular reflex testing (RT) for untested NSCLC patients under different implementation scenarios, using a decision tree model from the German statutory health insurance perspective.\n\nThe study's results showed that the implementation of RT can have a significant impact on the treatment of NSCLC patients, enabling the rapid identification of specific genomic alterations and the selection of more effective targeted therapies. The decision tree model simulated four RT scenarios, including the absence of molecular testing, testing according to German S3 guideline recommendations, testing according to current targeted therapy approvals, and comprehensive panel testing. Additionally, PD-L1 expression was tested in all cases. Although the study did not provide details on the specific outcomes of each scenario, it is clear that the implementation of RT can improve treatment efficacy and reduce healthcare costs in the long term.\n\nHowever, it is essential to note that the study also highlighted the limitations of RT implementation, including the need for adequate infrastructure and resources to perform the tests. Furthermore, the study did not provide information on the availability and accessibility of RT in different regions of Germany, which may affect the effective implementation of these tests. In summary, the study suggests that the implementation of RT can be a valuable approach to improving the treatment of NSCLC patients, but further research is needed to address the limitations and ensure accessibility and equity in access to these tests.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498928",
-    "authors": [
-      {
-        "name": "Leonie Schumacher",
-        "affiliation": "VITIS Healthcare Group, Cologne, Germany. l.schumacher@vitis-healthcare.com."
-      },
-      {
-        "name": "Melina Sophie Kurte",
-        "affiliation": "VITIS Healthcare Group, Cologne, Germany."
-      },
-      {
-        "name": "Tabea Poos",
-        "affiliation": "VITIS Healthcare Group, Cologne, Germany."
-      },
-      {
-        "name": "Markus Thalheimer",
-        "affiliation": "Department of Quality Management and Medical Controlling, University Hospital Heidelberg, Heidelberg, Germany."
-      }
-    ],
-    "journal": "Cost effectiveness and resource allocation : C/E",
-    "publishedDate": "2026-07-24",
-    "fetchedDate": "2026-08-01",
-    "category": "Genômica",
-    "tags": [
-      "cancer",
-      "genomic",
-      "rna",
-      "mutation"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41439507",
-    "pmid": "41439507",
-    "doi": "10.4103/aam.aam_210_25",
-    "title": "Metabolic Syndrome and Its Correlates in Systemic Lupus Erythematosus Patients: A Hidden Clinical Challenge.",
-    "titlePt": "Metabolic Syndrome and Its Correlates in Systemic Lupus Erythematosus Patients: A Hidden Clinical Challenge.",
-    "abstract": "Metabolic Syndrome (MetS), defined by the International Diabetes Federation, is a constellation of risk factors that elevate the likelihood of cardiovascular disease and diabetes. Systemic Lupus Erythematosus (SLE) is a chronic autoimmune disease with rising evidence linking it to increased risk of MetS. Early identification of MetS in SLE patients is critical for cardiovascular risk reduction. The objective of the study was to determine the prevalence of MetS in patients diagnosed with SLE and to evaluate the clinical and demographic correlates in this population. This observational cross-sectional study was conducted from October 2023 to March 2025. A total of 131 adult SLE patients (&#x2265;18 years), diagnosed per 2019 European League Against Rheumatism/American College of Rheumatology classification criteria, were enrolled after informed consent. Patients with malnutrition, pregnancy, infections, or trauma were excluded. Data collection included detailed history, anthropometry, sy",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a prevalência da Síndrome Metabólica (MetS) em pacientes com Lúpus Eritematoso Sistêmico (SLE), uma doença autoimune crônica. A MetS, definida pela Federação Internacional de Diabetes, é um conjunto de fatores de risco que aumentam a probabilidade de doenças cardiovasculares e diabetes. A identificação precoce da MetS em pacientes com SLE é fundamental para reduzir o risco cardiovascular. O estudo, conduzido entre outubro de 2023 e março de 2025, incluiu 131 pacientes adultos com SLE, diagnosticados de acordo com os critérios de classificação da Liga Europeia Contra o Reumatismo e do Colégio Americano de Reumatologia de 2019. Os pacientes com desnutrição, gravidez, infecções ou trauma foram excluídos. A coleta de dados incluiu histórico detalhado, antropometria, síndromes e exames laboratoriais. Infelizmente, não foi informado no resumo original os principais achados e o impacto clínico do estudo. Além disso, as limitações e os próximos passos também não foram explicitados. É importante ressaltar que a compreensão da relação entre a MetS e o SLE é crucial para o desenvolvimento de estratégias de prevenção e tratamento eficazes.\n\nA recent study published in PubMed investigated the prevalence of Metabolic Syndrome (MetS) in patients with Systemic Lupus Erythematosus (SLE), a chronic autoimmune disease. MetS, defined by the International Diabetes Federation, is a constellation of risk factors that elevate the likelihood of cardiovascular disease and diabetes. Early identification of MetS in SLE patients is critical for cardiovascular risk reduction. The study, conducted from October 2023 to March 2025, included 131 adult SLE patients, diagnosed according to the 2019 European League Against Rheumatism/American College of Rheumatology classification criteria. Patients with malnutrition, pregnancy, infections, or trauma were excluded. Data collection included detailed history, anthropometry, syndromes, and laboratory tests. Unfortunately, the main findings and clinical impact of the study were not reported in the original abstract. Additionally, the limitations and next steps were also not explicitly stated. It is essential to emphasize that understanding the relationship between MetS and SLE is crucial for the development of effective prevention and treatment strategies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41439507",
-    "authors": [
-      {
-        "name": "Kishor M Khillare",
-        "affiliation": "Department of Internal Medicine, Dr. D.Y. Patil Medical College, Hospital and Research Center, Dr. D.Y. Patil Vidyapeeth, Pune, Maharashtra, India."
-      },
-      {
-        "name": "Sheetal Nandha Kishore"
-      },
-      {
-        "name": "Janvi Panchal"
-      }
-    ],
-    "journal": "Annals of African medicine",
-    "publishedDate": "2026-07-24",
-    "fetchedDate": "2026-08-01",
-    "category": "Imunologia",
-    "tags": [
-      "cardiovascular",
-      "infection",
-      "rna",
-      "immune",
-      "autoimmune"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
