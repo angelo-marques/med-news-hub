@@ -1,5 +1,45 @@
 [
   {
+    "id": "pubmed-42803531",
+    "pmid": "42803531",
+    "doi": "10.1177/09612033261493819",
+    "title": "Burden of herpes zoster and recombinant zoster vaccine willingness in systemic lupus erythematosus: A single-center cohort study.",
+    "titlePt": "Burden of herpes zoster and recombinant zoster vaccine willingness in systemic lupus erythematosus: A single-center cohort study.",
+    "abstract": "ObjectiveTo characterize the burden of herpes zoster (HZ) in systemic lupus erythematosus (SLE) and to examine clinical correlates of HZ and patients' attitudes toward the recombinant zoster vaccine (RZV).MethodsWe conducted a single-center retrospective cohort study combined with a cross-sectional survey among consecutive adult outpatients with SLE between December 2024 and June 2025. HZ episodes after SLE diagnosis were ascertained via structured interviews. Incidence rates were calculated as the number of HZ episodes per 1000 person-years from SLE diagnosis to enrollment. Participants were classified into three groups according to the number of HZ episodes: HZ0, HZ1, and HZ&#x2265;2 groups. Factors associated with HZ development were assessed using multivariable logistic regression. Patients were asked about willingness to receive RZV (\"yes\", \"no\", or \"not sure\") and reasons for the response.ResultsAmong 170 patients with SLE, 73 (43%) reported at least one HZ episode after SLE diag",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42803531",
+    "authors": [
+      {
+        "name": "Yuhei Fujisawa",
+        "affiliation": "Department of Clinical Immunology, Osaka Metropolitan University Graduate School of Medicine, Osaka, Japan."
+      },
+      {
+        "name": "Ryu Watanabe",
+        "affiliation": "Department of Rheumatology, Ohno Memorial Hospital, Osaka, Japan."
+      },
+      {
+        "name": "Ryuhei Ishihara",
+        "affiliation": "Department of Clinical Immunology, Osaka Metropolitan University Graduate School of Medicine, Osaka, Japan."
+      },
+      {
+        "name": "Yuya Fujita",
+        "affiliation": "Department of Clinical Immunology, Osaka Metropolitan University Graduate School of Medicine, Osaka, Japan."
+      }
+    ],
+    "journal": "Lupus",
+    "publishedDate": "2026-10-27",
+    "fetchedDate": "2026-10-27",
+    "category": "Imunologia",
+    "tags": [
+      "vaccine"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6uCVtV-2kFHot-a5116859ac634aa8\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: f9140ded-3fc3-4a02-bc4a-fb7997668698)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42927765",
     "pmid": "42927765",
     "doi": "10.1016/S1470-2045(26)00446-8",
@@ -12382,48 +12422,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42504139",
-    "pmid": "42504139",
-    "doi": "10.1080/07853890.2026.2704998",
-    "title": "High-flow nasal cannula oxygenation in sedated endoscopy for high-risk obstructive sleep apnea patients: study protocol for a multicentre randomised controlled trial.",
-    "titlePt": "High-flow nasal cannula oxygenation in sedated endoscopy for high-risk obstructive sleep apnea patients: study protocol for a multicentre randomised controlled trial.",
-    "abstract": "Hypoxemia is the most common adverse event during sedated gastrointestinal endoscopy. Patients with high obstructive sleep apnea (OSA) risk (STOP-Bang &#x2265;5) are susceptible due to sedation-induced loss of upper airway tone exacerbating airway collapsibility. Although high-flow nasal cannula (HFNC) benefits general at-risk populations, its efficacy in this specific cohort remains uncertain, as its mild positive pressure falls far below therapeutic continuous positive airway pressure levels for moderate-to-severe OSA, questioning its ability to stent the collapsible airway. Our prior proof-of-concept study in this cohort observed a 5% incidence of hypoxemia with HFNC, confirming feasibility and safety and justifying this confirmatory trial. This prospective, multicenter, randomized controlled single-blind trial will enroll 600 adults (STOP-Bang score &#x2265;5) undergoing elective sedated gastroenteroscopy across three centers. Participants will be 1:1 randomized (stratified by cent",
-    "journalisticSummary": "Um estudo randomizado e controlado multicêntrico foi projetado para avaliar a eficácia da oxigenação por cânula nasal de alto fluxo em pacientes com alto risco de apneia obstrutiva do sono (AOS) submetidos a endoscopia gastrointestinal sedada. A hipoxemia é o evento adverso mais comum durante a endoscopia gastrointestinal sedada, e pacientes com alto risco de AOS são particularmente suscetíveis devido à perda de tônus das vias aéreas superiores induzida pela sedação, o que pode exacerbar a colapsibilidade das vias aéreas. Embora a oxigenação por cânula nasal de alto fluxo (HFNC) seja benéfica para populações em risco em geral, sua eficácia nesse grupo específico de pacientes ainda é incerta. Isso ocorre porque a pressão positiva leve fornecida pela HFNC é significativamente menor do que os níveis de pressão contínua positiva nas vias aéreas terapêuticos para AOS moderada a grave, o que coloca em dúvida sua capacidade de manter aberta a via aérea colapsível.\n\nO estudo atual é uma confirmação de um estudo anterior de conceito que observou uma incidência de 5% de hipoxemia com HFNC nesse grupo de pacientes, confirmando a viabilidade e a segurança do procedimento. Este ensaio clínico prospectivo, multicêntrico e randomizado controlado de simples cegueira irá recrutar 600 adultos com escore STOP-Bang ≥ 5 que estão programados para realizar gastroenteroscopia eletiva sedada em três centros. Os participantes serão randomizados em uma proporção de 1:1, estratificados por centro, para receber HFNC ou o tratamento padrão. O objetivo é avaliar se a HFNC pode reduzir a incidência de hipoxemia em pacientes com alto risco de AOS submetidos a endoscopia gastrointestinal sedada.\n\nA realização desse estudo tem o potencial de fornecer evidências importantes sobre a eficácia da HFNC nesse contexto clínico específico, o que pode impactar significativamente as práticas clínicas e melhorar a segurança dos pacientes com alto risco de AOS durante procedimentos de endoscopia sedada. No entanto, é importante notar que os resultados do estudo ainda estão pendentes, e a eficácia da HFNC nesse grupo de pacientes só poderá ser determinada após a conclusão e análise do estudo.\n\nUm estudo randomizado e controlado multicêntrico foi projetado para avaliar a eficácia da oxigenação por cânula nasal de alto fluxo em pacientes com alto risco de apneia obstrutiva do sono (AOS) submetidos a endoscopia gastrointestinal sedada. No entanto, não foi informado no resumo original quais são as limitações e os próximos passos do estudo.\n\nA versión em inglês é a seguinte:\n\nA randomized controlled multicenter trial has been designed to evaluate the efficacy of high-flow nasal cannula oxygenation in patients with high-risk obstructive sleep apnea (OSA) undergoing sedated gastrointestinal endoscopy. Hypoxemia is the most common adverse event during sedated gastrointestinal endoscopy, and patients with high-risk OSA are particularly susceptible due to sedation-induced loss of upper airway tone, which can exacerbate airway collapsibility. Although high-flow nasal cannula (HFNC) oxygenation is beneficial for general at-risk populations, its efficacy in this specific patient group remains uncertain, as the mild positive pressure provided by HFNC falls far below therapeutic continuous positive airway pressure levels for moderate to severe OSA, questioning its ability to stent the collapsible airway.\n\nThe current study is a confirmatory trial of a prior proof-of-concept study that observed a 5% incidence of hypoxemia with HFNC in this patient group, confirming the feasibility and safety of the procedure. This prospective, multicenter, randomized controlled single-blind trial will enroll 600 adults with a STOP-Bang score ≥ 5 who are scheduled for elective sedated gastroenteroscopy at three centers. Participants will be randomized in a 1:1 ratio, stratified by center, to receive HFNC or standard treatment. The objective is to evaluate whether HFNC can reduce the incidence of hypoxemia in patients with high-risk OSA undergoing sedated gastrointestinal endoscopy.\n\nThe conduct of this study has the potential to provide important evidence regarding the efficacy of HFNC in this specific clinical context, which could significantly impact clinical practices and improve patient safety for those with high-risk OSA during sedated endoscopy procedures. However, it is essential to note that the study results are still pending, and the efficacy of HFNC in this patient group can only be determined after the study's completion and analysis.\n\nA randomized controlled multicenter trial has been designed to evaluate the efficacy of high-flow nasal cannula oxygenation in patients with high-risk obstructive sleep apnea (OSA) undergoing sedated gastrointestinal endoscopy. However, the limitations and next steps of the study were not provided in the original summary.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42504139",
-    "authors": [
-      {
-        "name": "Mingxia Xu",
-        "affiliation": "Department of Anesthesiology, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China."
-      },
-      {
-        "name": "Saiheng Xiang",
-        "affiliation": "Department of Gastroenterology, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China."
-      },
-      {
-        "name": "Yongmin Pi",
-        "affiliation": "Department of Anesthesiology, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China."
-      },
-      {
-        "name": "Yuhuan Zhu",
-        "affiliation": "Department of Anesthesiology, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China."
-      }
-    ],
-    "journal": "Annals of medicine",
-    "publishedDate": "2026-07-27",
-    "fetchedDate": "2026-08-01",
-    "category": "Genômica",
-    "tags": [
-      "gene",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
