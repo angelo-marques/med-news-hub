@@ -1,5 +1,88 @@
 [
   {
+    "id": "pubmed-42946127",
+    "pmid": "42946127",
+    "doi": "10.1002/pds.70517",
+    "title": "Semaglutide and Panic Attacks: Active-Comparator Disproportionality Analysis, Temporal Assessment of Notoriety Bias and Evidence Triangulation in Post-Marketing Pharmacovigilance.",
+    "titlePt": "Semaglutide and Panic Attacks: Active-Comparator Disproportionality Analysis, Temporal Assessment of Notoriety Bias and Evidence Triangulation in Post-Marketing Pharmacovigilance.",
+    "abstract": "To evaluate how confounding by indication and notoriety bias shape the apparent semaglutide-panic attack signal in the FDA Adverse Event Reporting System (FAERS) and to interpret this signal using an evidence-triangulation framework integrating randomized and observational studies. We conducted an active-comparator restricted disproportionality analysis of FAERS (2018Q1-2024Q4), including individual case safety reports in which semaglutide, dulaglutide or empagliflozin was the primary suspect drug. Panic attack was identified using the MedDRA preferred term. Crude and adjusted reporting odds ratios (RORs, aRORs) with 95% confidence intervals (CIs) were estimated using logistic regression, adjusting for age, sex and indication (Type 2 diabetes, obesity/weight management). Notoriety bias was assessed using prespecified temporal analyses (analyses restricted to reports received before July 1, 2023 and a drug-by-period comparison of 2018-2022 with 2023-2024) and reporting proportions per 1",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42946127",
+    "authors": [
+      {
+        "name": "Ben Melamed",
+        "affiliation": "Department of Physiology and Pharmacology, Western University, London, Ontario, Canada."
+      },
+      {
+        "name": "Mahak Parsi-Zahabi",
+        "affiliation": "Department of Physiology and Pharmacology, Western University, London, Ontario, Canada."
+      },
+      {
+        "name": "Mohammad Ali Omrani",
+        "affiliation": "Department of Physiology and Pharmacology, Western University, London, Ontario, Canada."
+      },
+      {
+        "name": "Bala Swetha Baskaran",
+        "affiliation": "Department of Physiology and Pharmacology, Western University, London, Ontario, Canada."
+      }
+    ],
+    "journal": "Pharmacoepidemiology and drug safety",
+    "publishedDate": "2026-10-27",
+    "fetchedDate": "2026-10-28",
+    "category": "Endocrinologia",
+    "tags": [
+      "drug",
+      "diabetes",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p72gcqH-2kFHot-a5197c4528a4a207\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: ac6d8de8-797a-4c15-83fd-289182375462)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42946423",
+    "pmid": "42946423",
+    "doi": "10.21873/anticanres.18464",
+    "title": "Association of Recurrence-free Interval With Survival After Recurrence in Gastric Cancer: A Multicenter Retrospective Study.",
+    "titlePt": "Association of Recurrence-free Interval With Survival After Recurrence in Gastric Cancer: A Multicenter Retrospective Study.",
+    "abstract": "The prognostic significance of recurrence-free interval (RFI) after gastrectomy in patients with gastric cancer (GC) remains unclear, and previous studies have reported inconsistent associations between the timing of recurrence and survival after recurrence. This study evaluated the association of RFI with post-recurrence overall survival (OS) and recurrence patterns in patients receiving first-line chemotherapy for recurrent GC. This multicenter retrospective study included 190 patients who underwent R0 gastrectomy and subsequently received first-line chemotherapy for recurrence between January 2015 and September 2025. RFI was analyzed as a log-transformed continuous variable and its association with post-recurrence OS was evaluated using multivariable Cox regression and restricted cubic spline models. Patients were classified into three groups according to RFI (&lt;6, 6-12, and &#x2265;12 months) for descriptive analyses of patient characteristics and recurrence patterns. The prevale",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42946423",
+    "authors": [
+      {
+        "name": "Shota Shimizu",
+        "affiliation": "Division of Gastrointestinal and Pediatric Surgery, Department of Surgery, School of Medicine, Tottori University Faculty of Medicine, Yonago, Japan; s.shimizu@tottori-u.ac.jp."
+      },
+      {
+        "name": "Tomoyuki Matsunaga",
+        "affiliation": "Division of Gastrointestinal and Pediatric Surgery, Department of Surgery, School of Medicine, Tottori University Faculty of Medicine, Yonago, Japan."
+      },
+      {
+        "name": "Sadamu Takahashi",
+        "affiliation": "National Hospital Organization, Hamada Medical Center, Hamada, Japan."
+      },
+      {
+        "name": "Hirohiko Kuroda",
+        "affiliation": "Department of Surgery, Japanese Red Cross Masuda Hospital, Masuda, Japan."
+      }
+    ],
+    "journal": "Anticancer research",
+    "publishedDate": "2026-10-27",
+    "fetchedDate": "2026-10-28",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "chemotherapy"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p72hEsP-2kFHot-a5197f3ab9ae4cba\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: ebe38ed8-46e1-4ba3-bbb0-2f4977acf1db)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42946427",
     "pmid": "42946427",
     "doi": "10.21873/anticanres.18428",
@@ -12325,93 +12408,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42527140",
-    "pmid": "42527140",
-    "doi": "10.3760/cma.j.cn112140-20251230-01163",
-    "title": "[Clinical analysis of 9 children of B-cell acute lymphoblastic leukemia with MEF2D gene rearrangement].",
-    "titlePt": "[Clinical analysis of 9 children of B-cell acute lymphoblastic leukemia with MEF2D gene rearrangement].",
-    "abstract": "Objective: To summarize the clinical characteristics, molecular genetic features, diagnosis and treatment of pediatric B-cell acute lymphoblastic leukemia (B-ALL) with myocyte enhancer factor 2D (MEF2D) gene rearrangement. Methods: In this case series study, clinical data of 9 children newly diagnosed B-ALL with MEF2D gene rearranged, admitted to the First Affiliated Hospital of Zhengzhou University from May 2020 to June 2025 were collected. The clinical characteristics, laboratory findings, treatment regimens, and outcomes of these patients were systematically analyzed. Results: A total of 9 chlidren were enrolled (3 boys and 6 girls), with the diagnostic age of 12.0 (11.0, 13.8) years. Five children initially presented with fever accompanied by arthralgia. Immunophenotyping revealed that 1 child was early precursor B-ALL and the remaining 8 children were common B-ALL. Uniformly high expression of CD38 and absence of cytoplasmic immunoglobulin M (cIgM) expression in all 9 children. Bo",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Chinese Medical Journal* analisou as características clínicas, genéticas e desfechos de nove crianças diagnosticadas com leucemia linfoblástica aguda de células B (LLA-B) associada à rearranjo do gene *MEF2D*. Os dados, coletados entre maio de 2020 e junho de 2025 no Primeiro Hospital Afiliado da Universidade de Zhengzhou, revelam um perfil clínico distinto e desafios no manejo terapêutico dessa variante rara da doença.\n\nAs nove crianças, com idade mediana de 12 anos ao diagnóstico, apresentaram manifestações clínicas variadas, sendo a febre acompanhada de artralgia o sintoma inicial mais frequente em cinco casos. O imunofenotipagem identificou um caso de LLA-B de células precursoras precoces e oito casos de LLA-B comum, todos com alta expressão de CD38 e ausência de imunoglobulina citoplasmática M (cIgM). Esses achados sugerem um padrão imunofenotípico consistente, embora o estudo não tenha detalhado a frequência de marcadores adicionais ou a presença de outros rearranjos genéticos associados. Quanto ao tratamento, o trabalho não especificou os protocolos empregados ou as taxas de resposta, limitando a análise comparativa com padrões terapêuticos convencionais.\n\nA relevância clínica do estudo reside na identificação de um subgrupo de LLA-B pediátrica com rearranjo em *MEF2D*, cuja patogênese e resposta ao tratamento ainda são pouco elucidados. A ausência de dados sobre sobrevida global, recidiva ou efeitos adversos do tratamento impede conclusões definitivas sobre o prognóstico. Pesquisas futuras com amostras maiores e delineamentos prospectivos são necessárias para validar esses achados e orientar estratégias terapêuticas personalizadas. Até o momento, os resultados reforçam a necessidade de incorporar testes genéticos específicos no diagnóstico de LLA-B pediátrica, especialmente em pacientes com apresentação atípica.\n\n---\n\n**English version**\n\nA recent study published in the *Chinese Medical Journal* examined the clinical, genetic, and outcome characteristics of nine children diagnosed with B-cell acute lymphoblastic leukemia (B-ALL) associated with *MEF2D* gene rearrangement. The data, collected between May 2020 and June 2025 at the First Affiliated Hospital of Zhengzhou University, reveal a distinct clinical profile and therapeutic challenges in managing this rare subtype of the disease.\n\nThe nine children, with a median diagnostic age of 12 years, presented varied clinical manifestations, with fever accompanied by arthralgia being the most common initial symptom in five cases. Immunophenotyping identified one case of early precursor B-ALL and eight cases of common B-ALL, all exhibiting high CD38 expression and the absence of cytoplasmic immunoglobulin M (cIgM). These findings suggest a consistent immunophenotypic pattern, though the study did not detail the frequency of additional markers or the presence of other associated genetic rearrangements. Regarding treatment, the study did not specify the protocols used or response rates, limiting comparative analysis with conventional therapeutic standards.\n\nThe clinical relevance of the study lies in the identification of a subgroup of pediatric B-ALL with *MEF2D* rearrangement, whose pathogenesis and treatment response remain poorly understood. The lack of data on overall survival, relapse, or treatment-related adverse effects prevents definitive conclusions about prognosis. Future research with larger sample sizes and prospective designs is needed to validate these findings and guide personalized therapeutic strategies. For now, the results underscore the need to incorporate specific genetic testing in the diagnosis of pediatric B-ALL, particularly in patients with atypical presentations.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527140",
-    "authors": [
-      {
-        "name": "X P Jia",
-        "affiliation": "Department of Pediatric Hematology and Oncology, Children's Hospital of First Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, China."
-      },
-      {
-        "name": "A N Lian",
-        "affiliation": "Department of Pediatric Hematology and Oncology, Children's Hospital of First Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, China."
-      },
-      {
-        "name": "Y S Zhang",
-        "affiliation": "Department of Pediatric Hematology and Oncology, Children's Hospital of First Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, China."
-      },
-      {
-        "name": "J Luo",
-        "affiliation": "Department of Pediatric Hematology and Oncology, Children's Hospital of First Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, China."
-      }
-    ],
-    "journal": "Zhonghua er ke za zhi = Chinese journal of pediatrics",
-    "publishedDate": "2026-07-29",
-    "fetchedDate": "2026-08-01",
-    "category": "Genômica",
-    "tags": [
-      "leukemia",
-      "genetic",
-      "gene",
-      "pediatric",
-      "children"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42525825",
-    "pmid": "42525825",
-    "doi": "10.1080/07853890.2026.2707864",
-    "title": "Protocol for a cohort study: evaluating the effect of neoadjuvant immunochemotherapy on intraoperative remifentanil consumption during IoC2-guided anesthesia in elderly patients with esophageal cancer.",
-    "titlePt": "Protocol for a cohort study: evaluating the effect of neoadjuvant immunochemotherapy on intraoperative remifentanil consumption during IoC2-guided anesthesia in elderly patients with esophageal cancer.",
-    "abstract": "The influence of neoadjuvant immunochemotherapy (nICT) on intraoperative opioid consumption during esophagectomy for cancer is not well understood. IoC2 enables real-time antinociceptive depth monitoring. This study assesses nICT's effect on remifentanil requirements in elderly patients using IoC2. This prospective observational cohort study will be conducted at Jiangsu Cancer Hospital. Sixty patients scheduled for esophagectomy will be enrolled. Patients will be divided into the nICT group (n&#x2009;=&#x2009;30) or the treatment-naive group (n&#x2009;=&#x2009;30). All patients will receive a standardized anesthetic protocol. The primary outcome is the mean intraoperative remifentanil infusion rate (&#x3bc;g/kg/min). Secondary outcomes include: total intraoperative dose of sufentanil; postoperative cumulative opioid consumption at PACU, 12, 24, 48, and 72&#x2009;h; pain scores, PCIA attempts, and rescue analgesia use at PACU, 12, 24, 48, and 72&#x2009;h post-surgery, and the incidence ",
-    "journalisticSummary": "Um estudo recente publicado no PubMed visa investigar o impacto da imunquimioterapia neoadjuvante (nICT) no consumo de remifentanil durante a cirurgia de esofagectomia em pacientes idosos com câncer de es��fago. A compreensão desse efeito é crucial, pois a nICT tem se tornado uma abordagem terapêutica cada vez mais comum para esse tipo de câncer. O estudo emprega o IoC2, uma tecnologia que permite o monitoramento em tempo real da profundidade antinociceptiva, oferecendo uma avaliação precisa do consumo de opioides durante a cirurgia. \n\nA pesquisa será conduzida no Hospital de Câncer de Jiangsu e contará com a participação de 60 pacientes, divididos igualmente em dois grupos: um que receberá nICT antes da cirurgia e outro que não receberá tratamento antes da operação. Todos os pacientes seguirão um protocolo anestésico padronizado, garantindo condições uniformes para a comparação dos resultados. O objetivo principal é determinar a taxa média de infusão de remifentanil durante a cirurgia, enquanto os objetivos secundários incluem a dose total de sufentanil utilizada, o consumo pós-operatório de opioides, as pontuações de dor, o uso de analgesia de resgate e a incidência de eventos adversos.\n\nOs resultados desse estudo podem ter implicações significativas para a prática clínica, especialmente no que diz respeito ao manejo da dor em pacientes idosos submetidos a esofagectomia. No entanto, não foram fornecidos detalhes sobre o tamanho da amostra ou os critérios de inclusão e exclusão, o que poderia influenciar a interpretação dos resultados. Além disso, a limitação do estudo a um único centro pode restringir a generalização dos achados para outras populações. \n\nOs próximos passos incluem a realização do estudo e a análise dos dados coletados, que poderão fornecer insights valiosos sobre como a nICT afeta o consumo de opioides durante a cirurgia de esofagectomia. Essas informações podem ajudar a otimizar o manejo da dor e a reduzir os riscos associados ao uso de opioides em pacientes idosos.\n\nUm estudo recente publicado no PubMed visa investigar o impacto da imunquimioterapia neoadjuvante (nICT) no consumo de remifentanil durante a cirurgia de esofagectomia em pacientes idosos com câncer de esôfago. No entanto, não foi informado no resumo original se o estudo já foi realizado ou se os dados estão disponíveis.\n\nA versão em inglês:\n \nA recent study published in PubMed aims to investigate the impact of neoadjuvant immunochemotherapy (nICT) on remifentanil consumption during esophagectomy in elderly patients with esophageal cancer. Understanding this effect is crucial, as nICT has become an increasingly common therapeutic approach for this type of cancer. The study employs IoC2, a technology that allows for real-time monitoring of antinociceptive depth, providing an accurate assessment of opioid consumption during surgery.\n\nThe research will be conducted at Jiangsu Cancer Hospital and will involve 60 patients, divided equally into two groups: one that will receive nICT before surgery and another that will not receive treatment before the operation. All patients will follow a standardized anesthetic protocol, ensuring uniform conditions for comparison of the results. The primary objective is to determine the mean intraoperative remifentanil infusion rate, while secondary objectives include the total dose of sufentanil used, postoperative opioid consumption, pain scores, rescue analgesia use, and the incidence of adverse events.\n\nThe results of this study may have significant implications for clinical practice, especially regarding pain management in elderly patients undergoing esophagectomy. However, details about the sample size or inclusion and exclusion criteria were not provided, which could influence the interpretation of the results. Furthermore, the limitation of the study to a single center may restrict the generalization of the findings to other populations.\n\nThe next steps include conducting the study and analyzing the collected data, which may provide valuable insights into how nICT affects opioid consumption during esophagectomy. This information can help optimize pain management and reduce the risks associated with opioid use in elderly patients.\n\nA recent study published in PubMed aims to investigate the impact of neoadjuvant immunochemotherapy (nICT) on remifentanil consumption during esophagectomy in elderly patients with esophageal cancer. However, it was not informed in the original summary if the study has already been conducted or if the data is available.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525825",
-    "authors": [
-      {
-        "name": "Halisa Paerhati",
-        "affiliation": "Department of Anesthesiology, the Affiliated Cancer Hospital of Nanjing Medical University, Jiangsu Cancer Hospital, and Jiangsu Institute of Cancer Research, Nanjing, China."
-      },
-      {
-        "name": "Xinyang Hu",
-        "affiliation": "Department of Anesthesiology, the Affiliated Cancer Hospital of Nanjing Medical University, Jiangsu Cancer Hospital, and Jiangsu Institute of Cancer Research, Nanjing, China."
-      },
-      {
-        "name": "Yuchen Lu",
-        "affiliation": "School of Anesthesiology, Xuzhou Medical University, Xuzhou, China."
-      },
-      {
-        "name": "Lingxi Xing",
-        "affiliation": "Department of Anesthesiology, the Affiliated Cancer Hospital of Nanjing Medical University, Jiangsu Cancer Hospital, and Jiangsu Institute of Cancer Research, Nanjing, China."
-      }
-    ],
-    "journal": "Annals of medicine",
-    "publishedDate": "2026-07-29",
-    "fetchedDate": "2026-08-01",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "chemotherapy"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
