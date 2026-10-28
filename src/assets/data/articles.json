@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42946427",
+    "pmid": "42946427",
+    "doi": "10.21873/anticanres.18428",
+    "title": "Functional Health Illiteracy in Cancer Patients and Caregivers in the Era of Precision Medicine and Immunotherapy: A Narrative Review.",
+    "titlePt": "Functional Health Illiteracy in Cancer Patients and Caregivers in the Era of Precision Medicine and Immunotherapy: A Narrative Review.",
+    "abstract": "Functional health illiteracy is a significant barrier to equitable cancer care for patients and caregivers, a challenge that is exacerbated by precision medicine and immunotherapy. This review article aimed at synthesizing current evidence on functional health illiteracy among cancer patients and caregivers and examines its interaction with the demands of precision medicine and immunotherapy. The article also outlines practical strategies to mitigate the impact of health illiteracy on therapy adherence, decision-making, and clinical outcomes. Articles published between 2010 and 2025 were identified through searches of PubMed, CINAHL, and PsycINFO. Policy reports from the National Cancer Institute, the Institute of Medicine, and the American Society of Clinical Oncology were also included to provide contextual background. Consistency in article selection was assessed using the K coefficient. Approximately 36-50% of cancer patients were found to be unable to effectively use health inform",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42946427",
+    "authors": [
+      {
+        "name": "Vittorio Gebbia",
+        "affiliation": "Chair of Medical Oncology, Department of Medicine and Surgery, Kore University of Enna, Enna, Italy; vittorio.gebbia@unikore.it."
+      },
+      {
+        "name": "Alessandro DE Lisi",
+        "affiliation": "Medical Oncology Unit, CdC Torina, Palermo, Italy."
+      },
+      {
+        "name": "Alessia Passanisi",
+        "affiliation": "Samot - Society for Assistance to Terminally Ill Cancer Patients, Palermo, Italy."
+      },
+      {
+        "name": "Fabrizio Scrima",
+        "affiliation": "Chair of Psychology, Kore University of Enna, Enna, Italy."
+      }
+    ],
+    "journal": "Anticancer research",
+    "publishedDate": "2026-10-27",
+    "fetchedDate": "2026-10-28",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "oncology",
+      "immunotherapy"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6zeuFL-2kFHot-a5174b87385e85c0\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 752d0042-e8df-4573-b6b6-30016e2948ae)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42938906",
     "pmid": "42938906",
     "doi": "10.3390/cancers18203374",
@@ -12370,47 +12412,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42425178",
-    "pmid": "42425178",
-    "doi": "10.1016/j.ijcard.2026.134665",
-    "title": "Chronic obstructive pulmonary disease and CA125 levels in ambulatory chronic heart failure: The COPA-HF study.",
-    "titlePt": "Chronic obstructive pulmonary disease and CA125 levels in ambulatory chronic heart failure: The COPA-HF study.",
-    "abstract": "Chronic obstructive pulmonary disease (COPD) is a frequent comorbidity in chronic heart failure (CHF) and is associated with greater symptom burden and worse prognosis. Carbohydrate antigen 125 (CA125) has emerged as a biomarker of congestion and mesothelial/inflammatory activation in heart failure; however, its relationship with COPD in ambulatory CHF populations has not been systematically evaluated. We aimed to (1) determine the prevalence of COPD in a CHF outpatient cohort, (2) compare CA125 levels according to COPD status, and (3) evaluate whether COPD independently predicts CA125 levels. COPA-HF was a multicenter prospective observational study conducted in five outpatient HF units in Madrid, Spain (May-June 2025). Consecutive adults with HF were enrolled during routine follow-up visits after providing written informed consent. COPD was defined by spirometry according to GOLD criteria in patients with tobacco exposure or respiratory symptoms, using a post-bronchodilator. CA125 an",
-    "journalisticSummary": "Um estudo recente publicado na revista International Journal of Cardiology investigou a relação entre a doença pulmonar obstrutiva crônica (DPOC) e os níveis de antígeno carboidrato 125 (CA125) em pacientes com insuficiência cardíaca crônica (ICC) ambulatoriais. A DPOC é uma comorbidade frequente em pacientes com ICC e está associada a uma maior carga de sintomas e pior prognóstico. O CA125 tem sido reconhecido como um biomarcador de congestão e ativação mesotelial/inflamatória na insuficiência cardíaca, mas sua relação com a DPOC em populações ambulatoriais de ICC ainda não havia sido avaliada sistematicamente. O estudo COPA-HF, uma pesquisa multicêntrica prospectiva observacional realizada em cinco unidades de insuficiência cardíaca ambulatoriais em Madrid, Espanha, entre maio e junho de 2025, teve como objetivos determinar a prevalência de DPOC em uma coorte de pacientes com ICC, comparar os níveis de CA125 de acordo com o status de DPOC e avaliar se a DPOC prediz independentemente os níveis de CA125. Embora os resultados específicos do estudo não tenham sido informados no resumo, a investigação sobre a interação entre DPOC e CA125 em pacientes com ICC ambulatoriais é crucial para entender melhor a fisiopatologia e o gerenciamento dessas condições.\n\nNão foram fornecidos detalhes sobre as limitações do estudo ou os próximos passos para a pesquisa, o que é essencial para entender as implicações clínicas e a direção futura das investigações. Além disso, a compreensão da relação entre DPOC e CA125 pode ter implicações significativas para o manejo e o tratamento de pacientes com ICC, destacando a importância de mais pesquisas nessa área.\n\nA pesquisa sobre a interação entre DPOC e biomarcadores como o CA125 em pacientes com ICC ambulatoriais é um campo em desenvolvimento, e estudos como o COPA-HF contribuem para o avanço do conhecimento nessa área. No entanto, sem os resultados específicos, é desafiador avaliar o impacto clínico direto dessas descobertas. A continuidade das investigações e a disponibilização de mais dados são cruciais para o progresso no entendimento e no tratamento dessas condições.\n\nUm estudo recente publicado na revista International Journal of Cardiology investigou a relação entre a doença pulmonar obstrutiva crônica (DPOC) e os níveis de antígeno carboidrato 125 (CA125) em pacientes com insuficiência cardíaca crônica (ICC) ambulatoriais. A DPOC é uma comorbidade frequente em pacientes com ICC e está associada a uma maior carga de sintomas e pior prognóstico. O CA125 tem sido reconhecido como um biomarcador de congestão e ativação mesotelial/inflamatória na insuficiência cardíaca, mas sua relação com a DPOC em populações ambulatoriais de ICC ainda não havia sido avaliada sistematicamente.\n\nAvaliando os objetivos do estudo COPA-HF, que incluíram determinar a prevalência de DPOC, comparar os níveis de CA125 de acordo com o status de DPOC e avaliar se a DPOC prediz independentemente os níveis de CA125, é fundamental considerar as implicações clínicas e as limitações da pesquisa. No entanto, devido à falta de informações específicas sobre os resultados, é desafiador discutir as implicações clínicas diretas e as limitações do estudo. A pesquisa sobre a interação entre DPOC e biomarcadores como o CA125 em pacientes com ICC ambulatoriais é um campo em desenvolvimento, e estudos como o COPA-HF contribuem para o avanço do conhecimento nessa área.\n\nA relação entre a DPOC e o CA125 em pacientes com ICC ambulatoriais é complexa e requer mais investigação para ser completamente compreendida. Mais pesquisas são necessárias para explorar as implicações clínicas dessas descobertas e para desenvolver estratégias eficazes para o manejo e tratamento de pacientes com ICC e DPOC. \n\n---\n\nA recent study published in the International Journal of Cardiology investigated the relationship between chronic obstructive pulmonary disease (COPD) and carbohydrate antigen 125 (CA125) levels in ambulatory chronic heart failure (CHF) patients. COPD is a frequent comorbidity in CHF and is associated with a greater symptom burden and worse prognosis. CA125 has emerged as a biomarker of congestion and mesothelial/inflammatory activation in heart failure; however, its relationship with COPD in ambulatory CHF populations has not been systematically evaluated. The COPA-HF study, a multicenter prospective observational study conducted in five outpatient heart failure units in Madrid, Spain, between May and June 2025, aimed to determine the prevalence of COPD in a CHF outpatient cohort, compare CA125 levels according to COPD status, and evaluate whether COPD independently predicts CA125 levels. Although the specific results of the study were not reported in the abstract, the investigation into the interaction between COPD and CA125 in ambulatory CHF patients is crucial for understanding the pathophysiology and management of these conditions.\n\nThe study's findings and their clinical implications are not detailed in the provided information, which is essential for understanding the impact on patient care and future research directions. Furthermore, understanding the relationship between COPD and biomarkers like CA125 in ambulatory CHF patients is an evolving field, and studies like COPA-HF contribute to advancing knowledge in this area. However, without specific results, it is challenging to assess the direct clinical impact of these discoveries. The continuation of research and the availability of more data are crucial for progress in understanding and treating these conditions.\n\nResearch into the interaction between COPD and biomarkers like CA125 in ambulatory CHF patients is a developing field, and studies like COPA-HF contribute to the advancement of knowledge in this area. Evaluating the objectives of the COPA-HF study, which included determining the prevalence of COPD, comparing CA125 levels according to COPD status, and evaluating whether COPD independently predicts CA125 levels, is fundamental to considering the clinical implications and limitations of the research. However, due to the lack of specific information about the results, it is challenging to discuss the direct clinical implications and limitations of the study. \n\nThe relationship between COPD and CA125 in ambulatory CHF patients is complex and requires further investigation to be fully understood. More research is needed to explore the clinical implications of these",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42425178",
-    "authors": [
-      {
-        "name": "Andr&#xe9;s Pa&#xfa;l Cevallos Castro",
-        "affiliation": "Internal Medicine Department, Hospital Universitario Ram&#xf3;n y Cajal, IRYCIS, Madrid, Spain."
-      },
-      {
-        "name": "Pau Ll&#xe0;cer",
-        "affiliation": "Internal Medicine Department, Hospital Universitario Ram&#xf3;n y Cajal, IRYCIS, Madrid, Spain; Department of Medicine and Medical Specialities, Facultad de Medicina y Ciencias de la Salud, Universidad de Alcal&#xe1;, Madrid, Spain. Electronic address: paullacer@hotmail.com."
-      },
-      {
-        "name": "Llanos Soler",
-        "affiliation": "Internal Medicine Department, Hospital Universitario Infanta Sofia. San Sebasti&#xe1;n de los Reyes, Madrid, Spain."
-      },
-      {
-        "name": "Juan Esteban Oyuela Rodriguez",
-        "affiliation": "Internal Medicine Department, Hospital Universitario Ram&#xf3;n y Cajal, IRYCIS, Madrid, Spain."
-      }
-    ],
-    "journal": "International journal of cardiology",
-    "publishedDate": "2026-07-29",
-    "fetchedDate": "2026-08-01",
-    "category": "Cardiologia",
-    "tags": [
-      "heart"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Groq"
   }
