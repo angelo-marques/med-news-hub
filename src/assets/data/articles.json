@@ -1,5 +1,44 @@
 [
   {
+    "id": "pubmed-42949450",
+    "pmid": "42949450",
+    "doi": "10.1097/QMH.0000000000000600",
+    "title": "Bioinformatics for Healthcare Quality Management: Clinical Outcomes, Implementation Barriers, and Care Improvement.",
+    "titlePt": "Bioinformatics for Healthcare Quality Management: Clinical Outcomes, Implementation Barriers, and Care Improvement.",
+    "abstract": "The bioinformatics-enabled workflows as quality-management tools have become central to modern healthcare, enabling genomic sequencing, transcriptomics, proteomics, and multiomics integration to support clinical decision-making. Despite expanding adoption, synthesized evidence on measurable clinical value and organizational, workforce, interoperability, governance, and equity barriers remains limited. To synthesize evidence on the contribution of bioinformatics-enabled workflows to healthcare quality improvement, care-process performance, clinical decision-making, patient outcomes, and implementation challenges from 2015 to 2025. Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 guidelines, we searched PubMed/MEDLINE, Scopus, Web of Science, Embase, and IEEE Xplore. We included studies from real-world healthcare or public health settings where bioinformatics supported diagnostic quality, timeliness, treatment appropriateness, patient safety, and workflow",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42949450",
+    "authors": [
+      {
+        "name": "Javed Us Salam",
+        "affiliation": "Author Affiliation(s): Department of Bioscience, Comsats University, Islamabad, Pakistan (Mr Salam); Department of Precision Medicine, School of Medicine (Ms Yousaf, Dr Mir, and Dr Lee), Department of Metabiohealth, Institute for Cross-disciplinary Studies (Dr Lee), Department of Artificial Intelligence (Dr Lee), Personalized Cancer Immunotherapy Research Center, Sungkyunkwan University School of Medicine, Suwon, South Korea (Dr Lee); and Department of Family Medicine, Kangbuk Samsung Hospital, Sungkyunkwan University School of Medicine, Jongno-gu Seoul, South Korea (Dr Lee)."
+      },
+      {
+        "name": "Maha Yousaf"
+      },
+      {
+        "name": "Bilal Ahmad Mir"
+      },
+      {
+        "name": "Seung Won Lee"
+      }
+    ],
+    "journal": "Quality management in health care",
+    "publishedDate": "2026-10-28",
+    "fetchedDate": "2026-10-28",
+    "category": "Genômica",
+    "tags": [
+      "genomic",
+      "rna",
+      "sequencing"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p74u6hn-2kFHot-a51be048aa539b4f\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: ce82f298-3386-489d-b45c-8e5a2a8519fa)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42942533",
     "pmid": "42942533",
     "doi": "10.3390/medicina62102002",
@@ -12365,47 +12404,5 @@
     "readTime": 10,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p72yev7-2kFHot-a519cd6b7b51c70a\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 7916f6ed-6fba-4875-8f09-dec97c729de1)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42526489",
-    "pmid": "42526489",
-    "doi": "10.1016/j.lanmic.2026.101443",
-    "title": "Advances in development of tuberculosis vaccines and preventive drug therapies: current pipeline, evidence, and access.",
-    "titlePt": "Advances in development of tuberculosis vaccines and preventive drug therapies: current pipeline, evidence, and access.",
-    "abstract": "Tuberculosis remains the leading cause of death from a single infectious agent globally. The WHO Global Tuberculosis Report 2025 indicates that progress towards the WHO End TB Strategy targets remains off track despite modest declines in incidence and mortality. In 2024, an estimated 10&#xb7;7 million people developed tuberculosis and 1&#xb7;23 million died from the disease. In this Series paper, we examine evidence published between Jan 6, 2020, and Jan 6, 2026, to provide an updated overview of tuberculosis vaccines and tuberculosis preventive treatment (TPT). As of June 4, 2026, 18 tuberculosis vaccine candidates are in active clinical development, including six in phase 3 (M72/AS01E, MTBVAC, VPM1002, GamTBvac, Immuvac [MIP], and BCG revaccination trials), representing the most diverse and advanced pipeline since the introduction of BCG in 1921. Platforms include live-attenuated mycobacterial vaccines (eg, MTBVAC), recombinant BCG-derived approaches (eg, VPM1002), protein-adjuvant s",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526489",
-    "authors": [
-      {
-        "name": "Christopher da Costa",
-        "affiliation": "Harvard TH Chan School of Public Health, Department of Global Health and Population, Boston, MA, USA."
-      },
-      {
-        "name": "Ben J Marais",
-        "affiliation": "Sydney Infectious Diseases Institute and The Children's Hospital at Westmead Clinical School, University of Sydney, Sydney, NSW, Australia."
-      },
-      {
-        "name": "Delia Goletti",
-        "affiliation": "Translational Research Unit, National Institute for Infectious Diseases Lazzaro Spallanzani, Istituto di Ricovero e Cura a Carattere Scientifico, Rome, Italy."
-      },
-      {
-        "name": "Philip Onyebujoh",
-        "affiliation": "Lusaka Apex Medical University, Lusaka, Zambia."
-      }
-    ],
-    "journal": "The Lancet. Microbe",
-    "publishedDate": "2026-07-29",
-    "fetchedDate": "2026-10-27",
-    "category": "Infectologia",
-    "tags": [
-      "bacterial",
-      "drug",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6wrSEC-2kFHot-a51445a0089fbc82\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 9ba51995-0ca8-42a1-9cee-cde1bb460f1e)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
