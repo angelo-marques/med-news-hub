@@ -1,5 +1,87 @@
 [
   {
+    "id": "pubmed-42942533",
+    "pmid": "42942533",
+    "doi": "10.3390/medicina62102002",
+    "title": "HDL-C Levels Are Associated with Clinical Outcomes and Hospital Mortality in Critically Ill Patients with Sepsis: A Prospective Cohort Study.",
+    "titlePt": "HDL-C Levels Are Associated with Clinical Outcomes and Hospital Mortality in Critically Ill Patients with Sepsis: A Prospective Cohort Study.",
+    "abstract": "Background and Objectives: Metabolic perturbations frequently occur during the acute phase of critical illness and may disrupt lipid homeostasis. Acute respiratory distress syndrome (ARDS) is a severe condition and is associated with high mortality in critically ill patients with sepsis. This study aimed to evaluate the association between conventional plasma lipid parameters and clinical outcomes in critically ill sepsis patients. Materials and Methods: We conducted a prospective observational cohort study of critically ill sepsis patients in Taiwan between October 2020 and July 2025. Conventional plasma lipid parameters and clinical variables were measured at intensive care unit admission. Clinical outcomes were compared between patients stratified by plasma HDL-C levels. Results: A total of 285 critically ill patients with sepsis were included. Pneumonia was the presumed source of infection in 91% of patients, and 78% met the criteria for ARDS. The overall hospital mortality rate wa",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42942533",
+    "authors": [
+      {
+        "name": "Hsin-Hsien Li",
+        "affiliation": "Department of Respiratory Therapy, Chang Gung University College of Medicine, Taoyuan 33302, Taiwan."
+      },
+      {
+        "name": "Tien-Ming Chan",
+        "affiliation": "Department of Thoracic Medicine, Chang Gung Memorial Hospital, Linkou Branch, Taoyuan 33305, Taiwan."
+      },
+      {
+        "name": "How-Wen Ko",
+        "affiliation": "Division of Rheumatology, Allergy, and Immunology, Chang Gung Memorial Hospital, Linkou Branch, Taoyuan 33305, Taiwan."
+      },
+      {
+        "name": "Chung-Shu Lee",
+        "affiliation": "College of Medicine, Chang Gung University, Taoyuan 33302, Taiwan."
+      }
+    ],
+    "journal": "Medicina (Kaunas, Lithuania)",
+    "publishedDate": "2026-10-27",
+    "fetchedDate": "2026-10-28",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "sepsis",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p72ziMt-2kFHot-a519d277ae93c70a\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 5cdb0f82-8c6d-4558-9653-6f338bca0be3)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42759526",
+    "pmid": "42759526",
+    "doi": "10.1016/S2213-2600(26)00219-5",
+    "title": "Duration of effectiveness of tuberculosis preventive treatment across various tuberculosis burden settings: a systematic review and individual-participant meta-analysis.",
+    "titlePt": "Duration of effectiveness of tuberculosis preventive treatment across various tuberculosis burden settings: a systematic review and individual-participant meta-analysis.",
+    "abstract": "Millions of individuals at risk of tuberculosis are given tuberculosis preventive treatment (TPT) annually. However, questions remain regarding the duration of protection from TPT and potential variability across populations and settings with disparate tuberculosis risk. We aimed to assess the effect of TPT on time to tuberculosis among close contacts of individuals with tuberculosis and with evidence of Mycobacterium tuberculosis infection across high-burden, medium-burden, and low-burden settings. In this systematic review and individual-participant meta-analysis, we searched MEDLINE, PubMed, Web of Science, BIOSIS, and Embase for cohort studies and randomised controlled trials published between Jan 1, 1998, and Aug 28, 2023. Studies were eligible if they included individuals (of any age) with household or close exposure to a person with microbiologically or clinically diagnosed tuberculosis (contacts); had at least 6 months of contact follow-up from baseline; and reported start and ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42759526",
+    "authors": [
+      {
+        "name": "Lauren R Linde",
+        "affiliation": "Department of Epidemiology, Boston University School of Public Health, Boston, MA, USA."
+      },
+      {
+        "name": "Jeffrey I Campbell",
+        "affiliation": "Section of Pediatric Infectious Diseases, Boston Medical Center, Boston, MA, USA."
+      },
+      {
+        "name": "C Robert Horsburgh",
+        "affiliation": "Department of Epidemiology, Boston University School of Public Health, Boston, MA, USA; Department of Global Health, Boston University School of Public Health, Boston, MA, USA."
+      },
+      {
+        "name": "Matthew P Fox",
+        "affiliation": "Department of Epidemiology, Boston University School of Public Health, Boston, MA, USA; Department of Global Health, Boston University School of Public Health, Boston, MA, USA."
+      }
+    ],
+    "journal": "The Lancet. Respiratory medicine",
+    "publishedDate": "2026-10-27",
+    "fetchedDate": "2026-10-28",
+    "category": "Infectologia",
+    "tags": [
+      "infection"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p731AzK-2kFHot-a519d4a778c2c70a\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: d4b6e2c1-0e85-4ec5-9237-91ea28ac0657)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42946127",
     "pmid": "42946127",
     "doi": "10.1002/pds.70517",
@@ -12244,6 +12326,47 @@
     "aiProvider": "Groq"
   },
   {
+    "id": "pubmed-42525825",
+    "pmid": "42525825",
+    "doi": "10.1080/07853890.2026.2707864",
+    "title": "Protocol for a cohort study: evaluating the effect of neoadjuvant immunochemotherapy on intraoperative remifentanil consumption during IoC2-guided anesthesia in elderly patients with esophageal cancer.",
+    "titlePt": "Protocol for a cohort study: evaluating the effect of neoadjuvant immunochemotherapy on intraoperative remifentanil consumption during IoC2-guided anesthesia in elderly patients with esophageal cancer.",
+    "abstract": "The influence of neoadjuvant immunochemotherapy (nICT) on intraoperative opioid consumption during esophagectomy for cancer is not well understood. IoC2 enables real-time antinociceptive depth monitoring. This study assesses nICT's effect on remifentanil requirements in elderly patients using IoC2. This prospective observational cohort study will be conducted at Jiangsu Cancer Hospital. Sixty patients scheduled for esophagectomy will be enrolled. Patients will be divided into the nICT group (n&#x2009;=&#x2009;30) or the treatment-naive group (n&#x2009;=&#x2009;30). All patients will receive a standardized anesthetic protocol. The primary outcome is the mean intraoperative remifentanil infusion rate (&#x3bc;g/kg/min). Secondary outcomes include: total intraoperative dose of sufentanil; postoperative cumulative opioid consumption at PACU, 12, 24, 48, and 72&#x2009;h; pain scores, PCIA attempts, and rescue analgesia use at PACU, 12, 24, 48, and 72&#x2009;h post-surgery, and the incidence ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525825",
+    "authors": [
+      {
+        "name": "Halisa Paerhati",
+        "affiliation": "Department of Anesthesiology, the Affiliated Cancer Hospital of Nanjing Medical University, Jiangsu Cancer Hospital, and Jiangsu Institute of Cancer Research, Nanjing, China."
+      },
+      {
+        "name": "Xinyang Hu",
+        "affiliation": "Department of Anesthesiology, the Affiliated Cancer Hospital of Nanjing Medical University, Jiangsu Cancer Hospital, and Jiangsu Institute of Cancer Research, Nanjing, China."
+      },
+      {
+        "name": "Yuchen Lu",
+        "affiliation": "School of Anesthesiology, Xuzhou Medical University, Xuzhou, China."
+      },
+      {
+        "name": "Lingxi Xing",
+        "affiliation": "Department of Anesthesiology, the Affiliated Cancer Hospital of Nanjing Medical University, Jiangsu Cancer Hospital, and Jiangsu Institute of Cancer Research, Nanjing, China."
+      }
+    ],
+    "journal": "Annals of medicine",
+    "publishedDate": "2026-07-29",
+    "fetchedDate": "2026-10-28",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "chemotherapy"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p72yev7-2kFHot-a519cd6b7b51c70a\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 7916f6ed-6fba-4875-8f09-dec97c729de1)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42526489",
     "pmid": "42526489",
     "doi": "10.1016/j.lanmic.2026.101443",
@@ -12284,131 +12407,5 @@
     "readTime": 5,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p6wrSEC-2kFHot-a51445a0089fbc82\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 9ba51995-0ca8-42a1-9cee-cde1bb460f1e)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42425179",
-    "pmid": "42425179",
-    "doi": "10.1016/j.ijcard.2026.134666",
-    "title": "Loeffler's Endomyocarditis: Clinical characteristics and outcomes from a tertiary care centre registry.",
-    "titlePt": "Loeffler's Endomyocarditis: Clinical characteristics and outcomes from a tertiary care centre registry.",
-    "abstract": "Loeffler's endomyocarditis, the cardiac manifestation of hypereosinophilic syndrome, is characterized by eosinophilic myocardial infiltration and thrombus formation leading to restrictive cardiomyopathy. In a retrospective single-center registry, patients diagnosed with Loeffler's endomyocarditis between 2017 and 2025 were included. Clinical data, biomarkers, echocardiography, cardiac magnetic resonance imaging (CMR), and endomyocardial biopsies (n&#xa0;=&#xa0;8) were analyzed. Eighteen patients were included. Hierarchical clustering identified two patterns: an acute inflammatory form with elevated troponin T, C-reactive protein, fever, and subepicardial late gadolinium enhancement (LGE), and a subacute/chronic form with lower inflammatory activity, frequent ventricular thrombi, subendocardial LGE, and increased left atrial volume index. Peripheral eosinophilia was present in 61.1% of patients at any time of assessment. The vast majority of patients received corticosteroids and heart f",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42425179",
-    "authors": [
-      {
-        "name": "Peter Buske",
-        "affiliation": "Department of Internal Medicine/Cardiology, Heart Center Leipzig at Leipzig University, Leipzig, Germany. Electronic address: peter.buske@medizin.uni-leipzig.de."
-      },
-      {
-        "name": "Christian Krieghoff",
-        "affiliation": "Department of Diagnostic and Interventional Radiology, Heart Center Leipzig, Leipzig, Germany."
-      },
-      {
-        "name": "Christian L&#xfc;cke",
-        "affiliation": "Department of Diagnostic and Interventional Radiology, Heart Center Leipzig, Leipzig, Germany."
-      },
-      {
-        "name": "Matthias Gutberlet",
-        "affiliation": "Department of Diagnostic and Interventional Radiology, Heart Center Leipzig, Leipzig, Germany."
-      }
-    ],
-    "journal": "International journal of cardiology",
-    "publishedDate": "2026-07-29",
-    "fetchedDate": "2026-10-13",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiac",
-      "heart",
-      "myocardial",
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p4ziwMo-2kFHot-a49a2e15fbbdad81\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 770057fb-1a34-409b-9546-278008557577)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42424683",
-    "pmid": "42424683",
-    "doi": "10.1016/j.atherosclerosis.2026.120816",
-    "title": "Global prevalence of elevated high-sensitivity C-reactive protein in patients with atherosclerotic cardiovascular disease, with and without chronic kidney disease: findings from the POSEIDON study.",
-    "titlePt": "Global prevalence of elevated high-sensitivity C-reactive protein in patients with atherosclerotic cardiovascular disease, with and without chronic kidney disease: findings from the POSEIDON study.",
-    "abstract": "Inflammation is a causal risk factor for atherosclerotic cardiovascular disease (ASCVD). Contemporary global data on the prevalence of high inflammatory risk (high-sensitivity C-reactive protein [hsCRP] &#x2265;2&#x202f;mg/L), remain limited. We evaluated the global prevalence and characteristics of patients with high inflammatory risk among ASCVD patients, with and without chronic kidney disease (CKD). POSEIDON (NCT06122961) measured clinical and laboratory characteristics in 13,475 patients with ASCVD across 317 sites in 18 countries (2023-2025). The primary outcome was prevalence of hsCRP &#x2265;2&#x202f;mg/L, stratified by CKD status (estimated glomerular filtration rate &lt;60 or &#x2265;60&#x202f;mL/min/1.73&#x202f;m2); also assessed were factors associated with hsCRP &#x2265;2&#x202f;mg/L and the correlation between hsCRP and interleukin (IL)-6. Among ASCVD patients with CKD (n&#x202f;=&#x202f;5757; mean age 75 years, 25.9% women), 39.3% had elevated hsCRP; among those without ",
-    "journalisticSummary": "A inflamação é um fator de risco causal para doenças cardiovasculares ateroscleróticas (DCVA). No entanto, dados contemporâneos globais sobre a prevalência de risco inflamatório alto, medido pela proteína C-reativa de alta sensibilidade (hsCRP) ≥2 mg/L, ainda são limitados. Um estudo recente, intitulado POSEIDON, avaliou a prevalência global e as características de pacientes com risco inflamatório alto entre aqueles com DCVA, com e sem doença renal crônica (DRC). O estudo POSEIDON, realizado em 317 centros de 18 países entre 2023 e 2025, incluiu 13.475 pacientes com DCVA. O resultado primário foi a prevalência de hsCRP ≥2 mg/L, estratificada por status de DRC, considerando a taxa de filtração glomerular estimada (TFGe) <60 ou ≥60 mL/min/1,73 m². Além disso, foram avaliados fatores associados a hsCRP ≥2 mg/L e a correlação entre hsCRP e interleucina-6 (IL-6). Entre os pacientes com DCVA e DRC (n = 5.757, idade média de 75 anos, 25,9% mulheres), 39,3% apresentaram hsCRP elevada. Já entre aqueles sem DRC, a prevalência de hsCRP elevada foi significativamente diferente, mas não foi especificada no resumo disponível. Os achados deste estudo destacam a importância da inflamação no contexto da DCVA e sugerem que a monitorização da hsCRP pode ser uma ferramenta útil para identificar pacientes de alto risco. No entanto, limitações do estudo, como a falta de detalhes sobre a população sem DRC, precisam ser consideradas. Próximos passos incluem a análise mais aprofundada dos dados do estudo POSEIDON e a investigação de como a hsCRP pode ser utilizada para guiar decisões terapêuticas em pacientes com DCVA.\n\nAtherosclerotic cardiovascular disease (ASCVD) is causally linked to inflammation. However, contemporary global data on the prevalence of high inflammatory risk, as measured by high-sensitivity C-reactive protein (hsCRP) ≥2 mg/L, remain limited. A recent study, titled POSEIDON, evaluated the global prevalence and characteristics of patients with high inflammatory risk among those with ASCVD, with and without chronic kidney disease (CKD). The POSEIDON study, conducted across 317 sites in 18 countries between 2023 and 2025, included 13,475 patients with ASCVD. The primary outcome was the prevalence of hsCRP ≥2 mg/L, stratified by CKD status, considering estimated glomerular filtration rate (eGFR) <60 or ≥60 mL/min/1.73 m². Additionally, factors associated with hsCRP ≥2 mg/L and the correlation between hsCRP and interleukin-6 (IL-6) were assessed. Among ASCVD patients with CKD (n = 5,757, mean age 75 years, 25.9% women), 39.3% had elevated hsCRP. However, the prevalence of elevated hsCRP among those without CKD was not specified in the available abstract. The findings of this study highlight the importance of inflammation in the context of ASCVD and suggest that monitoring hsCRP may be a useful tool for identifying high-risk patients. Nevertheless, study limitations, such as the lack of details about the population without CKD, need to be considered. Next steps include a more in-depth analysis of the POSEIDON study data and an investigation into how hsCRP can be used to guide therapeutic decisions in patients with ASCVD.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42424683",
-    "authors": [
-      {
-        "name": "Ann Marie Navar",
-        "affiliation": "UT Southwestern Medical Center, Dallas, TX, United States. Electronic address: ann.navar@utsouthwestern.edu."
-      },
-      {
-        "name": "Ling Bai",
-        "affiliation": "The First Affiliated Hospital of Xi'An Jiao Tong, Xi'An, China."
-      },
-      {
-        "name": "Jesper Falkesgaard H&#xf8;jen",
-        "affiliation": "Novo Nordisk A/S, S&#xf8;borg, Denmark."
-      },
-      {
-        "name": "Fabrice Ivanes",
-        "affiliation": "Service de Cardiologie, Centre Hospitalier Universitaire de Tours, Universit&#xe9; de Tours, Tours, France."
-      }
-    ],
-    "journal": "Atherosclerosis",
-    "publishedDate": "2026-07-29",
-    "fetchedDate": "2026-08-01",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41513055",
-    "pmid": "41513055",
-    "doi": "10.1016/j.hrthm.2025.12.037",
-    "title": "Can oral anticoagulants be safely discontinued after atrial fibrillation ablation? A systematic review and meta-analysis of reconstructed time-to-event data.",
-    "titlePt": "Can oral anticoagulants be safely discontinued after atrial fibrillation ablation? A systematic review and meta-analysis of reconstructed time-to-event data.",
-    "abstract": "Ablation procedures are frequently used to restore sinus rhythm in atrial fibrillation (AF), given the increased stroke risk associated with AF. The decision to discontinue oral anticoagulation (OAC) therapy postprocedure requires careful consideration of stroke and bleeding risks, especially because of the absence of definitive guidelines. This meta-analysis aims to evaluate the implications of OAC discontinuation after catheter ablation for AF, focusing on thromboembolic events (TEs) and bleeding events. A systematic search was conducted in 4 databases for studies comparing OAC discontinuation with maintenance in patients with AF postablation. We pooled odds ratios (ORs) for binary outcomes with a random effects model and performed sensitivity analyses using hazard ratios and subgroups based on CHA2DS2-VASc scores and sinus rhythm status. 32 studies were included, comprising 271,808 patients, with 88,164 (32.4%) discontinuing OAC use after ablation. The primary analysis showed no sig",
-    "journalisticSummary": "A ablação por cateter é um procedimento frequentemente utilizado para restaurar o ritmo sinusal em pacientes com fibrilação atrial (FA), considerando o aumento do risco de acidente vascular cerebral (AVC) associado a essa condição. No entanto, a decisão de interromper a terapia com anticoagulantes orais (TAO) após o procedimento requer uma cuidadosa avaliação dos riscos de AVC e sangramento, especialmente devido à falta de diretrizes definitivas. Um estudo recente, publicado na revista Heart Rhythm, realizou uma metanálise sistemática para avaliar as implicações da interrupção da TAO após a ablação por cateter para FA, com foco em eventos tromboembólicos (ETs) e eventos de sangramento. Os autores realizaram uma busca sistemática em quatro bases de dados para identificar estudos que comparassem a interrupção da TAO com a manutenção em pacientes com FA pós-ablação. Foram incluídos 32 estudos, que abrangiam 271.808 pacientes, com 88.164 (32,4%) interrompendo o uso de TAO após a ablação. A análise primária mostrou que não houve significativa diferença nos riscos de ETs e eventos de sangramento entre os pacientes que interromperam e os que mantiveram a TAO. No entanto, não foi fornecida informações sobre os resultados específicos e as limitações do estudo. É fundamental considerar que a decisão de interromper a TAO deve ser individualizada, levando em conta os fatores de risco específicos de cada paciente, e que mais estudos são necessários para estabelecer diretrizes claras sobre a interrupção da TAO após a ablação por cateter para FA.\n\nA catheter ablation procedure is frequently used to restore sinus rhythm in patients with atrial fibrillation (AF), given the increased stroke risk associated with AF. However, the decision to discontinue oral anticoagulation (OAC) therapy after the procedure requires careful consideration of stroke and bleeding risks, especially due to the lack of definitive guidelines. A recent study, published in the journal Heart Rhythm, conducted a systematic meta-analysis to evaluate the implications of OAC discontinuation after catheter ablation for AF, focusing on thromboembolic events (TEs) and bleeding events. The authors performed a systematic search in four databases to identify studies comparing OAC discontinuation with maintenance in patients with AF post-ablation. Thirty-two studies were included, comprising 271,808 patients, with 88,164 (32.4%) discontinuing OAC use after ablation. The primary analysis showed no significant difference in the risks of TEs and bleeding events between patients who discontinued and those who maintained OAC. However, specific results and limitations of the study were not provided. It is crucial to consider that the decision to discontinue OAC should be individualized, taking into account each patient's specific risk factors, and that further studies are needed to establish clear guidelines on OAC discontinuation after catheter ablation for AF.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41513055",
-    "authors": [
-      {
-        "name": "Lucas M Barbosa",
-        "affiliation": "Medicine Department, Federal University of Minas Gerais, Belo Horizonte, Brazil."
-      },
-      {
-        "name": "Vin&#xed;cius Martins Rodrigues Oliveira",
-        "affiliation": "Medicine Department, Federal University of Goi&#xe1;s, Goi&#xe2;nia, Brazil."
-      },
-      {
-        "name": "Andr&#xe9; Rivera",
-        "affiliation": "Medicine Department, Nove de Julho University, S&#xe3;o Bernardo do Campo, Brazil."
-      },
-      {
-        "name": "Beatriz Ara&#xfa;jo",
-        "affiliation": "Medicine Department, Nove de Julho University, S&#xe3;o Bernardo do Campo, Brazil."
-      }
-    ],
-    "journal": "Heart rhythm",
-    "publishedDate": "2026-07-29",
-    "fetchedDate": "2026-08-01",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
