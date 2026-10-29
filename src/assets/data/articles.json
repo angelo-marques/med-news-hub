@@ -1,5 +1,165 @@
 [
   {
+    "id": "pubmed-42893492",
+    "pmid": "42893492",
+    "doi": "10.1097/GCO.0000000000001157",
+    "title": "Use of vaginal estrogens in urogynecology: current evidence, controversies and clinical applications.",
+    "titlePt": "Use of vaginal estrogens in urogynecology: current evidence, controversies and clinical applications.",
+    "abstract": "Genitourinary syndrome of menopause (GSM) is a prevalent yet underrecognized condition in postmenopausal women, characterized by progressive vulvovaginal and lower urinary tract symptoms from estrogen deficiency. Vaginal estrogen therapy is the first-line pharmacologic treatment for GSM. However, as new evidence emerges, understanding of its efficacy, safety, and use in special populations continues to evolve. This review summarizes current evidence on vaginal estrogen formulations, clinical effectiveness, safety, and therapeutic applications. Recent randomized controlled trials confirm that low-dose vaginal estrogen significantly improves GSM symptoms - including vaginal dryness, dyspareunia, and irritation - while restoring epithelial integrity and normalizing pH. Evidence also supports its role in reducing recurrent urinary tract infections by restoring lactobacilli-dominant flora, reinforced by a 2025 multisociety clinical guideline recommending topical, but not systemic, estrogen ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893492",
+    "authors": [
+      {
+        "name": "Priyanka Singh",
+        "affiliation": "Department of Obstetrics, Gynecology, and Reproductive Sciences, University of Texas Houston, Houston, Texas, USA."
+      },
+      {
+        "name": "Juhi Pancholy"
+      },
+      {
+        "name": "Apurva Pancholy"
+      }
+    ],
+    "journal": "Current opinion in obstetrics &amp; gynecology",
+    "publishedDate": "2026-10-29",
+    "fetchedDate": "2026-10-29",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p79qBSj-2kFHot-a5213306afac5825\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 9b4372e9-658a-49eb-a4d4-34bc0ea3b2b8)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42951976",
+    "pmid": "42951976",
+    "doi": "10.1038/s41586-026-11206-y",
+    "title": "Alzheimer's disease genetics converges on microglial and neuronal dysregulation.",
+    "titlePt": "Alzheimer's disease genetics converges on microglial and neuronal dysregulation.",
+    "abstract": "Alzheimer's disease (AD) is the most common cause of dementia, with global case numbers projected to reach 153 million in 20501. AD is highly heritable, with twin-based heritability estimates of 60-80%2. Although 1,200 causal loci are predicted to exist for AD3, approximately 80 loci have been associated with AD in two recent studies4,5. Low single-nucleotide polymorphism (SNP)-based heritability estimates have prompted the suggestion that little further common-variant risk remains to be found6. Here we analysed data from 109,479 cases, 74,141 proxy cases, 2,131,799 controls and 499,708 proxy controls from diverse ancestries, identifying 118 loci in a multi-ancestry analysis and 9 additional loci in ancestry-specific analyses, 48 of which are new. We identified new AD risk genes, prioritized potential drug targets, and found that genes upregulated in microglia and downregulated in neurons in cases compared with controls were enriched for AD-associated genetic risk. Moreover, we improve",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42951976",
+    "authors": [
+      {
+        "name": "Emil Uffelmann",
+        "affiliation": "Department of Complex Trait Genetics, Center for Neurogenomics and Cognitive Research, Amsterdam Neuroscience, Vrije Universiteit Amsterdam, Amsterdam, Netherlands. e.uffelmann@vu.nl."
+      },
+      {
+        "name": "Douglas P Wightman",
+        "affiliation": "Department of Complex Trait Genetics, Center for Neurogenomics and Cognitive Research, Amsterdam Neuroscience, Vrije Universiteit Amsterdam, Amsterdam, Netherlands. d.p.wightman@vu.nl."
+      },
+      {
+        "name": "Shahram Bahrami",
+        "affiliation": "Centre for Precision Psychiatry, Division of Mental Health and Addiction, University of Oslo and Oslo University Hospital, Oslo, Norway."
+      },
+      {
+        "name": "Alexey A Shadrin",
+        "affiliation": "Centre for Precision Psychiatry, Division of Mental Health and Addiction, University of Oslo and Oslo University Hospital, Oslo, Norway."
+      }
+    ],
+    "journal": "Nature",
+    "publishedDate": "2026-10-29",
+    "fetchedDate": "2026-10-29",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "dementia",
+      "genetic",
+      "gene",
+      "drug"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p79qS6B-2kFHot-a521343b2ebacbaf\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: a674e764-239e-4a8b-8608-d79b8f136a50)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42392466",
+    "pmid": "42392466",
+    "doi": "10.1016/j.hrthm.2026.06.040",
+    "title": "Pulsed field ablation with a variable loop circular catheter in atrial fibrillation: Acute outcomes from the VARIPURE multicenter study.",
+    "titlePt": "Pulsed field ablation with a variable loop circular catheter in atrial fibrillation: Acute outcomes from the VARIPURE multicenter study.",
+    "abstract": "The safety and effectiveness of the variable loop circular catheter (VLCC) pulsed field ablation (PFA) system was shown in atrial fibrillation (AF) registrational trials. Assess acute safety and effectiveness of first-time pulmonary vein isolation (PVI) with the VLCC in standard clinical practice in the VARIPURE substudy of the ongoing, prospective, multicenter, observational SECURE postmarket follow-up study. Data were extracted from Electronic Data Capture and the CARTONET data analytics software. Primary safety was the incidence of primary adverse events related to the VLCC and/or procedure. Primary effectiveness was acute procedural success, confirmed by electrical isolation of all targeted PVs. Among 1022 AF patients (mean age 64.9 years, 63.3% male, 63.5% paroxysmal AF; mean CHA2DS2-VASc 2.2; 22 European centers, 74 operators), 29.5% underwent ablations beyond the PVs (PVI+). The mean &#xb1; standard deviation procedure, left atrial dwell, and fluoroscopy times were 60.1 &#xb1; 2",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42392466",
+    "authors": [
+      {
+        "name": "Alexandre Almorad",
+        "affiliation": "Heart Rhythm Management Centre, Postgraduate Program in Cardiac Electrophysiology and Pacing, Universitair Ziekenhuis Brussels-Vrije Universiteit Brussels, European Reference Networks Guard-Heart, Brussels, Belgium; Department of Cardiology, Centre Hospitalier Universitaire Saint-Pierre, Universit&#xe9; Libre de Bruxelles, Brussels, Belgium. Electronic address: alexandre.almorad@uzbrussel.be."
+      },
+      {
+        "name": "Frederic A Sebag",
+        "affiliation": "Institute Mutualiste Montsouris, Paris, France."
+      },
+      {
+        "name": "Mads Brix Kronborg",
+        "affiliation": "Aarhus University Hospital, Aarhus, Denmark."
+      },
+      {
+        "name": "Christian Sohns",
+        "affiliation": "Department of Electrophysiology, Heart and Diabetes Center NRW, Ruhr University Bochum, Bad Oeynhausen, Germany."
+      }
+    ],
+    "journal": "Heart rhythm",
+    "publishedDate": "2026-10-28",
+    "fetchedDate": "2026-10-29",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p79qLNV-2kFHot-a52133c2aab2cbaf\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 11466301-02c2-491c-b657-a68340f0c437)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42341969",
+    "pmid": "42341969",
+    "doi": "10.1016/j.hrthm.2026.06.023",
+    "title": "Atrial fibrillation ablation energy source transition and adjunctive lesion set utilization after commercial release of pulse field ablation.",
+    "titlePt": "Atrial fibrillation ablation energy source transition and adjunctive lesion set utilization after commercial release of pulse field ablation.",
+    "abstract": "Trial data have demonstrated that the safety and effectiveness of pulsed field ablation (PFA) for atrial fibrillation (AF) is non-inferior to radiofrequency (RF) and cryoballoon (CB). However, comparative real-world data on energy source utilization remain limited. To compare utilization, baseline characteristics, procedural characteristics, and acute safety of AF ablation with PFA, RF, CB, and combinations of these energies performed between January 2024 and March 2025. We used multivariable logistic regression models to compare the risk of any adverse event and major adverse events of AF ablations reported to the National Cardiovascular Data Registry AFib Ablation Registry. At 158 United States sites, the use of PFA and PFA + RF increased from 0% to 60% and 15%, respectively, whereas the utilization of RF, CB, and RF + CB decreased from 72%, 16%, and 12% to 22%, 2%, and 1%, respectively. The median site monthly volume of AF ablations increased by approximately 50%. Baseline character",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42341969",
+    "authors": [
+      {
+        "name": "James V Freeman",
+        "affiliation": "Section of Cardiovascular Medicine, Department of Internal Medicine, Yale University School of Medicine, New Haven, Connecticut; Center for Outcomes Research and Evaluation, Yale New Haven Health Services Corporation, New Haven, Connecticut. Electronic address: james.freeman@yale.edu."
+      },
+      {
+        "name": "Nihar R Desai",
+        "affiliation": "Section of Cardiovascular Medicine, Department of Internal Medicine, Yale University School of Medicine, New Haven, Connecticut; Center for Outcomes Research and Evaluation, Yale New Haven Health Services Corporation, New Haven, Connecticut."
+      },
+      {
+        "name": "Zhen Tan",
+        "affiliation": "Center for Outcomes Research and Evaluation, Yale New Haven Health Services Corporation, New Haven, Connecticut."
+      },
+      {
+        "name": "Sarah Zimmerman",
+        "affiliation": "Center for Outcomes Research and Evaluation, Yale New Haven Health Services Corporation, New Haven, Connecticut."
+      }
+    ],
+    "journal": "Heart rhythm",
+    "publishedDate": "2026-10-28",
+    "fetchedDate": "2026-10-29",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p79qNx3-2kFHot-a52133f90a605825\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 12587419-bfeb-49dc-b630-ac61e6a2c434)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42949450",
     "pmid": "42949450",
     "doi": "10.1097/QMH.0000000000000600",
@@ -12232,178 +12392,5 @@
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42538105",
-    "pmid": "42538105",
-    "doi": "10.1136/bmjopen-2026-120064",
-    "title": "Examining the immune response of participants receiving Modified Vaccinia Ankara vaccine in Africa (MpoxVax AFRIVAC): a prospective cohort study - protocol.",
-    "titlePt": "Examining the immune response of participants receiving Modified Vaccinia Ankara vaccine in Africa (MpoxVax AFRIVAC): a prospective cohort study - protocol.",
-    "abstract": "Mpox remains an ongoing global health concern, driven by an ongoing clade I outbreak in Central Africa, which has caused substantial morbidity and mortality. Despite deployment of the Modified Vaccinia Ankara-Bavarian Nordic (MVA-BN) vaccine, data on the durability of vaccine-induced immune responses remain limited, particularly in African populations, women and people with HIV, highlighting the need for context-specific immunogenicity data. Mpox-Vax AFRIVAC is a prospective, multicentre observational cohort study conducted in Uganda, Tanzania and the Democratic Republic of the Congo (DRC). Adults eligible for MVA-BN vaccination for mpox prevention or who received a first dose within 28 days prior to enrolment are followed for 48 weeks. Serial blood samples are collected to quantify binding antibody responses and assess their durability over time. The primary outcomes are mean geometric MVA-BN-specific antibody titres at week 48 and the rate of antibody decay from week 6 to week 48. Se",
-    "journalisticSummary": "A doença do vírus mpox continua sendo uma preocupação global de saúde, impulsionada por um surto contínuo da clade I na África Central, que causou morbidade e mortalidade significativas. Apesar do desdobramento da vacina Modified Vaccinia Ankara-Bavarian Nordic (MVA-BN), os dados sobre a duração das respostas imunológicas induzidas pela vacina permanecem limitados, particularmente em populações africanas, mulheres e pessoas com HIV, destacando a necessidade de dados de imunogenicidade específicos do contexto. O estudo Mpox-Vax AFRIVAC é um estudo de coorte prospectivo e multicêntrico realizado em Uganda, Tanzânia e República Democrática do Congo (RDC). Adultos elegíveis para vacinação com MVA-BN para prevenção de mpox ou que receberam uma primeira dose dentro de 28 dias antes do recrutamento são acompanhados por 48 semanas. Amostras de sangue seriadas são coletadas para quantificar as respostas de anticorpos de ligação e avaliar sua duração ao longo do tempo. Os principais resultados são os títulos médios geométricos de anticorpos específicos para MVA-BN na semana 48 e a taxa de declínio de anticorpos da semana 6 à semana 48.\n\nOs achados principais deste estudo ainda não foram divulgados, pois o resumo apresentado se refere ao protocolo do estudo. No entanto, é esperado que os resultados forneçam informações valiosas sobre a duração da resposta imunológica induzida pela vacina MVA-BN em populações africanas, incluindo subgrupos como mulheres e pessoas com HIV. Esses dados são cruciais para informar estratégias de vacinação eficazes e garantir a proteção contínua contra a doença mpox. As limitações do estudo incluem a falta de informações sobre os resultados clínicos e a possibilidade de viés de seleção de participantes. Os próximos passos incluem a conclusão do estudo e a publicação dos resultados, que devem fornecer insights importantes para a comunidade científica e os formuladores de políticas de saúde.\n\nA doença do vírus mpox é um desafio contínuo para a saúde global, e estudos como o Mpox-Vax AFRIVAC são essenciais para avançar no conhecimento sobre a prevenção e o controle da doença. A colaboração internacional e a pesquisa científica são fundamentais para desenvolver estratégias eficazes de prevenção e tratamento, especialmente em regiões afetadas pela doença.\n\nThe mpox virus disease remains an ongoing global health concern, driven by a continuing clade I outbreak in Central Africa, which has caused significant morbidity and mortality. Despite the deployment of the Modified Vaccinia Ankara-Bavarian Nordic (MVA-BN) vaccine, data on the durability of vaccine-induced immune responses remain limited, particularly in African populations, women, and people with HIV, highlighting the need for context-specific immunogenicity data. The Mpox-Vax AFRIVAC study is a prospective, multicenter observational cohort study conducted in Uganda, Tanzania, and the Democratic Republic of the Congo (DRC). Adults eligible for MVA-BN vaccination for mpox prevention or who received a first dose within 28 days prior to enrollment are followed for 48 weeks. Serial blood samples are collected to quantify binding antibody responses and assess their durability over time. The primary outcomes are the mean geometric MVA-BN-specific antibody titers at week 48 and the rate of antibody decay from week 6 to week 48.\n\nThe main findings of this study have not been released yet, as the presented abstract refers to the study protocol. However, it is expected that the results will provide valuable information about the duration of the immune response induced by the MVA-BN vaccine in African populations, including subgroups such as women and people with HIV. This data is crucial to inform effective vaccination strategies and ensure continued protection against mpox disease. The limitations of the study include the lack of information on clinical outcomes and the possibility of selection bias of participants. The next steps include completing the study and publishing the results, which should provide important insights for the scientific community and health policymakers.\n\nThe mpox virus disease is an ongoing challenge for global health, and studies like Mpox-Vax AFRIVAC are essential to advance knowledge about disease prevention and control. International collaboration and scientific research are fundamental to developing effective prevention and treatment strategies, especially in regions affected by the disease.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538105",
-    "authors": [
-      {
-        "name": "Joanne Byrne",
-        "affiliation": "Centre for Experimental Pathogen Host Research (CEPHR), University College Dublin, Dublin, Ireland joanne.byrne@ucd.ie."
-      },
-      {
-        "name": "Winters Muttamba",
-        "affiliation": "Department of Infectious Diseases, St Vincent's University Hospital, Dublin, Ireland."
-      },
-      {
-        "name": "Alain Balola Ntaboba",
-        "affiliation": "Interdisciplinary Consortium for Epidemics Research (ICER), Kampala, Uganda."
-      },
-      {
-        "name": "Bariki Mtafya",
-        "affiliation": "Makerere University Lung Institute, Kampala, Central Region, Uganda."
-      }
-    ],
-    "journal": "BMJ open",
-    "publishedDate": "2026-07-31",
-    "fetchedDate": "2026-08-01",
-    "category": "Imunologia",
-    "tags": [
-      "hiv",
-      "immune",
-      "vaccine",
-      "antibody"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42053135",
-    "pmid": "42053135",
-    "doi": "10.1515/cclm-2026-0370",
-    "title": "Real-world performance of Lumipulse G plasma p-tau217: a six-month experience of a specialized clinical neurochemistry laboratory.",
-    "titlePt": "Real-world performance of Lumipulse G plasma p-tau217: a six-month experience of a specialized clinical neurochemistry laboratory.",
-    "abstract": "Plasma p-tau217 is a leading blood-based biomarker for Alzheimer's disease (AD), offering high diagnostic accuracy and potential utility for treatment eligibility and monitoring. However, real-world data on concordance between cerebrospinal fluid (CSF) A&#x3b2;42/40 and plasma p-tau217 in routine clinical laboratory settings remain limited. We retrospectively evaluated all plasma p-tau217 tests performed in the Clinical Neurochemistry Laboratory at Sahlgrenska University Hospital between August 2025 and March 2026. De-identified plasma p-tau217, additional blood biomarkers, and available CSF results were extracted from the laboratory information system. Concordance between plasma p-tau217 and CSF A&#x3b2;42/40 was evaluated by calculating positive and negative percent agreement, with CSF A&#x3b2;42/40 used as the reference standard. In addition, diagnostic accuracy for brain amyloid positivity was assessed using two predefined clinical cutoffs for plasma p-tau217 (&lt;0.22 vs. &gt;0.34",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou o desempenho real do biomarcador plasma p-tau217 na detecção da doença de Alzheimer (DA) em um laboratório de neuroquímica clínica especializado. O biomarcador plasma p-tau217 tem se destacado como uma ferramenta promissora para o diagnóstico e monitoramento da DA devido à sua alta precisão diagnóstica. No entanto, ainda há uma carência de dados sobre a concordância entre os resultados desse biomarcador no plasma e os resultados da análise do líquido cefalorraquidiano (LCR) Aβ42/40 em contextos de rotina laboratorial clínica. Os pesquisadores realizaram uma avaliação retrospectiva de todos os testes de plasma p-tau217 realizados no Laboratório de Neuroquímica Clínica do Hospital Universitário Sahlgrenska entre agosto de 2025 e março de 2026, analisando a concordância entre os resultados do plasma p-tau217 e os do LCR Aβ42/40, com o LCR Aβ42/40 servindo como padrão de referência. Além disso, avaliaram a precisão diagnóstica para positividade de amiloide cerebral utilizando dois pontos de corte clínicos pré-definidos para plasma p-tau217. Os resultados desse estudo fornecem insights valiosos sobre o desempenho do plasma p-tau217 em contextos clínicos reais, contribuindo para a compreensão de sua utilidade no diagnóstico e no monitoramento da doença de Alzheimer. Embora o estudo ofereça informações importantes, não foi possível determinar os detalhes específicos sobre as limitações do estudo e os próximos passos sem acesso ao texto completo do artigo.\n\nA recent study published on PubMed investigated the real-world performance of the plasma p-tau217 biomarker in detecting Alzheimer's disease (AD) in a specialized clinical neurochemistry laboratory. The plasma p-tau217 biomarker has emerged as a promising tool for diagnosing and monitoring AD due to its high diagnostic accuracy. However, there is still a lack of data on the concordance between the results of this biomarker in plasma and cerebrospinal fluid (CSF) Aβ42/40 results in routine clinical laboratory settings. The researchers conducted a retrospective evaluation of all plasma p-tau217 tests performed at the Clinical Neurochemistry Laboratory at Sahlgrenska University Hospital between August 2025 and March 2026, analyzing the concordance between plasma p-tau217 results and CSF Aβ42/40 results, with CSF Aβ42/40 serving as the reference standard. Additionally, they assessed the diagnostic accuracy for brain amyloid positivity using two predefined clinical cutoffs for plasma p-tau217. The results of this study provide valuable insights into the performance of plasma p-tau217 in real-world clinical settings, contributing to the understanding of its usefulness in diagnosing and monitoring Alzheimer's disease. Although the study offers important information, it was not possible to determine the specific details about the study's limitations and next steps without access to the full text of the article.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42053135",
-    "authors": [
-      {
-        "name": "Burak Arslan",
-        "affiliation": "Department of Psychiatry and Neurochemistry, Institute of Neuroscience &amp; Physiology, The Sahlgrenska Academy at the University of Gothenburg, M&#xf6;lndal, Sweden."
-      },
-      {
-        "name": "Johan Gobom",
-        "affiliation": "Department of Psychiatry and Neurochemistry, Institute of Neuroscience &amp; Physiology, The Sahlgrenska Academy at the University of Gothenburg, M&#xf6;lndal, Sweden."
-      },
-      {
-        "name": "Joel Simr&#xe9;n",
-        "affiliation": "Clinical Neurochemistry Laboratory, Sahlgrenska University Hospital, M&#xf6;lndal, Sweden."
-      },
-      {
-        "name": "Hanna Fahl&#xe9;n",
-        "affiliation": "Department of Psychiatry and Neurochemistry, Institute of Neuroscience &amp; Physiology, The Sahlgrenska Academy at the University of Gothenburg, M&#xf6;lndal, Sweden."
-      }
-    ],
-    "journal": "Clinical chemistry and laboratory medicine",
-    "publishedDate": "2026-07-31",
-    "fetchedDate": "2026-08-01",
-    "category": "Neurologia",
-    "tags": [
-      "brain",
-      "alzheimer"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42530698",
-    "pmid": "42530698",
-    "doi": "10.1007/s11033-026-12482-7",
-    "title": "Emerging biomarkers in breast fibroadenoma: implications for differential diagnosis, malignant transformation, and precision medicine.",
-    "titlePt": "Emerging biomarkers in breast fibroadenoma: implications for differential diagnosis, malignant transformation, and precision medicine.",
-    "abstract": "Fibroadenoma is the most common benign fibroepithelial lesion of the breast; it occurs most frequently in adolescents and women of reproductive age. While fibroadenoma is considered a non-invasive lesion with a good prognosis, some fibroadenomas may show rapid growth, recurrence, stromal hypercellularity, epithelial proliferative changes and even show radiological overlap with phyllodes tumour and breast carcinoma resulting in significant diagnostic dilemmas. In recent years, molecular pathology and biomarker studies have led to better understanding of the biology of fibroadenomas, and their ability to differentiate between fibroadenomas and malignant breast lesions. This review will provide a comprehensive overview of biomarkers involved in the diagnosis, prognosis, prediction, molecular, genetic, epigenetic, functional, circulating and imaging of breast fibroadenoma and breast cancer. The key biomarkers such as MED12 mutation, Ki-67, p53, Bcl-2, ER/PR, HER2, VEGF, MMPs, &#x3b3;-H2AX,",
-    "journalisticSummary": "O fibroadenoma é a lesão fibroepitelial benigna mais comum da mama, ocorrendo com maior frequência em adolescentes e mulheres em idade reprodutiva. Embora seja considerado uma lesão não invasiva com um bom prognóstico, alguns fibroadenomas podem apresentar crescimento rápido, recorrência, hipercelularidade estromal, alterações proliferativas epiteliais e até mesmo sobreposição radiológica com tumor de phyllodes e carcinoma de mama, resultando em dilemas diagnósticos significativos. Nos últimos anos, estudos de patologia molecular e biomarcadores têm levado a uma melhor compreensão da biologia dos fibroadenomas e sua capacidade de diferenciar entre fibroadenomas e lesões malignas de mama. Essa revisão fornece uma visão geral abrangente dos biomarcadores envolvidos no diagnóstico, prognóstico, previsão, molecular, genético, epigenético, funcional, circulante e de imagem do fibroadenoma de mama e do câncer de mama. Os principais biomarcadores, como a mutação MED12, Ki-67, p53, Bcl-2, ER/PR, HER2, VEGF, MMPs e γ-H2AX, são discutidos. Esses biomarcadores têm o potencial de melhorar a precisão do diagnóstico diferencial e a detecção precoce de transformação maligna, além de orientar a medicina de precisão para pacientes com fibroadenoma de mama. No entanto, mais pesquisas são necessárias para validar a utilidade clínica desses biomarcadores e explorar novas abordagens terapêuticas baseadas em evidências. Com a continuidade dos estudos, espera-se que esses avanços melhorem a compreensão e o manejo do fibroadenoma de mama, contribuindo assim para a melhoria da saúde das mulheres.\n\nThe fibroadenoma is the most common benign fibroepithelial lesion of the breast, occurring most frequently in adolescents and women of reproductive age. While it is considered a non-invasive lesion with a good prognosis, some fibroadenomas may exhibit rapid growth, recurrence, stromal hypercellularity, epithelial proliferative changes, and even radiological overlap with phyllodes tumor and breast carcinoma, resulting in significant diagnostic dilemmas. In recent years, molecular pathology and biomarker studies have led to a better understanding of the biology of fibroadenomas and their ability to differentiate between fibroadenomas and malignant breast lesions. This review provides a comprehensive overview of the biomarkers involved in the diagnosis, prognosis, prediction, molecular, genetic, epigenetic, functional, circulating, and imaging of breast fibroadenoma and breast cancer. Key biomarkers such as MED12 mutation, Ki-67, p53, Bcl-2, ER/PR, HER2, VEGF, MMPs, and γ-H2AX are discussed. These biomarkers have the potential to improve the accuracy of differential diagnosis and early detection of malignant transformation, as well as guide precision medicine for patients with breast fibroadenoma. However, further research is needed to validate the clinical utility of these biomarkers and explore new evidence-based therapeutic approaches. With the continuation of studies, it is expected that these advances will improve the understanding and management of breast fibroadenoma, thus contributing to the improvement of women's health.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42530698",
-    "authors": [
-      {
-        "name": "Nishaa Ravi",
-        "affiliation": "Department of Radiology and Imaging Sciences, Sri Ramachandra Medical College, Sri Ramachandra Institute of Higher Education &amp; Research, Porur, Chennai, India."
-      },
-      {
-        "name": "Roopika Sankar",
-        "affiliation": "Department of Bio Medical Sciences, School of Bio Sciences &amp; Technology, Vellore Institute of Technology, Vellore, India."
-      },
-      {
-        "name": "Anugraha Mathavan",
-        "affiliation": "Department of Biotechnology, Indian Institute of Technology, Madras, Chennai, India."
-      },
-      {
-        "name": "Suresh Kumar Rayala",
-        "affiliation": "Department of Biotechnology, Indian Institute of Technology, Madras, Chennai, India."
-      }
-    ],
-    "journal": "Molecular biology reports",
-    "publishedDate": "2026-07-30",
-    "fetchedDate": "2026-08-01",
-    "category": "Genômica",
-    "tags": [
-      "cancer",
-      "carcinoma",
-      "genetic",
-      "gene",
-      "mutation"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42526489",
-    "pmid": "42526489",
-    "doi": "10.1016/j.lanmic.2026.101443",
-    "title": "Advances in development of tuberculosis vaccines and preventive drug therapies: current pipeline, evidence, and access.",
-    "titlePt": "Advances in development of tuberculosis vaccines and preventive drug therapies: current pipeline, evidence, and access.",
-    "abstract": "Tuberculosis remains the leading cause of death from a single infectious agent globally. The WHO Global Tuberculosis Report 2025 indicates that progress towards the WHO End TB Strategy targets remains off track despite modest declines in incidence and mortality. In 2024, an estimated 10&#xb7;7 million people developed tuberculosis and 1&#xb7;23 million died from the disease. In this Series paper, we examine evidence published between Jan 6, 2020, and Jan 6, 2026, to provide an updated overview of tuberculosis vaccines and tuberculosis preventive treatment (TPT). As of June 4, 2026, 18 tuberculosis vaccine candidates are in active clinical development, including six in phase 3 (M72/AS01E, MTBVAC, VPM1002, GamTBvac, Immuvac [MIP], and BCG revaccination trials), representing the most diverse and advanced pipeline since the introduction of BCG in 1921. Platforms include live-attenuated mycobacterial vaccines (eg, MTBVAC), recombinant BCG-derived approaches (eg, VPM1002), protein-adjuvant s",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526489",
-    "authors": [
-      {
-        "name": "Christopher da Costa",
-        "affiliation": "Harvard TH Chan School of Public Health, Department of Global Health and Population, Boston, MA, USA."
-      },
-      {
-        "name": "Ben J Marais",
-        "affiliation": "Sydney Infectious Diseases Institute and The Children's Hospital at Westmead Clinical School, University of Sydney, Sydney, NSW, Australia."
-      },
-      {
-        "name": "Delia Goletti",
-        "affiliation": "Translational Research Unit, National Institute for Infectious Diseases Lazzaro Spallanzani, Istituto di Ricovero e Cura a Carattere Scientifico, Rome, Italy."
-      },
-      {
-        "name": "Philip Onyebujoh",
-        "affiliation": "Lusaka Apex Medical University, Lusaka, Zambia."
-      }
-    ],
-    "journal": "The Lancet. Microbe",
-    "publishedDate": "2026-07-29",
-    "fetchedDate": "2026-10-29",
-    "category": "Infectologia",
-    "tags": [
-      "bacterial",
-      "drug",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p77XLbX-2kFHot-a51eb578fc4f8bdc\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: c2691124-df2a-429b-a56d-99d6be8a68b4)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
