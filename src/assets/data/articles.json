@@ -79,6 +79,90 @@
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p79qS6B-2kFHot-a521343b2ebacbaf\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: a674e764-239e-4a8b-8608-d79b8f136a50)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   },
   {
+    "id": "pubmed-41242589",
+    "pmid": "41242589",
+    "doi": "10.1016/j.hrthm.2025.11.019",
+    "title": "Atrial arrhythmia recurrence after the Maze procedure: Insights from catheter-based mapping.",
+    "titlePt": "Atrial arrhythmia recurrence after the Maze procedure: Insights from catheter-based mapping.",
+    "abstract": "The Cox-Maze procedure treats atrial fibrillation (AF) through surgical lesion sets designed to isolate pulmonary veins (PVs) and interrupt atrial reentrant circuits. This study aimed to characterize mechanisms of recurrent atrial arrhythmias after Maze procedures using electroanatomic mapping. We retrospectively analyzed 86 patients who underwent Maze procedures from 2008 to 2023 and later required endocardial catheter ablation for recurrent AF or atrial flutter (AFl). Electroanatomic mapping assessed lesion integrity, arrhythmia patterns, and ablation outcomes. After the 3-month postoperative blanking period, 31.8% of patients had both AF and AFl recurrence, 33.7% had AF only, and 33.7% had AFl only. PV reconnection occurred in 78.3% of patients who initially underwent PV isolation. Reconnection rates were significantly lower with cut-and-sew Maze III (5%) than cryothermal (67%; odds ratio 0.07; P &lt; .0001) and radiofrequency ablations (56%; odds ratio 0.11; P &lt; .0001). Macroree",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41242589",
+    "authors": [
+      {
+        "name": "Dylan Goings",
+        "affiliation": "Department of Internal Medicine, Mayo Clinic, Rochester, Minnesota."
+      },
+      {
+        "name": "Ikram U Haq",
+        "affiliation": "Department of Cardiovascular Medicine, Mayo Clinic, Rochester, Minnesota."
+      },
+      {
+        "name": "Michael Brandt",
+        "affiliation": "Department of Internal Medicine, Mayo Clinic, Rochester, Minnesota."
+      },
+      {
+        "name": "Arman Arghami",
+        "affiliation": "Department of Cardiovascular Surgery, Mayo Clinic, Rochester, Minnesota."
+      }
+    ],
+    "journal": "Heart rhythm",
+    "publishedDate": "2026-10-28",
+    "fetchedDate": "2026-10-29",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7Ag958-2kFHot-a5221c3e3bbc6414\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: c8cd6b1e-038b-465c-ac0d-a78fa50729e2)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42711194",
+    "pmid": "42711194",
+    "doi": "10.1016/j.jagp.2026.08.012",
+    "title": "Comparative Efficacy of Specific Exercise Interventions on Post-Stroke Depression, Anxiety and Cognitive Function in Older Adults: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials.",
+    "titlePt": "Comparative Efficacy of Specific Exercise Interventions on Post-Stroke Depression, Anxiety and Cognitive Function in Older Adults: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials.",
+    "abstract": "Post-stroke depression, anxiety, and cognitive impairment are prevalent in older adults and may impede recovery. We evaluated the comparative efficacy of exercise interventions for these outcomes using network meta-analysis. We systematically searched five international and two Chinese databases from inception to July 2025 for randomized controlled trials enrolling older adults with stroke receiving exercise-based interventions. Primary outcomes were depression, anxiety, and cognitive function. Treatment effects were estimated as standardized mean differences (SMDs) with 95% credible intervals (CrIs), and interventions were ranked using surface under the cumulative ranking curve (SUCRA). Risk of bias and confidence in estimates were assessed with RoB 2 and CINeMA. Fifty-two trials involving 4,170 participants were included; 11 were at low risk of bias. For depression, dual-task training (DTT), mind-body exercise (MBE), and balance/coordination training (BCT) ranked highest and showed s",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42711194",
+    "authors": [
+      {
+        "name": "Yu-Cheng Wang",
+        "affiliation": "Unit of Psychiatry, Department of Public Health and Medicinal Administration, Faculty of Medicine (YCW, YRH, XXM, YTX), University of Macau, Macao SAR, China; Centre for Cognitive and Brain Sciences (YCW, YRH, XXM, YTX) University of Macau, Macao SAR, China."
+      },
+      {
+        "name": "Yi-Ran Huang",
+        "affiliation": "Unit of Psychiatry, Department of Public Health and Medicinal Administration, Faculty of Medicine (YCW, YRH, XXM, YTX), University of Macau, Macao SAR, China; Centre for Cognitive and Brain Sciences (YCW, YRH, XXM, YTX) University of Macau, Macao SAR, China."
+      },
+      {
+        "name": "Xiao-Xuan Meng",
+        "affiliation": "Unit of Psychiatry, Department of Public Health and Medicinal Administration, Faculty of Medicine (YCW, YRH, XXM, YTX), University of Macau, Macao SAR, China; Centre for Cognitive and Brain Sciences (YCW, YRH, XXM, YTX) University of Macau, Macao SAR, China."
+      },
+      {
+        "name": "Qinge Zhang",
+        "affiliation": "Beijing Key Laboratory of Mental Disorders, National Clinical Research Center for Mental Disorders &amp; National Center for Mental Disorders (QZ, YF, GW), Beijing Anding Hospital, Capital Medical University, Beijing, China."
+      }
+    ],
+    "journal": "The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry",
+    "publishedDate": "2026-10-28",
+    "fetchedDate": "2026-10-29",
+    "category": "Neurologia",
+    "tags": [
+      "stroke",
+      "cognitive",
+      "rna",
+      "depression",
+      "anxiety"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7AgxvA-2kFHot-a522202c2db3eb4e\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: eeff449f-41dc-4ef8-91b0-615fe2d5b883)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42392466",
     "pmid": "42392466",
     "doi": "10.1016/j.hrthm.2026.06.040",
@@ -12304,93 +12388,5 @@
     "readTime": 8,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozSrxRT-2kFHot-a37d69ec0c244cba\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42535277",
-    "pmid": "42535277",
-    "doi": "10.1002/alz.71705",
-    "title": "Heterogeneity in plasma p-tau217 response and its association with cognitive trajectories under lecanemab treatment.",
-    "titlePt": "Heterogeneity in plasma p-tau217 response and its association with cognitive trajectories under lecanemab treatment.",
-    "abstract": "Plasma phosphorylated tau 217 (p-tau217) is a promising biomarker for monitoring treatment response in Alzheimer's disease (AD), but its longitudinal dynamics and clinical relevance remain unclear. In this prospective real-world study, 153 patients with early AD receiving lecanemab were analyzed. Longitudinal changes in plasma p-tau217 were assessed, and trajectory patterns were identified using clustering and slope-based approaches. Associations with baseline factors and cognitive outcomes were evaluated. Plasma p-tau217 levels decreased significantly from 3 months, with the greatest decline between 3 and 6 months, followed by a plateau. Two distinct trajectory groups were identified. Patients in the greater reduction group showed more favorable cognitive trajectories, particularly slower progression in Clinical Dementia Rating-Sum of Boxes (CDR-SB) scores. Hypertension was associated with a diminished biomarker response. These findings support plasma p-tau217 as an early pharmacodyna",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a resposta do biomarcador plasma p-tau217 em pacientes com doença de Alzheimer (DA) em tratamento com lecanemab. A pesquisa, que contou com a participação de 153 pacientes com DA em estágio inicial, buscou entender a dinâmica longitudinal desse biomarcador e sua relevância clínica. Os resultados mostraram que os níveis de p-tau217 no plasma diminuíram significativamente a partir de 3 meses, com a maior redução ocorrendo entre 3 e 6 meses, seguida de um platô. Além disso, foram identificados dois padrões de trajetória distintos, e os pacientes que apresentaram uma redução maior nos níveis de p-tau217 mostraram trajetórias cognitivas mais favoráveis, com uma progressão mais lenta nos escores de Clinical Dementia Rating-Sum of Boxes (CDR-SB). Foi também observado que a hipertensão estava associada a uma resposta diminuída do biomarcador. Esses achados apoiam o uso de p-tau217 no plasma como um biomarcador precoce para monitorar a resposta ao tratamento em pacientes com DA. No entanto, os autores não forneceram informações detalhadas sobre as limitações do estudo ou os próximos passos para a validação desses resultados.\n\nA long-term study published on PubMed examined the response of the plasma p-tau217 biomarker in Alzheimer's disease (AD) patients treated with lecanemab. The research, which involved 153 early-stage AD patients, aimed to understand the longitudinal dynamics of this biomarker and its clinical relevance. The results showed that plasma p-tau217 levels decreased significantly from 3 months, with the greatest decline occurring between 3 and 6 months, followed by a plateau. Additionally, two distinct trajectory patterns were identified, and patients with a greater reduction in p-tau217 levels exhibited more favorable cognitive trajectories, with slower progression in Clinical Dementia Rating-Sum of Boxes (CDR-SB) scores. Hypertension was also found to be associated with a diminished biomarker response. These findings support the use of plasma p-tau217 as an early pharmacodynamic biomarker for monitoring treatment response in AD patients. However, the authors did not provide detailed information on the study's limitations or the next steps for validating these results.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42535277",
-    "authors": [
-      {
-        "name": "Sung Hoon Kang",
-        "affiliation": "Department of Neurology, Korea University Guro Hospital, Korea University College of Medicine, Seoul, South Korea."
-      },
-      {
-        "name": "Yu Jeong Park",
-        "affiliation": "Department of Neurology, Korea University Guro Hospital, Korea University College of Medicine, Seoul, South Korea."
-      },
-      {
-        "name": "Seungyun Lee",
-        "affiliation": "Department of Medicine, Korea University College of Medicine, Seoul, South Korea."
-      },
-      {
-        "name": "Jimin Kang",
-        "affiliation": "Department of Neurology, Korea University Guro Hospital, Korea University College of Medicine, Seoul, South Korea."
-      }
-    ],
-    "journal": "Alzheimer's &amp; dementia : the journal of the Alzheimer's Association",
-    "publishedDate": "2026-07-31",
-    "fetchedDate": "2026-08-01",
-    "category": "Neurologia",
-    "tags": [
-      "hypertension",
-      "alzheimer",
-      "dementia",
-      "cognitive",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42538001",
-    "pmid": "42538001",
-    "doi": "10.1302/0301-620X.108B8.BJJ-2025-1486.R2",
-    "title": "Glucagon-like peptide-1 receptor agonists are associated with improved 90-day outcomes after total hip and knee arthroplasty : a systematic review and meta-analysis.",
-    "titlePt": "Glucagon-like peptide-1 receptor agonists are associated with improved 90-day outcomes after total hip and knee arthroplasty : a systematic review and meta-analysis.",
-    "abstract": "Obesity and diabetes are risk factors for developing osteoarthritis and associated with worse outcomes following total hip (THA) and total knee arthroplasty (TKA). Glucagon-like peptide-1 receptor agonists (GLP-1as) improve glycaemic control and promote weight loss. The aim of this study was to assess the impact of GLP-1a treatment on 90-day surgical complications following THA and TKA. A systematic review was undertaken according to PRISMA guidelines. Studies were included if they reported at least one outcome of interest following primary THA or TKA. In all the studies which were included, a GLP-1a was prescribed for the management of type 2 diabetes mellitus or for weight loss in obese patients. The primary outcome was the 90-day surgical complication rate in the combined THA and TKA cohort. The 90-day surgical complications were defined as: periprosthetic joint infection (PJI), wound dehiscence, periprosthetic fracture (PPF), haematoma, nerve injury, or surgical site infection (SSI",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou o impacto dos agonistas do receptor de glucagon-like peptide-1 (GLP-1) nos resultados pós-operatórios de pacientes submetidos a artroplastia total de quadril (THA) e joelho (TKA). A obesidade e o diabetes são fatores de risco para o desenvolvimento de osteoartrite e estão associados a piores resultados após esses procedimentos cirúrgicos. Já os agonistas de GLP-1 são conhecidos por melhorar o controle glicêmico e promover a perda de peso. O objetivo deste estudo foi avaliar o efeito do tratamento com GLP-1 no comprometimento cirúrgico em 90 dias após THA e TKA.\n\nA revisão sistemática foi realizada de acordo com as diretrizes do PRISMA e incluiu estudos que relataram pelo menos um resultado de interesse após THA ou TKA primária. Em todos os estudos incluídos, um GLP-1 foi prescrito para o manejo do diabetes mellitus tipo 2 ou para perda de peso em pacientes obesos. O resultado primário foi a taxa de complicações cirúrgicas em 90 dias na coorte combinada de THA e TKA. As complicações cirúrgicas em 90 dias foram definidas como infecção da articulação periprotésica, deiscência da ferida, fratura periprotésica, hematoma, lesão nervosa ou infecção do local cirúrgico.\n\nOs achados principais indicaram que o tratamento com GLP-1 foi associado a melhores resultados em 90 dias após THA e TKA. No entanto, não foram fornecidos detalhes específicos sobre a magnitude desses efeitos ou como eles variaram entre os diferentes estudos incluídos. O impacto clínico dessa associação sugere que o uso de agonistas de GLP-1 pode ser benéfico para pacientes com diabetes ou obesidade que estão agendados para esses procedimentos cirúrgicos, potencialmente reduzindo o risco de complicações pós-operatórias.\n\nAs limitações do estudo incluem a dependência de dados de estudos pré-existentes, o que pode introduzir heterogeneidade e viés. Além disso, não foi informado se os estudos incluídos controlaram outros fatores que poderiam influenciar os resultados, como a presença de comorbidades ou o uso de outros medicamentos. Próximos passos poderiam incluir a realização de estudos clínicos randomizados para confirmar esses achados e explorar mais a fundo os mecanismos pelos quais os agonistas de GLP-1 exercem seus efeitos benéficos em pacientes submetidos a THA e TKA.\n\nUm estudo recente publicado no PubMed investigou o impacto dos agonistas do receptor de glucagon-like peptide-1 (GLP-1) nos resultados pós-operatórios de pacientes submetidos a artroplastia total de quadril (THA) e joelho (TKA). No entanto, não foi possível fornecer uma análise mais detalhada devido à falta de informações específicas no resumo original.\n\n\nA recent study published in PubMed investigated the impact of glucagon-like peptide-1 receptor agonists (GLP-1) on postoperative outcomes in patients undergoing total hip arthroplasty (THA) and total knee arthroplasty (TKA). Obesity and diabetes are risk factors for developing osteoarthritis and are associated with worse outcomes following these surgical procedures. GLP-1 agonists are known to improve glycemic control and promote weight loss. The aim of this study was to assess the effect of GLP-1 treatment on 90-day surgical complications following THA and TKA.\n\nThe systematic review was conducted according to PRISMA guidelines and included studies that reported at least one outcome of interest following primary THA or TKA. In all the studies included, a GLP-1 agonist was prescribed for the management of type 2 diabetes mellitus or for weight loss in obese patients. The primary outcome was the 90-day surgical complication rate in the combined THA and TKA cohort. The 90-day surgical complications were defined as periprosthetic joint infection, wound dehiscence, periprosthetic fracture, hematoma, nerve injury, or surgical site infection.\n\nThe main findings indicated that GLP-1 treatment was associated with improved 90-day outcomes after THA and TKA. However, specific details about the magnitude of these effects or how they varied between the different studies included were not provided. The clinical impact of this association suggests that the use of GLP-1 agonists may be beneficial for patients with diabetes or obesity who are scheduled for these surgical procedures, potentially reducing the risk of postoperative complications.\n\nThe limitations of the study include the reliance on data from pre-existing studies, which may introduce heterogeneity and bias. Additionally, it was not reported whether the included studies controlled for other factors that could influence the outcomes, such as the presence of comorbidities or the use of other medications. Future steps could include conducting randomized clinical trials to confirm these findings and further explore the mechanisms by which GLP-1 agonists exert their beneficial effects in patients undergoing THA and TKA.\n\nA recent study published in PubMed investigated the impact of glucagon-like peptide-1 receptor agonists (GLP-1) on postoperative outcomes in patients undergoing total hip arthroplasty (THA) and total knee arthroplasty (TKA). However, it was not possible to provide a more detailed analysis due to the lack of specific information in the original abstract.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538001",
-    "authors": [
-      {
-        "name": "Branavan Rudran",
-        "affiliation": "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, UK."
-      },
-      {
-        "name": "Christopher D J Little",
-        "affiliation": "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, UK."
-      },
-      {
-        "name": "Antony J R Palmer",
-        "affiliation": "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, UK."
-      },
-      {
-        "name": "Andrew Judge",
-        "affiliation": "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, UK."
-      }
-    ],
-    "journal": "The bone &amp; joint journal",
-    "publishedDate": "2026-07-31",
-    "fetchedDate": "2026-08-01",
-    "category": "Endocrinologia",
-    "tags": [
-      "infection",
-      "diabetes",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
