@@ -12365,44 +12365,45 @@
     "aiProvider": "Groq"
   },
   {
-    "id": "pubmed-42525825",
-    "pmid": "42525825",
-    "doi": "10.1080/07853890.2026.2707864",
-    "title": "Protocol for a cohort study: evaluating the effect of neoadjuvant immunochemotherapy on intraoperative remifentanil consumption during IoC2-guided anesthesia in elderly patients with esophageal cancer.",
-    "titlePt": "Protocol for a cohort study: evaluating the effect of neoadjuvant immunochemotherapy on intraoperative remifentanil consumption during IoC2-guided anesthesia in elderly patients with esophageal cancer.",
-    "abstract": "The influence of neoadjuvant immunochemotherapy (nICT) on intraoperative opioid consumption during esophagectomy for cancer is not well understood. IoC2 enables real-time antinociceptive depth monitoring. This study assesses nICT's effect on remifentanil requirements in elderly patients using IoC2. This prospective observational cohort study will be conducted at Jiangsu Cancer Hospital. Sixty patients scheduled for esophagectomy will be enrolled. Patients will be divided into the nICT group (n&#x2009;=&#x2009;30) or the treatment-naive group (n&#x2009;=&#x2009;30). All patients will receive a standardized anesthetic protocol. The primary outcome is the mean intraoperative remifentanil infusion rate (&#x3bc;g/kg/min). Secondary outcomes include: total intraoperative dose of sufentanil; postoperative cumulative opioid consumption at PACU, 12, 24, 48, and 72&#x2009;h; pain scores, PCIA attempts, and rescue analgesia use at PACU, 12, 24, 48, and 72&#x2009;h post-surgery, and the incidence ",
+    "id": "pubmed-42526489",
+    "pmid": "42526489",
+    "doi": "10.1016/j.lanmic.2026.101443",
+    "title": "Advances in development of tuberculosis vaccines and preventive drug therapies: current pipeline, evidence, and access.",
+    "titlePt": "Advances in development of tuberculosis vaccines and preventive drug therapies: current pipeline, evidence, and access.",
+    "abstract": "Tuberculosis remains the leading cause of death from a single infectious agent globally. The WHO Global Tuberculosis Report 2025 indicates that progress towards the WHO End TB Strategy targets remains off track despite modest declines in incidence and mortality. In 2024, an estimated 10&#xb7;7 million people developed tuberculosis and 1&#xb7;23 million died from the disease. In this Series paper, we examine evidence published between Jan 6, 2020, and Jan 6, 2026, to provide an updated overview of tuberculosis vaccines and tuberculosis preventive treatment (TPT). As of June 4, 2026, 18 tuberculosis vaccine candidates are in active clinical development, including six in phase 3 (M72/AS01E, MTBVAC, VPM1002, GamTBvac, Immuvac [MIP], and BCG revaccination trials), representing the most diverse and advanced pipeline since the introduction of BCG in 1921. Platforms include live-attenuated mycobacterial vaccines (eg, MTBVAC), recombinant BCG-derived approaches (eg, VPM1002), protein-adjuvant s",
     "imagePlaceholder": true,
     "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42525825",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526489",
     "authors": [
       {
-        "name": "Halisa Paerhati",
-        "affiliation": "Department of Anesthesiology, the Affiliated Cancer Hospital of Nanjing Medical University, Jiangsu Cancer Hospital, and Jiangsu Institute of Cancer Research, Nanjing, China."
+        "name": "Christopher da Costa",
+        "affiliation": "Harvard TH Chan School of Public Health, Department of Global Health and Population, Boston, MA, USA."
       },
       {
-        "name": "Xinyang Hu",
-        "affiliation": "Department of Anesthesiology, the Affiliated Cancer Hospital of Nanjing Medical University, Jiangsu Cancer Hospital, and Jiangsu Institute of Cancer Research, Nanjing, China."
+        "name": "Ben J Marais",
+        "affiliation": "Sydney Infectious Diseases Institute and The Children's Hospital at Westmead Clinical School, University of Sydney, Sydney, NSW, Australia."
       },
       {
-        "name": "Yuchen Lu",
-        "affiliation": "School of Anesthesiology, Xuzhou Medical University, Xuzhou, China."
+        "name": "Delia Goletti",
+        "affiliation": "Translational Research Unit, National Institute for Infectious Diseases Lazzaro Spallanzani, Istituto di Ricovero e Cura a Carattere Scientifico, Rome, Italy."
       },
       {
-        "name": "Lingxi Xing",
-        "affiliation": "Department of Anesthesiology, the Affiliated Cancer Hospital of Nanjing Medical University, Jiangsu Cancer Hospital, and Jiangsu Institute of Cancer Research, Nanjing, China."
+        "name": "Philip Onyebujoh",
+        "affiliation": "Lusaka Apex Medical University, Lusaka, Zambia."
       }
     ],
-    "journal": "Annals of medicine",
+    "journal": "The Lancet. Microbe",
     "publishedDate": "2026-07-29",
     "fetchedDate": "2026-10-29",
-    "category": "Oncologia",
+    "category": "Infectologia",
     "tags": [
-      "cancer",
-      "chemotherapy"
+      "bacterial",
+      "drug",
+      "vaccine"
     ],
     "isHighlight": false,
     "readTime": 7,
     "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p77GSUU-2kFHot-a51e6e801bd4cd08\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: c99170bb-0c2d-43cd-a3d3-82adab3c59ad)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p77XLbX-2kFHot-a51eb578fc4f8bdc\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: c2691124-df2a-429b-a56d-99d6be8a68b4)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
