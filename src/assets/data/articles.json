@@ -1,5 +1,90 @@
 [
   {
+    "id": "pubmed-42953734",
+    "pmid": "42953734",
+    "doi": "10.1093/ehjcr/ytag763",
+    "title": "Novel cardiovascular magnetic resonance imaging biomarkers to track response to treatment including Sotatercept in a patient with idiopathic pulmonary arterial hypertension: a case report.",
+    "titlePt": "Novel cardiovascular magnetic resonance imaging biomarkers to track response to treatment including Sotatercept in a patient with idiopathic pulmonary arterial hypertension: a case report.",
+    "abstract": "Pulmonary arterial hypertension (PAH) causes progressive right ventricular (RV) pressure overload and left ventricular (LV) underfilling. Sotatercept is an activin-signal inhibitor, approved by FDA in 2024 and EMA in 2025, as an add-on treatment in adult patients with PAH. Cardiovascular magnetic resonance (CMR)-derived atrioventricular plane displacement (AVPD) and left ventricular pressure-volume (PV) loops may represent non-invasive markers of treatment response, particularly important as novel therapies addressing remodelling emerge. A 30-year-old woman was diagnosed with idiopathic PAH, after presenting with dyspnoea and peripheral oedema. Baseline CMR showed severe RV dilation, reduced RV ejection fraction, and low indexed LV stroke volume, with reduced bilateral AVPD and markedly impaired LV PV loop indices, with low stroke work, low mean external power, and high ventriculo-arterial coupling. Initial dual PAH therapy, with an endothelin receptor antagonist and a phosphodiesteras",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42953734",
+    "authors": [
+      {
+        "name": "Alessandro Castiglione",
+        "affiliation": "Clinical Physiology, Department of Clinical Sciences Lund, Lund University, Entr&#xe9;gatan 7, 222 42 Lund, Sweden."
+      },
+      {
+        "name": "Barbro Kjellstr&#xf6;m",
+        "affiliation": "Department of Clinical Physiology, Sk&#xe5;ne University Hospital, Entr&#xe9;gatan 7, 222 42 Lund, Sweden."
+      },
+      {
+        "name": "G&#xf6;ran R&#xe5;degran",
+        "affiliation": "Clinical Physiology, Department of Clinical Sciences Lund, Lund University, Entr&#xe9;gatan 7, 222 42 Lund, Sweden."
+      },
+      {
+        "name": "Ellen Ostenfeld",
+        "affiliation": "Department of Clinical Physiology, Sk&#xe5;ne University Hospital, Entr&#xe9;gatan 7, 222 42 Lund, Sweden."
+      }
+    ],
+    "journal": "European heart journal. Case reports",
+    "publishedDate": "2026-10-29",
+    "fetchedDate": "2026-10-30",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "hypertension",
+      "stroke",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7EuhqC-2kFHot-a526adfc1f450c73\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 72c7a623-0961-4a0e-b3b2-037b8ed78cd3)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42955145",
+    "pmid": "42955145",
+    "doi": "10.1007/s12640-026-00833-y",
+    "title": "Nanoformulations of Asiatic Acid and Asiatic Acid-enriched Fraction of Centella asiatica Preserve Mitochondrial and Dopaminergic Integrity in Cellular and MPTP-induced Mouse Models of Parkinson's Disease.",
+    "titlePt": "Nanoformulations of Asiatic Acid and Asiatic Acid-enriched Fraction of Centella asiatica Preserve Mitochondrial and Dopaminergic Integrity in Cellular and MPTP-induced Mouse Models of Parkinson's Disease.",
+    "abstract": "The therapeutic potential of asiatic acid (AA), a bioactive constituent of Centella asiatica, is limited by its poor aqueous solubility and low oral bioavailability. Nano-enabled phytomedicine offers a strategy to improve the formulation characteristics of AA through enhanced stability, cellular uptake, and sustained release. Here, we developed poly(lactide-co-glycolide) (PLGA) nanoformulations containing AA (nf-AA) and an AA-enriched ethyl acetate fraction of C. asiatica (EXT; nf-EXT) and evaluated their neuroprotective effects in MPP+-treated differentiated SH-SY5Y cells and an MPTP-induced mouse model of PD. Mice were orally pretreated with AA (50&#xa0;mg/kg), nf-AA (50&#xa0;mg/kg), EXT (100&#xa0;mg/kg), or nf-EXT (100&#xa0;mg/kg) for five consecutive days before MPTP-administration. nf-AA and nf-EXT were prepared using double-emulsion solvent evaporation, and characterized for size, encapsulation efficiency, and drug release. In vitro neuroprotective effects were established in MPP",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42955145",
+    "authors": [
+      {
+        "name": "Chinthu V Saji",
+        "affiliation": "Centre for Drug Discovery, Inter University Centre for Biomedical Research and Super Speciality Hospital (IUCBR &amp; SSH), Mahatma Gandhi University Campus at Thalappady, Rubber Board PO, Kottayam, Kerala, 686 009, India."
+      },
+      {
+        "name": "Goutam Chandra",
+        "affiliation": "Centre for Development and Aging Research - Cell Biology Laboratory, IUCBR &amp; SSH, Mahatma Gandhi University Campus at Thalappady, Rubber Board PO, Kottayam, Kerala, 686 009, India."
+      },
+      {
+        "name": "K P Mohanakumar",
+        "affiliation": "Centre for Development and Aging Research - Cell Biology Laboratory, IUCBR &amp; SSH, Mahatma Gandhi University Campus at Thalappady, Rubber Board PO, Kottayam, Kerala, 686 009, India."
+      },
+      {
+        "name": "Rajesh A Shenoi",
+        "affiliation": "Centre for Drug Discovery, Inter University Centre for Biomedical Research and Super Speciality Hospital (IUCBR &amp; SSH), Mahatma Gandhi University Campus at Thalappady, Rubber Board PO, Kottayam, Kerala, 686 009, India. rajeshananthashenoi@mgu.ac.in."
+      }
+    ],
+    "journal": "Neurotoxicity research",
+    "publishedDate": "2026-10-29",
+    "fetchedDate": "2026-10-30",
+    "category": "Farmacologia",
+    "tags": [
+      "parkinson",
+      "drug",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7EusmW-2kFHot-a526aecceddf0c73\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: a497a318-d38e-4916-885b-4ecb4255b76f)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42955027",
     "pmid": "42955027",
     "doi": "10.1001/jamaoncol.2026.4274",
@@ -12302,89 +12387,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42539936",
-    "pmid": "42539936",
-    "doi": "10.1016/j.smhs.2025.03.011",
-    "title": "A cross-sectional study of 2nd-12th grade students' physical activity related to academic achievement.",
-    "titlePt": "A cross-sectional study of 2nd-12th grade students' physical activity related to academic achievement.",
-    "abstract": "Decreased physical activity (PA) influences childhood obesity and student learning. Sixty minutes (min) of daily moderate-to-vigorous physical activity (MVPA) are recommended for good health and optimized academic achievement. We quantified all-day and in-school PA in association with academic success. Cross-sectional accelerometer data from 1 115 second-twelfth graders were evaluated for daily and in-school MVPA and vigorous physical activity (VPA). Associations between PA values and year-end grade point average (GPA) in grades 6-12 and criterion referenced standardized tests in reading (CRT-R) and math (CRT-M) were examined for grades 3-8 and 11 by multivariable regression. MVPA and VPA declined as student grade level increased. Higher in-school and full-day PA was associated with increased academic success (e.g., GPA and standardized testing), with the effect size increasing with advancing grade level. Accumulating 30 &#x200b;min more of in-school MVPA was associated with 0.63 highe",
-    "journalisticSummary": "A prática regular de atividade física moderada a vigorosa (AFMV) é fundamental para a saúde e o desenvolvimento cognitivo de crianças e adolescentes, mas sua redução ao longo dos anos escolares pode impactar negativamente tanto o desempenho acadêmico quanto a saúde metabólica. Um estudo publicado recentemente no periódico *Smart Health and Society* analisou dados de 1.115 estudantes do 2º ao 12º ano, utilizando acelerômetros para quantificar a AFMV ao longo do dia e durante o período escolar, correlacionando esses dados com indicadores de sucesso acadêmico, como média geral (GPA) e desempenho em testes padronizados de leitura e matemática. Os resultados revelaram que tanto a AFMV diária quanto a praticada na escola diminuem progressivamente com o avanço das séries, mas níveis mais altos dessas atividades estão associados a melhores resultados acadêmicos, com efeito mais pronunciado em estudantes mais velhos. Por exemplo, o acúmulo de 30 minutos adicionais de AFMV no ambiente escolar foi relacionado a um aumento de 0,63 pontos na média geral, enquanto a atividade física vigorosa (AFV) também mostrou correlação positiva, embora menos intensa. Os autores destacam que políticas públicas e intervenções escolares que promovam a prática de exercícios durante o horário letivo — como aulas de educação física mais intensas ou pausas ativas — podem representar estratégias custo-efetivas para melhorar tanto a saúde física quanto o rendimento escolar. Contudo, por se tratar de um estudo transversal, não é possível estabelecer causalidade, e fatores não mensurados, como dieta, sono ou ambiente familiar, podem influenciar os resultados. Pesquisas longitudinais e experimentais são necessárias para validar esses achados e explorar mecanismos subjacentes, como o impacto da AFMV no fluxo sanguíneo cerebral ou na plasticidade neural durante a adolescência.\n\nThe regular practice of moderate-to-vigorous physical activity (MVPA) is essential for the health and cognitive development of children and adolescents, yet its decline over the school years may negatively affect both academic performance and metabolic health. A study published in *Smart Health and Society* analyzed data from 1,115 students in grades 2 through 12, using accelerometers to quantify daily and in-school MVPA, correlating these measurements with academic success indicators such as grade point average (GPA) and standardized test scores in reading and math. Findings revealed that both daily and in-school MVPA decrease progressively with advancing grade levels, yet higher levels of these activities are associated with improved academic outcomes, with a stronger effect observed in older students. For instance, an additional 30 minutes of in-school MVPA was linked to a 0.63-point increase in GPA, while vigorous physical activity (VPA) also showed a positive, though less pronounced, correlation. The authors suggest that public policies and school-based interventions—such as more intensive physical education classes or active breaks—could be cost-effective strategies to enhance both physical health and academic performance. However, as a cross-sectional study, causality cannot be inferred, and unmeasured factors such as diet, sleep, or family environment may influence the results. Longitudinal and experimental research is needed to validate these findings and explore underlying mechanisms, such as the impact of MVPA on cerebral blood flow or neural plasticity during adolescence.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42539936",
-    "authors": [
-      {
-        "name": "Amanda Alfaro-Chaverri",
-        "affiliation": "Integrative Physiology and Athletic Training, University of Montana, Missoula, MT, USA."
-      },
-      {
-        "name": "Arthur Miller",
-        "affiliation": "Integrative Physiology and Athletic Training, University of Montana, Missoula, MT, USA."
-      },
-      {
-        "name": "Curtis Noonan",
-        "affiliation": "Public and Community Health, University of Montana, Missoula, MT, USA."
-      },
-      {
-        "name": "John Quindry",
-        "affiliation": "Integrative Physiology and Athletic Training, University of Montana, Missoula, MT, USA."
-      }
-    ],
-    "journal": "Sports medicine and health science",
-    "publishedDate": "2026-08-01",
-    "fetchedDate": "2026-08-02",
-    "category": "Pediatria",
-    "tags": [
-      "childhood",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42538604",
-    "pmid": "42538604",
-    "doi": "10.1111/aphw.70195",
-    "title": "Efficacy of mindfulness-based interventions on psychological distress, hyperandrogenism, and metabolic profile in women with polycystic ovary syndrome: A systematic review and meta-analysis of randomized controlled trials.",
-    "titlePt": "Efficacy of mindfulness-based interventions on psychological distress, hyperandrogenism, and metabolic profile in women with polycystic ovary syndrome: A systematic review and meta-analysis of randomized controlled trials.",
-    "abstract": "Polycystic ovary syndrome (PCOS) negatively impacts women's metabolic health, reproductive hormones, and psychological well-being. The aim of this study was to systematically evaluate the efficacy of mindfulness-based interventions (MBIs), such as yoga and mindfulness meditation, on anthropometric indices, metabolic profiles, reproductive hormones, and quality of life in women with PCOS. A systematic review and meta-analysis was conducted with 10 randomized controlled trials (RCTs) involving 356 participants, selected from databases including PubMed and Cochrane Library up to January 2025. Data were synthesized using Review Manager 5.3 to calculate mean differences (MDs) and standardized mean differences (SMDs). Women in the MBI groups showed significant reductions in BMI, body weight, abdominal circumference, and preliminary improvements in insulin resistance (HOMA-IR; based on two studies), alongside improvements in total testosterone levels and clinical hirsutism. Although generic d",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *Asian Pacific Journal of Health Sciences* avaliou o impacto de intervenções baseadas em mindfulness em mulheres com síndrome dos ovários policísticos (SOP), uma condição que afeta até 15% das mulheres em idade reprodutiva. A pesquisa, conduzida por meio de uma revisão sistemática e meta-análise de 10 ensaios clínicos randomizados, incluiu 356 participantes e analisou dados até janeiro de 2025. Os resultados sugerem que práticas como meditação e yoga podem trazer benefícios significativos em indicadores antropométricos, perfil metabólico e aspectos psicológicos.\n\nOs achados principais indicam reduções estatisticamente significativas no índice de massa corporal (IMC), peso corporal e circunferência abdominal nas participantes que praticaram mindfulness, em comparação aos grupos controle. Além disso, houve melhorias preliminares na resistência à insulina (avaliada pelo HOMA-IR em dois estudos), redução nos níveis de testosterona total e diminuição do hirsutismo clínico — um dos sintomas mais visíveis da hiperandrogenemia associada à SOP. A qualidade de vida também foi relatada como melhorada, embora os autores não tenham detalhado os instrumentos de avaliação utilizados.\n\nApesar dos resultados promissores, os pesquisadores destacam limitações importantes. A heterogeneidade dos estudos incluídos, com variações em duração, intensidade das intervenções e ferramentas de mensuração, pode afetar a robustez das conclusões. Além disso, o número reduzido de participantes em algumas análises, como a do HOMA-IR, e a ausência de dados sobre outros marcadores metabólicos relevantes — como o perfil lipídico — limitam a generalização dos achados. Também não foi informado se houve acompanhamento a longo prazo para avaliar a manutenção dos benefícios.\n\nOs próximos passos sugeridos pelos autores incluem a realização de ensaios clínicos maiores, com desenho metodológico mais padronizado e avaliação de desfechos clínicos relevantes, como taxa de ovulação e gestação. A integração de mindfulness a protocolos de tratamento convencionais para SOP poderia representar uma abordagem complementar não farmacológica, especialmente para mulheres que buscam reduzir sintomas psicossociais e metabólicos sem aumentar a carga medicamentosa.\n\n---\n\n**English version**\n\nA recent study published in the *Asian Pacific Journal of Health Sciences* examined the effects of mindfulness-based interventions (MBIs) in women with polycystic ovary syndrome (PCOS), a condition affecting up to 15% of women of reproductive age. The research, conducted as a systematic review and meta-analysis of 10 randomized controlled trials, included 356 participants and analyzed data up to January 2025. Findings suggest that practices such as meditation and yoga may yield significant benefits in anthropometric, metabolic, and psychological domains.\n\nKey results indicate statistically significant reductions in body mass index (BMI), body weight, and abdominal circumference among participants practicing mindfulness compared to controls. Preliminary improvements were also observed in insulin resistance (assessed via HOMA-IR in two studies), reductions in total testosterone levels, and decreases in clinical hirsutism—a hallmark symptom of hyperandrogenemia in PCOS. Quality of life was reported as improved, though the authors did not specify the assessment tools used.\n\nDespite these promising findings, the researchers emphasize important limitations. The heterogeneity of included studies—with variations in intervention duration, intensity, and measurement tools—may compromise the robustness of conclusions. Additionally, the small sample sizes in some analyses, such as the HOMA-IR assessment, and the lack of data on other relevant metabolic markers, such as lipid profiles, restrict the generalizability of results. Long-term follow-up to evaluate sustained benefits was also not reported.\n\nThe authors recommend future research directions, including larger, standardized randomized controlled trials with clinically relevant outcomes, such as ovulation rates and pregnancy. Integrating mindfulness into conventional PCOS management could offer a non-pharmacological adjunctive approach, particularly for women seeking to alleviate psychosocial and metabolic symptoms without increasing medication burden.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538604",
-    "authors": [
-      {
-        "name": "Dan Li",
-        "affiliation": "Department of Hemodialysis, The Second Affiliated Hospital of Shandong First Medical University, Tai'an, Shandong Province, China."
-      },
-      {
-        "name": "Jiaqi Zheng",
-        "affiliation": "School of Nursing, Shandong First Medical University, Tai'an, Shandong Province, China."
-      },
-      {
-        "name": "Guangpeng Wang",
-        "affiliation": "School of Nursing, Shandong First Medical University, Tai'an, Shandong Province, China."
-      }
-    ],
-    "journal": "Applied psychology. Health and well-being",
-    "publishedDate": "2026-08-01",
-    "fetchedDate": "2026-08-01",
-    "category": "Endocrinologia",
-    "tags": [
-      "gene",
-      "psychological",
-      "insulin",
-      "hormone",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
