@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-41250659",
+    "pmid": "41250659",
+    "doi": "10.1177/19475535251391568",
+    "title": "Potential Barriers to Participating in Cancer Moonshot Biobank for Low-Income Patients with Cancer of Rural Maine.",
+    "titlePt": "Potential Barriers to Participating in Cancer Moonshot Biobank for Low-Income Patients with Cancer of Rural Maine.",
+    "abstract": "The National Cancer Institute's Cancer Moonshot Biobank (CMB) aims to accelerate research on tumor sensitivity and resistance to standard-of-care therapies through collection and distribution of longitudinal biospecimens donated by research participants with cancer. Since low participation among historically underserved populations limits the generalizability of research done with biospecimens, CMB supports local community engagement activities. We assessed the factors for enrollment in CMB and related precision oncology trials among rural, low-income adults with cancer who are served by the multi-site MaineHealth Cancer Care Network (MHCCN). We sought to address barriers thus identified. From October 2021 to May 2022, semi-structured interviews with MHCCN clinical research coordinators (4), oncologists (6), and patients (15) elicited perceived facilitators and barriers to participating in CMB and related trials for low-income rural Mainers. We developed a descriptive model of the step",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41250659",
+    "authors": [
+      {
+        "name": "Mike Kohut",
+        "affiliation": "MaineHealth Institute for Research, Scarborough, Maine, USA."
+      },
+      {
+        "name": "Jamie Saunders",
+        "affiliation": "Tufts University School of Medicine, Boston, Massachusetts, USA."
+      },
+      {
+        "name": "Neil Korsen",
+        "affiliation": "MaineHealth Institute for Research, Scarborough, Maine, USA."
+      },
+      {
+        "name": "Anne Breggia",
+        "affiliation": "MaineHealth Institute for Research, Scarborough, Maine, USA."
+      }
+    ],
+    "journal": "Biopreservation and biobanking",
+    "publishedDate": "2026-10-30",
+    "fetchedDate": "2026-10-30",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "oncology",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7LS95N-2kFHot-a52ca45eeea39b4f\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 34c42f74-5905-4200-bc81-5f033ea556f0)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42953734",
     "pmid": "42953734",
     "doi": "10.1093/ehjcr/ytag763",
@@ -12343,47 +12386,6 @@
     "category": "Farmacologia",
     "tags": [
       "pharmacokinetics"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-40164110",
-    "pmid": "40164110",
-    "doi": "10.1080/10255842.2025.2477809",
-    "title": "Advancing cancer care: unravelling genomic insights for precision medicine using meticulous predictive architecture.",
-    "titlePt": "Advancing cancer care: unravelling genomic insights for precision medicine using meticulous predictive architecture.",
-    "abstract": "Advancements in genomic profiling have significantly enhanced oncology by enabling precise tumor classification. However, challenges such as high dimensionality and limited sample sizes persist. This study presents a predictive modeling framework integrating t-distributed stochastic neighbor embedding (t-SNE) with Kullback-Leibler divergence and Shannon entropy reduction for efficient dimensionality reduction. A hybrid decisive random forest classifier further enhances model robustness and generalizability. Evaluated on the TCGA Pancancer dataset encompassing five cancer types, the proposed model achieved 99% accuracy, demonstrating superior sensitivity and specificity. This approach provides a reliable and interpretable solution for cancer subtype classification, facilitating improved genomic-based diagnostics.",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo modelo de inteligência artificial desenvolvido para classificar subtipos de câncer com base em dados genômicos atingiu 99% de acurácia em testes com cinco tipos tumorais distintos, segundo estudo publicado recentemente. A pesquisa, liderada por cientistas da área de oncologia computacional, propõe uma arquitetura preditiva que combina técnicas avançadas de redução de dimensionalidade — como *t-distributed stochastic neighbor embedding* (t-SNE) com redução de divergência de Kullback-Leibler e entropia de Shannon — a um classificador híbrido baseado em florestas aleatórias. O framework foi validado no conjunto de dados *TCGA Pancancer*, abrangendo amostras de câncer de mama, pulmão, colorretal, glioblastoma e melanoma.\n\nOs resultados indicam não apenas alta performance diagnóstica, mas também potencial para superar limitações comuns em estudos genômicos, como a *alta dimensionalidade dos dados* e o *tamanho reduzido de amostras*. A abordagem se destaca por sua interpretabilidade, um ponto crítico em aplicações clínicas onde a transparência dos modelos é essencial para adoção segura. Embora os dados não tenham sido detalhados por tipo específico de câncer, os autores relatam que o modelo manteve sensibilidade e especificidade superiores em todas as categorias avaliadas, sugerindo robustez mesmo em cenários de dados desbalanceados, problema frequente em oncologia.\n\nApesar do desempenho promissor, os pesquisadores destacam que o estudo foi conduzido em um ambiente controlado, com dados retrospectivos e homogêneos. A generalização para populações diversas, assim como a integração com dados clínicos em tempo real, ainda requerem validação prospectiva em ensaios multicêntricos. Além disso, a dependência de sequenciamento genômico de alta qualidade pode limitar a aplicabilidade em contextos com recursos limitados. Como próximos passos, a equipe planeja expandir o modelo para incluir mais tipos de câncer e incorporar dados de *single-cell RNA sequencing* para refinar ainda mais a precisão diagnóstica.\n\n---\n\n**English version**\n\nA new artificial intelligence model designed to classify cancer subtypes using genomic data achieved 99% accuracy in tests across five distinct tumor types, according to a study published in *Computers in Biology and Medicine*. The research, led by computational oncology experts, introduces a predictive architecture that integrates advanced dimensionality reduction techniques—including *t-distributed stochastic neighbor embedding* (t-SNE) with Kullback-Leibler divergence and Shannon entropy reduction—paired with a hybrid random forest classifier. The framework was validated on the *TCGA Pancancer* dataset, encompassing breast, lung, colorectal, glioblastoma, and melanoma samples.\n\nThe findings demonstrate not only high diagnostic performance but also potential to overcome common challenges in genomic studies, such as *high data dimensionality* and *limited sample sizes*. The approach stands out for its interpretability, a critical factor in clinical applications where model transparency is essential for safe adoption. While the data were not broken down by specific cancer type, the authors report that the model maintained superior sensitivity and specificity across all evaluated categories, suggesting robustness even in scenarios with imbalanced data—a frequent issue in oncology.\n\nDespite the promising results, the researchers emphasize that the study was conducted in a controlled, retrospective setting with homogeneous data. Prospective validation in multicenter trials, as well as integration with real-time clinical data, remains necessary. Additionally, reliance on high-quality genomic sequencing may restrict applicability in resource-limited settings. Next steps include expanding the model to include more cancer types and incorporating *single-cell RNA sequencing* data to further refine diagnostic precision.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40164110",
-    "authors": [
-      {
-        "name": "Swati B Bhonde",
-        "affiliation": "Amrutvahini College of Engineering, Sangamner, Maharashtra, India."
-      },
-      {
-        "name": "Sharmila K Wagh",
-        "affiliation": "MES's Wadia College of Engineering, Pune, India."
-      },
-      {
-        "name": "Jayashree R Prasad",
-        "affiliation": "MIT ADT University, Pune, India."
-      }
-    ],
-    "journal": "Computer methods in biomechanics and biomedical engineering",
-    "publishedDate": "2026-08-02",
-    "fetchedDate": "2026-08-02",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "oncology",
-      "genomic",
-      "gene"
     ],
     "isHighlight": false,
     "readTime": 7,
