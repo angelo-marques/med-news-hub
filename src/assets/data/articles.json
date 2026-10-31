@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42469166",
+    "pmid": "42469166",
+    "doi": "10.1182/bloodadvances.2025019083",
+    "title": "Optimizing outcomes and accessibility of matched sibling donor transplant for transfusion-dependent thalassemia in LMICs.",
+    "titlePt": "Optimizing outcomes and accessibility of matched sibling donor transplant for transfusion-dependent thalassemia in LMICs.",
+    "abstract": "Severe thalassemia (ST) is a life-threatening condition common in many low- and middle-income countries. Although bone marrow transplantation (BMT) offers a curative option, its accessibility remains limited because of cost and complexity. This study describes a simplified approach to BMT for hemoglobinopathies that is based on relatively common and inexpensive medicines. This study included 176 pediatric patients with transfusion-dependent thalassemia who received a matched sibling BMT between February 2022 and November 2025 across several centers in Asia and the Middle East. A simplified and low-cost transplant protocol was used, using drugs that are widely available and are listed in the World Health Organization Model List of Essential Medicines. The regimen included fludarabine, dexamethasone, busulfan, and cyclophosphamide. granulocyte colony-stimulating factor-primed bone marrow was used as the graft source, and graft-versus-host disease (GVHD) prophylaxis included cyclosporine ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42469166",
+    "authors": [
+      {
+        "name": "Mohana Reddy",
+        "affiliation": "Sankalp India Foundation, Bangalore, India."
+      },
+      {
+        "name": "Tejashree Sridhar",
+        "affiliation": "Bhagwan Mahaweer Jain Hospital-Sankalp Centre for Pediatric Hematology Oncology and BMT, Bangalore, India."
+      },
+      {
+        "name": "Vidhi Mayur",
+        "affiliation": "Sankalp India Foundation, Bangalore, India."
+      },
+      {
+        "name": "Geetha T Lathe",
+        "affiliation": "Sankalp India Foundation, Bangalore, India."
+      }
+    ],
+    "journal": "Blood advances",
+    "publishedDate": "2026-10-30",
+    "fetchedDate": "2026-10-31",
+    "category": "Farmacologia",
+    "tags": [
+      "drug",
+      "pediatric"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7NEJQJ-2kFHot-a52e9488ff7c4b25\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: bf603720-91b5-423f-9d34-dc2afcc69fba)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-41250659",
     "pmid": "41250659",
     "doi": "10.1177/19475535251391568",
@@ -12353,39 +12394,6 @@
       "cardiovascular",
       "heart",
       "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42217235",
-    "pmid": "42217235",
-    "doi": "10.1080/14737175.2026.2681528",
-    "title": "STS101 nasal powder as a new treatment option for acute migraine with or without aura in adults.",
-    "titlePt": "STS101 nasal powder as a new treatment option for acute migraine with or without aura in adults.",
-    "abstract": "Although effective acute migraine therapies are available, unmet treatment needs such as nausea, vomiting, or delayed gastric emptying remain. STS101 is a novel dihydroergotamine (DHE) nasal powder designed to treat acute migraine with a simple single. A targeted PubMed and ClinicalTrials.gov search was performed from database inception through October 2025 using the keywords \"STS101,\" \"dihydroergotamine,\" \"migraine,\" and \"intranasal powder.\" Eligible sources included English-language clinical studies, trial registry records, regulatory documents, and relevant conference abstracts addressing STS101 formulation, pharmacokinetics, efficacy, safety, and/or regulatory development. Data from Phase 1 pharmacokinetic trials, the Phase 3 EMERGE and SUMMIT randomized controlled trials, and the ASCEND long-term safety study are discussed. The pivotal efficacy trials did not meet their 2-hour co-primary endpoints. Later time-point analyses suggested possible clinical benefit, including higher rat",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo dispositivo de administração nasal de di-hidroergotamina (DHE) para o tratamento agudo de enxaqueca, o STS101, não atingiu os desfechos primários de eficácia em dois ensaios clínicos randomizados de fase 3, conforme dados recentes. Desenvolvido como alternativa a formas injetáveis ou orais, o STS101 utiliza um pó nasal de liberação rápida projetado para contornar limitações como náuseas, vômitos e esvaziamento gástrico retardado, comuns em pacientes com crises intensas. A revisão sistemática, que incluiu buscas em PubMed e ClinicalTrials.gov até outubro de 2025, sintetizou evidências de estudos farmacocinéticos de fase 1, dois ensaios pivotais (EMERGE e SUMMIT) e um estudo de segurança de longo prazo (ASCEND).\n\nNos ensaios EMERGE e SUMMIT, o STS101 não demonstrou superioridade em relação ao placebo nos desfechos co-primários de alívio da dor em 2 horas, tampouco na redução de sintomas associados após esse intervalo. No entanto, análises posteriores em pontos temporais estendidos (não especificados nos resumos avaliados) sugeriram benefícios potenciais, como maior taxa de resposta sustentada e redução de recorrência da dor em até 24 horas. A segurança do dispositivo foi considerada aceitável, com eventos adversos leves a moderados predominando, como irritação nasal e gosto amargo. Não foram relatados casos graves de toxicidade sistêmica relacionada ao DHE, embora a ausência de dados sobre interações medicamentosas com triptanos ou outros vasoconstritores mereça atenção clínica.\n\nOs resultados sugerem que, embora o STS101 não cumpra critérios estatísticos para eficácia precoce — um desafio compartilhado por outras terapias intranasais de DHE —, sua formulação pode oferecer vantagens práticas em cenários onde a via oral é inviável. A falta de detalhes sobre a magnitude dos efeitos tardios e a ausência de comparações diretas com tratamentos padrão (como sumatriptano ou zolmitriptano) limitam conclusões definitivas. Estudos adicionais são necessários para elucidar o perfil de pacientes mais suscetíveis a respostas tardias e para explorar combinações terapêuticas. A ausência de dados sobre populações específicas, como idosos ou gestantes, também representa uma lacuna a ser preenchida.\n\n---\n\n**English version**\n\nA novel intranasal dihydroergotamine (DHE) powder formulation, STS101, failed to meet its primary efficacy endpoints in two Phase 3 randomized controlled trials, according to recent clinical data. Designed to address unmet needs in acute migraine treatment—such as nausea, vomiting, and delayed gastric emptying, which often compromise oral or injectable therapies—STS101 employs a rapid-release nasal powder intended to bypass these limitations. A systematic review, encompassing PubMed and ClinicalTrials.gov searches up to October 2025, synthesized evidence from Phase 1 pharmacokinetic studies, two pivotal trials (EMERGE and SUMMIT), and a long-term safety study (ASCEND).\n\nIn the EMERGE and SUMMIT trials, STS101 did not demonstrate superiority over placebo in the co-primary 2-hour pain relief outcomes or associated symptom reduction. However, post-hoc analyses at later time points (not specified in the reviewed abstracts) suggested potential benefits, including higher sustained response rates and reduced pain recurrence within 24 hours. The device’s safety profile was deemed acceptable, with most adverse events being mild to moderate—predominantly nasal irritation and bitter taste. No severe systemic DHE-related toxicities were reported, though the absence of data on drug-drug interactions with triptans or other vasoconstrictors warrants clinical caution.\n\nWhile STS101 did not meet early efficacy benchmarks—a challenge shared by other intranasal DHE formulations—its practical advantages in scenarios where oral administration is unfeasible remain relevant. The lack of granular data on late-stage efficacy and the absence of head-to-head comparisons with standard treatments (e.g., sumatriptan or zolmitriptan) constrain definitive conclusions. Further research is needed to identify patient subgroups most likely to respond to delayed effects and to evaluate potential combination therapies. Additionally, gaps persist regarding the formulation’s performance in understudied populations, such as the elderly or pregnant individuals.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42217235",
-    "authors": [
-      {
-        "name": "Bradley Ong",
-        "affiliation": "Department of Neurology, Neurological Institute, Cleveland Clinic, Cleveland, OH, USA."
-      },
-      {
-        "name": "Teshamae S Monteith",
-        "affiliation": "Department of Neurology, Headache Division, University of Miami, Miller School of Medicine, Miami, FL, USA."
-      }
-    ],
-    "journal": "Expert review of neurotherapeutics",
-    "publishedDate": "2026-08-03",
-    "fetchedDate": "2026-08-03",
-    "category": "Farmacologia",
-    "tags": [
-      "pharmacokinetics"
     ],
     "isHighlight": false,
     "readTime": 7,
