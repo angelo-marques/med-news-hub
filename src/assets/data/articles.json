@@ -1,5 +1,82 @@
 [
   {
+    "id": "pubmed-42964515",
+    "pmid": "42964515",
+    "doi": "10.1016/j.eclinm.2026.104266",
+    "title": "A multimodal digital NeuroMarker platform with composite and domain-level validity for identification of mild cognitive impairment: a cross-sectional study.",
+    "titlePt": "A multimodal digital NeuroMarker platform with composite and domain-level validity for identification of mild cognitive impairment: a cross-sectional study.",
+    "abstract": "Mild cognitive impairment (MCI) is a clinically heterogeneous syndrome that can represent an early manifestation of neurodegenerative disease. Diagnosis relies on assessments that are difficult to scale, leaving many individuals unidentified. In this cross-sectional study conducted in the United States, Australia, and Spain between May 2022 and October 2024, 638 adults aged &#x2265; 50 years were classified as cognitively unimpaired (CU; n = 441) or MCI (n = 197) using Petersen/NIA-AA criteria. Participants completed a self-administered, tablet-based assessment (Altoida NeuroMarker Platform) integrating motor, speech, and augmented reality tasks. An XGBoost classifier was trained to distinguish CU from MCI. Diagnostic performance, test-retest reliability, and convergent validity were evaluated. Median assessment time was 13.8 min. Participants reported comfort with digital technology (67%), willingness to engage in cognitive screening (90%), and positive usability. Altoida's NeuroMarke",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42964515",
+    "authors": [
+      {
+        "name": "M Florencia Iulita",
+        "affiliation": "Altoida Inc., Washington, DC, USA."
+      },
+      {
+        "name": "Vijaya B Kolachalama",
+        "affiliation": "Department of Computer Science and Faculty of Computing &amp; Data Sciences, Boston University, Boston, MA, USA."
+      },
+      {
+        "name": "Victoria Brugada-Ramentol",
+        "affiliation": "Department of Medicine, Boston University Chobanian &amp; Avedisian School of Medicine, Boston, MA, USA."
+      },
+      {
+        "name": "John Harrison",
+        "affiliation": "Altoida Inc., Washington, DC, USA."
+      }
+    ],
+    "journal": "EClinicalMedicine",
+    "publishedDate": "2026-10-31",
+    "fetchedDate": "2026-11-01",
+    "category": "Neurologia",
+    "tags": [
+      "cognitive",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7YZffY-2kFHot-a539bb9b9e50d7f1\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 7dca017e-eb18-4c71-8c44-571224cfaf81)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42965781",
+    "pmid": "42965781",
+    "doi": "10.1007/s10147-026-03233-6",
+    "title": "Reference frequencies of selected non-ICI genomic alterations detected through routine comprehensive genomic profiling in Japan: a nationwide C-CAT study.",
+    "titlePt": "Reference frequencies of selected non-ICI genomic alterations detected through routine comprehensive genomic profiling in Japan: a nationwide C-CAT study.",
+    "abstract": "Nationwide recorded reference frequencies for selected non-ICI genomic alterations among C-CAT-tested cases undergoing routine comprehensive genomic profiling (CGP) in Japan remain incompletely characterized. We analyzed anonymized C-CAT-derived records from 97,343 cases in a nationwide retrospective descriptive study. The primary genomic reference set comprised ERBB2 amplification, RET fusion/rearrangement, and NTRK1/2/3 fusion/rearrangement; the expanded genomic reference set additionally included ALK fusion/rearrangement and BRAF V600E. Case-level unions were summarized overall and across 13 organ groups with Clopper-Pearson exact 95% confidence intervals; platform/specimen-context summaries were secondary descriptive analyses. The primary union was recorded in 6086/97,343 cases (6.3%; 95% CI 6.1-6.4%), and the expanded union in 8211/97,343 (8.4%; 95% CI 8.3-8.6%). The expanded-only increment was 2125/97,343 (2.2% points; 95% CI 2.1-2.3%). Primary-union frequencies ranged from 294/1",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42965781",
+    "authors": [
+      {
+        "name": "Shinya Kajiura",
+        "affiliation": "Department of Medical Oncology and Palliative Medicine, Toyama University Hospital, 2630 Sugitani, 930-0194, Toyama, Toyama prefecture, Japan. shin-ya@nsknet.or.jp."
+      },
+      {
+        "name": "Naohiko Nakamura",
+        "affiliation": "Department of Medical Oncology and Palliative Medicine, Toyama University Hospital, 2630 Sugitani, 930-0194, Toyama, Toyama prefecture, Japan."
+      },
+      {
+        "name": "Ryuji Hayashi",
+        "affiliation": "Department of Medical Oncology and Palliative Medicine, Toyama University Hospital, 2630 Sugitani, 930-0194, Toyama, Toyama prefecture, Japan."
+      }
+    ],
+    "journal": "International journal of clinical oncology",
+    "publishedDate": "2026-10-31",
+    "fetchedDate": "2026-11-01",
+    "category": "Genômica",
+    "tags": [
+      "genomic"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7YZvPZ-2kFHot-a539bcd13f52d7f1\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: bd685f97-f4b8-4249-9595-1828ae2ed922)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42469166",
     "pmid": "42469166",
     "doi": "10.1182/bloodadvances.2025019083",
@@ -12311,92 +12388,6 @@
     ],
     "isHighlight": false,
     "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42544771",
-    "pmid": "42544771",
-    "doi": "10.1002/cyto.b.70057",
-    "title": "CD72 as a complementary B-lineage marker for longitudinal measurable residual disease surveillance after CD19 CAR-T therapy in R/R B-ALL.",
-    "titlePt": "CD72 as a complementary B-lineage marker for longitudinal measurable residual disease surveillance after CD19 CAR-T therapy in R/R B-ALL.",
-    "abstract": "This study aimed to evaluate the feasibility of CD72 as a complementary CD19-independent B-lineage gating marker for longitudinal measurable residual disease (MRD) surveillance in relapsed/refractory B-cell acute lymphoblastic leukemia (R/R B-ALL) following CD19 CAR-T therapy. Correlation analyses were performed in 66 B-ALL samples to compare MRD detection using CD72, CD19, and cytoplasmic CD79a. CD72 expression specificity was further evaluated in 129 leukemia patients. In addition, 129 patients with R/R B-ALL treated with autologous CD19 CAR-T therapy in registered clinical trials (ChiCTR-IIh-16008711; NCT03173417) between January 2021 and December 2022 were retrospectively analyzed, with follow-up continued until January 2025. CD72 gating showed excellent concordance with both CD19- and cCD79a-based strategies for MRD assessment. CD72 expression demonstrated high specificity in B-ALL, with a positivity rate of 95.77%, compared with 29.27% in AML and 23.53% in T-ALL. All 129 heavily ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nPesquisadores avaliaram a viabilidade do marcador CD72 como uma alternativa independente do CD19 para monitoramento longitudinal da doença residual mensurável (DRM) em pacientes com leucemia linfoblástica aguda de células B (LLA-B) recidivada ou refratária (R/R) submetidos à terapia com células CAR-T anti-CD19. O estudo, publicado no *Cytometry Part B*, comparou a detecção de DRM utilizando CD72, CD19 e CD79a citoplasmático em 66 amostras de LLA-B, além de analisar a especificidade da expressão de CD72 em 129 pacientes com diferentes tipos de leucemia. Em uma coorte retrospectiva de 129 pacientes tratados com CAR-T autólogo entre janeiro de 2021 e dezembro de 2022 (seguimento até janeiro de 2025), os resultados demonstraram uma alta concordância entre CD72 e os marcadores convencionais (CD19 e cCD79a) na avaliação de DRM. A positividade de CD72 em LLA-B foi de 95,77%, enquanto em leucemia mieloide aguda (LMA) e leucemia linfoblástica aguda de células T (LLA-T) foi significativamente menor (29,27% e 23,53%, respectivamente), sugerindo uma alta especificidade do marcador para a linhagem B.\n\nOs achados indicam que o CD72 pode ser uma ferramenta robusta para superar a limitação do escape clonal CD19-negativo, um desafio comum após terapia com CAR-T anti-CD19, onde células leucêmicas perdem a expressão do alvo e comprometem a eficácia do monitoramento. A abordagem proposta não apenas mantém a sensibilidade diagnóstica, mas também reduz a dependência de múltiplos marcadores, simplificando protocolos de vigilância. Contudo, o estudo apresenta limitações inerentes ao delineamento retrospectivo e à ausência de validação prospectiva em coortes maiores. Além disso, não foram fornecidos dados sobre a correlação entre a detecção de DRM por CD72 e desfechos clínicos como recidiva ou sobrevida global. Os próximos passos incluem estudos prospectivos para confirmar a utilidade prognóstica de CD72 e explorar sua integração em algoritmos de monitoramento personalizado pós-CAR-T.\n\n---\n\n**English version**\n\nResearchers assessed the feasibility of CD72 as a CD19-independent marker for longitudinal measurable residual disease (MRD) monitoring in patients with relapsed or refractory B-cell acute lymphoblastic leukemia (R/R B-ALL) undergoing CD19 CAR-T cell therapy. Published in *Cytometry Part B*, the study compared MRD detection using CD72, CD19, and cytoplasmic CD79a across 66 B-ALL samples and evaluated CD72 expression specificity in 129 leukemia patients. A retrospective analysis of 129 R/R B-ALL patients treated with autologous CD19 CAR-T between January 2021 and December 2022 (follow-up until January 2025) revealed high concordance between CD72 and conventional markers (CD19 and cCD79a) for MRD assessment. CD72 positivity in B-ALL reached 95.77%, significantly higher than in acute myeloid leukemia (29.27%) and T-cell acute lymphoblastic leukemia (23.53%), indicating strong lineage specificity.\n\nThe findings suggest that CD72 could address the clinical challenge of CD19-negative clonal escape, a common limitation after anti-CD19 CAR-T therapy where leukemic cells lose target expression and undermine monitoring accuracy. This approach enhances diagnostic sensitivity while streamlining protocols by reducing reliance on multiple markers. However, the study’s retrospective design and lack of prospective validation in larger cohorts limit broader applicability. Data on the correlation between CD72-based MRD detection and clinical outcomes, such as relapse or overall survival, were not reported. Future research should prioritize prospective trials to validate CD72’s prognostic utility and integrate it into personalized post-CAR-T monitoring frameworks.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544771",
-    "authors": [
-      {
-        "name": "Man Chen",
-        "affiliation": "Department of Pathology and Laboratory Medicine, Beijing Lu Daopei Hospital, Beijing, China."
-      },
-      {
-        "name": "Jing Zhou",
-        "affiliation": "Department of Clinical Laboratory, Hebei Yanda Lu Daopei Hospital, Langfang, China."
-      },
-      {
-        "name": "Wei Zhao",
-        "affiliation": "Department of Hematopoietic Stem Cell Transplantation, Beijing Lu Daopei Hospital, Beijing, China."
-      },
-      {
-        "name": "Jing Long",
-        "affiliation": "Medical Data Center, Beijing, China."
-      }
-    ],
-    "journal": "Cytometry. Part B, Clinical cytometry",
-    "publishedDate": "2026-08-03",
-    "fetchedDate": "2026-08-03",
-    "category": "Oncologia",
-    "tags": [
-      "leukemia",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42545076",
-    "pmid": "42545076",
-    "doi": "10.1002/clc.70434",
-    "title": "Impact of Severe Postoperative Multi-Organ Dysfunction on Long-Term Outcomes After Modified Morrow Surgery.",
-    "titlePt": "Impact of Severe Postoperative Multi-Organ Dysfunction on Long-Term Outcomes After Modified Morrow Surgery.",
-    "abstract": "The modified Morrow surgery is the gold standard surgical treatment for hypertrophic obstructive cardiomyopathy (HOCM). While effective, it carries a risk of postoperative severe multi-organ dysfunction and its impact on long-term cardiovascular outcomes remains poorly understood and controversial. This observational cohort study included 380 HOCM patients undergoing the modified Morrow surgery between July 2015 and March 2025. Severe multi-organ dysfunction was defined as a maximum Sequential Organ Failure Assessment (SOFA) score&#x2009;&#x2265;&#x2009;11. The primary endpoint was the long-term incidence of major adverse cardiac and cerebrovascular events (MACCEs). Secondary endpoints included heart failure hospitalization (HFH), postoperative atrial fibrillation (AF) ablation, and cardiovascular mortality. Compared to patients without severe multi-organ dysfunction (SOFA Maximum&#x2009;&lt;&#x2009;11, n&#x2009;=&#x2009;234), those with SOFA Maximum&#x2009;&#x2265;&#x2009;11 (n&#x2009",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo observacional de coorte publicado no *PubMed* (DOI: 10.1002/clc.70434) investigou o impacto da disfunção multissistêmica pós-operatória grave em desfechos cardiovasculares de longo prazo após a cirurgia de Morrow modificada, padrão-ouro para o tratamento da cardiomiopatia hipertrófica obstrutiva (CMHO). Embora a técnica seja eficaz no alívio da obstrução ventricular esquerda, seu risco de complicações multissistêmicas graves — definidas como pontuação máxima ≥11 no *Sequential Organ Failure Assessment* (SOFA) — ainda não havia sido associado de forma clara a desfechos clínicos a longo prazo.\n\nA análise incluiu 380 pacientes submetidos à cirurgia entre julho de 2015 e março de 2025, dos quais 146 apresentaram disfunção multissistêmica grave (SOFA ≥11). Os resultados mostraram que esses pacientes tiveram uma incidência significativamente maior de eventos adversos cardíacos e cerebrovasculares maiores (MACCEs) — desfecho primário — em comparação àqueles sem disfunção grave (SOFA <11). Além disso, observou-se aumento nas taxas de hospitalização por insuficiência cardíaca, necessidade de ablação por fibrilação atrial e mortalidade cardiovascular. Os achados sugerem que a disfunção multissistêmica pós-operatória não apenas reflete a gravidade imediata do quadro, mas também sinaliza um pior prognóstico cardiovascular a longo prazo.\n\nAs limitações do estudo incluem seu caráter observacional, que impede inferências causais, e a ausência de dados sobre fatores de confusão não mensurados, como comorbidades prévias ou variações técnicas intraoperatórias. Os autores destacam a necessidade de estudos prospectivos para validar esses achados e explorar estratégias de estratificação de risco pré-operatório ou intervenções profiláticas que possam mitigar a disfunção multissistêmica e seus desfechos adversos.\n\n---\n\n**English version**\n\nA cohort study published in *PubMed* (DOI: 10.1002/clc.70434) assessed the long-term cardiovascular impact of severe postoperative multi-organ dysfunction (MOD) following modified Morrow surgery, the gold-standard treatment for hypertrophic obstructive cardiomyopathy (HOCM). While the procedure effectively relieves left ventricular outflow tract obstruction, its association with severe systemic complications—defined as a maximum Sequential Organ Failure Assessment (SOFA) score ≥11—and long-term outcomes remained unclear.\n\nThe study analyzed 380 HOCM patients who underwent the surgery between July 2015 and March 2025, with 146 developing severe MOD (SOFA ≥11). Findings revealed that these patients experienced significantly higher rates of major adverse cardiac and cerebrovascular events (MACCEs)—the primary endpoint—compared to those without severe MOD (SOFA <11). Secondary outcomes, including heart failure hospitalization, atrial fibrillation ablation, and cardiovascular mortality, were also elevated in the severe MOD group. These results suggest that postoperative MOD not only reflects immediate clinical severity but may also portend worse long-term cardiovascular prognosis.\n\nKey limitations include the study’s observational design, which precludes causal inference, and the lack of data on unmeasured confounders such as baseline comorbidities or intraoperative technical variations. The authors emphasize the need for prospective studies to validate these findings and explore preoperative risk stratification or prophylactic interventions to reduce MOD and its associated adverse outcomes.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545076",
-    "authors": [
-      {
-        "name": "Tong Wang",
-        "affiliation": "Institute of Cardiac Surgery, Beijing An Zhen Hospital Capital Medical University, Beijing, China."
-      },
-      {
-        "name": "La Ta",
-        "affiliation": "Institute of Cardiac Surgery, Beijing An Zhen Hospital Capital Medical University, Beijing, China."
-      },
-      {
-        "name": "Kui Zhang",
-        "affiliation": "Institute of Cardiac Surgery, Beijing An Zhen Hospital Capital Medical University, Beijing, China."
-      },
-      {
-        "name": "Ran Dong",
-        "affiliation": "Institute of Cardiac Surgery, Beijing An Zhen Hospital Capital Medical University, Beijing, China."
-      }
-    ],
-    "journal": "Clinical cardiology",
-    "publishedDate": "2026-08-03",
-    "fetchedDate": "2026-08-03",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiac",
-      "cardiovascular",
-      "heart",
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
