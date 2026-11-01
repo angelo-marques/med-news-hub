@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42965704",
+    "pmid": "42965704",
+    "doi": "10.1007/s00415-026-14232-y",
+    "title": "Leveraging immunoprecipitation mass spectrometry and neuropathology to identify the clinical value of different blood tau species in Alzheimer's disease.",
+    "titlePt": "Leveraging immunoprecipitation mass spectrometry and neuropathology to identify the clinical value of different blood tau species in Alzheimer's disease.",
+    "abstract": "Advances in plasma-based assays have allowed for the study of several tau and p-tau epitopes. P-tau217 has emerged as one of the most robust markers of Alzheimer's disease (AD) pathology. Despite their strong diagnostic performance, plasma tau biomarkers require further validation to clarify their clinical utility. To investigate the associations between a panel of phosphorylated and non-phosphorylated tau species measured in antemortem plasma and clinical features of autopsy-confirmed AD. Cross-sectional data from 123 participants from the BU ADRC who had antemortem blood draws and brain donation following death. Participants completed neuropsychological testing during life as part of their National Alzheimer's Coordinating Center-Uniform Data Set (NACC UDS) evaluation. AD neuropathology was diagnosed using NIA-Reagan criteria. Time interval between testing at last visit and autopsy ranged from 0 to 12&#xa0;years, mean = 5.54&#xa0;years. Raw neuropsychological test scores were used fo",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42965704",
+    "authors": [
+      {
+        "name": "Jacob Labonte",
+        "affiliation": "Boston University Alzheimer's Disease Research Center and BU CTE Center, Boston University Chobanian and Avedisian School of Medicine, 72 E. Concord Street, Instructional Building L-5, Boston, MA, 02118, USA."
+      },
+      {
+        "name": "Annalise E Miner",
+        "affiliation": "Boston University Alzheimer's Disease Research Center and BU CTE Center, Boston University Chobanian and Avedisian School of Medicine, 72 E. Concord Street, Instructional Building L-5, Boston, MA, 02118, USA."
+      },
+      {
+        "name": "Jenna R Groh",
+        "affiliation": "Boston University Alzheimer's Disease Research Center and BU CTE Center, Boston University Chobanian and Avedisian School of Medicine, 72 E. Concord Street, Instructional Building L-5, Boston, MA, 02118, USA."
+      },
+      {
+        "name": "Laia Montoliu-Gaya",
+        "affiliation": "Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, The Sahlgrenska Academy at the University of Gothenburg, M&#xf6;lndal, Sweden."
+      }
+    ],
+    "journal": "Journal of neurology",
+    "publishedDate": "2026-10-31",
+    "fetchedDate": "2026-11-01",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "alzheimer",
+      "psychological"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7Zhun4-2kFHot-a53af7261ad54ca9\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: efb0eb69-2c18-4a8f-94ae-08090675c11d)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42964515",
     "pmid": "42964515",
     "doi": "10.1016/j.eclinm.2026.104266",
@@ -12348,47 +12390,5 @@
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42545488",
-    "pmid": "42545488",
-    "doi": "10.1007/s00234-026-04129-y",
-    "title": "Hyperdense middle cerebral artery sign is not associated with functional outcome following mechanical thrombectomy.",
-    "titlePt": "Hyperdense middle cerebral artery sign is not associated with functional outcome following mechanical thrombectomy.",
-    "abstract": "Arterial hyperdensity on non-contrast CT is a well-recognized indicator of acute thromboembolism within the intracranial arteries. However, its association with functional outcome following mechanical thrombectomy remains inconclusive. This study aimed to evaluate the association between the hyperdense middle cerebral artery sign (HMCAS) and functional outcome in a homogeneous cohort of patients treated with mechanical thrombectomy for occlusion of the M1 segment of the middle cerebral artery (MCA).&#xa0; METHODS: We conducted a retrospective analysis of a tertiary stroke center prospectively maintained database to identify patients who underwent mechanical thrombectomy for M1 segment occlusion between January 1, 2021, and December 31, 2023. Demographic data, comorbidities, imaging scores, procedural parameters, and clinical parameters were collected.&#xa0; RESULTS: A total of 220 patients were included in the study. The prevalence of HMCAS did not differ significantly between patients",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recentemente publicado no *Journal of Neuroradiology* desafia uma crença consolidada na avaliação de pacientes com AVC isquêmico agudo submetidos a trombectomia mecânica. A pesquisa, conduzida em um centro terciário de AVC, analisou 220 pacientes com oclusão do segmento M1 da artéria cerebral média (ACM) tratados entre janeiro de 2021 e dezembro de 2023. O objetivo foi verificar se o sinal de hiperdensidade da artéria cerebral média (HMCAS, do inglês *hyperdense middle cerebral artery sign*), detectado em tomografias computadorizadas sem contraste, influencia o desfecho funcional após o procedimento.\n\nOs resultados revelaram que a presença do HMCAS não teve associação significativa com o prognóstico funcional aos 90 dias, avaliado pela escala *modified Rankin Score* (mRS). Embora o HMCAS seja tradicionalmente interpretado como marcador de tromboembolismo agudo e potencial preditor de gravidade, este estudo sugere que sua relevância pode ser limitada quando o tratamento padrão — a trombectomia mecânica — é aplicado de forma sistemática. Os pesquisadores destacam que fatores como o tempo desde o início dos sintomas até a recanalização, a pontuação inicial na escala *National Institutes of Health Stroke Scale* (NIHSS) e a presença de colaterais adequadas foram mais determinantes para o desfecho clínico do que a hiperdensidade arterial.\n\nApesar das limitações inerentes ao delineamento retrospectivo e à ausência de randomização, os achados reforçam a importância de priorizar protocolos baseados em tempo e viabilidade tecidual, em vez de depender exclusivamente de sinais radiológicos. Os autores recomendam estudos prospectivos multicêntricos para validar esses resultados em populações mais diversas e incluir variáveis como o tipo de trombo (por exemplo, composição fibrinoplaquetária versus rico em eritrócitos), que podem influenciar a eficácia da trombectomia. Além disso, não foi informado no resumo original se a análise considerou a interação entre HMCAS e o uso de terapia trombolítica intravenosa prévia.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Neuroradiology* challenges a long-held assumption in the evaluation of patients with acute ischemic stroke undergoing mechanical thrombectomy. The research, conducted at a tertiary stroke center, analyzed 220 patients with M1 segment occlusion of the middle cerebral artery (MCA) treated between January 2021 and December 2023. The study aimed to determine whether the hyperdense middle cerebral artery sign (HMCAS), detected on non-contrast CT scans, influences functional outcomes after the procedure.\n\nThe findings indicated that the presence of HMCAS showed no significant association with functional prognosis at 90 days, as measured by the modified Rankin Scale (mRS). While HMCAS is traditionally interpreted as a marker of acute thromboembolism and a potential predictor of severity, this study suggests its relevance may be limited when standard treatment — mechanical thrombectomy — is systematically applied. Researchers emphasize that factors such as time from symptom onset to recanalization, initial National Institutes of Health Stroke Scale (NIHSS) score, and the presence of adequate collaterals were more decisive for clinical outcomes than arterial hyperdensity.\n\nAlthough the study’s retrospective design and lack of randomization introduce inherent limitations, the findings reinforce the importance of prioritizing time-based and tissue viability protocols over reliance on radiographic signs alone. The authors recommend prospective multicenter studies to validate these results across more diverse populations and include variables such as thrombus composition (e.g., fibrin-platelet versus erythrocyte-rich clots), which may influence thrombectomy efficacy. Additionally, it was not reported in the original abstract whether the analysis accounted for the interaction between HMCAS and prior intravenous thrombolytic therapy.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545488",
-    "authors": [
-      {
-        "name": "Tomislav Herega",
-        "affiliation": "Department of Diagnostic and Interventional Neuroradiology, University Hospital Centre Zagreb, Zagreb, Croatia. tomislav.herega@kbc-zagreb.hr."
-      },
-      {
-        "name": "Ivan Peri&#x107;",
-        "affiliation": "Department of Neurology, University Hospital Centre Zagreb, Zagreb, Croatia."
-      },
-      {
-        "name": "David Ozreti&#x107;",
-        "affiliation": "Department of Diagnostic and Interventional Neuroradiology, University Hospital Centre Zagreb, Zagreb, Croatia."
-      },
-      {
-        "name": "Marko Rado&#x161;",
-        "affiliation": "School of Medicine, University of Zagreb, Zagreb, Croatia."
-      }
-    ],
-    "journal": "Neuroradiology",
-    "publishedDate": "2026-08-03",
-    "fetchedDate": "2026-08-03",
-    "category": "Neurologia",
-    "tags": [
-      "stroke",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
