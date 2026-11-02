@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42969589",
+    "pmid": "42969589",
+    "doi": "10.4103/lungindia.lungindia_158_26",
+    "title": "KRAS-mutated non-small cell lung cancer (NSCLC) in South India: Real-world genomic landscape, treatment patterns, and outcomes.",
+    "titlePt": "KRAS-mutated non-small cell lung cancer (NSCLC) in South India: Real-world genomic landscape, treatment patterns, and outcomes.",
+    "abstract": "KRAS mutated metastatic non-small cell lung cancer (NSCLC) is characterized by clinical and genomic heterogeneity. There is paucity of data on this subtype from low- and middle- income countries (LMICs), where emerging therapeutic options are of limited accessibility. We conducted a retrospective study at Regional Cancer Centre, Kerala, India between June 2021 and June 2025. 220 metastatic NSCLC cases underwent NGS; 57/220 (26%) were KRAS mutated and formed the descriptive cohort. After exclusions, 47 were evaluable for response and survival, analysed using Kaplan Meier and log rank tests (two-sided P &#x2264; 0.05). Median age was 61 years; 73% were men; 63% had a smoking history. The most KRAS mutations were G12C (37%), G12D (19%), G12A (16%), and G12V (12%). Co-mutations occurred in 53% ( TP53 35%, PIK3CA 11%). 28% patients were PD-L1 positive. First-line therapy was predominantly platinum doublet (83%); with added bevacizumab in 16% and an immune checkpoint inhibitor (ICI) in 7%. A",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42969589",
+    "authors": [
+      {
+        "name": "Shibu V Ignatious",
+        "affiliation": "Department of Medical Oncology, Regional Cancer Centre, Trivandrum, Kerala, India."
+      },
+      {
+        "name": "Joe Jose"
+      },
+      {
+        "name": "Sandeep T Velayudhan"
+      },
+      {
+        "name": "T M Anoop"
+      }
+    ],
+    "journal": "Lung India : official organ of Indian Chest Society",
+    "publishedDate": "2026-11-02",
+    "fetchedDate": "2026-11-02",
+    "category": "Genômica",
+    "tags": [
+      "cancer",
+      "genomic",
+      "gene",
+      "mutation",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7j3FY8-2kFHot-a54509d1bb4f4d75\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 7faae03d-b02e-4360-865b-8c4a15bf355c)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42663536",
     "pmid": "42663536",
     "doi": "10.1158/1078-0432.CCR-26-1610",
@@ -12341,49 +12382,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42548114",
-    "pmid": "42548114",
-    "doi": "10.1111/his.70250",
-    "title": "Nosological reappraisal of primary cutaneous apocrine carcinoma based on a clinicopathological and genetic analysis of 30 cases.",
-    "titlePt": "Nosological reappraisal of primary cutaneous apocrine carcinoma based on a clinicopathological and genetic analysis of 30 cases.",
-    "abstract": "The nosology of primary cutaneous apocrine carcinoma remains controversial, as the term has often been used as a heterogeneous diagnostic category. The aim of this study was to clarify the clinicopathological and molecular features of strictly defined apocrine carcinoma using modified diagnostic criteria. Thirty cases were collected from three institutions. Male predominance (28/30, 93%), predominance in elderly patients (median age, 72&#x2009;years; range, 33-89&#x2009;years) and the favourite site of the axilla (29/30, 97%) were observed. Lymph node and distant metastases occurred in 64% (16/25) and 28% (7/25) of cases, respectively. Two patients died of the disease (2/25, 8%), with a median follow-up period of 2&#x2009;years and 1&#x2009;month. Histopathologically, all tumours harboured cytoplasmic zymogen-like granules; however, some (8/30, 27%) lacked apocrine secretion features. Nucleoli were either moderately prominent (n&#x2009;=&#x2009;17) or prominent (n&#x2009;=&#x2009;13). ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo publicado no *Histopathology* reavaliou a classificação e as características clínico-patológicas e moleculares do carcinoma apócrino primário da pele, uma entidade rara e ainda controversa na literatura médica. Ao analisar 30 casos provenientes de três instituições, os pesquisadores identificaram padrões demográficos e evolutivos distintos: observou-se uma predominância masculina (93% dos pacientes), com idade mediana de 72 anos (variação de 33 a 89 anos), e localização preferencial na axila em 97% dos casos. A alta taxa de metástases — 64% para linfonodos regionais e 28% para sítios distantes — sugere um comportamento biológico mais agressivo do que previamente documentado, embora apenas 8% dos pacientes tenham evoluído para óbito durante o seguimento mediano de dois anos e um mês.\n\nDo ponto de vista histopatológico, todas as amostras apresentaram grânulos citoplasmáticos semelhantes a zimogênio, um marcador tradicional de diferenciação apócrina, embora 27% dos tumores não exibissem sinais clássicos de secreção apócrina. Além disso, a análise demonstrou que os nucléolos variavam de moderadamente proeminentes a proeminentes em todos os casos, um achado que pode auxiliar no diagnóstico diferencial com outras neoplasias cutâneas. A pesquisa reforça a necessidade de critérios diagnósticos mais rigorosos para essa condição, dada a heterogeneidade histórica na sua classificação. Contudo, a ausência de dados moleculares detalhados no resumo limita a compreensão de possíveis alvos terapêuticos ou mecanismos patogênicos subjacentes.\n\nOs autores destacam que os resultados sublinham a importância de uma abordagem multidisciplinar no manejo do carcinoma apócrino primário, especialmente em pacientes idosos do sexo masculino com lesões axilares. No entanto, a baixa amostragem e o curto período de seguimento impedem generalizações robustas, exigindo estudos prospectivos com maior número de casos e análise genômica para validar esses achados e explorar terapias direcionadas.\n\n---\n\n**English version**\n\nA retrospective study published in *Histopathology* reappraised the classification and clinicopathological and molecular features of primary cutaneous apocrine carcinoma, a rare and still controversial entity in medical literature. By analyzing 30 cases from three institutions, researchers identified distinct demographic and evolutionary patterns: a strong male predominance (93% of patients), with a median age of 72 years (range 33–89 years), and a preferential location in the axilla in 97% of cases. The high metastasis rate—64% to regional lymph nodes and 28% to distant sites—suggests a more aggressive biological behavior than previously documented, although only 8% of patients died during a median follow-up of two years and one month.\n\nHistopathologically, all samples exhibited cytoplasmic zymogen-like granules, a traditional marker of apocrine differentiation, though 27% of tumors lacked classical apocrine secretion features. Additionally, nucleoli ranged from moderately prominent to prominent in all cases, a finding that may aid in the differential diagnosis with other cutaneous neoplasms. The study underscores the need for stricter diagnostic criteria for this condition, given the historical heterogeneity in its classification. However, the absence of detailed molecular data in the abstract limits insights into potential therapeutic targets or underlying pathogenic mechanisms.\n\nThe authors emphasize that the results highlight the importance of a multidisciplinary approach in managing primary cutaneous apocrine carcinoma, particularly in elderly male patients with axillary lesions. Still, the small sample size and short follow-up period prevent robust generalizations, necessitating prospective studies with larger cohorts and genomic analysis to validate these findings and explore targeted therapies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42548114",
-    "authors": [
-      {
-        "name": "Keisuke Goto",
-        "affiliation": "Department of Diagnostic Pathology and Cytology, Osaka International Cancer Institute, Osaka, Japan."
-      },
-      {
-        "name": "Yoji Kukita",
-        "affiliation": "Department of Pathology, Tokyo Metropolitan Cancer and Infectious Disease Center Komagome Hospital, Tokyo, Japan."
-      },
-      {
-        "name": "Shuichi Ohe",
-        "affiliation": "Department of Diagnostic Pathology, Hyogo Cancer Center, Akashi, Japan."
-      },
-      {
-        "name": "Tsunekazu Hishima",
-        "affiliation": "Department of Anatomic Pathology, Tokyo Medical University, Tokyo, Japan."
-      }
-    ],
-    "journal": "Histopathology",
-    "publishedDate": "2026-08-04",
-    "fetchedDate": "2026-08-04",
-    "category": "Genômica",
-    "tags": [
-      "carcinoma",
-      "genetic",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
