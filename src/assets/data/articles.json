@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42967599",
+    "pmid": "42967599",
+    "doi": "10.1002/cbdv.71898",
+    "title": "A Scalable, Traceable Computational-to-Experimental Pipeline for Activity-Guided Identification of Bioactive Constituents: A Case Study in Salvia miltiorrhiza Bunge.",
+    "titlePt": "A Scalable, Traceable Computational-to-Experimental Pipeline for Activity-Guided Identification of Bioactive Constituents: A Case Study in Salvia miltiorrhiza Bunge.",
+    "abstract": "Systematic identification of bioactive constituents from complex natural products remains challenging. Here, a scalable and traceable integrated workflow was developed and validated in Salvia miltiorrhiza Bunge (SMB) for anti-Parkinson's disease (PD) constituent discovery. Network pharmacology first identified four candidate compounds, which were quantified and dynamically tracked during X-5 macroporous resin enrichment and fractionation using a validated HPLC method. Transfer rates exceeded 80% for all candidates, confirming efficient enrichment and chemical traceability. Bioactivity was then evaluated in MPP+-induced PC12 cells and a rotenone-induced PD mouse model. SMB-2 showed the strongest neuroprotective activity and was subjected to spectrum-effect relationship analysis, which identified five activity-associated compounds. Integration of pharmacological validation, molecular docking, and molecular dynamics simulations progressively narrowed the candidate space and identified cry",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42967599",
+    "authors": [
+      {
+        "name": "Xin Wang",
+        "affiliation": "College of Pharmacy, Gansu University of Chinese Medicine, Lanzhou, China."
+      },
+      {
+        "name": "Zhenghuai Tan",
+        "affiliation": "CAS Key Laboratory of Chemistry of Northwestern Plant Resources and Key Laboratory of Natural Medicine of Gansu Province, Lanzhou Institute of Chemical Physics, Chinese Academy of Sciences (CAS), Lanzhou, China."
+      },
+      {
+        "name": "Xiaojie Jin",
+        "affiliation": "Institute of Traditional Chinese Medicine Pharmacology and Toxicology, Sichuan Academy of Chinese Medicine Sciences, Chengdu, China."
+      },
+      {
+        "name": "Jun Hai",
+        "affiliation": "College of Pharmacy, Gansu University of Chinese Medicine, Lanzhou, China."
+      }
+    ],
+    "journal": "Chemistry &amp; biodiversity",
+    "publishedDate": "2026-11-01",
+    "fetchedDate": "2026-11-02",
+    "category": "Neurologia",
+    "tags": [
+      "parkinson",
+      "pharmacology"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7fhAKM-2kFHot-a5416d46bfc31e27\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 4795de02-0f51-4b31-aa4a-f95649d65ae8)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42965704",
     "pmid": "42965704",
     "doi": "10.1007/s00415-026-14232-y",
@@ -12347,48 +12388,5 @@
     "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42163537",
-    "pmid": "42163537",
-    "doi": "10.1002/ijc.70521",
-    "title": "Optimal Neoadjuvant Approach for Resectable Esophageal Cancer in the Era of Immunotherapy.",
-    "titlePt": "Optimal Neoadjuvant Approach for Resectable Esophageal Cancer in the Era of Immunotherapy.",
-    "abstract": "Neoadjuvant immunotherapy has emerged as a promising strategy for patients with resectable esophageal cancer (EC), yet the optimal therapeutic approach remains unclear. We performed an updated network meta-analysis to compare the efficacy and safety of current neoadjuvant immunotherapy-based strategies using the most recent prospective randomized controlled trials. Eligible studies published before August 1, 2025 were systematically identified, and a Bayesian network meta-analysis with Markov chain Monte Carlo methods was conducted. The primary endpoints were pathological complete response (pCR) and major pathological response (mPR), while secondary outcomes included objective response rate (ORR), R0 resection rate, grade &#x2265;&#x2009;3 treatment-related adverse events (tr-AEs), and survival outcomes. A total of 41 trials involving 4624 patients were included. Neoadjuvant immunotherapy combined with chemoradiotherapy followed by surgery (nICRT+S) achieved the highest pCR rate and de",
-    "journalisticSummary": "O tratamento do câncer de esôfago resecável tem sido objeto de estudo intensivo, com a imunoterapia neoadjuvante emergindo como uma estratégia promissora. No entanto, a abordagem terapêutica ideal ainda não está claramente definida. Um estudo recente publicado no PubMed, com DOI 10.1002/ijc.70521, buscou comparar a eficácia e a segurança das atuais estratégias baseadas em imunoterapia neoadjuvante para câncer de esôfago. Os autores realizaram uma metanálise em rede atualizada, utilizando os mais recentes ensaios clínicos randomizados e controlados prospectivamente, publicados antes de 1 de agosto de 2025. Foram incluídos 41 estudos que envolveram 4624 pacientes. Os principais critérios de avaliação foram a resposta completa patológica (pCR) e a resposta patológica majoritária (mPR), enquanto os desfechos secundários incluíram a taxa de resposta objetiva (ORR), a taxa de ressecção R0, eventos adversos relacionados ao tratamento de grau ≥3 (tr-AEs) e desfechos de sobrevida.\n\nA combinação de imunoterapia neoadjuvante com quimiorradioterapia seguida de cirurgia (nICRT+S) alcançou a maior taxa de pCR. No entanto, o estudo não forneceu detalhes sobre os próximos passos ou como esses achados podem influenciar as diretrizes clínicas atuais. Além disso, as limitações do estudo, como a heterogeneidade entre os estudos incluídos, devem ser consideradas ao interpretar os resultados. Em resumo, essa metanálise em rede fornece insights valiosos sobre a eficácia da imunoterapia neoadjuvante combinada com outras terapias para o câncer de esôfago resecável, mas mais pesquisas são necessárias para definir a abordagem ideal e seu impacto clínico.\n\nThe treatment of resectable esophageal cancer has been the subject of intensive study, with neoadjuvant immunotherapy emerging as a promising strategy. However, the optimal therapeutic approach remains unclear. A recent study published on PubMed, with DOI 10.1002/ijc.70521, sought to compare the efficacy and safety of current neoadjuvant immunotherapy-based strategies for esophageal cancer. The authors conducted an updated network meta-analysis using the most recent prospective randomized controlled trials published before August 1, 2025. A total of 41 trials involving 4624 patients were included. The primary endpoints were pathological complete response (pCR) and major pathological response (mPR), while secondary outcomes included objective response rate (ORR), R0 resection rate, grade ≥3 treatment-related adverse events (tr-AEs), and survival outcomes.\n\nThe combination of neoadjuvant immunotherapy with chemoradiotherapy followed by surgery (nICRT+S) achieved the highest pCR rate. However, the study did not provide details on next steps or how these findings may influence current clinical guidelines. Furthermore, the study's limitations, such as the heterogeneity among the included studies, should be considered when interpreting the results. In summary, this network meta-analysis provides valuable insights into the efficacy of neoadjuvant immunotherapy combined with other therapies for resectable esophageal cancer, but further research is needed to define the optimal approach and its clinical impact.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42163537",
-    "authors": [
-      {
-        "name": "Guo Lin",
-        "affiliation": "Department of Radiation Oncology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China."
-      },
-      {
-        "name": "Fan Ge",
-        "affiliation": "Department of Thoracic Surgery, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China."
-      },
-      {
-        "name": "Yunsong Liu",
-        "affiliation": "Department of Radiation Oncology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China."
-      },
-      {
-        "name": "Yu Men",
-        "affiliation": "Department of VIP Medical Services, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China."
-      }
-    ],
-    "journal": "International journal of cancer",
-    "publishedDate": "2026-08-03",
-    "fetchedDate": "2026-08-03",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "immunotherapy",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
