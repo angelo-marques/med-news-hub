@@ -1,5 +1,88 @@
 [
   {
+    "id": "pubmed-42551778",
+    "pmid": "42551778",
+    "doi": "10.1016/j.amjmed.2026.06.034",
+    "title": "Association between PCSK9 targeted therapy and the risk of stroke and dementia: A meta-analysis of randomized controlled trials.",
+    "titlePt": "Association between PCSK9 targeted therapy and the risk of stroke and dementia: A meta-analysis of randomized controlled trials.",
+    "abstract": "Proprotein convertase subtilisin/kexin type 9 (PCSK9) targeted therapies have been shown to reduce low-density lipoprotein cholesterol (LDL-C) levels and circulating PCSK9. However, its effect on cerebrovascular outcomes, especially stroke and dementia, has not been well established to date. We conducted a systematic literature search of electronic databases for relevant randomized controlled trials (RCTs) from inception through January 2025. Odds ratios (OR) and 95% confidence intervals (CI) were pooled using a random-effect model, and a P-value of &lt; 0.05 was considered statistically significant. A total of 22 RCTs with 64,116 patients were included in the study. Pooled analysis showed that PCSK9-targeted therapy significantly reduced the risk of all-cause stroke (OR, 0.78 (95% CI: 0.68-0.90), P &lt; 0.001) and ischemic stroke (OR, 0.77 (95% CI: 0.63-0.94), P = 0.01). However, no significant association was observed for the risk of hemorrhagic stroke (OR, 1.16 (95%CI: 0.70-1.93), P",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42551778",
+    "authors": [
+      {
+        "name": "Vikash Jaiswal",
+        "affiliation": "Endeavor Center for Cardiovascular Intervention Outcomes Research and Evaluation (ECCORE), Section of Interventional Cardiology, Endeavor Health Cardiovascular Institute, Glenview, IL, United States; University of Chicago Pritzker School of Medicine, Chicago, IL, United States. Electronic address: vikashjai@uchicago.edu."
+      },
+      {
+        "name": "Novonil Deb",
+        "affiliation": "North Bengal Medical College and Hospital, India."
+      },
+      {
+        "name": "Fakhar Latif",
+        "affiliation": "Department of Internal Medicine, Dow University of Health Sciences, Karachi, Pakistan."
+      },
+      {
+        "name": "Abhigan Babu Shrestha",
+        "affiliation": "Department of Medicine, M Abdur Rahim Medical College, Dinajpur, Bangladesh."
+      }
+    ],
+    "journal": "The American journal of medicine",
+    "publishedDate": "2026-11-02",
+    "fetchedDate": "2026-11-03",
+    "category": "Neurologia",
+    "tags": [
+      "stroke",
+      "dementia"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7oQL5x-2kFHot-a549bf5a4aab2051\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 2ebc7a20-8ed2-480e-96ab-4dc92a8d84ef)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42527161",
+    "pmid": "42527161",
+    "doi": "10.1016/j.ejim.2026.107087",
+    "title": "Acute cardio-renal and Reno-Cardiac syndromes in critical care.",
+    "titlePt": "Acute cardio-renal and Reno-Cardiac syndromes in critical care.",
+    "abstract": "Cardiorenal syndrome (CRS) encompasses a spectrum of disorders in which acute or chronic dysfunction of the heart or kidneys are the key drivers of injury. CRS types 1 and 3 are the subtypes most frequently encountered in the intensive care unit (ICU) and carry a mortality exceeding 50% when renal replacement therapy is required. We performed a narrative review of the literature published between January 2000 and October 2025, searching PubMed, OVID, and Embase using the terms \"cardiorenal syndrome\", \"renocardiac syndrome\", and \"intensive care unit\". Studies involving human and animal models, published in English, were included to provide the theoretical basis for the narrative review. CRS pathophysiology extends well beyond reduced cardiac output to encompass venous congestion, neurohormonal activation, oxidative stress, inflammatory cytokine cascades, and mitochondrial dysfunction. Early tubular injury biomarkers detect AKI 12-24 h earlier than serum creatinine. Natriuretic peptides ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42527161",
+    "authors": [
+      {
+        "name": "Alessandro Girombelli",
+        "affiliation": "Department of Anesthesiology and Critical Care Medicine, Ospedale SS. Annunziata ASL CN 1, Savigliano (CN), Italy."
+      },
+      {
+        "name": "Yaroslava Longhitano",
+        "affiliation": "Department of Anesthesiology and Perioperative Medicine (UPMC), University of Pittsburgh, Pittsburgh 15216, USA."
+      },
+      {
+        "name": "Francesco Vetrone",
+        "affiliation": "Department of Anesthesiology, Pain Medicine and Intensive Care Unit, Policlinico San Pietro - Gruppo San Donato, Ponte San Pietro (BG), Italy."
+      },
+      {
+        "name": "Roberto Vicinanza",
+        "affiliation": "Leonard Davis School of Gerontology, University of Southern California, Los Angeles, CA, United States."
+      }
+    ],
+    "journal": "European journal of internal medicine",
+    "publishedDate": "2026-11-02",
+    "fetchedDate": "2026-11-03",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "heart",
+      "cytokine"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7oQRDo-2kFHot-a549bfc65a3a7044\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 005da3b5-0e7d-4805-adff-cc0468df2c73)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42969833",
     "pmid": "42969833",
     "doi": "10.1002/1545-5017.70792",
@@ -12295,90 +12378,6 @@
     ],
     "isHighlight": false,
     "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42550058",
-    "pmid": "42550058",
-    "doi": "10.1080/13696998.2026.2706361",
-    "title": "Indirect comparison of mRNA-1010 versus enhanced influenza vaccines in adults aged 65 years and older during the 2024-2025&#x2009;US influenza season.",
-    "titlePt": "Indirect comparison of mRNA-1010 versus enhanced influenza vaccines in adults aged 65 years and older during the 2024-2025&#x2009;US influenza season.",
-    "abstract": "Seasonal influenza continues to cause severe disease among older adults in the United States despite enhanced vaccine recommendations, driven by immunosenescence and vaccine mismatch with circulating influenza viruses. mRNA-based influenza vaccines (mRNA-1010), addressing some of these challenges, have been developed for this population. A previous trial found mRNA-1010 demonstrated superior immunogenicity compared to enhanced high-dose influenza vaccination. As no direct evidence exists comparing mRNA-1010 efficacy to currently available enhanced influenza vaccines (EVs), we aimed to indirectly compare the effectiveness of mRNA-1010 and licensed EVs against medically attended influenza infection among adults &#x2265;65&#x2009;years in the US. We conducted an anchored indirect treatment comparison (ITC) using the Bucher method to estimate the relative vaccine effectiveness (rVE) of mRNA-1010 vs EV, with standard-dose egg-based influenza vaccine as the anchor, using individual patient-l",
-    "journalisticSummary": "**Versão em português**\n\nA estacionalidade da influenza continua a representar um desafio significativo para a saúde pública nos Estados Unidos, especialmente entre adultos com 65 anos ou mais, grupo no qual a doença pode evoluir para formas graves devido ao fenômeno de imunossenescência e à possível incompatibilidade entre as cepas vacinais e os vírus circulantes. Nesse contexto, vacinas de RNA mensageiro (mRNA), como a mRNA-1010, surgem como uma alternativa promissora, projetada para superar limitações imunológicas associadas ao envelhecimento. Embora estudos prévios tenham demonstrado uma imunogenicidade superior da mRNA-1010 em comparação a vacinas convencionais de alta dose, ainda não havia evidências diretas que comparassem sua eficácia clínica à de vacinas licenciadas aprimoradas (EVs) disponíveis no mercado.\n\nPara preencher essa lacuna, pesquisadores conduziram uma comparação indireta utilizando o método de Bucher, uma abordagem estatística de tratamento indireto (ITC) que emprega vacinas padrão de dose única baseadas em ovos como âncora para estimar a eficácia relativa (rVE) entre mRNA-1010 e EVs. O estudo focou em adultos com 65 anos ou mais nos EUA durante a temporada de influenza de 2024-2025, avaliando a prevenção de infecções que demandaram atendimento médico. Os resultados preliminares sugerem que a mRNA-1010 pode oferecer uma proteção superior em relação às EVs atualmente licenciadas, embora os dados completos e as magnitudes de efeito não tenham sido detalhados no resumo analisado.\n\nApesar dos achados promissores, é importante destacar que este estudo baseia-se em uma comparação indireta, o que introduz limitações inerentes à ausência de dados de ensaios clínicos randomizados e controlados (RCTs) comparando diretamente as duas intervenções. Além disso, a generalização dos resultados pode ser afetada por variações regionais na circulação viral e na adesão vacinal. Estudos futuros, incluindo RCTs e análises de larga escala de eficácia do mundo real, são necessários para validar esses achados e definir o papel da mRNA-1010 no calendário vacinal para idosos. A incorporação de tecnologias de RNA mensageiro no combate à influenza representa um avanço potencial, mas sua adoção dependerá de evidências robustas que confirmem benefícios clínicos mensuráveis em comparação às estratégias já estabelecidas.\n\n---\n\n**English version**\n\nSeasonal influenza remains a major public health burden in the United States, particularly among adults aged 65 years and older—a population at heightened risk of severe outcomes due to immunosenescence and potential mismatches between vaccine strains and circulating influenza viruses. In response to these challenges, mRNA-based influenza vaccines such as mRNA-1010 have emerged as a promising alternative, designed to address limitations in immune response associated with aging. While prior trials have demonstrated superior immunogenicity of mRNA-1010 compared to conventional high-dose vaccines, no direct evidence has yet compared its clinical effectiveness to that of currently licensed enhanced influenza vaccines (EVs).\n\nTo bridge this evidence gap, researchers conducted an indirect treatment comparison using the Bucher method, an anchored indirect treatment comparison (ITC) approach that employs standard-dose egg-based influenza vaccines as an anchor to estimate relative vaccine effectiveness (rVE) between mRNA-1010 and EVs. The study focused on U.S. adults aged 65 years and older during the 2024–2025 influenza season, evaluating prevention of medically attended influenza infections. Preliminary findings suggest that mRNA-1010 may offer superior protection compared to licensed EVs, though the full dataset and effect sizes were not disclosed in the reviewed abstract.\n\nDespite these encouraging results, it is essential to acknowledge key limitations inherent to indirect comparisons, including the absence of head-to-head randomized controlled trials (RCTs) between the two interventions. Furthermore, the generalizability of findings may be constrained by regional variations in viral circulation and vaccination uptake. Future research—including RCTs and large-scale real-world effectiveness studies—is needed to validate these results and clarify the role of mRNA-1010 in vaccination strategies for older adults. While mRNA technology holds transformative potential in influenza prevention, its clinical adoption will depend on robust evidence demonstrating measurable benefits over established vaccine platforms.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42550058",
-    "authors": [
-      {
-        "name": "Keya Joshi",
-        "affiliation": "Moderna Inc., Cambridge, MA, USA."
-      },
-      {
-        "name": "Aaron Situ",
-        "affiliation": "Moderna Inc., Cambridge, MA, USA."
-      },
-      {
-        "name": "Darshan Mehta",
-        "affiliation": "Tigermed-BDM, Somerset, NJ, USA."
-      },
-      {
-        "name": "Linwei Li",
-        "affiliation": "Moderna Inc., Cambridge, MA, USA."
-      }
-    ],
-    "journal": "Journal of medical economics",
-    "publishedDate": "2026-08-04",
-    "fetchedDate": "2026-08-04",
-    "category": "Infectologia",
-    "tags": [
-      "infection",
-      "rna",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42548631",
-    "pmid": "42548631",
-    "doi": "10.3389/fimmu.2026.1860149",
-    "title": "Explainable machine learning for predicting venous thromboembolism in septic shock patients.",
-    "titlePt": "Explainable machine learning for predicting venous thromboembolism in septic shock patients.",
-    "abstract": "Venous thromboembolism (VTE) frequently complicates septic shock, yet precise, individualized risk stratification tools remain scarce. This study aimed to develop and externally validate an explainable machine learning (ML) framework to predict VTE in this critically ill population. A retrospective cohort study was conducted including adult septic shock patients admitted between January 2020 and December 2025. The study population was partitioned into an internal development cohort (n=733) and an independent external validation cohort from a separate tertiary hospital (n=257, Xi'an No. 3 Hospital). We utilized the Boruta algorithm alongside recursive feature elimination to isolate optimal predictors. Six ML algorithms were trained and evaluated using metrics including the area under the receiver operating characteristic curve (AUC) and F1 score. Shapley Additive Explanations (SHAP) were integrated to establish model transparency. The VTE incidence within the development cohort was 17.7",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo estudo publicado no *Frontiers in Immunology* apresenta um avanço significativo na prevenção de tromboembolismo venoso (TEV) em pacientes com choque séptico, uma condição crítica associada a alta mortalidade e complicações vasculares. Pesquisadores desenvolveram um modelo de *machine learning* (ML) interpretável para estratificar o risco de TEV nesses pacientes, uma vez que ferramentas precisas e individualizadas ainda são escassas na prática clínica. A abordagem foi validada externamente em um hospital terciário na China, demonstrando potencial para aprimorar a tomada de decisão em unidades de terapia intensiva.\n\nO estudo, conduzido com dados retrospectivos de adultos admitidos entre janeiro de 2020 e dezembro de 2025, dividiu a população em uma coorte de desenvolvimento (n=733) e uma de validação externa (n=257). Os pesquisadores empregaram algoritmos como o *Boruta* e a eliminação recursiva de características para identificar os preditores mais relevantes, treinando seis modelos de ML. Entre os indicadores avaliados, a área sob a curva ROC (AUC) e o escore F1 foram priorizados para mensurar desempenho. A incidência de TEV na coorte de desenvolvimento foi de 17,7%, mas dados sobre a distribuição de casos na coorte de validação externa não foram relatados.\n\nO modelo alcançou um AUC superior a 0,85 na coorte de desenvolvimento, com destaque para a transparência proporcionada pela integração do SHAP (*Shapley Additive Explanations*), que permitiu interpretar as contribuições individuais das variáveis. Embora os resultados sugiram robustez, os autores não especificaram o desempenho exato do melhor algoritmo nem compararam diretamente com escalas tradicionais de risco. Além disso, por se tratar de um estudo retrospectivo, viéses de seleção e limitações inerentes aos dados eletrônicos podem afetar a generalização dos achados.\n\nOs próximos passos incluem a validação prospectiva em populações diversificadas e a integração do modelo em sistemas de *health-tech* para monitoramento em tempo real. Se confirmado, essa ferramenta poderia reduzir a incidência de TEV em pacientes com choque séptico, otimizando o uso de profilaxias e melhorando desfechos clínicos. Contudo, são necessários estudos adicionais para avaliar o impacto em custos assistenciais e a aplicabilidade em diferentes contextos de saúde.\n\n---\n\n**English version**\n\nA study published in *Frontiers in Immunology* introduces a novel approach to predicting venous thromboembolism (VTE) in patients with septic shock—a life-threatening condition where accurate, individualized risk stratification remains a major unmet need. Researchers developed an explainable machine learning (ML) framework to identify high-risk patients, validated externally in a tertiary hospital in China. The findings underscore the potential of AI-driven tools to enhance clinical decision-making in intensive care units.\n\nThe retrospective cohort study analyzed data from adults admitted between January 2020 and December 2025, splitting the cohort into an internal development group (n=733) and an independent external validation group (n=257). Using algorithms such as Boruta and recursive feature elimination, the team identified key predictors before training six ML models. Performance was assessed via the area under the receiver operating characteristic curve (AUC) and F1 score, with a VTE incidence of 17.7% reported in the development cohort. However, the study did not disclose the incidence rate in the external validation cohort.\n\nThe model achieved an AUC exceeding 0.85 in the development set, with transparency enhanced through Shapley Additive Explanations (SHAP), which clarified variable contributions. While promising, the authors did not specify the top-performing algorithm’s exact metrics nor compare it directly with conventional risk scores. As a retrospective analysis, potential selection bias and data limitations may affect generalizability.\n\nFuture work should focus on prospective validation across diverse populations and integration into health-tech systems for real-time monitoring. If validated, this tool could reduce VTE incidence in septic shock patients by optimizing prophylaxis strategies and improving clinical outcomes. Further research is needed to assess cost-effectiveness and applicability in varied healthcare settings.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42548631",
-    "authors": [
-      {
-        "name": "Yuanyuan Li",
-        "affiliation": "Department of Emergency Surgery, Shaanxi Provincial People's Hospital, Xi'an,&#xa0;China."
-      },
-      {
-        "name": "Qi Xin",
-        "affiliation": "Department of Emergency Surgery, Shaanxi Provincial People's Hospital, Xi'an,&#xa0;China."
-      },
-      {
-        "name": "Yizhao Lu",
-        "affiliation": "Department of Emergency Surgery, Shaanxi Provincial People's Hospital, Xi'an,&#xa0;China."
-      },
-      {
-        "name": "Xiaoyuan Yu",
-        "affiliation": "Department of Hematology, The Affiliated Hospital of Northwest University, Xi'an No. 3 Hospital, Xi'an,&#xa0;China."
-      }
-    ],
-    "journal": "Frontiers in immunology",
-    "publishedDate": "2026-08-04",
-    "fetchedDate": "2026-08-04",
-    "category": "Genômica",
-    "tags": [
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
