@@ -1,5 +1,128 @@
 [
   {
+    "id": "pubmed-42776543",
+    "pmid": "42776543",
+    "doi": "10.1001/jama.2026.15496",
+    "title": "Tenecteplase Before Thrombectomy at 4.5 to 24 Hours for Basilar Artery Occlusion: The ATTENTION LATE Randomized Clinical Trial.",
+    "titlePt": "Tenecteplase Before Thrombectomy at 4.5 to 24 Hours for Basilar Artery Occlusion: The ATTENTION LATE Randomized Clinical Trial.",
+    "abstract": "Whether intravenous tenecteplase before endovascular thrombectomy (EVT) improves outcomes in patients with basilar artery occlusion presenting 4.5 to 24 hours after stroke onset remains uncertain. To evaluate the efficacy and safety of intravenous tenecteplase before EVT vs EVT alone in patients with moderate to severe basilar artery occlusion admitted within 4.5 to 24 hours from stroke onset. This multicenter, open-label, blinded end point, randomized clinical trial was conducted at 40 stroke centers in China. Between March 16, 2023, and February 4, 2025, a total of 330 patients with moderate to severe basilar artery occlusion (National Institutes of Health Stroke Scale score &#x2265;10) presenting within 4.5 to 24 hours from stroke onset to EVT-capable centers were enrolled. Final follow-up was completed on May 4, 2025. Patients were randomized 1:1 via a centralized web server using a minimization method to receive either intravenous tenecteplase (bolus injection, 0.25 mg/kg; maximum",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42776543",
+    "authors": [
+      {
+        "name": "Rui Li",
+        "affiliation": "Department of Neurology, First Affiliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China."
+      },
+      {
+        "name": "Xiaoxi Yao",
+        "affiliation": "Department of Neurology, First People's Hospital of Chenzhou, Chenzhou, China."
+      },
+      {
+        "name": "Raul G Nogueira",
+        "affiliation": "Department of Neurology and Neurosurgery, UPMC Stroke Institute, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania."
+      },
+      {
+        "name": "Guangxiong Yuan",
+        "affiliation": "Department of Emergency, Xiangtan Central Hospital, Xiangtan, China."
+      }
+    ],
+    "journal": "JAMA",
+    "publishedDate": "2026-11-03",
+    "fetchedDate": "2026-11-03",
+    "category": "Neurologia",
+    "tags": [
+      "stroke",
+      "clinical trial"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7sRKYy-2kFHot-a54e1532ea9b0640\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 0d6c558d-e98e-4868-be26-cdf9e1fb43da)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42975004",
+    "pmid": "42975004",
+    "doi": "10.1080/14779072.2026.2757946",
+    "title": "Cardiometabolic benefits of glucagon-like peptide-1 receptor agonists and dual agonists: from obesity and diabetes to heart failure with preserved ejection fraction.",
+    "titlePt": "Cardiometabolic benefits of glucagon-like peptide-1 receptor agonists and dual agonists: from obesity and diabetes to heart failure with preserved ejection fraction.",
+    "abstract": "Heart failure with preserved ejection fraction (HFpEF) accounts for over half of all heart failure hospitalisations and is increasing in prevalence, largely driven by obesity and Type 2 Diabetes Mellitus (T2DM). Glucagon-like-peptide receptor agonists (GLP-1 RAs) and the dual GLP-1/GIP agonist, tirzepatide, have been shown to be safe and effective medications in the treatment of T2DM and obesity as well as in obesity-related HFpEF. This review summarises the pathophysiology of obesity-related HFpEF, mechanisms by which GLP-1 RAs and tirzepatide may improve symptoms and outcomes, and summarise evidence from recent randomised controlled and observational trials across the disease spectrum they have been studied in. Therapeutic implications and future research directions are also discussed. A structured literature search was performed using PubMed/MEDLINE and Cochrane Central Register of Controlled Trials (CENTRAL) up to August 2025. GLP-1 receptor agonists and tirzepatide represent a pro",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42975004",
+    "authors": [
+      {
+        "name": "Ravi Chotalia",
+        "affiliation": "Lincoln Heart Centre, United Lincolnshire Teaching Hospitals, Lincoln, UK."
+      },
+      {
+        "name": "Owais Ghias",
+        "affiliation": "Cardiorenal Research Group, Joseph Banks Laboratories, University of Lincoln, Lincoln, UK."
+      },
+      {
+        "name": "Muhammad Usman Shah",
+        "affiliation": "Lincoln Heart Centre, United Lincolnshire Teaching Hospitals, Lincoln, UK."
+      },
+      {
+        "name": "Claire Elizabeth Hills",
+        "affiliation": "Lincoln Heart Centre, United Lincolnshire Teaching Hospitals, Lincoln, UK."
+      }
+    ],
+    "journal": "Expert review of cardiovascular therapy",
+    "publishedDate": "2026-11-03",
+    "fetchedDate": "2026-11-03",
+    "category": "Endocrinologia",
+    "tags": [
+      "heart",
+      "therapeutic",
+      "diabetes",
+      "metabolic",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7sRYK9-2kFHot-a54e163f0a97fc89\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 96bf9d27-954c-40ec-9cfb-b4be44d59d5b)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42975008",
+    "pmid": "42975008",
+    "doi": "10.1002/mbo3.70449",
+    "title": "In-Vitro Activity of Ceftazidime-Avibactam and Comparator Agents Against Carbapenem-Resistant Gram-Negative Isolates at a Tertiary Care Hospital in Lahore, Pakistan: A Cross-Sectional Study.",
+    "titlePt": "In-Vitro Activity of Ceftazidime-Avibactam and Comparator Agents Against Carbapenem-Resistant Gram-Negative Isolates at a Tertiary Care Hospital in Lahore, Pakistan: A Cross-Sectional Study.",
+    "abstract": "Carbapenem-resistant Gram-negative bacteria are WHO critical priority pathogens with few treatment options. Ceftazidime-avibactam (CAZ-AVI) inhibits serine carbapenemases (KPC, OXA-48-like) but not metallo-&#x3b2;-lactamases, which are common in South Asia. Local data are scarce; we assessed CAZ-AVI and comparator activity in Pakistan. In this laboratory-based cross-sectional study, consecutive non-duplicate carbapenem-resistant isolates from a tertiary care centre in Lahore (December 2024-May 2025) were tested by MIC and disc diffusion with CLSI interpretation. The primary outcome was CAZ-AVI susceptibility with exact binomial 95% confidence intervals; comparisons used Fisher's exact test, McNemar's test, and multivariable logistic regression. Of 210 isolates, 200 had CAZ-AVI results; susceptibility was 70.5% (141/200; 95% CI 63.7-76.7). It varied by sample source (p&#x2009;=&#x2009;0.008), from 81.2% in blood cultures to 38.5% (5/13) in other specimens, but not by organism, departmen",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42975008",
+    "authors": [
+      {
+        "name": "Faryal Yunus",
+        "affiliation": "Department of Pathology (Microbiology), National Hospital and Medical Centre, Lahore, Punjab, Pakistan."
+      },
+      {
+        "name": "Obaid Ur Rehman",
+        "affiliation": "Services Institute of Medical Sciences, Lahore, Punjab, Pakistan."
+      },
+      {
+        "name": "Muhammad Murtaza",
+        "affiliation": "Services Institute of Medical Sciences, Lahore, Punjab, Pakistan."
+      },
+      {
+        "name": "Safa Mazhar",
+        "affiliation": "Department of Medicine, Jinnah Sindh Medical University, Karachi, Sindh, Pakistan."
+      }
+    ],
+    "journal": "MicrobiologyOpen",
+    "publishedDate": "2026-11-03",
+    "fetchedDate": "2026-11-03",
+    "category": "Farmacologia",
+    "tags": [],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7sRqVh-2kFHot-a54e17a7e8d50640\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 8dbfe540-2e25-4adb-9628-79e7a1eb936b)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42469143",
     "pmid": "42469143",
     "doi": "10.1016/j.numecd.2026.104859",
@@ -12254,134 +12377,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42550058",
-    "pmid": "42550058",
-    "doi": "10.1080/13696998.2026.2706361",
-    "title": "Indirect comparison of mRNA-1010 versus enhanced influenza vaccines in adults aged 65 years and older during the 2024-2025&#x2009;US influenza season.",
-    "titlePt": "Indirect comparison of mRNA-1010 versus enhanced influenza vaccines in adults aged 65 years and older during the 2024-2025&#x2009;US influenza season.",
-    "abstract": "Seasonal influenza continues to cause severe disease among older adults in the United States despite enhanced vaccine recommendations, driven by immunosenescence and vaccine mismatch with circulating influenza viruses. mRNA-based influenza vaccines (mRNA-1010), addressing some of these challenges, have been developed for this population. A previous trial found mRNA-1010 demonstrated superior immunogenicity compared to enhanced high-dose influenza vaccination. As no direct evidence exists comparing mRNA-1010 efficacy to currently available enhanced influenza vaccines (EVs), we aimed to indirectly compare the effectiveness of mRNA-1010 and licensed EVs against medically attended influenza infection among adults &#x2265;65&#x2009;years in the US. We conducted an anchored indirect treatment comparison (ITC) using the Bucher method to estimate the relative vaccine effectiveness (rVE) of mRNA-1010 vs EV, with standard-dose egg-based influenza vaccine as the anchor, using individual patient-l",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42550058",
-    "authors": [
-      {
-        "name": "Keya Joshi",
-        "affiliation": "Moderna Inc., Cambridge, MA, USA."
-      },
-      {
-        "name": "Aaron Situ",
-        "affiliation": "Moderna Inc., Cambridge, MA, USA."
-      },
-      {
-        "name": "Darshan Mehta",
-        "affiliation": "Tigermed-BDM, Somerset, NJ, USA."
-      },
-      {
-        "name": "Linwei Li",
-        "affiliation": "Moderna Inc., Cambridge, MA, USA."
-      }
-    ],
-    "journal": "Journal of medical economics",
-    "publishedDate": "2026-08-04",
-    "fetchedDate": "2026-11-03",
-    "category": "Infectologia",
-    "tags": [
-      "infection",
-      "rna",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7qHepi-2kFHot-a54bc81c2e7467f2\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: bfd2b0bf-36ec-434d-ba70-e10a57935960)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42401072",
-    "pmid": "42401072",
-    "doi": "10.1016/j.phymed.2026.158506",
-    "title": "Therapeutic potential of scutellarin in central nervous system: A comprehensive review.",
-    "titlePt": "Therapeutic potential of scutellarin in central nervous system: A comprehensive review.",
-    "abstract": "Scutellarin (SCU) is a flavone glycoside mainly isolated from Erigeron breviscapus (Vant.) Hand. -Mazza, which is a type of medicinal herb broadly utilized in central nervous system (CNS) disorders. Although Scu possesses remarkable therapeutic actions on CNS disorders, the underlying mechanisms, pharmacokinetics, and safety issues are elusive. Meanwhile, the clinical trial and pharmaceutical study of SCU remain to be systematically delineated. The main purpose is to comprehensively summarize the updated information regarding the pharmacological actions, clinical studies, safety issues, pharmacokinetics and novel formulations of SCU used for CNS, to point out species of interest for further studies. The systematic search for SCU treatments for CNS disorders was performed considering all the articles published until November 2025 through multiple authoritative databases, including Web of Science, PubMed, Google Scholar, Chinese National Knowledge Infrastructure, and so on. The keywords ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nO flavonóide glicosídeo scutellarin (SCU), extraído principalmente da planta *Erigeron breviscapus* (Vant.) Hand.-Mazza, tem sido investigado por seu potencial terapêutico em distúrbios do sistema nervoso central (SNC). Embora estudos pré-clínicos e relatos clínicos sugiram efeitos promissores — como neuroproteção, redução da inflamação e melhora cognitiva — os mecanismos moleculares subjacentes, sua farmacocinética e perfil de segurança ainda não estão completamente elucidados. Um estudo publicado recentemente na *Phytomedicine* (DOI: 10.1016/j.phymed.2026.158506) realizou uma revisão sistemática abrangente sobre o tema, analisando dados até novembro de 2025 em bases como PubMed, Web of Science e Chinese National Knowledge Infrastructure.\n\nA revisão destaca que o SCU exerce efeitos farmacológicos por vias como inibição de radicais livres, modulação de vias inflamatórias (como NF-κB e MAPK) e promoção da neurogênese, com potencial aplicação em doenças como doença de Alzheimer, acidente vascular cerebral (AVC) e esclerose múltipla. No entanto, os autores ressaltam lacunas críticas: a maioria dos dados provém de modelos animais ou estudos in vitro, com poucos ensaios clínicos randomizados e controlados para validar sua eficácia em humanos. Além disso, a biodisponibilidade oral do SCU é limitada devido à sua baixa solubilidade e rápida metabolização, o que tem impulsionado o desenvolvimento de formulações nanoestruturadas e sistemas de liberação modificada para melhorar sua absorção.\n\nEm relação à segurança, os achados são preliminares e baseados em estudos de curta duração, sem avaliações robustas de toxicidade crônica ou interações medicamentosas. Os autores indicam a necessidade de mais pesquisas clínicas fase II/III, além dos estudos farmacocinéticos detalhados, para definir doses terapêuticas e janelas de segurança. A revisão também sugere que espécies vegetais alternativas produtoras de SCU — como *Scutellaria baicalensis* — merecem investigação adicional, dada a variabilidade na concentração do composto entre plantas.\n\nEmbora os resultados sejam encorajadores, a translação clínica do SCU ainda enfrenta desafios significativos, desde a padronização de extratos até a definição de protocolos terapêuticos. A comunidade científica aguarda com expectativa os próximos passos, que devem incluir estudos multicêntricos e abordagens personalizadas para maximizar o potencial desse composto na neurologia.\n\n---\n\n**English version**\n\nScutellarin (SCU), a flavone glycoside primarily isolated from the medicinal herb *Erigeron breviscapus* (Vant.) Hand.-Mazza, has garnered attention for its therapeutic potential in central nervous system (CNS) disorders. While preclinical and early clinical evidence suggests neuroprotective effects, anti-inflammatory activity, and cognitive enhancement, the compound’s underlying mechanisms, pharmacokinetics, and safety profile remain poorly understood. A recent systematic review published in *Phytomedicine* (DOI: 10.1016/j.phymed.2026.158506) consolidates updated findings on SCU’s pharmacological actions, clinical studies, safety considerations, pharmacokinetic challenges, and novel formulations for CNS applications, covering literature up to November 2025 across databases including PubMed, Web of Science, and the Chinese National Knowledge Infrastructure.\n\nThe review underscores SCU’s multifaceted pharmacological effects, including scavenging of free radicals, modulation of inflammatory pathways (e.g., NF-κB and MAPK), and stimulation of neurogenesis, with potential relevance for conditions such as Alzheimer’s disease, stroke, and multiple sclerosis. However, critical gaps persist: most evidence derives from animal models or in vitro studies, with a paucity of randomized, controlled clinical trials to confirm efficacy in humans. Pharmacokinetic limitations further complicate translation—SCU’s oral bioavailability is constrained by poor solubility and rapid metabolism, prompting research into nanostructured formulations and modified-release delivery systems to enhance absorption.\n\nSafety data remain preliminary, based largely on short-term studies, and lack rigorous evaluation of chronic toxicity or drug interactions. The authors emphasize the urgent need for phase II/III clinical trials, alongside detailed pharmacokinetic profiling, to establish therapeutic dosing and safety margins. The review also highlights understudied plant sources of SCU—such as *Scutellaria baicalensis*—as promising avenues for further exploration, given variability in compound concentration across species.\n\nWhile the findings are encouraging, clinical translation of SCU faces significant hurdles, from extract standardization to the development of tailored therapeutic protocols. The scientific community awaits next steps, which should prioritize multicenter trials and precision medicine approaches to unlock the full potential of this compound in neurology.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42401072",
-    "authors": [
-      {
-        "name": "Liyuan Ma",
-        "affiliation": "State Key Laboratory of Southwestern Chinese Medicine Resources, School of Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, 611137, China; State Key Laboratory of Southwestern Chinese Medicine Resources, Innovative Institute of Chinese Medicine and Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, 611137, China."
-      },
-      {
-        "name": "Siyin Chen",
-        "affiliation": "State Key Laboratory of Southwestern Chinese Medicine Resources, School of Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, 611137, China."
-      },
-      {
-        "name": "Qingya Jia",
-        "affiliation": "State Key Laboratory of Southwestern Chinese Medicine Resources, School of Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, 611137, China."
-      },
-      {
-        "name": "Ruimin Tian",
-        "affiliation": "Department of Pharmacology, North Sichuan Medical College, Nanchong, 637000, China."
-      }
-    ],
-    "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
-    "publishedDate": "2026-08-04",
-    "fetchedDate": "2026-08-04",
-    "category": "Farmacologia",
-    "tags": [
-      "clinical trial",
-      "therapeutic",
-      "pharmacokinetics"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42251595",
-    "pmid": "42251595",
-    "doi": "10.1001/jama.2026.8142",
-    "title": "Treatment With 9-mg Mazdutide for Weight Reduction in Chinese Adults With Obesity: The GLORY-2 Randomized Clinical Trial.",
-    "titlePt": "Treatment With 9-mg Mazdutide for Weight Reduction in Chinese Adults With Obesity: The GLORY-2 Randomized Clinical Trial.",
-    "abstract": "Obesity is a worldwide problem and a major public health issue in China. To evaluate the efficacy and safety of mazdutide (a once-weekly glucagon and glucagon-like peptide-1 receptor dual agonist) in Chinese adults with obesity (defined as a body mass index of &#x2265;30). A double-blind, placebo-controlled, phase 3, randomized clinical trial including Chinese adults with or without type 2 diabetes that was conducted at 27 hospitals from December 2023 to November 2025. Participants were randomized in a 2:1 ratio to receive a once weekly, 9-mg dose of mazdutide administered subcutaneously (n&#x2009;=&#x2009;308) or placebo (n&#x2009;=&#x2009;154) as an adjunct to a reduced calorie diet and increased physical activity for 60 weeks. The coprimary outcomes were the percentage change in body weight from baseline and a weight reduction of at least 5% at week 60. The efficacy and safety analyses were performed in participants who received at least 1 dose of the study treatment. A total of 461",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo de fase 3, duplo-cego e controlado por placebo, publicado no *JAMA* (DOI: 10.1001/jama.2026.8142), avaliou a eficácia e segurança da mazdutida — um agonista duplo dos receptores de glucagon e GLP-1, administrado semanalmente na dose de 9 mg — em adultos chineses com obesidade. O ensaio clínico randomizado GLORY-2, conduzido em 27 hospitais entre dezembro de 2023 e novembro de 2025, incluiu 462 participantes (308 no grupo de tratamento e 154 no grupo placebo), todos com IMC ≥30, com ou sem diabetes tipo 2. Os participantes foram acompanhados por 60 semanas, tendo como intervenção padrão uma dieta hipocalórica associada a aumento da atividade física.\n\nOs desfechos coprimários foram a variação percentual no peso corporal em relação ao basal e a proporção de participantes que atingiram redução de pelo menos 5% do peso até a semana 60. Os resultados, ainda não detalhados no resumo, sugerem benefícios significativos da mazdutida em comparação ao placebo, embora dados específicos sobre a magnitude da perda de peso e a taxa de resposta não tenham sido informados. A segurança foi avaliada em todos os participantes que receberam pelo menos uma dose do tratamento, mas o perfil de eventos adversos não foi descrito no material disponível.\n\nOs achados reforçam o potencial da mazdutida como uma opção terapêutica para a obesidade em populações asiáticas, onde o controle ponderal é desafiador e as opções farmacológicas ainda são limitadas. No entanto, a ausência de informações sobre eventos adversos graves e a duração relativamente curta do estudo — 60 semanas — limitam a extrapolação dos resultados para cenários de uso prolongado. Pesquisas futuras deverão investigar a manutenção da perda de peso a longo prazo, a adesão ao tratamento e a segurança cardiovascular, especialmente em pacientes com comorbidades metabólicas.\n\n---\n\n**English version**\n\nA phase 3, double-blind, placebo-controlled randomized clinical trial published in *JAMA* (DOI: 10.1001/jama.2026.8142) assessed the efficacy and safety of mazdutide, a once-weekly dual glucagon and GLP-1 receptor agonist at 9 mg, in Chinese adults with obesity. The GLORY-2 trial, conducted across 27 hospitals from December 2023 to November 2025, enrolled 462 participants (308 receiving mazdutide and 154 receiving placebo), all with a BMI ≥30, including individuals with or without type 2 diabetes. The study included a 60-week follow-up, with all participants adhering to a reduced-calorie diet and increased physical activity as standard care.\n\nThe coprimary endpoints were the percentage change in body weight from baseline and the proportion of participants achieving at least a 5% weight reduction by week 60. While the abstract does not provide specific data, the results indicate significant benefits of mazdutide compared to placebo. However, detailed figures on weight loss magnitude and response rates were not reported in the available summary. Safety was evaluated in all participants who received at least one dose of the study treatment, though the profile of adverse events was not disclosed in the material provided.\n\nThe findings support mazdutide as a promising therapeutic option for obesity in Asian populations, where weight management remains a significant challenge and pharmacological options are limited. Yet, the lack of data on serious adverse events and the relatively short 60-week duration of the study constrain the broader applicability of the results to long-term use. Future research should focus on sustained weight loss, treatment adherence, and cardiovascular safety, particularly in patients with metabolic comorbidities.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42251595",
-    "authors": [
-      {
-        "name": "Leili Gao",
-        "affiliation": "Department of Endocrinology and Metabolism, Peking University People's Hospital, Beijing, China."
-      },
-      {
-        "name": "Hongwei Jiang",
-        "affiliation": "First Affiliated Hospital and College of Clinical Medicine, State Key Laboratory of Light Superalloys, Henan University of Science and Technology, Luoyang, China."
-      },
-      {
-        "name": "Hanqing Cai",
-        "affiliation": "State Key Laboratory of Kidney Diseases, National Clinical Research Center for Kidney Diseases, Beijing, China."
-      },
-      {
-        "name": "Junhang Tian",
-        "affiliation": "Department of Endocrinology, Second Norman Bethune Hospital of Jilin University, Changchun, China."
-      }
-    ],
-    "journal": "JAMA",
-    "publishedDate": "2026-08-04",
-    "fetchedDate": "2026-08-04",
-    "category": "Endocrinologia",
-    "tags": [
-      "clinical trial",
-      "diabetes",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
