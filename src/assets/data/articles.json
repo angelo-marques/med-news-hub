@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42469143",
+    "pmid": "42469143",
+    "doi": "10.1016/j.numecd.2026.104859",
+    "title": "Coronary artery disease -related outcomes associated with semaglutide and tirzepatide in type 2 diabetes mellitus and obesity: a systematic review and meta-analysis.",
+    "titlePt": "Coronary artery disease -related outcomes associated with semaglutide and tirzepatide in type 2 diabetes mellitus and obesity: a systematic review and meta-analysis.",
+    "abstract": "Semaglutide and tirzepatide are widely used drugs in the treatment of metabolic diseases based on incretin-based therapy. However, evidence on coronary artery disease (CAD)-related outcomes has largely been derived from separate randomized trials with different control groups, and focused synthesis across CAD phenotypes remains limited. This study aimed to evaluate CAD-related outcomes reported in randomized controlled trials (RCTs) of semaglutide and tirzepatide in adults with type 2 diabetes (T2DM) and/or obesity. We systematically searched PubMed, Embase, Scopus, Web of Science, CENTRAL, and ClinicalTrials.gov from database inception to September 26, 2025, for RCTs evaluating subcutaneous semaglutide or tirzepatide in T2DM and/or obesity. Separate pooled analyses were performed for semaglutide and tirzepatide using random-effects models. Prespecified outcomes included the broad CAD-related composite, acute coronary syndrome (ACS), myocardial infarction (MI), unstable angina (UA), ch",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42469143",
+    "authors": [
+      {
+        "name": "Xiao-Yu Zhou",
+        "affiliation": "Department of Endocrinology and Metabolism, The Affiliated Hospital of Southwest Medical University, Luzhou, Sichuan, 646000, China; School of Clinical Medicine, Southwest Medical University, Luzhou, Sichuan, 646000, China."
+      },
+      {
+        "name": "Chen-Hao Deng",
+        "affiliation": "Department of Endocrinology and Metabolism, The Affiliated Hospital of Southwest Medical University, Luzhou, Sichuan, 646000, China."
+      },
+      {
+        "name": "Ji-Yuan Zhong",
+        "affiliation": "Department of Endocrinology, Peking University People's Hospital Qingdao Hospital, Qingdao, 266000, China."
+      },
+      {
+        "name": "Qi Wu",
+        "affiliation": "Department of Endocrinology and Metabolism, The Affiliated Hospital of Southwest Medical University, Luzhou, Sichuan, 646000, China; Metabolic Vascular Diseases Key Laboratory of Sichuan Province, and Metabolic Vascular Diseases Key Laboratory of Sichuan-Chongqing Cooperation, Luzhou, Sichuan, 646000, China; Department of Pathology, The Affiliated Hospital of Southwest Medical University, Luzhou, Sichuan, 646000, China."
+      }
+    ],
+    "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+    "publishedDate": "2026-11-02",
+    "fetchedDate": "2026-11-03",
+    "category": "Endocrinologia",
+    "tags": [
+      "myocardial",
+      "coronary",
+      "drug",
+      "diabetes",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7qHFZE-2kFHot-a54bc6335df242ae\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: c814699d-a05a-4896-bcf5-3b21e5d3830b)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42551778",
     "pmid": "42551778",
     "doi": "10.1016/j.amjmed.2026.06.034",
@@ -12214,6 +12258,48 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42550058",
+    "pmid": "42550058",
+    "doi": "10.1080/13696998.2026.2706361",
+    "title": "Indirect comparison of mRNA-1010 versus enhanced influenza vaccines in adults aged 65 years and older during the 2024-2025&#x2009;US influenza season.",
+    "titlePt": "Indirect comparison of mRNA-1010 versus enhanced influenza vaccines in adults aged 65 years and older during the 2024-2025&#x2009;US influenza season.",
+    "abstract": "Seasonal influenza continues to cause severe disease among older adults in the United States despite enhanced vaccine recommendations, driven by immunosenescence and vaccine mismatch with circulating influenza viruses. mRNA-based influenza vaccines (mRNA-1010), addressing some of these challenges, have been developed for this population. A previous trial found mRNA-1010 demonstrated superior immunogenicity compared to enhanced high-dose influenza vaccination. As no direct evidence exists comparing mRNA-1010 efficacy to currently available enhanced influenza vaccines (EVs), we aimed to indirectly compare the effectiveness of mRNA-1010 and licensed EVs against medically attended influenza infection among adults &#x2265;65&#x2009;years in the US. We conducted an anchored indirect treatment comparison (ITC) using the Bucher method to estimate the relative vaccine effectiveness (rVE) of mRNA-1010 vs EV, with standard-dose egg-based influenza vaccine as the anchor, using individual patient-l",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42550058",
+    "authors": [
+      {
+        "name": "Keya Joshi",
+        "affiliation": "Moderna Inc., Cambridge, MA, USA."
+      },
+      {
+        "name": "Aaron Situ",
+        "affiliation": "Moderna Inc., Cambridge, MA, USA."
+      },
+      {
+        "name": "Darshan Mehta",
+        "affiliation": "Tigermed-BDM, Somerset, NJ, USA."
+      },
+      {
+        "name": "Linwei Li",
+        "affiliation": "Moderna Inc., Cambridge, MA, USA."
+      }
+    ],
+    "journal": "Journal of medical economics",
+    "publishedDate": "2026-08-04",
+    "fetchedDate": "2026-11-03",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "rna",
+      "vaccine"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7qHepi-2kFHot-a54bc81c2e7467f2\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: bfd2b0bf-36ec-434d-ba70-e10a57935960)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42401072",
     "pmid": "42401072",
     "doi": "10.1016/j.phymed.2026.158506",
@@ -12296,88 +12382,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42550689",
-    "pmid": "42550689",
-    "doi": "10.1080/21645515.2026.2708426",
-    "title": "Application of an extended information-motivation-behavioral skills model to predict HPV vaccine acceptability among Chinese gay, bisexual, and other men who have sex with men.",
-    "titlePt": "Application of an extended information-motivation-behavioral skills model to predict HPV vaccine acceptability among Chinese gay, bisexual, and other men who have sex with men.",
-    "abstract": "Human papillomavirus (HPV) causes substantial disease burden among gay, bisexual, and other men who have sex with men (GBMSM), yet HPV vaccination pathways for men remain evolving in mainland China. To apply a culturally adapted, extended Information-Motivation-Behavioral Skills (IMB) model to identify psychosocial pathways associated with HPV vaccine acceptability among Chinese GBMSM. A cross-sectional online survey was conducted between December 2024 and January 2025 among 1,045 GBMSM living in mainland China. Measures included HPV-related information, health beliefs, anticipated regret, subjective norms, self-efficacy, and HPV vaccine acceptability. Measurement and structural equation models estimated direct and indirect pathways. HPV vaccine acceptability was moderate (mean 3.40, SD 1.14). Subjective norms were the strongest predictor of acceptability (&#x3b2;&#x2009;=&#x2009;0.68, p&#x2009;&lt;&#x2009;.001), with additional positive effects from health beliefs (&#x3b2;&#x2009;=&#x",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Human Vaccines & Immunotherapeutics* investigou os fatores psicossociais associados à aceitação da vacina contra o papilomavírus humano (HPV) entre homens gays, bissexuais e outros homens que fazem sexo com homens (GBMSM) na China continental. Utilizando um modelo estendido de Informação-Motivação-Habilidades Comportamentais (IMB), adaptado culturalmente, os pesquisadores identificaram que normas subjetivas exercem a influência mais significativa na disposição para a vacinação. A pesquisa, conduzida entre dezembro de 2024 e janeiro de 2025 com 1.045 participantes, revelou que a aceitação da vacina contra o HPV apresentou média moderada (M = 3,40; DP = 1,14), com normas subjetivas apresentando o maior efeito preditivo (β = 0,68; *p* < 0,001). Fatores como crenças de saúde e autoeficácia também demonstraram associações positivas, embora menos robustas.\n\nOs resultados destacam a importância do suporte social e da percepção de normas grupais na promoção da vacinação, sugerindo que campanhas de saúde pública na China devem priorizar estratégias de comunicação que reforcem a aprovação social e o engajamento comunitário. Além disso, o estudo reforça a necessidade de abordagens culturalmente sensíveis, visto que o contexto chinês apresenta particularidades na aceitação de vacinas para populações GBMSM. Todavia, por se tratar de um delineamento transversal, não é possível estabelecer causalidade entre os fatores analisados. Outra limitação refere-se à amostragem online, que pode não representar adequadamente a diversidade geográfica e socioeconômica da população-alvo. Pesquisas futuras poderiam explorar intervenções baseadas em evidências para testar a eficácia de estratégias que ampliem a motivação e as habilidades comportamentais nesse grupo.\n\n---\n\n**English version**\n\nA recent study published in *Human Vaccines & Immunotherapeutics* examined the psychosocial determinants of human papillomavirus (HPV) vaccine acceptability among gay, bisexual, and other men who have sex with men (GBMSM) in mainland China. Using a culturally adapted extension of the Information-Motivation-Behavioral Skills (IMB) model, researchers identified subjective norms as the strongest predictor of vaccination willingness. Conducted between December 2024 and January 2025 with 1,045 participants, the cross-sectional online survey found that HPV vaccine acceptability was moderate (M = 3.40; SD = 1.14), with subjective norms showing the highest predictive effect (β = 0.68; *p* < 0.001). Health beliefs and self-efficacy also contributed positively, though with smaller effect sizes.\n\nThe findings underscore the critical role of social support and perceived group norms in driving vaccination uptake, suggesting that public health campaigns in China should prioritize messaging that reinforces social approval and community engagement. The study further emphasizes the need for culturally tailored approaches, as the Chinese context presents unique barriers to HPV vaccine acceptance among GBMSM populations. However, as a cross-sectional design, causality cannot be inferred from the observed associations. Another limitation involves the online sampling method, which may not fully capture the geographic and socioeconomic diversity of the target population. Future research could evaluate evidence-based interventions aimed at strengthening motivational and behavioral skill pathways in this group.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42550689",
-    "authors": [
-      {
-        "name": "Qiufeng Liu",
-        "affiliation": "Centre for Population Health (CePH), Department of Social and Preventive Medicine, Faculty of Medicine, Universiti Malaya, Kuala Lumpur, Malaysia."
-      },
-      {
-        "name": "Li Ping Wong",
-        "affiliation": "Jiangsu College of Nursing, Huai'an, Jiangsu, China."
-      },
-      {
-        "name": "Sin How Lim",
-        "affiliation": "Centre for Population Health (CePH), Department of Social and Preventive Medicine, Faculty of Medicine, Universiti Malaya, Kuala Lumpur, Malaysia."
-      }
-    ],
-    "journal": "Human vaccines &amp; immunotherapeutics",
-    "publishedDate": "2026-08-04",
-    "fetchedDate": "2026-08-04",
-    "category": "Imunologia",
-    "tags": [
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42547625",
-    "pmid": "42547625",
-    "doi": "10.1007/s00381-026-07419-1",
-    "title": "Time to adjuvant treatment for newly diagnosed pediatric brain tumors in the molecular era: a single center retrospective study.",
-    "titlePt": "Time to adjuvant treatment for newly diagnosed pediatric brain tumors in the molecular era: a single center retrospective study.",
-    "abstract": "Molecular testing has become a cornerstone in pediatric neuro-oncology but relies on time intensive workflows at specialized centers. We hypothesized that time to adjuvant therapy has increased since the incorporation of molecular testing. In this retrospective case series, data were collected from Riley Hospital for Children in Indianapolis from the pre-molecular era (2007-2009) and the molecular era (2023-2025). Patients aged&#x2009;&#x2264;&#x2009;21 years who received initial surgery for a primary brain tumor were included. The primary outcome of interest was the time from initial surgery to initiation of adjuvant treatment. A total of 140 patients met inclusion criteria, including 83 who received adjuvant therapy as part of the initial postoperative treatment plan. Time to adjuvant treatment was significantly shorter in the pre-molecular cohort (24.5 vs 34.2 days). Multivariate analysis demonstrated that this prolonged time to treatment was associated with the use of targeted ther",
-    "journalisticSummary": "A incorporação de testes moleculares no manejo de tumores cerebrais pediátricos ampliou a precisão diagnóstica, mas introduziu desafios logísticos significativos. Um estudo retrospectivo realizado no Riley Hospital for Children, em Indianápolis, comparou o intervalo entre a cirurgia inicial e o início da terapia adjuvante em pacientes com idade igual ou inferior a 21 anos, diagnosticados com tumores cerebrais primários entre 2007-2009 (era pré-molecular) e 2023-2025 (era molecular). Dos 140 pacientes incluídos, 83 receberam terapia adjuvante como parte do plano inicial pós-operatório. Os resultados revelaram um aumento estatisticamente significativo no tempo até o início do tratamento na era molecular: 34,2 dias, em comparação a 24,5 dias na era pré-molecular. A análise multivariada identificou que a utilização de terapias-alvo — viabilizada pela caracterização molecular — foi o principal fator associado a esse atraso. Embora os testes genômicos tenham permitido abordagens terapêuticas mais personalizadas, o estudo destaca uma consequência não intencional: a necessidade de aguardar resultados moleculares complexos e a coordenação multidisciplinar adicional prolongam o intervalo crítico para o início do tratamento adjuvante. Os autores sugerem que estratégias como a integração de fluxos de trabalho otimizados, priorização de painéis moleculares essenciais e colaboração mais estreita entre centros de referência podem mitigar esse impacto. No entanto, o estudo não reporta dados sobre desfechos clínicos a longo prazo — como sobrevida global ou controle tumoral — nem avalia a carga operacional adicional nos serviços de saúde. Pesquisas futuras devem explorar se o atraso observado se traduz em piores resultados oncológicos e investigar modelos assistenciais capazes de conciliar precisão diagnóstica com celeridade terapêutica.\n\n---\n\nMolecular testing has become a cornerstone in pediatric neuro-oncology, yet its implementation in clinical workflows introduces logistical hurdles that may delay critical adjuvant therapies. A single-center retrospective study at Riley Hospital for Children in Indianapolis examined the time from initial surgery to the start of adjuvant treatment in patients aged ≤21 years with primary brain tumors, comparing the pre-molecular era (2007–2009) with the molecular era (2023–2025). Among 140 patients meeting inclusion criteria, 83 received adjuvant therapy as part of their initial postoperative plan. The findings revealed a significant delay in the molecular era: the median time to adjuvant treatment increased from 24.5 days in the pre-molecular cohort to 34.2 days. Multivariate analysis linked this prolongation primarily to the adoption of targeted therapies, which depend on time-intensive molecular profiling and multidisciplinary coordination. While genomic testing has enabled precision medicine approaches, the study underscores an unintended consequence: the wait for complex molecular results and additional logistical steps may compromise timely oncologic intervention. The authors propose that streamlined molecular workflows, prioritization of essential gene panels, and closer collaboration between specialized centers could mitigate delays, though the study does not report long-term clinical outcomes such as overall survival or tumor control. Further research is needed to determine whether these delays translate into worse oncologic outcomes and to evaluate healthcare system burdens. Future studies should also assess optimized care models that balance diagnostic accuracy with therapeutic urgency.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42547625",
-    "authors": [
-      {
-        "name": "Kenneth L Virgin",
-        "affiliation": "Department of Neurological Surgery, Indiana University School of Medicine, Indianapolis, IN, USA."
-      },
-      {
-        "name": "Michael Fletcher",
-        "affiliation": "Indiana University School of Medicine, Indianapolis, IN, USA."
-      },
-      {
-        "name": "Jinan Ayub",
-        "affiliation": "Indiana University School of Medicine, Indianapolis, IN, USA."
-      },
-      {
-        "name": "Hannah Harmsen",
-        "affiliation": "Indiana University Melvin and Bren Simon Comprehensive Cancer Center, Indianapolis, IN, USA."
-      }
-    ],
-    "journal": "Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery",
-    "publishedDate": "2026-08-04",
-    "fetchedDate": "2026-08-04",
-    "category": "Oncologia",
-    "tags": [
-      "tumor",
-      "oncology",
-      "brain",
-      "pediatric",
-      "children"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
