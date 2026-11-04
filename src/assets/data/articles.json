@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42548114",
+    "pmid": "42548114",
+    "doi": "10.1111/his.70250",
+    "title": "Nosological reappraisal of primary cutaneous apocrine carcinoma based on a clinicopathological and genetic analysis of 30 cases.",
+    "titlePt": "Nosological reappraisal of primary cutaneous apocrine carcinoma based on a clinicopathological and genetic analysis of 30 cases.",
+    "abstract": "The nosology of primary cutaneous apocrine carcinoma remains controversial, as the term has often been used as a heterogeneous diagnostic category. The aim of this study was to clarify the clinicopathological and molecular features of strictly defined apocrine carcinoma using modified diagnostic criteria. Thirty cases were collected from three institutions. Male predominance (28/30, 93%), predominance in elderly patients (median age, 72&#x2009;years; range, 33-89&#x2009;years) and the favourite site of the axilla (29/30, 97%) were observed. Lymph node and distant metastases occurred in 64% (16/25) and 28% (7/25) of cases, respectively. Two patients died of the disease (2/25, 8%), with a median follow-up period of 2&#x2009;years and 1&#x2009;month. Histopathologically, all tumours harboured cytoplasmic zymogen-like granules; however, some (8/30, 27%) lacked apocrine secretion features. Nucleoli were either moderately prominent (n&#x2009;=&#x2009;17) or prominent (n&#x2009;=&#x2009;13). ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42548114",
+    "authors": [
+      {
+        "name": "Keisuke Goto",
+        "affiliation": "Department of Diagnostic Pathology and Cytology, Osaka International Cancer Institute, Osaka, Japan."
+      },
+      {
+        "name": "Yoji Kukita",
+        "affiliation": "Department of Pathology, Tokyo Metropolitan Cancer and Infectious Disease Center Komagome Hospital, Tokyo, Japan."
+      },
+      {
+        "name": "Shuichi Ohe",
+        "affiliation": "Department of Diagnostic Pathology, Hyogo Cancer Center, Akashi, Japan."
+      },
+      {
+        "name": "Tsunekazu Hishima",
+        "affiliation": "Department of Anatomic Pathology, Tokyo Medical University, Tokyo, Japan."
+      }
+    ],
+    "journal": "Histopathology",
+    "publishedDate": "2026-11-04",
+    "fetchedDate": "2026-11-04",
+    "category": "Genômica",
+    "tags": [
+      "carcinoma",
+      "genetic",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7z2Gb7-2kFHot-a555355e2ae878c9\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 727ef41c-abc5-4ff1-954b-b6f71fb54317)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42978812",
     "pmid": "42978812",
     "doi": "10.1002/dad2.70510",
@@ -12333,48 +12375,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42410329",
-    "pmid": "42410329",
-    "doi": "10.1111/dom.71065",
-    "title": "GLP-1 Receptor Agonists for Weight Loss and Risk of Major Safety Outcomes: A Multicentre Cohort Study.",
-    "titlePt": "GLP-1 Receptor Agonists for Weight Loss and Risk of Major Safety Outcomes: A Multicentre Cohort Study.",
-    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly prescribed for weight loss, yet their safety in clinical practice remains uncertain. We evaluated associations between weight-management semaglutide or liraglutide initiation and safety outcomes in a multicentre cohort. We used electronic health records from 13 South Korean hospitals (2018-2025) mapped to the OMOP Common Data Model. Adults initiating semaglutide or liraglutide were compared with propensity score-matched non-initiators in a new-user design. Ten safety outcomes were assessed. Site-specific hazard ratios were estimated using Cox proportional hazards models and combined via meta-analysis. After matching, 2357 semaglutide and 6953 liraglutide initiators were compared with 22&#x2009;602 and 68&#x2009;001 non-initiators, respectively. Semaglutide was associated with increased risks of psychiatric disorders overall (hazard ratio 2.02, 95% confidence interval 1.30-3.14), anxiety disorder (2.39, 1.22-4.71), d",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo multicêntrico recente, publicado na revista *Diabetes, Obesity and Metabolism* e indexado no PubMed (DOI: 10.1111/dom.71065), investigou a segurança de agonistas do receptor de GLP-1 (GLP-1 RAs) — como semaglutida e liraglutida — no contexto de perda de peso, uma indicação cada vez mais comum na prática clínica. Utilizando registros eletrônicos de saúde de 13 hospitais sul-coreanos (2018-2025), mapeados no modelo Common Data Model da OMOP, os pesquisadores compararam adultos que iniciaram o uso dessas medicações com um grupo controle pareado por escore de propensão, seguindo um desenho de estudo de novos usuários.\n\nForam analisados dez desfechos de segurança, incluindo distúrbios psiquiátricos, doenças gastrointestinals e eventos cardiovasculares. Após o pareamento, a coorte incluiu 2.357 usuários de semaglutida e 6.953 de liraglutida, comparados a 22.602 e 68.001 não usuários, respectivamente. Os resultados revelaram que a semaglutida esteve associada a um aumento significativo no risco de distúrbios psiquiátricos em geral (hazard ratio [HR] de 2,02, intervalo de confiança de 95% [IC95%] 1,30–3,14), com destaque para transtorno de ansiedade (HR 2,39, IC95% 1,22–4,71). No entanto, não foram apresentados dados detalhados sobre a magnitude dos riscos para outros desfechos avaliados, como doenças gastrointestinals ou eventos cardiovasculares. Além disso, não foram reportados ajustes para fatores confundidores adicionais além do escore de propensão, o que pode limitar a generalização dos achados para populações com perfis distintos.\n\nEmbora os GLP-1 RAs sejam amplamente reconhecidos por sua eficácia na redução de peso e melhora do controle glicêmico em pacientes com diabetes tipo 2, este estudo levanta questões importantes sobre seu perfil de segurança em uso prolongado para indicações não diabetes, especialmente no que tange a desfechos psiquiátricos. Os autores sugerem que mais pesquisas são necessárias para elucidar mecanismos subjacentes e avaliar riscos em contextos populacionais diversos. Até que esses dados sejam esclarecidos, a prescrição desses fármacos para perda de peso deve considerar um balanço cuidadoso entre benefícios e potenciais efeitos adversos, com monitoramento clínico rigoroso.\n\n---\n\n**English version**\n\nA recent multicentre study published in *Diabetes, Obesity and Metabolism* and indexed in PubMed (DOI: 10.1111/dom.71065) evaluated the safety of glucagon-like peptide-1 receptor agonists (GLP-1 RAs)—including semaglutide and liraglutide—in the context of weight loss, an increasingly common clinical indication. Using electronic health records from 13 South Korean hospitals (2018–2025), mapped to the OMOP Common Data Model, researchers compared adults initiating these medications with propensity score-matched non-initiators in a new-user design.\n\nTen safety outcomes were assessed, including psychiatric disorders, gastrointestinal diseases, and cardiovascular events. After matching, the cohort included 2,357 semaglutide initiators and 6,953 liraglutide initiators, compared to 22,602 and 68,001 non-initiators, respectively. Findings indicated that semaglutide was significantly associated with an increased risk of overall psychiatric disorders (hazard ratio [HR] 2.02, 95% confidence interval [CI] 1.30–3.14), with a notable rise in anxiety disorder (HR 2.39, 95% CI 1.22–4.71). However, the study did not provide detailed data on the magnitude of risks for other evaluated outcomes, such as gastrointestinal or cardiovascular events. Additionally, no adjustments were reported beyond propensity score matching, which may limit the generalizability of the findings to populations with distinct clinical profiles.\n\nWhile GLP-1 RAs are well-established for weight reduction and glycemic control in type 2 diabetes, this study highlights potential safety concerns regarding prolonged use for non-diabetes indications, particularly concerning psychiatric outcomes. The authors emphasize the need for further research to clarify underlying mechanisms and assess risks across diverse populations. Until such data are available, clinicians should carefully weigh the benefits against potential adverse effects when prescribing these drugs for weight management, ensuring close clinical monitoring.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42410329",
-    "authors": [
-      {
-        "name": "Jisu Park",
-        "affiliation": "School of Pharmacy, Sungkyunkwan University, Suwon, South Korea."
-      },
-      {
-        "name": "Ju Hwan Kim",
-        "affiliation": "School of Pharmacy, Sungkyunkwan University, Suwon, South Korea."
-      },
-      {
-        "name": "Yoon Seob Kim",
-        "affiliation": "Department of Biomedical Informatics, Ajou University School of Medicine, Suwon, Republic of Korea."
-      },
-      {
-        "name": "Gyeongmin Lim",
-        "affiliation": "Center for Biomedical Informatics Research, Ajou University Medical Center, Suwon, Republic of Korea."
-      }
-    ],
-    "journal": "Diabetes, obesity &amp; metabolism",
-    "publishedDate": "2026-08-07",
-    "fetchedDate": "2026-08-07",
-    "category": "Saúde Mental",
-    "tags": [
-      "anxiety",
-      "psychiatric"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
