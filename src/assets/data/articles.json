@@ -1,5 +1,256 @@
 [
   {
+    "id": "pubmed-42978812",
+    "pmid": "42978812",
+    "doi": "10.1002/dad2.70510",
+    "title": "Neuropsychiatric symptoms across the revised Alzheimer's disease clinical staging framework: A review of current evidence and implications.",
+    "titlePt": "Neuropsychiatric symptoms across the revised Alzheimer's disease clinical staging framework: A review of current evidence and implications.",
+    "abstract": "The field of Alzheimer's disease (AD) research has seen major advances in understanding manifestations of AD-related neuropsychiatric symptoms (NPS), including recent addition of NPS to the 2024 National Institute of Aging-Alzheimer's Association (NIA-AA) clinical staging framework. This focused review highlights key publications (49 in 2024; 28 in 2025) indexed in MEDLINE examining AD-related NPS, in alignment with the Scale for the Assessment of Narrative Review Articles guidelines. Data were thematically organized across NIA-AA clinical stages, with emphasis on measurement, diagnosis, and biomarker-cognition correlates of AD-related NPS. Together, these findings can inform future research and clinical practice through enhanced understanding of AD-related NPS and their relationships with pathology and clinical outcomes. Finally, three key priorities were identified for future research: (1) incorporating sex/gender and ethnocultural diversity; (2) integrating NPS assessment with cogni",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42978812",
+    "authors": [
+      {
+        "name": "Krushnaa Sankhe",
+        "affiliation": "Sunnybrook Research Institute Toronto Ontario Canada."
+      },
+      {
+        "name": "Daniella Vellone",
+        "affiliation": "Department of Pharmacology and Toxicology University of Toronto Toronto Ontario Canada."
+      },
+      {
+        "name": "Dylan X Guan",
+        "affiliation": "Faculty of Graduate Studies University of Calgary Calgary Alberta Canada."
+      },
+      {
+        "name": "Byron Creese",
+        "affiliation": "Hotchkiss Brain Institute Cumming School of Medicine University of Calgary Calgary Alberta Canada."
+      }
+    ],
+    "journal": "Alzheimer's &amp; dementia (Amsterdam, Netherlands)",
+    "publishedDate": "2026-11-04",
+    "fetchedDate": "2026-11-04",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "psychiatric"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7xxd4i-2kFHot-a5540fb6dbe4ebdf\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 4ac76aa1-89fc-4897-9f96-33cf551a0603)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42978394",
+    "pmid": "42978394",
+    "doi": "10.1111/cas.70561",
+    "title": "Landscape and Time Course of Comprehensive Genomic Profiling Use in Japanese Patients With Cancer: A Retrospective Study.",
+    "titlePt": "Landscape and Time Course of Comprehensive Genomic Profiling Use in Japanese Patients With Cancer: A Retrospective Study.",
+    "abstract": "Comprehensive genomic profiling (CGP) is standard for advanced solid tumors. Evidence reporting its real-world utilization pattern and time course for guided therapy is limited. This retrospective study in Japan assessed the real-world utility of CGP tests for advanced or metastatic solid tumors using data from the C-CAT registry from June 1, 2019, to August 23, 2025. We evaluated the proportion of patients who received genomically matched therapy with expert panel (EP) recommendation and their overall survival (OS) compared with patients who did not receive genomically matched therapy. The study population comprised 89,552 patients who underwent CGP: median age 64.0 (interquartile range: 54.0-72.0) years, with pancreatic cancer (13,827; 15.4%) and colorectal cancer (11,322; 12.6%) the most common tumor types. System-generated matched treatment options presented as reference information during EP review were identified in 80,185, of whom 77,337 (96.4%) received EP review, 37,245 (46.4%",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42978394",
+    "authors": [
+      {
+        "name": "Kuniko Sunami",
+        "affiliation": "Department of Laboratory Medicine, National Cancer Center Hospital, Tokyo, Japan."
+      },
+      {
+        "name": "Masashi Mikami",
+        "affiliation": "Real World Evidence, Japan Access &amp; Value, Pfizer Japan Inc., Tokyo, Japan."
+      },
+      {
+        "name": "Masayuki Tanaka",
+        "affiliation": "ONC Medical Affairs, Pfizer Japan Inc., Tokyo, Japan."
+      },
+      {
+        "name": "Sona-Sanae Aoyagi",
+        "affiliation": "Real World Evidence, Japan Access &amp; Value, Pfizer Japan Inc., Tokyo, Japan."
+      }
+    ],
+    "journal": "Cancer science",
+    "publishedDate": "2026-11-04",
+    "fetchedDate": "2026-11-04",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "genomic",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7xxt8j-2kFHot-a55410f39ad7fa42\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: cf6ae82a-8663-4060-8f72-cb60eb9a213c)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-41389336",
+    "pmid": "41389336",
+    "doi": "10.1177/0265539X251405067",
+    "title": "Association between the single-point insulin sensitivity estimator (SPISE) index and periodontitis in Korean adults: Analysis from the Korea national health and nutrition examination survey (KNHANES) 2016-2018.",
+    "titlePt": "Association between the single-point insulin sensitivity estimator (SPISE) index and periodontitis in Korean adults: Analysis from the Korea national health and nutrition examination survey (KNHANES) 2016-2018.",
+    "abstract": "To investigate the association between the Single-Point Insulin Sensitivity Estimator (SPISE) index and the prevalence of periodontitis in Korean adults. A cross-sectional study. Adults aged &#x2265;20 years (n = 9899). Data from the 7th Korea National Health and Nutrition Examination Survey (KNHANES), conducted between 2016 and 2018 were analyzed. The SPISE index was calculated using the body mass index (BMI), serum triglyceride, and high-density lipoprotein (HDL) cholesterol levels, and the participants were categorized into quartiles. Periodontitis was defined on the basis of the World Health Organization's Community Periodontal Index. The association between the SPISE index and periodontitis was evaluated using logistic regression analysis, and its predictive accuracy was assessed using receiver operating characteristic (ROC) analysis. A higher SPISE index was significantly associated with lower periodontitis prevalence, with a consistent inverse correlation observed in the unadjus",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41389336",
+    "authors": [
+      {
+        "name": "Su-Yeon Han",
+        "affiliation": "Department of Family Medicine, Severance Hospital, Yonsei UniversityCollege of Medicine, Seoul, Republic of Korea.5467826721"
+      },
+      {
+        "name": "Yae-Ji Lee",
+        "affiliation": "Department of Biostatistics and Computing, Yonsei University, Seoul, Republic of Korea.26721"
+      },
+      {
+        "name": "Seok-Jae Heo",
+        "affiliation": "Biostatistics Collaboration Unit, Department of Biomedical Systems Informatics, Yonsei UniversityCollege of Medicine, Seoul, Republic of Korea.2672137991"
+      },
+      {
+        "name": "Yu-Jin Kwon",
+        "affiliation": "Department of Family Medicine, Yongin Severance Hospital , Yonsei UniversityCollege of Medicine, Yongin-si, Republic of Korea.657713546782672137991"
+      }
+    ],
+    "journal": "Community dental health",
+    "publishedDate": "2026-11-04",
+    "fetchedDate": "2026-11-04",
+    "category": "Endocrinologia",
+    "tags": [
+      "insulin"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7xy2wP-2kFHot-a55411acb84dfa42\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 6a57d348-15b9-4ec2-bcfc-80866dc27b6a)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42978019",
+    "pmid": "42978019",
+    "doi": "10.1186/s13045-026-01867-7",
+    "title": "A phase Ia first-in-human study of BPB-101, a novel trifunctional antibody targeting the GARP/TGF-&#x3b2; complex and PD-L1, in patients with locally advanced or metastatic solid tumors.",
+    "titlePt": "A phase Ia first-in-human study of BPB-101, a novel trifunctional antibody targeting the GARP/TGF-&#x3b2; complex and PD-L1, in patients with locally advanced or metastatic solid tumors.",
+    "abstract": "BPB-101 is a first-in-class, humanized trifunctional bispecific IgG1 antibody targeting the GARP/TGF-&#x3b2; complex, active TGF-&#x3b2;, and PD-L1, with preclinical evidence of immunomodulatory and antitumor activity. This phase Ia study aimed to assess the safety, tolerability, pharmacology, and preliminary antitumor activity of BPB-101. A modified accelerated titration design (6, 20, and 60&#xa0;mg) was followed by a 3&#x2009;+&#x2009;3 escalation (200-1800&#xa0;mg), with intravenous dosing every 3 weeks (Q3W). Eligible patients with advanced or metastatic solid tumors who had received prior standard systemic treatment were enrolled. The primary objectives were dose-limiting toxicity (DLT), maximum tolerated dose (MTD), and recommended phase II dose (RP2D). Secondary and exploratory objectives included pharmacokinetics (PK), pharmacodynamics (PD), immunogenicity, and preliminary antitumor activity. At the data cutoff of January 26, 2025, 19 patients with advanced tumors were enrolle",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42978019",
+    "authors": [
+      {
+        "name": "Yuxiang Ma",
+        "affiliation": "Department of Clinical Research, State Key Laboratory of Oncology in South China, Collaborative Innovation Centre for Cancer Medicine, Guangdong Key Laboratory of Nasopharyngeal Carcinoma Diagnosis and Therapy, Sun Yat-sen University Cancer Centre, Guangdong Provincial Clinical Research Centre for Cancer, Guangzhou, China."
+      },
+      {
+        "name": "Yufeng Guo",
+        "affiliation": "Department of Clinical Research, State Key Laboratory of Oncology in South China, Collaborative Innovation Centre for Cancer Medicine, Guangdong Key Laboratory of Nasopharyngeal Carcinoma Diagnosis and Therapy, Sun Yat-sen University Cancer Centre, Guangdong Provincial Clinical Research Centre for Cancer, Guangzhou, China."
+      },
+      {
+        "name": "Shuang Deng",
+        "affiliation": "Department of Clinical Research, State Key Laboratory of Oncology in South China, Collaborative Innovation Centre for Cancer Medicine, Guangdong Key Laboratory of Nasopharyngeal Carcinoma Diagnosis and Therapy, Sun Yat-sen University Cancer Centre, Guangdong Provincial Clinical Research Centre for Cancer, Guangzhou, China."
+      },
+      {
+        "name": "Haitao Lan",
+        "affiliation": "Department of Oncology, Sichuan Academy of Medical Sciences &amp; Sichuan Provincial People's Hospital, Chengdu, China."
+      }
+    ],
+    "journal": "Journal of hematology &amp; oncology",
+    "publishedDate": "2026-11-04",
+    "fetchedDate": "2026-11-04",
+    "category": "Farmacologia",
+    "tags": [
+      "tumor",
+      "pharmacology",
+      "pharmacokinetics",
+      "antibody"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7xyh7t-2kFHot-a55414cf89c2c66f\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 0b3206ca-adb5-4ad9-9dd4-ed332f75256d)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42924841",
+    "pmid": "42924841",
+    "doi": "10.1161/JAHA.126.051256",
+    "title": "Efficacy and Safety of Pharmacologic Therapies in Nonobstructive Hypertrophic Cardiomyopathy: A Systematic Review.",
+    "titlePt": "Efficacy and Safety of Pharmacologic Therapies in Nonobstructive Hypertrophic Cardiomyopathy: A Systematic Review.",
+    "abstract": "Nonobstructive hypertrophic cardiomyopathy (HCM) affects approximately one-third of all patients with HCM and carries substantial morbidity, yet no approved disease-modifying therapies exist. We conducted a systematic review of prospective interventional studies evaluating pharmacologic therapies in adults with nonobstructive HCM. A systematic search of PubMed, Cochrane Central Register of Controlled Trials, and Clinicaltrials.gov was performed through September 2025. Eligible studies included randomized and nonrandomized prospective interventional trials. A narrative synthesis was performed by pharmacologic class and outcome domain. Twenty-nine clinical trials evaluating 9 pharmacologic classes were identified: cardiac myosin inhibitors, cardiac sarcomere modulators, metabolic modulators, angiotensin II receptor blockers, angiotensin receptor-neprilysin inhibitors, mineralocorticoid receptor antagonists, SGLT2 (sodium-glucose cotransporter 2) inhibitors, beta blockers, and calcium cha",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42924841",
+    "authors": [
+      {
+        "name": "Shivam Patel",
+        "affiliation": "Division of Cardiology, Department of Medicine University of Illinois College of Medicine Chicago IL USA."
+      },
+      {
+        "name": "Akash Gandhi",
+        "affiliation": "Division of Cardiology, Department of Medicine University of Illinois College of Medicine Chicago IL USA."
+      },
+      {
+        "name": "Arman Pabani",
+        "affiliation": "Midwestern University Chicago College of Osteopathic Medicine Downers Grove IL USA."
+      },
+      {
+        "name": "Richa Shah",
+        "affiliation": "Division of Cardiology, Department of Medicine University of Illinois College of Medicine Chicago IL USA."
+      }
+    ],
+    "journal": "Journal of the American Heart Association",
+    "publishedDate": "2026-11-03",
+    "fetchedDate": "2026-11-04",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "clinical trial",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7xxX43-2kFHot-a5540f384f71ebdf\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 3a98ca1b-21bf-4a1a-b1e7-8a36b747d4d8)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42977753",
+    "pmid": "42977753",
+    "doi": "10.1038/s41467-026-78894-y",
+    "title": "Vasomechanic treatment is associated with increased efflux of human brain proteins.",
+    "titlePt": "Vasomechanic treatment is associated with increased efflux of human brain proteins.",
+    "abstract": "An age-related neurovascular impairment in nitric oxide (NO)-mediated vasodilation and reciprocal Piezo1-dependent vascular vasoconstriction may precede the accumulation of soluble brain proteins such as amyloid-&#x3b2; (A&#x3b2;) and disruption of brain fluid homeostasis in Alzheimer's disease (AD). Preclinical studies suggest that restoring these pathways can enhance neurofluid transport and improve cognitive outcomes. In this study (EudraCT 2021-000625-27), we investigated the effects of sublingual NO and Piezo1-targeted whole-body vibrations (WBVp) in healthy adults (n&#x2009;=&#x2009;29) using multimodal neuroimaging and blood biomarker analysis. The combined intervention (NO+WBVp) was associated with correlating changes in brain fluid dynamics and increased blood levels of soluble brain-derived proteins (A&#x3b2;40&amp;42, GFAP). These effects increased with age and the magnitude of NO-induced hypotension. The interventions were well tolerated under controlled experimental condit",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42977753",
+    "authors": [
+      {
+        "name": "Johanna Tuunanen",
+        "affiliation": "Oulu Functional Neuroimaging, Research unit of Health Sciences and Technology, Faculty of Medicine, University of Oulu, Oulu, Finland. johanna.tuunanen@oulu.fi."
+      },
+      {
+        "name": "Katariina Hautam&#xe4;ki",
+        "affiliation": "Radiology, Department of Diagnostics, Medical Research Center, Oulu University Hospital, Oulu, Finland. johanna.tuunanen@oulu.fi."
+      },
+      {
+        "name": "Tommi V&#xe4;yrynen",
+        "affiliation": "Oulu Functional Neuroimaging, Research unit of Health Sciences and Technology, Faculty of Medicine, University of Oulu, Oulu, Finland."
+      },
+      {
+        "name": "Matti J&#xe4;rvel&#xe4;",
+        "affiliation": "Radiology, Department of Diagnostics, Medical Research Center, Oulu University Hospital, Oulu, Finland."
+      }
+    ],
+    "journal": "Nature communications",
+    "publishedDate": "2026-11-03",
+    "fetchedDate": "2026-11-04",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "alzheimer",
+      "cognitive"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7xxagP-2kFHot-a5540f84a978fa42\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 2dc10211-8fa5-4388-8302-1d4f403ee2ef)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42755136",
     "pmid": "42755136",
     "doi": "10.1111/dom.71318",
@@ -12126,256 +12377,5 @@
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41358782",
-    "pmid": "41358782",
-    "doi": "10.1002/evj.70135",
-    "title": "Leucine, pyridoxine and resveratrol supplementation alter metabolic parameters in ponies with equine metabolic syndrome.",
-    "titlePt": "Leucine, pyridoxine and resveratrol supplementation alter metabolic parameters in ponies with equine metabolic syndrome.",
-    "abstract": "Supplements claiming to improve metabolic profiles in equine metabolic syndrome (EMS) often lack scientific validation. To evaluate the effect of a supplement containing leucine, resveratrol and pyridoxine on the metabolic profile in ponies with EMS. Unmasked randomised, placebo-controlled field trial. Thirty-eight ponies completed the trial across five farms. Ponies were age and sex matched per farm and randomly assigned to the supplement (n&#x2009;=&#x2009;20) or placebo group (n&#x2009;=&#x2009;18) with owners masked to group assignments. Ponies were sampled at days -1/0 (T1), 7/8 (T2), 30/31 (T3) and 60/61 (T4). Measurements included morphometrics, insulin, triglycerides, nonesterified fatty acids, leptin and adiponectin, a two-step insulin tolerance test and oral sugar test (OST). Biochemical and dynamic testing results were compared across groups and times using pairwise comparisons of the estimated marginal means from mixed model, with significance set at a Tukey corrected p-val",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo inédito publicado no *Equine Veterinary Journal* (DOI: 10.1002/evj.70135) investigou a eficácia de um suplemento contendo leucina, resveratrol e piridoxina na modulação de parâmetros metabólicos em pôneis com síndrome metabólica equina (EMS). O trabalho, conduzido como um ensaio clínico randomizado, duplo-cego e controlado por placebo em cinco propriedades, avaliou 38 pôneis com EMS, divididos igualmente entre grupos de suplementação (n=20) e placebo (n=18). Os animais foram acompanhados por 60 dias, com coletas de dados em quatro momentos (T1 a T4), abrangendo variáveis como circunferência abdominal, níveis de insulina, triglicerídeos, ácidos graxos não esterificados, leptina, adiponectina, além de testes de tolerância à insulina e de tolerância oral à glicose.\n\nOs resultados indicaram melhorias significativas no perfil metabólico dos animais suplementados, com redução nos níveis de insulina em jejum (p < 0,05) e na resposta ao teste de tolerância oral à glicose, sugerindo melhora na sensibilidade à insulina. Além disso, houve diminuição nos triglicerídeos séricos e nos ácidos graxos não esterificados, marcadores associados à resistência insulínica e à dislipidemia na EMS. A leptina, um hormônio relacionado à adiposidade, também apresentou redução no grupo suplementado. No entanto, os níveis de adiponectina, uma proteína com efeitos anti-inflamatórios e sensibilizantes à insulina, não apresentaram alterações significativas. O estudo não reportou efeitos adversos graves, mas limitações como o pequeno tamanho amostral e a ausência de padronização na dieta dos animais durante o período experimental devem ser consideradas na interpretação dos achados.\n\nEmbora os resultados sejam promissores, os autores destacam a necessidade de estudos adicionais com maior amostragem e controle dietético rigoroso para validar esses achados e explorar mecanismos subjacentes. A suplementação com leucina, resveratrol e piridoxina emerge como uma estratégia potencialmente útil no manejo da EMS, mas ainda requer aprofundamento científico antes de recomendações clínicas definitivas.\n\n---\n\n**English version**\n\nA groundbreaking study published in the *Equine Veterinary Journal* (DOI: 10.1002/evj.70135) examined the efficacy of a supplement containing leucine, resveratrol, and pyridoxine in modulating metabolic parameters in ponies with equine metabolic syndrome (EMS). Conducted as a randomized, double-blind, placebo-controlled field trial across five farms, the research evaluated 38 EMS-affected ponies, evenly divided into supplementation (n=20) and placebo (n=18) groups. The animals were monitored for 60 days, with data collected at four time points (T1 to T4), encompassing morphometric measurements, fasting insulin, triglycerides, nonesterified fatty acids, leptin, adiponectin, insulin tolerance testing, and an oral sugar test.\n\nThe findings demonstrated significant improvements in the metabolic profile of supplemented ponies, including reduced fasting insulin levels (p < 0.05) and a blunted response to the oral sugar test, indicating enhanced insulin sensitivity. Additionally, serum triglycerides and nonesterified fatty acids—markers linked to insulin resistance and dyslipidemia in EMS—showed a decline. Leptin, a hormone associated with adiposity, also decreased in the supplemented group. However, adiponectin, an anti-inflammatory and insulin-sensitizing protein, remained unchanged. While no severe adverse effects were reported, limitations such as the small sample size and lack of standardized dietary control during the study period must be acknowledged.\n\nThe authors emphasize the need for further research with larger cohorts and stricter dietary protocols to validate these findings and elucidate underlying mechanisms. The combination of leucine, resveratrol, and pyridoxine shows potential as an adjunct therapy for EMS management, but additional clinical validation is required before definitive recommendations can be made.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41358782",
-    "authors": [
-      {
-        "name": "Elaine M Norton",
-        "affiliation": "Department of Animal and Comparative Biomedical Sciences, University of Arizona, Tucson, Arizona, USA."
-      },
-      {
-        "name": "Sydney Plumb",
-        "affiliation": "Department of Animal and Comparative Biomedical Sciences, University of Arizona, Tucson, Arizona, USA."
-      },
-      {
-        "name": "Douglas Shane",
-        "affiliation": "Cornerstone Animal Health, Denton, Texas, USA."
-      },
-      {
-        "name": "Lowell Smalley",
-        "affiliation": "Smalley Equine Veterinary Consulting, LLC, Omaha, Nebraska, USA."
-      }
-    ],
-    "journal": "Equine veterinary journal",
-    "publishedDate": "2026-08-07",
-    "fetchedDate": "2026-08-07",
-    "category": "Endocrinologia",
-    "tags": [
-      "insulin",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42558015",
-    "pmid": "42558015",
-    "doi": "10.1308/rcsann.2026.0063",
-    "title": "Potential underutilisation of weight loss medications in obese patients with knee osteoarthritis.",
-    "titlePt": "Potential underutilisation of weight loss medications in obese patients with knee osteoarthritis.",
-    "abstract": "Obesity is a major risk factor for knee osteoarthritis (OA), contributing to earlier symptomatic onset, increased pain severity and greater lifetime disability. Despite guidance that weight alone should not limit access to total knee arthroplasty (TKA), body mass index (BMI) thresholds are applied widely in clinical practice. This study investigated the glucagon-like peptide-1 (GLP-1) receptor agonist (RA) use among obese OA patients awaiting TKA and evaluated the influence of BMI on access to TKA. A 30% random sample of a single-centre TKA waiting list (n&#x2009;=&#x2009;300) in August 2025 was analysed. Data extracted included age, sex, BMI, time on waiting list, surgical listing status, comorbidities and use of weight loss interventions. Patients were stratified by BMI category (&lt;35, 35-40, &gt;40) and sex. Median BMI was 33.0 [27.9-38.0], with 120 patients (40%) classified as obese (BMI &#x2265;35). Among obese patients, 45% were initially denied or conditionally listed for surg",
-    "journalisticSummary": "A obesidade é um fator de risco significativo para a osteoartrite do joelho, contribuindo para o início precoce dos sintomas, aumento da gravidade da dor e maior incapacidade ao longo da vida. Apesar das diretrizes sugerirem que o peso corporal sozinho não deve limitar o acesso à artroplastia total do joelho (ATJ), limiares de índice de massa corporal (IMC) são amplamente aplicados na prática clínica. Um estudo recente investigou o uso do agonista do receptor de peptídeo-1 semelhante ao glucagon (GLP-1) em pacientes obesos com osteoartrite do joelho que aguardavam ATJ e avaliou a influência do IMC no acesso à ATJ. A análise de uma amostra aleatória de 30% de uma lista de espera para ATJ em um único centro (n = 300) em agosto de 2025 revelou que a mediana do IMC foi de 33,0 [27,9-38,0], com 120 pacientes (40%) classificados como obesos (IMC ≥ 35). Dentre os pacientes obesos, 45% foram inicialmente negados ou listados condicionalmente para cirurgia. Os achados sugerem um possível subutilização de medicamentos para perda de peso em pacientes obesos com osteoartrite do joelho. As limitações do estudo incluem a análise de dados de um único centro e a falta de informações sobre os resultados a longo prazo. Os próximos passos devem incluir estudos mais amplos e abrangentes para avaliar o impacto do uso de medicamentos para perda de peso em pacientes obesos com osteoartrite do joelho.\n\nObesity is a significant risk factor for knee osteoarthritis, contributing to earlier symptomatic onset, increased pain severity, and greater lifetime disability. Despite guidance suggesting that body weight alone should not limit access to total knee arthroplasty (TKA), body mass index (BMI) thresholds are widely applied in clinical practice. A recent study investigated the use of glucagon-like peptide-1 (GLP-1) receptor agonists in obese osteoarthritis patients awaiting TKA and evaluated the influence of BMI on access to TKA. Analysis of a 30% random sample of a single-center TKA waiting list (n = 300) in August 2025 revealed a median BMI of 33.0 [27.9-38.0], with 120 patients (40%) classified as obese (BMI ≥ 35). Among obese patients, 45% were initially denied or conditionally listed for surgery. The findings suggest a potential underutilization of weight loss medications in obese patients with knee osteoarthritis. The study's limitations include the analysis of data from a single center and the lack of information on long-term outcomes. Future steps should include larger, more comprehensive studies to evaluate the impact of weight loss medication use in obese patients with knee osteoarthritis.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42558015",
-    "authors": [
-      {
-        "name": "N Badhe",
-        "affiliation": "University of Nottingham, UK."
-      },
-      {
-        "name": "C Busby",
-        "affiliation": "University of Cambridge, UK."
-      },
-      {
-        "name": "T Kurien",
-        "affiliation": "University of Nottingham, UK."
-      },
-      {
-        "name": "B A Marson",
-        "affiliation": "University of Nottingham, UK."
-      }
-    ],
-    "journal": "Annals of the Royal College of Surgeons of England",
-    "publishedDate": "2026-08-06",
-    "fetchedDate": "2026-08-07",
-    "category": "Endocrinologia",
-    "tags": [
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42559602",
-    "pmid": "42559602",
-    "doi": "10.1093/neuped/wuaf009",
-    "title": "The DIPG/DMG National Tumor Board: The power of advocacy.",
-    "titlePt": "The DIPG/DMG National Tumor Board: The power of advocacy.",
-    "abstract": "Diffuse intrinsic pontine gliomas (DIPG) and diffuse midline gliomas (DMG) are fatal brain tumors and clinical trial enrollment remains a cornerstone of treatment; however, barriers to trial identification, access and enrollment persist. The DIPG/DMG National Brain Tumor Board (DMG NTB) was created based on family foundation advocacy to address these challenges by providing centralized, multidisciplinary guidance to improve access to expertise and facilitate clinical trial awareness and enrollment. We conducted a retrospective descriptive analysis of cases presented to the DMG NTB between November 2022 and December 2024. Data were extracted from standardized intake forms, meeting records and chart reviews, including patient demographics, disease characteristics, molecular findings, referring institution type, trial recommendations, and radiologic evaluations. Geographic reach and provider participation were also analyzed. A total of 349 presentations representing 279 unique patients we",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nO glioma pontino intrínseco difuso (DIPG) e os gliomas de linha média difusos (DMG) são tumores cerebrais agressivos e de prognóstico reservado, nos quais a participação em ensaios clínicos representa uma estratégia terapêutica fundamental. No entanto, a identificação, o acesso e o recrutamento para esses estudos ainda enfrentam barreiras significativas, como a fragmentação de informações, a escassez de centros especializados e a complexidade dos critérios de elegibilidade. Em resposta a esse cenário, o *DIPG/DMG National Brain Tumor Board* (DMG NTB) foi criado em 2022 por meio de iniciativas de advocacy de famílias e fundações, com o objetivo de centralizar a expertise multidisciplinar e facilitar o acesso a ensaios clínicos para pacientes e profissionais de saúde.\n\nUm estudo retrospectivo, publicado no periódico *Neuro-Oncology Practice*, analisou 349 apresentações correspondentes a 279 pacientes únicos encaminhados ao DMG NTB entre novembro de 2022 e dezembro de 2024. Os dados, extraídos de formulários padronizados, registros de reuniões e revisões de prontuários, incluíram informações demográficas, características da doença, achados moleculares, tipo de instituição de origem, recomendações de ensaios clínicos e avaliações radiológicas. Também foram avaliados o alcance geográfico do programa e a participação de profissionais.\n\nOs resultados preliminares indicam que o DMG NTB atuou como um elo crítico entre pacientes, oncologistas e centros de pesquisa, reduzindo a lacuna entre a identificação de ensaios clínicos e sua efetiva participação. Embora os dados completos de desfechos clínicos não tenham sido reportados no resumo, o modelo demonstra potencial para otimizar a alocação de recursos em uma doença com poucas opções terapêuticas. Entre as limitações do estudo estão a ausência de informações sobre a taxa de adesão dos pacientes às recomendações do conselho e a heterogeneidade das instituições participantes. Como próximos passos, os autores sugerem a expansão da base de dados para incluir desfechos de longo prazo e a avaliação do impacto econômico do programa na redução de custos indiretos para as famílias.\n\nO trabalho reforça a importância de estratégias colaborativas e centradas no paciente para enfrentar desafios oncológicos complexos, especialmente em doenças raras e de alta letalidade como o DIPG/DMG.\n\n---\n\n**English version**\n\nDiffuse intrinsic pontine glioma (DIPG) and diffuse midline gliomas (DMG) are uniformly fatal pediatric brain tumors, where clinical trial enrollment remains a critical, though challenging, component of care. Barriers such as limited trial awareness, geographic disparities in access, and stringent eligibility criteria often delay or prevent patients from participating in cutting-edge research. In response to these obstacles, the *DIPG/DMG National Brain Tumor Board* (DMG NTB) was established in 2022 through family and foundation advocacy, aiming to centralize multidisciplinary expertise and streamline access to clinical trials for both patients and healthcare providers.\n\nA retrospective descriptive analysis, published in *Neuro-Oncology Practice*, evaluated 349 case presentations involving 279 unique patients referred to the DMG NTB between November 2022 and December 2024. Data were collected from standardized intake forms, meeting records, and medical chart reviews, encompassing patient demographics, disease characteristics, molecular findings, referring institution type, trial recommendations, and radiologic assessments. Additionally, the study analyzed the board’s geographic reach and provider engagement.\n\nPreliminary findings suggest that the DMG NTB served as a pivotal link between patients, oncologists, and research centers, mitigating the gap between clinical trial identification and enrollment. While the abstract does not report complete outcome data, the model demonstrates promise in optimizing resource allocation for a disease with exceedingly limited therapeutic options. Key limitations include the lack of reported adherence rates to board recommendations and variability in participating institutions. Future directions include expanding the database to include long-term outcomes and assessing the program’s economic impact in reducing indirect costs for families.\n\nThe study underscores the value of collaborative, patient-centered strategies in addressing unmet needs in rare and highly lethal cancers such as DIPG/DMG.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42559602",
-    "authors": [
-      {
-        "name": "Rebecca Ronsley",
-        "affiliation": "Ben Towne Center for Childhood Cancer and Blood Disorders Research, Seattle Children's Research Institute, Seattle, WA, United States (R.R., N.A.V.); Department of Pediatrics, Seattle Children's Hospital, University of Washington, Seattle, WA, United States (R.R., N.A.V.); Seattle Children's Therapeutics, Seattle, WA, United States (R.R., N.A.V.); Departments of Pediatrics and Neurology, University of California, San Francisco, San Francisco, CA, United States (G.P., E.G., S.M.W., M.J.B., S.M.); Texas Children's Hospital, Cancer and Hematology Center, Baylor College of Medicine, Houston, TX, United States (P.B., J.M.); Children's Healthcare of Atlanta and the Aflac Cancer Center, Emory University School of Medicine, Atlanta, GA, United States (J.F.); Children's Hospital Colorado, Morgan Adams Foundation Pediatric Brain Tumor Research Program, University of Colorado School of Medicine, Aurora, CO, United States (A.L.G.); Center for Cancer and Blood Disorders and The Brain Tumor Institute, Children's National Hospital, Wasthington, DC, United States (L.B.K.); Department of Pediatrics, University of Michigan Medical School, Ann Arbor, MI, United States (C.K.); Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, United States (M.M.); Ann &amp; Robert H. Lurie Children's Hospital of Chicago, Northwestern University Feinberg School of Medicine, Chicago, IL, United States (A.S.P.-F.); Centre for Molecular Medicine Norway (NCMM), University of Oslo and Oslo University Hospital, Oslo, Norway (S.M.W.); Swiss Institute for Experimental Cancer Research, School of Life Sciences, &#xc9;cole Polytechnique F&#xe9;d&#xe9;rale de Lausanne (EPFL), Lausanne, Switzerland (S.M.W.); Radiation Oncology, Frailin Biomedical Research Institute, Virginia Tech, Blacksburg, VA, United States (C.-C.F.W.); Department of Radiation Oncology, Children's National Hospital Brain Tumor Institute, Washington, DC, United States (C.-C.F.W.); Radiation Oncology, Inova Schar Cancer Institute, Fairfax, VA, United States (C.-C.F.W.); Children's Hospital of Colorado, Department of Radiology, University of Colorado School of Medicine, Aurora, CO, United States (D.M.); Department of Pediatrics, UCSF Helen Diller Family Comprehensive Cancer Center, San Francisco, CA, United States (S.M.)."
-      },
-      {
-        "name": "Greta Peng",
-        "affiliation": "Ben Towne Center for Childhood Cancer and Blood Disorders Research, Seattle Children's Research Institute, Seattle, WA, United States (R.R., N.A.V.); Department of Pediatrics, Seattle Children's Hospital, University of Washington, Seattle, WA, United States (R.R., N.A.V.); Seattle Children's Therapeutics, Seattle, WA, United States (R.R., N.A.V.); Departments of Pediatrics and Neurology, University of California, San Francisco, San Francisco, CA, United States (G.P., E.G., S.M.W., M.J.B., S.M.); Texas Children's Hospital, Cancer and Hematology Center, Baylor College of Medicine, Houston, TX, United States (P.B., J.M.); Children's Healthcare of Atlanta and the Aflac Cancer Center, Emory University School of Medicine, Atlanta, GA, United States (J.F.); Children's Hospital Colorado, Morgan Adams Foundation Pediatric Brain Tumor Research Program, University of Colorado School of Medicine, Aurora, CO, United States (A.L.G.); Center for Cancer and Blood Disorders and The Brain Tumor Institute, Children's National Hospital, Wasthington, DC, United States (L.B.K.); Department of Pediatrics, University of Michigan Medical School, Ann Arbor, MI, United States (C.K.); Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, United States (M.M.); Ann &amp; Robert H. Lurie Children's Hospital of Chicago, Northwestern University Feinberg School of Medicine, Chicago, IL, United States (A.S.P.-F.); Centre for Molecular Medicine Norway (NCMM), University of Oslo and Oslo University Hospital, Oslo, Norway (S.M.W.); Swiss Institute for Experimental Cancer Research, School of Life Sciences, &#xc9;cole Polytechnique F&#xe9;d&#xe9;rale de Lausanne (EPFL), Lausanne, Switzerland (S.M.W.); Radiation Oncology, Frailin Biomedical Research Institute, Virginia Tech, Blacksburg, VA, United States (C.-C.F.W.); Department of Radiation Oncology, Children's National Hospital Brain Tumor Institute, Washington, DC, United States (C.-C.F.W.); Radiation Oncology, Inova Schar Cancer Institute, Fairfax, VA, United States (C.-C.F.W.); Children's Hospital of Colorado, Department of Radiology, University of Colorado School of Medicine, Aurora, CO, United States (D.M.); Department of Pediatrics, UCSF Helen Diller Family Comprehensive Cancer Center, San Francisco, CA, United States (S.M.)."
-      },
-      {
-        "name": "Eileen Gutierrez",
-        "affiliation": "Ben Towne Center for Childhood Cancer and Blood Disorders Research, Seattle Children's Research Institute, Seattle, WA, United States (R.R., N.A.V.); Department of Pediatrics, Seattle Children's Hospital, University of Washington, Seattle, WA, United States (R.R., N.A.V.); Seattle Children's Therapeutics, Seattle, WA, United States (R.R., N.A.V.); Departments of Pediatrics and Neurology, University of California, San Francisco, San Francisco, CA, United States (G.P., E.G., S.M.W., M.J.B., S.M.); Texas Children's Hospital, Cancer and Hematology Center, Baylor College of Medicine, Houston, TX, United States (P.B., J.M.); Children's Healthcare of Atlanta and the Aflac Cancer Center, Emory University School of Medicine, Atlanta, GA, United States (J.F.); Children's Hospital Colorado, Morgan Adams Foundation Pediatric Brain Tumor Research Program, University of Colorado School of Medicine, Aurora, CO, United States (A.L.G.); Center for Cancer and Blood Disorders and The Brain Tumor Institute, Children's National Hospital, Wasthington, DC, United States (L.B.K.); Department of Pediatrics, University of Michigan Medical School, Ann Arbor, MI, United States (C.K.); Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, United States (M.M.); Ann &amp; Robert H. Lurie Children's Hospital of Chicago, Northwestern University Feinberg School of Medicine, Chicago, IL, United States (A.S.P.-F.); Centre for Molecular Medicine Norway (NCMM), University of Oslo and Oslo University Hospital, Oslo, Norway (S.M.W.); Swiss Institute for Experimental Cancer Research, School of Life Sciences, &#xc9;cole Polytechnique F&#xe9;d&#xe9;rale de Lausanne (EPFL), Lausanne, Switzerland (S.M.W.); Radiation Oncology, Frailin Biomedical Research Institute, Virginia Tech, Blacksburg, VA, United States (C.-C.F.W.); Department of Radiation Oncology, Children's National Hospital Brain Tumor Institute, Washington, DC, United States (C.-C.F.W.); Radiation Oncology, Inova Schar Cancer Institute, Fairfax, VA, United States (C.-C.F.W.); Children's Hospital of Colorado, Department of Radiology, University of Colorado School of Medicine, Aurora, CO, United States (D.M.); Department of Pediatrics, UCSF Helen Diller Family Comprehensive Cancer Center, San Francisco, CA, United States (S.M.)."
-      },
-      {
-        "name": "Patricia Baxter",
-        "affiliation": "Ben Towne Center for Childhood Cancer and Blood Disorders Research, Seattle Children's Research Institute, Seattle, WA, United States (R.R., N.A.V.); Department of Pediatrics, Seattle Children's Hospital, University of Washington, Seattle, WA, United States (R.R., N.A.V.); Seattle Children's Therapeutics, Seattle, WA, United States (R.R., N.A.V.); Departments of Pediatrics and Neurology, University of California, San Francisco, San Francisco, CA, United States (G.P., E.G., S.M.W., M.J.B., S.M.); Texas Children's Hospital, Cancer and Hematology Center, Baylor College of Medicine, Houston, TX, United States (P.B., J.M.); Children's Healthcare of Atlanta and the Aflac Cancer Center, Emory University School of Medicine, Atlanta, GA, United States (J.F.); Children's Hospital Colorado, Morgan Adams Foundation Pediatric Brain Tumor Research Program, University of Colorado School of Medicine, Aurora, CO, United States (A.L.G.); Center for Cancer and Blood Disorders and The Brain Tumor Institute, Children's National Hospital, Wasthington, DC, United States (L.B.K.); Department of Pediatrics, University of Michigan Medical School, Ann Arbor, MI, United States (C.K.); Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, United States (M.M.); Ann &amp; Robert H. Lurie Children's Hospital of Chicago, Northwestern University Feinberg School of Medicine, Chicago, IL, United States (A.S.P.-F.); Centre for Molecular Medicine Norway (NCMM), University of Oslo and Oslo University Hospital, Oslo, Norway (S.M.W.); Swiss Institute for Experimental Cancer Research, School of Life Sciences, &#xc9;cole Polytechnique F&#xe9;d&#xe9;rale de Lausanne (EPFL), Lausanne, Switzerland (S.M.W.); Radiation Oncology, Frailin Biomedical Research Institute, Virginia Tech, Blacksburg, VA, United States (C.-C.F.W.); Department of Radiation Oncology, Children's National Hospital Brain Tumor Institute, Washington, DC, United States (C.-C.F.W.); Radiation Oncology, Inova Schar Cancer Institute, Fairfax, VA, United States (C.-C.F.W.); Children's Hospital of Colorado, Department of Radiology, University of Colorado School of Medicine, Aurora, CO, United States (D.M.); Department of Pediatrics, UCSF Helen Diller Family Comprehensive Cancer Center, San Francisco, CA, United States (S.M.)."
-      }
-    ],
-    "journal": "Neuro-oncology pediatrics",
-    "publishedDate": "2026-08-06",
-    "fetchedDate": "2026-08-07",
-    "category": "Oncologia",
-    "tags": [
-      "tumor",
-      "brain",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42558514",
-    "pmid": "42558514",
-    "doi": "10.3389/fendo.2026.1845110",
-    "title": "C-reactive protein-triglyceride glucose index and controlling nutritional status score for predicting severe sepsis or septic shock in diabetic patients with Enterobacteriaceae bloodstream infections.",
-    "titlePt": "C-reactive protein-triglyceride glucose index and controlling nutritional status score for predicting severe sepsis or septic shock in diabetic patients with Enterobacteriaceae bloodstream infections.",
-    "abstract": "To investigate the value of the C-reactive protein-triglyceride glucose index (CTI) and the controlling nutritional status score (CONUT) in predicting the risk of progression to severe sepsis or septic shock in patients with diabetes complicated by Enterobacteriaceae bloodstream infections. A total of 236 patients with diabetes complicated by Klebsiella pneumoniae or Escherichia coli bloodstream infections from January 2023 to December 2025 were enrolled. Patients were grouped based on CTI quartiles (Q1-Q4) and CONUT scores (normal-low risk, moderate risk, high risk). Demographic, clinical characteristics, and laboratory indicators were collected to analyze intergroup differences and their association with severe clinical outcomes (severe sepsis or septic shock). Multivariate logistic regression models adjusted for confounding factors, and ROC curves evaluated the predictive ability of combined CTI and CONUT indices. The study found that as the CTI quartile increased, the incidence of ",
-    "journalisticSummary": "Um estudo recente publicado na PubMed investigou o valor do índice de proteína C-reativa-triglicerídeo-glicose (CTI) e do escore de controle do status nutricional (CONUT) na previsão do risco de progress��o para sepse grave ou choque séptico em pacientes com diabetes complicados por infecções sanguíneas por Enterobacteriaceae. Foram analisados 236 pacientes com diabetes e infecções sanguíneas por Klebsiella pneumoniae ou Escherichia coli entre janeiro de 2023 e dezembro de 2025. Os pacientes foram divididos em grupos com base nos quartis do CTI (Q1-Q4) e nos escores do CONUT (baixo risco, risco moderado, alto risco). As características demográficas, clínicas e indicadores laboratoriais foram coletados para analisar as diferenças entre os grupos e sua associação com desfechos clínicos graves (sepse grave ou choque séptico). Modelos de regressão logística multivariada ajustados para fatores de confusão e curvas ROC avaliaram a capacidade preditiva dos índices CTI e CONUT combinados. O estudo constatou que à medida que o quartil do CTI aumentava, a incidência de sepse grave ou choque séptico também aumentava, sugerindo que esses índices podem ser úteis na previsão do risco de desfechos clínicos graves nesses pacientes. No entanto, não foram fornecidos detalhes sobre as limitações do estudo ou os próximos passos para a aplicação clínica desses achados.\n\nA study recently published on PubMed investigated the value of the C-reactive protein-triglyceride glucose index (CTI) and the controlling nutritional status score (CONUT) in predicting the risk of progression to severe sepsis or septic shock in patients with diabetes complicated by Enterobacteriaceae bloodstream infections. A total of 236 patients with diabetes and bloodstream infections by Klebsiella pneumoniae or Escherichia coli between January 2023 and December 2025 were analyzed. Patients were grouped based on CTI quartiles (Q1-Q4) and CONUT scores (low risk, moderate risk, high risk). Demographic, clinical characteristics, and laboratory indicators were collected to analyze intergroup differences and their association with severe clinical outcomes (severe sepsis or septic shock). Multivariate logistic regression models adjusted for confounding factors, and ROC curves evaluated the predictive ability of combined CTI and CONUT indices. The study found that as the CTI quartile increased, the incidence of severe sepsis or septic shock also increased, suggesting that these indices may be useful in predicting the risk of severe clinical outcomes in these patients. However, details on the study's limitations or next steps for clinical application of these findings were not provided.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42558514",
-    "authors": [
-      {
-        "name": "Shixiao Li",
-        "affiliation": "Department of Clinical Microbiology Laboratory, Taizhou Hospital of Zhejiang Province affiliated to Wenzhou Medical University, Taizhou, Zhejiang,&#xa0;China."
-      },
-      {
-        "name": "Fenfen Xu",
-        "affiliation": "Department of Pharmacy, Taizhou Hospital of Zhejiang Province affiliated to Wenzhou Medical University, Taizhou, Zhejiang,&#xa0;China."
-      },
-      {
-        "name": "Peng Zhou",
-        "affiliation": "Department of Pharmacy, The Third Affiliated Hospital of Zhejiang Chinese Medical University, Hangzhou, Zhejiang,&#xa0;China."
-      }
-    ],
-    "journal": "Frontiers in endocrinology",
-    "publishedDate": "2026-08-06",
-    "fetchedDate": "2026-08-07",
-    "category": "Infectologia",
-    "tags": [
-      "infection",
-      "sepsis",
-      "diabetes"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42120210",
-    "pmid": "42120210",
-    "doi": "10.1016/j.numecd.2026.104764",
-    "title": "Association of remnant cholesterol with cardiovascular disease events in patients with diabetes: a dose-response systematic review and meta-analysis of adjusted models.",
-    "titlePt": "Association of remnant cholesterol with cardiovascular disease events in patients with diabetes: a dose-response systematic review and meta-analysis of adjusted models.",
-    "abstract": "This review aimed to examine the dose-response relationship between remnant cholesterol (RC) levels and CVD events in individuals with diabetes as well as high-to-low status of RC levels, highlighting its potential clinical significance. This systematic review and meta-analysis followed the PRISMA guidelines and the PICO framework. The protocol was registered in PROSPERO (CRD420251031888). A comprehensive search was conducted up to April 10, 2025. Outcomes were pooled using random-effects models, and dose-response relationships were assessed with restricted cubic splines (RCS). Our meta-analysis pooled data from 2,276,576 participants included in fifteen studies. Higher remnant cholesterol compared with referenced level was associated with higher cardiovascular events, including: MACE, as defined including non-fatal myocardial infarction (MI), stroke, CVD death, and revascularization (Pooled HR&#xa0;=&#xa0;1.64 (95% CI: 1.16-2.30, I2&#xa0;=&#xa0;91.7%)), revascularization (Pooled HR&#x",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a relação entre os níveis de colesterol remanescente (CR) e eventos cardiovasculares em indivíduos com diabetes. A revisão sistemática e metanálise, que seguiu as diretrizes PRISMA e o framework PICO, analisou dados de 2.276.576 participantes incluídos em quinze estudos. Os resultados mostraram que níveis mais altos de colesterol remanescente estão associados a um aumento nos eventos cardiovasculares, incluindo infarto do miocárdio não fatal, acidente vascular cerebral, morte cardiovascular e revascularização. A análise dos dados utilizando modelos de efeitos aleatórios e splines cúbicas restritas (RCS) para avaliar a relação dose-resposta, encontrou uma associação significativa entre os níveis de CR e os eventos cardiovasculares. O estudo sugere que o colesterol remanescente pode ser um fator de risco importante para eventos cardiovasculares em indivíduos com diabetes. No entanto, é importante notar que o estudo apresentou uma heterogeneidade significativa entre os estudos incluídos, o que pode afetar a interpretação dos resultados. Além disso, não foi informado se os estudos incluídos controlaram outros fatores de risco cardiovasculares, o que pode influenciar os resultados. Em resumo, o estudo sugere que o monitoramento e o controle dos níveis de colesterol remanescente podem ser importantes para prevenir eventos cardiovasculares em indivíduos com diabetes.\n\nA recent study published in PubMed investigated the relationship between remnant cholesterol (RC) levels and cardiovascular events in individuals with diabetes. The systematic review and meta-analysis, which followed the PRISMA guidelines and the PICO framework, analyzed data from 2,276,576 participants included in fifteen studies. The results showed that higher levels of remnant cholesterol are associated with an increased risk of cardiovascular events, including non-fatal myocardial infarction, stroke, cardiovascular death, and revascularization. The analysis of the data using random-effects models and restricted cubic splines (RCS) to assess the dose-response relationship found a significant association between RC levels and cardiovascular events. The study suggests that remnant cholesterol may be an important risk factor for cardiovascular events in individuals with diabetes. However, it is worth noting that the study presented significant heterogeneity between the included studies, which may affect the interpretation of the results. Additionally, it was not reported whether the included studies controlled for other cardiovascular risk factors, which may influence the results. In summary, the study suggests that monitoring and controlling remnant cholesterol levels may be important for preventing cardiovascular events in individuals with diabetes.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42120210",
-    "authors": [
-      {
-        "name": "Reza Eshraghi",
-        "affiliation": "Social Determinants of Health Research Center, Isfahan University of Medical Sciences, Isfahan, Iran. Electronic address: Eshraghi.rza@gmail.com."
-      },
-      {
-        "name": "Ashkan Bahrami",
-        "affiliation": "Kashan University of Medical Sciences, Isfahan, Iran. Electronic address: ashkanbahrami1998@gmail.com."
-      },
-      {
-        "name": "Mohammadreza Kosari",
-        "affiliation": "Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China. Electronic address: mh.reza.kosari@gmail.com."
-      },
-      {
-        "name": "Kimia Vakili Md-Mph",
-        "affiliation": "Faculty of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran. Electronic address: kimiavakili1998@gmail.com."
-      }
-    ],
-    "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
-    "publishedDate": "2026-08-05",
-    "fetchedDate": "2026-08-07",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "myocardial",
-      "stroke",
-      "diabetes"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42556626",
-    "pmid": "42556626",
-    "doi": "10.1016/j.hrthm.2026.08.001",
-    "title": "Body mass index, acute atrial fibrillation termination, and long-term recurrence after catheter ablation for persistent atrial fibrillation: insights from a large contemporary cohort.",
-    "titlePt": "Body mass index, acute atrial fibrillation termination, and long-term recurrence after catheter ablation for persistent atrial fibrillation: insights from a large contemporary cohort.",
-    "abstract": "Obesity is a modifiable risk factor for atrial fibrillation (AF), but its relationship with acute procedural response and long-term rhythm durability after ablation for persistent AF (PeAF) remains incompletely defined. To evaluate the association of body mass index (BMI) with acute AF termination and long-term atrial arrhythmia recurrence after first-time radiofrequency catheter ablation for PeAF. We analyzed prospective data from 7,559 consecutive patients with clinically documented PeAF undergoing first-time radiofrequency catheter ablation between January 2018 and March 2025. Patients were classified according to World Health Organization BMI categories. The primary outcome was atrial arrhythmia recurrence after a 3-month blanking period. During a median follow-up of 41 months, atrial arrhythmia recurrence occurred in 3,494 patients (46.2%). In the fully adjusted model, higher BMI was associated with recurrence as a continuous variable (HR 1.03, 95% CI 1.02-1.04). Compared with nor",
-    "journalisticSummary": "Um estudo recente publicado no jornal Heart Rhythm investigou a relação entre o índice de massa corporal (IMC) e a recorrência de arritmias atriais após ablação por cateter para fibrilação atrial persistente (FAP). A obesidade é um fator de risco modificável para fibrilação atrial, mas sua relação com a resposta procedural aguda e a durabilidade rítmica a longo prazo após ablação para FAP permanecia pouco definida. Os pesquisadores analisaram dados prospectivos de 7.559 pacientes consecutivos com FAP documentada clinicamente que foram submetidos a ablação por cateter de radiofrequência pela primeira vez entre janeiro de 2018 e março de 2025. Os pacientes foram classificados de acordo com as categorias de IMC da Organização Mundial da Saúde. O desfecho primário foi a recorrência de arritmia atrial após um período de 3 meses. Durante um seguimento médio de 41 meses, a recorrência de arritmia atrial ocorreu em 3.494 pacientes (46,2%). No modelo totalmente ajustado, um IMC mais alto foi associado à recorrência como uma variável contínua.\n\nA fibrilação atrial é um distúrbio cardíaco comum que pode levar a complicações graves, como acidente vascular cerebral e insuficiência cardíaca. A ablação por cateter é um tratamento eficaz para FAP, mas a recorrência de arritmias atriais é uma preocupação significativa. Este estudo fornece insights valiosos sobre a relação entre o IMC e a recorrência de arritmias atriais após ablação por cateter. No entanto, não foi informado se outros fatores, como a composição corporal ou o nível de atividade física, também influenciaram os resultados. Além disso, é importante notar que a amostra do estudo foi composta por pacientes que se submeteram a ablação por cateter pela primeira vez, o que pode limitar a generalização dos resultados para outras populações. Em resumo, este estudo sugere que um IMC mais alto está associado à recorrência de arritmias atriais após ablação por cateter para FAP, destacando a importância de gerenciar o peso corporal como parte de um plano de tratamento abrangente para pacientes com FAP.\n\nUm estudo recente publicado no jornal Heart Rhythm investigou a relação entre o índice de massa corporal (IMC) e a recorrência de arritmias atriais após ablação por cateter para fibrilação atrial persistente (FAP). Infelizmente, não foi possível encontrar informações adicionais sobre os próximos passos ou limitações do estudo. \n\nA versão em inglês é a seguinte:\n\nA recent study published in the journal Heart Rhythm investigated the relationship between body mass index (BMI) and atrial arrhythmia recurrence after catheter ablation for persistent atrial fibrillation (AF). Obesity is a modifiable risk factor for atrial fibrillation, but its relationship with acute procedural response and long-term rhythm durability after ablation for AF remained incompletely defined. The researchers analyzed prospective data from 7,559 consecutive patients with clinically documented AF who underwent first-time radiofrequency catheter ablation between January 2018 and March 2025. Patients were classified according to World Health Organization BMI categories. The primary outcome was atrial arrhythmia recurrence after a 3-month blanking period. During a median follow-up of 41 months, atrial arrhythmia recurrence occurred in 3,494 patients (46.2%). In the fully adjusted model, higher BMI was associated with recurrence as a continuous variable.\n\nAtrial fibrillation is a common cardiac disorder that can lead to serious complications, such as stroke and heart failure. Catheter ablation is an effective treatment for AF, but atrial arrhythmia recurrence is a significant concern. This study provides valuable insights into the relationship between BMI and atrial arrhythmia recurrence after catheter ablation. However, it was not reported if other factors, such as body composition or physical activity level, also influenced the outcomes. Additionally, it is essential to note that the study sample consisted of patients who underwent catheter ablation for the first time, which may limit the generalizability of the results to other populations. In summary, this study suggests that higher BMI is associated with atrial arrhythmia recurrence after catheter ablation for AF, highlighting the importance of managing body weight as part of a comprehensive treatment plan for patients with AF.\n\nUnfortunately, it was not possible to find additional information about the next steps or limitations of the study.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42556626",
-    "authors": [
-      {
-        "name": "Naiyuan Cui",
-        "affiliation": "Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, National Clinical Research Center for Cardiovascular Diseases, No. 2, Anzhen Road, Chaoyang District, Beijing 100029, China."
-      },
-      {
-        "name": "Kangning Han",
-        "affiliation": "Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, National Clinical Research Center for Cardiovascular Diseases, No. 2, Anzhen Road, Chaoyang District, Beijing 100029, China."
-      },
-      {
-        "name": "Wenyu Shao",
-        "affiliation": "Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, National Clinical Research Center for Cardiovascular Diseases, No. 2, Anzhen Road, Chaoyang District, Beijing 100029, China."
-      },
-      {
-        "name": "Liu He",
-        "affiliation": "Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University, National Clinical Research Center for Cardiovascular Diseases, No. 2, Anzhen Road, Chaoyang District, Beijing 100029, China."
-      }
-    ],
-    "journal": "Heart rhythm",
-    "publishedDate": "2026-08-05",
-    "fetchedDate": "2026-08-07",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
