@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42755136",
+    "pmid": "42755136",
+    "doi": "10.1111/dom.71318",
+    "title": "Preferences for Obesity Medications Among People With Overweight or Obesity in the United States: A Discrete-Choice Experiment (OPTIC).",
+    "titlePt": "Preferences for Obesity Medications Among People With Overweight or Obesity in the United States: A Discrete-Choice Experiment (OPTIC).",
+    "abstract": "To evaluate the relative importance of attributes driving obesity medication (OM) choice and preferences among individuals with overweight or obesity. US adults with obesity or overweight and &#x2265;&#x2009;1 obesity-related complication completed an online survey including a discrete-choice experiment (DCE) in October-November 2025. In the DCE, participants chose between 2 hypothetical, experimentally designed OM profiles with attributes/levels related to efficacy, cardiovascular (CV) risk reduction, side effects, administration (route/frequency), and dosing instruction requirements. In a fixed-choice comparison, participants chose between 2 predefined oral OM profiles. Relative preference weights for the DCE attribute levels were estimated using a random-parameters logit model to estimate attribute importance, tradeoffs, and predicted treatment choice. Among 800 participants (400 OM-na&#xef;ve/400 OM-experienced, 400 injection-na&#xef;ve/400 injection-experienced), the most importan",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42755136",
+    "authors": [
+      {
+        "name": "Jaime P Almandoz",
+        "affiliation": "Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas, Texas, USA."
+      },
+      {
+        "name": "Beverly G Tchang",
+        "affiliation": "Department of Clinical Medicine, Weill Cornell Medicine, New York, New York, USA."
+      },
+      {
+        "name": "Kelley Myers",
+        "affiliation": "RTI Health Solutions, Durham, North Carolina, USA."
+      },
+      {
+        "name": "Andrea Traina",
+        "affiliation": "Novo Nordisk Inc, Plainsboro, New Jersey, USA."
+      }
+    ],
+    "journal": "Diabetes, obesity &amp; metabolism",
+    "publishedDate": "2026-11-03",
+    "fetchedDate": "2026-11-04",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p7wT24N-2kFHot-a5526e697937a20f\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 9691c8cc-6cb6-4ac9-bd36-8c57ac243b69)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42975689",
     "pmid": "42975689",
     "doi": "10.1007/s00520-026-11434-y",
@@ -12336,46 +12377,5 @@
     "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42555553",
-    "pmid": "42555553",
-    "doi": "10.1111/jce.70474",
-    "title": "Comparative Analysis of Safety Profiles of Pulsed Field and Thermal Energy Atrial Fibrillation Ablation: Insight From the Multicenter Real-World Ablation Registry.",
-    "titlePt": "Comparative Analysis of Safety Profiles of Pulsed Field and Thermal Energy Atrial Fibrillation Ablation: Insight From the Multicenter Real-World Ablation Registry.",
-    "abstract": "Beginning in September 2024, three large-footprint pulsed-field ablation (PFA) systems were introduced in Japan for atrial fibrillation (AF) ablation. To compare acute procedural outcomes and safety profiles between PFA and thermal ablation. This multi-center observational study included 4969 consecutive index AF ablation procedures (69&#x2009;&#xb1;&#x2009;11 years, 1495 women, 2705 paroxysmal) performed between January 2024 and July 2025. Among them, 2817 and 2152 procedures were performed with thermal ablation and PFA (FARAPULSE 53.3%, PulseSelect 41.3%, and VARIPULSE 5.5%), respectively. PFA procedures were performed under deeper sedation (70.5% deep sedation) compared with thermal ablation. The total PFA application numbers were 50&#x2009;&#xb1;&#x2009;13 for FARAPULSE, 49&#x2009;&#xb1;&#x2009;13 for PulseSelect, and 24&#x2009;&#xb1;&#x2009;8.5 for VARIPULSE. Touch-up ablation for pulmonary veins was more frequently required with balloon-based thermal ablation than with PFA (7.2% ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo multicêntrico de ablação de fibrilação atrial (FA) realizado no Japão entre janeiro de 2024 e julho de 2025 comparou os perfis de segurança e desfechos agudos entre ablação por campo pulsado (PFA, *pulsed-field ablation*) e técnicas térmicas convencionais. Com 4.969 procedimentos consecutivos de ablação índice, incluindo 2.152 realizados com PFA, os resultados sugerem diferenças significativas na abordagem anestésica e na necessidade de complementação terapêutica.\n\nOs procedimentos com PFA foram majoritariamente conduzidos sob sedação profunda (70,5%), em contraste com as técnicas térmicas, onde esse percentual não foi reportado. A quantidade média de aplicações de energia variou conforme o sistema PFA utilizado: 50 ± 13 para o FARAPULSE, 49 ± 13 para o PulseSelect e 24 ± 8,5 para o VARIPULSE. Além disso, a necessidade de ablação adicional (*touch-up*) nas veias pulmonares foi significativamente menor com PFA (7,2%) em comparação à ablação térmica por balão (valor não especificado no resumo). Embora o estudo não tenha detalhado a incidência de complicações maiores, como eventos tromboembólicos ou lesões esofágicas, ele reforça a tendência de que o PFA pode reduzir a dependência de aplicações repetidas e ajustes intraprocedimento.\n\nAs limitações incluem a natureza observacional do estudo, a ausência de randomização e a potencial variabilidade nas técnicas entre centros participantes. Ainda não há dados consolidados sobre desfechos a longo prazo, como recorrência de FA ou segurança cardiovascular. Pesquisas futuras devem elucidar o impacto da sedação profunda nos resultados e avaliar a relação custo-efetividade do PFA em comparação às abordagens térmicas tradicionais.\n\n---\n\n**English version**\n\nA multicenter study on atrial fibrillation (AF) ablation conducted in Japan between January 2024 and July 2025 compared the safety profiles and acute outcomes of pulsed-field ablation (PFA) and conventional thermal techniques. Analyzing 4,969 consecutive index ablation procedures—including 2,152 performed with PFA—the findings highlight key differences in anesthetic approach and the need for procedural adjustments.\n\nPFA procedures were predominantly conducted under deep sedation (70.5%), whereas the corresponding rate for thermal ablation was not reported. The average number of energy applications varied by PFA system: 50 ± 13 for FARAPULSE, 49 ± 13 for PulseSelect, and 24 ± 8.5 for VARIPULSE. Additionally, the requirement for *touch-up* ablation in pulmonary veins was significantly lower with PFA (7.2%) compared to balloon-based thermal ablation (specific value not provided in the abstract). While major complications such as thromboembolic events or esophageal injury were not detailed, the study suggests that PFA may reduce the need for repeated applications and intraprocedural adjustments.\n\nStudy limitations include its observational design, lack of randomization, and potential variability in techniques across participating centers. Long-term outcomes, such as AF recurrence or cardiovascular safety, remain unaddressed in this analysis. Future research should clarify the impact of deep sedation on outcomes and evaluate the cost-effectiveness of PFA compared to traditional thermal approaches.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42555553",
-    "authors": [
-      {
-        "name": "Osamu Inaba",
-        "affiliation": "Department of Cardiology, Japanese Red Cross Saitama Hospital, Saitama, Japan."
-      },
-      {
-        "name": "Shinsuke Miyazaki",
-        "affiliation": "Department of Cardiovascular Medicine, Institute of Science Tokyo, Tokyo, Japan."
-      },
-      {
-        "name": "Junichi Nitta",
-        "affiliation": "Department of Cardiology, Sakakibara Heart Institute, Tokyo, Japan."
-      },
-      {
-        "name": "Atsushi Takahashi",
-        "affiliation": "Department of Cardiology, Yokosuka Kyosai Hospital, Kanagawa, Japan."
-      }
-    ],
-    "journal": "Journal of cardiovascular electrophysiology",
-    "publishedDate": "2026-08-05",
-    "fetchedDate": "2026-08-05",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
