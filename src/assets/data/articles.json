@@ -1,5 +1,92 @@
 [
   {
+    "id": "pubmed-42874623",
+    "pmid": "42874623",
+    "doi": "10.1016/S2468-1253(26)00149-4",
+    "title": "Strategies to develop therapeutic cancer vaccines for pancreatic cancer.",
+    "titlePt": "Strategies to develop therapeutic cancer vaccines for pancreatic cancer.",
+    "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the deadliest malignancies. Conventional immunotherapies have shown little clinical benefit, largely due to the low neoantigenicity and profoundly immunosuppressive microenvironment of this cancer. Therapeutic cancer vaccines have emerged as a rational strategy to prime or amplify antitumour immunity, supported by advances in antigen discovery, genomic profiling, and vaccine engineering. Here, we report a review of clinical trials evaluating therapeutic cancer vaccines in PDAC. Eligible studies were identified through searches of ClinicalTrials.gov from database inception to Aug 31, 2025, with manual screening of trial-linked publications up to Jan 31, 2026. 135 records were identified, of which 120 met the eligibility criteria and were included in the qualitative synthesis. Across vaccine platforms-cell-based, nucleic acid-based, protein and peptide-based, microorganism-based, and multiplatform strategies-early-phase clinical stud",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42874623",
+    "authors": [
+      {
+        "name": "Matilde M Coppi",
+        "affiliation": "Ludwig Institute for Cancer Research, Lausanne, Switzerland; Department of Fundamental Oncology, University of Lausanne, Epalinges, Switzerland; Department of Oncology, CHUV, Lausanne, Switzerland; AGORA Cancer Research Center, Lausanne, Switzerland."
+      },
+      {
+        "name": "Michele Graciotti",
+        "affiliation": "Swiss Medical Network, Genolier Innovation Network, Genolier Clinic, Genolier, Switzerland."
+      },
+      {
+        "name": "Antonia Digklia",
+        "affiliation": "Department of Fundamental Oncology, University of Lausanne, Epalinges, Switzerland; Department of Oncology, CHUV, Lausanne, Switzerland."
+      },
+      {
+        "name": "Lana E Kandalaft",
+        "affiliation": "Ludwig Institute for Cancer Research, Lausanne, Switzerland; Department of Fundamental Oncology, University of Lausanne, Epalinges, Switzerland; AGORA Cancer Research Center, Lausanne, Switzerland; Swiss Medical Network, Genolier Innovation Network, Genolier Clinic, Genolier, Switzerland. Electronic address: lana.kandalaft@unil.ch."
+      }
+    ],
+    "journal": "The lancet. Gastroenterology &amp; hepatology",
+    "publishedDate": "2026-11-04",
+    "fetchedDate": "2026-11-05",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "carcinoma",
+      "genomic",
+      "clinical trial",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p86exDp-2kFHot-a55c5dcb9977a212\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 99b79f81-34bb-43a0-8234-65691872ea63)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-41324279",
+    "pmid": "41324279",
+    "doi": "10.1177/15248380251388127",
+    "title": "Effectiveness of Trauma-Focused Interventions in Reducing Externalizing Behaviors Among Traumatized Adolescents: A Systematic Review and Meta-Analysis.",
+    "titlePt": "Effectiveness of Trauma-Focused Interventions in Reducing Externalizing Behaviors Among Traumatized Adolescents: A Systematic Review and Meta-Analysis.",
+    "abstract": "Despite existing literature suggesting the effectiveness of trauma-focused interventions in reducing trauma-related symptoms, notably post-traumatic stress disorder, depression, and anxiety, few studies have specifically evaluated the effectiveness of such interventions on externalizing behaviors-a prevalent concern among traumatized adolescents. Aiming to fulfill this research gap, this systematic review and meta-analysis conducted a thorough search in eight electronic databases, including EBSCO, ERIC, MEDLINE, PubMed, ProQuest, PsycINFO, Scopus, and Web of Science. Twelve studies, which included a total number of 1251 participants, were finalized, and we performed meta-analyses based on a random effect model on Review Manager software (Version 5.4). By systematically reviewing the included studies, we identified trauma-focused interventions-such as Trauma-Focused Cognitive Behavioral Therapy, Narrative Exposure Therapy, Prolonged Exposure Therapy, MASTR/EMDR therapy, and Cognitive Pr",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41324279",
+    "authors": [
+      {
+        "name": "Shan Jiang",
+        "affiliation": "Zhejiang University, Hangzhou, China."
+      },
+      {
+        "name": "Yuhang Cheng",
+        "affiliation": "The Chinese University of Hong Kong, Shatin, New Territories, China."
+      },
+      {
+        "name": "Wenjie Qian",
+        "affiliation": "Zhejiang University, Hangzhou, China."
+      },
+      {
+        "name": "Ziyi Dong",
+        "affiliation": "Zhejiang University, Hangzhou, China."
+      }
+    ],
+    "journal": "Trauma, violence &amp; abuse",
+    "publishedDate": "2026-11-04",
+    "fetchedDate": "2026-11-05",
+    "category": "Saúde Mental",
+    "tags": [
+      "cognitive",
+      "rna",
+      "depression",
+      "anxiety"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p86gCmz-2kFHot-a55c63c11e6ca22b\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 4d19e5d5-92d8-499c-9933-b88aacf05ff4)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42980074",
     "pmid": "42980074",
     "doi": "10.1002/1545-5017.70802",
@@ -12289,94 +12376,6 @@
     ],
     "isHighlight": false,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42568755",
-    "pmid": "42568755",
-    "doi": "10.1016/j.obpill.2026.100305",
-    "title": "Familial health behavioral change in the context of adult treatment with obesity medications.",
-    "titlePt": "Familial health behavioral change in the context of adult treatment with obesity medications.",
-    "abstract": "Childhood obesity is a serious public health crisis in the United States, affecting millions of children annually and is associated with significant, long-term physical and psychological consequences. Family-based behavioral interventions have been shown to be effective in improving obesity-related outcomes in pediatric populations. However, there is limited insight into how adult participation in medical weight management programs may impact household health behaviors. This study explores parent perception of the impact of participation in weight management programs on child health behaviors. This is a qualitative study in which semi-structured interviews were conducted by trained personnel. Adult participants who were enrolled in a medical weight management clinic, had been prescribed obesity medication(s), and had at least one child aged 18 years old or younger living in the same household were included. Interviews were conducted between December 2024 and July 2025. Data analysis wa",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo qualitativo recente investigou como a participação de adultos em programas de tratamento da obesidade com medicamentos pode influenciar os comportamentos de saúde das crianças no mesmo domicílio. Publicado no periódico *Obesity Pillars* (DOI: 10.1016/j.obpill.2026.100305), a pesquisa destaca que, embora intervenções familiares baseadas em comportamentos sejam eficazes no controle da obesidade infantil nos Estados Unidos, ainda há lacunas sobre o impacto indireto da adesão de pais ou responsáveis a terapias medicamentosas para emagrecimento. Os autores conduziram entrevistas semiestruturadas com adultos que estavam em tratamento em uma clínica especializada, haviam recebido prescrição de medicamentos para obesidade e tinham pelo menos um filho com 18 anos ou menos na mesma casa. As entrevistas ocorreram entre dezembro de 2024 e julho de 2025, mas os resultados detalhados não foram incluídos no resumo avaliado.\n\nOs achados preliminares sugerem que a participação dos pais em programas de controle de peso pode desencadear mudanças positivas no ambiente doméstico, como maior conscientização sobre nutrição e atividade física entre as crianças. No entanto, a pesquisa não quantificou a extensão dessas alterações nem identificou fatores específicos que medeiam esse impacto. Além disso, por se tratar de um estudo qualitativo com uma amostra não especificada, os resultados não podem ser generalizados para toda a população. Entre as limitações apontadas, os autores destacam a ausência de dados sobre a duração do tratamento com medicamentos ou a adesão dos participantes, o que poderia influenciar a validade das percepções relatadas.\n\nDo ponto de vista clínico, os resultados reforçam a importância de abordagens integradas que considerem o núcleo familiar no manejo da obesidade, especialmente quando há crianças envolvidas. Embora o estudo não proponha um modelo de intervenção, ele abre caminho para investigações futuras que possam validar essas percepções com metodologias quantitativas e avaliar o potencial de programas de tratamento adulto como ferramenta indireta de prevenção da obesidade infantil. Os próximos passos incluem a análise completa dos dados e possíveis publicações subsequentes com recortes mais detalhados.\n\n---\n\n**English version**\n\nA recent qualitative study explored how adults’ participation in obesity treatment programs involving medications may influence the health behaviors of children in the same household. Published in *Obesity Pillars* (DOI: 10.1016/j.obpill.2026.100305), the research highlights that while family-based behavioral interventions are effective in addressing childhood obesity in the United States, there remains limited insight into the indirect effects of parents’ adherence to weight-loss medications on household dynamics. The authors conducted semi-structured interviews with adults enrolled in a specialized weight management clinic, prescribed obesity medications, and living with at least one child aged 18 or younger. Interviews were carried out between December 2024 and July 2025, though detailed findings were not provided in the reviewed abstract.\n\nPreliminary findings suggest that parental engagement in weight control programs may trigger positive shifts in home environments, such as increased awareness of nutrition and physical activity among children. However, the study did not quantify the extent of these changes nor identify specific mediating factors. As a qualitative study with an unspecified sample size, the results cannot be generalized to broader populations. The authors acknowledge limitations including the lack of data on medication treatment duration or participant adherence, which could affect the validity of reported perceptions.\n\nFrom a clinical perspective, the findings underscore the value of integrated approaches that consider the family unit in obesity management, particularly when children are involved. While the study does not propose an intervention model, it paves the way for future research to validate these perceptions through quantitative methodologies and assess whether adult treatment programs can serve as indirect tools for preventing childhood obesity. Next steps include full data analysis and potential follow-up publications with more detailed insights.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42568755",
-    "authors": [
-      {
-        "name": "Treah Haggerty",
-        "affiliation": "Department of Family and Community Medicine, West Virginia University School of Medicine, 6040 University Town Centre Drive, Morgantown, WV, 26501, USA."
-      },
-      {
-        "name": "Jennifer M Ludrosky",
-        "affiliation": "Department of Behavioral Medicine &amp; Psychiatry, Rockefeller Neurosciences Institute, West Virginia University School of Medicine, 930 Chestnut Ridge Rd, Morgantown, WV, 26508, USA."
-      },
-      {
-        "name": "Molly Powney",
-        "affiliation": "West Virginia University School of Medicine, 1 Medical Center Drive, Morgantown, WV, 26506, USA."
-      },
-      {
-        "name": "Reagan Sharp",
-        "affiliation": "West Virginia University School of Medicine, 1 Medical Center Drive, Morgantown, WV, 26506, USA."
-      }
-    ],
-    "journal": "Obesity pillars",
-    "publishedDate": "2026-08-08",
-    "fetchedDate": "2026-08-08",
-    "category": "Pediatria",
-    "tags": [
-      "psychological",
-      "pediatric",
-      "children",
-      "childhood",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42568857",
-    "pmid": "42568857",
-    "doi": "10.1002/joa3.70438",
-    "title": "Pulsed Field Ablation Versus Thermal Ablation for First-Time Pulmonary Vein Isolation in Atrial Fibrillation: A Systematic Review and Meta-Analysis.",
-    "titlePt": "Pulsed Field Ablation Versus Thermal Ablation for First-Time Pulmonary Vein Isolation in Atrial Fibrillation: A Systematic Review and Meta-Analysis.",
-    "abstract": "With over 60 million cases worldwide, atrial fibrillation (AF) is one of the most common cardiac arrhythmias in adults. Pulsed-field ablation (PFA) has emerged as a significant alternative to thermal ablation for pulmonary vein isolation (PVI). This systematic review and meta-analysis investigated the efficacy and safety of PFA versus thermal ablation in patients undergoing first-time PVI. We systematically searched PubMed, Scopus, Web of Science, and Cochrane Library from inception to 2025. Hazard ratios (HRs) with 95% confidence intervals (CIs) were derived from reconstructed Kaplan-Meier survival curves to compare atrial tachyarrhythmia recurrence between PFA and thermal ablation. Random-effects models were used to compare AF recurrence, durable PVI, redo procedures, phrenic nerve palsy (PNP), and other safety outcomes between the two groups. A total of 27 studies comprising 8546 patients were included. Kaplan-Meier reconstruction from ten studies demonstrated higher 12-month arrhyt",
-    "journalisticSummary": "A ablação por campo pulsado (PFA) tem se destacado como uma alternativa promissora à ablação térmica tradicional para o isolamento das veias pulmonares (PVI) em pacientes com fibrilação atrial (FA), uma das arritmias cardíacas mais prevalentes, afetando mais de 60 milhões de pessoas globalmente. Um estudo recentemente publicado no *Journal of Arrhythmia* realizou uma revisão sistemática e meta-análise para comparar a eficácia e a segurança da PFA em relação à ablação térmica — seja por radiofrequência ou crioablação — em pacientes submetidos pela primeira vez ao PVI. A análise, que incluiu 27 estudos com 8.546 pacientes, utilizou modelos de efeitos aleatórios para avaliar desfechos como recorrência de taquiarritmia atrial, sucesso do isolamento venoso pulmonar, necessidade de reintervenções, paralisia do nervo frênico e outros eventos adversos.\n\nOs resultados indicaram que a PFA apresentou uma redução significativa na recorrência de FA em 12 meses quando comparada à ablação térmica, conforme reconstrução de curvas de Kaplan-Meier a partir de dez estudos incluídos na análise. Em relação à segurança, a PFA demonstrou menor incidência de paralisia do nervo frênico, um efeito adverso conhecido da ablação térmica. No entanto, não foram fornecidas informações detalhadas sobre outros desfechos de segurança ou características basais dos pacientes, como idade média ou comorbidades, o que limita uma interpretação mais abrangente dos dados. Além disso, a heterogeneidade entre os estudos e a ausência de randomização em muitos deles introduzem vieses potenciais na comparação.\n\nEmbora os achados sugiram que a PFA pode ser uma opção mais eficaz e segura para o PVI inicial, são necessários ensaios clínicos randomizados de maior porte, com seguimento prolongado, para confirmar esses resultados e avaliar desfechos a longo prazo, como a progressão da doença e a necessidade de terapias adicionais. A padronização de protocolos e a avaliação de custos também são aspectos críticos para a incorporação da PFA na prática clínica rotineira, especialmente em sistemas de saúde com recursos limitados.\n\n---\n\nPulsed-field ablation (PFA) has emerged as a promising alternative to traditional thermal ablation for pulmonary vein isolation (PVI) in patients with atrial fibrillation (AF), one of the most prevalent cardiac arrhythmias affecting over 60 million people worldwide. A recent study published in the *Journal of Arrhythmia* conducted a systematic review and meta-analysis to compare the efficacy and safety of PFA against thermal ablation—including radiofrequency and cryoablation—in patients undergoing first-time PVI. The analysis, which included 27 studies involving 8,546 patients, used random-effects models to evaluate outcomes such as atrial tachyarrhythmia recurrence, durable PVI, redo procedures, phrenic nerve palsy (PNP), and other adverse events.\n\nThe findings indicated that PFA was associated with a significantly lower recurrence of AF at 12 months compared to thermal ablation, based on Kaplan-Meier curve reconstructions from ten included studies. In terms of safety, PFA demonstrated a lower incidence of phrenic nerve palsy, a known adverse effect of thermal ablation. However, the study did not provide detailed data on other safety outcomes or baseline patient characteristics, such as mean age or comorbidities, which limits a more comprehensive interpretation. Additionally, the heterogeneity among studies and the lack of randomization in many of them introduce potential biases in the comparison.\n\nWhile the results suggest that PFA may be a more effective and safer option for initial PVI, larger randomized controlled trials with extended follow-up are needed to validate these findings and assess long-term outcomes, such as disease progression and the need for additional therapies. Standardizing protocols and evaluating cost-effectiveness are also critical for the integration of PFA into routine clinical practice, particularly in resource-limited healthcare systems.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42568857",
-    "authors": [
-      {
-        "name": "Yousef Radwan Alnomani",
-        "affiliation": "Faculty of Medicine Benha University Benha Egypt."
-      },
-      {
-        "name": "Abdelaziz A Awad",
-        "affiliation": "Medical Research Group of Egypt (MRGE) Cairo Egypt."
-      },
-      {
-        "name": "Ahmed Abdelaziz",
-        "affiliation": "Medical Research Group of Egypt (MRGE) Cairo Egypt."
-      },
-      {
-        "name": "Mazen Negmeldin Aly Yassin",
-        "affiliation": "Faculty of Medicine Al-Azhar University Cairo Egypt."
-      }
-    ],
-    "journal": "Journal of arrhythmia",
-    "publishedDate": "2026-08-08",
-    "fetchedDate": "2026-08-08",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiac",
-      "atrial",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
