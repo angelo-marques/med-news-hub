@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42980074",
+    "pmid": "42980074",
+    "doi": "10.1002/1545-5017.70802",
+    "title": "Effects of Creative Arts Therapy on Psychological Outcomes and Stress-Related Physiological Markers in Children With Cancer: A Systematic Review.",
+    "titlePt": "Effects of Creative Arts Therapy on Psychological Outcomes and Stress-Related Physiological Markers in Children With Cancer: A Systematic Review.",
+    "abstract": "Children with cancer frequently experience psychological distress and symptom-related challenges during diagnosis, treatment, and hospitalization. Creative arts therapy (CAT) has been used as a complementary approach to support emotional expression, coping, and stress regulation; however, its effects on psychological outcomes and stress-related physiological markers remain unclear. This systematic review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA). The CINAHL, Cochrane, Embase, PubMed, Scopus, and Web of Sciences databases were searched for quantitative studies published between 2014 and 2025. Eligible studies included children and adolescents with cancer who received CAT. A total of 4860 records were identified, of which 26 studies met the inclusion criteria and were synthesized narratively. CAT was generally associated with reductions in anxiety, depression, stress, distress, fear, procedural pain, and emotional dis",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42980074",
+    "authors": [
+      {
+        "name": "Kristiawati Kristiawati",
+        "affiliation": "Departement of Pediatric and Maternity Nursing, Faculty of Nursing, Universitas Airlangga, Surabaya, East Java, Indonesia."
+      },
+      {
+        "name": "Nursalam Nursalam",
+        "affiliation": "Department of Medical-Surgical, Emergency, Disaster, and Critical Care Nursing, Faculty of Nursing, Universitas Airlangga, Surabaya, East Java, Indonesia."
+      },
+      {
+        "name": "Arina Qona'ah",
+        "affiliation": "Department of Medical-Surgical, Emergency, Disaster, and Critical Care Nursing, Faculty of Nursing, Universitas Airlangga, Surabaya, East Java, Indonesia."
+      },
+      {
+        "name": "Idyatul Hasanah",
+        "affiliation": "Department of Nursing, Faculty of Nursing, Institut Kesehatan Yarsi Mataram, Mataram, West Nusa Tenggara, Indonesia."
+      }
+    ],
+    "journal": "Pediatric blood &amp; cancer",
+    "publishedDate": "2026-11-04",
+    "fetchedDate": "2026-11-05",
+    "category": "Saúde Mental",
+    "tags": [
+      "cancer",
+      "gene",
+      "depression",
+      "anxiety",
+      "psychological"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p82s17S-2kFHot-a5584611983ea9d2\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 0655fc9f-76b3-4ee0-ab27-27455ef216fb)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42548114",
     "pmid": "42548114",
     "doi": "10.1111/his.70250",
@@ -12333,48 +12377,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42566118",
-    "pmid": "42566118",
-    "doi": "10.1007/s12975-026-01487-w",
-    "title": "From Recanalization to Failed Recovery: No Reflow, No Rescue, and No Regrow After Thrombectomy.",
-    "titlePt": "From Recanalization to Failed Recovery: No Reflow, No Rescue, and No Regrow After Thrombectomy.",
-    "abstract": "Despite the remarkable technical success of endovascular thrombectomy (EVT) in achieving high recanalization rates for acute ischemic stroke due to large vessel occlusion (LVO), angiographic success does not consistently translate into functional recovery. Approximately 50% of successfully recanalized patients failed to achieve functional independence at 90&#xa0;days, a phenomenon termed futile recanalization (FR). Futile recanalization highlights the biological limitations of macrovascular reperfusion alone. We propose a mechanistic framework for FR centered on the \"3 R's\" of stroke recovery: No-Reflow, No-Rescue, and No-Regrow. No-Reflow refers to microvascular failure despite proximal recanalization, driven by capillary obstruction, endothelial injury, pericyte constriction, and thromboinflammatory processes. No-Rescue describes secondary loss of initially salvageable neurons due to complement activation, neuroinflammation, oxidative stress, and blood-brain barrier dysfunction. No-R",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm dos avanços mais significativos no tratamento do acidente vascular cerebral isquêmico (AVCi) por oclusão de grande vaso (OVG) foi a trombectomia endovascular (TEV), que alcança altas taxas de recanalização vascular. Contudo, estudos recentes revelam uma lacuna crítica: mesmo quando a recanalização é tecnicamente bem-sucedida, até 50% dos pacientes não apresentam recuperação funcional independente após 90 dias, fenômeno conhecido como *futile recanalization* (FR). Essa limitação evidencia que a reperfusão macrovascular isolada não é suficiente para garantir desfechos clínicos favoráveis, sinalizando a necessidade de abordar mecanismos biológicos subjacentes.\n\nPesquisadores propõem um novo framework mecanicista para a FR, estruturado nos \"3 R's\" da recuperação pós-AVC: *No-Reflow*, *No-Rescue* e *No-Regrow*. O *No-Reflow* refere-se à falha microvascular mesmo após a recanalização proximal, decorrente de obstrução capilar, lesão endotelial, constrição de pericitos e processos tromboinflamatórios. O *No-Rescue* descreve a perda secundária de neurônios inicialmente viáveis, impulsionada por ativação do complemento, neuroinflamação, estresse oxidativo e disfunção da barreira hematoencefálica. Por fim, o *No-Regrow* aborda a incapacidade de regeneração tecidual, com implicações para terapias futuras. Embora o estudo não forneça dados quantitativos específicos sobre a incidência de cada \"R\", a proposta oferece um modelo conceitual para investigar as barreiras biológicas à recuperação funcional.\n\nO impacto clínico dessa estrutura é substancial. Ela sugere que estratégias complementares à TEV — como terapias neuroprotetoras, moduladores da resposta inflamatória ou abordagens para restaurar a microcirculação — poderiam reduzir a FR. No entanto, o estudo não detalha intervenções testadas ou protocolos clínicos específicos. Além disso, a ausência de marcadores biológicos validados para identificar pacientes em risco de FR limita a aplicabilidade imediata desse framework na prática.\n\nOs próximos passos incluem estudos prospectivos para validar os \"3 R's\" como alvos terapêuticos, além do desenvolvimento de biomarcadores preditivos. Pesquisas futuras também devem explorar terapias combinadas que integrem TEV com intervenções direcionadas à microvasculatura e ao tecido cerebral. Enquanto isso, o modelo proposto serve como um ponto de partida para repensar abordagens holísticas no manejo do AVCi, priorizando não apenas a recanalização, mas a verdadeira recuperação funcional.\n\n---\n\n**English version**\n\nOne of the most significant advancements in treating acute ischemic stroke (AIS) due to large vessel occlusion (LVO) has been endovascular thrombectomy (EVT), which achieves high recanalization rates. Yet recent findings highlight a critical gap: even when vascular recanalization is technically successful, up to 50% of patients fail to achieve functional independence at 90 days—a phenomenon known as *futile recanalization* (FR). This limitation underscores that macrovascular reperfusion alone is insufficient to ensure favorable clinical outcomes, emphasizing the need to address underlying biological mechanisms.\n\nResearchers propose a mechanistic framework for FR centered on the \"3 R's\" of stroke recovery: *No-Reflow*, *No-Rescue*, and *No-Regrow*. *No-Reflow* refers to microvascular failure despite proximal recanalization, driven by capillary obstruction, endothelial injury, pericyte constriction, and thromboinflammatory processes. *No-Rescue* describes the secondary loss of initially salvageable neurons due to complement activation, neuroinflammation, oxidative stress, and blood-brain barrier dysfunction. Finally, *No-Regrow* addresses the inability of tissue regeneration, with implications for future therapies. While the study does not provide specific quantitative data on the incidence of each \"R,\" the framework offers a conceptual model to investigate the biological barriers to functional recovery.\n\nThe clinical impact of this structure is substantial. It suggests that strategies complementary to EVT—such as neuroprotective therapies, modulators of inflammatory responses, or approaches to restore microcirculation—could reduce FR. However, the study does not outline tested interventions or specific clinical protocols. Additionally, the lack of validated biological markers to identify patients at risk of FR limits the immediate applicability of this framework in practice.\n\nNext steps include prospective studies to validate the \"3 R's\" as therapeutic targets, as well as the development of predictive biomarkers. Future research should also explore combination therapies that integrate EVT with interventions targeting the microvasculature and brain tissue. In the meantime, the proposed model serves as a starting point for rethinking holistic approaches to AIS management, prioritizing not just recanalization but true functional recovery.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42566118",
-    "authors": [
-      {
-        "name": "Ariana Chacon",
-        "affiliation": "Department of Neurosurgery, Emory University School of Medicine, 1365 Clifton Rd, Suite B6200, Atlanta, GA, 30322, USA."
-      },
-      {
-        "name": "Dareen Hijazi",
-        "affiliation": "Department of Neurosurgery, Emory University School of Medicine, 1365 Clifton Rd, Suite B6200, Atlanta, GA, 30322, USA."
-      },
-      {
-        "name": "Ali Tfaily",
-        "affiliation": "Department of Neurosurgery, Emory University School of Medicine, 1365 Clifton Rd, Suite B6200, Atlanta, GA, 30322, USA."
-      },
-      {
-        "name": "Brian M Howard",
-        "affiliation": "Department of Neurosurgery, Emory University School of Medicine, 1365 Clifton Rd, Suite B6200, Atlanta, GA, 30322, USA."
-      }
-    ],
-    "journal": "Translational stroke research",
-    "publishedDate": "2026-08-07",
-    "fetchedDate": "2026-08-07",
-    "category": "Neurologia",
-    "tags": [
-      "brain",
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
