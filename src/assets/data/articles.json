@@ -237,6 +237,47 @@
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p88sxMd-2kFHot-a55ec44bda6807d1\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 9555afe8-ff11-45e0-bdad-4b4183b04438)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   },
   {
+    "id": "pubmed-42982755",
+    "pmid": "42982755",
+    "doi": "10.1002/alz.71964",
+    "title": "Locus coeruleus microstructural integrity and sleep disruption in the context of Alzheimer's disease pathology.",
+    "titlePt": "Locus coeruleus microstructural integrity and sleep disruption in the context of Alzheimer's disease pathology.",
+    "abstract": "The locus coeruleus (LC) is among the first sites of tau pathology in Alzheimer's disease (AD) and plays a key role in sleep-wake regulation. However, evidence linking LC integrity to objective sleep measures in the context of emerging AD pathology remains limited. Thirty-nine cognitively unimpaired older adults underwent dedicated LC and neurite orientation dispersion and density imaging at 7T magnetic resonance imaging, actigraphy, and quantification of plasma AD-related biomarkers. A subsample of 20 individuals also completed at-home sleep electroencephalogram (EEG) recordings. Lower LC orientation dispersion index, indicating lower complexity in the arborization of LC neurites, was associated with actigraphy- and EEG-derived measures of shorter and more fragmented sleep. These associations were exacerbated at elevated plasma phosphorylated tau 217 and glial fibrillary acidic protein concentrations. Our findings provide in vivo evidence of the LC's involvement in sleep disruption, a",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42982755",
+    "authors": [
+      {
+        "name": "Maxime Van Egroo",
+        "affiliation": "Faculty of Health, Medicine and Life Sciences, Mental Health and Neuroscience Research Institute, Alzheimer Centre Limburg, Maastricht University, Maastricht, the Netherlands."
+      },
+      {
+        "name": "Yuliya Patsyuk",
+        "affiliation": "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital and Harvard Medical School, Boston, Massachusetts, USA."
+      },
+      {
+        "name": "Marion Baillet",
+        "affiliation": "Faculty of Health, Medicine and Life Sciences, Mental Health and Neuroscience Research Institute, Alzheimer Centre Limburg, Maastricht University, Maastricht, the Netherlands."
+      },
+      {
+        "name": "Nicholas M Vogt",
+        "affiliation": "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital and Harvard Medical School, Boston, Massachusetts, USA."
+      }
+    ],
+    "journal": "Alzheimer's &amp; dementia : the journal of the Alzheimer's Association",
+    "publishedDate": "2026-11-04",
+    "fetchedDate": "2026-11-06",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "cognitive"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8EDZYL-2kFHot-a5648719b9da0abe\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 4a9f6f08-8d65-4e38-9f7b-1d91cd7191dc)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42874623",
     "pmid": "42874623",
     "doi": "10.1016/S2468-1253(26)00149-4",
@@ -12312,48 +12353,6 @@
       "rna",
       "vaccine",
       "antibody"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42508138",
-    "pmid": "42508138",
-    "doi": "10.1016/j.clineuro.2026.109572",
-    "title": "Time-independent value of IV thrombolysis in stroke thrombectomy: Evidence from a multicenter cohort.",
-    "titlePt": "Time-independent value of IV thrombolysis in stroke thrombectomy: Evidence from a multicenter cohort.",
-    "abstract": "While endovascular thrombectomy (EVT) has revolutionized acute ischemic stroke (AIS) treatment, the benefit of pre-treatment with intravenous thrombolysis (IVT) remains uncertain. This study aimed to evaluate whether IVT was associated with improved EVT outcomes when patients undergo EVT within or beyond the 4.5-hour window. We retrospectively analyzed AIS patients with anterior circulation large vessel occlusion (LVO) treated at 46 international stroke centers from 2016 to 2025. Adults included were categorized as early-thrombectomy (EVT performed within 4.5&#x202f;h of onset) or late-thrombectomy (EVT performed after 4.5&#x202f;h of onset) based on the time from onset to presentation to thrombectomy center. Patients were further bifurcated by IVT status. Outcomes included functional independence (90-day mRS 0-2), successful recanalization, embolization to new territory, and symptomatic intracranial hemorrhage (sICH). Multiple logistic regression, interaction testing and propensity sc",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo multicêntrico internacional publicado recentemente no *Clinical Neurology* lança nova luz sobre o papel da trombólise intravenosa (IVT) em pacientes com acidente vascular cerebral isquêmico agudo (AVCi) submetidos à trombectomia endovascular (EVT). Pesquisadores analisaram dados de 46 centros de AVC em diferentes países, abrangendo um período de dez anos (2016-2025), para avaliar se a administração prévia de IVT — antes da EVT — melhora os desfechos clínicos em dois cenários distintos: quando a EVT é realizada dentro ou além das 4,5 horas do início dos sintomas.\n\nOs resultados, obtidos por meio de regressão logística múltipla e testes de interação, sugerem que a IVT não confere benefício adicional significativo na independência funcional em 90 dias (mRS 0-2) ou na recanalização bem-sucedida, independentemente do intervalo até a EVT. A incidência de embolização para novo território e de hemorragia intracraniana sintomática (sICH) também não apresentou diferenças estatisticamente relevantes entre os grupos com e sem IVT. Esses achados foram consistentes tanto para pacientes tratados precocemente (EVT ≤ 4,5 horas) quanto tardiamente (EVT > 4,5 horas).\n\nEmbora o estudo não tenha identificado vantagens clínicas da IVT como terapia adjuvante à EVT, os autores destacam que a ausência de benefício não deve ser interpretada como evidência contra o uso rotineiro da trombólise, especialmente em pacientes elegíveis dentro da janela terapêutica padrão. No entanto, os resultados reforçam a necessidade de protocolos personalizados, considerando que a IVT pode acarretar riscos hemorrágicos em subgrupos específicos. Entre as limitações, os pesquisadores citam o caráter retrospectivo do estudo, a variabilidade entre centros e a possibilidade de viés de seleção, já que critérios de elegibilidade para IVT não foram uniformizados.\n\nComo próximos passos, os autores propõem estudos prospectivos randomizados para validar esses achados, além das investigações sobre marcadores biológicos que possam identificar pacientes que realmente se beneficiariam da combinação das duas terapias.\n\n---\n\n**English version**\n\nA multicenter international study published in *Clinical Neurology* provides new insights into the role of intravenous thrombolysis (IVT) in patients with acute ischemic stroke (AIS) undergoing endovascular thrombectomy (EVT). Researchers analyzed data from 46 stroke centers across multiple countries over a decade (2016–2025) to determine whether pre-treatment with IVT—before EVT—improves clinical outcomes in two distinct scenarios: when EVT is performed within or beyond 4.5 hours of symptom onset.\n\nFindings from multiple logistic regression and interaction testing suggest that IVT does not provide a significant additional benefit in terms of 90-day functional independence (mRS 0–2) or successful recanalization, regardless of the time interval to EVT. The incidence of embolization to new territory and symptomatic intracranial hemorrhage (sICH) also showed no statistically significant differences between groups with and without IVT. These results were consistent for both early-treated patients (EVT ≤ 4.5 hours) and those treated later (EVT > 4.5 hours).\n\nWhile the study did not identify clinical advantages of IVT as an adjunct to EVT, the authors emphasize that the absence of benefit should not be interpreted as evidence against routine IVT use, particularly in eligible patients within the standard therapeutic window. However, the findings support the need for personalized protocols, as IVT may pose hemorrhagic risks in specific subgroups. Limitations include the retrospective design, inter-center variability, and potential selection bias due to non-uniform IVT eligibility criteria.\n\nFuture steps proposed by the authors include prospective randomized trials to validate these findings, as well as investigations into biological markers that could identify patients who may truly benefit from combined therapy.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42508138",
-    "authors": [
-      {
-        "name": "Ariana Chacon",
-        "affiliation": "Department of Neurosurgery, Emory University School of Medicine, Atlanta, GA, USA."
-      },
-      {
-        "name": "Francesca Giraudo",
-        "affiliation": "Department of Neurosurgery, Emory University School of Medicine, Atlanta, GA, USA."
-      },
-      {
-        "name": "Jonathan A Grossberg",
-        "affiliation": "Department of Neurosurgery, Emory University School of Medicine, Atlanta, GA, USA."
-      },
-      {
-        "name": "Tianwen Ma",
-        "affiliation": "Department of Biostatistics and Bioinformatics, Emory University, Atlanta, GA, USA."
-      }
-    ],
-    "journal": "Clinical neurology and neurosurgery",
-    "publishedDate": "2026-08-11",
-    "fetchedDate": "2026-08-12",
-    "category": "Neurologia",
-    "tags": [
-      "stroke",
-      "rna"
     ],
     "isHighlight": false,
     "readTime": 10,
