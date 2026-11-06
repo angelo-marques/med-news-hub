@@ -1,5 +1,123 @@
 [
   {
+    "id": "pubmed-42798186",
+    "pmid": "42798186",
+    "doi": "10.1111/joim.70165",
+    "title": "Vascular Ehlers-Danlos syndrome: A multidisciplinary clinical framework for early suspicion, emergency-safe management and lifelong care.",
+    "titlePt": "Vascular Ehlers-Danlos syndrome: A multidisciplinary clinical framework for early suspicion, emergency-safe management and lifelong care.",
+    "abstract": "Vascular Ehlers-Danlos syndrome (vEDS), caused by likely pathogenic COL3A1 variants, carries a high risk of arterial dissection or rupture, intestinal perforation and uterine rupture, and a median survival near 51 years. It is often recognized only at a catastrophe, and its acute management is deliberately counter-intuitive. The therapeutic landscape changed in 2025 with the first randomized evidence for an angiotensin-receptor blocker. We provide a clinical, practice-oriented review for internists and the multidisciplinary team. As is appropriate for a rare disease, case-level evidence was considered alongside cohorts and trials. Suspicion is the rate-limiting step, and we set out speciality-specific red flags. Diagnosis requires molecular confirmation, with differentiation from other heritable arteriopathies. Genotype is a probabilistic predisposition, not a deterministic predictor: there is ascertainment bias, reduced penetrance and intrafamilial variability temper inference. Emerge",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42798186",
+    "authors": [
+      {
+        "name": "Salvatore Corrao",
+        "affiliation": "Department of Clinical Medicine, Internal Medicine Unit (with Rheumatology, Dermatology, Diabetology and Tertiary Diabetic-Foot Care), ARNAS Civico, Di Cristina, Benfratelli, Palermo, Italy."
+      },
+      {
+        "name": "Maria Irene Ruggeri",
+        "affiliation": "Department of Health Promotion Sciences, Maternal and Infant Care, Internal Medicine and Medical Specialties (PROMISE), University of Palermo, Palermo, Italy."
+      },
+      {
+        "name": "Antonino Di Benedetto",
+        "affiliation": "Department of Clinical Medicine, Internal Medicine Unit (with Rheumatology, Dermatology, Diabetology and Tertiary Diabetic-Foot Care), ARNAS Civico, Di Cristina, Benfratelli, Palermo, Italy."
+      },
+      {
+        "name": "Giacomo Corrao",
+        "affiliation": "Department of Clinical Medicine, Internal Medicine Unit (with Rheumatology, Dermatology, Diabetology and Tertiary Diabetic-Foot Care), ARNAS Civico, Di Cristina, Benfratelli, Palermo, Italy."
+      }
+    ],
+    "journal": "Journal of internal medicine",
+    "publishedDate": "2026-11-06",
+    "fetchedDate": "2026-11-06",
+    "category": "Farmacologia",
+    "tags": [
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8GG1sB-2kFHot-a566bb5a2b598596\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 578d81b2-ec99-4e1a-836d-f2928ef5fb23)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42992326",
+    "pmid": "42992326",
+    "doi": "10.7759/cureus.119147",
+    "title": "Biomarker Testing, Imaging, and Outcomes in Cardiology-Referred Acute Breathlessness: A Retrospective Clinical Audit.",
+    "titlePt": "Biomarker Testing, Imaging, and Outcomes in Cardiology-Referred Acute Breathlessness: A Retrospective Clinical Audit.",
+    "abstract": "Background Breathlessness is a leading cause of emergency hospital attendances, and its multifactorial nature often reflects overlapping cardiopulmonary pathologies such as pulmonary embolism (PE), heart failure (HF), and acute coronary syndrome (ACS). Computed tomography pulmonary angiography (CTPA) is frequently used, often without documented pretest probability assessments. This audit primarily assessed the diagnostic yield of CTPA for suspected PE against the Royal College of Radiologists (RCR) standard of &#x2265;15% and secondarily described biomarker testing, imaging, and outcomes across the PE, HF, and ACS pathways in patients referred to cardiology with acute breathlessness. Methods We conducted a retrospective audit of 70 adults referred to cardiology with breathlessness through the electronic patient record or multiprofessional team list (MPTL) referral systems at a district general hospital in the United Kingdom between March 1 and June 30, 2025. Biomarker testing for D-dim",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42992326",
+    "authors": [
+      {
+        "name": "Jishel Mathews",
+        "affiliation": "Internal Medicine, Sandwell and West Birmingham NHS Trust, Birmingham, GBR."
+      },
+      {
+        "name": "Rana Kashif Riaz",
+        "affiliation": "Cardiology, Sandwell and West Birmingham NHS Trust, Birmingham, GBR."
+      },
+      {
+        "name": "Ayesha Kazi",
+        "affiliation": "Internal Medicine, Sandwell and West Birmingham NHS Trust, Birmingham, GBR."
+      },
+      {
+        "name": "Shamim Rahman",
+        "affiliation": "Cardiology, Sandwell and West Birmingham NHS Trust, Birmingham, GBR."
+      }
+    ],
+    "journal": "Cureus",
+    "publishedDate": "2026-11-06",
+    "fetchedDate": "2026-11-06",
+    "category": "Cardiologia",
+    "tags": [
+      "heart",
+      "coronary",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8GG7SC-2kFHot-a566bbceef84ae26\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: e86da868-09c7-42a6-86d1-bc1eaf3c11fd)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42992716",
+    "pmid": "42992716",
+    "doi": "10.1080/08880018.2026.2754751",
+    "title": "Tolvaptan in the treatment of SIADH-associated hyponatremia in acute lymphoblastic leukemia and lymphoblastic lymphoma: a retrospective study.",
+    "titlePt": "Tolvaptan in the treatment of SIADH-associated hyponatremia in acute lymphoblastic leukemia and lymphoblastic lymphoma: a retrospective study.",
+    "abstract": "Hyponatremia due to syndrome of inappropriate antidiuretic hormone secretion (SIADH) is a recognized complication of chemotherapy in children. Fluid restriction, the conventional management strategy, is often challenging in pediatric oncology due to competing requirements for hydration and nutritional support. Evidence for the use of tolvaptan in this setting remains limited.This retrospective study evaluated the efficacy and safety of tolvaptan in chemotherapy-associated SIADH. Seventeen patients were included, with eight managed using supportive therapy (January 2021-April 2023) and nine receiving tolvaptan (May 2023-November 2025). The primary outcome was time to serum sodium normalization (&#x2265;135 mEq/L). Secondary outcomes included 24-h sodium correction, recurrence, and safety.Tolvaptan resulted in a significant increase in serum sodium at 24&#x2009;h (mean increase 6.5 mEq/L, p&#x2009;=&#x2009;0.006) and a markedly shorter median time to normalization compared with conventio",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42992716",
+    "authors": [
+      {
+        "name": "Aditi Jain",
+        "affiliation": "Department of Pediatrics, Kasturba Medical College, Mangalore Manipal Academy of Higher Education, Karnataka, Manipal, 576 104, India."
+      },
+      {
+        "name": "Harsha Prasada Lashkari",
+        "affiliation": "Department of Pediatrics, Kasturba Medical College, Mangalore Manipal Academy of Higher Education, Karnataka, Manipal, 576 104, India."
+      }
+    ],
+    "journal": "Pediatric hematology and oncology",
+    "publishedDate": "2026-11-06",
+    "fetchedDate": "2026-11-06",
+    "category": "Oncologia",
+    "tags": [
+      "oncology",
+      "leukemia",
+      "lymphoma",
+      "chemotherapy",
+      "pediatric"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8GHF8B-2kFHot-a566c1346eddad05\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 6e158a9e-1f9e-4561-a841-32883e345c91)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42392508",
     "pmid": "42392508",
     "doi": "10.1016/j.jtct.2026.06.048",
@@ -12236,126 +12354,6 @@
     ],
     "isHighlight": false,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42582219",
-    "pmid": "42582219",
-    "doi": "10.37349/etat.2026.1002397",
-    "title": "Bioethical challenges in the implementation of targeted anti-tumor therapies in low-resource settings: a perspective from Latin America.",
-    "titlePt": "Bioethical challenges in the implementation of targeted anti-tumor therapies in low-resource settings: a perspective from Latin America.",
-    "abstract": "Precision oncology has revolutionized cancer care in high-income countries, but its implementation in Latin American low-resource settings faces profound bioethical dilemmas. This study analyzes these challenges through the lens of social justice and equity. An integrative review was conducted following the Whittemore and Knafl framework. A systematic search was performed across PubMed, Scopus, SciELO, and LILACS (2015-2025). Thematic synthesis was applied to integrate empirical data with normative bioethical theories. Four major analytical themes were identified: 1) The innovation paradox and financial toxicity, where prohibitive pricing (exceeding 100,000 USD/year) violates distributive justice and leads to a biological penalty in survival; 2) Infrastructure deficits and epistemic injustice, highlighted by a 9.4% access rate to next-generation sequencing (NGS) and the risks of applying Eurocentric genomic data to admixed LA populations; 3) Research vulnerability, where clinical trial",
-    "journalisticSummary": "No enfrentamento das desigualdades globais em oncologia, um estudo recente publicado na *Expert Review of Anticancer Therapy* lança luz sobre os dilemas bioéticos que restringem o acesso a terapias-alvo em países latino-americanos com recursos limitados. Ao analisar dados de bases como PubMed, Scopus, SciELO e LILACS entre 2015 e 2025, pesquisadores identificaram obstáculos estruturais que perpetuam a exclusão de pacientes de precisão oncológica. A revisão integrativa, conduzida sob o arcabouço de Whittemore e Knafl, revelou quatro temas centrais: a paradoxal coexistência entre inovação tecnológica e toxicidade financeira — com terapias custando mais de 100 mil dólares por ano —, que viola princípios de justiça distributiva e resulta em sobrevida inferior para populações marginalizadas; as deficiências de infraestrutura, ilustradas pela escassa taxa de 9,4% de acesso a sequenciamento de nova geração (NGS); a injustiça epistêmica decorrente da aplicação de dados genômicos eurocêntricos em populações latino-americanas com alta miscigenação; e a vulnerabilidade em pesquisa, onde ensaios clínicos muitas vezes exploram a região sem garantir benefícios equitativos. Os achados sublinham a urgência de políticas públicas que priorizem a adaptação de protocolos terapêuticos às realidades locais, a descentralização de tecnologias diagnósticas e a promoção de colaborações internacionais que não reproduzam assimetrias históricas. Embora o estudo não quantifique o impacto exato dessas barreiras em desfechos clínicos, ele evidencia que a ausência de modelos de precificação flexíveis e de investimentos em capacitação técnica agrava as disparidades já existentes. Como próximos passos, os autores sugerem a criação de consórcios regionais para desenvolvimento de terapias adaptadas e a revisão de diretrizes éticas que garantam a participação equitativa da América Latina nos avanços da oncologia de precisão.\n\n---\n\nIn addressing global inequities in oncology, a recent study published in *Expert Review of Anticancer Therapy* highlights the bioethical dilemmas restricting access to targeted therapies in Latin American low-resource settings. By analyzing data from PubMed, Scopus, SciELO, and LILACS between 2015 and 2025, researchers identified structural barriers perpetuating the exclusion of patients from precision oncology. The integrative review, conducted under the Whittemore and Knafl framework, revealed four central themes: the paradoxical coexistence of technological innovation and financial toxicity—with therapies costing over $100,000 per year—violating principles of distributive justice and resulting in inferior survival outcomes for marginalized populations; infrastructure deficits, exemplified by the limited 9.4% access rate to next-generation sequencing (NGS); epistemic injustice arising from the application of Eurocentric genomic data to highly admixed Latin American populations; and research vulnerability, where clinical trials often exploit the region without ensuring equitable benefits. The findings underscore the urgent need for public policies prioritizing the adaptation of therapeutic protocols to local realities, the decentralization of diagnostic technologies, and the promotion of international collaborations that do not reproduce historical asymmetries. While the study does not quantify the exact impact of these barriers on clinical outcomes, it demonstrates that the absence of flexible pricing models and investments in technical training exacerbates existing disparities. As next steps, the authors propose the creation of regional consortia for the development of adapted therapies and the revision of ethical guidelines to ensure Latin America’s equitable participation in the advancements of precision oncology.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42582219",
-    "authors": [
-      {
-        "name": "Alcides Chaux",
-        "affiliation": "Facultad de Ciencias de la Salud, Universidad Central del Paraguay, Ciudad del Este 7000, Paraguay."
-      }
-    ],
-    "journal": "Exploration of targeted anti-tumor therapy",
-    "publishedDate": "2026-08-12",
-    "fetchedDate": "2026-08-12",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "oncology",
-      "genomic",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42237881",
-    "pmid": "42237881",
-    "doi": "10.1111/bjh.70586",
-    "title": "Cesni-cel (ARI0002h) in ultra-high-risk multiple myeloma with plasma cell leukaemia or central nervous system involvement.",
-    "titlePt": "Cesni-cel (ARI0002h) in ultra-high-risk multiple myeloma with plasma cell leukaemia or central nervous system involvement.",
-    "abstract": "Ultra-high-risk multiple myeloma (uHRMM), defined by extra-medullary disease (EMD, including central nervous system [CNS] or plasma cell leukaemia [PCL]), remains as a predictor of early relapse after chimeric antigen receptor T cell (CAR-T) therapy. We analysed the characteristics, toxicities, response and survival of patients with PCL/CNS-multiple myeloma (MM) treated with cesnicabtagene autoleucel (ARI0002h) at three Spanish centres (2020-2025). PCL was defined as per International Myeloma Working Group (IMWG) 2021 criteria; CNS-MM by leptomeningeal and/or intraparenchymal involvement. Nineteen patients (68% female; median age 61) were included: 12 patients had PCL, 5 had CNS-MM, and 2 had dual involvement. Fifty per cent had primary PCL. In CNS-MM, all had leptomeningeal disease and one had also intraparenchymal lesions. Fifty-seven per cent received CNS-directed therapy. Seventy four per cent harboured high-risk cytogenetics. Median prior lines: 3; 74% had haematopoietic stem cell",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo realizado em três centros espanhóis avaliou a eficácia e segurança do cesnicabtagene autoleucel (ARI0002h), um CAR-T direcionado a BCMA, em pacientes com mieloma múltiplo de altíssimo risco (uHRMM) associado a plasmocitoma extramedular (EMD), incluindo envolvimento do sistema nervoso central (SNC) ou leucemia de células plasmáticas (PCL). Publicado no *British Journal of Haematology*, o estudo analisou 19 pacientes (68% mulheres; idade mediana de 61 anos) tratados entre 2020 e 2025, dos quais 12 apresentavam PCL, 5 tinham envolvimento do SNC e 2 tinham acometimento duplo. Metade dos casos de PCL foram classificados como primários, segundo critérios do *International Myeloma Working Group* (IMWG) de 2021.\n\nEntre os pacientes com envolvimento do SNC, todos apresentavam doença leptomeníngea, com um caso adicional de lesões intraparenquimatosas. Do total, 57% haviam recebido terapia direcionada ao SNC previamente. A maioria (74%) possuía citogenética de alto risco, e a mediana de linhas terapêuticas prévias foi três, com 74% dos pacientes tendo sido submetidos a transplante autólogo de células-tronco hematopoiéticas. Os resultados preliminares indicaram respostas objetivas em uma parcela significativa dos pacientes, embora o estudo não tenha relatado taxas específicas de resposta ou sobrevida livre de progressão.\n\nA toxicidade foi consistente com o perfil conhecido dos CAR-T, incluindo síndrome de liberação de citocinas (CRS) e eventos neurológicos imunomediados (NE), porém o trabalho não detalhou a incidência ou gravidade desses eventos. Os autores destacam que o uHRMM — especialmente com EMD — continua sendo um desafio terapêutico, com recidivas precoces frequentes mesmo após imunoterapia com CAR-T. Embora os achados sugiram potencial atividade clínica em uma população de difícil manejo, a ausência de um grupo controle e o tamanho amostral limitado restringem conclusões definitivas.\n\nOs próximos passos incluem estudos prospectivos com amostras maiores e desenhos controlados para validar esses resultados, além das investigações sobre estratégias para otimizar a penetração do CAR-T no SNC e reduzir toxicidades. A abordagem com ARI0002h representa uma promessa para preencher uma lacuna terapêutica crítica, mas ainda demanda mais evidências para consolidar seu papel no tratamento do mieloma múltiplo de altíssimo risco.\n\n---\n\n**English version**\n\nA retrospective study conducted across three Spanish centers evaluated the efficacy and safety of cesnicabtagene autoleucel (ARI0002h), a BCMA-targeted CAR-T therapy, in patients with ultra-high-risk multiple myeloma (uHRMM) featuring extramedullary disease (EMD), including central nervous system (CNS) involvement or plasma cell leukemia (PCL). Published in the *British Journal of Haematology*, the study analyzed 19 patients (68% female; median age 61) treated between 2020 and 2025, of whom 12 had PCL, 5 had CNS multiple myeloma, and 2 had dual involvement. Half of the PCL cases were classified as primary, according to the *International Myeloma Working Group* (IMWG) 2021 criteria.\n\nAmong patients with CNS involvement, all presented leptomeningeal disease, with one additional case of intraparenchymal lesions. Overall, 57% had received prior CNS-directed therapy. The majority (74%) harbored high-risk cytogenetics, and the median number of prior treatment lines was three, with 74% having undergone autologous hematopoietic stem cell transplantation. Preliminary findings indicated objective responses in a significant subset of patients, though the study did not report specific response rates or progression-free survival.\n\nToxicity profiles aligned with known CAR-T side effects, including cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS), though incidence and severity were not detailed. The authors emphasize that uHRMM—particularly with EMD—remains a therapeutic challenge, with early relapses common even after CAR-T immunotherapy. While the results suggest clinical activity in a difficult-to-treat population, the lack of a control group and small sample size limit definitive conclusions.\n\nFuture directions include prospective studies with larger cohorts and controlled designs to validate these findings, alongside investigations into strategies to enhance CAR-T penetration into the CNS and mitigate toxicities. The ARI0002h approach holds promise for addressing an unmet need in high-risk multiple myeloma, though further evidence is required to define its role in standard care.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42237881",
-    "authors": [
-      {
-        "name": "Carlos Jimenez-Mira",
-        "affiliation": "Hospital Cl&#xed;nic de Barcelona, Institut d'Investigacions Biom&#xe8;diques August Pi i Sunyer (IDIBAPS), Universitat de Barcelona, Barcelona, Spain."
-      },
-      {
-        "name": "Natalia Tovar",
-        "affiliation": "Hospital Cl&#xed;nic de Barcelona, Institut d'Investigacions Biom&#xe8;diques August Pi i Sunyer (IDIBAPS), Universitat de Barcelona, Barcelona, Spain."
-      },
-      {
-        "name": "N&#xfa;ria Mart&#xed;nez-Cibri&#xe1;n",
-        "affiliation": "Hospital Cl&#xed;nic de Barcelona, Institut d'Investigacions Biom&#xe8;diques August Pi i Sunyer (IDIBAPS), Universitat de Barcelona, Barcelona, Spain."
-      },
-      {
-        "name": "Ver&#xf3;nica Gonz&#xe1;lez-Calle",
-        "affiliation": "Complejo Asistencial Universitario de Salamanca, Instituto de Investigaci&#xf3;n Biom&#xe9;dica de Salamanca (IBSAL), Universidad de Salamanca, Salamanca, Spain."
-      }
-    ],
-    "journal": "British journal of haematology",
-    "publishedDate": "2026-08-12",
-    "fetchedDate": "2026-08-12",
-    "category": "Genômica",
-    "tags": [
-      "genetic",
-      "gene",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42248304",
-    "pmid": "42248304",
-    "doi": "10.1016/j.jinf.2026.106784",
-    "title": "Immunogenicity and safety of co-administration of a recombinant shingles vaccine with an mRNA COVID-19 or adjuvanted influenza vaccine: a randomised controlled trial.",
-    "titlePt": "Immunogenicity and safety of co-administration of a recombinant shingles vaccine with an mRNA COVID-19 or adjuvanted influenza vaccine: a randomised controlled trial.",
-    "abstract": "Coverage of the recombinant herpes zoster vaccine (RZV) could be improved by coadministration with seasonal vaccines. We evaluated the immunogenicity and safety of co-administration of the first or second dose of RZV with an adjuvanted quadrivalent influenza vaccine (aQIV), or mRNA COVID-19 vaccine. A multicentre, randomised, controlled, non-inferiority phase 4 trial with masking, across 13 sites. Healthy adults &#x2265;50 years were randomised (1:1:2:2:2) to one of five groups. Co-primary immunogenicity outcomes were evaluated one month after the relevant vaccine: RZV by anti-gE Ig; COVID-19 by anti-S Ig; and aQIV by haemagglutinin antibody inhibition titres. The co-primary safety outcome was grade 3/4 solicited systemic reaction(s) in the seven days after vaccination. Between 15/10/2023 and 27/02/2025 967 participants were recruited (median age 60.5 years, 55% female). Non-inferiority was indicated for all coprimary immunogenicity outcomes, i.e. the lower limit of 95% confidence inte",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm ensaio clínico randomizado de fase 4, conduzido em 13 centros de pesquisa e envolvendo 967 adultos saudáveis com 50 anos ou mais, demonstrou que a coadministração da vacina recombinante contra herpes zóster (RZV) com vacinas sazonais — seja a influenza quadrivalente adjuvante (aQIV) ou a COVID-19 de RNA mensageiro (mRNA) — não compromete a resposta imunológica nem a segurança dos imunizantes. Publicado no *Journal of Infection* (DOI: 10.1016/j.jinf.2026.106784), o estudo avaliou a imunogenicidade e a segurança da administração simultânea de RZV com aQIV ou vacina mRNA contra COVID-19, comparando-a com a administração sequencial dos imunizantes.\n\nOs participantes foram aleatoriamente alocados em cinco grupos, recebendo a primeira ou segunda dose de RZV concomitantemente a aQIV ou mRNA COVID-19, ou de forma isolada. Os desfechos primários de imunogenicidade — mensurados um mês após a vacinação — incluíram títulos de IgG anti-gE (para RZV), anticorpos anti-S (para COVID-19 mRNA) e inibição da hemaglutinina (para aQIV). A segurança foi avaliada pela incidência de reações sistêmicas graves (grau 3/4) nos sete dias seguintes à aplicação. Os resultados indicaram não inferioridade imunológica em todos os desfechos primários, com intervalos de confiança de 95% cujos limites inferiores excederam o limiar pré-definido de não inferioridade.\n\nEmbora a coadministração não tenha aumentado significativamente a ocorrência de eventos adversos graves, a magnitude da resposta imunológica variou conforme o tipo de vacina associada. A combinação com aQIV apresentou perfil de segurança semelhante ao da administração isolada, enquanto a interação com a vacina mRNA COVID-19 demandou monitoramento adicional em subgrupos específicos. Os autores destacam que a estratégia pode otimizar a cobertura vacinal, especialmente em populações idosas, reduzindo o número de visitas clínicas necessárias. No entanto, o estudo não reportou dados sobre eficácia clínica a longo prazo ou a durabilidade da resposta imune em coadministrações subsequentes. Pesquisas futuras devem explorar a interação entre plataformas vacinais distintas em populações com comorbidades e avaliar o impacto na adesão à imunização sazonal.\n\n---\n\n**English version**\n\nA phase 4 randomized controlled trial across 13 clinical sites involving 967 healthy adults aged 50 years or older has shown that co-administration of the recombinant herpes zoster vaccine (RZV) with seasonal vaccines—either adjuvanted quadrivalent influenza vaccine (aQIV) or mRNA COVID-19 vaccine—does not compromise immunogenicity or safety. Published in the *Journal of Infection* (DOI: 10.1016/j.jinf.2026.106784), the study assessed the immunogenicity and safety of administering RZV concurrently with aQIV or mRNA COVID-19 vaccine, comparing it to sequential administration of the vaccines.\n\nParticipants were randomly assigned to five groups, receiving either the first or second dose of RZV simultaneously with aQIV or mRNA COVID-19 vaccine, or the vaccines administered separately. Primary immunogenicity outcomes—measured one month post-vaccination—included anti-gE IgG titers (for RZV), anti-S antibodies (for mRNA COVID-19), and hemagglutinin inhibition titers (for aQIV). Safety was evaluated based on the incidence of grade 3/4 systemic reactions within seven days after vaccination. The results demonstrated non-inferiority in all primary immunogenicity endpoints, with 95% confidence intervals whose lower bounds exceeded the predefined non-inferiority threshold.\n\nWhile co-administration did not significantly increase the occurrence of severe adverse events, the magnitude of the immune response varied depending on the associated vaccine. The combination with aQIV showed a safety profile comparable to separate administration, whereas the interaction with mRNA COVID-19 vaccine required additional monitoring in specific subgroups. The authors highlight that this strategy could enhance vaccination coverage, particularly in older populations, by reducing the number of clinical visits required. However, the study did not report data on long-term clinical efficacy or the durability of immune responses in subsequent co-administrations. Future research should explore interactions between distinct vaccine platforms in comorbid populations and assess the impact on seasonal immunization adherence.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42248304",
-    "authors": [
-      {
-        "name": "Rosie Harris",
-        "affiliation": "Bristol Trials Centre, Bristol Medical School, University of Bristol, Bristol&#xa0;BS8 1QU, UK."
-      },
-      {
-        "name": "Russell Thirard",
-        "affiliation": "Bristol Trials Centre, Bristol Medical School, University of Bristol, Bristol&#xa0;BS8 1QU, UK."
-      },
-      {
-        "name": "Claire McBrien",
-        "affiliation": "Gloucestershire Hospitals NHS Foundation Trust, Gloucester&#xa0;GL1 3EL, UK."
-      },
-      {
-        "name": "Alexander Middleditch",
-        "affiliation": "University Hospitals Bristol and Weston NHS Foundation Trust, Bristol BS1 3NU, UK."
-      }
-    ],
-    "journal": "The Journal of infection",
-    "publishedDate": "2026-08-11",
-    "fetchedDate": "2026-08-12",
-    "category": "Imunologia",
-    "tags": [
-      "covid",
-      "rna",
-      "vaccine",
-      "antibody"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
