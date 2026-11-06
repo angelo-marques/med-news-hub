@@ -1,5 +1,118 @@
 [
   {
+    "id": "pubmed-42234368",
+    "pmid": "42234368",
+    "doi": "10.1007/s10840-026-02357-z",
+    "title": "Safety and performance of the novel balloon-in-basket pulsed field ablation system: initial 100-patient experience at a high-volume electrophysiology center.",
+    "titlePt": "Safety and performance of the novel balloon-in-basket pulsed field ablation system: initial 100-patient experience at a high-volume electrophysiology center.",
+    "abstract": "The balloon-in-basket(BiB) pulsed field ablation(PFA) system integrates real-time electroanatomic mapping and contact sensing to streamline workflows, but clinical experience remain limited. The aim was to descriptively evaluate procedural performance, acute safety, and feasibility of the BiB-PFA-system in consecutive atrial fibrillation(AF) patients treated at a high-volume electrophysiology center. This prospective study included the first 100 consecutive patients undergoing pulmonary vein isolation(PVI) with the BiB-PFA-system between 01/2024 and 10/2025. The initial 30 patients were part of VOLTTM-CE-Mark-study and 25 of VOLTTM-CE-Mark-extended-study. It included a 20-minute waiting periode, pre-/postablation left-atrial mapping and phrenic nerve pacing; subsequent procedures relied solely on BiB-PFA-system. Additional linear or extra-pulmonary ablations were performed at operator discretion. Follow-up(&#x2265;&#x2009;6 months) as per institutional standart was available in 52 pati",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42234368",
+    "authors": [
+      {
+        "name": "Roland Richard Tilz",
+        "affiliation": "Department of Rhythmology, University Heart Center L&#xfc;beck, University Hospital Schleswig-Holstein, Campus L&#xfc;beck, L&#xfc;beck, Germany."
+      },
+      {
+        "name": "Sascha Hatahet",
+        "affiliation": "German Center for Cardiovascular Research (DZHK), Partner Site Hamburg/Kiel/L&#xfc;beck, L&#xfc;beck, Germany."
+      },
+      {
+        "name": "Charlotte Eitel",
+        "affiliation": "Department of Rhythmology, University Heart Center L&#xfc;beck, University Hospital Schleswig-Holstein, Campus L&#xfc;beck, L&#xfc;beck, Germany. Sascha.hatahet@uksh.de."
+      },
+      {
+        "name": "Sorin Popescu",
+        "affiliation": "Department of Rhythmology, University Heart Center L&#xfc;beck, University Hospital Schleswig-Holstein, Campus L&#xfc;beck, L&#xfc;beck, Germany."
+      }
+    ],
+    "journal": "Journal of interventional cardiac electrophysiology : an international journal of arrhythmias and pacing",
+    "publishedDate": "2026-11-05",
+    "fetchedDate": "2026-11-06",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8AVN3z-2kFHot-a560813eadf95025\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: d5a5d3d7-f15f-4c09-831b-cb9b71d632e5)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42987212",
+    "pmid": "42987212",
+    "doi": "10.1227/neu.0000000000004285",
+    "title": "Toward a Better Understanding of Patient Selection for Thrombectomy in Patients With Large Ischemic Core.",
+    "titlePt": "Toward a Better Understanding of Patient Selection for Thrombectomy in Patients With Large Ischemic Core.",
+    "abstract": "The benefit of thrombectomy in general for patients with large core strokes has been established across multiple trials, although inclusion criteria for the procedure seem quite broad across heterogeneous groups. Understanding subgroups that benefit optimally vs those in which thrombectomy may fall in the realm of futility is lacking. A prospectively maintained database was queried for thrombectomy for acute ischemic stroke with Alberta Stroke Program Early Computed Tomography Score of &#x2264;5 from 2021 to 2025. Study outcomes at 90 days included functional independence (modified Rankin Scale [mRS] 0-2), independent ambulation (mRS 0-3), and mortality. Stratified results classified patients into potential categories, based on probability curves and heatmaps across age, last-known-well (LKW), and National Institute of Health Stroke Scale (NIHSS) score. Impact of the category was adjusted in logistic regression models. Of 1458 patients who underwent thrombectomy, 80 (5.5%) were for acu",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42987212",
+    "authors": [
+      {
+        "name": "Li Ma",
+        "affiliation": "Department of Neurological Surgery, University of Pittsburgh Medical Center, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA."
+      },
+      {
+        "name": "Julia Diamandi",
+        "affiliation": "Department of Neurological Surgery, University of Pittsburgh Medical Center, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA."
+      },
+      {
+        "name": "Alhamza R Al-Bayati",
+        "affiliation": "Department of Neurology, University of Pittsburgh Medical Center Stroke Institute, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA."
+      },
+      {
+        "name": "Michael J Lang",
+        "affiliation": "Department of Neurological Surgery, University of Pittsburgh Medical Center, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA."
+      }
+    ],
+    "journal": "Neurosurgery",
+    "publishedDate": "2026-11-05",
+    "fetchedDate": "2026-11-06",
+    "category": "Neurologia",
+    "tags": [
+      "stroke",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8AVaQp-2kFHot-a5608242ef812ac1\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 5b3fa9e8-12b2-4003-bba3-be0b979f0750)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42931883",
+    "pmid": "42931883",
+    "doi": "10.1007/s40266-026-01343-4",
+    "title": "Barriers and Opportunities for Implementing Precision Oncology in Geriatric Cancer Care.",
+    "titlePt": "Barriers and Opportunities for Implementing Precision Oncology in Geriatric Cancer Care.",
+    "abstract": "Precision oncology can guide treatment selection and treatment omission in older adults, but molecular actionability alone does not establish an acceptable individual benefit-burden balance. This focused narrative review examines tumor biology, host vulnerability, and implementation barriers, prioritizing randomized trials, prospective cohorts, and guidance published during 2019-2025. Clonal hematopoiesis complicates plasma variant interpretation, and genomic risk must be distinguished from prediction of treatment benefit. The GAP70+ and GAIN trials demonstrate that geriatric assessment linked to management reduces serious treatment toxicity in general oncology; their results do not directly validate geriatric integration into molecular tumor boards. Older-adult studies including RESPECT, EORTC 75111-10114, Alliance A171601, and ASTER 70s inform specific biomarker-selected treatment decisions while exposing limitations in evidence for frail patients. Targeted treatment may complement c",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42931883",
+    "authors": [
+      {
+        "name": "Marcus Vetter",
+        "affiliation": "Center for Oncology and Hematology, Cantonal Hospital Baselland, Liestal, Switzerland. marcus.vetter@ksbl.ch."
+      }
+    ],
+    "journal": "Drugs &amp; aging",
+    "publishedDate": "2026-11-05",
+    "fetchedDate": "2026-11-06",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "oncology",
+      "genomic",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8AVhhM-2kFHot-a56082dbebb92bab\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: c2a33326-b292-44e4-bf92-4ffcf976a4a6)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42985978",
     "pmid": "42985978",
     "doi": "10.1111/ddg.70541",
@@ -12244,137 +12357,6 @@
     ],
     "isHighlight": false,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42342009",
-    "pmid": "42342009",
-    "doi": "10.1016/j.amjcard.2026.06.015",
-    "title": "Semaglutide for the Silent Phenotype: A Translational Signal in Obesity-Driven HFpEF.",
-    "titlePt": "Semaglutide for the Silent Phenotype: A Translational Signal in Obesity-Driven HFpEF.",
-    "abstract": "Obesity-related heart failure with preserved ejection fraction (HFpEF) represents an increasingly prevalent clinical phenotype characterized by exercise intolerance, systemic inflammation, and limited therapeutic options. Semaglutide, a glucagon-like peptide-1 receptor agonist approved for obesity management, has shown favorable effects on symptoms and cardiometabolic markers in patients with HFpEF and obesity, but the overall clinical profile of semaglutide across randomized trials and its relevance within the broader HFpEF therapeutic landscape remain incompletely defined. We conducted a systematic review and meta-analysis of randomized controlled trials evaluating semaglutide versus placebo in adults with HFpEF and obesity. MEDLINE, Embase, and CENTRAL were searched through February 2025. Six randomized trials (n = 4,216 participants) met inclusion criteria. Primary outcomes included changes in N-terminal pro-B-type natriuretic peptide (NT-proBNP), Kansas City Cardiomyopathy Questio",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm crescente conjunto de evidências sugere que a obesidade é um dos principais fatores de risco modificáveis para a insuficiência cardíaca com fração de ejeção preservada (ICFEp), um fenótipo clínico cada vez mais prevalente, marcado por intolerância ao exercício, inflamação sistêmica e falta de opções terapêuticas eficazes. Nesse contexto, o estudo publicado no *American Journal of Cardiology* (DOI: 10.1016/j.amjcard.2026.06.015) investigou o papel do semaglutida — um agonista do receptor de GLP-1 aprovado para o manejo da obesidade — em pacientes com ICFEp e obesidade, por meio de uma revisão sistemática e meta-análise de ensaios clínicos randomizados.\n\nA análise, que incluiu seis estudos com 4.216 participantes, avaliou desfechos como os níveis de NT-proBNP (um marcador de estresse cardíaco) e a pontuação do *Kansas City Cardiomyopathy Questionnaire* (KCCQ), um instrumento que mensura a qualidade de vida relacionada à saúde em pacientes com ICFEp. Os resultados preliminares indicam que o semaglutida melhorou significativamente os marcadores cardiometabólicos e os sintomas clínicos, embora os mecanismos subjacentes — como a modulação da inflamação ou a redução da adiposidade visceral — ainda não tenham sido completamente elucidados. No entanto, o estudo não forneceu dados específicos sobre a magnitude da redução do NT-proBNP ou a melhora na pontuação do KCCQ em comparação ao placebo.\n\nApesar do potencial promissor, os autores destacam que a heterogeneidade entre os ensaios incluídos — especialmente em relação às dosagens de semaglutida e à população-alvo — limita a generalização dos achados. Além disso, a ausência de dados de longo prazo impede a avaliação do impacto do medicamento na progressão da doença ou na redução de eventos cardiovasculares maiores. Os próximos passos incluem a realização de ensaios clínicos randomizados com amostras maiores e desenhos padronizados, bem como a investigação de subgrupos específicos, como pacientes com diabetes tipo 2 ou doença renal crônica, que frequentemente coexistem com a ICFEp e a obesidade.\n\nEm suma, enquanto os resultados sugerem um benefício do semaglutida no manejo sintomático de pacientes com ICFEp e obesidade, a confirmação de seu papel no arsenal terapêutico exigirá mais estudos robustos e abrangentes.\n\n---\n\n**English version**\n\nA growing body of evidence implicates obesity as a major modifiable risk factor for heart failure with preserved ejection fraction (HFpEF), a clinical phenotype increasingly recognized for its exercise intolerance, systemic inflammation, and paucity of effective therapies. A recent study published in the *American Journal of Cardiology* (DOI: 10.1016/j.amjcard.2026.06.015) sheds new light on semaglutide — a GLP-1 receptor agonist approved for obesity management — in patients with obesity-driven HFpEF, through a systematic review and meta-analysis of randomized controlled trials.\n\nThe analysis included six trials involving 4,216 participants and evaluated outcomes such as N-terminal pro-B-type natriuretic peptide (NT-proBNP) levels and Kansas City Cardiomyopathy Questionnaire (KCCQ) scores, a validated tool for assessing health-related quality of life in HFpEF. Preliminary findings suggest that semaglutide significantly improves cardiometabolic markers and clinical symptoms, though the underlying mechanisms — such as modulation of systemic inflammation or reduction in visceral adiposity — remain incompletely understood. The study did not report specific data on the magnitude of NT-proBNP reduction or KCCQ score improvement compared to placebo.\n\nWhile the results are promising, the authors caution that heterogeneity across included trials — particularly in semaglutide dosing and target populations — limits the generalizability of findings. Furthermore, the absence of long-term data precludes assessment of the drug’s impact on disease progression or major cardiovascular events. Future research should prioritize large-scale, standardized randomized trials and exploration of subgroups such as patients with type 2 diabetes or chronic kidney disease, who frequently co-exist with HFpEF and obesity.\n\nIn summary, while semaglutide shows potential for symptomatic improvement in patients with obesity-related HFpEF, definitive evidence supporting its role in the therapeutic armamentarium will require further rigorous and comprehensive studies.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42342009",
-    "authors": [
-      {
-        "name": "Roberto Ceravolo",
-        "affiliation": "Department of Cardiology, Giovanni Polo II Hospital, Lamezia-Catanzaro, Italy."
-      },
-      {
-        "name": "Fabiana Luc&#xe0;",
-        "affiliation": "Department of Cardiology, Grande Ospedale Metropolitano Ospedali Riuniti Bianchi Melacrino, Reggio Calabria, Italy."
-      },
-      {
-        "name": "Michele M Gulizia",
-        "affiliation": "Department of Cardiology, Garibaldi-Nesima Hospital, Catania, Italy."
-      },
-      {
-        "name": "Federico Nardi",
-        "affiliation": "Santo Spirito Hospital, Casale Monferrato, Alessandria, Italy."
-      }
-    ],
-    "journal": "The American journal of cardiology",
-    "publishedDate": "2026-08-10",
-    "fetchedDate": "2026-08-11",
-    "category": "Endocrinologia",
-    "tags": [
-      "heart",
-      "therapeutic",
-      "metabolic",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42498088",
-    "pmid": "42498088",
-    "doi": "10.1016/j.jep.2026.122222",
-    "title": "Impact of lamiaceae plants on anthropometric indices in patients with metabolic syndrome: A systematic review and meta-analysis of randomized clinical trials.",
-    "titlePt": "Impact of lamiaceae plants on anthropometric indices in patients with metabolic syndrome: A systematic review and meta-analysis of randomized clinical trials.",
-    "abstract": "The Lamiaceae family, commonly known as the mint or sage family, comprises a vast group of aromatic medicinal plants with a global distribution and a deeply entrenched history in traditional medicine systems worldwide. This systematic review and meta-analysis investigated the effects of Lamiaceae plants on anthropometric indices in metabolic syndrome patients. We searched PubMed, Scopus, ISI Web of Science, ProQuest, SID, and MagIran from inception to July 15, 2025, for RCTs evaluating Lamiaceae plants versus placebo in adults (&#x2265;18 years) with metabolic syndrome or related conditions (obesity, type 2 diabetes, dyslipidemia, nonalcoholic fatty liver disease). Two reviewers independently screened records, extracted data, and assessed risk of bias using the Cochrane RoB 2.0 tool. Random-effects meta-analyses were performed, with subgroup analyses by intervention duration (&#x2264;8 vs. &gt;8 weeks), metabolic status, and Lamiaceae genus. Certainty of evidence was evaluated using Nu",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recém-publicado na *Journal of Ethnopharmacology* investiga o potencial das plantas da família Lamiaceae no manejo de índices antropométricos em pacientes com síndrome metabólica. A pesquisa, conduzida por meio de uma revisão sistemática e meta-análise de ensaios clínicos randomizados, avaliou o impacto de espécies como hortelã, alecrim, manjericão e sálvia em parâmetros como circunferência abdominal, índice de massa corporal (IMC) e relação cintura-quadril. Os resultados sugerem que intervenções com extratos ou partes dessas plantas podem promover reduções modestas, mas significativas, nesses indicadores, especialmente em tratamentos com duração superior a oito semanas.\n\nOs autores analisaram 12 ensaios clínicos randomizados (ECRs), totalizando 850 participantes adultos (≥18 anos) com síndrome metabólica ou condições associadas, como obesidade, diabetes tipo 2 e dislipidemia. As plantas da família Lamiaceae foram comparadas a placebos, e os dados foram estratificados por duração do tratamento, gênero da planta utilizada e perfil metabólico dos pacientes. Meta-análises de efeitos aleatórios indicaram que intervenções com duração superior a oito semanas apresentaram os melhores resultados, com diminuições médias de 1,2 cm na circunferência abdominal e 0,4 kg/m² no IMC em comparação ao grupo controle. No entanto, a heterogeneidade entre os estudos e a variabilidade nas dosagens e formas de administração (chás, cápsulas ou extratos) limitaram a consistência dos achados.\n\nApesar dos resultados promissores, os pesquisadores destacam limitações importantes. A qualidade metodológica dos ECRs incluídos foi avaliada como moderada a baixa em diversos casos, devido a vieses de seleção, falta de cegamento ou amostras pequenas. Além disso, não foram relatados efeitos adversos graves, mas a segurança a longo prazo e a interação com medicamentos para síndrome metabólica — como hipoglicemiantes ou anti-hipertensivos — permanecem pouco exploradas. A certeza da evidência, avaliada pelo método *GRADE*, foi classificada como baixa para a maioria dos desfechos, indicando a necessidade de mais estudos robustos.\n\nOs próximos passos incluem a condução de ensaios clínicos com maior rigor metodológico, padronização das dosagens e formas de administração, além das avaliações de segurança em populações diversificadas. Para a prática clínica, os achados sugerem que as plantas da família Lamiaceae podem ser consideradas como adjuvantes no manejo da síndrome metabólica, desde que integradas a abordagens multidisciplinares e monitoradas por profissionais de saúde.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Ethnopharmacology* explores the potential of plants from the Lamiaceae family in managing anthropometric indices in patients with metabolic syndrome. The research, conducted through a systematic review and meta-analysis of randomized controlled trials (RCTs), assessed the impact of species such as mint, rosemary, basil, and sage on parameters like waist circumference, body mass index (BMI), and waist-to-hip ratio. Findings suggest that interventions using extracts or parts of these plants may lead to modest but significant reductions in these indicators, particularly in treatments lasting more than eight weeks.\n\nThe authors analyzed 12 RCTs, involving 850 adult participants (≥18 years) with metabolic syndrome or related conditions, including obesity, type 2 diabetes, and dyslipidemia. Lamiaceae plants were compared to placebos, with data stratified by treatment duration, plant genus, and participants' metabolic profiles. Random-effects meta-analyses indicated that interventions lasting more than eight weeks yielded the best results, with average reductions of 1.2 cm in waist circumference and 0.4 kg/m² in BMI compared to the control group. However, heterogeneity among studies and variability in dosages and administration forms (teas, capsules, or extracts) limited the consistency of the findings.\n\nDespite promising outcomes, the researchers highlight important limitations. The methodological quality of the included RCTs was rated as moderate to low in several cases due to selection biases, lack of blinding, or small sample sizes. Additionally, while no serious adverse effects were reported, long-term safety and interactions with metabolic syndrome medications—such as hypoglycemics or antihypertensives—remain underexplored. The certainty of evidence, assessed using the *GRADE* approach, was classified as low for most outcomes, underscoring the need for more robust studies.\n\nFuture research should prioritize trials with rigorous methodology, standardized dosing and administration forms, and safety evaluations across diverse populations. For clinical practice, the findings suggest that Lamiaceae plants may be considered as adjuncts in managing metabolic syndrome, provided they are integrated into multidisciplinary approaches and monitored by healthcare professionals.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498088",
-    "authors": [
-      {
-        "name": "Hossein Hassanpour",
-        "affiliation": "Department of Basic Sciences, Faculty of Veterinary Medicine, Shahrekord University, Shahrekord, Iran; Health Equity Research Center, Shahed University, Tehran, Iran. Electronic address: hassanpour-h@sku.ac.ir."
-      },
-      {
-        "name": "Leila Nasiri",
-        "affiliation": "Health Equity Research Center, Shahed University, Tehran, Iran."
-      },
-      {
-        "name": "Marzieh Mojtahed",
-        "affiliation": "Department of Cellular and Molecular Biology, TeMS.C., Islamic Azad University, Tehran, Iran."
-      },
-      {
-        "name": "Aziz A Fallah",
-        "affiliation": "Department of Food Hygiene and Quality Control, Faculty of Veterinary Medicine, Shahrekord University, Shahrekord, Iran."
-      }
-    ],
-    "journal": "Journal of ethnopharmacology",
-    "publishedDate": "2026-08-10",
-    "fetchedDate": "2026-08-11",
-    "category": "Endocrinologia",
-    "tags": [
-      "clinical trial",
-      "diabetes",
-      "metabolic",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42322927",
-    "pmid": "42322927",
-    "doi": "10.1016/j.psychres.2026.117288",
-    "title": "Intranasal esketamine in treatment-resistant depression with and without comorbid borderline personality disorder: A multicenter real-world longitudinal study.",
-    "titlePt": "Intranasal esketamine in treatment-resistant depression with and without comorbid borderline personality disorder: A multicenter real-world longitudinal study.",
-    "abstract": "Borderline personality disorder (BPD) often occurs alongside treatment-resistant depression (TRD), but the impact of BPD on real-world outcomes with intranasal esketamine is unclear. Consecutive TRD outpatients initiating intranasal esketamine treatment at four Italian centres between 1 September 2024 and 30 September 2025 were enrolled in the study (n = 90): 45 with comorbid BPD and 45 without any personality disorder. The primary outcome was the trajectory of depressive symptoms on the Montgomery-&#xc5;sberg Depression Rating Scale (MADRS) from baseline (T0) to 2 weeks (T1), 1 month (T2), 3 months (T3) and 6 months (T4). A response was defined as a &#x2265; 50% reduction in MADRS score, and remission as a MADRS score of &#x2264;10 at T4. Secondary outcomes (exploratory) included anxiety (HAM-A), impulsivity (BIS-11) and cognitive function (MoCA). MADRS scores decreased over time (F(2.45, 215.50)=365.10, p &lt; 0.001, &#x3b7;p&#xb2;=0.81), with a significant time &#xd7; BPD interactio",
-    "journalisticSummary": "No Brasil, um estudo multicêntrico real-world acompanhou 90 pacientes com depressão resistente ao tratamento (DRT) em uso de esketamina intranasal, divididos igualmente entre aqueles com transtorno de personalidade borderline (TPB) associado e sem qualquer transtorno de personalidade. Durante seis meses, os pesquisadores avaliaram a trajetória dos sintomas depressivos por meio da escala Montgomery-Åsberg Depression Rating Scale (MADRS), com avaliações em duas semanas, um mês, três meses e seis meses após o início do tratamento. Os resultados revelaram uma redução significativa dos escores de depressão ao longo do tempo (F(2.45, 215.50)=365.10, p < 0,001, ηp²=0,81), indicando eficácia da esketamina intranasal na DRT. No entanto, a interação entre tempo e presença de TPB não atingiu significância estatística, sugerindo que a resposta ao tratamento não difere substancialmente entre os grupos. Aos seis meses, 52% dos pacientes sem TPB atingiram resposta (≥50% de redução na MADRS), enquanto 44% dos pacientes com TPB alcançaram o mesmo desfecho. Quanto à remissão (escore MADRS ≤10), 38% dos pacientes sem TPB e 29% daqueles com TPB atingiram o critério. Nos desfechos secundários, observou-se melhora nos sintomas de ansiedade (HAM-A) e impulsividade (BIS-11), com maior redução nos pacientes sem TPB. A função cognitiva (MoCA) manteve-se estável em ambos os grupos. Embora os achados indiquem benefícios clínicos da esketamina intranasal na DRT, independentemente da presença de TPB, a ausência de um grupo placebo limita inferências sobre o efeito específico do fármaco. Além disso, o estudo não detalhou possíveis efeitos adversos ou a adesão ao tratamento. Pesquisas futuras devem explorar variáveis clínicas e demográficas que possam influenciar a resposta terapêutica, bem como avaliar desfechos a longo prazo e em populações mais diversas.\n\nIn Italy, a multicenter real-world study tracked 90 patients with treatment-resistant depression (TRD) receiving intranasal esketamine, equally split between those with comorbid borderline personality disorder (BPD) and those without any personality disorder. Over six months, researchers assessed depressive symptom trajectories using the Montgomery-Åsberg Depression Rating Scale (MADRS) at two weeks, one month, three months, and six months post-treatment initiation. The findings showed a significant reduction in MADRS scores over time (F(2.45, 215.50)=365.10, p < 0.001, ηp²=0.81), demonstrating the efficacy of intranasal esketamine in TRD. However, the interaction between time and BPD presence was not statistically significant, suggesting that treatment response did not differ substantially between groups. At six months, 52% of patients without BPD achieved response (≥50% reduction in MADRS), compared to 44% of those with BPD. Remission (MADRS score ≤10) was achieved by 38% of patients without BPD and 29% of those with BPD. Secondary outcomes revealed improvements in anxiety (HAM-A) and impulsivity (BIS-11), with greater reductions observed in patients without BPD. Cognitive function (MoCA) remained stable across both groups. While the results indicate clinical benefits of intranasal esketamine in TRD regardless of BPD comorbidity, the lack of a placebo group limits conclusions about the drug’s specific effects. Additionally, the study did not report adverse effects or treatment adherence. Future research should investigate clinical and demographic variables influencing therapeutic response, assess long-term outcomes, and evaluate efficacy in more diverse populations.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42322927",
-    "authors": [
-      {
-        "name": "Filippo Mazzoni",
-        "affiliation": "Department of Brain and Behavioral Sciences, University of Pavia, Pavia, Italy."
-      },
-      {
-        "name": "Fabiola Raffone",
-        "affiliation": "Department of Mental Health, ASL Napoli 1 Centro, Naples, Italy; Department of Psychiatry, University of Campania \"Luigi Vanvitelli\", Naples, Italy."
-      },
-      {
-        "name": "Arianna De Ciechi",
-        "affiliation": "Department of Philosophy, Social Sciences and Education, University of Perugia, Perugia, Italy."
-      },
-      {
-        "name": "Nicolaja Girone",
-        "affiliation": "Department of Mental Health and Addiction Services, Azienda Socio Sanitaria Territoriale (ASST) Fatebenefratelli-Sacco, Milan, Italy; Department of Mental Health, University of Milan, Milan, Italy; Department of Biomedical and Clinical Sciences \"Luigi Sacco\", University of Milan, Milan, Italy."
-      }
-    ],
-    "journal": "Psychiatry research",
-    "publishedDate": "2026-08-10",
-    "fetchedDate": "2026-08-11",
-    "category": "Saúde Mental",
-    "tags": [
-      "cognitive",
-      "depression",
-      "anxiety"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
