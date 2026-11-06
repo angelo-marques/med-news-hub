@@ -1,5 +1,87 @@
 [
   {
+    "id": "pubmed-42392508",
+    "pmid": "42392508",
+    "doi": "10.1016/j.jtct.2026.06.048",
+    "title": "Impact of Disease Biology and Bridging Strategy on Outcomes After CAR-T Cell Therapy in Relapsed/Refractory Multiple Myeloma.",
+    "titlePt": "Impact of Disease Biology and Bridging Strategy on Outcomes After CAR-T Cell Therapy in Relapsed/Refractory Multiple Myeloma.",
+    "abstract": "Bridging therapy is commonly administered prior to B-cell maturation antigen (BCMA)-directed chimeric antigen receptor (CAR)-T cell therapy in relapsed/refractory multiple myeloma (RRMM) to maintain disease control during the manufacturing period. However, the optimal choice and intensity of bridging therapy remain unclear, and it is debated whether outcomes are primarily influenced by bridging strategy or underlying disease biology. We aimed to evaluate the impact of different bridging strategies on outcomes after BCMA-directed CAR-T cell therapy in RRMM, while accounting for disease biology, response prior to infusion, and baseline hematopoietic reserve. This retrospective multicenter real-world study included 90 consecutive patients with RRMM treated with BCMA-directed CAR-T cells (idecabtagene vicleucel or ciltacabtagene autoleucel) in Austria between January 2024 and July 2025. Bridging approaches were categorized as polychemotherapy (PCHT), talquetamab-based regimens (Tal), or ot",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42392508",
+    "authors": [
+      {
+        "name": "Irene Strassl",
+        "affiliation": "Department of Internal Medicine I, Hematology with Stem Cell Transplantation, Hemostaseology and Medical Oncology, Ordensklinikum Linz, Linz, Austria; Medical Faculty, Johannes Kepler University Linz, Linz, Austria. Electronic address: irene.strassl@ordensklinikum.at."
+      },
+      {
+        "name": "Alexander Nikoloudis",
+        "affiliation": "Department of Internal Medicine I, Hematology with Stem Cell Transplantation, Hemostaseology and Medical Oncology, Ordensklinikum Linz, Linz, Austria; Medical Faculty, Johannes Kepler University Linz, Linz, Austria."
+      },
+      {
+        "name": "Lina Zoe Ruesing",
+        "affiliation": "Department of Medicine I, Bone Marrow Transplantation Unit, Medical University of Vienna, Vienna, Austria."
+      },
+      {
+        "name": "Thomas Melchardt",
+        "affiliation": "Department of Internal Medicine III with Hematology, Medical Oncology, Hemostaseology, Infectiology, and Rheumatology, Paracelsus Medical University Salzburg, Salzburg, Austria."
+      }
+    ],
+    "journal": "Transplantation and cellular therapy",
+    "publishedDate": "2026-11-05",
+    "fetchedDate": "2026-11-06",
+    "category": "Oncologia",
+    "tags": [
+      "chemotherapy",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8DDEkE-2kFHot-a56371468b919172\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 4683b442-181a-42a1-9b4d-b00722b48a8c)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42364734",
+    "pmid": "42364734",
+    "doi": "10.1016/j.jtct.2026.06.039",
+    "title": "Allogeneic Hematopoietic Cell Transplant Following Standard of Care Brexucabtagene Autoleucel in Adults with B-Cell Acute Lymphoblastic Leukemia: Results from the Real-World Outcomes Collaborative of Chimeric Antigen Receptor T in Adult Acute Lymphoblastic Leukemia.",
+    "titlePt": "Allogeneic Hematopoietic Cell Transplant Following Standard of Care Brexucabtagene Autoleucel in Adults with B-Cell Acute Lymphoblastic Leukemia: Results from the Real-World Outcomes Collaborative of Chimeric Antigen Receptor T in Adult Acute Lymphoblastic Leukemia.",
+    "abstract": "Brexucabtagene autoleucel (brexu-cel) is an autologous anti-CD19 chimeric antigen receptor T (CAR T) cell therapy approved for adults with relapsed/refractory (r/r) B-cell acute lymphoblastic leukemia (B-ALL). Despite encouraging outcomes, the majority of adults relapse following brexu-cel, highlighting the need for strategies to improve the durability of response. One such strategy is consolidative allogeneic stem cell transplant (alloHCT). Here, we report outcomes of adults with B-ALL who underwent consolidative alloHCT following commercial brexu-cel as part of the Real-World Outcomes Collaborative of CAR-T in Adult ALL (ROCCA). We performed a retrospective multicenter analysis of adults with R/R B-ALL who underwent consolidative alloHCT in complete remission after commercial brexu-cel and were registered in ROCCA. ROCCA includes 41 US institutions contributing retrospective data for adults with B-ALL treated with brexu-cel between 2021 and 2025. Patients who received alloHCT after C",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42364734",
+    "authors": [
+      {
+        "name": "Rawan G Faramand",
+        "affiliation": "Moffitt Cancer Center, Tampa, Florida. Electronic address: rawan.faramand@moffitt.org."
+      },
+      {
+        "name": "Amy Zhang",
+        "affiliation": "Stanford University School of Medicine, Division of Hematology/Oncology, Stanford University School of Medicine, Palo Alto, CA."
+      },
+      {
+        "name": "Gregory W Roloff",
+        "affiliation": "The University of Chicago Medicine, Section of Hematology/Oncology, Department of Medicine, University of Chicago, Chicago, IL."
+      },
+      {
+        "name": "Ibrahim Aldoss",
+        "affiliation": "City of Hope Comprehensive Cancer Center, Department of Hematology and Hematopoietic Cell Transplantation, Duarte, CA."
+      }
+    ],
+    "journal": "Transplantation and cellular therapy",
+    "publishedDate": "2026-11-05",
+    "fetchedDate": "2026-11-06",
+    "category": "Oncologia",
+    "tags": [
+      "leukemia",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8DDH84-2kFHot-a563717899a1b14d\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 44524e53-41a5-477d-985a-0b64ca6dd849)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42234368",
     "pmid": "42234368",
     "doi": "10.1007/s10840-026-02357-z",
@@ -12275,88 +12357,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42577116",
-    "pmid": "42577116",
-    "doi": "10.3389/fnut.2026.1871866",
-    "title": "Elevated preoperative red cell distribution width and incident infection after metabolic and bariatric surgery: a cohort study.",
-    "titlePt": "Elevated preoperative red cell distribution width and incident infection after metabolic and bariatric surgery: a cohort study.",
-    "abstract": "Red cell distribution width (RDW), an index of erythrocyte size variability associated with inflammation and nutritional status, may have prognostic utility; however, its role in predicting infection after metabolic and bariatric surgery (MBS) remains unclear. This TriNetX retrospective cohort study included adults undergoing primary MBS from 2010-2025. Elevated preoperative RDW was defined as &#x2265;14.6% across all measurements within 3&#x202f;months before surgery, while normal RDW ranged from 11.5 to 14.5%. Patients with discordant values were excluded. One-to-one propensity score matching was performed. The primary outcome was incident sepsis within 1&#x202f;year, and secondary outcomes included pneumonia, surgical site infection (SSI), urinary tract infection (UTI), and intensive care unit (ICU) admission. After matching, 17,735 patients were included in each group. Elevated RDW was associated with an increased risk of sepsis (hazard ratios [HRs] 1.42, 95% confidence interval [C",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *Frontiers in Nutrition* identificou uma associação entre a elevação da amplitude de distribuição eritrocitária (RDW) no pré-operatório e o risco aumentado de infecções após cirurgias metabólicas e bariátricas (MBS). A pesquisa, conduzida por meio de uma coorte retrospectiva do banco de dados TriNetX, avaliou 35.470 adultos submetidos a MBS primária entre 2010 e 2025, excluindo pacientes com valores discordantes de RDW medidos nos três meses anteriores ao procedimento. A definição de RDW elevado (≥14,6%) foi baseada em limites pré-estabelecidos, enquanto valores normais variaram entre 11,5% e 14,5%.\n\nApós o pareamento por escore de propensão (1:1), os resultados indicaram que pacientes com RDW elevado apresentaram um risco 42% maior de desenvolver sepse no primeiro ano pós-operatório (HR 1,42; IC 95% não informado no resumo). Além disso, foram observados aumentos significativos nas taxas de pneumonia, infecção de sítio cirúrgico (SSI), infecção do trato urinário (ITU) e necessidade de internação em unidade de terapia intensiva (UTI). Os autores destacam que o RDW, marcador tradicionalmente associado a processos inflamatórios e ao estado nutricional, pode ter valor prognóstico na estratificação de risco antes de procedimentos cirúrgicos complexos.\n\nEmbora os achados reforcem a hipótese de que alterações hematológicas pré-operatórias refletem vulnerabilidades clínicas, o estudo apresenta limitações inerentes ao delineamento retrospectivo e à dependência de registros eletrônicos de saúde. Não foram fornecidas informações detalhadas sobre viéses potenciais (como a influência de comorbidades não ajustadas) ou a distribuição de fatores de risco entre os grupos. Pesquisas prospectivas são necessárias para validar esses resultados e explorar mecanismos fisiopatológicos subjacentes, como o papel da inflamação crônica ou da desnutrição na modulação do RDW e sua relação com desfechos infecciosos pós-MBS.\n\n---\n\n**English version**\n\nA recent study published in *Frontiers in Nutrition* has identified an association between elevated red cell distribution width (RDW) in the preoperative period and an increased risk of infections following metabolic and bariatric surgery (MBS). The research, conducted as a retrospective cohort study using the TriNetX database, analyzed 35,470 adults who underwent primary MBS between 2010 and 2025, excluding patients with discordant RDW values measured within the three months prior to surgery. Elevated RDW was defined as ≥14.6%, while normal values ranged from 11.5% to 14.5%.\n\nAfter 1:1 propensity score matching, the results showed that patients with elevated RDW had a 42% higher risk of developing sepsis within the first postoperative year (hazard ratio [HR] 1.42; 95% confidence interval [CI] not reported in the abstract). Significant increases were also observed in the rates of pneumonia, surgical site infection (SSI), urinary tract infection (UTI), and intensive care unit (ICU) admission. The authors suggest that RDW, a marker traditionally linked to inflammation and nutritional status, may have prognostic value in risk stratification prior to complex surgical procedures.\n\nWhile the findings support the hypothesis that preoperative hematologic alterations reflect clinical vulnerabilities, the study has inherent limitations due to its retrospective design and reliance on electronic health records. Detailed information on potential biases—such as the influence of unadjusted comorbidities—or the distribution of risk factors between groups was not provided. Prospective studies are needed to validate these results and further explore underlying pathophysiological mechanisms, including the role of chronic inflammation or malnutrition in modulating RDW and its relationship with postoperative infectious outcomes.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42577116",
-    "authors": [
-      {
-        "name": "Ying-Jen Chang",
-        "affiliation": "Department of Anesthesiology, Chi Mei Medical Center, Tainan City, Taiwan."
-      },
-      {
-        "name": "Ping-Hsin Liu",
-        "affiliation": "Department of Recreation and Health-Care Management, College of Recreation and Health Management, Chia Nan University of Pharmacy and Science, Tainan City, Taiwan."
-      },
-      {
-        "name": "Kuo-Mao Lan",
-        "affiliation": "Department of Anesthesiology, E-Da Hospital, I-Shou University, Kaohsiung City, Taiwan."
-      }
-    ],
-    "journal": "Frontiers in nutrition",
-    "publishedDate": "2026-08-11",
-    "fetchedDate": "2026-08-11",
-    "category": "Infectologia",
-    "tags": [
-      "infection",
-      "sepsis",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42573994",
-    "pmid": "42573994",
-    "doi": "10.1001/jamaneurol.2026.2650",
-    "title": "Plasma Biomarkers for Neocortical Tau Burden.",
-    "titlePt": "Plasma Biomarkers for Neocortical Tau Burden.",
-    "abstract": "Phosphorylated tau-217 (p-tau217) is now an established plasma biomarker for assessing amyloid-&#x3b2; pathology in individuals at risk of Alzheimer disease. However, its performance in identifying advanced neocortical neurofibrillary tangle burden remains suboptimal. Precise assessment of tau pathology is increasingly critical for the rational implementation of anti-amyloid therapies and developing anti-tau interventions. Improved biofluid biomarker-based tau staging could enhance patient stratification and optimize participant selection for clinical care and therapeutic trials. To develop and validate a multiprotein plasma panel to improve identification of neocortical tau pathology beyond p-tau217 alone. This multicenter cohort study included 2 independent observational cohorts, Swedish BioFINDER study and Translational Biomarkers in Aging and Dementia (TRIAD). Cross-sectional clinical data and blood samples were collected between 2017 and 2024. Participants included 560 individuals",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm painel de biomarcadores plasmáticos composto por múltiplas proteínas demonstrou capacidade superior ao p-tau217 isolado na identificação de cargas avançadas de emaranhados neurofibrilares corticais, um marcador crítico da progressão da doença de Alzheimer. Publicado no *JAMA Neurology*, o estudo multicêntrico analisou dados de dois grandes consórcios suecos — o *BioFINDER* e o *TRIAD* — envolvendo 560 participantes recrutados entre 2017 e 2024. Os resultados indicam que a combinação de proteínas plasmáticas, quando comparada ao p-tau217 sozinho, apresentou melhora significativa na sensibilidade e especificidade para detectar estágios avançados de tauopatia neocortical, condição associada à conversão para demência em indivíduos com comprometimento cognitivo leve.\n\nAté então, o p-tau217 era considerado um biomarcador sanguíneo consolidado para estimar a patologia amiloide, mas sua eficácia em prever a deposição de tau no córtex cerebral — etapa-chave na cascata fisiopatológica do Alzheimer — mostrava-se limitada. A nova abordagem, baseada em um painel multiproteico, poderia refinar a estratificação de pacientes em estágios precoces, permitindo uma seleção mais precisa para terapias anti-amiloide e futuras intervenções anti-tau. Os autores destacam que a metodologia proposta não apenas melhora a acurácia diagnóstica, mas também pode reduzir a necessidade de exames invasivos e de alto custo, como a PET-tau, atualmente padrão ouro para avaliação da tauopatia.\n\nEmbora promissor, o estudo apresenta limitações importantes. A população analisada foi composta predominantemente por indivíduos de origem europeia, o que limita a generalização dos achados para outros grupos étnicos. Além disso, tratou-se de um estudo transversal, sem acompanhamento longitudinal para avaliar a progressão da doença ao longo do tempo. Os autores não reportaram a idade média dos participantes, a distribuição por sexo ou a prevalência de comorbidades, fatores que podem influenciar os níveis de biomarcadores. Também não foram fornecidos dados sobre a reprodutibilidade do painel em diferentes laboratórios ou plataformas tecnológicas.\n\nOs próximos passos incluem a validação prospectiva do painel em coortes mais diversas e heterogêneas, bem como a integração com dados clínicos e de imagem para aprimorar modelos preditivos. A implementação clínica dependerá ainda de estudos que demonstrem impacto na tomada de decisão terapêutica e na redução de custos em saúde. A descoberta reforça, contudo, o potencial dos biomarcadores plasmáticos como ferramentas não invasivas para monitorar a progressão do Alzheimer, especialmente em cenários de triagem populacional e recrutamento para ensaios clínicos.\n\n---\n\n**English version**\n\nA multiprotein plasma biomarker panel outperformed phosphorylated tau-217 (p-tau217) alone in identifying advanced neocortical neurofibrillary tangle burden, a critical marker of Alzheimer’s disease progression, according to a multicenter cohort study published in *JAMA Neurology*. The research analyzed data from two Swedish cohorts—the *BioFINDER* and *TRIAD* studies—enrolling 560 participants between 2017 and 2024. The findings suggest that the combined protein panel significantly enhances sensitivity and specificity for detecting late-stage neocortical tau pathology compared to p-tau217 alone, a distinction linked to conversion to dementia in individuals with mild cognitive impairment.\n\nWhile p-tau217 has been established as a reliable blood-based biomarker for amyloid-β pathology, its performance in predicting cortical tau accumulation—an intermediate step in Alzheimer’s pathophysiology—remains suboptimal. The proposed multiprotein approach could refine patient stratification in early disease stages, improving selection for anti-amyloid therapies and future anti-tau interventions. The authors emphasize that this method not only enhances diagnostic accuracy but also has the potential to reduce reliance on invasive and costly procedures, such as tau PET imaging, currently the gold standard for tauopathy assessment.\n\nDespite its promise, the study has notable limitations. The cohorts were predominantly composed of individuals of European descent, restricting the generalizability of findings to other ethnic groups. Additionally, the research was cross-sectional, lacking longitudinal follow-up to assess disease progression over time. The mean age of participants, sex distribution, and prevalence of comorbidities—factors that may influence biomarker levels—were not reported. The reproducibility of the panel across different laboratories or assay platforms was also not addressed.\n\nFuture research should focus on prospective validation in more diverse and heterogeneous populations, as well as integration with clinical and imaging data to refine predictive models. Clinical implementation will require studies demonstrating impact on therapeutic decision-making and cost-effectiveness in healthcare settings. Nevertheless, the findings underscore the potential of plasma biomarkers as non-invasive tools for monitoring Alzheimer’s progression, particularly in population screening and clinical trial recruitment scenarios.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573994",
-    "authors": [
-      {
-        "name": "Guglielmo Di Molfetta",
-        "affiliation": "Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, The Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden."
-      },
-      {
-        "name": "Wagner S Brum",
-        "affiliation": "Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, The Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden."
-      },
-      {
-        "name": "Ilaria Pola",
-        "affiliation": "Graduate Program in Biological Sciences: Biochemistry, Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, Brazil."
-      },
-      {
-        "name": "K&#xfc;bra Tan",
-        "affiliation": "Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, The Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden."
-      }
-    ],
-    "journal": "JAMA neurology",
-    "publishedDate": "2026-08-10",
-    "fetchedDate": "2026-08-12",
-    "category": "Neurologia",
-    "tags": [
-      "alzheimer",
-      "dementia",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
