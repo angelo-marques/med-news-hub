@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42810476",
+    "pmid": "42810476",
+    "doi": "10.1016/j.cpcardiol.2026.103474",
+    "title": "PERT implementation and the changing profile of patients undergoing catheter-based pulmonary embolism treatment: a retrospective cohort study.",
+    "titlePt": "PERT implementation and the changing profile of patients undergoing catheter-based pulmonary embolism treatment: a retrospective cohort study.",
+    "abstract": "Despite growing evidence supporting pulmonary embolism response teams (PERT) in high-income countries, published experience from Latin America remains scarce. We assessed the association between PERT implementation and 30-day clinical outcomes in patients with acute PE treated with catheter-based therapy (CBT) in a Latin American university hospital. Retrospective cohort study including consecutive patients with confirmed acute PE treated with CBT between 2004 and 2025. Patients were stratified by treatment era (pre-PERT: 2004-2020; PERT: 2021-2025). The primary endpoint was 30-day major adverse cardiovascular events (MACE), defined as a composite of all-cause death, stroke, or major bleeding (BARC grade &#x2265;3). A total of 53 patients were included: 26 (49%) pre-PERT and 27 (51%) PERT era. ESC high-risk patients predominated in the pre-PERT era (17 (65%) vs 6 (22%); p = 0.002), while intermediate-high risk predominated in the PERT era (9 (35%) vs 21 (78%); p = 0.002). Dedicated thr",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42810476",
+    "authors": [
+      {
+        "name": "J I Damonte",
+        "affiliation": "Interventional Cardiology Department, Hospital Universitario Austral, Pilar, Argentina. Electronic address: jidamonte@gmail.com."
+      },
+      {
+        "name": "Jm H Telayna",
+        "affiliation": "Interventional Cardiology Department, Hospital Universitario Austral, Pilar, Argentina."
+      },
+      {
+        "name": "J Bonorino",
+        "affiliation": "Cardiology Department, Hospital Universitario Austral, Pilar, Argentina."
+      },
+      {
+        "name": "J Bilbao",
+        "affiliation": "Cardiology Department, Hospital Universitario Austral, Pilar, Argentina."
+      }
+    ],
+    "journal": "Current problems in cardiology",
+    "publishedDate": "2026-11-06",
+    "fetchedDate": "2026-11-07",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8LbXoA-2kFHot-a56b6971cdca2973\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 37df1eb8-b7e4-459a-a666-fe8568fa8e0d)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42751785",
     "pmid": "42751785",
     "doi": "10.1097/OLQ.0000000000002413",
@@ -12313,47 +12354,5 @@
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-41427863",
-    "pmid": "41427863",
-    "doi": "10.1097/SHK.0000000000002759",
-    "title": "Pancreatic Stone Protein as an Early Prognostic Biomarker of Outcome in Clostridioides Difficile Infection.",
-    "titlePt": "Pancreatic Stone Protein as an Early Prognostic Biomarker of Outcome in Clostridioides Difficile Infection.",
-    "abstract": "Clostridioides difficile infection (CDI) remains a major healthcare-associated infection, leading to severe complications. Early identification of patients at high risk for unfavorable outcomes remains challenging. Pancreatic stone protein (PSP) has emerged as a promising biomarker in sepsis; however, its role in CDI has not been investigated. We conducted a prospective multicenter study of adult patients with CDI from 13 study sites in Greece. PSP was measured within 24 hours of CDI onset. The primary outcome was the association between PSP and unfavorable outcome, defined as at least one of the following: organ failure, severe disease progression, relapse, or death. Receiver operating characteristic curve was performed to assess diagnostic performance, and multivariate logistic regression to evaluate independent predictors of adverse outcome. One hundred forty-seven patients were enrolled, and unfavorable outcomes occurred in 52. PSP levels were significantly higher in these patients",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm novo estudo prospectivo multicêntrico, publicado no *Shock*, investigou o potencial do biomarcador *Pancreatic Stone Protein* (PSP) como preditor precoce de desfechos adversos em pacientes com infecção por *Clostridioides difficile* (CDI). A pesquisa, conduzida em 13 centros na Grécia e envolvendo 147 adultos, avaliou se níveis elevados de PSP, medidos nas primeiras 24 horas após o início da infecção, poderiam identificar indivíduos com maior risco de complicações graves — como falência de órgãos, progressão para doença severa, recidiva ou óbito.\n\nOs resultados revelaram que pacientes com desfechos desfavoráveis apresentaram concentrações significativamente mais altas de PSP em comparação àqueles com evolução clínica favorável. A análise por curva ROC demonstrou capacidade discriminatória moderada do biomarcador, enquanto a regressão logística multivariada identificou o PSP como fator independente associado a pior prognóstico. Embora os achados sugiram que a dosagem precoce de PSP possa auxiliar na estratificação de risco em CDI, os autores destacam a necessidade de validação em coortes maiores e em diferentes contextos clínicos. Além disso, o estudo não reportou dados sobre custos, viabilidade operacional ou impacto em protocolos assistenciais, limitando conclusões sobre sua aplicabilidade imediata na prática clínica.\n\n**English version**\n\nA new prospective multicenter study published in *Shock* explored the potential of *Pancreatic Stone Protein* (PSP) as an early predictor of adverse outcomes in patients with *Clostridioides difficile* infection (CDI). Conducted across 13 centers in Greece with 147 adults, the research assessed whether elevated PSP levels—measured within 24 hours of symptom onset—could identify individuals at higher risk for severe complications, including organ failure, disease progression to severe stages, recurrence, or death.\n\nThe findings showed that patients with unfavorable outcomes had significantly higher PSP concentrations compared to those with favorable clinical progression. Receiver operating characteristic analysis indicated moderate discriminatory power for PSP, while multivariate logistic regression identified it as an independent predictor of poor prognosis. While the results suggest that early PSP measurement could aid in risk stratification for CDI, the authors emphasize the need for validation in larger cohorts and diverse clinical settings. The study did not report data on cost-effectiveness, operational feasibility, or impact on clinical protocols, limiting conclusions about its immediate applicability in practice.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41427863",
-    "authors": [
-      {
-        "name": "Renatos-Nikolaos Tziolos",
-        "affiliation": "Fourth Department of Internal Medicine, Medical School, National and Kapodistrian University of Athens, Athens, Greece."
-      },
-      {
-        "name": "Christos Psarrakis",
-        "affiliation": "Fourth Department of Internal Medicine, Medical School, National and Kapodistrian University of Athens, Athens, Greece."
-      },
-      {
-        "name": "Panagiotis Koufargyris",
-        "affiliation": "Fourth Department of Internal Medicine, Medical School, National and Kapodistrian University of Athens, Athens, Greece."
-      },
-      {
-        "name": "George Chrysos",
-        "affiliation": "Second Department of Internal Medicine, Tzaneio Piraeus General Hospital, Piraeus, Greece."
-      }
-    ],
-    "journal": "Shock (Augusta, Ga.)",
-    "publishedDate": "2026-08-12",
-    "fetchedDate": "2026-08-12",
-    "category": "Infectologia",
-    "tags": [
-      "infection",
-      "sepsis"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
