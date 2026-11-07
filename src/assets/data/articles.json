@@ -439,6 +439,47 @@
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p88sxMd-2kFHot-a55ec44bda6807d1\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 9555afe8-ff11-45e0-bdad-4b4183b04438)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   },
   {
+    "id": "pubmed-42978544",
+    "pmid": "42978544",
+    "doi": "10.31083/RN54176",
+    "title": "Computational Fluid Dynamics Analysis of Contrast Agent Distribution in Acute Large Artery Occlusive Stroke: A Preliminary Proof-of-Concept Study.",
+    "titlePt": "Computational Fluid Dynamics Analysis of Contrast Agent Distribution in Acute Large Artery Occlusive Stroke: A Preliminary Proof-of-Concept Study.",
+    "abstract": "Acute ischemic stroke (AIS) resulting from carotid artery occlusion (CAO) represents a significant clinical challenge because conventional imaging modalities often lead to inaccuracies in occlusion length assessment, potentially compromising therapeutic decision-making. We aimed to analyze the distribution patterns of contrast agents using computational fluid dynamics (CFD) simulations in AIS caused by CAO and to mitigate errors in estimating occlusion length. Data from four patients with AIS caused by CAO were analyzed. CFD simulations were conducted using postoperative computed tomography angiography (CTA) data to model contrast agent flow, and the results were compared with those of preoperative CTA and intraoperative digital subtraction angiography (DSA). CTA/DSA demonstrated a flame sign at the ICA origin in Patients 1-3. Patients 1 and 2 had carotid dissection, whereas Patient 3 had a C4-segment embolic occlusion. In Patient 3, DSA showed C1-origin vortices, a horizontal contrast",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42978544",
+    "authors": [
+      {
+        "name": "Jiarui Wu",
+        "affiliation": "School of Medicine, Shenzhen University, 518063 Shenzhen, Guangdong, China."
+      },
+      {
+        "name": "Gelin Xu",
+        "affiliation": "Department of Neurology, First Affiliated Hospital of Shenzhen University, 518061 Shenzhen, Guangdong, China."
+      },
+      {
+        "name": "Qingyue Gan",
+        "affiliation": "Department of Neurology, First Affiliated Hospital of Shenzhen University, 518061 Shenzhen, Guangdong, China."
+      },
+      {
+        "name": "Rui Shi",
+        "affiliation": "School of Medicine, Shenzhen University, 518063 Shenzhen, Guangdong, China."
+      }
+    ],
+    "journal": "Revista de neurologia",
+    "publishedDate": "2026-11-04",
+    "fetchedDate": "2026-11-07",
+    "category": "Neurologia",
+    "tags": [
+      "stroke",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8MTJ2S-2kFHot-a56c567cca85ba62\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: c678ddfb-d443-4cfb-807e-025175c5b170)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42982755",
     "pmid": "42982755",
     "doi": "10.1002/alz.71964",
@@ -12309,50 +12350,5 @@
     "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42565556",
-    "pmid": "42565556",
-    "doi": "10.1093/oncolo/oyag308",
-    "title": "Genomic landscape and therapeutic implications of Anaplastic Lymphoma Kinase fusion-positive colorectal cancer.",
-    "titlePt": "Genomic landscape and therapeutic implications of Anaplastic Lymphoma Kinase fusion-positive colorectal cancer.",
-    "abstract": "Anaplastic lymphoma kinase (ALK) fusions are established oncogenic drivers and therapeutic targets in multiple malignancies, including non-small cell lung cancer, but are rare in colorectal cancer (CRC). Although ALK fusions in CRC have been associated with sensitivity to ALK inhibitors, their broader genomic context remains incompletely defined. We aimed to characterize the prevalence, clinicogenomic features, and therapeutic implications of ALK fusions in advanced CRC. Comprehensive genomic profiling using hybrid capture-based next-generation sequencing was performed on 56&#xa0;206 advanced CRC tumors to identify alterations, including ALK fusions. Microsatellite instability (MSI)/mismatch repair (MMR) status, tumor mutational burden (TMB), genomic ancestry, COSMIC trinucleotide signatures, and homologous recombination deficiency (HRD) signatures were derived from sequencing data. PD-L1 expression was assessed by immunohistochemistry. ALK fusions were identified in 63 tumors (0.1%). ",
-    "journalisticSummary": "Um estudo recente publicado no PubMed investigou a presença de fusões do gene Anaplastic Lymphoma Kinase (ALK) em tumores de câncer colorretal avançado, visando caracterizar a prevalência, as características clínicas e genômicas e as implicações terapêuticas dessas alterações. A pesquisa utilizou uma abordagem de sequenciamento de nova geração para analisar 56.206 tumores de câncer colorretal avançado. Os resultados mostraram que as fusões de ALK estão presentes em aproximadamente 0,1% desses tumores, o que é considerado raro. Embora as fusões de ALK sejam conhecidas por serem alvos terapêuticos eficazes em outros tipos de câncer, como o câncer de pulmão de não pequenas células, seu contexto genômico mais amplo em câncer colorretal ainda não havia sido completamente definido. O estudo não apenas identificou a presença dessas fusões, mas também avaliou outros parâmetros, como instabilidade microsatelita (MSI), status de reparo de erro de pareamento (MMR), carga mutacional tumoral (TMB), ancestralidade genômica, assinaturas trinucleotídeas COSMIC e assinaturas de deficiência de recombinação homóloga (HRD), além da expressão de PD-L1 por imunohistoquímica. Os achados principais incluem a identificação de 63 tumores com fusões de ALK, o que pode ter implicações significativas para o tratamento desses pacientes com inibidores de ALK. No entanto, os autores não forneceram informações detalhadas sobre o impacto clínico direto dessas descobertas em termos de resultados de tratamento ou sobre próximos passos específicos para a investigação clínica.\n\nA pesquisa recente publicada no PubMed investigou a presença de fusões do gene Anaplastic Lymphoma Kinase (ALK) em tumores de câncer colorretal avançado. Embora as fusões de ALK sejam alvos terapêuticos estabelecidos em vários tipos de câncer, incluindo o câncer de pulmão de não pequenas células, elas são raras no câncer colorretal. O objetivo do estudo foi caracterizar a prevalência, as características clínicas e genômicas e as implicações terapêuticas das fusões de ALK em câncer colorretal avançado. Para isso, foi realizada uma análise de sequenciamento de nova geração em 56.206 tumores de câncer colorretal avançado para identificar alterações, incluindo fusões de ALK. Além disso, foram derivados a instabilidade microsatelita (MSI), o status de reparo de erro de pareamento (MMR), a carga mutacional tumoral (TMB), a ancestralidade genômica, as assinaturas trinucleotídeas COSMIC e as assinaturas de deficiência de recombinação homóloga (HRD) a partir dos dados de sequenciamento. A expressão de PD-L1 foi avaliada por imunohistoquímica. Os resultados mostraram que as fusões de ALK foram identificadas em 63 tumores, o que corresponde a aproximadamente 0,1% dos tumores analisados. Embora os autores tenham destacado a importância dessas descobertas para o tratamento com inibidores de ALK, não forneceram detalhes sobre o impacto clínico direto ou os próximos passos para a investigação clínica.\n\nUm estudo recente publicado no PubMed investigou a presença de fusões do gene Anaplastic Lymphoma Kinase (ALK) em tumores de câncer colorretal avançado, visando caracterizar a prevalência, as características clínicas e genômicas e as implicações terapêuticas dessas alterações. A pesquisa utilizou uma abordagem de sequenciamento de nova geração para analisar 56.206 tumores de câncer colorretal avançado. Os resultados mostraram que as fusões de ALK estão presentes em aproximadamente 0,1% desses tumores, o que é considerado raro. Embora as fusões de ALK sejam conhecidas por serem alvos terapêuticos eficazes em outros tipos de câncer, como o câncer de pulmão de não pequenas células, seu contexto genômico mais amplo em câncer colorretal ainda não havia sido completamente definido. O estudo não apenas identificou a presença dessas fusões, mas também avaliou outros parâmetros, como instabilidade microsatelita (MSI), status de reparo de erro de pareamento (MMR), carga mutacional tumoral (TMB), ancestralidade genômica, assinaturas trinucleotídeas COSMIC e assinaturas de deficiência de recombinação homóloga (HRD), além da expressão de PD-L1 por imunohistoquímica. Os achados principais incluem a identificação de 63 tumores com fusões de ALK, o que pode ter implicações significativas para o tratamento desses pacientes com inibidores de ALK. No entanto, os autores não forneceram informações detalhadas sobre o impacto clínico direto dessas descobertas em termos de resultados de tratamento ou sobre próximos passos específicos para a investigação clínica.\n\nAgora em inglês:\n\nA recent study published on PubMed investigated the presence of Anaplastic Lymphoma Kinase (ALK) gene fusions in advanced colorectal cancer tumors, aiming to characterize the prevalence, clinicogenomic features, and therapeutic implications of these alterations. The research used a next-generation sequencing approach to analyze 56,206 advanced colorectal cancer tumors. The results showed that ALK fusions are present in approximately 0.1% of these tumors, which is considered rare. Although ALK fusions are known to be effective therapeutic targets in other types of cancer, such as non-small cell lung cancer, their broader genomic context in colorectal cancer had not been fully defined. The study not only identified the presence of these fusions but also evaluated other parameters, such as microsatellite instability (MSI), mismatch repair (MMR) status, tumor mutational burden (TMB), genomic ancestry, COSMIC trinucleotide signatures, and homologous recombination deficiency (HRD) signatures, as well as PD-L1 expression by immun",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42565556",
-    "authors": [
-      {
-        "name": "Xuanyi Li",
-        "affiliation": "Yale Cancer Center, New Haven, CT 06510, United States."
-      },
-      {
-        "name": "Faiza Yasin",
-        "affiliation": "Dana-Farber Cancer Institute, Boston, MA 02215, United States."
-      },
-      {
-        "name": "Dean C Pavlick",
-        "affiliation": "Foundation Medicine, Inc, Boston, MA 02210, United States."
-      },
-      {
-        "name": "Jeffrey S Ross",
-        "affiliation": "Foundation Medicine, Inc, Boston, MA 02210, United States."
-      }
-    ],
-    "journal": "The oncologist",
-    "publishedDate": "2026-08-12",
-    "fetchedDate": "2026-08-13",
-    "category": "Genômica",
-    "tags": [
-      "cancer",
-      "tumor",
-      "lymphoma",
-      "genomic",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
