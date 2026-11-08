@@ -1,5 +1,86 @@
 [
   {
+    "id": "pubmed-42544771",
+    "pmid": "42544771",
+    "doi": "10.1002/cyto.b.70057",
+    "title": "CD72 as a complementary B-lineage marker for longitudinal measurable residual disease surveillance after CD19 CAR-T therapy in R/R B-ALL.",
+    "titlePt": "CD72 as a complementary B-lineage marker for longitudinal measurable residual disease surveillance after CD19 CAR-T therapy in R/R B-ALL.",
+    "abstract": "This study aimed to evaluate the feasibility of CD72 as a complementary CD19-independent B-lineage gating marker for longitudinal measurable residual disease (MRD) surveillance in relapsed/refractory B-cell acute lymphoblastic leukemia (R/R B-ALL) following CD19 CAR-T therapy. Correlation analyses were performed in 66 B-ALL samples to compare MRD detection using CD72, CD19, and cytoplasmic CD79a. CD72 expression specificity was further evaluated in 129 leukemia patients. In addition, 129 patients with R/R B-ALL treated with autologous CD19 CAR-T therapy in registered clinical trials (ChiCTR-IIh-16008711; NCT03173417) between January 2021 and December 2022 were retrospectively analyzed, with follow-up continued until January 2025. CD72 gating showed excellent concordance with both CD19- and cCD79a-based strategies for MRD assessment. CD72 expression demonstrated high specificity in B-ALL, with a positivity rate of 95.77%, compared with 29.27% in AML and 23.53% in T-ALL. All 129 heavily ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544771",
+    "authors": [
+      {
+        "name": "Man Chen",
+        "affiliation": "Department of Pathology and Laboratory Medicine, Beijing Lu Daopei Hospital, Beijing, China."
+      },
+      {
+        "name": "Jing Zhou",
+        "affiliation": "Department of Clinical Laboratory, Hebei Yanda Lu Daopei Hospital, Langfang, China."
+      },
+      {
+        "name": "Wei Zhao",
+        "affiliation": "Department of Hematopoietic Stem Cell Transplantation, Beijing Lu Daopei Hospital, Beijing, China."
+      },
+      {
+        "name": "Jing Long",
+        "affiliation": "Medical Data Center, Beijing, China."
+      }
+    ],
+    "journal": "Cytometry. Part B, Clinical cytometry",
+    "publishedDate": "2026-11-07",
+    "fetchedDate": "2026-11-08",
+    "category": "Oncologia",
+    "tags": [
+      "leukemia",
+      "clinical trial"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8TMLdK-2kFHot-a572b3cf3a9c9d2e\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 894abb12-c2cb-4e78-a515-b2444a1fc917)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42998941",
+    "pmid": "42998941",
+    "doi": "10.1016/j.acra.2026.10.036",
+    "title": "Association of Advanced Age With Functional Recovery After Endovascular Thrombectomy in Patients With Large-core Ischemic Stroke.",
+    "titlePt": "Association of Advanced Age With Functional Recovery After Endovascular Thrombectomy in Patients With Large-core Ischemic Stroke.",
+    "abstract": "Evidence supporting endovascular thrombectomy (EVT) for large-core ischemic stroke has expanded, but outcomes in patients aged &#x2265;80 years remain insufficiently characterized. We evaluated outcomes after EVT in this population, with particular attention to prestroke disability-adjusted functional recovery. This retrospective study included patients with anterior-circulation large vessel occlusion and large-core stroke (Alberta Stroke Program Early CT Score 0 to 5 or CT perfusion core volume &#x2265;50&#x202f;mL) treated with EVT between October 2019 and September 2025. The primary outcome was prestroke disability-adjusted functional recovery, defined as 90-day modified Rankin Scale (mRS)&#x202f;&#x2264;&#x202f;prestroke mRS&#x202f;+&#x202f;1. Among 377 patients, 75 were aged &#x2265;80 years, and 302 were &lt;80 years. Functional recovery occurred in 14.7% and 18.9%, respectively. Age &#x2265;80 years was not significantly associated with functional recovery (adjusted odds ratio [",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42998941",
+    "authors": [
+      {
+        "name": "Xian Xie",
+        "affiliation": "Department of Interventional Radiology, the First Affiliated Hospital with Nanjing Medical University, Nanjing, China."
+      },
+      {
+        "name": "Bo Huang",
+        "affiliation": "Department of Interventional Radiology, the First Affiliated Hospital with Nanjing Medical University, Nanjing, China."
+      },
+      {
+        "name": "Guangdong Lu",
+        "affiliation": "Department of Interventional Radiology, the First Affiliated Hospital with Nanjing Medical University, Nanjing, China."
+      },
+      {
+        "name": "Yuezhou Cao",
+        "affiliation": "Department of Interventional Radiology, the First Affiliated Hospital with Nanjing Medical University, Nanjing, China."
+      }
+    ],
+    "journal": "Academic radiology",
+    "publishedDate": "2026-11-07",
+    "fetchedDate": "2026-11-08",
+    "category": "Neurologia",
+    "tags": [
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8TMXpT-2kFHot-a572b4ba69f4825d\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 0c930b40-35e4-4c9b-8354-46e59e84b888)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42810476",
     "pmid": "42810476",
     "doi": "10.1016/j.cpcardiol.2026.103474",
@@ -12261,94 +12342,5 @@
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Groq"
-  },
-  {
-    "id": "pubmed-42589583",
-    "pmid": "42589583",
-    "doi": "10.3390/ijms27156930",
-    "title": "Next-Generation Sequencing in Colorectal Cancer: Real-World Molecular Profiling and Clinical Correlations.",
-    "titlePt": "Next-Generation Sequencing in Colorectal Cancer: Real-World Molecular Profiling and Clinical Correlations.",
-    "abstract": "Next-generation sequencing (NGS) has become a cornerstone of precision oncology in colorectal cancer (CRC), although its role in routine patient stratification remains incompletely defined. This retrospective single-centre study characterised the molecular landscape of clinically selected CRC patients undergoing routine NGS and explored associations between genomic alterations and clinicopathological features. 97 eligible patients who underwent targeted NGS using two validated sequencing platforms were selected. Demographic, clinicopathological, and molecular data were integrated, and associations were evaluated using descriptive statistics, exploratory association testing, principal component analysis, and multiple correspondence analysis. At least one reportable genetic alteration was identified in 91 patients (93.8%), comprising 198 alteration events across multiple cancer-related genes. The most frequently altered genes with pathogenic or likely pathogenic variants were TP53 (55.7%",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo de centro único avaliou o perfil molecular de pacientes com câncer colorretal (CCR) submetidos a sequenciamento de nova geração (NGS) em ambiente clínico, buscando correlacionar alterações genômicas com características clinicopatológicas. Publicado na *International Journal of Molecular Sciences*, a pesquisa analisou dados de 97 pacientes elegíveis submetidos a NGS direcionado por duas plataformas validadas, integrando informações demográficas, clínicas e moleculares. Os resultados revelaram que 93,8% dos pacientes apresentaram pelo menos uma alteração genética reportável, totalizando 198 eventos em genes relacionados ao câncer. Entre os genes mais frequentemente alterados com variantes patogênicas ou provavelmente patogênicas, o *TP53* destacou-se com 55,7% dos casos, seguido por *APC* (44,3%) e *KRAS* (32,0%). Além disso, foram identificadas alterações em genes menos comuns, como *ERBB2* (8,2%) e *FGFR1* (6,2%), sugerindo potenciais alvos terapêuticos em subgrupos específicos.\n\nEmbora o estudo tenha demonstrado a viabilidade do NGS na estratificação molecular de pacientes com CCR em um contexto real, suas limitações incluem o desenho retrospectivo e a amostra reduzida de um único centro, o que pode restringir a generalização dos achados. A ausência de dados sobre desfechos clínicos, como resposta terapêutica ou sobrevida, impede uma análise mais robusta do impacto dessas alterações na prática clínica. Os autores destacam a necessidade de estudos prospectivos multicêntricos para validar essas correlações e explorar o potencial do NGS na personalização de terapias-alvo, especialmente em pacientes com mutações menos frequentes. Esses achados reforçam o papel do NGS como ferramenta complementar na oncologia de precisão, mas também sublinham os desafios na integração desses dados em protocolos assistenciais padronizados.\n\n---\n\n**English version**\n\nA single-centre retrospective study has mapped the molecular landscape of clinically selected colorectal cancer (CRC) patients undergoing next-generation sequencing (NGS), aiming to correlate genomic alterations with clinicopathological features. Published in the *International Journal of Molecular Sciences*, the research analysed data from 97 eligible patients who underwent targeted NGS using two validated sequencing platforms, integrating demographic, clinical, and molecular data. The findings revealed that 93.8% of patients harboured at least one reportable genetic alteration, totalling 198 events across cancer-related genes. Among the most frequently altered genes with pathogenic or likely pathogenic variants, *TP53* was the most common (55.7%), followed by *APC* (44.3%) and *KRAS* (32.0%). Less common alterations, such as in *ERBB2* (8.2%) and *FGFR1* (6.2%), were also identified, suggesting potential therapeutic targets in specific subgroups.\n\nWhile the study demonstrates the feasibility of NGS for molecular stratification in CRC within a real-world setting, its retrospective design and single-centre cohort limit the generalisability of the results. The absence of clinical outcome data, such as treatment response or survival, precludes a more comprehensive assessment of the impact of these alterations on patient care. The authors emphasise the need for prospective multicentre studies to validate these correlations and further explore the role of NGS in personalised targeted therapies, particularly for patients with rare mutations. These findings underscore NGS as a complementary tool in precision oncology, while also highlighting the challenges in integrating genomic data into standardised clinical protocols.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42589583",
-    "authors": [
-      {
-        "name": "Afonso Cunha",
-        "affiliation": "School of Medicine and Biomedical Sciences, University of Porto, Rua Jorge de Viterbo Ferreira, 228, 4050-313 Porto, Portugal."
-      },
-      {
-        "name": "Carolina Robalo",
-        "affiliation": "Unidade de Cirurgia Colorretal, Servi&#xe7;o de Cirurgia Digestiva e Extradigestiva, Unidade Local de Sa&#xfa;de de Santo Ant&#xf3;nio, 4050-313 Porto, Portugal."
-      },
-      {
-        "name": "Carolina Lemos",
-        "affiliation": "Unit for Multidisciplinary Research in Biomedicine, School of Medicine and Biomedical Sciences, University of Porto, Rua Jorge de Viterbo Ferreira, 228, 4050-313 Porto, Portugal."
-      },
-      {
-        "name": "Nuno Jorge Lamas",
-        "affiliation": "ITR-Laboratory for Integrative and Translational Research in Population Health, 4050-313 Porto, Portugal."
-      }
-    ],
-    "journal": "International journal of molecular sciences",
-    "publishedDate": "2026-08-13",
-    "fetchedDate": "2026-08-13",
-    "category": "Genômica",
-    "tags": [
-      "cancer",
-      "oncology",
-      "genomic",
-      "genetic",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42585316",
-    "pmid": "42585316",
-    "doi": "10.1126/sciadv.aee2305",
-    "title": "Prediction of mild cognitive impairment progression using time-sensitive multimodal biomarkers.",
-    "titlePt": "Prediction of mild cognitive impairment progression using time-sensitive multimodal biomarkers.",
-    "abstract": "Alzheimer's disease (AD) develops silently for years before symptoms emerge, making early identification of at-risk individuals essential for prevention trials and early intervention. We tested whether combining neurophysiological, imaging, and blood biomarkers improves prediction of progression to mild cognitive impairment (MCI) in cognitively unimpaired older adults with a family history of AD (n&#xa0;=&#xa0;102; 31 progressors; mean follow-up of 5.9 years). Magnetoencephalography, magnetic resonance imaging, plasma biomarkers, and amyloid and tau positron emission tomography each captured complementary aspects of disease biology. Multimodal models predicted progression more accurately than demographic and genetic factors alone. Higher MEG alpha power was associated with increased near-term risk, whereas higher gamma activity predicted lower near-term risk; both effects weakened over time. Higher neocortical amyloid burden predicted increasing risk over follow-up, whereas plasma biom",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado na *Science Advances* apresenta um avanço significativo na detecção precoce de indivíduos com alto risco de desenvolver comprometimento cognitivo leve (CCL), condição que pode preceder a doença de Alzheimer. Pesquisadores analisaram dados de 102 adultos mais velhos cognitivamente intactos, mas com histórico familiar da doença, acompanhados por até 5,9 anos. Os resultados demonstram que a combinação de múltiplos biomarcadores — incluindo neurofisiológicos (magnetoencefalografia), de imagem (ressonância magnética e tomografia por emissão de pósitrons para amiloide e tau), e sanguíneos — melhora substancialmente a capacidade de prever quem progredirá para CCL em comparação a modelos baseados apenas em fatores demográficos ou genéticos.\n\nEntre os achados mais relevantes, destaca-se o papel da magnetoencefalografia (MEG): uma maior potência na atividade alpha foi associada a um risco imediato elevado de progressão, enquanto níveis elevados de atividade gama indicaram menor risco a curto prazo — embora ambos os efeitos tenham se atenuado ao longo do tempo. Além disso, a carga neocortical de amiloide, mensurada por PET, mostrou-se um preditor robusto de risco crescente ao longo do acompanhamento. Os biomarcadores plasmáticos também contribuíram para o modelo, embora sua contribuição específica não tenha sido detalhada no resumo. Esses resultados reforçam a hipótese de que a doença de Alzheimer se desenvolve de forma silenciosa por anos, exigindo abordagens multimodais para uma identificação precisa antes do surgimento de sintomas clínicos.\n\nDo ponto de vista clínico, a integração dessas ferramentas pode otimizar a seleção de participantes para ensaios clínicos de prevenção e permitir intervenções mais precoces, potencialmente retardando ou até evitando a progressão para demência. No entanto, o estudo apresenta limitações importantes: a amostra reduzida (n=102) e a ausência de validação externa em populações mais diversas restringem a generalização dos achados. Além disso, a contribuição relativa de cada biomarcador no modelo combinado não foi explicitada, o que limita a interpretação de sua aplicabilidade prática. Os próximos passos incluem a replicação dos resultados em coortes maiores e a avaliação da custo-efetividade dessas abordagens em contextos de saúde pública.\n\n---\n\n**English version**\n\nA study published in *Science Advances* offers a promising advance in the early identification of individuals at high risk of progressing to mild cognitive impairment (MCI), a condition that may precede Alzheimer’s disease (AD). Researchers analyzed data from 102 cognitively unimpaired older adults with a family history of AD, followed for up to 5.9 years. The findings demonstrate that combining multimodal biomarkers—including neurophysiological (magnetoencephalography), imaging (magnetic resonance imaging and positron emission tomography for amyloid and tau), and blood-based markers—significantly improves the prediction of MCI progression compared to models relying solely on demographic or genetic factors.\n\nKey findings highlight the role of magnetoencephalography (MEG) in risk stratification: higher alpha power was associated with an increased near-term risk of progression, while elevated gamma activity indicated lower short-term risk—though both effects diminished over time. Additionally, neocortical amyloid burden, measured via PET, emerged as a strong predictor of increasing risk throughout the follow-up period. Plasma biomarkers also contributed to the model, though their specific role was not detailed in the abstract. These results support the hypothesis that AD develops silently for years, necessitating multimodal approaches for accurate early identification before clinical symptoms arise.\n\nClinically, integrating these tools could enhance participant selection for prevention trials and enable earlier interventions that may delay or prevent progression to dementia. However, the study has notable limitations: the small sample size (n=102) and lack of external validation in diverse populations restrict the generalizability of the findings. Furthermore, the relative contribution of each biomarker in the combined model was not specified, limiting insights into practical applicability. Future steps should involve replicating these results in larger cohorts and assessing the cost-effectiveness of such approaches in public health settings.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42585316",
-    "authors": [
-      {
-        "name": "Jonathan Gallego-Rudolf",
-        "affiliation": "Douglas Research Centre, McGill University, Montreal, Canada."
-      },
-      {
-        "name": "Alex I Wiesman",
-        "affiliation": "McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, Montreal, Canada."
-      },
-      {
-        "name": "Yara Yakoub",
-        "affiliation": "McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, Montreal, Canada."
-      },
-      {
-        "name": "Henrik Zetterberg",
-        "affiliation": "Department of Biomedical Physiology and Kinesiology, Simon Fraser University, Burnaby, Canada."
-      }
-    ],
-    "journal": "Science advances",
-    "publishedDate": "2026-08-12",
-    "fetchedDate": "2026-08-13",
-    "category": "Neurologia",
-    "tags": [
-      "alzheimer",
-      "cognitive",
-      "genetic",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
