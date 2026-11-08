@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-42998661",
+    "pmid": "42998661",
+    "doi": "10.1016/j.tjpad.2026.100693",
+    "title": "Efficacy and safety of anti-tau drugs for Alzheimer's disease: A systematic review and network meta-analysis.",
+    "titlePt": "Efficacy and safety of anti-tau drugs for Alzheimer's disease: A systematic review and network meta-analysis.",
+    "abstract": "To evaluate and compare the effects of different anti-tau drugs on clinical and biological outcomes in patients with Alzheimer's disease (AD). PubMed, Cochrane Library, and Embase databases were searched for identifying randomized, controlled clinical trials from inception to December 2025. Twelve high-quality studies with 11 drugs were evaluated. Systematic meta-analysis did not demonstrate significant efficacy of anti-tau drugs in preventing cognitive and functional declines or clearance of tau deposition on PET. However, effects in reducing levels of p-tau (SMD=-0.48, 95% CI: -0.73 to -0.22, P&#x202f;&lt;&#x202f;0.01) and t-tau (SMD=-0.69, 95% CI: -0.94 to -0.45, P&#x202f;&lt;&#x202f;0.01) in the cerebrospinal fluid were observed. Network analysis revealed that MAPTRx and nicotinamide ranked highest for improving cognitive function, and gosuranemab ranked highest for tau biomarker changes. The current findings highlight the disease-modifying potential of anti-tau therapies for AD, a",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42998661",
+    "authors": [
+      {
+        "name": "Yuetao Hu",
+        "affiliation": "Department of Neurology, Tianjin Neurological Institute, Tianjin Medical University General Hospital, 154 Anshan Road, Tianjin, 300052, China."
+      },
+      {
+        "name": "Yuning Cheng",
+        "affiliation": "Department of Neurology, Tianjin Neurological Institute, Tianjin Medical University General Hospital, 154 Anshan Road, Tianjin, 300052, China."
+      },
+      {
+        "name": "Yanqu Su",
+        "affiliation": "Department of Neurology, Tianjin Neurological Institute, Tianjin Medical University General Hospital, 154 Anshan Road, Tianjin, 300052, China."
+      },
+      {
+        "name": "Zeming Han",
+        "affiliation": "Department of Neurology, Tianjin Neurological Institute, Tianjin Medical University General Hospital, 154 Anshan Road, Tianjin, 300052, China."
+      }
+    ],
+    "journal": "The journal of prevention of Alzheimer's disease",
+    "publishedDate": "2026-11-07",
+    "fetchedDate": "2026-11-08",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "cognitive",
+      "drug",
+      "clinical trial"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8VArtr-2kFHot-a574aa75cd5c138b\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: dfa0f1f2-00e9-4afe-88ff-777b04501abc)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42544771",
     "pmid": "42544771",
     "doi": "10.1002/cyto.b.70057",
@@ -12300,47 +12343,5 @@
     "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42593790",
-    "pmid": "42593790",
-    "doi": "10.1001/jamanetworkopen.2026.28987",
-    "title": "CCL5 Levels, Disease Progression, and Mortality in Respiratory Viral Infections: A Systematic Review and Meta-Analysis.",
-    "titlePt": "CCL5 Levels, Disease Progression, and Mortality in Respiratory Viral Infections: A Systematic Review and Meta-Analysis.",
-    "abstract": "The role of chemokine C-C motif ligand 5 (CCL5) in respiratory viral infections remains controversial; although essential for viral clearance, it is also implicated in pathogenic hyperinflammation. To quantify associations between CCL5 levels and unfavorable disease progression and mortality in respiratory viral infections. Medline and PubMed, Embase, Scopus, Web of Science, the Cochrane Library, CABI Digital Library, and Global Health (Ovid) were searched from inception to October 1, 2025. Observational studies evaluating the association of CCL5 levels with clinical severity or survival in patients with confirmed respiratory viral infections. Two reviewers independently extracted data and assessed risk of bias (Newcastle-Ottawa Scale) and certainty of evidence (GRADE). Data were pooled using a random-effects model following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Data analysis was performed from September 2025 to December 2025. Unfavorab",
-    "journalisticSummary": "A quimiocina C-C motif ligand 5 (CCL5) desempenha um papel complexo nas infecções virais respiratórias, pois é essencial para a eliminação do vírus, mas também pode contribuir para a hiperinflamação patogênica. Um estudo recente publicado no JAMA Network Open buscou quantificar as associações entre os níveis de CCL5 e a progressão desfavorável da doença e a mortalidade em infecções virais respiratórias. Os pesquisadores realizaram uma revisão sistemática e metanálise de estudos observacionais que avaliaram a associação entre os níveis de CCL5 e a gravidade clínica ou a sobrevida em pacientes com infecções virais respiratórias confirmadas. Os bancos de dados Medline, PubMed, Embase, Scopus, Web of Science, a Biblioteca Cochrane, CABI Digital Library e Global Health (Ovid) foram pesquisados desde sua criação até 1 de outubro de 2025. Os dados foram extraídos independentemente por dois revisores e avaliados quanto ao risco de viés e certeza da evidência. Os resultados foram agrupados usando um modelo de efeitos aleatórios, seguindo as diretrizes do PRISMA. Embora os achados principais não tenham sido explicitados no resumo, é provável que o estudo tenha encontrado associações significativas entre os níveis de CCL5 e a progressão da doença ou a mortalidade. No entanto, sem acesso aos dados detalhados, não é possível fornecer uma análise mais profunda. O impacto clínico desses achados pode ser relevante para o desenvolvimento de estratégias terapêuticas direcionadas à modulação da resposta inflamatória em infecções virais respiratórias. As limitações do estudo, como a heterogeneidade dos estudos incluídos e a variabilidade na medida dos níveis de CCL5, devem ser consideradas. Próximos passos incluem a realização de estudos adicionais para confirmar essas associações e explorar as implicações clínicas em diferentes contextos.\n\nThe chemokine C-C motif ligand 5 (CCL5) plays a complex role in respiratory viral infections, as it is essential for virus clearance but may also contribute to pathogenic hyperinflammation. A recent study published in JAMA Network Open aimed to quantify the associations between CCL5 levels and unfavorable disease progression and mortality in respiratory viral infections. The researchers conducted a systematic review and meta-analysis of observational studies that evaluated the association between CCL5 levels and clinical severity or survival in patients with confirmed respiratory viral infections. The Medline, PubMed, Embase, Scopus, Web of Science, Cochrane Library, CABI Digital Library, and Global Health (Ovid) databases were searched from inception to October 1, 2025. Data were extracted independently by two reviewers and assessed for risk of bias and certainty of evidence. Results were pooled using a random-effects model, following PRISMA guidelines. Although the main findings were not explicitly stated in the abstract, it is likely that the study found significant associations between CCL5 levels and disease progression or mortality. However, without access to detailed data, a more in-depth analysis cannot be provided. The clinical impact of these findings may be relevant for the development of therapeutic strategies targeting the modulation of the inflammatory response in respiratory viral infections. The limitations of the study, such as the heterogeneity of the included studies and the variability in measuring CCL5 levels, should be considered. Next steps include conducting additional studies to confirm these associations and exploring the clinical implications in different contexts.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593790",
-    "authors": [
-      {
-        "name": "Carlos Pita-Mart&#xed;nez",
-        "affiliation": "Unidad de Infecci&#xf3;n Viral e Inmunidad. Centro Nacional de Microbiolog&#xed;a, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain."
-      },
-      {
-        "name": "Daniel Sep&#xfa;lveda-Crespo",
-        "affiliation": "Unidad de Infecci&#xf3;n Viral e Inmunidad. Centro Nacional de Microbiolog&#xed;a, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain."
-      },
-      {
-        "name": "Jes&#xfa;s F Bermejo-Mart&#xed;n",
-        "affiliation": "Centro de Investigaci&#xf3;n Biom&#xe9;dica en Red en Enfermedades Infecciosas (CIBERINFEC), Instituto de Salud Carlos III, Madrid, Spain."
-      },
-      {
-        "name": "Isidoro Mart&#xed;nez",
-        "affiliation": "Group for Biomedical Research in Sepsis (BioSepsis), Instituto de Investigaci&#xf3;n Biom&#xe9;dica de Salamanca (IBSAL), Gerencia Regional de Salud de Castilla y Le&#xf3;n, Salamanca, Spain."
-      }
-    ],
-    "journal": "JAMA network open",
-    "publishedDate": "2026-08-13",
-    "fetchedDate": "2026-08-14",
-    "category": "Infectologia",
-    "tags": [
-      "infection",
-      "viral"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Groq"
   }
 ]
