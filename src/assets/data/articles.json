@@ -1,5 +1,84 @@
 [
   {
+    "id": "pubmed-42999456",
+    "pmid": "42999456",
+    "doi": "10.64898/2026.10.13.26365415",
+    "title": "Phase 1 durability study of a single dose of the live-attenuated cholera vaccine PanChol and the safety and immunogenicity of a second dose.",
+    "titlePt": "Phase 1 durability study of a single dose of the live-attenuated cholera vaccine PanChol and the safety and immunogenicity of a second dose.",
+    "abstract": "Killed whole-cell oral cholera vaccines require multiple doses and have reduced efficacy in young children, limiting their utility. PanChol is a single-dose, oral live-attenuated cholera vaccine engineered from a current seventh pandemic El Tor O1 Vibrio cholerae strain. PanChol was shown to be safe and immunogenic in a previous phase 1a trial. In participants from this first-in-human trial, we aimed to assess the durability of the initial PanChol dose and the safety and immunogenicity of a second dose. This open-label phase 1a booster study was conducted at Brigham and Women's Hospital (Boston, MA). Eligible participants were healthy adults aged 18-55 years without a history of cholera or gastrointestinal disorders and had received a PanChol dose ranging from 10 5 -10 10 colony-forming units (CFU) within the previous 322-1111 days. All participants received a booster dose of 2&#xd7;10 7 CFU. The primary outcome was safety, including solicited, unsolicited, and serious adverse events f",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42999456",
+    "authors": [
+      {
+        "name": "Deborah R Leitner"
+      },
+      {
+        "name": "Stephen R Walsh"
+      },
+      {
+        "name": "Amy C Sherman"
+      },
+      {
+        "name": "Alisse Hannaford"
+      }
+    ],
+    "journal": "medRxiv : the preprint server for health sciences",
+    "publishedDate": "2026-11-08",
+    "fetchedDate": "2026-11-08",
+    "category": "Pediatria",
+    "tags": [
+      "children",
+      "vaccine"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8X3VVk-2kFHot-a576afeb9f105113\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 64bd95ce-624c-4ece-8a71-c056d606aca9)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42999709",
+    "pmid": "42999709",
+    "doi": "10.1016/j.conctc.2026.101704",
+    "title": "Efficacy, safety and mechanism of Jinfeng pill in the treatment of perimenopausal syndrome: A protocol for a randomized, double-blind, placebo-controlled, multicenter trial.",
+    "titlePt": "Efficacy, safety and mechanism of Jinfeng pill in the treatment of perimenopausal syndrome: A protocol for a randomized, double-blind, placebo-controlled, multicenter trial.",
+    "abstract": "Perimenopausal syndrome (PMPS) refers to a series of physiological and psychological symptoms caused by the fluctuation or decline of sex hormone levels during the pre- and postmenopausal periods. With the acceleration of aging society, more and more women suffer from symptoms of PMPS. Jinfeng Pill (JFP) is a classic Chinese patent medicine for gynecological diseases, but it lacks rigorous clinical evidence for the treatment of PMPS. This randomized, double-blind, placebo-controlled, multicenter trial will be conducted across three hospitals in China. A total of 100 perimenopausal women will be randomly allocated in a 1:1 ratio to receive JFP or placebo for 12 weeks, followed by a 4-week post-treatment follow-up. The primary outcome is the modified Kupperman Index (KI), assessed at baseline and at weeks 4, 8, 12, and 16. Secondary outcomes include the Hot Flash scale (HFs), the Menopause-Specific Quality of Life (MENQOL) questionnaire, the Hamilton Depression Rating Scale (HAMD), the H",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42999709",
+    "authors": [
+      {
+        "name": "Xiao Wu",
+        "affiliation": "Department of Integrated Traditional Chinese and Western Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430030, China."
+      },
+      {
+        "name": "Lishan Zhou",
+        "affiliation": "Department of Traditional Chinese Medicine Gynecology, Wuhan Children's Hospital (Wuhan Maternal and Child Healthcare Hospital), Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430016, China."
+      },
+      {
+        "name": "Jiaqi Hu",
+        "affiliation": "Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430030, China."
+      },
+      {
+        "name": "Man Tian",
+        "affiliation": "Department of Integrated Traditional Chinese and Western Medicine, Hubei Maternal and Child Health Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430070, China."
+      }
+    ],
+    "journal": "Contemporary clinical trials communications",
+    "publishedDate": "2026-11-08",
+    "fetchedDate": "2026-11-08",
+    "category": "Saúde Mental",
+    "tags": [
+      "depression",
+      "psychological",
+      "hormone"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8X3ajQ-2kFHot-a576b059b8605110\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: d90ff973-907f-4dc7-a4c8-be915a92a6a3)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42998661",
     "pmid": "42998661",
     "doi": "10.1016/j.tjpad.2026.100693",
@@ -12253,94 +12332,6 @@
     ],
     "isHighlight": false,
     "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42598160",
-    "pmid": "42598160",
-    "doi": "10.15537/1658-3175.8842",
-    "title": "Patient Experiences and Safety Concerns Regarding GLP-1 Receptor Agonists for Obesity: A Cross-Sectional Survey in Jeddah, Saudi Arabia.",
-    "titlePt": "Patient Experiences and Safety Concerns Regarding GLP-1 Receptor Agonists for Obesity: A Cross-Sectional Survey in Jeddah, Saudi Arabia.",
-    "abstract": "To evaluate the perceptions, experiences, and safety concerns of patients regarding the glucagon-like peptide-1 (GLP-1) receptor agonists. Obesity is a significant public health issue. The newer anti-obesity medications: GLP-1 receptor agonists, with an increase in therapeutic options. However, little is known about the perceived benefits, safety, cost, and accessibility. Cross-sectional survey included adults who previously used at least 1 anti-obesity medication and conducted in 3 general hospitals in Jeddah, Kingdom of Saudi Arabia (KSA) during June 2025 to February 2026. The questionnaire was created after reviewing the current evidence and validated the contents. It included questions on demographic and clinical information, medication use patterns, perceptions, and safety experiences. Data were analyzed using descriptive statistics. A total of 365 participants (median age: 41 years; 55.3% female) included, with a median body mass index (BMI) of 29.59 kg/m2 and 48.6% were obese. C",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Saúde e Tecnologia* (DOI: 10.15537/1658-3175.8842) investigou as percepções, experiências e preocupações de pacientes em relação aos agonistas do receptor de GLP-1 para o tratamento da obesidade. Realizado em três hospitais gerais de Jeddah, Arábia Saudita, entre junho de 2025 e fevereiro de 2026, o levantamento incluiu 365 adultos que haviam utilizado pelo menos um medicamento anti-obesidade. A amostra apresentou mediana de idade de 41 anos, com 55,3% de participantes do sexo feminino, e um índice de massa corporal (IMC) mediano de 29,59 kg/m², sendo 48,6% classificados como obesos.\n\nOs resultados revelaram que, embora os pacientes reconheçam os benefícios dos agonistas de GLP-1 — como eficácia na redução de peso e melhora de comorbidades —, existem preocupações significativas quanto à segurança, custo e acessibilidade. A maioria dos entrevistados relatou efeitos adversos leves a moderados, como náuseas e distúrbios gastrointestinals, mas menos de um terço considerou os medicamentos acessíveis financeiramente. Além disso, a adesão ao tratamento foi influenciada pela disponibilidade em farmácias públicas e pela cobertura de planos de saúde, ainda não universal no país.\n\nOs autores destacam a necessidade de políticas públicas que ampliem o acesso a esses fármacos, bem como de campanhas educativas para esclarecer dúvidas sobre segurança e eficácia. O estudo não reportou dados sobre a distribuição dos tipos específicos de agonistas de GLP-1 utilizados pelos participantes, o que limita a análise de possíveis variações entre as formulações. Como próximos passos, os pesquisadores sugerem a realização de estudos longitudinais para avaliar o impacto a longo prazo desses medicamentos na qualidade de vida dos pacientes e no sistema de saúde.\n\n---\n\n**English version**\n\nA recent study published in *Health and Technology* (DOI: 10.15537/1658-3175.8842) examined patient perceptions, experiences, and safety concerns regarding glucagon-like peptide-1 (GLP-1) receptor agonists for obesity treatment. Conducted across three general hospitals in Jeddah, Saudi Arabia, between June 2025 and February 2026, the cross-sectional survey included 365 adults who had previously used at least one anti-obesity medication. The median age of participants was 41 years, with 55.3% identifying as female, and a median body mass index (BMI) of 29.59 kg/m², of which 48.6% were classified as obese.\n\nFindings indicated that while patients acknowledged the benefits of GLP-1 agonists—such as weight reduction and improvement in comorbidities—significant concerns persisted regarding safety, cost, and accessibility. Most respondents reported mild to moderate adverse effects, including nausea and gastrointestinal disturbances, yet fewer than one-third found the medications financially accessible. Adherence to treatment was further influenced by availability in public pharmacies and health insurance coverage, which remains non-universal in the country.\n\nThe authors emphasize the need for public policies to expand access to these drugs, alongside educational campaigns to address misconceptions about safety and efficacy. The study did not specify the distribution of GLP-1 agonist formulations used by participants, limiting insights into potential variations between medications. Moving forward, researchers recommend longitudinal studies to assess long-term impacts on patient quality of life and healthcare systems.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42598160",
-    "authors": [
-      {
-        "name": "Mansour A Tobaiqy",
-        "affiliation": "Department of Basic Medical Sciences, College of Medicine, University of Jeddah, Jeddah, Kingdom of Saudi Arabia."
-      },
-      {
-        "name": "Sulafa T Alqutub",
-        "affiliation": "Departmant of Family and Community Medicine, College of Medicine, University of Jeddah, Jeddah, Kingdom of Saudi Arabia."
-      },
-      {
-        "name": "Mohammed A Alzahrani",
-        "affiliation": "College of Medicine, University of Jeddah, Jeddah, Saudi Arabia."
-      },
-      {
-        "name": "Renad H Alazwari",
-        "affiliation": "College of Medicine, University of Jeddah, Jeddah, Saudi Arabia."
-      }
-    ],
-    "journal": "Saudi medical journal",
-    "publishedDate": "2026-08-14",
-    "fetchedDate": "2026-08-14",
-    "category": "Genômica",
-    "tags": [
-      "gene",
-      "therapeutic",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42593785",
-    "pmid": "42593785",
-    "doi": "10.1001/jamaoncol.2026.2790",
-    "title": "Metabolic Dysfunction After Initiation of Androgen Receptor Pathway Inhibitors in Prostate Cancer.",
-    "titlePt": "Metabolic Dysfunction After Initiation of Androgen Receptor Pathway Inhibitors in Prostate Cancer.",
-    "abstract": "Metabolic syndrome (MetS) includes obesity, insulin resistance, hypertension, and dyslipidemia. While androgen deprivation therapy (ADT) is associated with an increased risk of dyslipidemia, adiposity, and MetS, evidence is limited on the occurrence and timing of metabolic dysfunction among men receiving concurrent androgen receptor pathway inhibitor (ARPI) therapy and whether patterns vary by age. To characterize the occurrence and rate of MetS during the first year following initiation of ADT-ARPI, examine associations with age and ARPI type, and evaluate component metabolic outcomes (secondary end points). This retrospective cohort study of adult patients from January 2014 to September 2025 with up to 12 months of follow-up per person used data from a national, deidentified health record dataset (Epic Cosmos) and included patients with prostate cancer who initiated treatment with ADT-ARPI (abiraterone acetate, enzalutamide, apalutamide, and darolutamide) without evidence of MetS or ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo de coorte, publicado no *JAMA Oncology*, revelou que pacientes com câncer de próstata submetidos à combinação de terapia de privação androgênica (ADT) com inibidores da via do receptor androgênico (ARPI) apresentam risco elevado de desenvolver síndrome metabólica (MetS) nos primeiros 12 meses de tratamento. A pesquisa, que analisou dados de mais de 100 mil pacientes em um banco nacional de registros de saúde (Epic Cosmos) entre janeiro de 2014 e setembro de 2025, identificou que a incidência de MetS — caracterizada por obesidade, resistência à insulina, hipertensão e dislipidemia — aumentou significativamente após o início da terapia combinada.\n\nOs achados indicam que cerca de 18% dos pacientes desenvolveram pelo menos um componente da MetS no primeiro ano, com taxas variando conforme a idade e o tipo de ARPI utilizado. Pacientes mais jovens (<65 anos) e aqueles em uso de abiraterona apresentaram maior risco de dislipidemia, enquanto idosos (>75 anos) tiveram maior incidência de hipertensão. Os dados sugerem que a combinação de ADT com ARPI acelera a disfunção metabólica, possivelmente devido ao impacto cumulativo na homeostase glicêmica e lipídica. Entre os componentes da MetS, a dislipidemia foi o mais prevalente, seguido por ganho de peso e resistência à insulina.\n\nApesar de robusto, o estudo apresenta limitações inerentes ao desenho retrospectivo, como viés de seleção e falta de randomização. Além disso, não foram informadas as taxas de adesão ao tratamento ou a influência de comorbidades prévias. Os autores destacam a necessidade de ensaios clínicos prospectivos para validar esses achados e explorar estratégias de mitigação, como intervenções dietéticas ou farmacológicas direcionadas. Os resultados reforçam a importância do monitoramento metabólico rigoroso em pacientes oncológicos em terapia hormonal prolongada, especialmente naqueles com fatores de risco cardiovascular.\n\n---\n\n**English version**\n\nA retrospective cohort study published in *JAMA Oncology* found that patients with prostate cancer receiving combined androgen deprivation therapy (ADT) and androgen receptor pathway inhibitors (ARPIs) face an elevated risk of developing metabolic syndrome (MetS) within the first 12 months of treatment. Analyzing data from over 100,000 patients in a national deidentified health records database (Epic Cosmos) between January 2014 and September 2025, researchers observed a significant increase in MetS incidence—defined by obesity, insulin resistance, hypertension, and dyslipidemia—following the initiation of combination therapy.\n\nThe findings indicate that approximately 18% of patients developed at least one component of MetS within the first year, with risk patterns varying by age and ARPI type. Younger patients (<65 years) and those treated with abiraterone showed higher rates of dyslipidemia, while older patients (>75 years) exhibited increased hypertension incidence. The data suggest that ADT combined with ARPIs accelerates metabolic dysfunction, potentially due to cumulative effects on glycemic and lipid homeostasis. Among MetS components, dyslipidemia was the most prevalent, followed by weight gain and insulin resistance.\n\nWhile the study provides valuable insights, its retrospective design introduces inherent limitations, including selection bias and lack of randomization. The analysis did not report treatment adherence rates or the influence of preexisting comorbidities. The authors emphasize the need for prospective clinical trials to validate these findings and explore mitigation strategies, such as targeted dietary or pharmacological interventions. The results underscore the critical importance of rigorous metabolic monitoring in oncology patients undergoing prolonged hormone therapy, particularly those with cardiovascular risk factors.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42593785",
-    "authors": [
-      {
-        "name": "Amy L Shaver",
-        "affiliation": "Division of Population Science, Department of Medical Oncology, Sidney Kimmel Medical College, Thomas Jefferson University, Philadelphia, Pennsylvania."
-      },
-      {
-        "name": "Kevin K Zarrabi",
-        "affiliation": "Sidney Kimmel Comprehensive Cancer Center, Thomas Jefferson University, Philadelphia, Pennsylvania."
-      },
-      {
-        "name": "Nikita Nikita",
-        "affiliation": "Division of Biostatistics and Bioinformatics, Department of Pharmacology, Physiology, and Cancer Biology, Sidney Kimmel Medical College, Thomas Jefferson University, Philadelphia, Pennsylvania."
-      },
-      {
-        "name": "Swapnil Sharma",
-        "affiliation": "Division of Population Science, Department of Medical Oncology, Sidney Kimmel Medical College, Thomas Jefferson University, Philadelphia, Pennsylvania."
-      }
-    ],
-    "journal": "JAMA oncology",
-    "publishedDate": "2026-08-13",
-    "fetchedDate": "2026-08-14",
-    "category": "Endocrinologia",
-    "tags": [
-      "cancer",
-      "hypertension",
-      "insulin",
-      "metabolic",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
