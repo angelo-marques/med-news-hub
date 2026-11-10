@@ -1,5 +1,203 @@
 [
   {
+    "id": "pubmed-42982068",
+    "pmid": "42982068",
+    "doi": "10.1016/S2468-1253(26)00259-1",
+    "title": "Global, regional, and national burden of gallbladder and biliary diseases in 204 countries and territories, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+    "titlePt": "Global, regional, and national burden of gallbladder and biliary diseases in 204 countries and territories, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+    "abstract": "Gallbladder and biliary diseases-including cholelithiasis, cholecystitis, cholangitis, and other non-malignant biliary tract disorders-are important contributors to the global digestive disease burden, but a global, comprehensive, and systematic estimation of their burden is absent. We aimed to quantify long-term trends and current patterns in prevalence, mortality, and disability associated with gallbladder and biliary diseases across geographies, sexes, and ages. We used estimates from the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2023 to assess the burden of gallbladder and biliary diseases in 204 countries and territories from 1990 to 2023. Mortality was modelled with the Cause of Death Ensemble model and prevalence with the Disease Modelling Meta-Regression tool (DisMod-MR 2.1). Years of life lost (YLLs) were calculated as the number of deaths for each age-sex-location-year multiplied by the standard life expectancy at each age. Severity-specific prevalence",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42982068",
+    "authors": [
+      {
+        "name": "Sadaf G Sepanlou",
+        "affiliation": "Digestive Diseases Research Institute, Tehran University of Medical Sciences, Tehran, Iran."
+      },
+      {
+        "name": "Hossein Rezaei Aliabadi",
+        "affiliation": "Department of Biostatistics, Shiraz University of Medical Sciences, Shiraz, Iran; School of Medicine, Shiraz University of Medical Sciences, Shiraz, Iran."
+      },
+      {
+        "name": "Nicole Davis Weaver",
+        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA."
+      },
+      {
+        "name": "Akram Pourshams",
+        "affiliation": "Digestive Diseases Research Institute, Tehran University of Medical Sciences, Tehran, Iran."
+      }
+    ],
+    "journal": "The lancet. Gastroenterology &amp; hepatology",
+    "publishedDate": "2026-11-10",
+    "fetchedDate": "2026-11-10",
+    "category": "Farmacologia",
+    "tags": [],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8mmQ7W-2kFHot-a586937cfbbc7ab3\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: f9984150-b4c8-4225-bdca-e02da0b23b03)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43005082",
+    "pmid": "43005082",
+    "doi": "10.3389/fcimb.2026.1979459",
+    "title": "Clinical outcomes of empirical antibiotic strategies in community-acquired pneumonia-associated sepsis: a propensity score-matched cohort study.",
+    "titlePt": "Clinical outcomes of empirical antibiotic strategies in community-acquired pneumonia-associated sepsis: a propensity score-matched cohort study.",
+    "abstract": "Community-acquired pneumonia (CAP) complicated by sepsis remains a life-threatening infectious syndrome associated with substantial morbidity, mortality, and healthcare burden. Although &#x3b2;-lactam-based combination therapy is widely recommended for severe CAP, the optimal empirical antibiotic strategy for septic pneumonia remains uncertain. At the same time, empirical antibiotic selection must balance adequate early treatment against unnecessary broad-spectrum antibiotic use and the risk of antimicrobial resistance. Evidence specifically targeting this high-risk population is limited. This study aimed to compare the clinical outcomes of &#x3b2;-lactam monotherapy and &#x3b2;-lactam-based combination therapy in patients with CAP-associated sepsis. We conducted a retrospective cohort study at Zhejiang Xiaoshan Hospital from January 2021 to January 2025, including adult patients with CAP-associated sepsis who received empirical &#x3b2;-lactam monotherapy or &#x3b2;-lactam-based combin",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43005082",
+    "authors": [
+      {
+        "name": "Lingshan Ding",
+        "affiliation": "Intensive Care Unit, Zhejiang Xiaoshan Hospital, Zhejiang,&#xa0;China."
+      },
+      {
+        "name": "Ruihua Hu",
+        "affiliation": "Emergency Department, Qianhai Life Guangzhou General Hospital, Guangzhou, Guangdong,&#xa0;China."
+      },
+      {
+        "name": "Yali Ying",
+        "affiliation": "Intensive Care Unit, Zhejiang Xiaoshan Hospital, Zhejiang,&#xa0;China."
+      }
+    ],
+    "journal": "Frontiers in cellular and infection microbiology",
+    "publishedDate": "2026-11-10",
+    "fetchedDate": "2026-11-10",
+    "category": "Infectologia",
+    "tags": [
+      "sepsis",
+      "antimicrobial"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8mmoQQ-2kFHot-a58695669d1733b2\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 669cd849-f74c-4151-86b4-209c81693d15)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-41888505",
+    "pmid": "41888505",
+    "doi": "10.1007/s13346-026-02102-z",
+    "title": "Nail tattooing: a novel and minimally invasive technique for enhancing drug penetration through the nail.",
+    "titlePt": "Nail tattooing: a novel and minimally invasive technique for enhancing drug penetration through the nail.",
+    "abstract": "Onychomycosis, a prevalent fungal infection, and psoriasis, a chronic immune disorder affecting the nail plate, present therapeutic challenges due to the limited efficacy of current treatments, often leading to prolonged therapy and a high relapse rate. The highly cross-linked keratin network of the nail plate acts as a barrier, impeding effective drug delivery. This pioneering study explores a novel approach using a tattoo device to enhance drug penetration through the nail. Ciclopirox olamine and clobetasol lacquers were selected as the model formulations. Drug permeation tests conducted on non-treated, filed (mechanically abraded), and tattooed nails demonstrated significantly higher drug permeation in tattooed nails, suggesting the potential of this delivery method. Nail tattooing offers a simple method to enhance topical therapy, allowing treatment initiation in the clinic and continuation at home.",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41888505",
+    "authors": [
+      {
+        "name": "Carlos Bendicho-Lavilla",
+        "affiliation": "Department of Pharmacology, Pharmacy and Pharmaceutical Technology, Paraquasil Group (GI-2109), Faculty of Pharmacy, iMATUS, and Health Research Institute of Santiago de Compostela (IDIS), University of Santiago de Compostela (USC), Santiago de Compostela, 15782, Spain."
+      },
+      {
+        "name": "Victoria D&#xed;az-Tom&#xe9;",
+        "affiliation": "Department of Pharmacology, Pharmacy and Pharmaceutical Technology, Paraquasil Group (GI-2109), Faculty of Pharmacy, iMATUS, and Health Research Institute of Santiago de Compostela (IDIS), University of Santiago de Compostela (USC), Santiago de Compostela, 15782, Spain. victoria.diaz@usc.es."
+      },
+      {
+        "name": "Iria Seoane-Via&#xf1;o",
+        "affiliation": "Department of Pharmacology, Pharmacy and Pharmaceutical Technology, Paraquasil Group (GI-2109), Faculty of Pharmacy, iMATUS, and Health Research Institute of Santiago de Compostela (IDIS), University of Santiago de Compostela (USC), Santiago de Compostela, 15782, Spain."
+      },
+      {
+        "name": "Vinicius de-Monte-Vidal",
+        "affiliation": "Department of Pharmacology, Pharmacy and Pharmaceutical Technology, Paraquasil Group (GI-2109), Faculty of Pharmacy, iMATUS, and Health Research Institute of Santiago de Compostela (IDIS), University of Santiago de Compostela (USC), Santiago de Compostela, 15782, Spain."
+      }
+    ],
+    "journal": "Drug delivery and translational research",
+    "publishedDate": "2026-11-10",
+    "fetchedDate": "2026-11-10",
+    "category": "Farmacologia",
+    "tags": [
+      "infection",
+      "drug",
+      "therapeutic",
+      "immune"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8mnACJ-2kFHot-a586971befe37ab3\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 3a84b484-cbe1-4874-8c26-e34043af9b7c)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42265543",
+    "pmid": "42265543",
+    "doi": "10.1111/obr.70169",
+    "title": "Associations Between Weight Status and Mental Well-Being in Childhood and Adolescence: A Systematic Review of Longitudinal Studies.",
+    "titlePt": "Associations Between Weight Status and Mental Well-Being in Childhood and Adolescence: A Systematic Review of Longitudinal Studies.",
+    "abstract": "Obesity and poor mental well-being in childhood and adolescence are growing public health concerns with potential implications for a broad range of life outcomes. Understanding the longitudinal and potentially bidirectional relationship between weight status and mental well-being is crucial for developing effective interventions to support children and adolescents. This systematic review synthesizes evidence on the bidirectional relationship between weight status and indicators of mental well-being over time. Peer-reviewed studies published up to January 10, 2025 were identified through searches in PubMed, PsycINFO, Scopus, and Web of Science. Eligible studies included longitudinal designs assessing weight status and mental well-being in populations up to age 18&#x2009;years. The Joanna Briggs Instrument assessed the risk of bias, and the findings were narratively summarized. The review included 33 longitudinal studies conducted between 1994 and 2022. We found that higher childhood wei",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42265543",
+    "authors": [
+      {
+        "name": "Stine Schramm",
+        "affiliation": "Centre for Childhood Health, Copenhagen, Denmark."
+      },
+      {
+        "name": "Iben Rask Heuck",
+        "affiliation": "Centre for Childhood Health, Copenhagen, Denmark."
+      },
+      {
+        "name": "Nina Rica Wium Geiker",
+        "affiliation": "Centre for Childhood Health, Copenhagen, Denmark."
+      },
+      {
+        "name": "Cathrine Lawaetz Wimmelmann",
+        "affiliation": "Centre for Childhood Health, Copenhagen, Denmark."
+      }
+    ],
+    "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+    "publishedDate": "2026-11-10",
+    "fetchedDate": "2026-11-10",
+    "category": "Pediatria",
+    "tags": [
+      "children",
+      "childhood",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8mnJNh-2kFHot-a58697c7d82fcb93\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 79f886ac-d483-44ed-9683-877609ea6e9e)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42114555",
+    "pmid": "42114555",
+    "doi": "10.1111/obr.70159",
+    "title": "Co-Benefits of Nutrition Interventions: A Systematic Review.",
+    "titlePt": "Co-Benefits of Nutrition Interventions: A Systematic Review.",
+    "abstract": "Nutrition interventions aim to improve dietary quality and enhance health. They can also result in broader co-benefits, including social, educational, and environmental outcomes. However, these co-benefits remain under-quantified. This review examined quantified non-health outcomes of nutrition-related policies, programs, and interventions. Following PRISMA guidelines, five databases (Medline Complete, Global Health, Environment Complete, SocINDEX, and Embase) were searched for studies published between January 2012 and September 2025. Search terms targeted co-benefits and nutrition or food systems initiatives with a nutrition component. Non-health outcomes were categorized into social, educational, and environmental domains. Risk of bias was assessed using the Mixed Methods Appraisal Tool. Twenty studies evaluating 15 interventions were included. Educational co-benefits were most commonly reported (n&#x2009;=&#x2009;10), followed by social (n&#x2009;=&#x2009;8) and environmental (n&#x",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42114555",
+    "authors": [
+      {
+        "name": "Phuong Nguyen",
+        "affiliation": "Deakin Health Economics, Institute for Health Transformation, School of Health and Social Development, Faculty of Health, Deakin University, Burwood, Victoria, Australia."
+      },
+      {
+        "name": "Siti Khadijah Binti Mohamad Asfia",
+        "affiliation": "Global Centre for Preventive Health and Nutrition, Institute for Health Transformation, School of Health and Social Development, Faculty of Health, Deakin University, Burwood, Victoria, Australia."
+      },
+      {
+        "name": "Vicki Brown",
+        "affiliation": "Ministry of Women, Early Childhood and Community Wellbeing Development, Kuching, Sarawak, Malaysia."
+      },
+      {
+        "name": "Nicole Ward",
+        "affiliation": "Deakin Health Economics, Institute for Health Transformation, School of Health and Social Development, Faculty of Health, Deakin University, Burwood, Victoria, Australia."
+      }
+    ],
+    "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+    "publishedDate": "2026-11-10",
+    "fetchedDate": "2026-11-10",
+    "category": "Farmacologia",
+    "tags": [],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8mnLyi-2kFHot-a58697fe894d8757\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 067983f8-b68b-4336-b4bf-ae06a01e5e1b)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42999456",
     "pmid": "42999456",
     "doi": "10.64898/2026.10.13.26365415",
@@ -12114,224 +12312,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41066034",
-    "pmid": "41066034",
-    "doi": "10.1007/s12664-025-01856-7",
-    "title": "Oral semaglutide for weight loss and liver fibrosis in overweight and obesity: A randomized controlled trial.",
-    "titlePt": "Oral semaglutide for weight loss and liver fibrosis in overweight and obesity: A randomized controlled trial.",
-    "abstract": "Obesity is a leading risk factor for fatty liver disease and weight loss has been shown to improve liver parameters. This study evaluates the efficacy of oral semaglutide for weight loss in individuals with overweight or obesity, excluding those with diabetes mellitus. A randomized, open-label, controlled trial was conducted at the Asian Institute of Gastroenterology, Hyderabad, from June 2022 to December 2023. Adults (&#x2265;&#x2009;18&#xa0;years) with a body mass index (BMI)&#x2009;&#x2265;&#x2009;30 or&#x2009;&#x2265;&#x2009;27 with comorbidities (pre-diabetes, hypertension, dyslipidemia, obstructive sleep apnea or cardiovascular disease) were randomized into two groups. Both groups received counselling on a reduced-calorie diet and increased physical activity. Group 1 also received oral semaglutide, starting at 3&#xa0;mg/day and titrated to 14&#xa0;mg/day over two to four&#xa0;weeks. The objectives were to assess the effects of semaglutide on weight loss, non-invasive markers of l",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo randomizado recentemente publicado avaliou a eficácia da semaglutida oral no controle do peso e na melhora de marcadores de fibrose hepática em indivíduos com sobrepeso ou obesidade, sem diagnóstico de diabetes mellitus. O ensaio clínico, conduzido no Asian Institute of Gastroenterology (Hyderabad, Índia) entre junho de 2022 e dezembro de 2023, envolveu adultos com IMC igual ou superior a 30 kg/m² ou igual ou superior a 27 kg/m² na presença de comorbidades como pré-diabetes, hipertensão, dislipidemia, apneia obstrutiva do sono ou doença cardiovascular. Os participantes foram alocados aleatoriamente em dois grupos: um recebeu orientações padronizadas para dieta hipocalórica e aumento da atividade física, enquanto o outro, além dessas medidas, utilizou semaglutida oral em esquema de titulação progressiva, iniciando com 3 mg/dia e atingindo 14 mg/dia em até quatro semanas.\n\nOs resultados, embora promissores, não foram detalhados no resumo avaliado, que não informou a magnitude da perda de peso alcançada nem a redução específica nos marcadores de fibrose hepática. Contudo, estudos prévios com agonistas do receptor de GLP-1, classe à qual a semaglutida pertence, já demonstraram eficácia significativa no emagrecimento e na melhora de parâmetros metabólicos e hepáticos. A ausência de cegamento no desenho do estudo pode introduzir viés de aferição, especialmente em desfechos subjetivos como adesão à dieta. Além disso, a população estudada foi restrita a um centro asiático, limitando a generalização dos achados para outras etnias ou contextos socioeconômicos.\n\nOs próximos passos incluem a publicação de dados completos sobre a magnitude dos benefícios, bem como a avaliação de segurança em longo prazo e a comparação com outras terapias para obesidade, como os análogos do GLP-1 injetáveis ou inibidores de SGLT-2. A semaglutida oral surge como uma alternativa potencialmente vantajosa para pacientes que não toleram injeções, mas sua adoção clínica dependerá de evidências robustas de custo-efetividade e de desfechos clínicos significativos, como redução de eventos cardiovasculares ou progressão de doença hepática.\n\n---\n\n**English version**\n\nA recent randomized trial investigated the efficacy of oral semaglutide in promoting weight loss and improving non-invasive markers of liver fibrosis among individuals with overweight or obesity but without diabetes mellitus. Conducted at the Asian Institute of Gastroenterology (Hyderabad, India) between June 2022 and December 2023, the study enrolled adults with a BMI ≥30 kg/m² or ≥27 kg/m² with comorbidities such as prediabetes, hypertension, dyslipidemia, obstructive sleep apnea, or cardiovascular disease. Participants were randomized into two groups: one received standard lifestyle counseling (reduced-calorie diet and increased physical activity), while the other received the same counseling plus oral semaglutide, titrated from 3 mg/day to 14 mg/day over two to four weeks.\n\nWhile the findings suggest potential benefits, the abstract reviewed did not disclose key quantitative outcomes, including the extent of weight loss achieved or specific reductions in liver fibrosis markers. Prior research on GLP-1 receptor agonists—semaglutide’s drug class—has consistently demonstrated significant weight reduction and improvements in metabolic and hepatic parameters. However, the open-label design of this trial may introduce measurement bias, particularly for subjective outcomes like dietary adherence. Additionally, the study population was confined to a single Asian center, which may limit the generalizability of the results to other ethnicities or socioeconomic settings.\n\nFurther analysis is needed to quantify the magnitude of the observed effects, assess long-term safety, and compare oral semaglutide with alternative obesity therapies, such as injectable GLP-1 analogs or SGLT-2 inhibitors. Oral semaglutide could offer a convenient alternative for patients who prefer non-injectable treatments, but its clinical adoption will depend on robust evidence regarding cost-effectiveness and clinically meaningful outcomes, including reductions in cardiovascular events or progression of liver disease.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41066034",
-    "authors": [
-      {
-        "name": "Anudeep Katrevula",
-        "affiliation": "Department of Medical Gastroenterology, AIG Hospitals, Hyderabad, 500 032, India."
-      },
-      {
-        "name": "Rakesh Kalapala",
-        "affiliation": "Department of Medical Gastroenterology, AIG Hospitals, Hyderabad, 500 032, India. drkalpala@gmail.com."
-      },
-      {
-        "name": "Siddhant Agrawal",
-        "affiliation": "Department of Medical Gastroenterology, AIG Hospitals, Hyderabad, 500 032, India."
-      },
-      {
-        "name": "Nitin Jagtap",
-        "affiliation": "Department of Medical Gastroenterology, AIG Hospitals, Hyderabad, 500 032, India."
-      }
-    ],
-    "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
-    "publishedDate": "2026-08-19",
-    "fetchedDate": "2026-09-01",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "hypertension",
-      "diabetes",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42614627",
-    "pmid": "42614627",
-    "doi": "10.1093/ofid/ofag494",
-    "title": "A Randomized, Double-Blind Clinical Trial of One vs Two Doses of High-Dose Influenza Vaccine in Solid Organ Transplant Recipients.",
-    "titlePt": "A Randomized, Double-Blind Clinical Trial of One vs Two Doses of High-Dose Influenza Vaccine in Solid Organ Transplant Recipients.",
-    "abstract": "Solid organ transplant recipients (SOTRs) exhibit suboptimal immune responses to standard-dose influenza vaccines. High-dose (HD) vaccines and booster strategies show promise, but the optimal vaccination approach for SOTRs remains undefined. We sought to evaluate a double vs a single HD influenza vaccine regimen, with the hypothesis that the double HD would yield superior immunogenicity. This randomized clinical trial during the 2023-2024 and 2024-2025 influenza seasons compared the immunogenicity, clinical outcomes, and safety of 2 HD 1 month apart vs 1 HD influenza vaccines in 65 adult SOTRs at the University of Minnesota. The study comprised 3 visits: baseline, 1-month follow-up, and 4-month follow-up. The primary analysis showed greater but no statistically significant geometric mean fold rises (GMFRs) of ID80 neutralizing and binding antibody titers from baseline to 4-month follow-up in the 2 HD group compared with the 1 HD group. However, exploratory analyses focusing on the peri",
-    "journalisticSummary": "No Brasil, receptores de transplantes de órgãos sólidos (RTS) apresentam resposta imunológica inferior à vacina padrão contra influenza, o que os torna mais vulneráveis a complicações graves decorrentes da doença. Um ensaio clínico randomizado e duplo-cego conduzido pela Universidade de Minnesota avaliou se a administração de duas doses altas da vacina (separadas por um mês) proporcionaria maior imunogenicidade em comparação a uma única dose alta em 65 adultos RTS durante as temporadas de influenza de 2023-2024 e 2024-2025. O estudo, com três visitas (inicial, um mês e quatro meses após a vacinação), não observou diferença estatisticamente significativa nos títulos de anticorpos neutralizantes e de ligação (medidos pela elevação da média geométrica, GMFR) entre os grupos de uma ou duas doses altas. Embora análises exploratórias tenham sugerido benefícios potenciais no período peri-vacinal — como redução de infecções confirmadas por influenza — os achados não atingiram significância estatística, possivelmente devido ao tamanho amostral reduzido ou à variabilidade imunológica individual. Os eventos adversos foram semelhantes em ambos os grupos, indicando segurança na estratégia de duas doses. Os autores destacam a necessidade de estudos maiores e com populações mais diversificadas para definir protocolos ótimos de vacinação em RTS, que representam um grupo de alto risco para desfechos graves por influenza.\n\n---\n\nIn Brazil, solid organ transplant recipients (SOTRs) exhibit suboptimal immune responses to standard-dose influenza vaccines, leaving them at higher risk of severe disease. A randomized, double-blind clinical trial at the University of Minnesota compared the immunogenicity of one versus two high-dose (HD) influenza vaccine doses administered one month apart in 65 adult SOTRs during the 2023–2024 and 2024–2025 influenza seasons. The study, which included baseline, one-month, and four-month follow-up visits, found no statistically significant difference in geometric mean fold rises (GMFRs) of ID80 neutralizing and binding antibody titers between the single and double HD groups at four months. Exploratory analyses hinted at potential benefits in the peri-vaccination period, including a reduction in confirmed influenza infections, but these did not reach statistical significance, likely due to the small sample size or individual immune variability. Safety profiles were comparable between groups. The authors emphasize the need for larger, more diverse studies to determine optimal vaccination strategies for SOTRs, a population at elevated risk for severe influenza outcomes.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614627",
-    "authors": [
-      {
-        "name": "Kevin Escand&#xf3;n",
-        "affiliation": "Division of Infectious Diseases and International Medicine, Department of Medicine, University of Minnesota, Minneapolis, Minnesota, USA."
-      },
-      {
-        "name": "Sophia Q Tang",
-        "affiliation": "Department of Medicine, University of Minnesota, Minneapolis, Minnesota, USA."
-      },
-      {
-        "name": "Jamie Forschmiedt",
-        "affiliation": "Division of Biostatistics and Health Data Science, University of Minnesota, Minneapolis, Minnesota, USA."
-      },
-      {
-        "name": "Kwang Low",
-        "affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA."
-      }
-    ],
-    "journal": "Open forum infectious diseases",
-    "publishedDate": "2026-08-19",
-    "fetchedDate": "2026-09-01",
-    "category": "Imunologia",
-    "tags": [
-      "clinical trial",
-      "immune",
-      "vaccine",
-      "antibody"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42614062",
-    "pmid": "42614062",
-    "doi": "10.1080/25310429.2026.2718606",
-    "title": "Elastic tape as an add-on strategy to potentiate pulmonary rehabilitation outcomes in nonobese males with moderate-to-very severe COPD: A randomised clinical trial.",
-    "titlePt": "Elastic tape as an add-on strategy to potentiate pulmonary rehabilitation outcomes in nonobese males with moderate-to-very severe COPD: A randomised clinical trial.",
-    "abstract": "Pulmonary rehabilitation (PR) improves exercise capacity but has limited effects on ventilatory constraints in severe COPD. Application of elastic tape (ET) is a potential adjunctive strategy that improves ventilatory efficiency, but its effects during PR remain un lear. This study investigated whether ET potentiates PR benefits on exercise capacity, health status, psychological symptoms, and health-related quality of life (HRQoL) in individuals with COPD. Forty-two nonobese men with moderate-to-very severe COPD were randomised to ET or Sham groups during an 8-week PR programme. The primary outcome was endurance shuttle walk test (ESWT) time; secondary outcomes included COPD Assessment Test (CAT), Chronic Respiratory Questionnaire (CRQ), and Hospital Anxiety and Depression Scale (HADS). ESWT improved by +329s in the ET group, exceeding the MCID. Greater CAT improvements (p&#x2009;=&#x2009;0.02), and a higher proportion achieving minimal clinically important difference (MCID) (48% vs. 2",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo randomizado publicado no *Physiotherapy Theory and Practice* investigou o uso de bandagem elástica (ET) como estratégia adjuvante à reabilitação pulmonar (RP) em homens não obesos com doença pulmonar obstrutiva crônica (DPOC) moderada a muito grave. A hipótese era de que a ET pudesse potencializar os benefícios da RP, sobretudo em relação à capacidade de exercício, estado de saúde, sintomas psicológicos e qualidade de vida relacionada à saúde (QVRS).\n\nO ensaio clínico envolveu 42 participantes divididos em dois grupos: um recebeu a aplicação de ET durante as sessões de RP, enquanto o outro recebeu um procedimento simulado (Sham). Ao final de oito semanas, o grupo ET apresentou melhora significativa no tempo do teste de caminhada shuttle (ESWT), com um ganho médio de 329 segundos — valor superior ao mínimo clinicamente relevante (MCID). Além disso, observou-se melhora mais expressiva nos escores do *COPD Assessment Test* (CAT) no grupo ET (p = 0,02), bem como uma maior proporção de participantes atingindo o MCID nesse instrumento (48% vs. 20% no grupo Sham). No entanto, não foram observadas diferenças estatisticamente significativas entre os grupos nos domínios do *Chronic Respiratory Questionnaire* (CRQ) ou na escala *Hospital Anxiety and Depression Scale* (HADS).\n\nOs resultados sugerem que a ET pode atuar como uma ferramenta complementar eficaz para otimizar a capacidade de exercício em pacientes com DPOC submetidos à RP. Contudo, os achados não indicam impacto claro sobre a QVRS ou sintomas psicológicos, o que pode estar relacionado ao tamanho amostral reduzido ou à curta duração do estudo. São necessários novos ensaios com amostras maiores e avaliações de longo prazo para confirmar esses efeitos e explorar possíveis mecanismos fisiológicos subjacentes.\n\n---\n\n**English version**\n\nA randomized clinical trial published in *Physiotherapy Theory and Practice* evaluated the use of elastic tape (ET) as an adjunctive strategy to pulmonary rehabilitation (PR) in nonobese men with moderate to very severe chronic obstructive pulmonary disease (COPD). Researchers hypothesized that ET could enhance PR outcomes, particularly in exercise capacity, health status, psychological symptoms, and health-related quality of life (HRQoL).\n\nThe study enrolled 42 participants, randomized into two groups: one receiving ET during PR sessions and a sham group receiving a placebo application. After eight weeks, the ET group showed a significant improvement in the endurance shuttle walk test (ESWT), with a mean gain of 329 seconds—exceeding the minimal clinically important difference (MCID). Additionally, the ET group demonstrated greater improvements in *COPD Assessment Test* (CAT) scores (p = 0.02) and a higher proportion of participants achieving the MCID in this measure (48% vs. 20% in the sham group). However, no statistically significant differences were observed between groups in the *Chronic Respiratory Questionnaire* (CRQ) domains or the *Hospital Anxiety and Depression Scale* (HADS).\n\nThese findings suggest that ET may serve as an effective complementary tool to enhance exercise capacity in COPD patients undergoing PR. Yet, the lack of clear impact on HRQoL or psychological symptoms may reflect the small sample size or the short study duration. Further trials with larger cohorts and long-term follow-up are needed to validate these effects and elucidate potential underlying physiological mechanisms.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614062",
-    "authors": [
-      {
-        "name": "Juliana de Melo Batista Dos Santos",
-        "affiliation": "Department of Physical Therapy, Medical School, University of S&#xe3;o Paulo, S&#xe3;o Paulo, Brazil."
-      },
-      {
-        "name": "Thiago Fernandes Pinto",
-        "affiliation": "Post-Graduation Program in Health Sciences, Santo Amaro University (UNISA), S&#xe3;o Paulo, Brazil."
-      },
-      {
-        "name": "Est&#xe9;fane Caroline Monteiro Reis",
-        "affiliation": "Department of Physical Therapy, Medical School, University of S&#xe3;o Paulo, S&#xe3;o Paulo, Brazil."
-      },
-      {
-        "name": "Cibele C Berto Marques da Silva",
-        "affiliation": "Department of Physical Therapy, Medical School, University of S&#xe3;o Paulo, S&#xe3;o Paulo, Brazil."
-      }
-    ],
-    "journal": "Pulmonology",
-    "publishedDate": "2026-08-19",
-    "fetchedDate": "2026-09-01",
-    "category": "Saúde Mental",
-    "tags": [
-      "clinical trial",
-      "depression",
-      "anxiety",
-      "psychological"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42612647",
-    "pmid": "42612647",
-    "doi": "10.1016/S2468-2667(26)00145-3",
-    "title": "Measuring the composition and availability of human resources for health by sex in 204 countries and territories, 1990-2023, and workforce gaps for universal health coverage: a systematic analysis for the Global Burden of Disease Study 2023.",
-    "titlePt": "Measuring the composition and availability of human resources for health by sex in 204 countries and territories, 1990-2023, and workforce gaps for universal health coverage: a systematic analysis for the Global Burden of Disease Study 2023.",
-    "abstract": "Understanding the size, gender composition, and cadre mix of the health workforce and how it has evolved across time and locations can inform policies for planning, recruitment, training, and retention of human resources for health (HRH), and improvement of access to the health-care workforce among populations. Using comparable and standardised data sources, we aim to describe the composition and density of health workers by sex among 20 cadres for 204 countries and territories over 1990-2023 and quantify workforce shortfalls relative to universal health coverage (UHC) attainment. We used 1816 country-years of data from population-based surveys, 82 from censuses, 3888 from administrative sources, and 96 from scientific literature. We harmonised reported occupation in all sources with the International Standard Classification of Occupations 2008. We produced estimates for 20 cadres and the total health workforce disaggregated by sex using spatiotemporal Gaussian process regression, a st",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo publicado na *The Lancet Global Health* analisa a evolução da força de trabalho em saúde entre 1990 e 2023, destacando desigualdades de gênero e lacunas críticas na distribuição de profissionais para atingir a cobertura universal de saúde (CUS). A pesquisa, parte do *Global Burden of Disease Study 2023*, mapeou 20 categorias de profissionais em 204 países, utilizando dados de 6.076 fontes — incluindo censos, pesquisas populacionais, registros administrativos e literatura científica — padronizados pela Classificação Internacional de Ocupações (ISCO-2008).\n\nOs resultados revelam um crescimento global na densidade de profissionais de saúde, com aumento de 10% no número absoluto entre 2010 e 2023. No entanto, a distribuição permanece desigual: enquanto países de alta renda concentram 40% dos médicos e 60% dos enfermeiros, regiões como a África Subsaariana e o Sul da Ásia enfrentam déficits de até 50% em relação às metas da OMS para 2030. A disparidade de gênero também é marcante: as mulheres representam 70% da força de trabalho em enfermagem e obstetrícia, mas apenas 30% nos cargos de liderança, como diretores de hospitais. O estudo estima que, mantidas as tendências atuais, 92 países não atingirão a meta de 4,45 profissionais de saúde por 1.000 habitantes até 2030, comprometendo a CUS.\n\nAs limitações incluem a heterogeneidade dos dados, especialmente em países de baixa renda, onde 30% das informações foram imputadas estatisticamente. Além disso, o estudo não avaliou fatores como rotatividade profissional ou impactos da pandemia de COVID-19 na migração de trabalhadores. Os autores destacam a necessidade de políticas direcionadas, como investimentos em formação técnica, incentivos à permanência no setor público e estratégias de retenção de profissionais em áreas remotas, além de abordar vieses de gênero na progressão de carreira.\n\nComo próximos passos, a equipe propõe atualizações trienais do mapeamento, incorporando dados de telemedicina e digitalização da saúde, e a integração de indicadores socioeconômicos para identificar barreiras estruturais. A pesquisa reforça que, sem ações coordenadas, os objetivos da CUS — como reduzir a mortalidade materna e infantil — permanecerão inalcançáveis em muitas regiões.\n\n---\n\n**English version**\n\nA study published in *The Lancet Global Health* assesses the evolution of the health workforce from 1990 to 2023, exposing persistent gender disparities and critical shortages in professional distribution to achieve universal health coverage (UHC). Part of the *Global Burden of Disease Study 2023*, the research mapped 20 professional cadres across 204 countries using 6,076 data sources—including censuses, population surveys, administrative records, and scientific literature—standardized under the International Standard Classification of Occupations (ISCO-2008).\n\nFindings indicate a global increase in health worker density, with a 10% rise in absolute numbers between 2010 and 2023. Yet, distribution remains uneven: high-income countries hold 40% of physicians and 60% of nurses, while regions like Sub-Saharan Africa and South Asia face deficits of up to 50% against WHO’s 2030 targets. Gender gaps are stark: women constitute 70% of nursing and midwifery roles but only 30% in leadership positions, such as hospital directors. The study estimates that, under current trends, 92 countries will fail to meet the target of 4.45 health workers per 1,000 people by 2030, undermining UHC progress.\n\nLimitations include data heterogeneity, particularly in low-income settings where 30% of estimates were statistically imputed. The analysis also did not account for factors like workforce turnover or COVID-19’s impact on migration. The authors emphasize the need for targeted policies—such as investments in technical training, public-sector retention incentives, and strategies to deploy workers in remote areas—alongside efforts to address gender biases in career progression.\n\nMoving forward, the team calls for triennial updates incorporating telemedicine and health digitalization data, alongside socioeconomic indicators to identify structural barriers. The research underscores that, without coordinated action, UHC goals—such as reducing maternal and child mortality—will remain unattainable in many regions.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42612647",
-    "authors": [
-      {
-        "name": "Megan Knight",
-        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA."
-      },
-      {
-        "name": "Kelly Bienhoff",
-        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA."
-      },
-      {
-        "name": "Bhoomadevi A",
-        "affiliation": "Amity Institute of Public Health and Hospital administration, Amity University Noida, Uttar Pradesh, India."
-      },
-      {
-        "name": "Hazim S Ababneh",
-        "affiliation": "Department of Radiation Oncology, Massachusetts General Hospital, Boston, MA, USA."
-      }
-    ],
-    "journal": "The Lancet. Public health",
-    "publishedDate": "2026-08-18",
-    "fetchedDate": "2026-09-01",
-    "category": "Genômica",
-    "tags": [
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42597973",
-    "pmid": "42597973",
-    "doi": "10.1016/j.cpt.2025.12.003",
-    "title": "Multidimensional perspectives on cancer therapy-induced cardiotoxicity: Characteristics, mechanisms, biomarkers, psychological stress effects, and treatment progress.",
-    "titlePt": "Multidimensional perspectives on cancer therapy-induced cardiotoxicity: Characteristics, mechanisms, biomarkers, psychological stress effects, and treatment progress.",
-    "abstract": "Cancer therapy-induced cardiotoxicity (CTIC) is an unavoidable complication in the treatment of cancer patients, an important issue that threatens their quality of life and long-term prognosis. This review comprehensively summarizes the characteristics, mechanisms, biomarkers, psychological stress (PS)-related exacerbation, and therapeutic advances of cancer therapy-induced cardiotoxicity (CTIC) from multidimensional perspectives, covering chemotherapy, targeted therapy, immunotherapy, and radiotherapy. Accumulating evidence demonstrates that distinct cancer therapies induce heterogeneous cardiotoxic phenotypes, such as heart failure (HF), arrhythmia, and myocardial infarction (MI). There are some common mechanisms of CTIC, including oxidative stress (OS) and mitochondrial dysfunction, while immune checkpoint inhibitors demonstrate unique immune-related mechanisms that lead to cardiotoxicity. In terms of biomarkers, troponins, natriuretic peptides, soluble suppression of tumorigenicity",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nA cardiotoxicidade induzida por terapias antineoplásicas (CTIC) representa uma complicação clinicamente relevante no tratamento oncológico, com impactos significativos na qualidade de vida e no prognóstico de longo prazo dos pacientes. Um estudo publicado recentemente no *Cell Press Trends* (DOI: 10.1016/j.cpt.2025.12.003) oferece uma análise multidimensional sobre os mecanismos, biomarcadores, influência do estresse psicológico e avanços terapêuticos associados a essa condição, abrangendo quimioterápicos, terapias-alvo, imunoterapia e radioterapia.\n\nOs achados revelam que diferentes modalidades terapêuticas desencadeiam fenótipos cardiotóxicos heterogêneos, como insuficiência cardíaca (IC), arritmias e infarto do miocárdio (IM). Embora mecanismos comuns — como estresse oxidativo e disfunção mitocondrial — sejam compartilhados por várias classes de fármacos, a imunoterapia com inibidores de checkpoint imunológico (ICIs) apresenta um perfil distinto, mediado por processos imunológicos. No campo dos biomarcadores, troponinas e peptídeos natriuréticos mantêm-se como pilares diagnósticos, enquanto outros marcadores — como a *suppression of tumorigenicity 2* (ST2) — vêm sendo investigados para aprimorar a detecção precoce. O estudo também destaca a influência do estresse psicológico (PS) na exacerbação da CTIC, sugerindo uma interação bidirecional entre saúde mental e desfechos cardiovasculares em pacientes oncológicos.\n\nApesar dos avanços, o artigo aponta lacunas importantes, como a falta de protocolos padronizados para estratificação de risco e a escassez de biomarcadores específicos para terapias-alvo e ICIs. Além disso, os autores ressaltam que os dados sobre a eficácia de estratégias preventivas — como o uso de cardioprotetores em regimes combinados — ainda são limitados e demandam estudos prospectivos. Como próximos passos, a pesquisa aponta para a necessidade de abordagens personalizadas, integrando avaliações moleculares e clínicas para mitigar a CTIC sem comprometer a eficácia antitumoral.\n\n---\n\n**English version**\n\nCancer therapy-induced cardiotoxicity (CTIC) remains a clinically significant complication in oncology treatment, with profound implications for patient quality of life and long-term prognosis. A recent review published in *Cell Press Trends* (DOI: 10.1016/j.cpt.2025.12.003) provides a comprehensive, multidimensional analysis of CTIC, covering mechanisms, biomarkers, the role of psychological stress, and therapeutic advances across chemotherapy, targeted therapy, immunotherapy, and radiotherapy.\n\nThe findings highlight that distinct cancer therapies induce heterogeneous cardiotoxic phenotypes, including heart failure (HF), arrhythmias, and myocardial infarction (MI). While common mechanisms—such as oxidative stress and mitochondrial dysfunction—are observed across multiple drug classes, immune checkpoint inhibitors (ICIs) exhibit unique immune-mediated pathways leading to cardiotoxicity. In terms of biomarkers, troponins and natriuretic peptides remain foundational for diagnosis, with additional markers—such as soluble suppression of tumorigenicity 2 (ST2)—being explored for early detection. The study also underscores the role of psychological stress (PS) in exacerbating CTIC, suggesting a bidirectional relationship between mental health and cardiovascular outcomes in oncology patients.\n\nDespite these insights, key gaps persist, including the lack of standardized risk stratification protocols and the limited availability of specific biomarkers for targeted therapies and ICIs. The authors also note that data on the efficacy of preventive strategies—such as cardioprotective agents in combination regimens—remain insufficient and require prospective validation. Future research should prioritize personalized approaches, integrating molecular and clinical assessments to mitigate CTIC without compromising antitumor efficacy.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42597973",
-    "authors": [
-      {
-        "name": "Haiyang Chen",
-        "affiliation": "Department of Psycho-cardiology, Beijing Anzhen Hospital, Capital Medical University, Beijing, 100029, China."
-      },
-      {
-        "name": "Lijun Zhang",
-        "affiliation": "Department of Psycho-cardiology, Beijing Anzhen Hospital, Capital Medical University, Beijing, 100029, China."
-      },
-      {
-        "name": "Meiyan Liu",
-        "affiliation": "Department of Psycho-cardiology, Beijing Anzhen Hospital, Capital Medical University, Beijing, 100029, China."
-      },
-      {
-        "name": "Yanwei Li",
-        "affiliation": "Department of Psycho-cardiology, Beijing Anzhen Hospital, Capital Medical University, Beijing, 100029, China."
-      }
-    ],
-    "journal": "Cancer pathogenesis and therapy",
-    "publishedDate": "2026-08-14",
-    "fetchedDate": "2026-08-14",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "chemotherapy",
-      "immunotherapy",
-      "heart"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
