@@ -1,5 +1,85 @@
 [
   {
+    "id": "pubmed-43007900",
+    "pmid": "43007900",
+    "doi": "10.1111/jce.70529",
+    "title": "Contemporary Outcomes of Catheter Ablation of Long-Standing Persistent Atrial Fibrillation.",
+    "titlePt": "Contemporary Outcomes of Catheter Ablation of Long-Standing Persistent Atrial Fibrillation.",
+    "abstract": "Advances in mapping and ablation have improved the safety and efficacy of catheter-based ablation (CA) of atrial fibrillation (AF). Patients with long-standing persistent atrial fibrillation (LSPAF) historically have poor ablation outcomes; however, they are underrepresented in contemporary reports. To evaluate ablation approaches and long-term rhythm control following contemporary catheter ablation for LSPAF. A single-center, retrospective analysis of patients undergoing CA for LSPAF between 2021 and 2025 was performed. Demographic and procedural characteristics were analyzed; 1-year arrhythmia free survival and atrial arrhythmia burden were assessed. Ninety-five patients (median age 68 years [IQR, 63-73]; 80% male; median BMI 32.4&#x2009;kg/m2 [IQR, 28.6-35.6]; median ejection fraction 55% [IQR, 49%-60%]; 37% with prior CA) were followed for a median of 20.2 months (IQR, 10.2-29.7). Radiofrequency ablation alone was used in 74 patients (78%), pulsed-field ablation alone in 13 (14%), ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43007900",
+    "authors": [
+      {
+        "name": "Dakota De Cecco",
+        "affiliation": "Division of Cardiovascular Medicine, Department of Electrophysiology, University of Michigan, Ann Arbor, USA."
+      },
+      {
+        "name": "Jeanne du Fay de Lavallaz",
+        "affiliation": "Division of Cardiovascular Medicine, Department of Electrophysiology, University of Michigan, Ann Arbor, USA."
+      },
+      {
+        "name": "Kelly Arps",
+        "affiliation": "Division of Cardiovascular Medicine, Department of Electrophysiology, University of Michigan, Ann Arbor, USA."
+      },
+      {
+        "name": "Muazzum Shah",
+        "affiliation": "Division of Cardiovascular Medicine, Department of Electrophysiology, University of Michigan, Ann Arbor, USA."
+      }
+    ],
+    "journal": "Journal of cardiovascular electrophysiology",
+    "publishedDate": "2026-11-10",
+    "fetchedDate": "2026-11-11",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8prxD9-2kFHot-a589eac97cc9c669\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 02e3041f-69e0-4899-969a-3b5f0e80d533)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43008260",
+    "pmid": "43008260",
+    "doi": "10.1212/WNL.0000000000218473",
+    "title": "Severity-Based Triage for Direct Transportation to Nearest Comprehensive Stroke Center: A Systematic Review and Meta-Analysis.",
+    "titlePt": "Severity-Based Triage for Direct Transportation to Nearest Comprehensive Stroke Center: A Systematic Review and Meta-Analysis.",
+    "abstract": "The efficacy of endovascular thrombectomy (EVT) for acute ischemic stroke due to large vessel occlusion (LVO) is time dependent. Patients initially transported to a primary stroke center (PSC) may require secondary transfer, potentially delaying EVT. For severely affected patients, bypassing the PSC for direct transport to a comprehensive stroke center may expedite EVT but risks delaying IV thrombolysis. Effects of prehospital bypass strategies on functional outcomes are thus uncertain. For this systematic review and meta-analysis, PubMed and Web of Science were searched until December 2025. Randomized and nonrandomized studies comparing transport to the nearest stroke center with transport to a more distant comprehensive stroke center in patients with suspected stroke were included. Two investigators independently screened records, selected eligible studies, extracted summary data, and assessed risk of bias. Random-effects meta-analysis was used to quantify associations between prehos",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43008260",
+    "authors": [
+      {
+        "name": "Thies Ingwersen",
+        "affiliation": "Department of Neurology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany."
+      },
+      {
+        "name": "Patrick Eder",
+        "affiliation": "Innovation Management, Zentrum f&#xfc;r Telemedizin Bad Kissingen, Bad Kissingen, Germany; and."
+      },
+      {
+        "name": "Rafael Bourry",
+        "affiliation": "Department of Neurology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany."
+      },
+      {
+        "name": "Peter Amin Marquardt",
+        "affiliation": "Department of Neurology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany."
+      }
+    ],
+    "journal": "Neurology",
+    "publishedDate": "2026-11-10",
+    "fetchedDate": "2026-11-11",
+    "category": "Neurologia",
+    "tags": [
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8ps7oA-2kFHot-a589eb92fc77c669\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 503ece6f-d3f4-4c29-8957-e40da7b533fa)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42982068",
     "pmid": "42982068",
     "doi": "10.1016/S2468-1253(26)00259-1",
@@ -12227,91 +12307,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42620985",
-    "pmid": "42620985",
-    "doi": "10.1016/j.euros.2026.06.013",
-    "title": "Abdominopelvic Preoperative Imaging in Adult Candidates for Kidney Transplant: A Systematic Review of Its Impact on Surgical Decision-making.",
-    "titlePt": "Abdominopelvic Preoperative Imaging in Adult Candidates for Kidney Transplant: A Systematic Review of Its Impact on Surgical Decision-making.",
-    "abstract": "Kidney transplantation (KT) is the treatment of choice for end-stage kidney disease, but technical success depends on thorough preoperative evaluation. Imaging may detect vascular calcifications, anatomic abnormalities, or incidental findings that influence surgical planning. However, recommendations remain heterogeneous, and the optimal imaging strategy is unclear. To assess the role of preoperative abdominopelvic imaging in adult candidates for KT and its impact on surgical decision-making and outcomes. Following Preferred Reporting Items for Systematic reviews and Meta-Analyses 2020 guidelines, PubMed/MEDLINE and Embase were searched (January 2000-August 2025) for studies reporting preoperative imaging in candidates for KT. Included modalities were Doppler ultrasound (DUS), contrast-enhanced ultrasound, noncontrast computed tomography (NCCT), computed tomography angiography, magnetic resonance imaging, and plain abdominal x-ray. Outcomes included detection of surgically relevant abn",
-    "journalisticSummary": "A avaliação pré-operatória por imagem em candidatos adultos a transplante renal desempenha um papel crucial na identificação de fatores que podem influenciar o sucesso cirúrgico, embora a estratégia ideal ainda seja incerta. Um estudo publicado recentemente na *European Society for Radiology* (DOI: 10.1016/j.euros.2026.06.013) realizou uma revisão sistemática, seguindo as diretrizes PRISMA 2020, para investigar o impacto da imagem abdominopélvica pré-operatória no planejamento cirúrgico e desfechos clínicos. A busca abrangeu publicações entre janeiro de 2000 e agosto de 2025, incluindo modalidades como ultrassonografia Doppler, tomografia computadorizada sem contraste (NCCT), angiografia por tomografia computadorizada, ressonância magnética e radiografia abdominal simples.\n\nOs achados preliminares sugerem que a imagem pré-operatória contribui para a detecção de calcificações vasculares, anomalias anatômicas e achados incidentais que podem alterar a abordagem cirúrgica, como a escolha da via de acesso ou a necessidade de intervenções vasculares prévias. No entanto, a heterogeneidade nas recomendações clínicas e a ausência de protocolos padronizados dificultam a definição de um padrão ouro para essa avaliação. Embora estudos incluídos tenham relatado modificações na conduta em até 30% dos casos em algumas séries, não houve consenso sobre qual modalidade oferece a melhor relação custo-benefit ou acurácia diagnóstica. Além disso, a revisão não identificou dados robustos sobre o impacto dessas alterações na sobrevida do enxerto ou do paciente a longo prazo, nem comparou diretamente as técnicas em termos de redução de complicações perioperatórias.\n\nAs limitações do estudo incluem a variabilidade metodológica entre os trabalhos analisados, a ausência de randomização em muitos casos e a dependência de relatos retrospectivos, o que pode introduzir viés de seleção. Outro ponto não esclarecido é a frequência ideal para a realização desses exames em diferentes subgrupos de pacientes, como aqueles com doença vascular avançada ou múltiplas comorbidades. Os autores destacam a necessidade de ensaios clínicos prospectivos para padronizar protocolos e avaliar o real benefício da imagem pré-operatória em desfechos clínicos concretos, como a redução de taxas de reintervenção ou perda do enxerto.\n\n---\n\nThe role of preoperative abdominopelvic imaging in adult kidney transplant candidates remains a critical yet inconsistently defined component of surgical planning. A systematic review published in the *European Society for Radiology* (DOI: 10.1016/j.euros.2026.06.013) assessed its impact on surgical decision-making and clinical outcomes, adhering to PRISMA 2020 guidelines. The literature search, spanning January 2000 to August 2025, included Doppler ultrasound, contrast-enhanced ultrasound, noncontrast computed tomography (NCCT), computed tomography angiography, magnetic resonance imaging, and plain abdominal x-ray.\n\nPreliminary findings indicate that preoperative imaging helps identify surgically relevant factors—such as vascular calcifications, anatomical abnormalities, or incidental findings—that may alter surgical approaches, including access routes or the need for preoperative vascular interventions. However, the lack of standardized recommendations and heterogeneous clinical practices hinder the establishment of an optimal imaging strategy. While some studies reported modifications in surgical planning in up to 30% of cases, no consensus exists on the most effective modality in terms of diagnostic accuracy or cost-effectiveness. Additionally, the review did not provide conclusive evidence linking imaging findings to long-term graft or patient survival, nor did it compare techniques in reducing perioperative complications.\n\nKey limitations include methodological variability across studies, reliance on retrospective data in many cases, and potential selection bias due to non-randomized designs. Unaddressed questions persist regarding the optimal frequency and necessity of imaging in high-risk subgroups, such as patients with advanced vascular disease or multiple comorbidities. The authors emphasize the need for prospective clinical trials to standardize protocols and evaluate the true clinical benefit of preoperative imaging on tangible outcomes, such as reduced reintervention rates or graft loss.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42620985",
-    "authors": [
-      {
-        "name": "Alberto Costa Silva",
-        "affiliation": "Department of Urology, S&#xe3;o Jo&#xe3;o University Hospital Centre, Faculty of Medicine of University of Porto, RISE - Health Research Network, Porto, Portugal."
-      },
-      {
-        "name": "Francesco Di Bello",
-        "affiliation": "Department of Neurosciences, Reproductive and Odontostomatologic Sciences, University of Naples \"Federico II,\" C.so Umberto I, Naples, Italy."
-      },
-      {
-        "name": "Alicia Lopez-Abdad",
-        "affiliation": "Uro-Oncology and Kidney Transplant Unit, Department of Urology at \"Fundaci&#xf3; Puigvert\" Hospital, Autonoma University of Barcelona, Barcelona, Spain."
-      },
-      {
-        "name": "Hakan Bahadir Haberal",
-        "affiliation": "Department of Urology, Virgen de La Arrixaca University Hospital, Murcia, Spain."
-      }
-    ],
-    "journal": "European urology open science",
-    "publishedDate": "2026-08-20",
-    "fetchedDate": "2026-09-01",
-    "category": "Genômica",
-    "tags": [
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42618565",
-    "pmid": "42618565",
-    "doi": "10.1038/s41392-026-02815-0",
-    "title": "Biallelic loss of RB1 in hepatocellular carcinoma as synthetic lethal target for artificial intelligence-guided therapy.",
-    "titlePt": "Biallelic loss of RB1 in hepatocellular carcinoma as synthetic lethal target for artificial intelligence-guided therapy.",
-    "abstract": "The retinoblastoma (RB1) gene is a critical tumor suppressor that regulates cell cycle progression and genomic stability. Although RB1 alterations have been reported in hepatocellular carcinoma (HCC), the biological and clinical consequences of biallelic RB1 inactivation (RB1-Bi) remain poorly defined. We performed a comprehensive allele-specific genomic analysis of HCC patients from the TCGA-LIHC (n&#x2009;=&#x2009;355) and in-house AMC (n&#x2009;=&#x2009;206) cohorts, collectively comprising the AMC-TCGA discovery cohort. In this combined cohort, RB1-Bi was identified in 14.6% of tumors, was enriched in poorly differentiated HCCs and was independently associated with significantly reduced overall survival (adjusted hazard ratio 3.32, 95% CI 1.93-5.72, p&#x2009;&lt;&#x2009;0.001). Additionally, a deep learning-based histopathology model using hematoxylin and eosin-stained slides (i.e., FR-MIL model) accurately predicted RB1-Bi status (F1 score 84.39% [95% CI, &#xb1;0.02]), making it r",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Nature Structural & Molecular Biology* identificou uma vulnerabilidade genética em pacientes com carcinoma hepatocelular (HCC) associada à perda bialélica do gene *RB1*, um importante supressor tumoral. Ao analisar dados de 561 pacientes de duas coortes independentes — TCGA-LIHC (n=355) e AMC (n=206) —, os pesquisadores constataram que 14,6% dos tumores apresentavam inativação bialélica do *RB1* (RB1-Bi), um fenótipo enriquecido em casos de HCC pouco diferenciados e fortemente correlacionado com pior prognóstico. A análise revelou que pacientes com RB1-Bi tinham um risco três vezes maior de óbito (HR ajustado de 3,32; IC 95% 1,93–5,72; p < 0,001), independentemente de outros fatores clínicos.\n\nAlém disso, os autores desenvolveram um modelo de inteligência artificial baseado em aprendizado profundo capaz de prever a presença de RB1-Bi a partir de lâminas histopatológicas coradas por hematoxilina e eosina. O FR-MIL model atingiu um escore F1 de 84,39% (±0,02), demonstrando potencial para estratificar pacientes antes mesmo de tratamentos específicos. Embora os resultados abram caminho para terapias guiadas por IA, como inibidores de CDK4/6 em tumores com RB1-Bi, os pesquisadores destacam a necessidade de validação prospectiva em ensaios clínicos. Limitações incluem a ausência de dados sobre terapias direcionadas ao *RB1* no estudo e a dependência de coortes predominantemente de origem asiática, o que pode limitar a generalização dos achados.\n\n**Versão em inglês**\n\nA recent study published in *Nature Structural & Molecular Biology* has uncovered a synthetic lethal vulnerability in hepatocellular carcinoma (HCC) linked to biallelic loss of the *RB1* tumor suppressor gene. By analyzing data from 561 patients across two independent cohorts—TCGA-LIHC (n=355) and AMC (n=206)—researchers found that 14.6% of tumors exhibited biallelic *RB1* inactivation (RB1-Bi), a phenotype enriched in poorly differentiated HCC cases and strongly associated with poorer prognosis. The analysis showed that patients with RB1-Bi had a threefold higher risk of death (adjusted HR 3.32; 95% CI 1.93–5.72; p < 0.001), independent of other clinical factors.\n\nThe team also developed a deep learning-based model that accurately predicts RB1-Bi status from hematoxylin and eosin-stained histopathology slides. The FR-MIL model achieved an F1 score of 84.39% (±0.02), demonstrating potential for patient stratification prior to targeted interventions. While the findings pave the way for AI-guided therapies, such as CDK4/6 inhibitors in RB1-Bi tumors, the researchers emphasize the need for prospective validation in clinical trials. Key limitations include the lack of data on *RB1*-targeted therapies in the study and the reliance on cohorts predominantly of Asian origin, which may restrict the generalizability of the results.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618565",
-    "authors": [
-      {
-        "name": "Jihyun An",
-        "affiliation": "Gastroenterology and Hepatology, Hanyang University College of Medicine, Guri, Republic of Korea."
-      },
-      {
-        "name": "Wonkyung Kim",
-        "affiliation": "Department of Biomedical Sciences, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea."
-      },
-      {
-        "name": "Xiumei Zhang",
-        "affiliation": "Department of Pathology, Brain Korea 21 Project, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea."
-      },
-      {
-        "name": "Philip Chikontwe",
-        "affiliation": "Cancer Centre, Faculty of Health Sciences, MOE Frontiers Science Centre for Precision Oncology, University of Macau, Taipa, Macau SAR, China."
-      }
-    ],
-    "journal": "Signal transduction and targeted therapy",
-    "publishedDate": "2026-08-19",
-    "fetchedDate": "2026-09-01",
-    "category": "Oncologia",
-    "tags": [
-      "tumor",
-      "carcinoma",
-      "genomic",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
