@@ -278,6 +278,50 @@
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8mnLyi-2kFHot-a58697fe894d8757\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 067983f8-b68b-4336-b4bf-ae06a01e5e1b)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   },
   {
+    "id": "pubmed-43002394",
+    "pmid": "43002394",
+    "doi": "10.1001/jamaneurol.2026.4155",
+    "title": "Mivocabtagene Autoleucel CD19 Chimeric Antigen Receptor T-Cell Therapy in Stiff Person Syndrome: A Nonrandomized Clinical Trial.",
+    "titlePt": "Mivocabtagene Autoleucel CD19 Chimeric Antigen Receptor T-Cell Therapy in Stiff Person Syndrome: A Nonrandomized Clinical Trial.",
+    "abstract": "Stiff person syndrome (SPS) is a progressive, autoimmune neurologic disease characterized by muscle stiffness and painful spasms, leading to substantial disability. Mivocabtagene autoleucel, a fully human, autologous CD19 chimeric antigen receptor (CAR) T-cell therapy with CD28 costimulation, showed durable clinical benefit on a named-patient basis in SPS. To evaluate the efficacy and safety of mivocabtagene autoleucel in adult SPS. This pivotal, single-arm, open-label, nonrandomized phase 2 study enrolled participants from September 2024 to May 2025 at 3 US sites. Individuals aged 18 to 75 years with antibody-positive SPS and inadequate response to immunomodulatory/immunosuppressive therapies as determined by investigators were included. Patients received low-dose lymphodepletion (fludarabine, 30 mg/m2/d, and cyclophosphamide, 300 mg/m2/d, for 3 days), followed by a single mivocabtagene autoleucel infusion (1&#x2009;&#xd7;&#x2009;108 CAR T cells). Primary end points were the change fr",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43002394",
+    "authors": [
+      {
+        "name": "Amanda L Piquet",
+        "affiliation": "Department of Neurology, University of Colorado Anschutz, Aurora."
+      },
+      {
+        "name": "Anastasia Zekeridou",
+        "affiliation": "Departments of Neurology and Laboratory Medicine and Pathology, and Center for Multiple Sclerosis and Autoimmune Neurology, Mayo Clinic, Rochester, Minnesota."
+      },
+      {
+        "name": "Usama Gergis",
+        "affiliation": "Department of Oncology, Jefferson Health, Philadelphia, Pennsylvania."
+      },
+      {
+        "name": "Jonathan Gutman",
+        "affiliation": "Department of Oncology, University of Colorado Anschutz, Aurora."
+      }
+    ],
+    "journal": "JAMA neurology",
+    "publishedDate": "2026-11-09",
+    "fetchedDate": "2026-11-11",
+    "category": "Imunologia",
+    "tags": [
+      "gene",
+      "clinical trial",
+      "immune",
+      "autoimmune",
+      "antibody"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8vhDch-2kFHot-a5903617bc67ad80\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 2ffd6aba-33e0-40e2-9d63-2698cf9c4a4f)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42999456",
     "pmid": "42999456",
     "doi": "10.64898/2026.10.13.26365415",
@@ -12264,49 +12308,6 @@
     ],
     "isHighlight": false,
     "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42623525",
-    "pmid": "42623525",
-    "doi": "10.1097/HC9.0000000000001029",
-    "title": "Effects of diabetes, obesity, and metabolic syndrome on alcohol-associated liver disease: A systematic review.",
-    "titlePt": "Effects of diabetes, obesity, and metabolic syndrome on alcohol-associated liver disease: A systematic review.",
-    "abstract": "Alcohol-associated liver disease (ALD) is a leading cause of advanced liver disease and liver transplantation worldwide. Cardiometabolic risk factors (CMRFs) may worsen ALD prognosis. While recent nomenclature acknowledges the impact of CMRFs in steatotic liver disease with low-to-moderate alcohol use, individuals with high alcohol intake are still classified as having ALD regardless of CMRF status. We conducted a systematic review to evaluate the impact of CMRFs, primarily diabetes, obesity, and metabolic syndrome, on clinical outcomes in patients with ALD. We performed a systematic review of peer-reviewed studies published through October 21, 2025, as well as abstracts from the AASLD, EASL, DDW, ACG, and APASL conferences from 2023 to 2025. We included studies involving adults (&#x2265;18&#xa0;y) with ALD that assessed at least one CMRF (eg, diabetes, obesity, metabolic syndrome) and reported longitudinal clinical outcomes. Primary outcomes included incident cirrhosis, hepatocellular",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *PubMed* (DOI: 10.1097/HC9.0000000000001029) destaca a influência de fatores de risco cardiometabólico — como diabetes, obesidade e síndrome metabólica — no agravamento da doença hepática associada ao álcool (DHA). Embora a nomenclatura atual classifique pacientes com alto consumo alcoólico como portadores de DHA independentemente de comorbidades, evidências crescentes sugerem que doenças como diabetes e obesidade podem intensificar a progressão da doença, mesmo em casos de uso excessivo de álcool.\n\nOs pesquisadores conduziram uma revisão sistemática de estudos publicados até outubro de 2025, além de resumos apresentados em congressos internacionais como AASLD, EASL, DDW, ACG e APASL entre 2023 e 2025. Foram incluídos apenas trabalhos com adultos (≥18 anos) diagnosticados com DHA que avaliaram ao menos um fator de risco cardiometabólico (FRCM) e relataram desfechos clínicos longitudinais. Os principais resultados analisados incluíram o desenvolvimento de cirrose incidente, carcinoma hepatocelular e necessidade de transplante hepático, entre outros indicadores de gravidade.\n\nOs achados sugerem que pacientes com DHA e comorbidades como diabetes tipo 2 ou obesidade apresentam risco significativamente maior de progressão para formas avançadas da doença, incluindo cirrose e carcinoma hepatocelular, em comparação àqueles sem esses fatores. A presença de síndrome metabólica também foi associada a um pior prognóstico, embora os dados não tenham especificado a magnitude exata desse impacto. Esses resultados reforçam a necessidade de uma abordagem integrada no manejo da DHA, que considere não apenas a cessação do consumo alcoólico, mas também o controle rigoroso de comorbidades metabólicas.\n\nApesar das descobertas promissoras, os autores destacam limitações importantes, como a heterogeneidade dos estudos incluídos e a ausência de padronização na definição de FRCMs em diferentes trabalhos. Além disso, não foi relatado no resumo se houve análise de subgrupos por grau de consumo alcoólico ou por sexo, fatores que poderiam influenciar os resultados. Como próximos passos, os pesquisadores sugerem a realização de estudos prospectivos com amostras maiores e metodologias mais uniformes para validar esses achados e explorar estratégias terapêuticas direcionadas.\n\nA integração desses achados na prática clínica poderia representar um avanço significativo no manejo da DHA, permitindo uma estratificação mais precisa do risco e a implementação de intervenções precoces em pacientes com comorbidades associadas.\n\n---\n\n**English version**\n\nA recent study published in *PubMed* (DOI: 10.1097/HC9.0000000000001029) underscores the impact of cardiometabolic risk factors—such as diabetes, obesity, and metabolic syndrome—on the progression of alcohol-associated liver disease (ALD). While current nomenclature classifies individuals with high alcohol consumption as having ALD regardless of comorbidities, growing evidence suggests that conditions like diabetes and obesity may exacerbate disease severity even in heavy drinkers.\n\nResearchers conducted a systematic review of peer-reviewed studies published up to October 2025, as well as abstracts from major conferences including AASLD, EASL, DDW, ACG, and APASL between 2023 and 2025. Only studies involving adults (≥18 years) with ALD that assessed at least one cardiometabolic risk factor (CMRF) and reported longitudinal clinical outcomes were included. Key outcomes analyzed included incident cirrhosis, hepatocellular carcinoma, and liver transplantation, among other indicators of disease severity.\n\nFindings indicate that patients with ALD and comorbidities such as type 2 diabetes or obesity face a significantly higher risk of progression to advanced liver disease, including cirrhosis and hepatocellular carcinoma, compared to those without these factors. The presence of metabolic syndrome was also associated with worse prognosis, though the data did not specify the exact magnitude of this impact. These results support the need for an integrated approach to ALD management that addresses not only alcohol cessation but also rigorous control of metabolic comorbidities.\n\nWhile the findings are promising, the authors highlight important limitations, including heterogeneity among included studies and the lack of standardized definitions for CMRFs across different works. Additionally, the abstract did not report whether subgroup analyses by alcohol consumption levels or sex were conducted, factors that could influence outcomes. Moving forward, researchers recommend prospective studies with larger sample sizes and more uniform methodologies to validate these findings and explore targeted therapeutic strategies.\n\nIntegrating these findings into clinical practice could represent a significant advance in ALD management, enabling more precise risk stratification and the implementation of early interventions in patients with associated comorbidities.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42623525",
-    "authors": [
-      {
-        "name": "Dhiraj K Peddu",
-        "affiliation": "Division of Gastroenterology and Hepatology, University of Michigan, Ann Arbor, Michigan, USA."
-      },
-      {
-        "name": "Vitchapong Prasitsumrit",
-        "affiliation": "Department of Internal Medicine, Texas Tech University Health Sciences Center, Lubbock, Texas, USA."
-      },
-      {
-        "name": "Matthew J Kubina",
-        "affiliation": "Division of Gastroenterology and Hepatology, University of Michigan, Ann Arbor, Michigan, USA."
-      },
-      {
-        "name": "Abhijay Kumar",
-        "affiliation": "Division of Gastroenterology and Hepatology, University of Michigan, Ann Arbor, Michigan, USA."
-      }
-    ],
-    "journal": "Hepatology communications",
-    "publishedDate": "2026-08-20",
-    "fetchedDate": "2026-09-01",
-    "category": "Endocrinologia",
-    "tags": [
-      "diabetes",
-      "metabolic",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
