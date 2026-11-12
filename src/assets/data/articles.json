@@ -1,5 +1,43 @@
 [
   {
+    "id": "pubmed-42966831",
+    "pmid": "42966831",
+    "doi": "10.1007/s10067-026-08490-4",
+    "title": "Frequency of CD4&#x207a;CXCR5&#x207a;CD127^(lo) TFR cells in patients with rheumatoid arthritis.",
+    "titlePt": "Frequency of CD4&#x207a;CXCR5&#x207a;CD127^(lo) TFR cells in patients with rheumatoid arthritis.",
+    "abstract": "Dysregulation of Tfh and Tfr cells has been identified in rheumatoid arthritis (RA), yet inconsistent findings remain across existing studies. Accordingly, we investigated peripheral blood lymphocytes, CD4&#x207a; T cells, Treg, Tfh and Tfr subsets in untreated RA patients, treated RA patients and healthy controls to clarify their dynamic alterations in RA progression. A total of 27 newly diagnosed, untreated RA patients (N-RA), 10 matched treated RA patients (P-RA) and 14 healthy controls (HCs) were included. Peripheral blood proportions of lymphocytes, CD4&#x207a; T cells, Treg, Tfh and Tfr were determined by flow cytometry, while serum Fgl2 levels were measured via ELISA. Intergroup differences in these markers were subsequently analyzed. Fgl2 levels were significantly higher in the RA group than in HCs (20.74% vs. 13.90%, P&#x2009;=&#x2009;0.002), whereas no statistically significant differences were observed across the three groups (N-RA, P-RA and HCs).Tfr frequencies were notably",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966831",
+    "authors": [
+      {
+        "name": "Rong Huang",
+        "affiliation": "Department of Laboratory Medicine, The People's Hospital of Yuhuan, Taizhou City, Zhejiang Province, China."
+      },
+      {
+        "name": "Xianhong Chen",
+        "affiliation": "Department of Laboratory Medicine, The People's Hospital of Yuhuan, Taizhou City, Zhejiang Province, China."
+      },
+      {
+        "name": "Ping Wang",
+        "affiliation": "Department of Laboratory Medicine, The People's Hospital of Yuhuan, Taizhou City, Zhejiang Province, China."
+      },
+      {
+        "name": "Lili Liang",
+        "affiliation": "Department of Rheumatology and Immunology, The People's Hospital of Yuhuan, Taizhou City, Zhejiang Province, China."
+      }
+    ],
+    "journal": "Clinical rheumatology",
+    "publishedDate": "2026-11-11",
+    "fetchedDate": "2026-11-12",
+    "category": "Farmacologia",
+    "tags": [],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p92JbPF-2kFHot-a59644064b8f9621\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: d8bd5458-2718-4429-9ea8-5e9b447c54bb)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43014626",
     "pmid": "43014626",
     "doi": "10.1016/j.hrthm.2026.11.009",
@@ -12268,47 +12306,5 @@
     "readTime": 5,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2VeNaB-2kFHot-a3fd9b801e312f44\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-41384350",
-    "pmid": "41384350",
-    "doi": "10.1097/CM9.0000000000003855",
-    "title": "Recipient-derived vs. donor-derived CAR-T-cell therapy in relapsed B-cell acute lymphoblastic leukemia patients after transplantation: A multi-center retrospective study.",
-    "titlePt": "Recipient-derived vs. donor-derived CAR-T-cell therapy in relapsed B-cell acute lymphoblastic leukemia patients after transplantation: A multi-center retrospective study.",
-    "abstract": "Chimeric antigen receptor T (CAR-T) cells have been demonstrated to be an effective treatment for relapsed B-cell acute lymphoblastic leukemia (B-ALL) following allogeneic hematopoietic stem cell transplantation (allo-HSCT). T cells for CAR-T therapy can be derived from the peripheral blood (recipient) of the patient or donor. Despite having identical genomes, the different maturation environments of these T cells can lead to functional differences. This study aimed to compare the clinical outcomes of CAR-T cells derived from these two sources. This multicenter, retrospective cohort study collected clinical data from 36 patients who experienced B-ALL relapse after allo-HSCT and received CD19 CAR-T cell therapy between January 2016 and October 2023 across seven centers. The primary endpoint was complete remission (CR)/CR with an incomplete hematologic recovery (CRi) rate at 28 days post-CAR-T cell infusion. Secondary endpoints included the 2-year overall survival (OS) rate, 2-year event",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo multicêntrico, publicado recentemente no *PubMed* (DOI: 10.1097/CM9.0000000000003855), investigou as diferenças clínicas entre a terapia com células CAR-T derivadas do paciente (recipiente) e aquelas obtidas de doadores (doador) em casos de leucemia linfoblástica aguda de células B (B-ALL) recidivada após transplante alogênico de células-tronco hematopoiéticas (alo-HSCT). A pesquisa, conduzida em sete centros entre janeiro de 2016 e outubro de 2023, analisou dados de 36 pacientes que receberam terapia com CAR-T anti-CD19, um avanço promissor no tratamento de recaídas pós-transplante, mas ainda com lacunas sobre a melhor fonte celular.\n\nOs resultados mostraram que a taxa de remissão completa (RC) ou remissão completa com recuperação hematológica incompleta (RCi) aos 28 dias após a infusão de CAR-T foi o desfecho primário avaliado. Embora os dados específicos sobre a eficácia comparativa entre as duas fontes celulares não tenham sido explicitados no resumo, a literatura prévia sugere que células CAR-T derivadas do receptor podem apresentar respostas imunes mais robustas, possivelmente devido à exposição prévia ao antígeno CD19 durante a doença. Os desfechos secundários incluíram a taxa de sobrevida global em dois anos e a incidência de eventos adversos, mas os valores não foram detalhados no material consultado. A ausência de randomização e o caráter retrospectivo do estudo limitam a robustez das conclusões, embora os achados possam orientar futuras pesquisas sobre a otimização da fonte celular em protocolos de CAR-T.\n\nAs implicações clínicas são significativas, pois a escolha entre células do receptor ou do doador pode influenciar não apenas a eficácia, mas também a segurança e a logística do tratamento. No entanto, são necessários estudos prospectivos e randomizados para validar esses achados e estabelecer protocolos padronizados. Até lá, a decisão terapêutica deve considerar fatores individuais do paciente, como estado imunológico e disponibilidade de células do doador.\n\n---\n\n**English version**\n\nA multicenter retrospective study, recently published in *PubMed* (DOI: 10.1097/CM9.0000000000003855), examined clinical differences between patient-derived (recipient) and donor-derived CAR-T-cell therapies in relapsed B-cell acute lymphoblastic leukemia (B-ALL) following allogeneic hematopoietic stem cell transplantation (allo-HSCT). Conducted across seven centers from January 2016 to October 2023, the research analyzed data from 36 patients who received CD19-targeted CAR-T therapy—a promising advance for post-transplant relapses but with unresolved questions about the optimal cell source.\n\nThe primary endpoint was the complete remission (CR) or CR with incomplete hematologic recovery (CRi) rate at 28 days post-infusion. While the study did not provide specific comparative efficacy data between the two cell sources in the available summary, prior research suggests recipient-derived CAR-T cells may exhibit stronger immune responses, potentially due to prior exposure to CD19 during disease progression. Secondary outcomes included 2-year overall survival (OS) rates and adverse event incidence, though numerical values were not detailed in the consulted material. The study’s retrospective design and lack of randomization constrain the strength of conclusions, though findings may inform future investigations into optimizing cell source selection for CAR-T protocols.\n\nClinically, the choice between recipient- and donor-derived CAR-T cells could impact efficacy, safety, and treatment logistics. However, prospective randomized trials are needed to validate these observations and establish standardized protocols. Until then, therapeutic decisions should account for individual patient factors, such as immune status and donor cell availability.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41384350",
-    "authors": [
-      {
-        "name": "Lichao Liu",
-        "affiliation": "Medical Center of Hematology, Institute of Science Innovation for Blood Ecology and Intelligent Cells, Xinqiao Hospital of Army Medical University, Chongqing 400037, China."
-      },
-      {
-        "name": "Yongxian Hu",
-        "affiliation": "Chongqing Key Laboratory of Hematology and Microenvironment, Chongqing 400037, China."
-      },
-      {
-        "name": "Ruihao Huang",
-        "affiliation": "State Key Laboratory of Trauma and Chemical Poisoning, Army Medical University, Chongqing 400037, China."
-      },
-      {
-        "name": "Yuhua Li",
-        "affiliation": "Bone Marrow Transplantation Center, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang 310003, China."
-      }
-    ],
-    "journal": "Chinese medical journal",
-    "publishedDate": "2026-08-20",
-    "fetchedDate": "2026-09-01",
-    "category": "Oncologia",
-    "tags": [
-      "leukemia",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
