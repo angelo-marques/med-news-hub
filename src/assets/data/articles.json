@@ -1,5 +1,171 @@
 [
   {
+    "id": "pubmed-43014626",
+    "pmid": "43014626",
+    "doi": "10.1016/j.hrthm.2026.11.009",
+    "title": "Pulsed Field or Cryoballoon Pulmonary Vein Isolation for Atrial Fibrillation in Heart Failure with Reduced Ejection Fraction.",
+    "titlePt": "Pulsed Field or Cryoballoon Pulmonary Vein Isolation for Atrial Fibrillation in Heart Failure with Reduced Ejection Fraction.",
+    "abstract": "Atrial fibrillation (AF) and heart failure with reduced ejection fraction (HFrEF) frequently coexist, worsening prognosis. While catheter ablation confers clinical benefits in this high-risk population, comparative data between novel non-thermal pulsed field ablation (PFA) and established cryoballoon ablation (CBA) for AF-therapy in patients with HFrEF are limited. To compare the efficacy and safety of PFA- with CBA-based pulmonary vein isolation (PVI) in patients with AF and HFrEF (left ventricular ejection fraction &#x2264;40%). This retrospective, international multicenter study included patients with HFrEF undergoing first-time PVI-only procedures between 2018 and 2025. Propensity-score matching (1:1 ratio) was applied to balance baseline characteristics. The primary efficacy endpoint was the first recurrence of any atrial tachyarrhythmia after a 3-month blanking period. Secondary measures included safety events and procedural efficiency. A total of 700 patients from 12 German and ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43014626",
+    "authors": [
+      {
+        "name": "Andreas A Boehmer",
+        "affiliation": "Department of Cardiology, St. Josefs-Hospital Wiesbaden, Wiesbaden, Germany; Department of Medicine, Montreal Heart Institute, Universit&#xe9; de Montreal, Canada; Department of Cardiology, Kerckhoff Heart Center, Kerckhoff Campus of the Justus Liebig University Giessen, Bad Nauheim, Germany. Electronic address: aboehmer@joho.de."
+      },
+      {
+        "name": "Maura M Zylla",
+        "affiliation": "Department of Cardiology, Medical University Hospital Heidelberg, Heidelberg, Germany."
+      },
+      {
+        "name": "Sebastian Feickert",
+        "affiliation": "Department of Cardiology, Vivantes Klinikum am Urban and Neuk&#xf6;lln, Berlin, Germany; Department of Cardiology, University Medical Center Rostock, Rostock, Germany."
+      },
+      {
+        "name": "Henrike A K Hillmann",
+        "affiliation": "Hannover Heart Rhythm Center, Department of Cardiology and Angiology, Hannover Medical School, Hannover, Germany."
+      }
+    ],
+    "journal": "Heart rhythm",
+    "publishedDate": "2026-11-11",
+    "fetchedDate": "2026-11-12",
+    "category": "Cardiologia",
+    "tags": [
+      "heart",
+      "atrial",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8zgWhT-2kFHot-a59483df3909ad08\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 45771012-a6b9-4581-a5e5-cdd2f8b93224)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42863798",
+    "pmid": "42863798",
+    "doi": "10.1016/j.jad.2026.122619",
+    "title": "Augmentation strategies for intravenous ketamine in treatment-resistant depression: A systematic review and meta-analysis.",
+    "titlePt": "Augmentation strategies for intravenous ketamine in treatment-resistant depression: A systematic review and meta-analysis.",
+    "abstract": "Treatment-resistant depression (TRD) affects 30-60% of individuals with major depressive disorder and carries substantial morbidity and healthcare costs. Intravenous (IV) ketamine (KET) is a rapid-acting antidepressant, but benefits are often transient, prompting augmentation to sustain efficacy or improve tolerability. We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) of IV KET augmentation in adults with TRD. MEDLINE, Embase, and PsycINFO were searched through October 29, 2025. Eligible studies compared KET plus augmentation with KET plus placebo/sham or active control. Seven RCTs (N&#x202f;=&#x202f;346) met inclusion criteria. Strategies included glutathione, riluzole, lamotrigine, lithium, D-cycloserine and ketamine combined with psychotherapy (KCP) approaches involving cognitive behavioral therapy (CBT) and automated self-association training (ASAT). Across the included trials, IV KET was associated with antidepressant improvement, although ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42863798",
+    "authors": [
+      {
+        "name": "Reinhard Janssen-Aguilar",
+        "affiliation": "AI for Mental Health Program (AI-M), St. Michael's Hospital, Toronto, Ontario, Canada; Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada."
+      },
+      {
+        "name": "Jithin Joseph",
+        "affiliation": "AI for Mental Health Program (AI-M), St. Michael's Hospital, Toronto, Ontario, Canada; Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada."
+      },
+      {
+        "name": "Huda F Al-Shamali",
+        "affiliation": "AI for Mental Health Program (AI-M), St. Michael's Hospital, Toronto, Ontario, Canada."
+      },
+      {
+        "name": "Kaija Taylor",
+        "affiliation": "AI for Mental Health Program (AI-M), St. Michael's Hospital, Toronto, Ontario, Canada."
+      }
+    ],
+    "journal": "Journal of affective disorders",
+    "publishedDate": "2026-11-11",
+    "fetchedDate": "2026-11-12",
+    "category": "Neurologia",
+    "tags": [
+      "cognitive",
+      "depression"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8zhGNC-2kFHot-a59487754ccd5107\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: bf9b945c-794c-4d19-aed0-a063ecf28c5f)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42854786",
+    "pmid": "42854786",
+    "doi": "10.1016/j.jad.2026.122613",
+    "title": "Non-pharmacological interventions for perinatal parental depression and anxiety: a systematic review and network meta-analysis.",
+    "titlePt": "Non-pharmacological interventions for perinatal parental depression and anxiety: a systematic review and network meta-analysis.",
+    "abstract": "Perinatal depression and anxiety exhibit significant partner interdependence and family-level ramifications, constituting a family issue concerning both parents. However, existing evidence syntheses have predominantly examined maternal or paternal mental health in isolation, neglecting the systemic integrity of the family unit. To conduct the first Bayesian network meta-analysis to evaluate and rank non-pharmacological interventions delivered concurrently to both parents for perinatal depression and anxiety. Seven databases were searched from inception to May 30, 2025. We included randomized controlled trials (RCTs) in which both perinatal parents received the same non-pharmacological intervention and depression or anxiety was assessed. A Bayesian network meta-analysis was conducted following PRISMA guidelines. CRD420251048539. We included 36 RCTs involving 15,477 parents (51.8% mothers and 48.2% fathers/partners). For depression, multicomponent interventions (SMD&#x202f;=&#x202f;-0.34",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42854786",
+    "authors": [
+      {
+        "name": "Yuehe Huang",
+        "affiliation": "College of Nursing, Chengdu University of Traditional Chinese Medicine, Chengdu, China. Electronic address: huangyuehe@stu.cdutcm.edu.cn."
+      },
+      {
+        "name": "Huan Ding",
+        "affiliation": "College of Nursing, Chengdu University of Traditional Chinese Medicine, Chengdu, China. Electronic address: 1037274236@qq.com."
+      },
+      {
+        "name": "Xiangyu Yao",
+        "affiliation": "College of Nursing, Chengdu University of Traditional Chinese Medicine, Chengdu, China. Electronic address: 1962839445@qq.com."
+      },
+      {
+        "name": "Zhixia Song",
+        "affiliation": "College of Nursing, Chengdu University of Traditional Chinese Medicine, Chengdu, China. Electronic address: 2013386062@qq.com."
+      }
+    ],
+    "journal": "Journal of affective disorders",
+    "publishedDate": "2026-11-11",
+    "fetchedDate": "2026-11-12",
+    "category": "Saúde Mental",
+    "tags": [
+      "rna",
+      "mental health",
+      "depression",
+      "anxiety"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8zhJtp-2kFHot-a59487aaca82a600\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 53c63652-92e6-4664-b316-9b9f7d363881)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43014336",
+    "pmid": "43014336",
+    "doi": "10.1016/j.langlo.2026.104074",
+    "title": "Interventions to reduce paediatric cancer treatment abandonment in low-income and middle-income countries: a systematic review and meta-analysis.",
+    "titlePt": "Interventions to reduce paediatric cancer treatment abandonment in low-income and middle-income countries: a systematic review and meta-analysis.",
+    "abstract": "Positive paediatric cancer treatment outcomes in low-income and middle-income countries (LMICs) significantly lag behind those in high-income countries. One reason for this disparity is high treatment abandonment rates in LMICs, defined as a failure to start or complete curative-intent therapy after a cancer diagnosis. We did a systematic review and meta-analysis to describe interventions aimed at reducing treatment abandonment in paediatric patients with cancer in LMICs. In this systematic review and meta-analysis, we completed a comprehensive search of MEDLINE Ovid, Embase, Web of Science, CINAHL, and Cochrane on Oct 21, 2022, with an updated search on Oct 21, 2025. Studies were included if they met the following criteria: studied an intervention on treatment abandonment; included patients with cancer aged 18 years and younger; were conducted in LMICs as defined by the World Bank income classification; contained quantification of treatment abandonment by patients in a comparison and ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43014336",
+    "authors": [
+      {
+        "name": "Srinithya R Gillipelli",
+        "affiliation": "School of Medicine, Baylor College of Medicine, Houston, TX, USA."
+      },
+      {
+        "name": "Archer R Schaeffer",
+        "affiliation": "School of Medicine, Baylor College of Medicine, Houston, TX, USA."
+      },
+      {
+        "name": "Casey L McAtee",
+        "affiliation": "Department of Pediatrics, Baylor College of Medicine, Houston, TX, USA; Department of Pediatrics, University of South Alabama College of Medicine, Mobile, AL, USA; Texas Children's Hospital Global Hematology-Oncology-Pediatric-Excellence Program, Houston, TX, USA; Baylor College of Medicine Children's Foundation-Malawi, Lilongwe, Malawi."
+      },
+      {
+        "name": "Constance Nyasulu",
+        "affiliation": "Texas Children's Hospital Global Hematology-Oncology-Pediatric-Excellence Program, Houston, TX, USA; Baylor College of Medicine Children's Foundation-Malawi, Lilongwe, Malawi."
+      }
+    ],
+    "journal": "The Lancet. Global health",
+    "publishedDate": "2026-11-11",
+    "fetchedDate": "2026-11-12",
+    "category": "Oncologia",
+    "tags": [
+      "cancer"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p8zhWZq-2kFHot-a59488a03f43ad24\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 57f5a158-63fa-4e22-bcc9-d98db2278ddd)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43007900",
     "pmid": "43007900",
     "doi": "10.1111/jce.70529",
@@ -12139,172 +12305,6 @@
     "tags": [
       "leukemia",
       "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42619623",
-    "pmid": "42619623",
-    "doi": "10.1096/fj.202601680RR",
-    "title": "Anatomy of a Setback: A Taxonomy of Clinical Trial Failures in Alzheimer's Disease and Strategic Lessons for the Future.",
-    "titlePt": "Anatomy of a Setback: A Taxonomy of Clinical Trial Failures in Alzheimer's Disease and Strategic Lessons for the Future.",
-    "abstract": "Although Alzheimer's disease (AD) carries the highest clinical trial failure rate of any major therapeutic area, the strategic lessons from more than two decades of negative outcomes remain insufficiently integrated into drug development practice. To date, trial failures have been examined largely in isolation, with limited attention to the recurring patterns that may connect them across therapeutic classes and disease stages. In this perspective, we propose a taxonomy that assigns AD therapeutic failures to five categories according to the primary driver of each negative outcome-namely wrong target, wrong timing, wrong patient, insufficient target engagement, and wrong endpoint. We subsequently applied this framework to a representative set of drugs that entered clinical testing between 2000 and 2025, comprising anti-amyloid monoclonal antibodies, &#x3b2;-site amyloid precursor protein-cleaving enzyme 1 inhibitors, tau-directed immunotherapies, neuroimmune-targeting agents, and metabo",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nO desenvolvimento de terapias para a doença de Alzheimer enfrenta um dos maiores índices de insucesso entre as áreas terapêuticas, com mais de duas décadas de resultados negativos em ensaios clínicos sem que uma análise sistemática dos padrões recorrentes tenha sido adequadamente incorporada à prática. Nesse contexto, um estudo publicado no *Federation of American Societies for Experimental Biology Journal* propõe uma taxonomia inédita para classificar os fracassos de acordo com cinco causas principais: alvo incorreto, timing inadequado, seleção equivocada de pacientes, engajamento insuficiente do alvo terapêutico ou desfecho clínico inadequado. Ao aplicar esse modelo a uma amostra representativa de fármacos testados entre 2000 e 2025 — incluindo anticorpos monoclonais anti-amiloide, inibidores da enzima BACE1, imunoterapias direcionadas à proteína tau, agentes neuroimunes e terapias metabólicas —, os autores identificaram que a maioria dos insucessos esteve relacionada a estratégias de desenvolvimento mal alinhadas às complexidades patogênicas da doença.\n\nOs achados revelam que, embora intervenções baseadas em alvos como a proteína beta-amiloide tenham dominado as últimas décadas de pesquisa, a falha em ajustar o timing dos ensaios (por exemplo, iniciar tratamentos em estágios avançados da doença) e a subestimação da heterogeneidade clínica entre pacientes foram fatores críticos. A análise também destaca que, em muitos casos, a ausência de biomarcadores confiáveis para confirmar a interação com o alvo terapêutico contribuiu para resultados inconclusivos, mesmo quando a hipótese científica era plausível. Além disso, a escolha de desfechos primários inadequados — como a dependência exclusiva de escores cognitivos sem correlação com alterações patológicas — emergiu como um obstáculo adicional à interpretação dos dados.\n\nEmbora a taxonomia ofereça um framework estruturado para reavaliar estratégias futuras, o estudo não detalha a distribuição exata de fracassos por categoria nem quantifica o impacto de cada fator isoladamente. Os autores sugerem, contudo, que a adoção de abordagens personalizadas — combinando seleção rigorosa de pacientes por meio de biomarcadores, intervenções precoces e desfechos combinados — poderia mitigar riscos, mas enfatizam a necessidade de validação prospectiva desses pressupostos. No cenário atual, marcado por avanços em t��cnicas de imageamento cerebral e biologia de sistemas, a integração desses insights na concepção de novos ensaios clínicos emerge como um passo essencial para reverter a tendência de insucesso.\n\n---\n\n**English version**\n\nClinical development for Alzheimer’s disease remains one of the most challenging therapeutic areas, with decades of trial failures yet little systematic integration of recurring failure patterns into drug development strategies. A perspective published in the *Federation of American Societies for Experimental Biology Journal* introduces a novel taxonomy to categorize failures based on five primary drivers: wrong target, wrong timing, wrong patient, insufficient target engagement, or inadequate endpoint. Applying this framework to a representative set of drugs tested between 2000 and 2025 — including anti-amyloid monoclonal antibodies, BACE1 inhibitors, tau-directed immunotherapies, neuroimmune-targeting agents, and metabolic therapies — the authors found that most failures stemmed from misaligned development strategies rather than flaws in the underlying science.\n\nThe analysis highlights critical gaps in trial design, particularly the failure to account for disease heterogeneity and the timing of interventions. Many programs, especially those targeting amyloid pathology, faltered because they initiated treatment too late in the disease course or relied on patient populations that did not reflect the underlying pathology. Biomarker validation also emerged as a recurring bottleneck, with insufficient evidence of target engagement often masking therapeutic potential. Additionally, the reliance on cognitive endpoints without clear linkage to pathological changes hindered the interpretation of results, even when biological plausibility was strong.\n\nWhile the taxonomy provides a structured approach to reassessing future strategies, the study does not specify the exact distribution of failures across categories or quantify the impact of each driver independently. The authors propose that personalized approaches — combining early intervention, biomarker-guided patient selection, and composite endpoints — could reduce risk, but emphasize the need for prospective validation. In an era of advanced neuroimaging and systems biology, integrating these insights into trial design may be key to reversing the persistent trend of clinical trial setbacks in Alzheimer’s disease.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42619623",
-    "authors": [
-      {
-        "name": "Enzo Emanuele",
-        "affiliation": "2E Science, Robbio, Italy."
-      },
-      {
-        "name": "Piercarlo Minoretti",
-        "affiliation": "Department of Social Sciences, Miguel de Cervantes European University (UEMC), Valladolid, Spain."
-      }
-    ],
-    "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
-    "publishedDate": "2026-08-20",
-    "fetchedDate": "2026-09-01",
-    "category": "Farmacologia",
-    "tags": [
-      "alzheimer",
-      "drug",
-      "clinical trial",
-      "therapeutic",
-      "immune"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42618927",
-    "pmid": "42618927",
-    "doi": "10.1186/s12967-026-08781-z",
-    "title": "T cell receptor repertoire dynamics and newly identified functional regulators of autologous tumor-infiltrating lymphocyte therapy in advanced solid tumors.",
-    "titlePt": "T cell receptor repertoire dynamics and newly identified functional regulators of autologous tumor-infiltrating lymphocyte therapy in advanced solid tumors.",
-    "abstract": "Tumor-infiltrating lymphocyte (TIL) therapy has demonstrated clinical potential in melanoma; however, its applicability across diverse solid tumors in Asian patients remains unclear. Identification of molecular targets to enhance the antitumor activity of TIL is urgently needed. In a phase I investigator-initiated trial, we evaluated the safety, feasibility, and preliminary efficacy of autologous TIL therapy in twelve patients with advanced melanoma, cervical, lung, or head and neck cancers. Twelve patients who had progressed after standard therapies were enrolled between August 2022 and December 2024. Patients received lymphodepletion with cyclophosphamide (30&#xa0;mg/kg) for 2 days, followed by fludarabine (25&#xa0;mg/m&#xb2;) for 5 days, approximately 24&#xa0;h before intravenous infusion of autologous TIL. High-dose interleukin-2 (IL-2) was administered for 6-12 days to support T-cell survival and expansion. After a 28-day safety observation period, tumor assessments were performed",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *PubMed* (DOI: 10.1186/s12967-026-08781-z) explora o potencial da terapia com linfócitos infiltrantes de tumor (TIL) autólogos em pacientes asiáticos com tumores sólidos avançados, uma abordagem ainda pouco investigada nessa população. A pesquisa, conduzida em um ensaio clínico de fase I, avaliou a segurança, viabilidade e eficácia preliminar dessa imunoterapia em doze pacientes com melanoma, câncer de colo de útero, pulmão ou cabeça e pescoço, todos com doença progressiva após tratamentos padrão. Os participantes, recrutados entre agosto de 2022 e dezembro de 2024, receberam linfodepleção prévia com ciclofosfamida (30 mg/kg por dois dias) e fludarabina (25 mg/m² por cinco dias), seguida de infusão intravenosa de TIL autólogos. Para potencializar a expansão e sobrevivência das células T, foi administrada interleucina-2 (IL-2) em doses altas por 6 a 12 dias. Após um período de observação de segurança de 28 dias, foram realizadas avaliações tumorais.\n\nOs resultados indicam que a terapia com TIL autólogos é factível e segura nesse contexto, embora os dados de eficácia ainda sejam preliminares e não tenham sido detalhados no resumo. A análise do repertório de receptores de células T (TCR) revelou dinâmicas específicas associadas à resposta antitumoral, sugerindo alvos moleculares potenciais para otimizar a eficácia dessa abordagem. No entanto, o estudo apresenta limitações importantes, como o pequeno tamanho amostral (n=12) e a ausência de um grupo controle, o que dificulta a generalização dos achados. Além disso, não foram fornecidos dados sobre a taxa de resposta objetiva ou a sobrevida global dos pacientes. Os próximos passos incluem ampliar a amostra populacional, investigar marcadores preditivos de resposta e explorar combinações terapêuticas para melhorar os desfechos clínicos. Esses achados abrem caminho para pesquisas futuras visando aprimorar a eficácia da terapia com TIL em tumores sólidos, especialmente em populações sub-representadas em estudos anteriores.\n\n---\n\n**English version**\n\nA recent study published on *PubMed* (DOI: 10.1186/s12967-026-08781-z) examines the potential of autologous tumor-infiltrating lymphocyte (TIL) therapy in Asian patients with advanced solid tumors, an approach that remains underexplored in this population. Conducted as a phase I investigator-initiated trial, the research assessed the safety, feasibility, and preliminary efficacy of this immunotherapy in twelve patients with melanoma, cervical, lung, or head and neck cancers, all of whom had progressed after standard therapies. Enrolled between August 2022 and December 2024, participants underwent lymphodepletion with cyclophosphamide (30 mg/kg for two days) and fludarabine (25 mg/m² for five days), followed by intravenous infusion of autologous TILs. To enhance T-cell expansion and survival, high-dose interleukin-2 (IL-2) was administered for 6 to 12 days. After a 28-day safety observation period, tumor assessments were performed.\n\nThe findings suggest that autologous TIL therapy is feasible and safe in this setting, though efficacy data remain preliminary and were not detailed in the abstract. Analysis of the T-cell receptor (TCR) repertoire revealed specific dynamics associated with antitumor responses, highlighting potential molecular targets to optimize this approach. However, the study has key limitations, including a small sample size (n=12) and the absence of a control group, which limits the generalizability of the results. Notably, no data were provided on objective response rates or overall survival. Future directions include expanding the study population, identifying predictive response markers, and exploring combination therapies to improve clinical outcomes. These findings pave the way for further research aimed at enhancing the efficacy of TIL therapy in solid tumors, particularly in underrepresented populations.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618927",
-    "authors": [
-      {
-        "name": "Fenge Li",
-        "affiliation": "Department of Oncology 5, Tianjin Union Medical Center, The First Affiliated Hospital of Nankai University, Nankai University, Jieyuan road No.190, Hongqiao District, Tianjin, 300121, China."
-      },
-      {
-        "name": "Jilong Yang",
-        "affiliation": "Department of Oncology, Tianjin Beichen Hospital, Tianjin, 300400, China."
-      },
-      {
-        "name": "Gregory Lizee",
-        "affiliation": "Department of Bone and Soft Tissue Tumor, Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center for Cancer, State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Key Laboratory of Cancer Prevention and Therapy, Tianjin, 300060, China."
-      },
-      {
-        "name": "Yongming Xue",
-        "affiliation": "Department of Melanoma, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA."
-      }
-    ],
-    "journal": "Journal of translational medicine",
-    "publishedDate": "2026-08-20",
-    "fetchedDate": "2026-09-01",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42621205",
-    "pmid": "42621205",
-    "doi": "10.1016/j.eclinm.2026.104142",
-    "title": "Building a genomics-capable cancer workforce: a competency-based framework for education and training in precision oncology.",
-    "titlePt": "Building a genomics-capable cancer workforce: a competency-based framework for education and training in precision oncology.",
-    "abstract": "The Lancet Oncology Commission on cancer genomics and precision oncology identified workforce capability, education, and training as major constraints to equitable implementation. As genomic and multi-omic technologies become integrated into cancer care, structured approaches are needed to define competencies across the multidisciplinary workforce. The Core Competency Framework for Precision Oncology was developed using a narrative review and iterative expert-informed framework development process. Competency frameworks, professional standards, policy guidance, organisational reports, and educational literature relevant to genomic medicine, precision oncology, and workforce development were identified through purposive searches of organisational repositories, peer-reviewed literature, and reference list screening between January 2025 and March 2026. Search terms included combinations of \"precision oncology\", \"cancer genomics\", \"genomic medicine\", \"competenc&#x2217;\", \"education\", \"trai",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nA integração de tecnologias genômicas e multiômicas na oncologia tem avançado rapidamente, mas a falta de profissionais capacitados constitui um dos principais obstáculos para sua implementação equitativa. Um estudo publicado no *eClinicalMedicine* (DOI: 10.1016/j.eclinm.2026.104142) propõe um *Core Competency Framework for Precision Oncology*, desenvolvido pela Comissão do *The Lancet Oncology* para abordar essa lacuna crítica. O trabalho, baseado em revisão narrativa e consultas a especialistas, define competências essenciais para profissionais de saúde envolvidos em medicina genômica e oncologia de precisão, abrangendo desde clínicos até gestores de políticas públicas.\n\nO framework foi construído a partir de uma extensa revisão de literatura científica, relatórios organizacionais e diretrizes profissionais, identificados entre janeiro de 2025 e março de 2026. Segundo os autores, a ausência de padronização na formação desses profissionais — que inclui médicos, geneticistas, patologistas, bioinformáticos e enfermeiros — compromete a qualidade do atendimento e a adoção de terapias personalizadas. Entre as competências destacadas estão: interpretação de dados genômicos, comunicação de riscos, ética em pesquisa com dados genéticos e integração de achados multiômicos à prática clínica.\n\nEmbora o estudo não apresente dados quantitativos sobre o impacto da aplicação desse framework em cenários reais, os autores enfatizam sua relevância para reduzir disparidades no acesso à oncologia de precisão, especialmente em sistemas de saúde com recursos limitados. Como próximos passos, sugerem a validação do modelo em ambientes piloto e a incorporação de métricas de desfecho clínico para avaliar sua efetividade.\n\nAs principais limitações incluem a dependência de revisão narrativa, que pode não capturar todas as nuances regionais, e a ausência de participação de stakeholders de países de baixa e média renda na fase de desenvolvimento. Ainda assim, o trabalho representa um avanço na sistematização da formação em oncologia de precisão, alinhando-se a iniciativas globais como a *Global Alliance for Genomics and Health (GA4GH)*.\n\n---\n\n**English version**\n\nThe rapid integration of genomic and multi-omic technologies in oncology has outpaced workforce readiness, with a critical shortage of trained professionals hindering equitable implementation. A study published in *eClinicalMedicine* (DOI: 10.1016/j.eclinm.2026.104142) introduces the *Core Competency Framework for Precision Oncology*, developed by *The Lancet Oncology* Commission to address this gap. Based on a narrative review and expert consultations, the framework defines essential competencies for healthcare professionals across disciplines—including clinicians, geneticists, pathologists, bioinformaticians, and nurses—engaged in genomic medicine and precision oncology.\n\nThe framework was constructed through an extensive review of peer-reviewed literature, organizational reports, and professional guidelines, identified between January 2025 and March 2026. The authors highlight the lack of standardized training as a barrier to delivering high-quality, personalized cancer care, emphasizing skills such as genomic data interpretation, risk communication, ethical handling of genetic data, and integration of multi-omic findings into clinical practice.\n\nWhile the study does not provide quantitative data on the framework’s real-world impact, the authors argue for its potential to reduce disparities in access to precision oncology, particularly in resource-limited health systems. Future steps include pilot testing the model in clinical settings and developing outcome metrics to assess its effectiveness.\n\nKey limitations include the reliance on narrative review, which may overlook regional variations, and the absence of low- and middle-income country stakeholders during framework development. Nonetheless, the work marks a significant step toward systematizing precision oncology training, aligning with global initiatives such as the *Global Alliance for Genomics and Health (GA4GH)*.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42621205",
-    "authors": [
-      {
-        "name": "Amanda Drury",
-        "affiliation": "School of Nursing and Midwifery, Trinity College of Dublin, Dublin, Ireland."
-      },
-      {
-        "name": "Yosr Hamdi",
-        "affiliation": "Trinity Centre for Practice &amp; Healthcare Innovation, School of Nursing and Midwifery, Trinity College Dublin, Dublin, Ireland."
-      },
-      {
-        "name": "Nicola Mulder",
-        "affiliation": "National Human Genomics Laboratory, Institut Pasteur de Tunis, Universit&#xe9; Tunis El Manar, Tunis, Tunisia."
-      },
-      {
-        "name": "Jens Rueter",
-        "affiliation": "Laboratory of Biomedical Genomics and Oncogenetics (LR16IPT05), Institut Pasteur de Tunis, Universit&#xe9; Tunis El Manar, Tunis, Tunisia."
-      }
-    ],
-    "journal": "EClinicalMedicine",
-    "publishedDate": "2026-08-20",
-    "fetchedDate": "2026-09-01",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "oncology",
-      "genomic"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42621965",
-    "pmid": "42621965",
-    "doi": "10.1016/j.jceh.2026.103631",
-    "title": "Reframing MASLD: A Hepatic Condition With Systemic Clinical Impact.",
-    "titlePt": "Reframing MASLD: A Hepatic Condition With Systemic Clinical Impact.",
-    "abstract": "This review synthesizes current evidence describing the systemic implications of metabolic dysfunction-associated steatotic liver disease (MASLD), with emphasis on its extrahepatic complications and underlying pathophysiological mechanisms. A narrative literature review was conducted using PubMed/MEDLINE, Scopus, Web of Science, and Google Scholar. The search included studies published between 1999 and 2025 using terms related to MASLD, systemic inflammation, insulin resistance, lipotoxicity, and extrahepatic diseases. MASLD is strongly associated with multiple extrahepatic conditions, including type 2 diabetes mellitus, polycystic ovary syndrome, chronic kidney disease, cardiovascular disease, obstructive sleep apnea, asthma, psoriasis, and various malignancies. Central mechanisms linking MASLD to systemic disease include chronic low-grade inflammation, insulin resistance, adipose tissue dysfunction, dysregulated hepatokine signaling, and lipotoxicity. The severity of liver fibrosis c",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm crescente corpo de evidências tem redefinido a doença hepática gordurosa associada à disfunção metabólica — atualmente designada como *Metabolic Dysfunction-Associated Steatotic Liver Disease* (MASLD) — não mais como uma condição confinada ao fígado, mas como uma doença sistêmica com implicações clínicas abrangentes. Uma revisão narrativa publicada recentemente no *Journal of Clinical and Experimental Hepatology* analisou estudos publicados entre 1999 e 2025, sintetizando dados sobre os mecanismos fisiopatológicos e as complicações extra-hepáticas associadas à MASLD. Os resultados reforçam que esta doença está intrinsecamente ligada a múltiplas condições sistêmicas, como diabetes mellitus tipo 2, síndrome dos ovários policísticos, doença renal crônica, doenças cardiovasculares, apneia obstrutiva do sono, asma, psoríase e diversos tipos de câncer. Os principais elos fisiopatológicos incluem inflamação crônica de baixo grau, resistência à insulina, disfunção do tecido adiposo, sinalização inadequada de hepatocinas e lipotoxicidade. A gravidade da fibrose hepática, embora não detalhada no resumo, emerge como um potencial marcador prognóstico para o risco extra-hepático, embora a magnitude desse impacto ainda não tenha sido quantificada de forma sistemática nos estudos revisados.\n\nDo ponto de vista clínico, os achados sugerem que a MASLD deve ser abordada como um marcador de risco sistêmico, não apenas como uma comorbidade. A detecção precoce de alterações metabólicas associadas — como hiperinsulinemia ou dislipidemia — pode permitir intervenções mais assertivas, reduzindo a progressão de doenças inter-relacionadas. No entanto, os autores destacam lacunas importantes: a maioria dos estudos revisados é observacional, o que limita a inferência causal; além disso, não foram identificados dados sobre a eficácia de estratégias terapêuticas direcionadas especificamente às complicações extra-hepáticas da MASLD. Os próximos passos incluem a realização de ensaios clínicos randomizados que avaliem abordagens multidisciplinares, integrando manejo hepático, metabólico e cardiovascular, bem como o desenvolvimento de biomarcadores capazes de estratificar pacientes com maior risco de desfechos extra-hepáticos.\n\n---\n\n**English version**\n\nA growing body of evidence has redefined metabolic dysfunction-associated steatotic liver disease (MASLD) — formerly known as non-alcoholic fatty liver disease (NAFLD) — not as a liver-confined condition, but as a systemic disorder with far-reaching clinical implications. A recent narrative review published in the *Journal of Clinical and Experimental Hepatology* synthesized studies from 1999 to 2025, examining the pathophysiological mechanisms and extrahepatic complications linked to MASLD. The findings confirm strong associations with multiple systemic conditions, including type 2 diabetes mellitus, polycystic ovary syndrome, chronic kidney disease, cardiovascular disease, obstructive sleep apnea, asthma, psoriasis, and several malignancies. Central pathophysiological links include chronic low-grade inflammation, insulin resistance, adipose tissue dysfunction, dysregulated hepatokine signaling, and lipotoxicity. While the severity of liver fibrosis was mentioned in the abstract, its specific contribution to extrahepatic risk was not quantified across the reviewed studies.\n\nClinically, the data suggest that MASLD should be treated as a systemic risk marker rather than a mere comorbidity. Early detection of associated metabolic alterations — such as hyperinsulinemia or dyslipidemia — could enable more targeted interventions, potentially halting the progression of interrelated diseases. However, key limitations persist: most studies are observational, limiting causal inference; additionally, no data were found on the effectiveness of therapeutic strategies specifically targeting MASLD-related extrahepatic complications. Future research should prioritize randomized controlled trials evaluating multidisciplinary approaches that integrate hepatic, metabolic, and cardiovascular management, alongside the development of biomarkers capable of stratifying patients at higher risk of extrahepatic outcomes.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42621965",
-    "authors": [
-      {
-        "name": "Patricia S Castillo-Flores",
-        "affiliation": "Traslational Research Unit, Medica Sur Clinic &amp; Foundation, Puente de Piedra 150, Toriello Guerra Tlalpan, Z.C, 14050, Mexico City, Mexico."
-      },
-      {
-        "name": "Itzayana Rodr&#xed;guez-Antonio",
-        "affiliation": "Traslational Research Unit, Medica Sur Clinic &amp; Foundation, Puente de Piedra 150, Toriello Guerra Tlalpan, Z.C, 14050, Mexico City, Mexico."
-      },
-      {
-        "name": "Misael Uribe",
-        "affiliation": "Obesity and Digestive Diseases Unit, Medica Sur Clinic &amp; Foundation, Puente de Piedra 150, Toriello Guerra Tlalpan, Z.C, 14050, Mexico City, Mexico."
-      },
-      {
-        "name": "Norberto C Ch&#xe1;vez-Tapia",
-        "affiliation": "Obesity and Digestive Diseases Unit, Medica Sur Clinic &amp; Foundation, Puente de Piedra 150, Toriello Guerra Tlalpan, Z.C, 14050, Mexico City, Mexico."
-      }
-    ],
-    "journal": "Journal of clinical and experimental hepatology",
-    "publishedDate": "2026-08-20",
-    "fetchedDate": "2026-09-01",
-    "category": "Endocrinologia",
-    "tags": [
-      "cardiovascular",
-      "diabetes",
-      "insulin",
-      "metabolic"
     ],
     "isHighlight": false,
     "readTime": 10,
