@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-43018545",
+    "pmid": "43018545",
+    "doi": "10.1021/acs.jmedchem.6c02105",
+    "title": "Discovery of Novel GPR119 Agonists with Improved Kinetic Solubility and Drug-like Properties for Type 2 Diabetes Treatment.",
+    "titlePt": "Discovery of Novel GPR119 Agonists with Improved Kinetic Solubility and Drug-like Properties for Type 2 Diabetes Treatment.",
+    "abstract": "GPR119 is a compelling therapeutic target for type 2 diabetes due to its role in promoting glucagon-like peptide-1 (GLP-1), glucose-dependent insulinotropic peptide (GIP), and glucose-dependent insulin secretion. This study aimed to develop a series of novel GPR119 agonists with exceptional kinetic solubility over a broad pH range featuring an N-alkyl piperidine head and pyrrolidine 2-carboxamide tail. Among the synthesized compounds, 18f demonstrated potent activity, exhibiting nanomolar potency (EC50 = 12.6 nM) in the hGPR119-cAMP functional assay as well as a 33.3% hypoglycemic effect in an oral glucose tolerance test. A significant enhancement (175.9%) of total GLP-1 levels was observed at 10 mg/kg administration of compound 18f. Further, compound 18f outperformed the antidiabetic effect of sitagliptin as the DPP-4 inhibitor in female Zucker Diabetic Fatty rats. Furthermore, the favorable pharmacokinetic profiles of compound 18f underscore its potential as a promising lead compound",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43018545",
+    "authors": [
+      {
+        "name": "Jaeki Min",
+        "affiliation": "School of Pharmacy, Sungkyunkwan University, Suwon16419, Republic of Korea."
+      },
+      {
+        "name": "Jihun Kim",
+        "affiliation": "New Drug Discovery Lab., Chong Kun Dang Pharmaceutical Corp R&amp;D Center, Yongin16995, Republic of Korea."
+      },
+      {
+        "name": "Kyeongwon Moon",
+        "affiliation": "School of Pharmacy, Sungkyunkwan University, Suwon16419, Republic of Korea."
+      },
+      {
+        "name": "Mincheol Kim",
+        "affiliation": "School of Pharmacy, Sungkyunkwan University, Suwon16419, Republic of Korea."
+      }
+    ],
+    "journal": "Journal of medicinal chemistry",
+    "publishedDate": "2026-11-12",
+    "fetchedDate": "2026-11-12",
+    "category": "Farmacologia",
+    "tags": [
+      "drug",
+      "therapeutic",
+      "diabetes",
+      "insulin"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p93QBVe-2kFHot-a59772ecb9674ff9\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 33fee178-dc61-453b-8d11-0d15dea6ab26)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42966831",
     "pmid": "42966831",
     "doi": "10.1007/s10067-026-08490-4",
@@ -12262,49 +12305,5 @@
     "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42372625",
-    "pmid": "42372625",
-    "doi": "10.1016/j.vaccine.2026.128890",
-    "title": "Protocol for a phase 3, randomized, double-blind clinical trial evaluating the safety and immunogenicity of the MVA-BN&#xae; vaccine against mpox in children aged 4 to less than 24&#xa0;months in the Democratic Republic of the Congo: Data to guide future paediatric vaccination strategies.",
-    "titlePt": "Protocol for a phase 3, randomized, double-blind clinical trial evaluating the safety and immunogenicity of the MVA-BN&#xae; vaccine against mpox in children aged 4 to less than 24&#xa0;months in the Democratic Republic of the Congo: Data to guide future paediatric vaccination strategies.",
-    "abstract": "This article describes the protocol of the PregInPoxVac vaccine trial, evaluating the safety and immunogenicity of two MVA-BN vaccination regimens (full-dose and half- dose) administered subcutaneously with a 28-day interval in infants aged 4 to &lt;24&#xa0;months old. Non-inferiority of the full dose and half dose regimens will be compared to adults receiving a full dose regimen as part of the POX-MVA-045 study (ClinicalTrials.govIdentifier:NCT06549530). The PregInPoxVac study is being conducted in Boende, Tshuapa Province, Democratic Republic of the Congo (DRC), a mpox-endemic area; the POX-MVA-045 study is being conducted in Kinshasa, DRC, and Entebbe, Uganda. This is a randomized, double-blind, phase 3 trial assessing two dosing regimens in infants, with immunogenicity and safety compared to a predefined adult reference dataset. This is a phase 3, randomized, double-blind vaccine trial. A total of 344 healthy children aged 4 to &lt;24&#xa0;months will be enrolled at the Boende Gene",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42372625",
-    "authors": [
-      {
-        "name": "Solange Milolo Tshilumba",
-        "affiliation": "Department of Tropical Medicine, University of Kinshasa, Democratic Republic of the Congo; Global Health Institute, University of Antwerp, Belgium. Electronic address: solangemilolo43@gmail.com."
-      },
-      {
-        "name": "Paulina Morales Ruiz",
-        "affiliation": "Global Health Institute, University of Antwerp, Belgium."
-      },
-      {
-        "name": "Tr&#xe9;sor Zola Matuvanga",
-        "affiliation": "Department of Tropical Medicine, University of Kinshasa, Democratic Republic of the Congo."
-      },
-      {
-        "name": "Gwen Lemey",
-        "affiliation": "Global Health Institute, University of Antwerp, Belgium."
-      }
-    ],
-    "journal": "Vaccine",
-    "publishedDate": "2026-08-20",
-    "fetchedDate": "2026-09-24",
-    "category": "Pediatria",
-    "tags": [
-      "gene",
-      "clinical trial",
-      "children",
-      "infant",
-      "vaccine"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p2VeNaB-2kFHot-a3fd9b801e312f44\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
