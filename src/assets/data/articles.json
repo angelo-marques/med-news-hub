@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42933458",
+    "pmid": "42933458",
+    "doi": "10.1016/S0140-6736(26)02095-7",
+    "title": "First-line pembrolizumab versus carboplatin plus paclitaxel in participants with mismatch repair-deficient advanced or recurrent endometrial cancer (KEYNOTE-C93/GOG-3064/ENGOT-en15): interim analysis of a multicentre, open-label, randomised, active-comparator controlled, phase 3 trial.",
+    "titlePt": "First-line pembrolizumab versus carboplatin plus paclitaxel in participants with mismatch repair-deficient advanced or recurrent endometrial cancer (KEYNOTE-C93/GOG-3064/ENGOT-en15): interim analysis of a multicentre, open-label, randomised, active-comparator controlled, phase 3 trial.",
+    "abstract": "A need exists for first-line chemotherapy-free options in advanced or recurrent endometrial cancer. We therefore assessed the efficacy, quality of life, and safety of first-line pembrolizumab versus carboplatin plus paclitaxel in mismatch repair-deficient (dMMR) advanced or recurrent endometrial cancer. The KEYNOTE-C93/GOG-3064/ENGOT-en15 multicentre, open-label, randomised, active-comparator controlled, phase 3 trial was conducted at 122 centres in 24 countries in the Americas, Asia, Europe, and Oceania. Adult participants (&#x2265;18 years) with inoperable, stage III or IV, persistent, advanced, or recurrent dMMR endometrial cancer were randomly assigned 1:1 to intravenous pembrolizumab 400 mg every 6 weeks for up to 18 cycles or intravenous carboplatin area under the curve 5 mg/mL or 6 mg/mL per min plus paclitaxel 175 mg/m2 on day 1 of each 3-week cycle for six cycles. Randomisation was stratified by disease status, histology, and previous receipt of (neo)adjuvant chemotherapy. Pri",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42933458",
+    "authors": [
+      {
+        "name": "Brian M Slomovitz",
+        "affiliation": "GOG Foundation, Philadelphia, PA, USA; Division of Gynecologic Oncology, Mount Sinai Medical Center, Miami Beach, FL, USA. Electronic address: bslomovitz@gog.org."
+      },
+      {
+        "name": "Jianqing Zhu",
+        "affiliation": "Department of Gynecologic Oncology, Zhejiang Cancer Hospital, Hangzhou, China."
+      },
+      {
+        "name": "Rutie Yin",
+        "affiliation": "Department of Obstetrics and Gynecology, Sichuan University West China Second University Hospital, Sichuan University, Chengdu, China."
+      },
+      {
+        "name": "Floor Backes",
+        "affiliation": "GOG Foundation, Philadelphia, PA, USA; Division of Gynecologic Oncology, Ohio State University Wexner Medical Center and James Cancer Hospital, Columbus, OH, USA."
+      }
+    ],
+    "journal": "Lancet (London, England)",
+    "publishedDate": "2026-11-12",
+    "fetchedDate": "2026-11-13",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "chemotherapy"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p99iMHY-2kFHot-a59e43296b9be5c3\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: cfb0406a-1134-4bbb-ac22-09e21131226f)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43017794",
     "pmid": "43017794",
     "doi": "10.1161/STROKEAHA.126.056543",
@@ -12276,44 +12317,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42638279",
-    "pmid": "42638279",
-    "doi": "10.1080/21645515.2026.2720983",
-    "title": "How the unvaccinated have been portrayed in the urban English-language Canadian popular press since the declared end of the COVID-19 pandemic emergency.",
-    "titlePt": "How the unvaccinated have been portrayed in the urban English-language Canadian popular press since the declared end of the COVID-19 pandemic emergency.",
-    "abstract": "Since the WHO declared the end of the COVID-19 emergency in May 2023, public vaccination remains a complex issue intertwined with politicization and misinformation. This research article examined how the \"unvaccinated\" have been portrayed in the urban English-language Canadian popular press between May 2023 and May 2025, specifically comparing coverage of COVID-19 with the emerging 2024-2025 measles outbreaks. Through a content analysis of 308 articles from major national and urban news sources, the study reveals a dichotomy in journalistic framing. Findings indicate that COVID-19 reporting remained heavily politicized and rooted in ideological debates. These articles focused primarily on politics, mandate arguments, government critiques, and claims of discrimination against the unvaccinated, with only 40% mentioning unvaccinated health risks to oneself or others. In contrast, measles coverage adopted a more traditional public health lens; 96% of these articles characterized being unva",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *PubMed* (DOI: 10.1080/21645515.2026.2720983) analisou como a imprensa popular urbana canadense em língua inglesa retratou os não vacinados desde o fim da emergência global da COVID-19, declarado pela OMS em maio de 2023, até maio de 2025. A pesquisa, baseada em análise de conteúdo de 308 artigos de veículos nacionais e regionais, identificou uma dualidade na abordagem jornalística entre dois contextos sanitários distintos: a COVID-19 e os surtos de sarampo ocorridos em 2024-2025.\n\nOs resultados revelam que a cobertura sobre a COVID-19 permaneceu fortemente politizada, com foco em debates ideológicos, críticas governamentais e alegações de discriminação contra os não vacinados. Apenas 40% dos artigos mencionaram riscos à saúde associados à condição, seja para os próprios indivíduos ou para terceiros. Em contrapartida, a cobertura sobre o sarampo adotou uma perspectiva tradicional de saúde pública, com 96% dos textos caracterizando a não vacinação como uma ameaça direta à saúde coletiva. A pesquisa não detalhou os critérios espec��ficos de seleção dos artigos nem os métodos de codificação empregados, limitando possíveis inferências sobre vieses editoriais ou amostragem.\n\nOs achados sugerem que a mídia canadense ajustou seu tom conforme o cenário epidemiológico, priorizando abordagens técnicas em doenças com transmissão aérea de alta contagiosidade, como o sarampo, enquanto manteve a polarização em temas já altamente politizados, como a COVID-19. As limitações do estudo incluem a ausência de dados sobre a distribuição geográfica ou demográfica dos veículos analisados, o que impede generalizações sobre diferenças regionais. Além disso, não foram avaliados os impactos dessa cobertura na percepção pública ou nas taxas de vacinação.\n\nComo próximos passos, os autores sugerem estudos comparativos em outros países e períodos, bem como análises qualitativas para compreender como os enquadramentos midiáticos influenciam comportamentos vacinais. A pesquisa reforça a necessidade de estratégias de comunicação pública que equilibrem urgência sanitária com abordagens isentas, especialmente em contextos de alta polarização política.\n\n---\n\n**English version**\n\nA recent study published in *PubMed* (DOI: 10.1080/21645515.2026.2720983) examined how English-language Canadian urban press portrayed the unvaccinated from the WHO’s declaration of the end of the COVID-19 global health emergency in May 2023 through May 2025. The research, based on a content analysis of 308 articles from national and regional outlets, identified a stark contrast in journalistic framing between two distinct public health contexts: COVID-19 and the 2024–2025 measles outbreaks.\n\nThe findings reveal that COVID-19 coverage remained deeply politicized, centering on ideological debates, government critiques, and claims of discrimination against the unvaccinated. Only 40% of articles addressed health risks associated with non-vaccination, whether to individuals or others. In contrast, measles-related reporting adopted a traditional public health lens, with 96% of pieces characterizing non-vaccination as an immediate collective health threat. The study did not specify selection criteria for articles or coding methods, limiting insights into potential editorial biases or sampling frameworks.\n\nThe results suggest that Canadian media adjusted its tone based on epidemiological context, prioritizing technical public health approaches for highly contagious airborne diseases like measles while maintaining polarization in already politicized topics such as COVID-19. Study limitations include the absence of data on the geographic or demographic distribution of the analyzed outlets, which precludes broader generalizations about regional differences. Additionally, the research did not assess the impact of this coverage on public perception or vaccination rates.\n\nMoving forward, the authors propose comparative studies in other countries and timeframes, as well as qualitative analyses to explore how media framing influences vaccine behaviors. The findings underscore the need for public communication strategies that balance health urgency with impartiality, particularly in politically polarized environments.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638279",
-    "authors": [
-      {
-        "name": "Alessandro R Marcon",
-        "affiliation": "Health Law Institute, Faculty of Law, University of Alberta, Edmonton, AB, Canada."
-      },
-      {
-        "name": "Vincenza Boniface",
-        "affiliation": "Health Law Institute, Faculty of Law, University of Alberta, Edmonton, AB, Canada."
-      },
-      {
-        "name": "Timothy Caulfield",
-        "affiliation": "Health Law Institute, Faculty of Law, University of Alberta, Edmonton, AB, Canada."
-      }
-    ],
-    "journal": "Human vaccines &amp; immunotherapeutics",
-    "publishedDate": "2026-08-25",
-    "fetchedDate": "2026-09-01",
-    "category": "Infectologia",
-    "tags": [
-      "covid",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
