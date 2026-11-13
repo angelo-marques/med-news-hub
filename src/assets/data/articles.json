@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-43022846",
+    "pmid": "43022846",
+    "doi": "10.1016/j.nmni.2026.101880",
+    "title": "Molecular epidemiology and virulence profiles of MDR and XDR Pseudomonas aeruginosa from combat-related wounds in Ukraine.",
+    "titlePt": "Molecular epidemiology and virulence profiles of MDR and XDR Pseudomonas aeruginosa from combat-related wounds in Ukraine.",
+    "abstract": "Combat-related injuries sustained during the ongoing conflict in Ukraine have been associated with infections caused by multidrug-resistant Gram-negative bacteria, raising concerns about treatment options and cross-border transmission to receiving healthcare systems. Pseudomonas aeruginosa is among the most clinically significant pathogens in this setting. This study aimed to define the molecular epidemiology of P. aeruginosa from combat-related wounds in Ukraine and to link genomic resistance and virulence determinants to antimicrobial susceptibility and virulence phenotypes. P. aeruginosa isolates from distinct wound patients (n&#x202f;=&#x202f;13, Dec 2024-Jun 2025) underwent whole-genome sequencing, SNP-based phylogenetic analysis, and screening of acquired resistance genes and chromosomal resistance-associated mutations. Antimicrobial susceptibility testing followed EUCAST, and carbapenemase production was assessed phenotypically. Virulence profiling included exoU/exoS carriage, 3",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43022846",
+    "authors": [
+      {
+        "name": "Oana Palasca",
+        "affiliation": "Costerton Biofilm Center, Department of Immunology and Microbiology, University of Copenhagen, Copenhagen, Denmark."
+      },
+      {
+        "name": "Caroline Hvidberg Schwartz",
+        "affiliation": "Costerton Biofilm Center, Department of Immunology and Microbiology, University of Copenhagen, Copenhagen, Denmark."
+      },
+      {
+        "name": "Rasmus Kristensen",
+        "affiliation": "Costerton Biofilm Center, Department of Immunology and Microbiology, University of Copenhagen, Copenhagen, Denmark."
+      },
+      {
+        "name": "Iryna Koshova",
+        "affiliation": "Department of Microbiology, Virology, Immunology, Epidemiology, and Biomedical Physics and Informatics, Dnipro State Medical University, Dnipro, Ukraine."
+      }
+    ],
+    "journal": "New microbes and new infections",
+    "publishedDate": "2026-11-13",
+    "fetchedDate": "2026-11-13",
+    "category": "Genômica",
+    "tags": [
+      "infection",
+      "antimicrobial",
+      "genomic",
+      "genetic",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9C5HuY-2kFHot-a5a0cf7b19e434ab\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 3f542bb8-0da5-45d1-aab5-f24796065e03)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42933458",
     "pmid": "42933458",
     "doi": "10.1016/S0140-6736(26)02095-7",
@@ -12277,46 +12321,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42535264",
-    "pmid": "42535264",
-    "doi": "10.1161/STROKEAHA.126.056726",
-    "title": "Response to Request for Modification of the 2026 AHA/ASA Acute Ischemic Stroke Guidelines: Endovascular Thrombectomy Imaging Selection in the 6- to 24-Hour Window.",
-    "titlePt": "Response to Request for Modification of the 2026 AHA/ASA Acute Ischemic Stroke Guidelines: Endovascular Thrombectomy Imaging Selection in the 6- to 24-Hour Window.",
-    "journalisticSummary": "**Versão em português**\n\nUm estudo publicado recentemente na *Stroke*, periódico oficial da American Heart Association (AHA), propõe ajustes substanciais nos critérios de imagem para seleção de pacientes elegíveis à trombectomia endovascular (TE) no intervalo de 6 a 24 horas após o início dos sintomas de acidente vascular cerebral isquêmico (AVCi) agudo. A pesquisa, conduzida por um conselho liderado pela *Society of NeuroInterventional Surgery (SNIS)*, analisa dados de ensaios clínicos e séries de casos que fundamentam as diretrizes de 2026 da AHA/ASA, destacando a necessidade de incorporar marcadores biológicos e critérios de imagem mais precisos para ampliar a janela terapêutica sem comprometer a segurança.\n\nOs achados principais indicam que a combinação de critérios perfusionais avançados — como o volume de penumbra isquêmica (área em risco) e a relação entre tecido cerebral viável e infartado — pode otimizar a identificação de pacientes com potencial benefício da TE além das 6 horas, período atualmente restrito na maioria dos protocolos. Os dados sugerem que até 30% dos pacientes previamente excluídos poderiam se beneficiar do procedimento, desde que apresentem perfusão cerebral compatível com viabilidade tecidual. Além disso, o estudo reforça a importância de exames de imagem multimodal, como ressonância magnética (RM) com perfusão ou tomografia computadorizada (TC) com perfusão, para estratificação de risco individualizada.\n\nDo ponto de vista clínico, a implementação dessas mudanças poderia reduzir significativamente a incapacidade funcional em longo prazo, especialmente em casos de AVCi de grande vaso, onde a TE já é comprovadamente eficaz dentro das primeiras horas. No entanto, os autores destacam limitações críticas: a ausência de randomização em grande escala para pacientes tratados entre 6 e 24 horas e a variabilidade interinstitucional na interpretação dos exames de imagem. Além disso, não foi informado no resumo original se os critérios propostos foram validados em populações diversas, incluindo grupos étnicos minoritários ou pacientes com comorbidades comuns, como diabetes ou hipertensão.\n\nOs próximos passos incluem a realização de ensaios clínicos randomizados para confirmar a eficácia e segurança dos novos critérios, bem como o desenvolvimento de algoritmos de inteligência artificial capazes de padronizar a análise de imagens perfusionais. A AHA/ASA deve revisar as diretrizes em 2026, e este estudo será um dos pilares para a atualização, caso os achados sejam corroborados por evidências adicionais.\n\n---\n\n**English version**\n\nA recent study published in *Stroke*, the official journal of the American Heart Association (AHA), proposes substantial refinements to imaging selection criteria for endovascular thrombectomy (EVT) eligibility in patients presenting 6 to 24 hours after acute ischemic stroke (AIS) onset. Conducted by a task force led by the *Society of NeuroInterventional Surgery (SNIS)*, the research evaluates clinical trial and real-world data to inform the 2026 AHA/ASA guidelines, emphasizing the need for more precise biological and imaging markers to extend the therapeutic window without compromising patient safety.\n\nKey findings indicate that advanced perfusion-based criteria—such as the volume of ischemic penumbra (at-risk tissue) and the ratio of viable to infarcted brain tissue—could optimize patient selection for EVT beyond the current 6-hour threshold. Data suggest that up to 30% of patients previously excluded might benefit from the procedure if perfusion imaging demonstrates viable tissue. The study also underscores the role of multimodal imaging, including perfusion MRI or CT, in tailoring treatment decisions to individual risk profiles.\n\nClinically, adopting these updated criteria could substantially reduce long-term functional disability, particularly in large-vessel occlusion strokes, where EVT is already established within early time windows. However, the authors highlight critical limitations: the lack of large-scale randomized data for patients treated between 6 and 24 hours, and inter-institutional variability in perfusion imaging interpretation. Additionally, the abstract does not specify whether the proposed criteria have been validated across diverse populations, including ethnic minorities or patients with common comorbidities such as diabetes or hypertension.\n\nNext steps involve conducting randomized controlled trials to validate the efficacy and safety of the new selection criteria, alongside the development of AI-driven algorithms to standardize perfusion imaging analysis. The AHA/ASA will review the guidelines in 2026, and this study is poised to play a pivotal role in their revision if further evidence supports its findings.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42535264",
-    "authors": [
-      {
-        "name": "Nestor R Gonzalez",
-        "affiliation": "Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA (N.R.G.)."
-      },
-      {
-        "name": "Shyam Prabhakaran",
-        "affiliation": "Department of Neurosurgery, University of Chicago Biological Sciences Division, IL (S.P.)."
-      },
-      {
-        "name": "Kori S Zachrison",
-        "affiliation": "Department of Emergency Medicine, Massachusetts General Hospital &amp; Harvard Medical School, Boston (K.S.Z.)."
-      },
-      {
-        "name": "Enrique C Leira",
-        "affiliation": "Departments of Neurology and Neurosurgery, Carver College of Medicine (E.C.L.), University of Iowa, Iowa City."
-      }
-    ],
-    "journal": "Stroke",
-    "publishedDate": "2026-08-25",
-    "fetchedDate": "2026-09-01",
-    "category": "Neurologia",
-    "tags": [
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
