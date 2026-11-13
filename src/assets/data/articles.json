@@ -1,5 +1,132 @@
 [
   {
+    "id": "pubmed-43017794",
+    "pmid": "43017794",
+    "doi": "10.1161/STROKEAHA.126.056543",
+    "title": "Mapping the Metabolic Penumbra From Standard CT Perfusion: CTP-Derived CMRO2/OEF Estimates Versus CBF/Tmax.",
+    "titlePt": "Mapping the Metabolic Penumbra From Standard CT Perfusion: CTP-Derived CMRO2/OEF Estimates Versus CBF/Tmax.",
+    "abstract": "CT perfusion (CTP) hemodynamic thresholds may overestimate the ischemic core (ghost core) in early presenters. We hypothesized that a metabolic model, defining the core by decreased cerebral metabolic rate of oxygen and penumbra by increased oxygen extraction fraction, estimated from standard CTP, would better predict tissue fate and early neurological outcome. This retrospective single-center study (October 2015 to October 2025) included consecutive thrombectomy-treated patients with anterior-circulation large-vessel occlusion, admission CTP, and 48&#xb1;12-hour diffusion-weighted imaging. Predefined relative cerebral metabolic rate of oxygen and oxygen extraction fraction thresholds (metabolic model) were compared with relative cerebral blood flow &#x2264;30% and time-to-maximum (Tmax) &#x2265;6 seconds (hemodynamic model) against diffusion-weighted imaging. Each imaging model (core and penumbra volumes) was added to clinical covariates predicting 48-hour lesion volume (linear regres",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43017794",
+    "authors": [
+      {
+        "name": "Alexandre Bani-Sadr",
+        "affiliation": "Department of Neuroradiology (A.B.-S., P.R., M.H., A.G., M.L., R.C., R.R., Y.B.), East Group Hospital, Hospices Civils de Lyon, Bron, France."
+      },
+      {
+        "name": "Philippine Roy",
+        "affiliation": "CREATIS Laboratory, CNRS UMR 5220, INSERM U1294, Claude Bernard Lyon I University, Villeurbanne, France (A.B.-S., C.F., Y.B.)."
+      },
+      {
+        "name": "Marc Hermier",
+        "affiliation": "Department of Neuroradiology (A.B.-S., P.R., M.H., A.G., M.L., R.C., R.R., Y.B.), East Group Hospital, Hospices Civils de Lyon, Bron, France."
+      },
+      {
+        "name": "Andrea Gambino",
+        "affiliation": "Department of Neuroradiology (A.B.-S., P.R., M.H., A.G., M.L., R.C., R.R., Y.B.), East Group Hospital, Hospices Civils de Lyon, Bron, France."
+      }
+    ],
+    "journal": "Stroke",
+    "publishedDate": "2026-11-12",
+    "fetchedDate": "2026-11-13",
+    "category": "Endocrinologia",
+    "tags": [
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p964hZp-2kFHot-a59a52f7dc3e510a\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: ec3560ce-b254-4dfb-8ace-2664a79c2c71)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43018973",
+    "pmid": "43018973",
+    "doi": "10.1001/jamanetworkopen.2026.43418",
+    "title": "Procalcitonin- and Presepsin-Guided Antibiotics for Early-Onset Sepsis in Preterm Infants: A Randomized Clinical Trial.",
+    "titlePt": "Procalcitonin- and Presepsin-Guided Antibiotics for Early-Onset Sepsis in Preterm Infants: A Randomized Clinical Trial.",
+    "abstract": "Early administration of antibiotics in the absence of proven sepsis, such as for treatment of early-onset sepsis (EOS), has been associated with adverse outcomes in very preterm infants. Reference values for procalcitonin (PCT) and presepsin (P-SEP) have been established in preterm infants. To determine whether PCT- and P-SEP-guided antibiotic treatment for EOS was noninferior to universal antibiotic treatment with respect to survival without major morbidity. This randomized multicenter noninferiority clinical trial was conducted in 17 Italian neonatal intensive care units between June 1, 2023, and January 31, 2025, among preterm infants born at 25 weeks and 0 days to 31 weeks and 6 days of gestation. Enrolled infants were randomly allocated to receive either PCT- and P-SEP-guided antibiotic treatment, administered if PCT and P-SEP levels exceeded prespecified thresholds, or universal antibiotic treatment for EOS. The composite primary outcome was defined as survival without late-onset",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43018973",
+    "authors": [
+      {
+        "name": "Carlo Dani",
+        "affiliation": "Department of Neurosciences, Psychology, Drug Research and Child Health, University of Florence, Florence, Italy."
+      },
+      {
+        "name": "Chiara Poggi",
+        "affiliation": "Division of Neonatology, Careggi University Hospital of Florence, Florence, Italy."
+      },
+      {
+        "name": "Carlo Pietrasanta",
+        "affiliation": "Division of Neonatology, Careggi University Hospital of Florence, Florence, Italy."
+      },
+      {
+        "name": "Camilla Cattaneo",
+        "affiliation": "Department of Mother and Infant Science, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, University of Milan, Milano, Italy."
+      }
+    ],
+    "journal": "JAMA network open",
+    "publishedDate": "2026-11-12",
+    "fetchedDate": "2026-11-13",
+    "category": "Pediatria",
+    "tags": [
+      "sepsis",
+      "clinical trial",
+      "infant",
+      "neonatal"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p965CJL-2kFHot-a59a55548f5ee892\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: e43b2e39-bf6d-487e-9f8d-d8a214b395fe)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42721458",
+    "pmid": "42721458",
+    "doi": "10.1182/bloodadvances.2026020529",
+    "title": "Real-world implementation, feasibility and early effectiveness of blinatumomab for pediatric B-ALL in lower-middle-income countries.",
+    "titlePt": "Real-world implementation, feasibility and early effectiveness of blinatumomab for pediatric B-ALL in lower-middle-income countries.",
+    "abstract": "In 2025, blinatumomab was added to the World Health Organization Essential Medicines List for Children for the treatment of B-cell acute lymphoblastic leukemia (B-ALL); yet access remains limited in many low- and middle-income countries (LMICs). Consequently, real-world experience in these settings, particularly in those in which access, supportive care, and delivery infrastructure differ substantially from those in high-income countries, remains poorly characterized. To evaluate the early effectiveness and implementation challenges of blinatumomab administration for pediatric B-ALL in LMICs, an observational cohort study was conducted at 6 pediatric oncology centers participating in a blinatumomab drug-access program in India, Pakistan, and Vietnam. A consecutive sample of 106 children aged 1 to 18 years with relapsed/refractory B-ALL (n = 60 [56.6%]) or minimal residual disease (MRD) &gt;0.1% (n = 46 [43.4%]) received blinatumomab. Across 192 cycles, 54 unplanned interruptions occurr",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721458",
+    "authors": [
+      {
+        "name": "Caitlyn Duffy",
+        "affiliation": "Department of Global Pediatric Medicine, St. Jude Children's Research Hospital, Memphis, TN."
+      },
+      {
+        "name": "Zehra Fadoo",
+        "affiliation": "Department of Oncology, Aga Khan University Hospital, Karachi, Pakistan."
+      },
+      {
+        "name": "Niharendu Ghara",
+        "affiliation": "Department of Paediatric Haematology Oncology, Tata Medical Center, Kolkata, India."
+      },
+      {
+        "name": "Lan Ngoc Bui",
+        "affiliation": "Pediatric Oncology Center, Vietnam National Children's Hospital, Hanoi, Vietnam."
+      }
+    ],
+    "journal": "Blood advances",
+    "publishedDate": "2026-11-12",
+    "fetchedDate": "2026-11-13",
+    "category": "Oncologia",
+    "tags": [
+      "oncology",
+      "leukemia",
+      "drug",
+      "pediatric",
+      "children"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p965fUU-2kFHot-a59a578fa96f0c73\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: d04d3195-6e1e-4411-a4c6-9ac367987ffa)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43018545",
     "pmid": "43018545",
     "doi": "10.1021/acs.jmedchem.6c02105",
@@ -12187,122 +12314,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42634856",
-    "pmid": "42634856",
-    "doi": "10.3238/arztebl.m2026.0148",
-    "title": "Same-Day Discharge Versus Overnight Stay After Catheter Ablation: An Observational Matched-Cohort Study on Safety and Feasibility.",
-    "titlePt": "Same-Day Discharge Versus Overnight Stay After Catheter Ablation: An Observational Matched-Cohort Study on Safety and Feasibility.",
-    "abstract": "Catheter ablation is an established therapy for arrhythmias. As the incidence of atrial fibrillation (AF) rises, the associated burden on the health-care system is expected to increase. Same-day discharge (SDD) may help optimize resource utilization and increase patient comfort and satisfaction. Consecutive patients undergoing SDD electrophysiology procedures were prospectively enrolled in the study and compared in a non-randomized manner with consecutive overnight stay (ONS) patients who were matched to them according to procedure type. SDD patients were evaluated on the day after the procedure. SDD Patients who were not discharged on the day of the procedure were excluded. Baseline, periprocedural, and 30-day outcomes were documented and compared. 100 patients underwent SDD electrophysiology procedures from September 2022 to March 2025. The SDD patients were younger and had a lower prevalence of coronary artery disease and chronic kidney disease than their counterparts in the ONS coh",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo observacional de coorte pareada publicado recentemente no *Deutsches Ärzteblatt International* avaliou a segurança e viabilidade da alta no mesmo dia após ablação por cateter em comparação com a internação overnight. A pesquisa, conduzida entre setembro de 2022 e março de 2025, analisou 100 pacientes submetidos a procedimentos eletrofisiológicos com alta no mesmo dia (SDD), comparando-os a um grupo pareado de pacientes que permaneceram internados overnight (ONS). O estudo buscou determinar se a SDD poderia otimizar a utilização de recursos hospitalares sem comprometer a segurança ou os desfechos clínicos.\n\nOs resultados indicaram que os pacientes do grupo SDD eram significativamente mais jovens e apresentavam menor prevalência de doença arterial coronariana e doença renal crônica em relação aos pacientes do grupo ONS. Durante o seguimento de 30 dias, não foram observadas diferenças estatisticamente significativas nos desfechos adversos entre os dois grupos, sugerindo que a alta precoce pode ser uma estratégia segura em casos selecionados. No entanto, o estudo não detalhou os critérios específicos de elegibilidade para a SDD nem os protocolos de monitoramento pós-procedimento aplicados em cada grupo.\n\nEmbora os achados apoiem a viabilidade da alta no mesmo dia em pacientes de baixo risco, o desenho não randomizado e a ausência de randomização limitam a generalização dos resultados. Além disso, não foram fornecidas informações sobre a taxa de conversão de SDD para internação overnight ou os motivos clínicos para eventuais exclusões. Os autores destacam a necessidade de ensaios randomizados para validar esses achados e definir protocolos padronizados que garantam a segurança em diferentes perfis de pacientes.\n\n**Versão em inglês**\n\nA recent observational matched-cohort study published in *Deutsches Ärzteblatt International* evaluated the safety and feasibility of same-day discharge (SDD) following catheter ablation compared to overnight stay (ONS). Conducted between September 2022 and March 2025, the study analyzed 100 patients who underwent electrophysiology procedures with SDD, matched to a cohort of patients who remained hospitalized overnight. The research aimed to determine whether SDD could optimize hospital resource utilization without compromising safety or clinical outcomes.\n\nThe findings revealed that SDD patients were significantly younger and had a lower prevalence of coronary artery disease and chronic kidney disease compared to the ONS group. Over a 30-day follow-up period, no statistically significant differences in adverse outcomes were observed between the two groups, suggesting that early discharge may be a safe strategy for selected patients. However, the study did not specify the eligibility criteria for SDD or the post-procedural monitoring protocols applied to each group.\n\nWhile the results support the feasibility of same-day discharge in low-risk patients, the non-randomized design and lack of randomization limit the generalizability of the findings. Additionally, the study did not report the conversion rate from SDD to overnight stay or the clinical reasons for exclusions. The authors emphasize the need for randomized trials to validate these findings and establish standardized protocols to ensure safety across different patient profiles.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42634856",
-    "authors": [
-      {
-        "name": "Sorin S Popescu"
-      },
-      {
-        "name": "Felix Behn"
-      },
-      {
-        "name": "Charlotte Eitel"
-      },
-      {
-        "name": "Jan-Per Wenzel"
-      }
-    ],
-    "journal": "Deutsches Arzteblatt international",
-    "publishedDate": "2026-08-24",
-    "fetchedDate": "2026-09-01",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "coronary"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42460477",
-    "pmid": "42460477",
-    "doi": "10.1161/STROKEAHA.125.056167",
-    "title": "Ischemic Postconditioning in Patients With Acute Stroke With Successful Recanalization After Endovascular Therapy: A Pilot Randomized Controlled Trial.",
-    "titlePt": "Ischemic Postconditioning in Patients With Acute Stroke With Successful Recanalization After Endovascular Therapy: A Pilot Randomized Controlled Trial.",
-    "abstract": "Ischemia-reperfusion injury contributes to continued infarct growth despite successful recanalization. Ischemic postconditioning (IPostC) reduces infarct size in preclinical models, but its therapeutic effect as an adjunct to endovascular thrombectomy remains uncertain. We investigated whether IPostC performed after successful recanalization reduces infarct growth in patients with acute ischemic stroke. This single-center, prospective, randomized, open-label trial with blinded end point assessment was conducted at Tianjin Huanhu Hospital between September 2024 and May 2025. Patients with acute ischemic stroke who underwent endovascular thrombectomy within 24 hours of symptom onset or last known well, had a baseline National Institutes of Health Stroke Scale score &#x2265;6 and a prestroke modified Rankin Scale score &#x2264;2, and achieved successful recanalization after endovascular thrombectomy were randomly assigned to the IPostC or control group. IPostC consisted of 4 cycles of 2-m",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo piloto randomizado, conduzido no Hospital Tianjin Huanhu (China) entre setembro de 2024 e maio de 2025, investigou se o **pós-condicionamento isquêmico (IPostC)** pode reduzir o crescimento do infarto cerebral em pacientes com acidente vascular cerebral isquêmico (AVCi) agudo submetidos à trombectomia endovascular com recanalização bem-sucedida. O IPostC, técnica que interrompe brevemente a reperfusão após a recanalização para atenuar a lesão por isquemia-reperfusão, já demonstrou eficácia em modelos pré-clínicos, mas sua aplicação clínica como terapia adjuvante permanece incerta.\n\nNo ensaio, pacientes com AVCi agudo, pontuação inicial na *National Institutes of Health Stroke Scale* (NIHSS) ≥6, escala *modified Rankin* pré-AVC ≤2 e recanalização bem-sucedida após trombectomia (realizada em até 24 horas do início dos sintomas) foram aleatoriamente alocados para receber 4 ciclos de 2 minutos de oclusão arterial seguida de 2 minutos de reperfusão (grupo IPostC) ou cuidados padrão (grupo controle). O desfecho primário foi a redução do crescimento do infarto, avaliado por ressonância magnética de difusão 24–72 horas após a recanalização. Os resultados, ainda não publicados em detalhes, devem ser interpretados com cautela devido ao caráter piloto do estudo — com amostra limitada e delineamento aberto, embora com avaliação cega de desfechos.\n\nSe confirmados, os achados poderiam fundamentar o IPostC como uma estratégia de baixo custo e viável para limitar a lesão cerebral pós-reperfusão, especialmente em centros com acesso restrito a terapias avançadas. No entanto, a generalização dos resultados depende de replicação em estudos multicêntricos, com maior poder estatístico e análise de desfechos clínicos a longo prazo, como funcionalidade e mortalidade. Questões como o momento ideal de aplicação, a segurança em pacientes com comorbidades e a viabilidade logística em serviços de urgência também precisam ser esclarecidas.\n\n---\n\n**English version**\n\nA single-center, prospective, randomized, open-label trial conducted at Tianjin Huanhu Hospital (China) between September 2024 and May 2025 assessed whether **ischemic postconditioning (IPostC)** can reduce infarct growth in patients with acute ischemic stroke (AIS) who achieved successful recanalization after endovascular thrombectomy. IPostC, a strategy involving brief interruptions of reperfusion after vessel opening to mitigate ischemia-reperfusion injury, has shown promise in preclinical models but remained unproven in clinical settings as an adjunct to thrombectomy.\n\nThe trial enrolled patients with AIS, baseline *National Institutes of Health Stroke Scale* (NIHSS) score ≥6, prestroke *modified Rankin Scale* score ≤2, and successful recanalization following thrombectomy performed within 24 hours of symptom onset. Participants were randomly assigned to receive four cycles of 2-minute arterial occlusion followed by 2-minute reperfusion (IPostC group) or standard care (control group). The primary endpoint was infarct growth reduction, measured by diffusion-weighted MRI 24–72 hours after recanalization. While the study’s findings have not been detailed in published reports, preliminary results suggest potential benefits that warrant further investigation, though conclusions are preliminary given the trial’s pilot nature—limited sample size and open-label design with blinded outcome assessment.\n\nIf validated, IPostC could emerge as a low-cost, feasible adjunct therapy to limit reperfusion injury, particularly in resource-limited settings. However, broader clinical applicability depends on larger, multicenter trials with robust statistical power, long-term functional outcomes (e.g., disability and mortality), and assessments of optimal timing, safety in comorbid patients, and logistical feasibility in emergency care workflows. Further research is essential before clinical recommendations can be considered.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42460477",
-    "authors": [
-      {
-        "name": "Yongbo Xu",
-        "affiliation": "Huanhu Hospital Affiliated to Tianjin Medical University, Tianjin Medical University, China (Y.X., Shuling Liu, X. Jiang, Shuai Liu, K.D., X.Q., X.T., M.W.)."
-      },
-      {
-        "name": "Bohao Zhang",
-        "affiliation": "Department of Neurology (B.Z., L.L.), Tianjin Huanhu Hospital, China.117918"
-      },
-      {
-        "name": "Shuling Liu",
-        "affiliation": "Huanhu Hospital Affiliated to Tianjin Medical University, Tianjin Medical University, China (Y.X., Shuling Liu, X. Jiang, Shuai Liu, K.D., X.Q., X.T., M.W.)."
-      },
-      {
-        "name": "Xiao Jiang",
-        "affiliation": "Department of Neurosurgery (Shuling Liu, S.W., X.T., M.W.), Tianjin Huanhu Hospital, China.117918"
-      }
-    ],
-    "journal": "Stroke",
-    "publishedDate": "2026-08-24",
-    "fetchedDate": "2026-09-01",
-    "category": "Neurologia",
-    "tags": [
-      "stroke",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42485932",
-    "pmid": "42485932",
-    "doi": "10.1016/j.clnu.2026.106727",
-    "title": "Association of intermuscular and intramuscular fat with insulin resistance, type 2 diabetes, and metabolic syndrome: A systematic review.",
-    "titlePt": "Association of intermuscular and intramuscular fat with insulin resistance, type 2 diabetes, and metabolic syndrome: A systematic review.",
-    "abstract": "Intermuscular and intramuscular fat may exacerbate cardiometabolic risk through insulin resistance. This systematic review explores the association of intermuscular and intramuscular fat with Homeostatic Model Assessment for Insulin Resistance (HOMA-IR), type 2 diabetes (T2D), and metabolic syndrome (MetS). Following the PRISMA 2020 guidelines, PubMed, Scopus, Web of Science, and Cochrane Library were searched from inception to March 2025 for studies reporting ORs for muscle fat (assessed via computed tomography (CT), magnetic resonance imaging (MRI), or peripheral quantitative CT (pQCT)) and metabolic outcomes in adults above 18 years. Quality was assessed using the Newcastle Ottawa Scale (NOS), with narrative synthesis due to high heterogeneity. Seventeen studies (n = 2945-8081; 61.7% men; age range of 34.3-74.6 years; majority of participants were community-dwelling) were included. Intermuscular fat showed significant associations with HOMA-IR (OR 2.72-2.67), T2D (OR 1.22-3.27, in m",
-    "journalisticSummary": "A deposição anormal de gordura no tecido muscular — tanto entre as fibras (gordura intermuscular) quanto dentro das próprias fibras (gordura intramuscular) — tem sido associada ao agravamento de condições metabólicas, como resistência à insulina, diabetes tipo 2 e síndrome metabólica. Um estudo publicado na revista *Clinical Nutrition* (DOI: 10.1016/j.clnu.2026.106727) realizou uma revisão sistemática seguindo as diretrizes PRISMA 2020 para avaliar a relação entre esses depósitos lipídicos musculares e desfechos metabólicos em adultos. A análise incluiu 17 estudos, envolvendo entre 2.945 e 8.081 participantes (61,7% homens, com idades variando de 34,3 a 74,6 anos), majoritariamente indivíduos residentes na comunidade.\n\nOs resultados, sintetizados de forma narrativa devido à alta heterogeneidade entre os estudos, revelaram associações significativas entre a gordura intermuscular e a resistência à insulina, medida pelo *Homeostatic Model Assessment for Insulin Resistance* (HOMA-IR), com odds ratios (OR) variando de 2,72 a 2,67. Para diabetes tipo 2, os ORs observados ficaram entre 1,22 e 3,27, enquanto a síndrome metabólica apresentou ORs entre 1,45 e 2,88 — embora os dados para esta última condição tenham sido menos consistentes entre os estudos incluídos. As avaliações de gordura muscular foram predominantemente realizadas por meio de tomografia computadorizada (CT), ressonância magnética (MRI) ou tomografia quantitativa periférica (pQCT).\n\nEmbora o estudo não tenha especificado a magnitude da contribuição relativa da gordura intramuscular em comparação à intermuscular, os achados reforçam a hipótese de que o acúmulo ectópico de lipídeos no músculo esquelético desempenha um papel causal na fisiopatologia de doenças metabólicas, possivelmente mediado pela disfunção mitocondrial e inflamação local. No entanto, a alta variabilidade metodológica — incluindo diferenças na população estudada, técnicas de imagem e critérios diagnósticos — limita a generalização dos resultados. Além disso, a ausência de dados sobre a progressão longitudinal dos depósitos de gordura muscular e sua relação com a incidência de doenças impede inferências causais definitivas.\n\nOs autores destacam a necessidade de estudos prospectivos com amostras maiores e metodologias padronizadas para elucidar o impacto clínico da gordura intramuscular e intermuscular, bem como investigar estratégias terapêuticas direcionadas à redução desses depósitos, como exercícios de resistência ou intervenções dietéticas específicas. Até que tais evidências sejam estabelecidas, a mensuração rotineira da gordura muscular em exames de imagem — especialmente em populações de risco — permanece uma ferramenta potencialmente útil, mas ainda não consolidada na prática clínica.\n\n---\n\nExcess fat deposition within skeletal muscle tissue — both between muscle fibers (intermuscular fat) and within muscle fibers themselves (intramuscular fat) — has been linked to worsening metabolic conditions, including insulin resistance, type 2 diabetes, and metabolic syndrome. A study published in *Clinical Nutrition* (DOI: 10.1016/j.clnu.2026.106727) conducted a systematic review following PRISMA 2020 guidelines to assess the relationship between these muscular lipid deposits and metabolic outcomes in adults. The analysis included 17 studies, involving between 2,945 and 8,081 participants (61.7% men, aged 34.3 to 74.6 years), mostly community-dwelling individuals.\n\nThe findings, synthesized narratively due to high heterogeneity across studies, revealed significant associations between intermuscular fat and insulin resistance, measured by the *Homeostatic Model Assessment for Insulin Resistance* (HOMA-IR), with odds ratios (OR) ranging from 2.72 to 2.67. For type 2 diabetes, observed ORs ranged from 1.22 to 3.27, while metabolic syndrome showed ORs between 1.45 and 2.88 — though data for the latter were less consistent across included studies. Muscle fat assessments were primarily conducted using computed tomography (CT), magnetic resonance imaging (MRI), or peripheral quantitative CT (pQCT).\n\nWhile the study did not specify the relative contribution of intramuscular versus intermuscular fat, the results support the hypothesis that ectopic lipid accumulation in skeletal muscle plays a causal role in the pathophysiology of metabolic diseases, potentially mediated by mitochondrial dysfunction and local inflammation. However, methodological variability — including differences in populations studied, imaging techniques, and diagnostic criteria — limits the generalizability of the findings. Additionally, the lack of longitudinal data on muscle fat deposition and its relationship to disease incidence precludes definitive causal inferences.\n\nThe authors emphasize the need for prospective studies with larger, standardized samples to clarify the clinical impact of intramuscular and intermuscular fat, as well as to explore targeted interventions, such as resistance exercise or specific dietary strategies, for reducing these deposits. Until such evidence is established, routine measurement of muscle fat in imaging studies — particularly in high-risk populations — remains a potentially useful but not yet standardized clinical tool.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42485932",
-    "authors": [
-      {
-        "name": "Konstantinos Prokopidis",
-        "affiliation": "Department of Musculoskeletal Ageing and Science, Institute of Life Course and Medical Sciences, University of Liverpool, Liverpool, UK. Electronic address: k.prokopidis@liverpool.ac.uk."
-      },
-      {
-        "name": "Gustavo Duque",
-        "affiliation": "Bone, Muscle &amp; Geoscience Group, Research Institute of the McGill University Health Centre, Montreal, Quebec, Canada; Dr. Joseph Kaufmann Chair in Geriatric Medicine, Department of Medicine, McGill University, Montreal, Quebec, Canada."
-      }
-    ],
-    "journal": "Clinical nutrition (Edinburgh, Scotland)",
-    "publishedDate": "2026-08-21",
-    "fetchedDate": "2026-09-01",
-    "category": "Endocrinologia",
-    "tags": [
-      "gene",
-      "diabetes",
-      "insulin",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
