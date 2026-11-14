@@ -1,5 +1,170 @@
 [
   {
+    "id": "pubmed-43027322",
+    "pmid": "43027322",
+    "doi": "10.3390/cells15211964",
+    "title": "Systematic Characterization of AML Cell Lines to Support Preclinical In Vitro CAR-T Research.",
+    "titlePt": "Systematic Characterization of AML Cell Lines to Support Preclinical In Vitro CAR-T Research.",
+    "abstract": "The development of chimeric antigen receptor (CAR) T cell therapies for acute myeloid leukemia (AML) remains challenging, underscoring the need for reliable preclinical models. Although AML cell lines are widely used in CAR-T studies, their ability to reflect clinically relevant antigen expression patterns and functional characteristics of primary AML cells has not been systematically evaluated. We characterized nine AML cell lines (KG-1, HL-60, Kasumi-1, OCI-AML2, OCI-AML5, THP-1, U-937, MV4-11, and MOLM-13) as targets for in vitro CAR-T studies. We assessed the expression of established CAR-T target antigens (e.g., CLL1, CD33), cell lines similarity to minimal residual disease (MRD) cells and matched healthy monocytes from 161 AML patients, the expression of emerging AML-associated antigens (Siglec-6, CSF1R, and CD70), growth behavior, and susceptibility to non-specific killing by non-transduced T cells. AML cell lines demonstrated substantial heterogeneity in antigen expression with",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43027322",
+    "authors": [
+      {
+        "name": "Vassa D Davydova",
+        "affiliation": "Center for Precision Genetic Technologies for Medicine, National Medical Research Center for Hematology, Moscow 125167, Russia."
+      },
+      {
+        "name": "Anastasia A Zotova",
+        "affiliation": "National Medical Research Center for Hematology, Moscow 125167, Russia."
+      },
+      {
+        "name": "Nikolay M Kapranov",
+        "affiliation": "Center for Precision Genetic Technologies for Medicine, National Medical Research Center for Hematology, Moscow 125167, Russia."
+      },
+      {
+        "name": "Dmitry V Dianov",
+        "affiliation": "National Medical Research Center for Hematology, Moscow 125167, Russia."
+      }
+    ],
+    "journal": "Cells",
+    "publishedDate": "2026-11-14",
+    "fetchedDate": "2026-11-14",
+    "category": "Oncologia",
+    "tags": [
+      "leukemia",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9H3nxE-2kFHot-a5a62dbf6b754fb7\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 0e825c30-b3db-47e5-a589-6a41bd5772e1)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42555553",
+    "pmid": "42555553",
+    "doi": "10.1111/jce.70474",
+    "title": "Comparative Analysis of Safety Profiles of Pulsed Field and Thermal Energy Atrial Fibrillation Ablation: Insight From the Multicenter Real-World Ablation Registry.",
+    "titlePt": "Comparative Analysis of Safety Profiles of Pulsed Field and Thermal Energy Atrial Fibrillation Ablation: Insight From the Multicenter Real-World Ablation Registry.",
+    "abstract": "Beginning in September 2024, three large-footprint pulsed-field ablation (PFA) systems were introduced in Japan for atrial fibrillation (AF) ablation. To compare acute procedural outcomes and safety profiles between PFA and thermal ablation. This multi-center observational study included 4969 consecutive index AF ablation procedures (69&#x2009;&#xb1;&#x2009;11 years, 1495 women, 2705 paroxysmal) performed between January 2024 and July 2025. Among them, 2817 and 2152 procedures were performed with thermal ablation and PFA (FARAPULSE 53.3%, PulseSelect 41.3%, and VARIPULSE 5.5%), respectively. PFA procedures were performed under deeper sedation (70.5% deep sedation) compared with thermal ablation. The total PFA application numbers were 50&#x2009;&#xb1;&#x2009;13 for FARAPULSE, 49&#x2009;&#xb1;&#x2009;13 for PulseSelect, and 24&#x2009;&#xb1;&#x2009;8.5 for VARIPULSE. Touch-up ablation for pulmonary veins was more frequently required with balloon-based thermal ablation than with PFA (7.2% ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42555553",
+    "authors": [
+      {
+        "name": "Osamu Inaba",
+        "affiliation": "Department of Cardiology, Japanese Red Cross Saitama Hospital, Saitama, Japan."
+      },
+      {
+        "name": "Shinsuke Miyazaki",
+        "affiliation": "Department of Cardiovascular Medicine, Institute of Science Tokyo, Tokyo, Japan."
+      },
+      {
+        "name": "Junichi Nitta",
+        "affiliation": "Department of Cardiology, Sakakibara Heart Institute, Tokyo, Japan."
+      },
+      {
+        "name": "Atsushi Takahashi",
+        "affiliation": "Department of Cardiology, Yokosuka Kyosai Hospital, Kanagawa, Japan."
+      }
+    ],
+    "journal": "Journal of cardiovascular electrophysiology",
+    "publishedDate": "2026-11-14",
+    "fetchedDate": "2026-11-14",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9H3vyn-2kFHot-a5a62e6768df4fb7\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 71eaf0d2-8ddd-4d19-a07a-e27f3034f4b7)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42933135",
+    "pmid": "42933135",
+    "doi": "10.1016/j.ejogrb.2026.115503",
+    "title": "Prevalence and temporal trends of exposure to anti-obesity medications during preconception and pregnancy in a nationwide US claims database, 2018-2023.",
+    "titlePt": "Prevalence and temporal trends of exposure to anti-obesity medications during preconception and pregnancy in a nationwide US claims database, 2018-2023.",
+    "abstract": "Use of anti-obesity medications (AOMs) has increased among women of reproductive age, raising concerns about inadvertent fetal exposure. Using a retrospective cohort of approximately 2 million pregnancies identified in commercial claims data from the MarketScan database, this study investigated the prevalence and temporal trends of perinatal exposure to Food and Drug Administration (FDA)-approved AOMs from 2018 to 2023. Overall, 0.32% (n&#x202f;=&#x202f;6179) of pregnancies were exposed to AOMs. Prevalence was highest among women aged&#x202f;&gt;&#x202f;40&#x202f;years (1.1%) and those with pre-pregnancy obesity or type 2 diabetes (1.4% and 1.2%, respectively). Overall exposure increased modestly from 2018 to 2022, followed by a marked rise between 2022 (0.31%) and 2023 (0.58%). Prior to 2023, most exposures involved phentermine; in 2023, semaglutide accounted for the highest prevalence. The results highlight the need for further research to evaluate maternal and fetal outcomes associa",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42933135",
+    "authors": [
+      {
+        "name": "Colette Haynie",
+        "affiliation": "Wake Forest University School of Medicine, Winston-Salem, NC, USA."
+      },
+      {
+        "name": "Allison Musty",
+        "affiliation": "Department of Epidemiology and Prevention, Wake Forest University School of Medicine, Winston-Salem, NC, USA."
+      },
+      {
+        "name": "Hannah Choi",
+        "affiliation": "Wake Forest University School of Medicine, Winston-Salem, NC, USA."
+      },
+      {
+        "name": "Kristina H Lewis",
+        "affiliation": "Department of Epidemiology and Prevention, Wake Forest University School of Medicine, Winston-Salem, NC, USA."
+      }
+    ],
+    "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+    "publishedDate": "2026-11-14",
+    "fetchedDate": "2026-11-14",
+    "category": "Endocrinologia",
+    "tags": [
+      "rna",
+      "drug",
+      "diabetes",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9H4Lof-2kFHot-a5a6305d1d3e1463\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: e5a7610d-7c5f-4c2a-ba0f-1df7a84c4d48)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42816721",
+    "pmid": "42816721",
+    "doi": "10.1007/s10787-026-02387-z",
+    "title": "Neuroprotective effects of dapansutrile in rotenone-induced parkinsonism: targeting NLRP3/caspase-1, NF-&#x3ba;B, Nrf2/HO-1, and PINK1/Parkin pathways.",
+    "titlePt": "Neuroprotective effects of dapansutrile in rotenone-induced parkinsonism: targeting NLRP3/caspase-1, NF-&#x3ba;B, Nrf2/HO-1, and PINK1/Parkin pathways.",
+    "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by dopaminergic dysfunction, neuroinflammation, oxidative stress, and mitochondrial abnormalities. Activation of the NLRP3 inflammasome has been implicated in PD pathophysiology; however, its relationship with other pathological processes remains incompletely understood. The present study investigated the neuroprotective effects of dapansutrile (DPST), a selective NLRP3 inhibitor, in a rotenone (ROTN)-induced rat model of parkinsonism and examined its effects on inflammation-, oxidative stress-, mitophagy-, and apoptosis-related markers. Forty-four adult male Wistar rats were randomly allocated into four groups: control, DPST-treated control (200&#xa0;mg/kg/day, p.o.), ROTN-treated (1.5&#xa0;mg/kg, s.c., every other day for 21 days), and ROTN&#x2009;+&#x2009;DPST-treated groups. Behavioral assessments were conducted followed by biochemical, molecular, histopathological, and immunohistochemical analyses o",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42816721",
+    "authors": [
+      {
+        "name": "Saad Misfer Alqahtani",
+        "affiliation": "Department of Pathology, College of Medicine, The University Hospital, Najran University, Najran, Saudi Arabia."
+      },
+      {
+        "name": "Basel A Abdel-Wahab",
+        "affiliation": "Department of Pharmacology, College of Pharmacy, Najran University, P.O. Box 1988, Najran, Saudi Arabia."
+      },
+      {
+        "name": "Ehab A M El-Shoura",
+        "affiliation": "Department of Clinical Pharmacy, Faculty of Pharmacy, Al-Azhar University, Assiut Branch, Assiut, 71524, Egypt. ehabel-shoura@azhar.edu.eg."
+      },
+      {
+        "name": "Magy R Kozman",
+        "affiliation": "Clinical Pharmacy Department, Faculty of Pharmacy, Misr University for Science and Technology, Giza, 12563, Egypt."
+      }
+    ],
+    "journal": "Inflammopharmacology",
+    "publishedDate": "2026-11-13",
+    "fetchedDate": "2026-11-14",
+    "category": "Neurologia",
+    "tags": [
+      "parkinson",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9H464h-2kFHot-a5a62f2729f2f0c1\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: bfc5dbc0-d7a6-4840-83a7-bdc4d5b87da3)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42528018",
     "pmid": "42528018",
     "doi": "10.1002/lary.70780",
@@ -12159,173 +12324,5 @@
     "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42660133",
-    "pmid": "42660133",
-    "doi": "10.1016/S2352-3026(26)00168-7",
-    "title": "Beyond maximum grade: key regulatory considerations in adverse event reporting.",
-    "titlePt": "Beyond maximum grade: key regulatory considerations in adverse event reporting.",
-    "abstract": "The therapeutic landscape of haematological malignancies has evolved rapidly with the introduction of targeted therapies, immunotherapies, and cell-based and gene-based interventions, leading to improved survival and, in some cases, long-term remission or cure. These advances have exposed limitations in traditional approaches to adverse event assessment and reporting. Building on the 2025 Lancet Haematology Series on adverse event reporting, this Series paper examines how proposed improvements in toxicity reporting can be operationalised and integrated into regulatory decision making across clinical trials and real-world settings. We focus on key challenges and opportunities related to measuring cumulative and long-term toxicity burden, incorporating patient-reported outcomes, improving adverse event reporting quality and efficiency in clinical trials, and leveraging real-world data, registries, and emerging technologies, such as artificial intelligence and natural language processing.",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nO avanço no tratamento das neoplasias hematológicas tem sido impulsionado por terapias direcionadas, imunoterapias e intervenções baseadas em células e genes, resultando em maior sobrevida e, em alguns casos, remissão prolongada ou cura. No entanto, essa evolução expôs lacunas nos métodos tradicionais de avaliação e relato de eventos adversos, tradicionalmente centrados em classificações de gravidade máxima. Com base na *Série de Hematologia Lancet* de 2025 sobre relato de eventos adversos, este artigo propõe uma revisão crítica das estratégias para aprimorar a toxicidade relatada, integrando abordagens operacionais em decisões regulatórias tanto em ensaios clínicos quanto em contextos do mundo real.\n\nOs principais desafios identificados incluem a mensuração do ônus cumulativo e de longo prazo da toxicidade, a incorporação de desfechos relatados pelo paciente e a necessidade de aprimorar a qualidade e eficiência do relato de eventos adversos em ensaios clínicos. Além disso, o estudo destaca o potencial de tecnologias emergentes, como inteligência artificial e processamento de linguagem natural, para otimizar a coleta e análise de dados. A integração de dados do mundo real e registros clínicos também é apontada como estratégia crucial para uma avaliação mais abrangente e dinâmica da segurança terapêutica.\n\nEmbora os benefícios dessas inovações sejam evidentes, o artigo não detalha métricas específicas de redução de eventos adversos ou custos associados à implementação das novas metodologias. Os autores sugerem que a harmonização entre agências reguladoras e a adoção de protocolos padronizados serão essenciais para viabilizar mudanças sistêmicas. Como próximos passos, são propostos estudos prospectivos para validar a aplicabilidade dessas abordagens em diferentes cenários clínicos e populações, bem como o desenvolvimento de ferramentas digitais interoperáveis para facilitar a integração de dados.\n\n---\n\n**English version**\n\nThe therapeutic landscape of hematological malignancies has expanded rapidly with the introduction of targeted therapies, immunotherapies, and cell- and gene-based interventions, leading to improved survival and, in some cases, long-term remission or cure. Yet this progress has revealed limitations in traditional adverse event (AE) assessment and reporting frameworks, which often rely solely on maximum severity grading. Drawing on the 2025 *Lancet Haematology* Series on AE reporting, this paper critically examines how proposed improvements in toxicity reporting can be operationalized and embedded into regulatory decision-making across clinical trials and real-world settings.\n\nKey challenges addressed include quantifying cumulative and long-term toxicity burden, incorporating patient-reported outcomes, and enhancing the quality and efficiency of AE reporting in clinical trials. The authors also highlight the potential of emerging technologies—such as artificial intelligence and natural language processing—to streamline data capture and analysis. Integration of real-world data and clinical registries is emphasized as a critical pathway toward more comprehensive and dynamic safety monitoring.\n\nWhile the benefits of these innovations are clear, the paper does not provide specific metrics on AE reduction or implementation costs. The authors argue that regulatory harmonization and standardized protocols will be essential for systemic change. Future steps include prospective studies to validate these approaches across diverse clinical scenarios and populations, alongside the development of interoperable digital tools to facilitate data integration.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42660133",
-    "authors": [
-      {
-        "name": "Kyriaki Tzogani",
-        "affiliation": "The European Medicines Agency, Amsterdam, Netherlands. Electronic address: kyriaki.tzogani@ema.europa.eu."
-      },
-      {
-        "name": "Tarec C El-Galaly",
-        "affiliation": "The European Medicines Agency, Amsterdam, Netherlands; Departments of Haematology, Molecular Medicine, and Clinical Epidemiology Aarhus, University Hospital and Department of Clinical Medicine, Aarhus University, Aarhus, Denmark."
-      },
-      {
-        "name": "Neil Everest",
-        "affiliation": "Health Resourcing Group, Australian Government Department of Health, Disability and Ageing, Brisbane, QLD, Australia."
-      },
-      {
-        "name": "Christian Gisselbrecht",
-        "affiliation": "Haemato-Oncology Department, Hospital Saint Louis, University Paris Cite, Paris, France."
-      }
-    ],
-    "journal": "The Lancet. Haematology",
-    "publishedDate": "2026-08-27",
-    "fetchedDate": "2026-09-01",
-    "category": "Farmacologia",
-    "tags": [
-      "gene",
-      "clinical trial",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42657250",
-    "pmid": "42657250",
-    "doi": "10.1002/hsr2.73104",
-    "title": "Repetitive Transcranial Magnetic Stimulation in Alzheimer's Disease Cognitive Impairment: A Narrative Review of Clinical Trials.",
-    "titlePt": "Repetitive Transcranial Magnetic Stimulation in Alzheimer's Disease Cognitive Impairment: A Narrative Review of Clinical Trials.",
-    "abstract": "Alzheimer's disease (AD), primarily characterized by cognitive impairment, places an immense burden on patients and caregivers. Non-invasive neuromodulation with repetitive transcranial magnetic stimulation has been proposed to improve cognition in mild to moderate AD. This narrative review aimed to summarize clinical trial evidence on the effects, safety, and tolerability of rTMS for AD-related cognitive impairment and to identify research gaps. A narrative review of clinical trials was performed. PubMed/MEDLINE, Embase, Cochrane Google scholar, and Scopus were searched from inception to January 25, 2025, using terms for \"repetitive transcranial magnetic stimulation\", \"Alzheimer's disease\", \"cognitive impairment\", \"clinical trials\", and \"randomized controlled trial\". Clinical trials of active rTMS versus sham or treatment-as-usual in adults with mild to moderate AD that reported validated cognitive outcomes were included. Data on rTMS protocols, cognitive measures, adverse effects, an",
-    "journalisticSummary": "**Versão em português brasileiro:**\n\nA doença de Alzheimer (DA), principal causa de demência neurodegenerativa, afeta milhões de pessoas mundialmente, com impacto devastador na cognição, funcionalidade e qualidade de vida. Nesse contexto, a estimulação magnética transcraniana repetitiva (EMTr) surge como uma abordagem não invasiva de neuromodulação, com potencial para atenuar os déficits cognitivos em pacientes com DA leve a moderada. Um estudo recentemente publicado no *Health Science Reports* — revisão narrativa de ensaios clínicos — investigou a eficácia, segurança e tolerabilidade da EMTr nesse cenário, além de mapear lacunas na literatura.\n\nOs pesquisadores analisaram ensaios clínicos que compararam a EMTr ativa a placebo ou tratamento usual em adultos com DA leve a moderada, priorizando estudos com desfechos cognitivos validados. A busca abrangeu bases como PubMed/MEDLINE, Embase, Cochrane, Google Scholar e Scopus, até janeiro de 2025, utilizando termos específicos para EMTr, DA e comprometimento cognitivo. Embora os protocolos de EMTr variassem amplamente — com diferenças em frequência, intensidade, localização cortical e duração do tratamento —, os achados sugerem benefícios modestos, mas consistentes, em domínios como memória, atenção e funções executivas. A maioria dos estudos relatou melhora superior em comparação ao grupo controle, embora a magnitude do efeito tenha sido heterogênea e, em alguns casos, transitória.\n\nDo ponto de vista de segurança, a EMTr apresentou um perfil favorável, com eventos adversos leves e transitórios — como dores de cabeça ou desconforto no couro cabeludo — relatados em uma minoria dos participantes. Não foram identificados relatos de convulsões ou efeitos neurológicos graves nos ensaios revisados. Contudo, a heterogeneidade metodológica — incluindo variações nos parâmetros de estimulação, amostras pequenas e falta de padronização nos desfechos — limita a generalização dos resultados. Além disso, a ausência de dados sobre a duração dos efeitos após o término do tratamento e a escassez de estudos com seguimento prolongado destacam a necessidade de pesquisas mais robustas.\n\nOs autores enfatizam que, apesar do potencial promissor, a EMTr não pode ser considerada uma terapia padrão para DA no momento. São necessários ensaios randomizados controlados com amostras maiores, protocolos padronizados e avaliações de longo prazo para confirmar sua eficácia clínica e definir os parâmetros ótimos de aplicação. Enquanto isso, a abordagem permanece como uma opção complementar, a ser discutida em contextos individuais, sempre sob supervisão especializada.\n\n---\n\n**English version:**\n\nAlzheimer’s disease (AD), the leading cause of neurodegenerative dementia, affects millions worldwide, imposing a profound burden on cognition, functionality, and quality of life. Repetitive transcranial magnetic stimulation (rTMS) has emerged as a non-invasive neuromodulatory tool with potential to alleviate cognitive deficits in patients with mild to moderate AD. A recent study published in *Health Science Reports* — a narrative review of clinical trials — examined the efficacy, safety, and tolerability of rTMS in this population while identifying key research gaps.\n\nThe researchers systematically reviewed clinical trials comparing active rTMS to sham or standard care in adults with mild to moderate AD, prioritizing studies that reported validated cognitive outcomes. The search spanned PubMed/MEDLINE, Embase, Cochrane, Google Scholar, and Scopus up to January 25, 2025, using targeted terms for rTMS, AD, and cognitive impairment. While rTMS protocols varied widely — differing in frequency, intensity, cortical targets, and treatment duration — findings suggested modest but consistent improvements in domains such as memory, attention, and executive function. Most studies reported superior cognitive outcomes compared to controls, though effect sizes were heterogeneous and, in some cases, transient.\n\nIn terms of safety, rTMS demonstrated a favorable profile, with mild and transient adverse events — such as headaches or scalp discomfort — reported in a minority of participants. No cases of seizures or serious neurological effects were documented in the reviewed trials. However, methodological heterogeneity — including variations in stimulation parameters, small sample sizes, and lack of standardized outcomes — limits the generalizability of results. Additionally, the absence of long-term follow-up data and prolonged treatment effects underscores the need for more rigorous research.\n\nThe authors highlight that, despite promising potential, rTMS cannot yet be considered a standard therapy for AD. Larger randomized controlled trials with standardized protocols and extended follow-up periods are required to confirm clinical efficacy and optimize stimulation parameters. Until then, rTMS remains an investigational adjunctive approach, to be considered on an individual basis under specialized supervision.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42657250",
-    "authors": [
-      {
-        "name": "Tejiri Napoleon",
-        "affiliation": "College of Medicine University of Ibadan Ibadan Nigeria."
-      },
-      {
-        "name": "Deborah Akinrinde",
-        "affiliation": "College of Medicine University of Ibadan Ibadan Nigeria."
-      },
-      {
-        "name": "Victor Oluwafemi Femi-Lawal",
-        "affiliation": "College of Medicine University of Ibadan Ibadan Nigeria."
-      },
-      {
-        "name": "Glory Olalekan Adebajo",
-        "affiliation": "Department of Medicine Federal Medical Centre Abeokuta Nigeria."
-      }
-    ],
-    "journal": "Health science reports",
-    "publishedDate": "2026-08-27",
-    "fetchedDate": "2026-09-01",
-    "category": "Neurologia",
-    "tags": [
-      "alzheimer",
-      "cognitive",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42650855",
-    "pmid": "42650855",
-    "doi": "10.3390/biom16081189",
-    "title": "Systems Bioengineering of Septic Shock Metabolism: Citrulline, &#x3b2;-Hydroxybutyrate and Plasma Biomarker-Based Phenotyping.",
-    "titlePt": "Systems Bioengineering of Septic Shock Metabolism: Citrulline, &#x3b2;-Hydroxybutyrate and Plasma Biomarker-Based Phenotyping.",
-    "abstract": "Although advances in critical care have improved short-term outcomes, sepsis survivors continue to face substantial chronic morbidity and impaired long-term survival. Conventional threshold-based tools such as the Sequential Organ Failure Assessment (SOFA) and Modified Early Warning Score (MEWS) show moderate and variable discrimination across cohorts. Reported areas under the receiver operating characteristic curve (AUROCs) must therefore be interpreted in relation to the population, prediction horizon, and outcome used in each study rather than as direct head-to-head comparisons. This review evaluates how artificial intelligence (AI) could be linked with dynamic plasma metabolites, particularly citrulline and &#x3b2;-hydroxybutyrate (3-HB), to support biologically informed sepsis phenotyping, while critically examining mechanistic evidence, clinical limitations, and translational readiness. Machine-learning and natural language processing architectures have shown promising discrimina",
-    "journalisticSummary": "**Versão em português**\n\nUm estudo publicado recentemente no periódico *Biomolecules* propõe uma abordagem inovadora para a fenotipagem biológica da sepse, integrando inteligência artificial (IA) a biomarcadores dinâmicos de plasma, como citrulina e β-hidroxibutirato (3-HB). A pesquisa, que revisa evidências mecanísticas e avanços em *health-tech*, destaca como esses metabólitos podem aprimorar a classificação de pacientes com choque séptico, um desafio persistente na medicina intensiva. Embora ferramentas convencionais como SOFA e MEWS sejam amplamente utilizadas, sua capacidade discriminativa varia significativamente entre populações e horizontes temporais, com valores de AUROC dependentes de contextos específicos — o que limita comparações diretas.\n\nOs autores argumentam que a combinação de IA com perfis metabólicos dinâmicos pode superar limitações de sistemas baseados em limiares fixos, oferecendo uma fenotipagem mais precisa e biologicamente fundamentada. A citrulina, um intermediário do ciclo da ureia, e o 3-HB, um corpo cetônico com papel na resposta metabólica ao estresse, emergem como potenciais marcadores para estratificar pacientes quanto à gravidade e à resposta ao tratamento. A revisão aponta que arquiteturas de *machine learning* e *natural language processing* já demonstraram resultados promissores em estudos preliminares, embora a translação clínica ainda enfrente barreiras, como a padronização de protocolos e a validação em coortes maiores.\n\nAs limitações incluem a heterogeneidade dos dados de entrada, a necessidade de correlação com desfechos clínicos robustos e o risco de viés em modelos treinados com populações específicas. Além disso, o estudo não fornece métricas específicas de desempenho (como AUROC) para as abordagens propostas, restringindo a avaliação quantitativa imediata. Os próximos passos incluem ensaios prospectivos multicêntricos para validar a reprodutibilidade dos achados e o desenvolvimento de sistemas integrados que combinem dados laboratoriais, clínicos e de *omics* em tempo real. Se bem-sucedida, essa estratégia poderia reduzir a morbidade crônica em sobreviventes de sepse — um problema crescente na UTI — ao permitir intervenções personalizadas e mais precoces.\n\n---\n\n**English version**\n\nA recent study published in *Biomolecules* proposes an innovative approach to biological phenotyping of sepsis by integrating artificial intelligence (AI) with dynamic plasma metabolites, notably citrulline and β-hydroxybutyrate (3-HB). The research, which reviews mechanistic evidence and *health-tech* advancements, underscores how these biomarkers could enhance the classification of septic shock patients—a persistent challenge in intensive care medicine. While conventional tools like SOFA and MEWS are widely used, their discriminative power varies significantly across populations and time horizons, with AUROC values dependent on specific contexts—limiting direct comparisons.\n\nThe authors argue that combining AI with dynamic metabolic profiles may overcome the limitations of fixed-threshold systems, enabling more accurate and biologically grounded phenotyping. Citrulline, an intermediate in the urea cycle, and 3-HB, a ketone body involved in stress-induced metabolic responses, emerge as potential markers for stratifying patients by severity and treatment response. The review highlights that machine-learning and natural language processing architectures have already shown promising results in preliminary studies, though clinical translation faces hurdles such as protocol standardization and validation in larger cohorts.\n\nKey limitations include data heterogeneity, the need for correlation with robust clinical outcomes, and the risk of bias in models trained on specific populations. Notably, the study does not provide specific performance metrics (e.g., AUROC) for the proposed approaches, restricting immediate quantitative assessment. Future steps involve prospective multicenter trials to validate reproducibility and the development of integrated systems that combine real-time laboratory, clinical, and *omics* data. If successful, this strategy could mitigate chronic morbidity in sepsis survivors—a growing issue in ICUs—by enabling earlier, personalized interventions.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42650855",
-    "authors": [
-      {
-        "name": "Leonard Azamfirei",
-        "affiliation": "Anesthesiology and Intensive Care Department, George Emil Palade University of Medicine, Pharmacy, Science and Technology of Targu Mures, 540142 Targu Mures, Romania."
-      },
-      {
-        "name": "Vlad Dimitrie Cehan",
-        "affiliation": "Doctoral School of Medicine and Pharmacy, George Emil Palade University of Medicine, Pharmacy, Science and Technology of Targu Mures, 540142 Targu Mures, Romania."
-      },
-      {
-        "name": "Alina Roxana Cehan",
-        "affiliation": "Doctoral School of Medicine and Pharmacy, George Emil Palade University of Medicine, Pharmacy, Science and Technology of Targu Mures, 540142 Targu Mures, Romania."
-      },
-      {
-        "name": "Mihai Claudiu Pui",
-        "affiliation": "Plastic and Reconstructive Surgery, Emergency Clinical County Hospital of Targu Mures, 540136 Targu Mures, Romania."
-      }
-    ],
-    "journal": "Biomolecules",
-    "publishedDate": "2026-08-27",
-    "fetchedDate": "2026-09-01",
-    "category": "Infectologia",
-    "tags": [
-      "sepsis"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42399625",
-    "pmid": "42399625",
-    "doi": "10.1038/s41375-026-03021-1",
-    "title": "Linperlisib enhances MUC1-Tn CAR T cell efficacy by inhibiting EGR1/DUSP2 axis to prevent CAR T cell exhaustion.",
-    "titlePt": "Linperlisib enhances MUC1-Tn CAR T cell efficacy by inhibiting EGR1/DUSP2 axis to prevent CAR T cell exhaustion.",
-    "abstract": "Chimeric antigen receptor (CAR) T cell therapy demonstrates suboptimal efficacy in T-cell acute lymphoblastic leukemia (T-ALL), largely due to target-mediated fratricide from shared antigen expression and effector T cell exhaustion. The Mucin1-Thomsen-nouvelle (MUC1-Tn) antigen is overexpressed in various malignancies, including T-ALL. In this study, we confirmed MUC1-Tn protein expression in T-ALL cell lines and primary patient-derived bone marrow cells and subsequently developed MUC1-Tn-targeted CAR T cells. These CAR T cells effectively lysed T-ALL cells in both in vitro cytotoxicity assays and xenograft models. Given the critical role of the PI3K&#x3b4; signaling pathway in modulating T-cell function and tumor immunosuppression, we combined MUC1-Tn CAR T cells with the PI3K&#x3b4; inhibitor linperlisib. Linperlisib enhanced the anti-leukemic efficacy and persistence of MUC1-Tn CAR T cells. This was associated with reduced T cell exhaustion marker expression, decreased proportions o",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42399625",
-    "authors": [
-      {
-        "name": "Jia-Yue Wei",
-        "affiliation": "Department of Hematology, Zhujiang Hospital, Southern Medical University, Guangzhou, Guangdong, China."
-      },
-      {
-        "name": "Zi-Wei Liu",
-        "affiliation": "Department of Hematology, Zhujiang Hospital, Southern Medical University, Guangzhou, Guangdong, China."
-      },
-      {
-        "name": "Qi-Si Lu",
-        "affiliation": "National Clinical Research Center for Hematologic Diseases, Jiangsu Institute of Hematology, The First Affiliated Hospital of Soochow University, Suzhou, China."
-      },
-      {
-        "name": "Yin-Jie Qin",
-        "affiliation": "Department of Hematology, Zhujiang Hospital, Southern Medical University, Guangzhou, Guangdong, China."
-      }
-    ],
-    "journal": "Leukemia",
-    "publishedDate": "2026-08-26",
-    "fetchedDate": "2026-10-01",
-    "category": "Oncologia",
-    "tags": [
-      "tumor",
-      "leukemia"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3X5SUf-2kFHot-a43dbf86783a7682\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: d5ea84ff-aeeb-4184-a49b-aa1661569d39)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
