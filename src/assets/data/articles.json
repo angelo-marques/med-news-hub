@@ -1,5 +1,135 @@
 [
   {
+    "id": "pubmed-42528018",
+    "pmid": "42528018",
+    "doi": "10.1002/lary.70780",
+    "title": "Treatment of Locally Advanced Layngohypopharyngeal Cancers: A Network Meta-Analysis.",
+    "titlePt": "Treatment of Locally Advanced Layngohypopharyngeal Cancers: A Network Meta-Analysis.",
+    "abstract": "To compare the efficacy of non-surgical organ-preservation strategies for locally advanced or resectable laryngeal and hypopharyngeal squamous cell carcinoma (SCC). Randomized controlled trials (RCTs) published through June 30, 2025, identified via systematic database and trial-registry searches and reference screening. We performed a systematic review and Bayesian random-effects network meta-analysis of RCTs enrolling adults with locally advanced/resectable laryngeal/hypopharyngeal SCC. Treatments included surgery plus postoperative radiotherapy (RT), RT alone, concurrent cisplatin-based chemoradiotherapy (CTRT), induction chemotherapy followed by RT/CTRT, altered-fractionation RT, dose-modified CTRT, and RT&#x2009;&#xb1;&#x2009;cetuximab. Effect estimates were synthesized as hazard ratios (HRs) and odds ratios (ORs). Treatments were ranked using surface under the cumulative ranking curve (SUCRA). Fifteen RCTs (n&#x2009;=&#x2009;4395; 13 strategies) were included. For laryngeal preser",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42528018",
+    "authors": [
+      {
+        "name": "Vincenzo Capriotti",
+        "affiliation": "Otorhinolaryngology Unit, Portogruaro Hospital, Portogruaro, Italy."
+      },
+      {
+        "name": "Elisa Dal Cin",
+        "affiliation": "Otorhinolaryngology Unit, Head and Neck Department, Mestre Hospital, Venice, Italy."
+      },
+      {
+        "name": "Agostina De Stefani",
+        "affiliation": "Radiotherapy Unit, ASST Bergamo Ovest, Treviglio, Italy."
+      },
+      {
+        "name": "Massimiliano Nardone",
+        "affiliation": "Otorhinolaryngology Unit, ASST Bergamo Ovest, Treviglio, Italy."
+      }
+    ],
+    "journal": "The Laryngoscope",
+    "publishedDate": "2026-11-13",
+    "fetchedDate": "2026-11-14",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "carcinoma",
+      "chemotherapy"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9DZGNe-2kFHot-a5a269038d2612c7\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: c04e39c7-e9bd-43dc-8ef4-b9a020010fde)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43024131",
+    "pmid": "43024131",
+    "doi": "10.1007/s10120-026-01815-x",
+    "title": "HER2-low gastric cancer as a biologically distinct subgroup: DDR pathway alterations, immune activation, and therapeutic implications.",
+    "titlePt": "HER2-low gastric cancer as a biologically distinct subgroup: DDR pathway alterations, immune activation, and therapeutic implications.",
+    "abstract": "HER2-targeted therapy has been established as a key treatment strategy in gastric cancer. However, the genomic and immunologic characteristics of HER2-low advanced GC remain poorly understood. We investigated the molecular landscape and clinical significance of this emerging subgroup. We retrospectively analyzed 1067 advanced GC patients who underwent HER2 testing and targeted next-generation sequencing at Samsung Medical Center between October 2019 and March 2025. Patients were classified as HER2-negative (IHC 0), HER2-low (IHC 1+ or IHC 2+/ISH&#x2009;-), or HER2-positive (IHC 2+/ISH+ or IHC 3&#x2009;+). Genomic alterations, key biomarkers (PD-L1, MSI, EBV, CLDN18.2), and overall survival by first-line treatment modality were compared across subgroups. Among 1067 patients, 805 (75.4%) were HER2-negative, 157 (14.7%) HER2-low, and 105 (9.8%) HER2-positive. HER2-low tumors showed the highest PD-L1 positivity (CPS&#xa0;&#x2265;&#xa0;5: 60.1%) and MSI-H frequency (7.0%), with the lowest p",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43024131",
+    "authors": [
+      {
+        "name": "Ji Eun Shin",
+        "affiliation": "Division of Hematology-Oncology, Department of Medicine, Samsung Medical Center, Sungkyunkwan University School of Medicine, 81 Irwon-Ro Gangnam-Gu, Seoul, 06351, Republic of Korea."
+      },
+      {
+        "name": "Eunbyeol Lee",
+        "affiliation": "Samsung Precision Genome Medicine Institute, Samsung Medical Center, Seoul, Republic of Korea."
+      },
+      {
+        "name": "Minsuk Kwon",
+        "affiliation": "Department of Health Sciences and Technology, SAIHST, Sungkyunkwan University, Seoul, South Korea."
+      },
+      {
+        "name": "Seung Tae Kim",
+        "affiliation": "Division of Hematology-Oncology, Department of Medicine, Samsung Medical Center, Sungkyunkwan University School of Medicine, 81 Irwon-Ro Gangnam-Gu, Seoul, 06351, Republic of Korea."
+      }
+    ],
+    "journal": "Gastric cancer : official journal of the International Gastric Cancer Association and the Japanese Gastric Cancer Association",
+    "publishedDate": "2026-11-13",
+    "fetchedDate": "2026-11-14",
+    "category": "Genômica",
+    "tags": [
+      "cancer",
+      "tumor",
+      "genomic",
+      "gene",
+      "sequencing"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9DZYL6-2kFHot-a5a26a52fb4012c7\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 5f907e9b-f415-46cb-9a67-b755ce4d49e6)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43023292",
+    "pmid": "43023292",
+    "doi": "10.2174/0115748928506100261029073320",
+    "title": "Recent Progress in PARP-1 Inhibitors: Mechanisms, Patent Trends, and Future Directions in Cancer Treatment.",
+    "titlePt": "Recent Progress in PARP-1 Inhibitors: Mechanisms, Patent Trends, and Future Directions in Cancer Treatment.",
+    "abstract": "The DNA Damage Response (DDR) is a critical cellular mechanism responsible for maintaining genomic stability, with poly (ADP-ribose) Polymerase-1 (PARP-1) playing a central role in the base excision repair pathway. The emergence of synthetic lethality as a therapeutic strategy in BRCA1/2-deficient tumors has established PARP-1 inhibition as an effective approach in cancer treatment. This review summarizes recent advances in the development of PARP-1 inhibitors, including their mechanisms of action, recent patents, and therapeutic applications, while highlighting current challenges and future directions for anticancer drug discovery. A thorough patent search has been performed in databases such as the USPTO, EPO, WIPO, and Google Patents, among others, covering the time interval between 2015 and 2025. The inclusion and exclusion criteria were predetermined to select relevant patents, involving novel scaffolds, mechanisms, and therapeutic strategies. Recent patents revealed substantial p",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43023292",
+    "authors": [
+      {
+        "name": "Hardha Balachandran",
+        "affiliation": "Department of Pharmaceutical Chemistry, JSS College of Pharmacy, JSS Academy of Higher Education and Research, Ooty, India."
+      },
+      {
+        "name": "Muskan Sharma",
+        "affiliation": "Department of Pharmaceutical Chemistry, JSS College of Pharmacy, JSS Academy of Higher Education and Research, Ooty, India."
+      },
+      {
+        "name": "Veera Venkata Satyanarayana Reddy Karri",
+        "affiliation": "Department of Pharmaceutics, JSS College of Pharmacy, JSS Academy of Higher Education and Research, Ooty, Nilgiris, Tamil Nadu, India."
+      },
+      {
+        "name": "Senthil Kumar Murugesan",
+        "affiliation": "Department of Pharmaceutical Analysis, Mahendra Institute of Medical and Pharmaceutical Sciences, (Tamil Nadu Dr. M.G.R. Medical University), Namakkal, Tamil Nadu, India."
+      }
+    ],
+    "journal": "Recent patents on anti-cancer drug discovery",
+    "publishedDate": "2026-11-13",
+    "fetchedDate": "2026-11-14",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "genomic",
+      "dna",
+      "drug"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9DZpsX-2kFHot-a5a26bae7b8e12c7\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: a82a0e0d-d557-4f95-a9ff-2c631285be2e)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43022846",
     "pmid": "43022846",
     "doi": "10.1016/j.nmni.2026.101880",
@@ -12197,131 +12327,5 @@
     "readTime": 5,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3X5SUf-2kFHot-a43dbf86783a7682\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: d5ea84ff-aeeb-4184-a49b-aa1661569d39)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42031362",
-    "pmid": "42031362",
-    "doi": "10.1016/j.hrthm.2026.03.1907",
-    "title": "Offsetting costs of new ablation technologies with increased procedural efficiency and volume.",
-    "titlePt": "Offsetting costs of new ablation technologies with increased procedural efficiency and volume.",
-    "abstract": "New technologies may affect efficacy, safety, efficiency, or cost of pulmonary vein isolation (PVI) ablation for atrial fibrillation (AF). This study aimed to compare efficiencies and costs of radiofrequency (RF), over-the-wire (OTW) pulsed field ablation (PFA), and lattice tip dual energy (DE) ablation (RF/PFA) platforms in a real-world United States (US) clinical setting. Patients aged &#x2265;18 years undergoing PVI in 3 US hospitals between January 1, 2024, and November 14, 2025, were included. Univariable and multivariable linear regression analyses were performed to compare procedure time and costs across procedure platforms. Among 3173 PVI procedures, 2986 met inclusion and exclusion criteria. The unadjusted procedure time (minutes) was shorter with lattice DE 118 (interquartile range [IQR] 101-138) compared with RF 137 (117-163) or OTW PFA 135 (IQR 112-163), (P &lt; .001 for both comparisons). There was no difference in median procedure time for OTW PFA compared with RF (P = .1",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *Heart Rhythm* avaliou a eficiência e os custos de três tecnologias de ablação para isolamento das veias pulmonares (PVI) em pacientes com fibrilação atrial (FA) em três hospitais dos Estados Unidos entre janeiro de 2024 e novembro de 2025. A pesquisa comparou plataformas de radiofrequência (RF), ablação por campo pulsado via fio-guia (OTW PFA) e ablação dual energy com ponta em grade (lattice DE, combinando RF e PFA), analisando dados de 3.173 procedimentos, dos quais 2.986 atenderam aos critérios de inclusão.\n\nOs resultados indicaram que o tempo médio de procedimento não ajustado foi significativamente menor com a tecnologia lattice DE (118 minutos, intervalo interquartil [IQR] 101-138) em comparação com RF (137 minutos, IQR 117-163) e OTW PFA (135 minutos, IQR 112-163), com significância estatística (P < 0,001 para ambas as comparações). Não houve diferença estatisticamente relevante entre OTW PFA e RF (P = 0,1). Embora o estudo não tenha reportado diretamente os custos ajustados, os autores destacam que a redução no tempo de procedimento com lattice DE poderia potencialmente mitigar os custos associados a novas tecnologias, desde que mantidos padrões de segurança e eficácia equivalentes.\n\nAs limitações incluem a ausência de dados sobre desfechos clínicos a longo prazo, como taxa de recorrência de FA ou complicações, e a dependência de uma análise retrospectiva em um contexto hospitalar específico dos EUA, o que pode não refletir a realidade de outros sistemas de saúde. Além disso, não foram detalhados os custos diretos e indiretos por procedimento, nem a curva de aprendizado associada a cada tecnologia. Os próximos passos sugeridos pelos pesquisadores incluem estudos prospectivos randomizados para validar esses achados em diferentes cenários clínicos e econômicos, bem como a avaliação do impacto dessas tecnologias na qualidade de vida dos pacientes e na sustentabilidade dos sistemas de saúde.\n\n---\n\n**English version**\n\nA recent study published in *Heart Rhythm* assessed the efficiency and costs of three ablation technologies for pulmonary vein isolation (PVI) in atrial fibrillation (AF) patients across three U.S. hospitals between January 2024 and November 2025. The research compared radiofrequency (RF) ablation, over-the-wire pulsed field ablation (OTW PFA), and lattice tip dual energy (DE) ablation—a hybrid RF/PFA platform—analyzing data from 3,173 procedures, with 2,986 meeting inclusion criteria.\n\nFindings revealed that unadjusted median procedure time was significantly shorter with the lattice DE technology (118 minutes, interquartile range [IQR] 101–138) compared to RF (137 minutes, IQR 117–163) and OTW PFA (135 minutes, IQR 112–163), with statistical significance (P < .001 for both comparisons). No significant difference was observed between OTW PFA and RF (P = .1). While the study did not directly report adjusted costs, the authors suggest that reduced procedure time with lattice DE could offset costs associated with new ablation technologies, provided safety and efficacy outcomes remain comparable.\n\nKey limitations include the lack of long-term clinical outcomes, such as AF recurrence rates or complication data, and the retrospective design confined to a specific U.S. hospital setting, which may not generalize to other healthcare systems. Additionally, direct and indirect procedural costs, as well as the learning curve associated with each technology, were not detailed. Future steps proposed by the researchers include prospective randomized trials to validate these findings across diverse clinical and economic scenarios, alongside evaluations of patient quality of life and healthcare system sustainability.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42031362",
-    "authors": [
-      {
-        "name": "Leonard Ilkhanoff",
-        "affiliation": "Division of Cardiology, Section of Electrophysiology, Inova Schar Heart and Vascular, Falls Church, Virginia."
-      },
-      {
-        "name": "Xitlalitc Plasters",
-        "affiliation": "Division of Cardiology, Section of Electrophysiology, Inova Schar Heart and Vascular, Falls Church, Virginia."
-      },
-      {
-        "name": "Stephen A Gaeta",
-        "affiliation": "Division of Cardiology, Section of Electrophysiology, Inova Schar Heart and Vascular, Falls Church, Virginia."
-      },
-      {
-        "name": "Chirag Sandesara",
-        "affiliation": "Division of Cardiology, Section of Electrophysiology, Inova Schar Heart and Vascular, Falls Church, Virginia."
-      }
-    ],
-    "journal": "Heart rhythm",
-    "publishedDate": "2026-08-26",
-    "fetchedDate": "2026-09-01",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42029363",
-    "pmid": "42029363",
-    "doi": "10.1016/j.hrthm.2026.03.1906",
-    "title": "Atrial fibrillation recurrence and outcomes in patients with hypertrophic cardiomyopathy: Insights from a nationwide real-world cohort.",
-    "titlePt": "Atrial fibrillation recurrence and outcomes in patients with hypertrophic cardiomyopathy: Insights from a nationwide real-world cohort.",
-    "abstract": "Atrial fibrillation (AF) is the most common arrhythmia in hypertrophic cardiomyopathy (HCM), associated with morbidity and often refractory to rhythm control. Contemporary data evaluating AF recurrence in HCM remain limited. This study aimed to characterize AF recurrence in HCM vs non-HCM and predictors of recurence. Using the TriNetX Research Network (2015-2025), patients with AF were grouped by the presence or absence of HCM. Within each group, 3 cohorts were defined based on the index event: initial AF diagnosis, first direct-current cardioversion (DCCV), and first catheter ablation. AF recurrence requiring intervention (new antiarrhythmic, DCCV, or ablation) was assessed at 1 year. HCM and non-HCM cohorts were propensity matched 1:1. Multivariable Cox models identified predictors of recurrence in HCM. Among 2,548,991 patients with new-onset AF, 31,248 (1.2%) had HCM. This included an HCM diagnosis in 4687 of 194,224 patients undergoing DCCV (2.4%) and 3529 of 124,567 undergoing abl",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Heart Rhythm* analisou a recorrência de fibrilação atrial (FA) em pacientes com cardiomiopatia hipertrófica (CMH), comparando-a com indivíduos sem a doença, e identificou fatores preditivos para novos episódios. Utilizando dados do TriNetX Research Network entre 2015 e 2025, os pesquisadores avaliaram 2.548.991 pacientes com FA recém-diagnosticada, dos quais 31.248 (1,2%) tinham CMH. Além disso, a doença foi identificada em 4.687 dos 194.224 pacientes submetidos à cardioversão elétrica (2,4%) e em 3.529 dos 124.567 submetidos à ablação por cateter.\n\nOs pacientes foram divididos em três coortes com base no evento índice: diagnóstico inicial de FA, primeira cardioversão elétrica e primeira ablação por cateter. A recorrência de FA, definida como necessidade de nova intervenção (fármaco antiarrítmico, cardioversão ou ablação), foi avaliada em um ano. Após pareamento por propensão 1:1, os resultados mostraram que a recorrência de FA foi significativamente maior em pacientes com CMH em comparação aos sem a doença, independentemente do tipo de tratamento inicial. Modelos de regressão de Cox identificaram fatores como idade, sexo masculino, presença de insuficiência cardíaca e histórico de hipertensão como preditores independentes de recorrência em pacientes com CMH.\n\nOs achados reforçam a necessidade de estratégias terapêuticas mais agressivas e personalizadas para o manejo da FA em portadores de CMH, uma população já de alto risco cardiovascular. Embora o estudo utilize uma base de dados robusta e abrangente, limitações incluem a ausência de informações sobre a gravidade da CMH (obstrutiva vs. não obstrutiva) e a falta de dados sobre o uso de anticoagulantes ou terapias de controle de ritmo prévias. Pesquisas futuras devem explorar o impacto de novas tecnologias, como dispositivos de monitoramento contínuo, e avaliar desfechos a longo prazo, como eventos tromboembólicos e mortalidade.\n\n---\n\n**English version**\n\nA recent study published in *Heart Rhythm* examined atrial fibrillation (AF) recurrence in patients with hypertrophic cardiomyopathy (HCM) compared to those without the condition, identifying predictors of new episodes. Using data from the TriNetX Research Network between 2015 and 2025, researchers evaluated 2,548,991 patients with newly diagnosed AF, of whom 31,248 (1.2%) had HCM. Additionally, the disease was identified in 4,687 of 194,224 patients undergoing direct-current cardioversion (2.4%) and in 3,529 of 124,567 undergoing catheter ablation.\n\nPatients were divided into three cohorts based on the index event: initial AF diagnosis, first direct-current cardioversion, and first catheter ablation. AF recurrence, defined as the need for a new intervention (antiarrhythmic drug, cardioversion, or ablation), was assessed within one year. After 1:1 propensity matching, results showed that AF recurrence was significantly higher in HCM patients compared to those without the disease, regardless of the initial treatment type. Cox regression models identified factors such as age, male sex, heart failure presence, and hypertension history as independent predictors of recurrence in HCM patients.\n\nThe findings underscore the need for more aggressive and personalized therapeutic strategies for managing AF in HCM patients, a population already at high cardiovascular risk. While the study leverages a robust and comprehensive database, limitations include the lack of information on HCM severity (obstructive vs. nonobstructive) and missing data on prior anticoagulant use or rhythm control therapies. Future research should explore the impact of emerging technologies, such as continuous monitoring devices, and evaluate long-term outcomes, including thromboembolic events and mortality.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42029363",
-    "authors": [
-      {
-        "name": "Amro Aglan",
-        "affiliation": "Department of Cardiology, Westchester Medical Center, New York Medical College, Valhalla, New York."
-      },
-      {
-        "name": "Ayman R Fath",
-        "affiliation": "Department of Cardiology, Minneapolis Heart Institute Foundation, Minneapolis Heart Institute, Minneapolis, Minnesota."
-      },
-      {
-        "name": "Jonathan S Silver",
-        "affiliation": "Hypertrophic Cardiomyopathy Center, Lahey Hospital and Medical Center, Burlington, Massachusetts."
-      },
-      {
-        "name": "Paul Harnish",
-        "affiliation": "Hypertrophic Cardiomyopathy Center, Lahey Hospital and Medical Center, Burlington, Massachusetts."
-      }
-    ],
-    "journal": "Heart rhythm",
-    "publishedDate": "2026-08-26",
-    "fetchedDate": "2026-09-01",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42645862",
-    "pmid": "42645862",
-    "doi": "10.3390/jcdd13080391",
-    "title": "Association of Baseline and Dynamic Changes in Growth Differentiation Factor-15 Changes with Longitudinal Myocardial Function in Sepsis.",
-    "titlePt": "Association of Baseline and Dynamic Changes in Growth Differentiation Factor-15 Changes with Longitudinal Myocardial Function in Sepsis.",
-    "abstract": "Septic cardiomyopathy is a common complication of sepsis that significantly contributes to hemodynamic instability and adverse clinical outcomes. Despite increasing understanding of its pathophysiology, there is still no specific biomarker that reliably reflects myocardial function during sepsis. Growth differentiation factor-15 (GDF-15) is a cytokine induced by cellular stress associated with inflammation, oxidative stress, and cardiovascular damage. However, the relationship between GDF-15 and echocardiographic markers of septic myocardial dysfunction remains poorly understood. The aim of this study was to examine the association of serum concentrations of GDF-15 and high-sensitivity troponin I (hs-TnI) with echocardiographic parameters of systolic and diastolic myocardial function in patients with sepsis. This prospective observational study included 50 patients with sepsis treated in the Intensive Care Unit of the Osijek Clinical Hospital Center between 2023 and 2025. GDF-15 and hs",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo prospectivo recentemente publicado na *Journal of Cardiovascular Development and Disease* investiga o potencial do fator de diferenciação de crescimento 15 (GDF-15) como biomarcador de disfunção miocárdica em pacientes sépticos. A pesquisa, conduzida em uma unidade de terapia intensiva na Croácia entre 2023 e 2025, acompanhou 50 pacientes com sepse, avaliando a associação entre os níveis séricos de GDF-15, troponina I de alta sensibilidade (hs-TnI) e parâmetros ecocardiográficos de função sistólica e diastólica. A sepse, condição de resposta inflamatória sistêmica grave, frequentemente complica-se com a chamada cardiomiopatia séptica, que agrava a instabilidade hemodinâmica e piora o prognóstico. Embora o GDF-15 seja uma citocina induzida por estresse celular — associada a inflamação, estresse oxidativo e dano cardiovascular —, sua relação com marcadores ecocardiográficos de disfunção miocárdica ainda não foi elucidada.\n\nOs resultados indicaram que níveis elevados de GDF-15 na admissão estavam significativamente associados a piores índices de função sistólica e diastólica, como a fração de ejeção do ventrículo esquerdo reduzida e alterações no padrão de enchimento ventricular. Além disso, observou-se que a troponina I de alta sensibilidade, já consolidada como marcador de dano miocárdico, apresentou correlação moderada com os achados ecocardiográficos, reforçando seu papel complementar na avaliação de pacientes sépticos. A análise dinâmica dos biomarcadores ao longo do tempo sugeriu que a variação do GDF-15 durante a internação pode refletir a progressão ou melhora da disfunção cardíaca, embora o estudo não tenha detalhado os pontos de corte clínicos para intervenção.\n\nDo ponto de vista clínico, os achados sugerem que o GDF-15 poderia complementar a estratificação de risco em pacientes com sepse, auxiliando na identificação precoce daqueles com maior probabilidade de desenvolver complicações cardiovasculares. No entanto, o estudo apresenta limitações importantes: trata-se de uma amostra pequena e unicêntrica, o que restringe a generalização dos resultados. Além disso, não foram fornecidos dados sobre a comparação direta entre GDF-15 e outros biomarcadores já estabelecidos, como o BNP (peptídeo natriurético tipo B), nem sobre o impacto prognóstico a longo prazo dos achados ecocardiográficos. Estudos multicêntricos com maior número de participantes e seguimento prolongado são necessários para validar o GDF-15 como ferramenta clínica confiável.\n\nOs autores destacam que, embora promissor, o biomarcador ainda requer investigações adicionais para determinar sua utilidade em protocolos de manejo da sepse, especialmente em relação ao momento ideal de coleta e à integração com outras ferramentas diagnósticas. A pesquisa representa um passo adiante na busca por marcadores mais precisos para a disfunção miocárdica induzida por sepse, mas ainda há um longo caminho até sua aplicação rotineira na prática clínica.\n\n---\n\n**English version**\n\nA prospective study published in the *Journal of Cardiovascular Development and Disease* explores the potential of growth differentiation factor-15 (GDF-15) as a biomarker for myocardial dysfunction in septic patients. Conducted in a Croatian intensive care unit between 2023 and 2025, the research followed 50 sepsis patients, assessing the association between serum levels of GDF-15, high-sensitivity troponin I (hs-TnI), and echocardiographic parameters of systolic and diastolic function. Septic cardiomyopathy, a severe systemic inflammatory response complication, often exacerbates hemodynamic instability and worsens prognosis. While GDF-15 is a stress-induced cytokine linked to inflammation, oxidative stress, and cardiovascular damage, its relationship with echocardiographic markers of myocardial dysfunction remains poorly understood.\n\nFindings revealed that elevated baseline GDF-15 levels were significantly associated with impaired systolic and diastolic function, including reduced left ventricular ejection fraction and abnormal ventricular filling patterns. High-sensitivity troponin I, already established as a myocardial injury marker, showed a moderate correlation with echocardiographic findings, reinforcing its complementary role in sepsis evaluation. Dynamic biomarker analysis suggested that GDF-15 fluctuations during hospitalization may reflect the progression or improvement of cardiac dysfunction, though the study did not specify clinical cutoffs for intervention.\n\nClinically, the results imply that GDF-15 could enhance risk stratification in septic patients by identifying those at higher risk of cardiovascular complications. However, the study has notable limitations: it involved a small, single-center cohort, limiting result generalizability. Additionally, no direct comparisons with established biomarkers like B-type natriuretic peptide (BNP) were provided, nor long-term prognostic data on echocardiographic findings. Multicenter studies with larger samples and extended follow-up are needed to validate GDF-15 as a reliable clinical tool.\n\nThe authors emphasize that, while promising, the biomarker requires further investigation to determine its utility in sepsis management protocols, particularly regarding optimal sampling timing and integration with other diagnostic tools. The study advances the search for more precise markers of sepsis-induced myocardial dysfunction but remains far from routine clinical application.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42645862",
-    "authors": [
-      {
-        "name": "Ivana Luki&#x107;",
-        "affiliation": "Department of Cardiology, Clinical Hospital Center Osijek, 31000 Osijek, Croatia."
-      },
-      {
-        "name": "Damir Mihi&#x107;",
-        "affiliation": "Faculty of Medicine Osijek, J.J. Strossmayer University Osijek, 31000 Osijek, Croatia."
-      },
-      {
-        "name": "Kristina Selthofer-Relati&#x107;",
-        "affiliation": "Department of Intensive Care for Internal Medicine, Clinic of Internal Medicine, Clinical Hospital Center Osijek, 31000 Osijek, Croatia."
-      },
-      {
-        "name": "Ivana Aramba&#x161;i&#x107;",
-        "affiliation": "Department of Cardiology, Clinical Hospital Center Osijek, 31000 Osijek, Croatia."
-      }
-    ],
-    "journal": "Journal of cardiovascular development and disease",
-    "publishedDate": "2026-08-26",
-    "fetchedDate": "2026-09-01",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "myocardial",
-      "sepsis",
-      "cytokine"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
