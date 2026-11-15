@@ -1,5 +1,86 @@
 [
   {
+    "id": "pubmed-43026662",
+    "pmid": "43026662",
+    "doi": "10.1001/jama.2026.24689",
+    "title": "Fluid eMTBR-tau243 as a Biomarker of Mixed 3-Repeat and 4-Repeat Tau Pathology.",
+    "titlePt": "Fluid eMTBR-tau243 as a Biomarker of Mixed 3-Repeat and 4-Repeat Tau Pathology.",
+    "abstract": "Neurodegenerative diseases with abnormal tau protein aggregation in the brain (ie, tauopathies) can be classified by the tau isoform that accumulates: 3-repeat (3R), 4-repeat (4R), or mixed 3R/4R tauopathies, which include chronic traumatic encephalopathy (CTE), some forms of frontotemporal lobar degeneration, and Alzheimer disease (AD). The endogenously cleaved form of tau microtubule binding region containing the residue 243 (eMTBR-tau243) can be detected in cerebrospinal fluid (CSF) and blood and has been associated with AD tau pathology, but its specificity and biological interpretation in non-AD tauopathies remains unclear. To evaluate biofluid eMTBR-tau243 in a range of tauopathies. This case-control study included 4 biorepositories based in the US that contributed CSF and plasma samples from participants with and without tauopathies, many of whom had antemortem biofluid samples paired with autopsy or genetically defined neuropathology. Samples were analyzed between August 2023 a",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43026662",
+    "authors": [
+      {
+        "name": "Kanta Horie",
+        "affiliation": "Department of Neurology, Washington University School of Medicine, St Louis, Missouri."
+      },
+      {
+        "name": "Rama K Koppisetti",
+        "affiliation": "Tracy Family SILQ Center, Washington University School of Medicine, St Louis, Missouri."
+      },
+      {
+        "name": "Lawren VandeVrede",
+        "affiliation": "Eisai Inc, Nutley, New Jersey."
+      },
+      {
+        "name": "Breton M Asken",
+        "affiliation": "Department of Neurology, Washington University School of Medicine, St Louis, Missouri."
+      }
+    ],
+    "journal": "JAMA",
+    "publishedDate": "2026-11-15",
+    "fetchedDate": "2026-11-15",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "alzheimer",
+      "genetic",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9QqQXy-2kFHot-a5ae94ffbdd0dfd2\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 12893a77-7202-4b9a-ab1b-3c70f4cc7f09)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43034364",
+    "pmid": "43034364",
+    "doi": "10.1007/s44164-025-00095-6",
+    "title": "In vitro study of selenomethionine's concentration-dependent effects in a 6-OHDA model of Parkinson's disease.",
+    "titlePt": "In vitro study of selenomethionine's concentration-dependent effects in a 6-OHDA model of Parkinson's disease.",
+    "abstract": "Parkinson's disease (PD) is characterized by oxidative stress-induced degeneration of dopaminergic neurons. This study evaluated the concentration-related neuroprotective effects of Selenomethionine (SeMet) against 6-hydroxydopamine (6-OHDA)- induced toxicity using an in vitro model of N27 dopaminergic cells. In vitro models provide an essential platform for identifying therapeutic candidates and elucidating cellular mechanisms before validation in animal models. N27 cells were pretreated with SeMet (2, 10, or 30&#xa0;&#xb5;M) followed by 30&#xa0;&#xb5;M 6-OHDA exposure. Intracellular glutathione (GSH) and ascorbic acid levels were quantified. Cell viability was assessed using the Trypan blue exclusion assay. Protein content and morphology were evaluated via Coomassie staining and ImageJ-based morphometric analysis. 6-OHDA significantly reduced GSH (0.0044&#x2009;&#xb1;&#x2009;0.0005&#xa0;&#xb5;M) and ascorbic acid (3.28&#x2009;&#xb1;&#x2009;0.55&#xa0;&#xb5;M) compared to control. Pret",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43034364",
+    "authors": [
+      {
+        "name": "Iqra Bano",
+        "affiliation": "Department of Animal Physiology, Faculty of Science, Charles University, Albertov 6, 128 00, Prague, Czech Republic.https://ror.org/024d6js02grid.4491.80000 0004 1937 116X"
+      },
+      {
+        "name": "Jaison Jeevanandam",
+        "affiliation": "Division of Experimental Neurobiology, Preclinical Research Program, National Institute of Mental Health, Topolov&#xe1; 748, 250 67 Klecany, Czech Republic.https://ror.org/05xj56w78grid.447902.c"
+      },
+      {
+        "name": "Grygoriy Tsenov",
+        "affiliation": "Department of Physiology and Biochemistry, Faculty of Bioscience, Shaheed Benazir Bhutto University of Veterinary &amp; Animal Sciences, Sakrand, 67210 Pakistan.https://ror.org/00g325k81grid.412967.f0000 0004 0609 0799"
+      }
+    ],
+    "journal": "In vitro models",
+    "publishedDate": "2026-11-15",
+    "fetchedDate": "2026-11-15",
+    "category": "Neurologia",
+    "tags": [
+      "parkinson",
+      "gene",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9QqW5d-2kFHot-a5ae95744f718736\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 9362424c-6da2-4136-9d8c-2460efc3f45a)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42616314",
     "pmid": "42616314",
     "doi": "10.1007/s10840-026-02417-4",
@@ -12242,84 +12323,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41723102",
-    "pmid": "41723102",
-    "doi": "10.1177/10600280251414107",
-    "title": "Efficacy and Safety of GLP-1 Receptor Agonists for the Management of Antipsychotic-Induced Weight Gain.",
-    "titlePt": "Efficacy and Safety of GLP-1 Receptor Agonists for the Management of Antipsychotic-Induced Weight Gain.",
-    "abstract": "The objective of this systematic review and meta-analysis was to compare the efficacy and safety of glucagon-like peptide-1 (GLP-1) receptor agonists for the management of antipsychotic-induced weight gain. A systematic review was conducted following PRISMA methodology through July 2025 that evaluated the efficacy and safety of GLP-1 agonists for the management of antipsychotic-induced weight gain. Efficacy endpoints were change in body weight (kg), change in body mass index (BMI) (kg/m2), and change in HbA1c (%). The safety endpoint was gastrointestinal (GI) adverse effects. A P-value of 0.05 was considered statistically significant, and heterogeneity was reported as I2. Six studies were included in this systematic review, of which 4 trials were included in the meta-analysis. The difference found between GLP-1 agonists and placebo was a change in weight of -5.85 kg (P = 0.0622, 95% CI = -9.72 to -1.97), a change in BMI of -2.11 kg/m2 (P = 0.7692, 95% CI = -5.51 to 1.29), and a change ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *PubMed* (DOI: 10.1177/10600280251414107) avaliou a eficácia e segurança dos agonistas do receptor de GLP-1 no controle do ganho de peso induzido por antipsicóticos, condição comum em pacientes em uso dessas medicações. A revisão sistemática e meta-análise, conduzida segundo os critérios PRISMA até julho de 2025, incluiu seis estudos, dos quais quatro foram incorporados à meta-análise.\n\nOs resultados indicaram uma redução significativa no peso corporal com o uso de agonistas de GLP-1 em comparação ao placebo, com uma diferença média de -5,85 kg (P = 0,0622; IC 95%: -9,72 a -1,97). Embora o valor de P tenha sido marginalmente acima do limiar de significância estatística convencional (0,05), a amplitude do intervalo de confiança sugere um potencial benefício clínico. Não foram observadas diferenças estatisticamente significativas na redução do índice de massa corporal (IMC) ou nos níveis de hemoglobina glicada (HbA1c), possivelmente devido ao pequeno número de estudos incluídos e à heterogeneidade entre eles. Os eventos adversos mais reportados foram de natureza gastrointestinal, como náuseas e vômitos, mas não houve relatos de eventos graves.\n\nApesar dos achados promissores, a limitação do estudo — restrito a seis estudos e quatro na meta-análise — impede conclusões definitivas sobre a eficácia e segurança a longo prazo. Além disso, a heterogeneidade dos dados (I² não especificado no resumo) e a ausência de informações sobre subgrupos, como tipo de antipsicótico ou dose de GLP-1, restringem a generalização dos resultados. Estudos futuros com amostras maiores, desenhos randomizados controlados e seguimento prolongado são necessários para validar esses achados e elucidar o perfil de segurança em populações específicas.\n\n---\n\n**English version**\n\nA recent study published in *PubMed* (DOI: 10.1177/10600280251414107) assessed the efficacy and safety of glucagon-like peptide-1 (GLP-1) receptor agonists in managing antipsychotic-induced weight gain, a common adverse effect in patients using these medications. The systematic review and meta-analysis, conducted following PRISMA guidelines up to July 2025, included six studies, four of which were incorporated into the meta-analysis.\n\nThe findings demonstrated a statistically significant reduction in body weight with GLP-1 agonists compared to placebo, with a mean difference of -5.85 kg (P = 0.0622; 95% CI: -9.72 to -1.97). While the P-value slightly exceeded the conventional threshold for statistical significance (0.05), the confidence interval suggests a potential clinical benefit. However, no statistically significant differences were observed in body mass index (BMI) reduction or hemoglobin A1c (HbA1c) levels, likely due to the limited number of included studies and their heterogeneity. The most frequently reported adverse events were gastrointestinal, such as nausea and vomiting, with no reports of serious events.\n\nDespite these promising results, the study’s limitations—restricted to six studies, four in the meta-analysis—hinder definitive conclusions about long-term efficacy and safety. Additionally, the heterogeneity of the data (I² not specified in the abstract) and the lack of subgroup analyses, such as by antipsychotic type or GLP-1 dose, limit the generalizability of the findings. Future research with larger sample sizes, randomized controlled designs, and extended follow-up is needed to validate these results and clarify the safety profile in specific populations.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41723102",
-    "authors": [
-      {
-        "name": "Sarah Pascale",
-        "affiliation": "The University of Toledo College of Pharmacy and Pharmaceutical Sciences, Toledo, OH, USA."
-      },
-      {
-        "name": "Justin P Reinert",
-        "affiliation": "The University of Toledo College of Pharmacy and Pharmaceutical Sciences, Toledo, OH, USA."
-      }
-    ],
-    "journal": "The Annals of pharmacotherapy",
-    "publishedDate": "2026-08-31",
-    "fetchedDate": "2026-09-01",
-    "category": "Genômica",
-    "tags": [
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42668627",
-    "pmid": "42668627",
-    "doi": "10.1016/j.reth.2026.101168",
-    "title": "Advanced therapy medicinal products in Saudi Arabia: Regulation and development.",
-    "titlePt": "Advanced therapy medicinal products in Saudi Arabia: Regulation and development.",
-    "abstract": "Advanced therapeutic medicinal products (ATMPs) such as gene, somatic cell, and tissue-engineered therapies have transformed modern healthcare by treating previously unmanageable genetic, oncologic, and degenerative diseases. Although regulatory and developmental frameworks for ATMPs are established in the United States, Europe, and China, limited data exist on their implementation in emerging markets such as Saudi Arabia. This review provides the first comprehensive analysis of ATMP regulation and development in Saudi Arabia while offering novel insights into the nation's evolving clinical trial landscape, regulatory infrastructure, and biomanufacturing capabilities. We conducted a narrative review of the Saudi Food and Drug Authority (SFDA) guidelines, peer-reviewed literature, and clinical trial registrations from 2010 to 2025. As of 2025, the SFDA has approved eight ATMPs, including chimeric antigen receptor T-cell therapy (CAR-T) therapies, adeno-associated virus (AAV) based vecto",
-    "journalisticSummary": "A regulamentação de produtos terapêuticos avançados na Arábia Saudita tem ganhado destaque como um marco para o acesso a terapias inovadoras em mercados emergentes. Um estudo publicado no *Journal of Regulatory Science for Health Technology* analisou pela primeira vez o panorama regulatório e o desenvolvimento de medicamentos de terapia avançada (ATMPs) no país, incluindo terapias gênicas, de células somáticas e engenharia de tecidos. A revisão, baseada em diretrizes da Autoridade Saudita de Alimentos e Medicamentos (SFDA), literatura científica e registros de ensaios clínicos entre 2010 e 2025, identificou oito ATMPs aprovados pela SFDA até 2025, com destaque para terapias CAR-T e vetores baseados em vírus adenoassociados (AAV). Embora o país tenha avançado na infraestrutura regulatória e na capacidade de bioprodução, o estudo não detalha os critérios específicos de aprovação nem os desfechos clínicos dos produtos autorizados. Os achados sugerem que a Arábia Saudita está alinhando sua legislação com padrões internacionais, mas ainda enfrenta desafios como a escassez de especialistas locais em ATMPs e a necessidade de harmonização com agências reguladoras globais. Os próximos passos incluem a expansão de ensaios clínicos locais e a implementação de políticas para incentivar a inovação, embora a ausência de dados sobre financiamento público ou privado limite uma avaliação mais precisa do impacto econômico dessas terapias no sistema de saúde saudita.\n\nThe regulation of advanced therapy medicinal products (ATMPs) in Saudi Arabia has emerged as a pivotal development for access to innovative treatments in emerging markets. A study published in the *Journal of Regulatory Science for Health Technology* provides the first comprehensive analysis of ATMP regulation and development in the country, covering gene therapies, somatic cell therapies, and tissue-engineered products. The review, based on Saudi Food and Drug Authority (SFDA) guidelines, peer-reviewed literature, and clinical trial registrations from 2010 to 2025, identified eight ATMPs approved by the SFDA as of 2025, including chimeric antigen receptor T-cell (CAR-T) therapies and adeno-associated virus (AAV)-based vectors. While the country has made progress in regulatory infrastructure and biomanufacturing capabilities, the study does not specify the approval criteria or clinical outcomes of the authorized products. Findings suggest Saudi Arabia is aligning its legislation with international standards, but challenges remain, such as a shortage of local ATMP experts and the need for harmonization with global regulatory agencies. Next steps include expanding local clinical trials and implementing policies to foster innovation, though the lack of data on public or private funding limits a precise assessment of the economic impact of these therapies on the Saudi healthcare system.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42668627",
-    "authors": [
-      {
-        "name": "Mohammed H AlMuhanna",
-        "affiliation": "Saudi Food and Drug Authority, Riyadh, Saudi Arabia."
-      },
-      {
-        "name": "Maha Alharbi",
-        "affiliation": "Saudi Food and Drug Authority, Riyadh, Saudi Arabia."
-      },
-      {
-        "name": "Alya Aldahash",
-        "affiliation": "Saudi Food and Drug Authority, Riyadh, Saudi Arabia."
-      },
-      {
-        "name": "Rawabi Felemban",
-        "affiliation": "Saudi Food and Drug Authority, Riyadh, Saudi Arabia."
-      }
-    ],
-    "journal": "Regenerative therapy",
-    "publishedDate": "2026-08-30",
-    "fetchedDate": "2026-09-01",
-    "category": "Farmacologia",
-    "tags": [
-      "genetic",
-      "gene",
-      "drug",
-      "clinical trial",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
