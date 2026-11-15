@@ -1,5 +1,174 @@
 [
   {
+    "id": "pubmed-42616314",
+    "pmid": "42616314",
+    "doi": "10.1007/s10840-026-02417-4",
+    "title": "Safety and feasibility of a balloon-based pulsed field ablation system for the catheter ablation of paroxysmal atrial fibrillation.",
+    "titlePt": "Safety and feasibility of a balloon-based pulsed field ablation system for the catheter ablation of paroxysmal atrial fibrillation.",
+    "abstract": "Pulsed field ablation (PFA) is a ablation modality that is increasingly used for pulmonary vein isolation (PVI) in atrial fibrillation (AF) patients. This study assessed the safety and effectiveness of a balloon-based PFA system at 6 months after treatment. This study is a prospective, single-center, premarket study. A total of 56 patients with drug-refractory paroxysmal atrial fibrillation (PAF) were enrolled between November 2024 and September 2025 and underwent PVI with a balloon-based PFA system. The study endpoints were the rate of primary serious adverse events, acute procedural effectiveness and 6-month freedom from recurrence. Acute effectiveness was achieved in 100% (231/231) of the treated PVs (100% of patients, 56/56), with 33&#x2009;&#xb1;&#x2009;5.5 PFA applications/patient. The procedure, fluoroscopy, and transpired ablation times were 89.0&#x2009;&#xb1;&#x2009;30.7, 24.2&#x2009;&#xb1;&#x2009;8.3, and 20.0&#x2009;&#xb1;&#x2009;12.0&#xa0;min, respectively. One (1.8%; 1/56)",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42616314",
+    "authors": [
+      {
+        "name": "Peize Wang",
+        "affiliation": "TEDA International Cardiovascular Hospital, Tianjin, China."
+      },
+      {
+        "name": "Kun Zhang",
+        "affiliation": "TEDA International Cardiovascular Hospital, Tianjin, China."
+      },
+      {
+        "name": "Jinlong Bai",
+        "affiliation": "TEDA International Cardiovascular Hospital, Tianjin, China."
+      },
+      {
+        "name": "Xiuhong Dong",
+        "affiliation": "TEDA International Cardiovascular Hospital, Tianjin, China."
+      }
+    ],
+    "journal": "Journal of interventional cardiac electrophysiology : an international journal of arrhythmias and pacing",
+    "publishedDate": "2026-11-14",
+    "fetchedDate": "2026-11-15",
+    "category": "Cardiologia",
+    "tags": [
+      "atrial",
+      "drug"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9PR3Y1-2kFHot-a5ad0caaf8926167\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: c394e0e8-da06-44ec-9854-bcb35c0b0ffa)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42400724",
+    "pmid": "42400724",
+    "doi": "10.1007/s10840-026-02392-w",
+    "title": "Single-shot ablation for AF: Real-world procedural and one-year outcomes with the newly adopted PulseSelect PFA compared with cryoballoon from the 1STOP project.",
+    "titlePt": "Single-shot ablation for AF: Real-world procedural and one-year outcomes with the newly adopted PulseSelect PFA compared with cryoballoon from the 1STOP project.",
+    "abstract": "Pulmonary vein isolation (PVI) is an established treatment for symptomatic atrial fibrillation (AF). To date, cryoballoon (CB) ablation has been the most widely adopted single-shot approach, while pulsed field ablation (PFA) has emerged as a non-thermal alternative designed to preferentially ablate myocardial tissue and reduce collateral injury. PulseSelect&#x2122; is a CE-marked and FDA approved PFA system specifically developed for PVI. We compared acute and one-year outcomes of PulseSelect PFA versus fourth-generation cryoballoon (CB4) ablation in routine clinical practice. This multicenter analysis included 254 consecutive patients undergoing first-time PVI in 10 Italian medium-volume centers between January 2024 and February 2025: 121 treated with PulseSelect and 133 with CB4. Baseline clinical and echocardiographic characteristics were prospectively collected. Procedural workflow, anesthesia strategy, procedure duration, fluoroscopy time, and periprocedural complications were ass",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42400724",
+    "authors": [
+      {
+        "name": "Giuseppe Boriani",
+        "affiliation": "Cardiology Division, Department of Biomedical, Metabolic and Neural Sciences, University of Modena and Reggio Emilia, Policlinico di Modena, Policlinico di Modena, Modena, Italy. giuseppe.boriani@unimore.it."
+      },
+      {
+        "name": "Giulio Molon",
+        "affiliation": "IRCCS Sacro Cuore Don Calabria, Negrar di Valpolicella, Valpolicella, Italy."
+      },
+      {
+        "name": "Stefano Nardi",
+        "affiliation": "Pineta Grande Hospital, Castel Volturno, Italy."
+      },
+      {
+        "name": "Gianfranco Mitacchione",
+        "affiliation": "Department of Electrophysiology and Cardiac Pacing, Department of Medical and Surgical Specialties, Radiological Sciences and Public Health, ASST Spedali Civili, University of Brescia, Brescia, Italy."
+      }
+    ],
+    "journal": "Journal of interventional cardiac electrophysiology : an international journal of arrhythmias and pacing",
+    "publishedDate": "2026-11-14",
+    "fetchedDate": "2026-11-15",
+    "category": "Cardiologia",
+    "tags": [
+      "myocardial",
+      "atrial",
+      "gene",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9PR5uV-2kFHot-a5ad0cdce991a679\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: dead8c4c-d04c-4171-b1ce-f50f2e38b0ee)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42322124",
+    "pmid": "42322124",
+    "doi": "10.1002/ijgo.71153",
+    "title": "HPV vaccination in people living with HIV: A network meta-analysis highlighting safety, immunogenicity, and evidence gaps.",
+    "titlePt": "HPV vaccination in people living with HIV: A network meta-analysis highlighting safety, immunogenicity, and evidence gaps.",
+    "abstract": "HPV infection is a major contributor to cervical and other anogenital cancers, with people living with HIV (PLWH) at particularly high risk due to persistent infection. Although prophylactic HPV vaccines are widely used and generally safe, their efficacy and safety in PLWH remain uncertain. To evaluate the efficacy and safety of HPV vaccination in PLWH through an overview and network meta-analysis (NMA). An electronic search was conducted in several databases up to August 12, 2025, without date or language restrictions, using keywords related to HPV vaccines, efficacy, and safety. We included systematic reviews of randomized controlled trials (RCTs) involving PLWH with HIV who received bivalent (bHPV), quadrivalent (qHPV), or nonavalent (9vHPV) HPV vaccines. Study selection (Rayyan software) and data extraction were conducted by two independent researchers, and discrepancies were resolved by a third author. Quantitative synthesis was performed using R software. Risk of bias was assesse",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42322124",
+    "authors": [
+      {
+        "name": "Antonio Alves de Souza Neto",
+        "affiliation": "Postgraduate Program in Sciences Applied to Women's Health, Federal University of Rio Grande Do Norte, Natal, Brazil."
+      },
+      {
+        "name": "Amaxsell Thiago Barros de Souza",
+        "affiliation": "Institute of Education, Research, and Innovation, Liga Contra o C&#xe2;ncer, Natal, Brazil."
+      },
+      {
+        "name": "Ayane Cristine Alves Sarmento",
+        "affiliation": "Postgraduate Program in Sciences Applied to Women's Health, Federal University of Rio Grande Do Norte, Natal, Brazil."
+      },
+      {
+        "name": "Ana Katherine Gon&#xe7;alves",
+        "affiliation": "Institute of Education, Research, and Innovation, Liga Contra o C&#xe2;ncer, Natal, Brazil."
+      }
+    ],
+    "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+    "publishedDate": "2026-11-14",
+    "fetchedDate": "2026-11-15",
+    "category": "Infectologia",
+    "tags": [
+      "cancer",
+      "infection",
+      "hiv",
+      "gene",
+      "vaccine"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9PRm2i-2kFHot-a5ad10138decb477\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: a84718d5-9956-4d2f-9020-4814067b2f0f)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43032696",
+    "pmid": "43032696",
+    "doi": "10.1016/j.invent.2026.101023",
+    "title": "Unguided bibliotherapy and digital self-help interventions based on cognitive behavioural therapy for university students with gaze-related anxiety and social anxiety symptoms: a randomised controlled trial.",
+    "titlePt": "Unguided bibliotherapy and digital self-help interventions based on cognitive behavioural therapy for university students with gaze-related anxiety and social anxiety symptoms: a randomised controlled trial.",
+    "abstract": "Individual cognitive behavioural therapy (CBT) for social anxiety disorder is effective, but CBT has not become widespread enough. Since young people with social anxiety also experience above a certain level distress and functional impairment, the development of readily available CBT-based self-help interventions is urgently needed. The objective was to evaluate the effectiveness of two five-week, unguided CBT-based self-help interventions in reducing gaze-related anxiety and social anxiety symptoms among university students with elevated gaze-related anxiety. A three-arm, randomised controlled trial was conducted in Japan from April to December 2025. University students with gaze-related anxiety were randomly assigned to bibliotherapy (Bib) or unguided digital self-help interventions (DSI), or to a six-month waitlist control. Social anxiety symptoms were evaluated using several self-report scales, and assessments were conducted at baseline, post-intervention, and at two follow-ups. Of",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43032696",
+    "authors": [
+      {
+        "name": "Kazuki Matsumoto",
+        "affiliation": "Division of Clinical Psychology, Kagoshima University Hospital, Kagoshima-City, Kagoshima, Japan."
+      },
+      {
+        "name": "Sayo Hamatani",
+        "affiliation": "Research Center for Child Mental Development, University of Fukui, Yoshida-Gun, Fukui, Japan."
+      },
+      {
+        "name": "Yoshihiko Kunisato",
+        "affiliation": "Department of Psychology, Senshu University, Kawasaki-City, Kanagawa, Japan."
+      },
+      {
+        "name": "Katsunori Watanabe",
+        "affiliation": "Department of Psychology, Jin-ai University, Echizen-City, Fukui, Japan."
+      }
+    ],
+    "journal": "Internet interventions",
+    "publishedDate": "2026-11-14",
+    "fetchedDate": "2026-11-15",
+    "category": "Neurologia",
+    "tags": [
+      "cognitive",
+      "anxiety"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9PRu41-2kFHot-a5ad10bbe8b321b1\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 594cffb7-c834-41b9-90cf-50adb1775f34)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43027322",
     "pmid": "43027322",
     "doi": "10.3390/cells15211964",
@@ -12151,177 +12320,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42468336",
-    "pmid": "42468336",
-    "doi": "10.1016/j.ejmech.2026.119135",
-    "title": "Chemical innovation and scaffold refinement in FDA-approved antibiotics (2015-2025).",
-    "titlePt": "Chemical innovation and scaffold refinement in FDA-approved antibiotics (2015-2025).",
-    "abstract": "Antimicrobial resistance (AMR) is eroding the effectiveness of our current antibiotic arsenal and threatens to outpace drug discovery efforts worldwide. Against this backdrop, the development of antibiotics with novel mechanisms of action and optimized chemical scaffolds has never been more critical. Recent approvals by the U.S. Food and Drug Administration (FDA) showcase how medicinal chemistry is driving innovation to counter multidrug-resistant (MDR) pathogens. In this review article, we examined the structural frameworks, structure-activity relationships (SARs), and pharmacokinetic and pharmacodynamic profiles of these agents, and highlighted forward-looking strategies such as siderophore-mediated uptake and non-traditional bacterial targets, including topoisomerases. We also discuss how targeted chemical modifications have expanded the antibacterial spectrum, enhanced binding affinity, and strengthened resistance profiles. Together, these advances illustrate the central role of me",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nA resistência antimicrobiana (RAM) representa uma das maiores ameaças à saúde pública global, com cepas multidrogarresistentes (MDR) emergindo mais rapidamente do que a descoberta de novos antibióticos. Nesse contexto, a inovação em química medicinal tem se tornado essencial para expandir o arsenal terapêutico contra patógenos resistentes. Um estudo publicado recentemente no *European Journal of Medicinal Chemistry* analisa as aprovações de antibióticos pela FDA entre 2015 e 2025, destacando como refinamentos estruturais e novas estratégias de design molecular estão redefinindo o tratamento de infecções graves.\n\nA pesquisa avaliou os quadros químicos, relações estrutura-atividade (SAR) e perfis farmacocinéticos/farmacodinâmicos dos novos agentes, identificando abordagens promissoras como a captação mediada por sideróforos e o direcionamento a alvos bacterianos não convencionais, como as topoisomerases. Modificações químicas direcionadas ampliaram o espectro de ação, aumentaram a afinidade de ligação e fortaleceram a resistência a mecanismos de evasão bacteriana. Entre os destaques, estão compostos que superam barreiras de permeabilidade em bactérias Gram-negativas, um dos principais desafios no desenvolvimento de antibióticos.\n\nApesar dos avanços, o estudo aponta limitações como a escassez de novos mecanismos de ação em comparação com a velocidade de disseminação da RAM, além da falta de dados robustos sobre a eficácia em populações específicas, como pacientes imunocomprometidos. Os próximos passos incluem a exploração de sinergias com terapias adjuvantes e o aprimoramento de modelos preditivos para resistência. A integração de inteligência artificial no *drug discovery* também surge como uma fronteira promissora, mas ainda depende de validação clínica.\n\n---\n\n**English version**\n\nAntimicrobial resistance (AMR) is eroding the effectiveness of our current antibiotic arsenal and threatens to outpace drug discovery efforts worldwide. Against this backdrop, the development of antibiotics with novel mechanisms of action and optimized chemical scaffolds has never been more critical. A recent study published in the *European Journal of Medicinal Chemistry* examines FDA-approved antibiotics from 2015 to 2025, revealing how medicinal chemistry innovations are reshaping the treatment of multidrug-resistant (MDR) infections.\n\nThe research analyzed structural frameworks, structure-activity relationships (SARs), and pharmacokinetic/pharmacodynamic profiles of new agents, identifying forward-looking strategies such as siderophore-mediated uptake and targeting non-traditional bacterial targets like topoisomerases. Targeted chemical modifications expanded antibacterial spectra, enhanced binding affinity, and strengthened resistance profiles against bacterial evasion mechanisms. Notably, the study highlights compounds that overcome permeability barriers in Gram-negative bacteria—a major hurdle in antibiotic development.\n\nDespite these advances, the review underscores key limitations, including the scarcity of truly novel mechanisms of action relative to the rapid spread of AMR, and a lack of robust efficacy data in specific populations, such as immunocompromised patients. Future directions include exploring adjuvants to potentiate antibiotic activity and refining predictive models for resistance. The integration of artificial intelligence in drug discovery also emerges as a promising frontier, though clinical validation remains pending.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42468336",
-    "authors": [
-      {
-        "name": "Andressa Franci&#xe9;lli Bonjorno",
-        "affiliation": "School of Pharmaceutical Sciences, S&#xe3;o Paulo State University (UNESP), Araraquara, 14800903, Brazil. Electronic address: andressa.bonjorno@unesp.br."
-      },
-      {
-        "name": "Diogo Boreski",
-        "affiliation": "School of Pharmaceutical Sciences, S&#xe3;o Paulo State University (UNESP), Araraquara, 14800903, Brazil."
-      },
-      {
-        "name": "Guilherme F S Fernandes",
-        "affiliation": "Chemical Biology Science Technology Platform, The Francis Crick Institute, London, NW1 1AT, United Kingdom."
-      },
-      {
-        "name": "Chung Man Chin",
-        "affiliation": "School of Pharmaceutical Sciences, S&#xe3;o Paulo State University (UNESP), Araraquara, 14800903, Brazil; Advanced Research Center in Medicine (CEPAM), School of Medicine, Union of the Colleges of the Great Lakes (UNILAGO), S&#xe3;o Jos&#xe9; do Rio Preto, 15030-070, Brazil."
-      }
-    ],
-    "journal": "European journal of medicinal chemistry",
-    "publishedDate": "2026-08-29",
-    "fetchedDate": "2026-09-01",
-    "category": "Infectologia",
-    "tags": [
-      "bacterial",
-      "sars",
-      "antimicrobial",
-      "drug"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-40815426",
-    "pmid": "40815426",
-    "doi": "10.1007/s13187-025-02706-y",
-    "title": "Capacity of Understanding the Future Approaches in Cancer Treatment by Multiple Models of Artificial Intelligence.",
-    "titlePt": "Capacity of Understanding the Future Approaches in Cancer Treatment by Multiple Models of Artificial Intelligence.",
-    "abstract": "Artificial intelligence (AI) has emerged as a popular tool in education for disease treatment, not only for patients but also for physicians and scientists. We aimed to explore the educational values of different AI models in future disease treatment by providing them with real-world obstacles in cancer treatment for the most serious types of breast cancer and chondrosarcoma. We first asked seven large AI models to predict the future treatment approaches that would lead to a better outcome for triple-negative breast cancer (TNBC) and dedifferentiated chondrosarcoma (DDCS). We then requested each model to select the best one and provide supporting evidence. Next, the models were requested to provide a plan or clinical trial to test the treatment approach. Our test obtained ten treatment approaches for TNBC and DDCS from each of the seven models. Together, a total of 18 different unique approaches were suggested for TNBC and 34 for DDCS. Modified and/or extended usage of antibody-drug co",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Journal of Cancer Education* avaliou o potencial de sete grandes modelos de inteligência artificial (IA) na previsão de abordagens terapêuticas inovadoras para dois tipos agressivos de câncer: o câncer de mama triplo-negativo (TNBC) e o condrossarcoma dediferenciado (DDCS). A pesquisa não apenas comparou as predições dos modelos, mas também analisou sua capacidade de fundamentar escolhas clínicas e propor delineamentos de ensaios clínicos para validar as estratégias sugeridas.\n\nOs sete modelos de IA foram desafiados a identificar abordagens terapêuticas futuras com potencial para melhorar os desfechos nesses cânceres de alta letalidade. Cada modelo gerou dez propostas distintas, resultando em um total de 18 abordagens únicas para o TNBC e 34 para o DDCS. Entre as sugestões, destaca-se o uso estendido ou modificado de conjugados de anticorpos e fármacos, uma estratégia já consolidada em oncologia, mas que ainda carece de otimização para esses subtipos específicos. Além disso, os modelos foram capazes de elaborar planos preliminares para ensaios clínicos visando testar as terapias propostas, demonstrando um grau de sofisticação na integração de dados e na proposição de caminhos viáveis.\n\nEmbora os resultados indiquem que a IA pode auxiliar na identificação de novas estratégias terapêuticas e na estruturação de pesquisas clínicas, o estudo não apresentou métricas de acurácia ou validação externa das predições. A ausência de uma comparação com padrões-ouro ou com a opinião de especialistas humanos limita a interpretação da confiabilidade desses achados. Além disso, não foram detalhados os critérios metodológicos empregados pelos modelos para priorizar as abordagens sugeridas, o que poderia influenciar a relevância clínica das propostas.\n\nOs autores sugerem que futuras pesquisas devem focar na validação prospectiva das estratégias identificadas, bem como na integração de múltiplas fontes de dados para aprimorar a precisão dos modelos. A aplicação de IA em oncologia educacional e na formulação de protocolos terapêuticos representa um campo promissor, mas ainda necessita de rigor científico para transpor o abismo entre predição e prática clínica.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Cancer Education* assessed the potential of seven leading artificial intelligence (AI) models in forecasting innovative therapeutic approaches for two aggressive cancer types: triple-negative breast cancer (TNBC) and dedifferentiated chondrosarcoma (DDCS). The research not only compared the models’ predictions but also evaluated their ability to justify clinical choices and propose clinical trial designs to validate the suggested strategies.\n\nThe seven AI models were tasked with identifying future treatment approaches with the potential to improve outcomes in these high-mortality cancers. Each model generated ten distinct proposals, resulting in a total of 18 unique approaches for TNBC and 34 for DDCS. Among the suggestions, extended or modified use of antibody-drug conjugates stood out—a strategy already established in oncology but still requiring optimization for these specific subtypes. Additionally, the models were able to draft preliminary clinical trial plans to test the proposed therapies, demonstrating a degree of sophistication in data integration and the formulation of viable pathways.\n\nWhile the findings suggest that AI can aid in identifying new therapeutic strategies and structuring clinical research, the study did not provide accuracy metrics or external validation of the predictions. The absence of comparisons with gold standards or expert human opinions limits the interpretation of these findings’ reliability. Furthermore, the methodological criteria used by the models to prioritize the suggested approaches were not detailed, which could influence the clinical relevance of the proposals.\n\nThe authors propose that future research should focus on prospective validation of the identified strategies, as well as integrating multiple data sources to enhance model precision. The application of AI in oncology education and therapeutic protocol formulation represents a promising field, but it still requires rigorous scientific methods to bridge the gap between prediction and clinical practice.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40815426",
-    "authors": [
-      {
-        "name": "Hong Xu",
-        "affiliation": "Heilongjiang Academy of Traditional Chinese Medicine, Sanfu Road 142, Xiangfang District, Harbin, Heilongjiang, 150040, People's Republic of China."
-      },
-      {
-        "name": "Chengyuan Yang",
-        "affiliation": "Department of Orthopedic Surgery and BME, College of Medicine, University of Tennessee Health Science Center, Memphis, TN, 38163, USA."
-      },
-      {
-        "name": "Xiao-Yang Hu",
-        "affiliation": "Basic Medical College of Heilongjiang University of Chinese Medicine, Harbin, Heilongjiang, 150040, China. psa1981@126.com."
-      },
-      {
-        "name": "Weikuan Gu",
-        "affiliation": "Department of Orthopedic Surgery and BME, College of Medicine, University of Tennessee Health Science Center, Memphis, TN, 38163, USA. wgu@uthsc.edu."
-      }
-    ],
-    "journal": "Journal of cancer education : the official journal of the American Association for Cancer Education",
-    "publishedDate": "2026-08-28",
-    "fetchedDate": "2026-09-01",
-    "category": "Farmacologia",
-    "tags": [
-      "cancer",
-      "drug",
-      "clinical trial",
-      "antibody"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42298832",
-    "pmid": "42298832",
-    "doi": "10.1177/27683605261456020",
-    "title": "Efficacy of Mindfulness-Based Interventions on Anxiety and Sleep Quality in Patients with Breast Cancer: A Systematic Review and Meta-Analysis.",
-    "titlePt": "Efficacy of Mindfulness-Based Interventions on Anxiety and Sleep Quality in Patients with Breast Cancer: A Systematic Review and Meta-Analysis.",
-    "abstract": "Patients with breast cancer commonly experience anxiety and sleep disturbance during and after treatment, and these symptoms are closely interrelated, negatively affecting the quality of life. Mindfulness-based interventions (MBIs) have been increasingly used as a nonpharmacological supportive approach. This systematic review and meta-analysis aimed to evaluate the effects of MBIs on anxiety and sleep quality in patients with breast cancer. A systematic search of PubMed, Web of Science, Cochrane Library, CINAHL, and Embase was conducted up to May 15, 2025. Random-effects meta-analysis was used to estimate standardized mean differences (SMDs) with 95% confidence intervals (CIs). Risk of bias was assessed using the Cochrane RoB 2.0, and the certainty of evidence was evaluated with Grading of Recommendations, Assessment, Development, and Evaluation. Twenty-four randomized controlled trials (RCTs) including 3,212 participants were analyzed. MBIs significantly reduced anxiety compared with ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *PubMed* (DOI: 10.1177/27683605261456020) investigou o impacto de intervenções baseadas em mindfulness (MBIs) na ansiedade e na qualidade do sono de pacientes com câncer de mama. A análise, que incluiu 24 ensaios clínicos randomizados com 3.212 participantes, demonstrou que as MBIs reduziram significativamente os níveis de ansiedade quando comparadas a grupos controle. Embora os resultados sugerissem melhora na qualidade do sono, a heterogeneidade entre os estudos limitou a interpretação dos dados, indicando a necessidade de mais pesquisas para confirmar esse benefício. Os autores avaliaram o risco de viés usando a ferramenta *Cochrane RoB 2.0* e a qualidade das evidências pelo sistema *GRADE*, classificando-as como moderadas para ansiedade e baixas para sono. Entre as limitações, destacam-se a diversidade de protocolos de mindfulness empregados e a ausência de padronização nos instrumentos de mensuração. Os próximos passos incluem estudos com amostras maiores e desenhos metodológicos mais robustos para validar esses achados e explorar possíveis mecanismos subjacentes.\n\n---\n\n**English version**\n\nA recent study published in *PubMed* (DOI: 10.1177/27683605261456020) assessed the efficacy of mindfulness-based interventions (MBIs) on anxiety and sleep quality in patients with breast cancer. The meta-analysis, which included 24 randomized controlled trials with 3,212 participants, found that MBIs significantly reduced anxiety levels compared to control groups. While results suggested potential improvements in sleep quality, high heterogeneity among studies limited definitive conclusions, warranting further investigation. The authors evaluated bias risk using *Cochrane RoB 2.0* and evidence certainty with the *GRADE* system, rating the quality as moderate for anxiety and low for sleep outcomes. Key limitations included variability in MBI protocols and lack of standardized measurement tools. Future research should prioritize larger samples and rigorous designs to validate these findings and explore underlying mechanisms.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42298832",
-    "authors": [
-      {
-        "name": "Yongmi Lee",
-        "affiliation": "College of Nursing, Kangwon National University, Chuncheon-si, Gangwon State, Republic of Korea."
-      },
-      {
-        "name": "Hyunju Kang",
-        "affiliation": "College of Nursing, Kangwon National University, Chuncheon-si, Gangwon State, Republic of Korea."
-      },
-      {
-        "name": "Myoungsuk Kim",
-        "affiliation": "College of Nursing, Kangwon National University, Chuncheon-si, Gangwon State, Republic of Korea."
-      }
-    ],
-    "journal": "Journal of integrative and complementary medicine",
-    "publishedDate": "2026-08-28",
-    "fetchedDate": "2026-09-01",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "anxiety"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42314040",
-    "pmid": "42314040",
-    "doi": "10.1182/bloodadvances.2026020372",
-    "title": "Outcomes of adolescents and young adults with AML treated on pediatric vs adult protocols.",
-    "titlePt": "Outcomes of adolescents and young adults with AML treated on pediatric vs adult protocols.",
-    "abstract": "Adolescents and young adults (AYA) with acute myeloid leukemia (AML) represent a biologically and clinically distinct population managed across pediatric and adult oncology services, with no established optimal treatment paradigm. In this single-center retrospective study, we analyzed 81 AYA patients aged 14 to 29 years with newly diagnosed AML treated at Memorial Sloan Kettering Cancer Center between 2010 and 2025. Patients were stratified by treating service, European LeukemiaNet (ELN) 2022 risk category, and induction regimen. Pediatric patients received 2 cycles of cytarabine, daunorubicin, and etoposide-based induction, whereas adult patients received 1 cycle of cytarabine plus daunorubicin (7+3) induction, 3 of whom required 7+3 reinduction, followed by risk-adapted consolidation including allogeneic hematopoietic stem cell transplantation. Composite complete response rates were similar between adult and pediatric cohorts (79% vs 78%), as were rates of minimal residual disease ne",
-    "journalisticSummary": "**Versão em português brasileiro:**\n\nUm estudo retrospectivo realizado no Memorial Sloan Kettering Cancer Center analisou desfechos de 81 adolescentes e adultos jovens (AYA, na sigla em inglês) com leucemia mieloide aguda (LMA) recém-diagnosticada, com idades entre 14 e 29 anos, tratados entre 2010 e 2025. Os pacientes foram divididos conforme o serviço de tratamento (pediátrico ou adulto), categoria de risco da European LeukemiaNet (ELN) de 2022 e regime de indução. Enquanto os pacientes pediátricos receberam dois ciclos de indução baseada em citarabina, daunorrubicina e etoposídeo, os adultos foram submetidos ao regime padrão 7+3 (um ciclo de citarabina associada à daunorrubicina), com três deles necessitando de reindução com 7+3. Ambos os grupos receberam consolidação adaptada ao risco, incluindo transplante alogênico de células-tronco hematopoiéticas quando indicado.\n\nOs resultados mostraram taxas semelhantes de resposta completa composta entre os grupos (79% nos adultos e 78% nos pediátricos), bem como proporções comparáveis de doença residual mínima negativa após a indução. Embora o estudo n��o tenha relatado diferenças significativas na sobrevida global ou livre de eventos entre os serviços, a ausência de randomização e o tamanho limitado da amostra limitam a generalização dos achados. Além disso, não foram fornecidas informações sobre eventos adversos específicos ou qualidade de vida, fatores essenciais para avaliar a segurança e a tolerabilidade dos regimes. Os autores destacam a necessidade de ensaios prospectivos randomizados para definir o melhor paradigma terapêutico para essa população heterogênea, cuja estratificação por biologia tumoral e protocolos adaptados permanece um desafio clínico não resolvido.\n\n---\n\n**English version:**\n\nA retrospective single-center study at Memorial Sloan Kettering Cancer Center evaluated outcomes of 81 adolescents and young adults (AYAs) aged 14 to 29 with newly diagnosed acute myeloid leukemia (AML), treated between 2010 and 2025. Patients were stratified by treating service (pediatric vs. adult), European LeukemiaNet (ELN) 2022 risk category, and induction regimen. Pediatric patients received two cycles of cytarabine, daunorubicin, and etoposide-based induction, whereas adults underwent standard 7+3 induction (one cycle of cytarabine plus daunorubicin), with three requiring 7+3 reinduction. Both cohorts received risk-adapted consolidation, including allogeneic hematopoietic stem cell transplantation when indicated.\n\nThe study found comparable composite complete response rates between adult and pediatric groups (79% vs. 78%), along with similar rates of negative minimal residual disease after induction. While no significant differences in overall or event-free survival were reported between services, the lack of randomization and small sample size constrain the generalizability of the findings. Additionally, specific adverse event data and quality-of-life metrics—which are critical for assessing regimen safety and tolerability—were not provided. The authors emphasize the need for prospective randomized trials to determine the optimal treatment paradigm for this heterogeneous population, whose stratification by tumor biology and adapted protocols remains an unresolved clinical challenge.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42314040",
-    "authors": [
-      {
-        "name": "Baher Krayem",
-        "affiliation": "Leukemia Department, Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY."
-      },
-      {
-        "name": "Jeetayu Biswas",
-        "affiliation": "Leukemia Department, Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY."
-      },
-      {
-        "name": "Andriy Derkach",
-        "affiliation": "Molecular Pharmacology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY."
-      },
-      {
-        "name": "Michael Rafizadeh",
-        "affiliation": "Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer Center, New York, NY."
-      }
-    ],
-    "journal": "Blood advances",
-    "publishedDate": "2026-08-28",
-    "fetchedDate": "2026-09-01",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "oncology",
-      "leukemia",
-      "gene",
-      "pediatric"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
