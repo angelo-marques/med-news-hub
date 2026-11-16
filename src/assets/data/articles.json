@@ -1,5 +1,89 @@
 [
   {
+    "id": "pubmed-43036135",
+    "pmid": "43036135",
+    "doi": "10.1002/mbo3.70455",
+    "title": "A Narrative Review on the Recent Advances in Pseudomonas aeruginosa Transmission: Focus on Hospital Environments.",
+    "titlePt": "A Narrative Review on the Recent Advances in Pseudomonas aeruginosa Transmission: Focus on Hospital Environments.",
+    "abstract": "Pseudomonas aeruginosa is a high-risk nosocomial pathogen responsible for severe hospital-acquired infections. Its persistence in hospital environments is supported by biofilm formation, extensive antimicrobial resistance, and the ability to colonize water systems and medical devices. Genomic technologies have enhanced the understanding of its complex transmission routes. A narrative review approach was used to synthesize evidence from 2015 to 2025. Searches across major databases identified studies focused on environmental persistence, biofilms, genomic surveillance, outbreak reports, and infection prevention and control (IPC) strategies. Data were grouped into thematic areas covering pathogen biology, environmental reservoirs, and control approaches. Water distribution systems, including sinks, drains, showers, and wastewater plumbing, emerged as important, setting-dependent sources of P. aeruginosa transmission. Biofilm-mediated survival allowed long-term colonization, resistance-ge",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43036135",
+    "authors": [
+      {
+        "name": "Comfort Danchal Vandu",
+        "affiliation": "Department of Microbiology, Faculty of Biomedical Sciences, Kampala International University - Western Campus, Ishaka, Uganda."
+      },
+      {
+        "name": "Michael Ben Okon",
+        "affiliation": "Department of Medical Laboratory Science, School of Allied Health Sciences, Kampala International University - Western Campus, Ishaka, Uganda."
+      },
+      {
+        "name": "Ilemobayo Victor Fasogbon",
+        "affiliation": "Department of Biochemistry, Faculty of Biomedical Sciences, Kampala International University - Western Campus, Ishaka, Uganda."
+      },
+      {
+        "name": "Angela Mumbua Musyoka",
+        "affiliation": "Department of Publications and Extension, Kampala International University - Western Campus, Ishaka, Uganda."
+      }
+    ],
+    "journal": "MicrobiologyOpen",
+    "publishedDate": "2026-11-16",
+    "fetchedDate": "2026-11-16",
+    "category": "Infectologia",
+    "tags": [
+      "infection",
+      "antimicrobial",
+      "genomic"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9abzsE-2kFHot-a5b91ff23930c586\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 04d80c59-aaf5-4b20-a0b4-7847892f7d73)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43035493",
+    "pmid": "43035493",
+    "doi": "10.1038/s41392-026-03086-5",
+    "title": "Drug delivery systems: current applications and future directions.",
+    "titlePt": "Drug delivery systems: current applications and future directions.",
+    "abstract": "Drug delivery systems (DDS) have become central determinants of therapeutic feasibility with modern medicines increasingly expanding beyond small molecules to biologics, nucleic acid therapeutics, and living medicines. As therapeutic modalities have continually diversified, delivery technologies, ranging from synthetic nanomaterials and molecular conjugates to biological carriers and hybrid systems have rapidly expanded. The increasing complexity of delivery strategies has thus necessitated conceptual frameworks enabling systematic comparison across platforms while accounting for engineering principles, biological barriers, and disease-specific therapeutic requirements. Accordingly, major delivery modalities now encompass lipid nanoparticles, polymeric and inorganic nanoparticles, targeted molecular conjugates, viral and non-viral vectors, cell- and bacteria-mediated delivery systems, extracellular vesicles, hydrogels, and device-assisted technologies. Although the mechanisms, clinical",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43035493",
+    "authors": [
+      {
+        "name": "Kyunghee Noh",
+        "affiliation": "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon, Republic of Korea."
+      },
+      {
+        "name": "Eunkyeong Jung",
+        "affiliation": "Department of Nanobiotechnology, KRIBB School of Biotechnology, University of Science and Technology (UST), Daejeon, Republic of Korea."
+      },
+      {
+        "name": "Jae-Yoon Kim",
+        "affiliation": "Bionanotechnology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon, Republic of Korea."
+      },
+      {
+        "name": "Eunsoo Kim",
+        "affiliation": "Genomic Medicine Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon, Republic of Korea."
+      }
+    ],
+    "journal": "Signal transduction and targeted therapy",
+    "publishedDate": "2026-11-15",
+    "fetchedDate": "2026-11-16",
+    "category": "Farmacologia",
+    "tags": [
+      "viral",
+      "drug",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9abdNJ-2kFHot-a5b91e2e2e3bc586\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: b9cef2c2-803b-44ee-a466-256189a4878d)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43035145",
     "pmid": "43035145",
     "doi": "10.1016/j.avsg.2026.10.051",
@@ -12241,87 +12325,6 @@
     ],
     "isHighlight": false,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42208400",
-    "pmid": "42208400",
-    "doi": "10.1016/j.jpurol.2026.105999",
-    "title": "Should we consider excessive weights in pediatric kidney transplant recepient candidates?: A systematic review and meta-analysis of kidney transplantation outcomes.",
-    "titlePt": "Should we consider excessive weights in pediatric kidney transplant recepient candidates?: A systematic review and meta-analysis of kidney transplantation outcomes.",
-    "abstract": "In adult populations, excess body weight has been associated with an increased risk of adverse clinical outcomes and mortality following kidney transplantation. In contrast, the influence of obesity on transplantation outcomes among pediatric populations is not yet fully understood. This study aimed to evaluate the association between pre-transplant excess weight and post-transplant outcomes in pediatric kidney transplant recipients. A systematic literature search was performed across PubMed, ScienceDirect, and the Cochrane Library, covering publications up to December 31, 2025. The quality of the included studies was evaluated using the ROBINS-E tool. Statistical analysis was conducted using Review Manager version 5.4. From a total of 1465 records screened, six studies that included 65,483 participants were selected in the meta-analysis. The results indicated that pre-transplant excess weight was significantly associated with an increased risk of acute rejection (OR = 1.09; P = 0.009)",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recentemente publicado no *Journal of Pediatric Urology* lança luz sobre os riscos associados ao excesso de peso em crianças candidatas a transplante renal, um tema ainda pouco explorado em comparações com a população adulta. A pesquisa, conduzida por meio de uma revisão sistemática e meta-análise, investigou a relação entre obesidade pré-transplante e desfechos clínicos pós-transplante em receptores pediátricos. Dados de seis estudos, envolvendo 65.483 participantes, foram analisados com o objetivo de esclarecer se o peso excessivo influencia a eficácia e a segurança do procedimento nessa faixa etária.\n\nOs resultados indicaram uma associação significativa entre excesso de peso pré-transplante e maior risco de rejeição aguda nos pacientes pediátricos, com um *odds ratio* (OR) de 1,09 e valor de *p* de 0,009. Embora o aumento do risco seja estatisticamente relevante, os autores destacam que a magnitude do impacto clínico pode ser considerada moderada. A interpretação dos achados sugere que crianças com obesidade ou sobrepeso podem requerer estratégias de manejo pré e pós-operatório mais rigorosas, como ajustes na imunossupressão ou monitoramento intensificado de complicações metabólicas.\n\nEntre as limitações do estudo, os pesquisadores apontam a heterogeneidade dos critérios utilizados para definir obesidade em crianças — como índices de massa corporal (IMC) ajustados por idade e sexo — e a ausência de padronização nos protocolos de transplante entre os centros avaliados. Além disso, não foram reportados dados sobre desfechos de longo prazo, como sobrevida do enxerto ou função renal em estágios avançados, nem sobre possíveis diferenças étnicas ou socioeconômicas entre os participantes. A qualidade dos estudos incluídos, avaliada pelo instrumento ROBINS-E, variou de moderada a alta, o que reforça a necessidade de pesquisas prospectivas com desenhos mais robustos.\n\nOs autores concluem que, embora os achados não sejam definitivos, eles reforçam a importância de uma avaliação individualizada do estado nutricional no pré-transplante pediátrico. Próximos passos incluem estudos multicêntricos com amostras maiores e seguimento prolongado, além das investigações sobre o papel de intervenções multidisciplinares — como terapia nutricional ou atividade física supervisionada — na redução de riscos. Para a prática clínica, os resultados sugerem que a obesidade deve ser considerada um fator adicional a ser ponderado nas decisões terapêuticas, embora não deva, por si só, contraindicar o transplante.\n\n---\n\n**English version**\n\nA recent study published in the *Journal of Pediatric Urology* sheds light on the risks associated with excess weight in children awaiting kidney transplantation—a topic far less explored compared to adult populations. The research, conducted through a systematic review and meta-analysis, examined the relationship between pre-transplant obesity and post-transplant clinical outcomes in pediatric recipients. Data from six studies, encompassing 65,483 participants, were analyzed to determine whether excess weight influences the efficacy and safety of the procedure in this age group.\n\nThe findings revealed a significant association between pre-transplant excess weight and an increased risk of acute rejection in pediatric patients, with an *odds ratio* (OR) of 1.09 and a *p*-value of 0.009. While the increased risk is statistically relevant, the authors emphasize that the clinical impact may be considered moderate. The results suggest that children with obesity or overweight may require more rigorous pre- and post-operative management strategies, such as adjustments in immunosuppression or intensified monitoring of metabolic complications.\n\nAmong the study’s limitations, researchers highlight the heterogeneity in criteria used to define obesity in children—such as body mass index (BMI) adjusted for age and sex—and the lack of standardization in transplant protocols across evaluated centers. Additionally, long-term outcomes, such as graft survival or advanced-stage renal function, were not reported, nor were data on potential ethnic or socioeconomic differences among participants. The quality of included studies, assessed using the ROBINS-E tool, ranged from moderate to high, underscoring the need for prospective studies with more robust designs.\n\nThe authors conclude that while the findings are not definitive, they reinforce the importance of individualized nutritional status assessments in pediatric pre-transplant evaluations. Future steps include multicenter studies with larger samples and extended follow-up, as well as investigations into the role of multidisciplinary interventions—such as nutritional therapy or supervised physical activity—in risk reduction. For clinical practice, the results suggest that obesity should be considered an additional factor in therapeutic decision-making, though it should not, in itself, contraindicate transplantation.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42208400",
-    "authors": [
-      {
-        "name": "Muhammad Asykar Palinrungi",
-        "affiliation": "Division of Urology, Department of Surgery, Faculty of Medicine, Hasanuddin University, Makassar, Indonesia; Department of Urology, Hasanuddin University Hospital, Makassar, Indonesia. Electronic address: apalinrungi@yahoo.com."
-      },
-      {
-        "name": "Syarif Syarif",
-        "affiliation": "Division of Urology, Department of Surgery, Faculty of Medicine, Hasanuddin University, Makassar, Indonesia; Department of Urology, Hasanuddin University Hospital, Makassar, Indonesia. Electronic address: syarifbakri@hotmail.com."
-      },
-      {
-        "name": "Khoirul Kholis",
-        "affiliation": "Division of Urology, Department of Surgery, Faculty of Medicine, Hasanuddin University, Makassar, Indonesia; Department of Uro-Nephrology, Wahidin Sudirohusodo Hospital, Makassar, Indonesia. Electronic address: khoirulkholis@yahoo.com."
-      },
-      {
-        "name": "Abdul Azis",
-        "affiliation": "Division of Urology, Department of Surgery, Faculty of Medicine, Hasanuddin University, Makassar, Indonesia; Department of Urology, Hasanuddin University Hospital, Makassar, Indonesia. Electronic address: abdul.azis031@gmail.com."
-      }
-    ],
-    "journal": "Journal of pediatric urology",
-    "publishedDate": "2026-09-01",
-    "fetchedDate": "2026-09-01",
-    "category": "Pediatria",
-    "tags": [
-      "pediatric",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42501509",
-    "pmid": "42501509",
-    "doi": "10.1016/j.archger.2026.106361",
-    "title": "Joint association of metabolic syndrome and low handgrip strength with incident stroke in middle-aged and older adults: findings from the CHARLS cohort.",
-    "titlePt": "Joint association of metabolic syndrome and low handgrip strength with incident stroke in middle-aged and older adults: findings from the CHARLS cohort.",
-    "abstract": "Metabolic syndrome (MetS) and low handgrip strength (HGS) are each associated with cardiovascular disease, but their joint association with incident stroke remains unclear. We examined the combined and independent associations of MetS and low HGS with incident stroke. We analyzed 6200 participants aged &#x2265;50 years from the China Health and Retirement Longitudinal Study. Low HGS was defined by AWGS 2025 criteria; MetS was defined by NCEP ATP III criteria with updated Chinese-specific waist circumference thresholds. Participants were classified into four groups. Incident stroke was identified by self-reported physician diagnosis during follow-up. Stabilized inverse probability weighting was used to balance covariates. Cox models estimated hazard ratios (HRs) with additive and multiplicative interaction tests. After weighting, low HGS alone was not significantly associated with stroke (HR 1.262, 95% CI 0.910-1.751). MetS alone (HR 1.928, 1.606-2.315) and the joint exposure (HR 2.048,",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nA combinação de síndrome metabólica (MetS) e baixa força de preensão palmar (HGS, do inglês *handgrip strength*) está associada a um maior risco de acidente vascular cerebral (AVC) em adultos de meia-idade e idosos, sugere estudo publicado no *Archives of Gerontology and Geriatrics*. A pesquisa analisou dados de 6.200 participantes com 50 anos ou mais do *China Health and Retirement Longitudinal Study (CHARLS)*, classificando-os em quatro grupos conforme a presença ou ausência de MetS — definida pelos critérios do NCEP ATP III com ajustes específicos para circunferência abdominal em população chinesa — e baixa HGS, segundo os padrões da AWGS 2025.\n\nOs resultados indicam que, após ajuste por ponderação de probabilidade inversa para balancear covariáveis, a MetS isolada esteve significativamente associada a um aumento de 92,8% no risco de AVC (HR 1,928; IC 95% 1,606–2,315). A exposição conjunta de MetS e baixa HGS elevou ainda mais o risco, com um aumento de 104,8% (HR 2,048; IC 95% não informado no resumo). Curiosamente, a baixa HGS isolada não apresentou associação significativa com o desfecho (HR 1,262; IC 95% 0,910–1,751), sugerindo que o impacto combinado desses fatores é maior do que a soma de seus efeitos individuais.\n\nOs autores destacam que a identificação precoce de indivíduos com MetS e redução da força muscular — mensurada por HGS — poderia permitir intervenções preventivas mais eficazes. Embora o estudo utilize uma coorte representativa da população chinesa, os achados podem não ser diretamente generalizáveis a outras etnias ou regiões. Além disso, a dependência de diagnósticos autorrelatados de AVC e a ausência de dados sobre a gravidade dos episódios limitam a interpretação dos resultados. Pesquisas futuras devem explorar mecanismos fisiopatológicos subjacentes e avaliar intervenções direcionadas a esses fatores de risco combinados.\n\n---\n\n**English version**\n\nThe combined presence of metabolic syndrome (MetS) and low handgrip strength (HGS) is associated with an increased risk of incident stroke among middle-aged and older adults, according to findings published in *Archives of Gerontology and Geriatrics*. The study analyzed data from 6,200 participants aged 50 years or older from the *China Health and Retirement Longitudinal Study (CHARLS)*, categorizing them into four groups based on the presence or absence of MetS — defined using NCEP ATP III criteria with Chinese-specific waist circumference adjustments — and low HGS, as per AWGS 2025 standards.\n\nAfter applying stabilized inverse probability weighting to balance covariates, MetS alone was significantly associated with a 92.8% higher risk of stroke (HR 1.928; 95% CI 1.606–2.315). The joint exposure to both MetS and low HGS further elevated the risk, showing a 104.8% increase (HR 2.048; 95% CI not reported in the abstract). Notably, low HGS alone did not show a significant association with incident stroke (HR 1.262; 95% CI 0.910–1.751), suggesting that the combined effect of these factors exceeds the sum of their individual impacts.\n\nThe authors emphasize that early identification of individuals with both MetS and reduced muscle strength — assessed via HGS — could facilitate more targeted preventive interventions. While the study leverages a representative cohort from China, the findings may not be directly generalizable to other ethnic or regional populations. Additionally, the reliance on self-reported physician-diagnosed stroke and the lack of data on stroke severity limit the interpretation of results. Future research should investigate the underlying pathophysiological mechanisms and evaluate interventions targeting these combined risk factors.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501509",
-    "authors": [
-      {
-        "name": "Peiling Ke",
-        "affiliation": "Department of Ophthalmology, The First Affiliated Hospital of Shantou University Medical College, Shantou, Guangdong, China."
-      },
-      {
-        "name": "Da Chen",
-        "affiliation": "Department of Critical Care Medicine, Ward 3, The First Affiliated Hospital of Shantou University Medical College, Shantou, Guangdong, China. Electronic address: 1345109467@qq.com."
-      },
-      {
-        "name": "Linjie Su",
-        "affiliation": "Department of Geriatrics, The First Affiliated Hospital of Shantou University Medical College, Shantou, Guangdong, China. Electronic address: darinple123@163.com."
-      }
-    ],
-    "journal": "Archives of gerontology and geriatrics",
-    "publishedDate": "2026-08-31",
-    "fetchedDate": "2026-09-01",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "stroke",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
