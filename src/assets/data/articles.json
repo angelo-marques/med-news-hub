@@ -1,5 +1,86 @@
 [
   {
+    "id": "pubmed-43037851",
+    "pmid": "43037851",
+    "doi": "10.1007/s12020-026-04860-9",
+    "title": "Metabolic-reproductive axis in normogonadotropic anovulation: a comparative study of polycystic ovary syndrome and hypothalamic-pituitary-ovarian dysfunction.",
+    "titlePt": "Metabolic-reproductive axis in normogonadotropic anovulation: a comparative study of polycystic ovary syndrome and hypothalamic-pituitary-ovarian dysfunction.",
+    "abstract": "To compare hormonal and metabolic profiles in women with polycystic ovary syndrome (PCOS) and hypothalamic-pituitary-ovarian dysfunction (HPOD), with particular emphasis on kisspeptin and ghrelin concentrations and on PCOS subsets characterized by hyperandrogenemia (HA), insulin resistance (IR), and obesity. The prospective study involved women aged 18-45 with menstrual irregularities. Participants underwent gynecological evaluations, including pelvic ultrasound, and biochemical serum analyses to assess hormonal and metabolic parameters. Kisspeptin (p&#x2009;=&#x2009;0.003) and ghrelin (p&#x2009;=&#x2009;0.006) concentrations were significantly higher in PCOS than in HPOD. Distinct hormonal and metabolic profiles characterized PCOS, HPOD, and PCOS phenotypes. In PCOS, kisspeptin concentrations were higher in women with IR (p&#x2009;&lt;&#x2009;0.001) and HA (p&#x2009;=&#x2009;0.003), whereas ghrelin concentrations did not differ by IR (p&#x2009;=&#x2009;0.611) or HA (p&#x2009;=&#x2009;",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43037851",
+    "authors": [
+      {
+        "name": "Justyna Brodowicz",
+        "affiliation": "Faculty of Medicine, Chair of Clinical Biochemistry, Jagiellonian University Medical College, Skawinska 8, Krakow, 31-066, Poland."
+      },
+      {
+        "name": "Bogdan Solnica",
+        "affiliation": "Faculty of Medicine, Chair of Clinical Biochemistry, Jagiellonian University Medical College, Skawinska 8, Krakow, 31-066, Poland."
+      },
+      {
+        "name": "Iwona Gawron",
+        "affiliation": "Faculty of Medicine, Chair of Gynecology and Obstetrics, Jagiellonian University Medical College, Kopernika 23, Krakow, 31-501, Poland. iwona.gawron@uj.edu.pl."
+      }
+    ],
+    "journal": "Endocrine",
+    "publishedDate": "2026-11-16",
+    "fetchedDate": "2026-11-16",
+    "category": "Endocrinologia",
+    "tags": [
+      "gene",
+      "insulin",
+      "metabolic",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9bZEJZ-2kFHot-a5ba270a5b1c1568\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 7d91390a-a4fa-4af4-97b3-e7109d4aa8a4)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42782317",
+    "pmid": "42782317",
+    "doi": "10.1007/s00787-026-03192-3",
+    "title": "CBT and pharmacotherapy after nonresponse for anxiety and obsessive-compulsive disorders in youth: a systematic review and meta-analysis.",
+    "titlePt": "CBT and pharmacotherapy after nonresponse for anxiety and obsessive-compulsive disorders in youth: a systematic review and meta-analysis.",
+    "abstract": "Approximately half of children with anxiety disorder(s) or obsessive-compulsive disorder (OCD) derive insufficient benefit from first-step evidence-based treatments, including cognitive behavioural therapy (CBT) and pharmacotherapy. Few studies have examined second-step treatment options, and clinical guidelines offer limited direction on subsequent care. This systematic review and meta-analysis synthesises current evidence on interventions for children and adolescents with anxiety disorders or OCD, who showed insufficient response to prior evidence-based treatment. We examined how studies operationalised partial response and non-response, which second-step treatments were provided, and the efficacy of second-step treatments. Five databases were systematically searched up to 21 March 2025, and 40 studies with 49 treatment arms (N&#x2009;=&#x2009;1,373) were included, most of which were uncontrolled (k&#x2009;=&#x2009;35 of 40 studies) and were identified as a high risk of bias. There w",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42782317",
+    "authors": [
+      {
+        "name": "Colin O W Ganzevoort",
+        "affiliation": "Faculty of Behavioural and Social Sciences, Department of Clinical Psychology and Experimental Psychopathology, University of Groningen, Groningen, the Netherlands. C.O.W.Ganzevoort@rug.nl."
+      },
+      {
+        "name": "Rianne Hornstra",
+        "affiliation": "Accare Child Study Center, Groningen, the Netherlands. C.O.W.Ganzevoort@rug.nl."
+      },
+      {
+        "name": "Lidewij H Wolters",
+        "affiliation": "Faculty of Behavioural and Social Sciences, Department of Clinical Psychology and Experimental Psychopathology, University of Groningen, Groningen, the Netherlands."
+      },
+      {
+        "name": "Cecilie Schultz Isaksen",
+        "affiliation": "Accare Child Study Center, Groningen, the Netherlands."
+      }
+    ],
+    "journal": "European child &amp; adolescent psychiatry",
+    "publishedDate": "2026-11-16",
+    "fetchedDate": "2026-11-16",
+    "category": "Neurologia",
+    "tags": [
+      "cognitive",
+      "anxiety",
+      "children"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9bZm5x-2kFHot-a5ba29919dcdacec\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 400e4b5d-b64a-4541-9a5b-07cdc4952958)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43036135",
     "pmid": "43036135",
     "doi": "10.1002/mbo3.70455",
@@ -12236,95 +12317,6 @@
     ],
     "isHighlight": false,
     "readTime": 5,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42678477",
-    "pmid": "42678477",
-    "doi": "10.1007/s11596-026-00245-1",
-    "title": "Targeting&#xa0;GLUTs in Cancer: Mechanisms, Combination Strategies, and Translational Challenges.",
-    "titlePt": "Targeting&#xa0;GLUTs in Cancer: Mechanisms, Combination Strategies, and Translational Challenges.",
-    "abstract": "Cancer cells exhibit metabolic reprogramming, most notably the Warburg effect, which underscores their heightened dependency on glucose uptake facilitated by glucose transporters (GLUTs). While targeting GLUTs holds promise for disrupting tumor metabolism, monotherapeutic inhibition often leads to compensatory resistance mechanisms, metabolic plasticity, and dose-limiting toxicity. This review comprehensively examines the rationale and mechanisms underlying combined strategies that integrate GLUT inhibitors with conventional chemotherapy, targeted therapy, immunotherapy, and radiotherapy. Such combinations exploit synthetic lethality, reverse immunosuppression, enhance DNA damage, and overcome adaptive resistance. We also discuss emerging approaches such as isoform-specific inhibitors, nanocarrier-based delivery, and artificial intelligence-guided combination design to improve selectivity and efficacy. Finally, we highlight key translational challenges and discuss how cross-disease ins",
-    "journalisticSummary": "O metabolismo das células tumorais é profundamente alterado em comparação às células saudáveis, um fenômeno conhecido como reprogramação metabólica, no qual se destaca o efeito Warburg. Esse processo confere às células cancerígenas uma dependência aumentada de captação de glicose, mediada principalmente pelos transportadores de glicose (GLUTs). Embora a inibição desses transportadores seja uma estratégia promissora para interromper o metabolismo tumoral, abordagens monoterápicas geralmente resultam em mecanismos de resistência compensatória, plasticidade metabólica e toxicidade limitante de dose. Neste estudo de revisão publicado na *Acta Pharmacologica Sinica*, pesquisadores analisam as bases racionais e os mecanismos por trás de estratégias combinadas que integram inibidores de GLUTs com quimioterapia convencional, terapia-alvo, imunoterapia e radioterapia. Essas combinações exploram a letalidade sintética, revertem a imunossupressão tumoral, potencializam danos ao DNA e superam resistências adaptativas. Além disso, são discutidas abordagens emergentes, como inibidores isoforma-específicos, sistemas de entrega por nanocarreadores e desenho de combinações guiado por inteligência artificial, visando aprimorar a seletividade e eficácia terapêutica. O trabalho também aborda os principais desafios translacionais, incluindo a falta de biomarcadores preditivos robustos e a heterogeneidade tumoral, que dificultam a aplicação clínica dessas estratégias. Por fim, são propostas perspectivas para estudos futuros, como a integração de dados multiômicos e modelos pré-clínicos mais refinados, essenciais para viabilizar terapias personalizadas baseadas no metabolismo tumoral.\n\n---\n\nTargeting glucose transporters (GLUTs) in cancer represents a compelling yet complex strategy, rooted in the metabolic reprogramming of tumor cells—most prominently the Warburg effect—which drives an increased reliance on glucose uptake. While monotherapeutic inhibition of GLUTs shows theoretical promise in disrupting tumor metabolism, it often triggers compensatory resistance pathways, metabolic plasticity, and dose-limiting toxicities. A comprehensive review published in *Acta Pharmacologica Sinica* evaluates the rationale and mechanisms behind combination therapies that pair GLUT inhibitors with conventional chemotherapy, targeted therapy, immunotherapy, and radiotherapy. These combinations leverage synthetic lethality, reversal of tumor-induced immunosuppression, enhancement of DNA damage, and overcoming adaptive resistance. The authors also explore emerging approaches, including isoform-specific inhibitors, nanocarrier-based drug delivery systems, and artificial intelligence-driven combination design to improve therapeutic selectivity and efficacy. Key translational challenges are highlighted, such as the absence of reliable predictive biomarkers and tumor heterogeneity, which hinder clinical implementation. The review concludes with forward-looking perspectives, emphasizing the need for multi-omic data integration and more robust preclinical models to advance precision oncology strategies centered on metabolic vulnerabilities.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42678477",
-    "authors": [
-      {
-        "name": "Mei-Na Shi",
-        "affiliation": "State Key Laboratory of Mechanism and Quality of Chinese Medicine and Faculty of Chinese Medicine, Macau University of Science and Technology, Macau SAR, 999078, China."
-      },
-      {
-        "name": "Dong-Fan Yang",
-        "affiliation": "Zhuhai MUST Science and Technology Research Institute, Macau University of Science and Technology, Hengqin Guangdong-Macao In-Depth Cooperation Zone, Zhuhai, 519099, China."
-      },
-      {
-        "name": "Tong Chu",
-        "affiliation": "State Key Laboratory of Mechanism and Quality of Chinese Medicine and Faculty of Chinese Medicine, Macau University of Science and Technology, Macau SAR, 999078, China."
-      },
-      {
-        "name": "Da-Yuan Zheng",
-        "affiliation": "Zhuhai MUST Science and Technology Research Institute, Macau University of Science and Technology, Hengqin Guangdong-Macao In-Depth Cooperation Zone, Zhuhai, 519099, China."
-      }
-    ],
-    "journal": "Current medical science",
-    "publishedDate": "2026-09-01",
-    "fetchedDate": "2026-09-01",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "chemotherapy",
-      "immunotherapy",
-      "dna"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41307125",
-    "pmid": "41307125",
-    "doi": "10.3324/haematol.2025.288303",
-    "title": "Hematopoietic cell transplantation after CD19-directed CAR T-cell therapy for remission consolidation or relapse treatment in pediatric acute lymphoblastic leukemia.",
-    "titlePt": "Hematopoietic cell transplantation after CD19-directed CAR T-cell therapy for remission consolidation or relapse treatment in pediatric acute lymphoblastic leukemia.",
-    "abstract": "Relapse of B-cell acute lymphoblastic leukemia (B-ALL) after CD19-targeted chimeric antigen receptor T-cell therapy (CAR19) remains a substantial challenge. Allogeneic hematopoietic cell transplant (HCT) represents an approach for both post-CAR19 relapse prevention and relapse therapy. However, there is a paucity of detailed HCT safety and outcome data in this population. We conducted a retrospective review of 47 children and young adults with B-ALL who underwent first HCT for post-CAR19 remission consolidation (preemptive cohort, N=26) or relapse therapy (relapse cohort, N=21). With a median follow-up of 4.1 years, 3-year disease-free survival was 90% in the preemptive cohort and 64% in the relapse cohort. Overall survival, cumulative incidence of relapse, and non-relapse mortality at 3 years were 95%, 5%, and 5%, respectively, in the preemptive cohort and 67%, 20%, and 15%, repectively, in the relapse cohort. The cumulative incidence of grade 3-4 acute graft-versus-host disease (GvHD",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo publicado no *Haematologica* destaca o papel da transplante alogênico de células-tronco hematopoiéticas (TCTH) como estratégia de consolidação ou resgate após terapia com células T com receptor quimérico anti-CD19 (CAR19) em crianças e jovens adultos com leucemia linfoblástica aguda de células B (LLA-B). A pesquisa, que analisou 47 pacientes com seguimento mediano de 4,1 anos, revelou que a sobrevida livre de doença em três anos foi de 90% no grupo que recebeu TCTH de forma preventiva, em comparação a 64% naqueles tratados após recaída. A sobrevida global em três anos foi de 95% no primeiro grupo e 67% no segundo, enquanto a incidência cumulativa de recaída e mortalidade não relacionada à doença atingiu 5% e 5%, respectivamente, no grupo preventivo, contra 20% e 15% no grupo de resgate.\n\nOs resultados indicam que a abordagem preventiva — ou seja, o TCTH realizado enquanto o paciente ainda está em remissão molecular ou morfológica — está associada a desfechos significativamente melhores, com menor incidência de recaída e menor mortalidade não relacionada ao câncer. No entanto, o estudo não detalha critérios específicos para indicação do TCTH preventivo, como níveis de doença residual mínima ou perfil de risco dos pacientes, o que limita a generalização dos achados. Além disso, os dados não incluem informações sobre a duração da remissão pré-TCTH ou sobre possíveis efeitos adversos tardios, como doenças crônicas relacionadas ao enxerto.\n\nOs autores sugerem que o TCTH pode ser uma opção viável para pacientes pediátricos com LLA-B que apresentam resposta incompleta ou recaída após CAR19, mas destacam a necessidade de estudos prospectivos randomizados para validar protocolos otimizados, incluindo critérios de seleção e regimes de condicionamento. Esses achados reforçam a importância de uma abordagem multidisciplinar na estratificação de risco e no planejamento terapêutico pós-CAR19, visando maximizar a eficácia e minimizar a toxicidade.\n\n---\n\n**English version**\n\nA retrospective study published in *Haematologica* underscores the role of allogeneic hematopoietic stem cell transplantation (HSCT) as a consolidation or salvage strategy following CD19-directed chimeric antigen receptor T-cell (CAR19) therapy in children and young adults with B-cell acute lymphoblastic leukemia (B-ALL). The analysis, which evaluated 47 patients with a median follow-up of 4.1 years, found that 3-year disease-free survival was 90% in the preemptive cohort—those who underwent HSCT while still in remission—compared to 64% in the relapse cohort treated after disease recurrence. Overall survival at three years reached 95% in the preemptive group versus 67% in the relapse group, while the cumulative incidence of relapse and non-relapse mortality was 5% and 5%, respectively, in the preemptive cohort, compared to 20% and 15% in the relapse cohort.\n\nThe findings suggest that preemptive HSCT—administered during molecular or morphological remission—yields significantly better outcomes, with lower relapse rates and reduced non-relapse mortality. However, the study does not specify criteria for preemptive HSCT indications, such as minimal residual disease thresholds or patient risk stratification, limiting the generalizability of the results. Additionally, the data lack details on pre-HSCT remission duration or long-term adverse effects, such as chronic graft-versus-host disease manifestations.\n\nThe authors propose that HSCT may be a viable option for pediatric B-ALL patients with incomplete response or relapse post-CAR19, but emphasize the need for randomized prospective trials to validate optimized protocols, including selection criteria and conditioning regimens. These results highlight the importance of a multidisciplinary approach in risk stratification and post-CAR19 therapeutic planning to enhance efficacy while minimizing toxicity.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41307125",
-    "authors": [
-      {
-        "name": "Regina M Myers",
-        "affiliation": "Division of Oncology and Center for Childhood Cancer Research, Children's Hospital of Philadelphia, Philadelphia, PA; Department of Pediatrics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA. myersrm@chop.edu."
-      },
-      {
-        "name": "Yimei Li",
-        "affiliation": "Division of Oncology and Center for Childhood Cancer Research, Children's Hospital of Philadelphia, Philadelphia, PA; Department of Pediatrics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA; Department of Biostatistics, Epidemiology and Informatics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA."
-      },
-      {
-        "name": "Hongyan Liu",
-        "affiliation": "Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA."
-      },
-      {
-        "name": "Sarah Mumanachit",
-        "affiliation": "Department of Bone Marrow Transplantation and Cellular Therapy, St. Jude Children's Research Hospital, Memphis, TN."
-      }
-    ],
-    "journal": "Haematologica",
-    "publishedDate": "2026-09-01",
-    "fetchedDate": "2026-09-01",
-    "category": "Pediatria",
-    "tags": [
-      "leukemia",
-      "gene",
-      "pediatric",
-      "children"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
