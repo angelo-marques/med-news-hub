@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-43035145",
+    "pmid": "43035145",
+    "doi": "10.1016/j.avsg.2026.10.051",
+    "title": "Surgical Management of Thoracic Aortic Mural Thrombus: Operative Strategy and Early Outcomes in a Two-Decade Retrospective Single-Center Experience.",
+    "titlePt": "Surgical Management of Thoracic Aortic Mural Thrombus: Operative Strategy and Early Outcomes in a Two-Decade Retrospective Single-Center Experience.",
+    "abstract": "Thoracic aortic mural thrombus (TAMT) is a rare but life-threatening condition due to the risk of systemic embolization. In this single-center retrospective surgical case series, we evaluated perioperative management, operative strategy and outcomes after surgical thrombectomy for TAMT, a condition with limited evidence and no established treatment standard. Between 2004 and 2025, 14 patients (median age 57.5 years; 9 male) underwent open thrombectomy for TAMT at our institution. TAMT was defined as an intraluminal, imaging-confirmed thrombus attached to a non-aneurysmal and non-dissected aortic wall without identifiable cardiac or proximal embolic source. Acute systemic embolization represented the first clinical manifestation in the majority of patients, including stroke (n = 6), limb ischemia (n = 6) and visceral ischemia (n = 2). Thrombus localization included the ascending aorta (n=1), aortic arch (n=6), combined ascending aorta and arch (n=5), arch and descending thoracic aorta (",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43035145",
+    "authors": [
+      {
+        "name": "Christian Burgard",
+        "affiliation": "Department of Cardiac Surgery, University Hospital Heidelberg, Im Neuenheimer Feld 420, 69120 Heidelberg, Germany. Electronic address: christian.burgard@med.uni-heidelberg.de."
+      },
+      {
+        "name": "Gabriele Romano",
+        "affiliation": "Department of Cardiac Surgery, University Hospital Heidelberg, Im Neuenheimer Feld 420, 69120 Heidelberg, Germany."
+      },
+      {
+        "name": "Joshua Jahn",
+        "affiliation": "Department of Cardiac Surgery, University Hospital Heidelberg, Im Neuenheimer Feld 420, 69120 Heidelberg, Germany."
+      },
+      {
+        "name": "Antonia Lange",
+        "affiliation": "Department of Cardiac Surgery, University Hospital Heidelberg, Im Neuenheimer Feld 420, 69120 Heidelberg, Germany."
+      }
+    ],
+    "journal": "Annals of vascular surgery",
+    "publishedDate": "2026-11-15",
+    "fetchedDate": "2026-11-16",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9YtE5a-2kFHot-a5b744aecf0cac05\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: eebc0900-c45a-44eb-a6ad-b8c00bd185a6)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43026662",
     "pmid": "43026662",
     "doi": "10.1001/jama.2026.24689",
@@ -12281,48 +12322,6 @@
     ],
     "isHighlight": false,
     "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42669978",
-    "pmid": "42669978",
-    "doi": "10.1002/clc.70459",
-    "title": "Safety and Efficacy of Pulsed-Field Ablation With a Pentaspline Ablation Catheter Versus Cryoablation for Atrial Fibrillation: A Systematic Review and Meta-Analysis.",
-    "titlePt": "Safety and Efficacy of Pulsed-Field Ablation With a Pentaspline Ablation Catheter Versus Cryoablation for Atrial Fibrillation: A Systematic Review and Meta-Analysis.",
-    "abstract": "Pulsed-field ablation (PFA) is an emerging technology for atrial fibrillation (AF) ablation. However, there is few studies comparing the clinical advantages and disadvantages of PFA and cryoballoon ablation (CBA). This study aimed to perform a comprehensive meta-analysis to evaluate the efficacy and safety of PFA using a pentaspline ablation catheter compared with CBA for treating AF. This study was registered in the International Prospective Register of Systematic Reviews (ID: CRD420251061599). Studies comparing PFA using a pentaspline ablation catheter with CBA for pulmonary vein isolation (PVI) were systematically searched from database inception to March 2025. Six trials involving 2024 patients were included. No significant difference was observed in atrial tachyarrhythmia recurrence between PFA and CBA (OR)&#x2009;=&#x2009;0.71; 95% confidence interval (CI): 0.48 to 1.06). However, in patients with paroxysmal AF, the PFA group exhibited a lower incidence of AT recurrence (OR&#x200",
-    "journalisticSummary": "No cenário atual das terapias de ablação para fibrilação atrial (FA), a ablação por campo pulsado (PFA) surge como uma alternativa promissora à tradicional ablação por criobalão (CBA), embora ainda faltem evidências robustas comparando ambas as técnicas. Um estudo recentemente publicado no *Clinical Cardiology* realizou uma meta-análise sistemática para avaliar a eficácia e segurança da PFA — utilizando um cateter pentaspline — em comparação com a CBA para isolamento das veias pulmonares (PVI). A partir de uma busca abrangente em bases de dados até março de 2025, seis ensaios clínicos envolvendo 2.024 pacientes foram incluídos na análise. Os resultados indicaram que não houve diferença significativa na recorrência de taquiarritmias atriais entre os grupos PFA e CBA (OR = 0,71; IC 95%: 0,48–1,06). Contudo, em pacientes com FA paroxística, a PFA demonstrou uma redução estatisticamente significativa na recorrência de arritmias atriais (OR não informado no resumo original), sugerindo um potencial benefício nesse subgrupo. Quanto à segurança, os dados sugerem perfis semelhantes entre as técnicas, embora a heterogeneidade dos estudos incluídos e o número limitado de participantes imponham cautela na interpretação. Os autores destacam a necessidade de ensaios randomizados de maior porte e acompanhamento prolongado para validar esses achados e elucidar possíveis vantagens clínicas da PFA, especialmente em cenários específicos de FA. Enquanto a PFA representa uma inovação tecnológica com potencial para simplificar procedimentos de ablação, a ausência de diferenças consistentes em desfechos primários reforça a importância de estudos futuros para definir seu papel exato na prática clínica.\n\n---\n\nIn the rapidly evolving field of atrial fibrillation (AF) ablation therapies, pulsed-field ablation (PFA) has emerged as a promising alternative to traditional cryoballoon ablation (CBA), though robust comparative evidence remains limited. A recent study published in *Clinical Cardiology* conducted a systematic meta-analysis to assess the efficacy and safety of PFA using a pentaspline catheter compared to CBA for pulmonary vein isolation (PVI). Through a comprehensive database search up to March 2025, six clinical trials involving 2,024 patients were included. The findings revealed no significant difference in atrial tachyarrhythmia recurrence between PFA and CBA groups (OR = 0.71; 95% CI: 0.48–1.06). However, in patients with paroxysmal AF, the PFA group exhibited a statistically significant lower incidence of atrial arrhythmia recurrence (OR not reported in the original abstract), indicating a potential advantage in this subgroup. Safety profiles appeared comparable between techniques, though heterogeneity among included studies and the limited sample size warrant cautious interpretation. The authors emphasize the need for larger randomized trials with extended follow-up to validate these findings and clarify the clinical advantages of PFA, particularly in specific AF scenarios. While PFA represents a technological innovation with the potential to streamline ablation procedures, the lack of consistent differences in primary outcomes underscores the necessity for further research to define its precise role in clinical practice.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42669978",
-    "authors": [
-      {
-        "name": "Yi Cai",
-        "affiliation": "The Fourth School of Clinical Medicine, Zhejiang Chinese Medical University, Hangzhou First People's Hospital, Hangzhou, Zhejiang Province, China."
-      },
-      {
-        "name": "Hao Chen",
-        "affiliation": "The Fourth School of Clinical Medicine, Zhejiang Chinese Medical University, Hangzhou First People's Hospital, Hangzhou, Zhejiang Province, China."
-      },
-      {
-        "name": "Miao-Fu Li",
-        "affiliation": "Department of Cardiology, Affiliated Hangzhou First People's Hospital, School of Medicine, Westlake University, Hangzhou, Zhejiang Province, China."
-      },
-      {
-        "name": "Yi-Zhou Xu",
-        "affiliation": "Department of Cardiology, Affiliated Hangzhou First People's Hospital, School of Medicine, Westlake University, Hangzhou, Zhejiang Province, China."
-      }
-    ],
-    "journal": "Clinical cardiology",
-    "publishedDate": "2026-08-31",
-    "fetchedDate": "2026-09-01",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
