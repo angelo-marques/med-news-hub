@@ -12073,6 +12073,50 @@
     "aiProvider": "Mistral"
   },
   {
+    "id": "pubmed-42678477",
+    "pmid": "42678477",
+    "doi": "10.1007/s11596-026-00245-1",
+    "title": "Targeting&#xa0;GLUTs in Cancer: Mechanisms, Combination Strategies, and Translational Challenges.",
+    "titlePt": "Targeting&#xa0;GLUTs in Cancer: Mechanisms, Combination Strategies, and Translational Challenges.",
+    "abstract": "Cancer cells exhibit metabolic reprogramming, most notably the Warburg effect, which underscores their heightened dependency on glucose uptake facilitated by glucose transporters (GLUTs). While targeting GLUTs holds promise for disrupting tumor metabolism, monotherapeutic inhibition often leads to compensatory resistance mechanisms, metabolic plasticity, and dose-limiting toxicity. This review comprehensively examines the rationale and mechanisms underlying combined strategies that integrate GLUT inhibitors with conventional chemotherapy, targeted therapy, immunotherapy, and radiotherapy. Such combinations exploit synthetic lethality, reverse immunosuppression, enhance DNA damage, and overcome adaptive resistance. We also discuss emerging approaches such as isoform-specific inhibitors, nanocarrier-based delivery, and artificial intelligence-guided combination design to improve selectivity and efficacy. Finally, we highlight key translational challenges and discuss how cross-disease ins",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42678477",
+    "authors": [
+      {
+        "name": "Mei-Na Shi",
+        "affiliation": "State Key Laboratory of Mechanism and Quality of Chinese Medicine and Faculty of Chinese Medicine, Macau University of Science and Technology, Macau SAR, 999078, China."
+      },
+      {
+        "name": "Dong-Fan Yang",
+        "affiliation": "Zhuhai MUST Science and Technology Research Institute, Macau University of Science and Technology, Hengqin Guangdong-Macao In-Depth Cooperation Zone, Zhuhai, 519099, China."
+      },
+      {
+        "name": "Tong Chu",
+        "affiliation": "State Key Laboratory of Mechanism and Quality of Chinese Medicine and Faculty of Chinese Medicine, Macau University of Science and Technology, Macau SAR, 999078, China."
+      },
+      {
+        "name": "Da-Yuan Zheng",
+        "affiliation": "Zhuhai MUST Science and Technology Research Institute, Macau University of Science and Technology, Hengqin Guangdong-Macao In-Depth Cooperation Zone, Zhuhai, 519099, China."
+      }
+    ],
+    "journal": "Current medical science",
+    "publishedDate": "2026-09-01",
+    "fetchedDate": "2026-11-17",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "chemotherapy",
+      "immunotherapy",
+      "dna"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9cxrP5-2kFHot-a5bbabd84eedbe4c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 837c11f8-0917-47cb-aefb-2d8612a3f5b0)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42677929",
     "pmid": "42677929",
     "doi": "10.1080/17568919.2026.2726194",
@@ -12276,47 +12320,6 @@
     ],
     "isHighlight": false,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42495803",
-    "pmid": "42495803",
-    "doi": "10.1111/acps.70129",
-    "title": "The Bergen 4-Day OCD Treatment: A Comprehensive Scoping Review of Evidence and Implementation.",
-    "titlePt": "The Bergen 4-Day OCD Treatment: A Comprehensive Scoping Review of Evidence and Implementation.",
-    "abstract": "Obsessive-compulsive disorder (OCD) affects 1%-3% of the population, significantly impairing daily functioning and quality of life. Traditional treatments, including cognitive behavioral therapy (CBT) and selective serotonin reuptake inhibitors (SSRIs), often face implementation challenges. This scoping review explores the efficacy and effectiveness of the Bergen 4-Day OCD Treatment (B4DT) across various populations and clinical settings. A systematic search was conducted for studies published between 2005 and 2025, focusing on the B4DT's outcomes, patient satisfaction, and treatment acceptability. The PCC framework guided the development of the inclusion and exclusion criteria. Twelve studies met the inclusion criteria, demonstrating a reduction in OCD symptoms, high response and remission rates, and strong patient satisfaction. Long-term follow-up indicated durable treatment effects, with minimal relapse. The Bergen 4-Day Treatment is a viable frontline option for OCD management, war",
-    "journalisticSummary": "O Transtorno Obsessivo-Compulsivo (TOC) afeta entre 1% e 3% da população global, comprometendo significativamente o funcionamento diário e a qualidade de vida. Embora terapias convencionais, como a Terapia Cognitivo-Comportamental (TCC) e os inibidores seletivos de recaptação de serotonina (ISRS), sejam consideradas padrão-ouro, sua implementação enfrenta barreiras como acesso limitado, custos elevados e demora na resposta clínica. Uma revisão sistemática do tipo *scoping review*, publicada no *Acta Psychiatrica Scandinavica*, analisou a eficácia e a viabilidade do tratamento Bergen 4-Day (B4DT) — uma abordagem intensiva de curta duração — com base em 12 estudos publicados entre 2005 e 2025. Os resultados indicam que o B4DT reduz sintomas de TOC de forma consistente, com taxas elevadas de resposta (superiores a 70% em muitos casos) e remissão, além de altos índices de satisfação do paciente. Estudos de seguimento longitudinal sugerem que os benefícios persistem com baixa taxa de recaída, mesmo após anos da intervenção inicial. A abordagem destaca-se por sua eficiência operacional — concentrando sessões em quatro dias intensivos —, o que pode mitigar desafios de adesão e reduzir custos associados a tratamentos prolongados. Embora a maioria dos estudos inclua adultos, há evidências preliminares de eficácia em adolescentes, embora dados específicos sobre populações pediátricas permaneçam limitados. Entre as limitações identificadas estão a heterogeneidade dos protocolos adotados nos estudos e a ausência de comparações diretas com outras terapias de exposição intensiva. Pesquisas futuras devem priorizar ensaios clínicos randomizados com amostras maiores, avaliação de custos-efetividade em diferentes sistemas de saúde e investigação de fatores preditivos de resposta ao tratamento.\n\n---\n\nThe Obsessive-Compulsive Disorder (OCD) affects 1% to 3% of the global population, significantly impairing daily functioning and quality of life. While conventional therapies, such as Cognitive Behavioral Therapy (CBT) and selective serotonin reuptake inhibitors (SSRIs), remain the gold standard, their implementation faces barriers including limited access, high costs, and delayed clinical response. A *scoping review* published in *Acta Psychiatrica Scandinavica* evaluated the efficacy and feasibility of the Bergen 4-Day Treatment (B4DT) — an intensive short-term approach — based on 12 studies published between 2005 and 2025. Findings indicate that B4DT consistently reduces OCD symptoms, achieving high response rates (exceeding 70% in many cases) and remission, alongside high patient satisfaction. Longitudinal follow-up studies suggest durable treatment effects with low relapse rates, even years after initial intervention. The approach stands out for its operational efficiency — condensing sessions into four intensive days — which may address adherence challenges and reduce costs associated with prolonged treatments. While most studies focus on adults, preliminary evidence suggests efficacy in adolescents, though specific data on pediatric populations remains limited. Identified limitations include heterogeneity in study protocols and a lack of direct comparisons with other intensive exposure therapies. Future research should prioritize randomized controlled trials with larger sample sizes, cost-effectiveness assessments across healthcare systems, and investigations into predictive factors of treatment response.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42495803",
-    "authors": [
-      {
-        "name": "Mohammed Qutishat",
-        "affiliation": "Department of Nursing, College of Science and Humanities, Fahad Bin Sultan University, Tabuk, Saudi Arabia."
-      },
-      {
-        "name": "Mohammed Albalushi",
-        "affiliation": "Department of Emergency Psychiatry, Al Masarra Hospital, Ministry of Health, Muscat, Oman."
-      },
-      {
-        "name": "Loai Abu Sharour",
-        "affiliation": "College of Nursing, Al Ain University, Abu Dhabi, UAE."
-      },
-      {
-        "name": "Mohammed Al Alawi",
-        "affiliation": "Department of Behavioral Medicine, College of Medicine and Health Science, Sultan Qaboos University, Muscat, Oman."
-      }
-    ],
-    "journal": "Acta psychiatrica Scandinavica",
-    "publishedDate": "2026-09-01",
-    "fetchedDate": "2026-09-01",
-    "category": "Neurologia",
-    "tags": [
-      "cognitive"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
