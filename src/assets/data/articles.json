@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-43028158",
+    "pmid": "43028158",
+    "doi": "10.3390/ijms27219915",
+    "title": "DNA Glycosylases in Noncancer Diseases: Oxidative Lesion Recognition, Repair Intermediates, and Tissue Responses.",
+    "titlePt": "DNA Glycosylases in Noncancer Diseases: Oxidative Lesion Recognition, Repair Intermediates, and Tissue Responses.",
+    "abstract": "Oxidative DNA damage in noncancer tissues can perturb transcription, compromise telomere integrity, and impair mitochondrial function. DNA glycosylases initiate base excision repair (BER), but their biological consequences also depend on lesion recognition, chromatin residence, catalytic processing, and the persistence or resolution of abasic sites and strand breaks. This review integrates structural and kinetic evidence with experimental models of inflammation, telomeric senescence, cardiometabolic disease, neurodegeneration, and neural injury. Promoter-associated 8-oxoguanine DNA glycosylase 1 (OGG1) can either promote inflammatory transcription or restrict antiviral interferon expression in a locus-dependent manner. At oxidatively damaged telomeres in human fibroblasts, OGG1 and mutY DNA glycosylase (MUTYH) drive acute senescence through repair intermediates, whereas during repeated injury, OGG1 supports telomere maintenance and MUTYH-dependent arrest limits chromosome instability. ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43028158",
+    "authors": [
+      {
+        "name": "Su-Jin Kang",
+        "affiliation": "College of Pharmacy, Dongduk Women's University, Seoul 02748, Republic of Korea."
+      },
+      {
+        "name": "Yubin Ko",
+        "affiliation": "College of Pharmacy, Graduate School of Pharmaceutical Sciences, Ewha Womans University, Seoul 03760, Republic of Korea."
+      },
+      {
+        "name": "Subin Cho",
+        "affiliation": "Graduate Program in Innovative Biomaterial Convergence, Ewha Womans University, Seoul 03760, Republic of Korea."
+      },
+      {
+        "name": "Sunbok Jang",
+        "affiliation": "College of Pharmacy, Graduate School of Industrial Pharmaceutical Science, Ewha Womans University, Seoul 03760, Republic of Korea."
+      }
+    ],
+    "journal": "International journal of molecular sciences",
+    "publishedDate": "2026-11-16",
+    "fetchedDate": "2026-11-17",
+    "category": "Genômica",
+    "tags": [
+      "cancer",
+      "neural",
+      "viral",
+      "gene",
+      "dna"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9gmVWA-2kFHot-a5bfc6dbae24b5d4\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: f715dfbd-7f3b-41eb-8cfb-d4a7989b95d9)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43040090",
     "pmid": "43040090",
     "doi": "10.1007/s00228-026-04202-8",
@@ -12278,47 +12322,6 @@
       "gene",
       "drug",
       "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42520488",
-    "pmid": "42520488",
-    "doi": "10.1016/j.jocn.2026.112217",
-    "title": "Clinical characteristics and outcomes of post-stroke seizures following reperfusion therapy: a retrospective single-center study.",
-    "titlePt": "Clinical characteristics and outcomes of post-stroke seizures following reperfusion therapy: a retrospective single-center study.",
-    "abstract": "Post-stroke seizures (PSS) are a recognized complication of ischemic stroke and may adversely affect functional outcomes and survival; however, their characteristics in patients receiving contemporary reperfusion therapy remain incompletely defined. We aimed to describe the clinical characteristics, treatment patterns, and outcomes of patients who developed PSS following reperfusion therapy and to compare early- and late-onset seizure subgroups. This single-center retrospective study included adult patients with acute ischemic stroke treated with intravenous thrombolysis (IV-tPA), mechanical thrombectomy (MT), or combined therapy between January 2020 and September 2025. Early seizures were defined as occurring within 7&#xa0;days of stroke onset. Clinical, radiological, and treatment-related variables were analyzed, and functional outcome was assessed using the modified Rankin Scale at 3&#xa0;months. Of 1242 patients who received reperfusion therapy, 53 (4.27&#xa0;%; 95&#xa0;% CI 3.28-5",
-    "journalisticSummary": "**Versão em Português Brasileiro**\n\nUm estudo retrospectivo de centro único, publicado recentemente, identificou que aproximadamente 4,27% dos pacientes submetidos a terapia de reperfusão para acidente vascular cerebral isquêmico agudo desenvolveram crises epilépticas pós-AVC (PSS), com uma distribuição temporal que permitiu a classificação entre crises precoces — dentro de sete dias do evento — e tardias. A pesquisa, conduzida entre janeiro de 2020 e setembro de 2025 e indexada no PubMed (DOI: 10.1016/j.jocn.2026.112217), analisou 1.242 adultos tratados com trombólise intravenosa (IV-tPA), trombectomia mecânica (MT) ou terapia combinada, destacando não apenas a incidência, mas também os padrões de tratamento e desfechos funcionais avaliados pela Escala de Rankin Modificada (mRS) após três meses.\n\nOs resultados revelaram que as crises precoces foram mais frequentes (62,3% dos casos), enquanto as tardias representaram 37,7%. Embora não tenha havido diferença significativa na mortalidade entre os grupos, pacientes com crises precoces apresentaram piores escores funcionais na avaliação de três meses, sugerindo um impacto mais adverso no processo de recuperação neurológica. Os fatores associados ao desenvolvimento de PSS incluíram maior extensão da lesão isquêmica na neuroimagem e a presença de hemorragia intracraniana sintomática pós-reperfusão, embora o estudo não tenha detalhado a distribuição desses achados entre os subgrupos. A ausência de um protocolo padronizado para manejo antiepiléptico pós-AVC limitou a análise comparativa entre os regimes terapêuticos empregados.\n\nAs limitações do estudo incluem seu delineamento retrospectivo e a origem em um único centro, o que pode restringir a generalização dos resultados. Além disso, não foram fornecidos dados sobre a etiologia específica das crises (epilépticas versus não epilépticas) ou a duração do acompanhamento além dos três meses. Os autores destacam a necessidade de estudos prospectivos multicêntricos para validar esses achados e avaliar estratégias de prevenção e tratamento otimizadas, especialmente em populações com perfis de risco distintos.\n\n---\n\n**English Version**\n\nA single-center retrospective study has found that approximately 4.27% of patients undergoing reperfusion therapy for acute ischemic stroke developed post-stroke seizures (PSS), with temporal distinctions allowing classification into early—occurring within seven days of stroke onset—and late-onset subgroups. Published between January 2020 and September 2025 and indexed in PubMed (DOI: 10.1016/j.jocn.2026.112217), the research analyzed 1,242 adults treated with intravenous thrombolysis (IV-tPA), mechanical thrombectomy (MT), or combined therapy, examining not only incidence but also treatment patterns and functional outcomes assessed using the modified Rankin Scale (mRS) at three months.\n\nFindings showed early seizures were more common, accounting for 62.3% of cases, while late-onset seizures represented 37.7%. Although no significant difference in mortality was observed between subgroups, patients with early seizures had worse functional scores at three months, indicating a potentially more adverse impact on neurological recovery. Factors associated with PSS development included larger ischemic lesion size on neuroimaging and the presence of symptomatic intracranial hemorrhage following reperfusion, though the study did not specify the distribution of these findings across subgroups. The absence of a standardized antiepileptic management protocol post-stroke limited comparative analysis of therapeutic regimens.\n\nLimitations include the retrospective design and single-center setting, which may constrain generalizability. Additionally, the study did not provide data on seizure etiology (epileptic versus non-epileptic) or follow-up beyond three months. The authors emphasize the need for prospective multicenter studies to validate these findings and assess optimized prevention and treatment strategies, particularly in distinct risk profiles.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42520488",
-    "authors": [
-      {
-        "name": "Ozden Kamisli",
-        "affiliation": "Department of Neurology, University of Health Sciences, Bursa Faculty of Medicine, Bursa City Hospital, Bursa, T&#xfc;rkiye."
-      },
-      {
-        "name": "Cemile Haki",
-        "affiliation": "Department of Neurology, University of Health Sciences, Bursa Faculty of Medicine, Bursa City Hospital, Bursa, T&#xfc;rkiye."
-      },
-      {
-        "name": "Aslihan Celik Akgun",
-        "affiliation": "Department of Neurology, University of Health Sciences, Bursa Faculty of Medicine, Bursa City Hospital, Bursa, T&#xfc;rkiye."
-      },
-      {
-        "name": "Merve Melodi Cakar",
-        "affiliation": "Department of Neurology, Clinical Neurophysiology Unit, University of Health Sciences, Bursa Faculty of Medicine, Bursa City Hospital, Bursa, T&#xfc;rkiye. Electronic address: mervemelodicakar@gmail.com."
-      }
-    ],
-    "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
-    "publishedDate": "2026-09-01",
-    "fetchedDate": "2026-09-02",
-    "category": "Neurologia",
-    "tags": [
-      "stroke"
     ],
     "isHighlight": false,
     "readTime": 9,
