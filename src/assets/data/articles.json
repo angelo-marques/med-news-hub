@@ -1,5 +1,90 @@
 [
   {
+    "id": "pubmed-43040090",
+    "pmid": "43040090",
+    "doi": "10.1007/s00228-026-04202-8",
+    "title": "Impact of exogenous nicotinamide adenine dinucleotide and its precursors supplementation in adults with heart failure: a systematic review and meta-analysis of randomized controlled trials.",
+    "titlePt": "Impact of exogenous nicotinamide adenine dinucleotide and its precursors supplementation in adults with heart failure: a systematic review and meta-analysis of randomized controlled trials.",
+    "abstract": "Mitochondrial dysfunction and NAD&#x207a; depletion contribute to heart failure (HF), but trials of NAD&#x207a; and nicotinamide riboside (NR) have shown inconsistent results. We systematically evaluated their effects on cardiac function, biomarkers, clinical outcomes, and safety in adults with symptomatic HF. A systematic search was conducted through PubMed, Embase, Scopus, Web of Science, and Cochrane from inception to September 2025. Adults with HF receiving guideline-directed therapy were included. Interventions comprised intravenous NAD&#x207a; or oral NR versus placebo. Primary outcomes were HF hospitalization, all-cause mortality, and change in left ventricular ejection fraction (LVEF). Secondary outcomes included cardiac structural and functional measures, biomarkers, and laboratory safety outcomes. Random-effects meta-analyses were performed using Review Manager version 5.4.1. Four randomized controlled trials involving 387 patients were included. NAD&#x207a;-related intervent",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43040090",
+    "authors": [
+      {
+        "name": "Khadeeja Ali Hamzah",
+        "affiliation": "Department of Internal Medicine, Baghdad University, Al-Kindy College of Medicine, Baghdad, Iraq."
+      },
+      {
+        "name": "Yousif Hameed Kurmasha",
+        "affiliation": "Department of Internal Medicine, College of Medicine, University of Kufa, Najaf, Iraq."
+      },
+      {
+        "name": "Mohamed Nasser Elshabrawi",
+        "affiliation": "Department of Clinical Research, Aswan Heart Center, Magdi Yaqoup Foundation, Aswan, Egypt. mohamedshabrawi86@gmail.com."
+      },
+      {
+        "name": "Ali Saad Al-Shammari",
+        "affiliation": "Department of Internal Medicine, College of Medicine, University of Baghdad, Baghdad, Iraq."
+      }
+    ],
+    "journal": "European journal of clinical pharmacology",
+    "publishedDate": "2026-11-16",
+    "fetchedDate": "2026-11-17",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "heart"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9fwJHh-2kFHot-a5bee14a8900679b\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 947b40f8-4917-4912-adf5-31a182ca0683)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43039016",
+    "pmid": "43039016",
+    "doi": "10.1016/S1470-2045(26)00406-7",
+    "title": "Genome-directed treatment targets and mutational signature biomarkers: a retrospective, pan-solid tumour analysis.",
+    "titlePt": "Genome-directed treatment targets and mutational signature biomarkers: a retrospective, pan-solid tumour analysis.",
+    "abstract": "The clinical application of precision oncology therapies is currently restricted to selected cancer cases harbouring highly specific mutations. Targeted therapies are typically approved for use in specific tumour types in which these alterations occur frequently. We aimed to systematically catalogue targetable alterations and genome-wide biomarkers across all solid tumour types to identify additional therapeutic opportunities. In this retrospective, pan-solid tumour analysis, for the primary cancer cohort, we used matched fresh frozen tumour and normal DNA samples and anonymised patient metadata from a discovery cohort of 11&#x2008;013 tumours comprising 19 tumour types collected from 10&#x2008;334 participants in the UK-based 100&#x2008;000 Genomes Project (100kGP). Participants were recruited to this cohort through 13 National Health Service Genomic Medicine Centres or hospitals affiliated to the 100kGP between 2012 and 2019. For the metastatic cancer cohort, we used matched tumour a",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43039016",
+    "authors": [
+      {
+        "name": "Daniella Black",
+        "affiliation": "Department of Genomic Medicine, University of Cambridge, Cambridge, UK."
+      },
+      {
+        "name": "Helen Ruth Davies",
+        "affiliation": "Department of Genomic Medicine, University of Cambridge, Cambridge, UK."
+      },
+      {
+        "name": "Curtis DeVerinne",
+        "affiliation": "Department of Genomic Medicine, University of Cambridge, Cambridge, UK."
+      },
+      {
+        "name": "Marko Cubric",
+        "affiliation": "Genomics England, London, UK."
+      }
+    ],
+    "journal": "The Lancet. Oncology",
+    "publishedDate": "2026-11-16",
+    "fetchedDate": "2026-11-17",
+    "category": "Genômica",
+    "tags": [
+      "cancer",
+      "oncology",
+      "genomic",
+      "dna",
+      "mutation"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9fwdDi-2kFHot-a5bee2d88ecceb2c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: a6598252-5cf4-4f04-8ee6-090bbe4159bb)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42526489",
     "pmid": "42526489",
     "doi": "10.1016/j.lanmic.2026.101443",
@@ -12237,89 +12322,6 @@
     ],
     "isHighlight": false,
     "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42679860",
-    "pmid": "42679860",
-    "doi": "10.1111/jog.70477",
-    "title": "The Effect of Exercise on Reproductive and Metabolic Outcomes in Women With Polycystic Ovary Syndrome: A Systematic Review and Meta-Analysis.",
-    "titlePt": "The Effect of Exercise on Reproductive and Metabolic Outcomes in Women With Polycystic Ovary Syndrome: A Systematic Review and Meta-Analysis.",
-    "abstract": "Polycystic ovary syndrome (PCOS) is a common endocrine and metabolic disorder, and the independent effect of exercise as a fundamental intervention for it remains to be clarified. Therefore, this study aimed to examine the effect of exercise intervention alone on improving reproductive endocrine and metabolic profiles in individuals with PCOS. A systematic search of multiple databases was conducted for randomized controlled trials (RCTs) published until July 2025. Data from eligible RCTs were collected, and quality evaluation with meta-analysis was performed. This investigation encompassed 22 RCTs involving 1044 women with PCOS. The meta-analysis indicated that exercise significantly reduced total testosterone (TT), free testosterone, fasting insulin, and homeostatic model assessment of insulin resistance (HOMA-IR), while increasing high-density lipoprotein levels. Subgroup analyses showed that moderate-to-low intensity exercise specifically increased sex hormone-binding globulin. Exer",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado na *Journal of Obstetrics and Gynaecology* investigou o impacto exclusivo do exercício físico nos desfechos reprodutivos e metabólicos de mulheres com síndrome dos ovários policísticos (SOP), condição endócrina e metabólica de alta prevalência. A pesquisa, conduzida por meio de uma revisão sistemática e meta-análise de 22 ensaios clínicos randomizados envolvendo 1.044 participantes, buscou esclarecer o papel do exercício como intervenção isolada, uma vez que seu efeito independente ainda não havia sido consolidado na literatura.\n\nOs resultados demonstraram que a prática regular de exercícios promoveu melhorias significativas no perfil hormonal e metabólico das pacientes. Houve redução estatisticamente relevante nos níveis de testosterona total, testosterona livre, insulina de jejum e no índice HOMA-IR (avaliador da resistência à insulina), além de aumento nos níveis de lipoproteína de alta densidade (HDL). Análises de subgrupos revelaram que exercícios de intensidade moderada a baixa foram especialmente eficazes em elevar os níveis de globulina transportadora de hormônios sexuais (SHBG), um marcador associado à redução da hiperandrogenemia.\n\nEmbora os achados reforcem o exercício como uma estratégia não farmacológica relevante no manejo da SOP, os autores destacam limitações importantes. A heterogeneidade dos protocolos de exercício — incluindo variações de intensidade, duração e modalidades — dificultou a padronização dos resultados. Além disso, a ausência de dados sobre adesão a longo prazo e a falta de seguimento após a intervenção limitam a generalização das conclusões. Os próximos passos incluem pesquisas com desenhos metodológicos mais robustos, como ensaios clínicos controlados com grupos de comparação ativa e avaliação de desfechos reprodutivos, como taxa de ovulação e regularidade menstrual.\n\n---\n\n**English version**\n\nA recent study in the *Journal of Obstetrics and Gynaecology* examined the isolated effect of physical exercise on reproductive and metabolic outcomes in women with polycystic ovary syndrome (PCOS), a common endocrine and metabolic disorder. The research, conducted through a systematic review and meta-analysis of 22 randomized controlled trials involving 1,044 participants, aimed to clarify exercise’s independent role as an intervention, given its effects had not yet been definitively established.\n\nThe findings revealed that regular exercise led to significant improvements in hormonal and metabolic profiles. There were statistically significant reductions in total testosterone, free testosterone, fasting insulin, and the homeostatic model assessment of insulin resistance (HOMA-IR), along with an increase in high-density lipoprotein (HDL) levels. Subgroup analyses indicated that moderate-to-low intensity exercise was particularly effective in raising sex hormone-binding globulin (SHBG) levels, a marker linked to reduced hyperandrogenemia.\n\nWhile the results support exercise as a relevant non-pharmacological strategy in PCOS management, the authors highlight key limitations. The heterogeneity of exercise protocols—including variations in intensity, duration, and modalities—complicated result standardization. Additionally, the lack of long-term adherence data and follow-up after intervention restricts the generalizability of the conclusions. Future research should prioritize more robust study designs, such as controlled clinical trials with active comparison groups and evaluations of reproductive outcomes, including ovulation rates and menstrual regularity.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42679860",
-    "authors": [
-      {
-        "name": "Kangxi Zou",
-        "affiliation": "Department of Tuina, The Second Affiliated Hospital Heilongjiang University of Chinese Medicine, Harbin, Heilongjiang, China."
-      },
-      {
-        "name": "Yunlu Ping",
-        "affiliation": "Department of Gynecology, The First Affiliated Hospital of Heilongjiang University of Chinese Medicine, Harbin, Heilongjiang, China."
-      },
-      {
-        "name": "Qiuyang Wei",
-        "affiliation": "Department of Endocrinology, The First Affiliated Hospital of Heilongjiang University of Chinese Medicine, Harbin, Heilongjiang, China."
-      },
-      {
-        "name": "Xiaoxuan Zhao",
-        "affiliation": "Department of Gynecology, Hangzhou TCM Hospital Affiliated to Zhejiang Chinese Medical University, Zhejiang, Hangzhou, China."
-      }
-    ],
-    "journal": "The journal of obstetrics and gynaecology research",
-    "publishedDate": "2026-09-01",
-    "fetchedDate": "2026-09-02",
-    "category": "Endocrinologia",
-    "tags": [
-      "insulin",
-      "endocrine",
-      "hormone",
-      "metabolic"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42679829",
-    "pmid": "42679829",
-    "doi": "10.1016/S2352-4642(26)00163-X",
-    "title": "Adolescent health across Asia Pacific, 2000-23: a systematic analysis for the Global Burden of Disease Study 2023.",
-    "titlePt": "Adolescent health across Asia Pacific, 2000-23: a systematic analysis for the Global Burden of Disease Study 2023.",
-    "abstract": "The Asia Pacific region is home to more than half of the world's 1&#xb7;93 billion adolescents (aged 10-24 years). Addressing adolescent health in this region is of global importance, but to date a systematic analysis of key contributors to disease in adolescents has not been done, which is a barrier to responsive action. This systematic analysis of the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2023 aims to provide a comprehensive assessment of adolescent health across the Asia Pacific region, at both the subregional and national levels, encompassing burden of disease, mortality, and prevalence of adolescent risk factors. As part of GBD 2023, we obtained estimates for cause-specific mortality, disability-adjusted life-years (DALYs), and risk factor prevalence by sex for adolescents aged 10-24 years and 5-year age groups (10-14 years, 15-19 years, and 20-24 years) across 44 countries and territories (hereafter referred to collectively as Asia Pacific), grouped by",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nO estudo mais recente do *Global Burden of Disease Study* (GBD) 2023 revela um retrato abrangente da saúde de adolescentes na região da Ásia-Pacífico, que abriga mais de metade dos 1,93 bilhão de jovens entre 10 e 24 anos no mundo. Pela primeira vez, uma análise sistemática identificou os principais fatores de risco, causas de morte e carga de doenças nesse grupo etário, abrangendo 44 países e territórios. Os dados, estratificados por sexo e faixa etária (10-14, 15-19 e 20-24 anos), destacam a necessidade urgente de políticas públicas adaptadas às particularidades regionais, ainda que não detalhem impactos específicos por país.\n\nEntre os achados, as doenças infecciosas, transtornos mentais e condições nutricionais emergem como as principais causas de anos de vida ajustados por incapacidade (DALYs) na adolescência. A mortalidade, por sua vez, está fortemente ligada a acidentes de trânsito, autolesões e condições maternas, com padrões distintos entre homens e mulheres. A prevalência de fatores de risco — como tabagismo, sedentarismo e uso prejudicial de álcool — também apresentou variações significativas, sugerindo desigualdades sub-regionais que exigem ações direcionadas. No entanto, o estudo não fornece estimativas individuais por país, limitando a extrapolação de estratégias nacionais.\n\nO impacto clínico desses dados é imediato: a identificação de grupos vulneráveis e fatores modificáveis permite priorizar intervenções, como programas de saúde mental em escolas ou campanhas de prevenção de acidentes. Contudo, a ausência de dados desagregados por contexto socioeconômico ou acesso a serviços de saúde impede uma análise mais precisa das barreiras ao cuidado. Como próximos passos, os pesquisadores sugerem incorporar variáveis regionais em futuras edições do GBD, além de validar os achados com estudos longitudinais. A iniciativa reforça a importância de abordagens integradas, combinando vigilância epidemiológica com políticas intersetoriais para reduzir a carga de doenças na adolescência.\n\n---\n\n**English version**\n\nThe latest *Global Burden of Disease Study* (GBD) 2023 provides a comprehensive assessment of adolescent health across the Asia-Pacific region, home to more than half of the world’s 1.93 billion adolescents aged 10–24 years. For the first time, a systematic analysis has quantified key risk factors, causes of death, and disease burden in this age group across 44 countries and territories. Stratified by sex and 5-year age brackets (10–14, 15–19, and 20–24 years), the findings underscore the urgent need for tailored public health policies, though national-level impacts are not specified.\n\nInfectious diseases, mental disorders, and nutritional conditions emerge as the leading contributors to disability-adjusted life-years (DALYs) among adolescents. Mortality is predominantly driven by road injuries, self-harm, and maternal conditions, with distinct patterns between males and females. The prevalence of risk factors—including tobacco use, physical inactivity, and harmful alcohol consumption—varies significantly across subregions, highlighting structural inequalities that demand targeted interventions. However, the study does not provide country-specific estimates, limiting the ability to design localized strategies.\n\nClinically, these insights enable prioritization of interventions such as school-based mental health programs or road safety campaigns. Yet, the lack of disaggregated data on socioeconomic determinants or healthcare access restricts deeper analysis of barriers to care. Future research should integrate regional variables into subsequent GBD updates and validate findings through longitudinal studies. The findings reinforce the need for integrated approaches that combine epidemiological surveillance with cross-sectoral policies to reduce the adolescent disease burden in the Asia-Pacific.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42679829",
-    "authors": [
-      {
-        "name": "Karly I Cini",
-        "affiliation": "Global Adolescent Health, Murdoch Childrens Research Institute, Parkville, VIC, Australia; Department of Paediatrics, University of Melbourne, Parkville, VIC, Australia. Electronic address: karly.cini@mcri.edu.au."
-      },
-      {
-        "name": "Dorothea Dumuid",
-        "affiliation": "Allied Health and Human Performance, University of South Australia, Adelaide, SA, Australia."
-      },
-      {
-        "name": "Iffat Abbsar",
-        "affiliation": "Centre for Adolescent Health, Murdoch Childrens Research Institute, Melbourne, VIC, Australia; Science, Technology, Engineering and Mathematics College, Royal Melbourne Institute of Technology (RMIT) University, Melbourne, VIC, Australia."
-      },
-      {
-        "name": "Luo Li",
-        "affiliation": "Department of Paediatrics, University of Melbourne, Parkville, VIC, Australia; Global Adolescent Health, Murdoch Childrens Research Institute, Parkville, VIC, Australia."
-      }
-    ],
-    "journal": "The Lancet. Child &amp; adolescent health",
-    "publishedDate": "2026-09-01",
-    "fetchedDate": "2026-09-02",
-    "category": "Farmacologia",
-    "tags": [],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
