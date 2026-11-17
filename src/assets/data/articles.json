@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42526489",
+    "pmid": "42526489",
+    "doi": "10.1016/j.lanmic.2026.101443",
+    "title": "Advances in development of tuberculosis vaccines and preventive drug therapies: current pipeline, evidence, and access.",
+    "titlePt": "Advances in development of tuberculosis vaccines and preventive drug therapies: current pipeline, evidence, and access.",
+    "abstract": "Tuberculosis remains the leading cause of death from a single infectious agent globally. The WHO Global Tuberculosis Report 2025 indicates that progress towards the WHO End TB Strategy targets remains off track despite modest declines in incidence and mortality. In 2024, an estimated 10&#xb7;7 million people developed tuberculosis and 1&#xb7;23 million died from the disease. In this Series paper, we examine evidence published between Jan 6, 2020, and Jan 6, 2026, to provide an updated overview of tuberculosis vaccines and tuberculosis preventive treatment (TPT). As of June 4, 2026, 18 tuberculosis vaccine candidates are in active clinical development, including six in phase 3 (M72/AS01E, MTBVAC, VPM1002, GamTBvac, Immuvac [MIP], and BCG revaccination trials), representing the most diverse and advanced pipeline since the introduction of BCG in 1921. Platforms include live-attenuated mycobacterial vaccines (eg, MTBVAC), recombinant BCG-derived approaches (eg, VPM1002), protein-adjuvant s",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42526489",
+    "authors": [
+      {
+        "name": "Christopher da Costa",
+        "affiliation": "Harvard TH Chan School of Public Health, Department of Global Health and Population, Boston, MA, USA."
+      },
+      {
+        "name": "Ben J Marais",
+        "affiliation": "Sydney Infectious Diseases Institute and The Children's Hospital at Westmead Clinical School, University of Sydney, Sydney, NSW, Australia."
+      },
+      {
+        "name": "Delia Goletti",
+        "affiliation": "Translational Research Unit, National Institute for Infectious Diseases Lazzaro Spallanzani, Istituto di Ricovero e Cura a Carattere Scientifico, Rome, Italy."
+      },
+      {
+        "name": "Philip Onyebujoh",
+        "affiliation": "Lusaka Apex Medical University, Lusaka, Zambia."
+      }
+    ],
+    "journal": "The Lancet. Microbe",
+    "publishedDate": "2026-11-16",
+    "fetchedDate": "2026-11-17",
+    "category": "Infectologia",
+    "tags": [
+      "bacterial",
+      "drug",
+      "vaccine"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9dDoNy-2kFHot-a5bbf30ccce7d2bd\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: d3f482a9-8252-44ed-a592-7e2766b8cd1b)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43037851",
     "pmid": "43037851",
     "doi": "10.1007/s12020-026-04860-9",
@@ -12278,48 +12320,6 @@
     "tags": [],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42678693",
-    "pmid": "42678693",
-    "doi": "10.1177/13872877261480066",
-    "title": "Non-pharmacological interventions for sleep improvement in Alzheimer's disease: A systematic review and meta-analysis.",
-    "titlePt": "Non-pharmacological interventions for sleep improvement in Alzheimer's disease: A systematic review and meta-analysis.",
-    "abstract": "BackgroundSleep disturbances are common in Alzheimer's disease (AD) and may worsen neuropsychiatric symptoms, caregiver burden, quality of life, and disease progression. Non-pharmacological strategies are increasingly used because long-term hypnotic or antipsychotic treatment may be limited by safety concerns, but their effects on subjective and objective sleep outcomes remain uncertain.ObjectiveTo evaluate the efficacy of non-pharmacological interventions for improving sleep in patients with AD.MethodsFollowing PRISMA guidelines, we searched PubMed, Embase, the Cochrane Library, Web of Science, and CINAHL through June 6, 2025, for randomized controlled trials of non-pharmacological interventions in AD. The primary outcome was the Pittsburgh Sleep Quality Index (PSQI); secondary outcomes were actigraphy-derived sleep efficiency, total sleep time, wake after sleep onset, number of awakenings, and time in bed. Standardized mean differences were pooled using fixed- or random-effects model",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nDistúrbios do sono são frequentes em pacientes com doença de Alzheimer (DA), contribuindo para o agravamento de sintomas neuropsiquiátricos, sobrecarga do cuidador, redução da qualidade de vida e progressão da doença. Embora tratamentos farmacológicos, como hipnóticos ou antipsicóticos, sejam comumente prescritos, suas limitações — incluindo riscos de efeitos adversos e dependência — têm impulsionado a busca por intervenções não farmacológicas. Contudo, a eficácia dessas estratégias em melhorar desfechos subjetivos e objetivos do sono ainda não havia sido sistematicamente avaliada.\n\nUm estudo publicado recentemente no *Journal of Alzheimer’s Disease* realizou uma revisão sistemática e meta-análise para analisar o impacto de intervenções não farmacológicas em pacientes com DA. Os pesquisadores incluíram ensaios clínicos randomizados indexados em bases como PubMed, Embase e Cochrane Library até junho de 2025, seguindo as diretrizes PRISMA. O desfecho primário foi o *Pittsburgh Sleep Quality Index* (PSQI), enquanto os secundários incluíram dados objetivos de sono obtidos por actigrafia, como eficiência do sono, tempo total de sono, tempo acordado após o início do sono, número de despertares e tempo na cama.\n\nOs resultados indicaram que intervenções não farmacológicas, como terapia de luz, exercícios físicos supervisionados e programas de higiene do sono, apresentaram melhora estatisticamente significativa no PSQI em comparação ao grupo controle. No entanto, os efeitos sobre os desfechos objetivos — como eficiência do sono e tempo total de sono — foram heterogêneos e menos consistentes. Os autores destacam que a qualidade metodológica dos estudos incluídos variou consideravelmente, com amostras pequenas em muitos casos, o que pode limitar a generalização dos achados.\n\nEmbora os dados sugiram um potencial benefício das intervenções não farmacológicas, os pesquisadores ressaltam a necessidade de ensaios clínicos maiores, com desenhos robustos e avaliação de desfechos a longo prazo. Além disso, não foram fornecidos dados sobre a adesão dos pacientes ou a viabilidade dessas abordagens em contextos clínicos reais. Futuras pesquisas devem explorar a combinação de estratégias, bem como a personalização com base em estágios da doença ou perfis de sono específicos.\n\n---\n\n**English version**\n\nSleep disturbances are prevalent in patients with Alzheimer’s disease (AD), exacerbating neuropsychiatric symptoms, caregiver burden, quality of life, and disease progression. While pharmacological treatments like hypnotics or antipsychotics are commonly prescribed, their long-term use is constrained by safety risks, including adverse effects and dependency. This has driven increased interest in non-pharmacological interventions, though their efficacy in improving subjective and objective sleep outcomes remains unclear.\n\nA recent study published in the *Journal of Alzheimer’s Disease* conducted a systematic review and meta-analysis to evaluate the impact of non-pharmacological interventions in AD patients. Researchers searched PubMed, Embase, and the Cochrane Library through June 2025, following PRISMA guidelines. The primary outcome was the Pittsburgh Sleep Quality Index (PSQI), while secondary outcomes included objective sleep metrics derived from actigraphy, such as sleep efficiency, total sleep time, wake after sleep onset, number of awakenings, and time in bed.\n\nThe findings revealed that non-pharmacological interventions—including light therapy, supervised physical exercise, and sleep hygiene programs—led to statistically significant improvements in PSQI scores compared to controls. However, effects on objective sleep measures, such as sleep efficiency and total sleep time, were inconsistent and less robust. The authors note that methodological quality varied widely across included studies, with many featuring small sample sizes, potentially limiting the generalizability of results.\n\nWhile the data suggest a potential benefit of non-pharmacological approaches, the researchers emphasize the need for larger, high-quality clinical trials with long-term follow-up. Additionally, data on patient adherence and real-world feasibility were not reported. Future studies should explore combined interventions and personalized strategies tailored to disease stage or specific sleep profiles.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42678693",
-    "authors": [
-      {
-        "name": "Qianqian Zhang",
-        "affiliation": "College of Nursing, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
-      },
-      {
-        "name": "Qian Zhou",
-        "affiliation": "College of Nursing, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
-      },
-      {
-        "name": "Mengxia Yang",
-        "affiliation": "College of Nursing, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
-      },
-      {
-        "name": "Shuying Zou",
-        "affiliation": "College of Nursing, Chengdu University of Traditional Chinese Medicine, Chengdu, China."
-      }
-    ],
-    "journal": "Journal of Alzheimer's disease : JAD",
-    "publishedDate": "2026-09-01",
-    "fetchedDate": "2026-09-01",
-    "category": "Neurologia",
-    "tags": [
-      "alzheimer",
-      "psychiatric"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
