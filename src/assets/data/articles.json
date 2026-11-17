@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-43041521",
+    "pmid": "43041521",
+    "doi": "10.3389/fimmu.2026.1993237",
+    "title": "Gut microbial metabolites: linking gut-immune-brain crosstalk to mental and neuropsychiatric health.",
+    "titlePt": "Gut microbial metabolites: linking gut-immune-brain crosstalk to mental and neuropsychiatric health.",
+    "abstract": "This narrative review adopts the gut-immune-brain axis as the core framework. Literature published 2010-2025 was retrieved from PubMed, Web of Science and ScienceDirect; landmark pre-2010 studies from top journals were also included. Literature was analyzed across five dimensions: metabolite synthesis-transport, intestinal immune regulation, central mediation, disease-pathology links and clinical translation. We elucidate how short-chain fatty acids, tryptophan metabolites and bile acids act as immune messengers to modulate neural homeostasis. Under physiological conditions, they maintain barrier integrity and central immune balance; when dysregulated, they trigger immune disturbance, blood-brain barrier damage and neuroinflammation, promoting Alzheimer's disease, Parkinson's disease, major depressive disorder and chronic insomnia. Moving beyond conventional gut-brain-axis reviews focused merely on gut-brain communication, this work highlights immunity as the critical intermediate node",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43041521",
+    "authors": [
+      {
+        "name": "Yimao Wu",
+        "affiliation": "The Affiliated Kangning Hospital of Wenzhou Medical University, Zhejiang Provincial Clinical Research Center for Mental Health, Wenzhou,&#xa0;China."
+      },
+      {
+        "name": "Xiaofei Xie",
+        "affiliation": "Second Clinical Medical College, Guangdong Medical University, Dongguan,&#xa0;China."
+      },
+      {
+        "name": "Weiqi Lyu",
+        "affiliation": "First Clinical Medical College, Guangdong Medical University, Zhanjiang,&#xa0;China."
+      },
+      {
+        "name": "Jun-Er Xu",
+        "affiliation": "First Clinical Medical College, Guangdong Medical University, Zhanjiang,&#xa0;China."
+      }
+    ],
+    "journal": "Frontiers in immunology",
+    "publishedDate": "2026-11-17",
+    "fetchedDate": "2026-11-17",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "neural",
+      "alzheimer",
+      "parkinson",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9ipeGw-2kFHot-a5c1fe6dfdbe601f\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 597f318d-6963-4cad-8f78-9ee5e87e21dc)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43028158",
     "pmid": "43028158",
     "doi": "10.3390/ijms27219915",
@@ -12286,46 +12330,5 @@
     "readTime": 9,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9cxrP5-2kFHot-a5bbabd84eedbe4c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 837c11f8-0917-47cb-aefb-2d8612a3f5b0)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42677929",
-    "pmid": "42677929",
-    "doi": "10.1080/17568919.2026.2726194",
-    "title": "VEGFR-2 as a druggable target: recent advances (2025) in the development of five-membered heterocyclic anticancer agents.",
-    "titlePt": "VEGFR-2 as a druggable target: recent advances (2025) in the development of five-membered heterocyclic anticancer agents.",
-    "abstract": "The global burden of cancer continues to escalate, with angiogenesis representing a critical driver of tumor progression and metastasis. Vascular endothelial growth factor receptor-2 (VEGFR-2) stands as the principal mediator of angiogenic signaling, making it an established and compelling therapeutic target. Despite the clinical success of first-generation inhibitors, their long-term efficacy remains limited by off-target toxicities, suboptimal pharmacokinetic profiles, and the inevitable emergence of drug resistance through multiple adaptive mechanisms. These limitations underscore an urgent need for next-generation inhibitors engineered with enhanced selectivity, improved safety margins, and the capacity to circumvent resistance pathways. This comprehensive review systematically examines recent advances in the rational design, synthesis, and biological evaluation of five-membered heterocyclic scaffolds, thiadiazol, oxazole, thiazole, and pyrrole, as well as pyrazole and imidazole-ba",
-    "journalisticSummary": "**Em português brasileiro**\n\nA angiogênese é um processo fundamental para o crescimento tumoral e a disseminação metastática, o que torna o receptor 2 do fator de crescimento endotelial vascular (VEGFR-2) um alvo terapêutico estratégico no tratamento do câncer. Embora os inibidores de primeira geração tenham demonstrado eficácia clínica, suas limitações — incluindo toxicidades off-target, perfis farmacocinéticos subótimos e o desenvolvimento de resistência — impulsionam a busca por moléculas de próxima geração. Nesse contexto, uma revisão publicada em 2025 no *Journal of Drug Targeting* avalia os avanços recentes no desenvolvimento de agentes anticâncer baseados em heterociclos de cinco membros, como tiadiazol, oxazol, tiazol, pirrol, pirazol e imidazol.\n\nO estudo destaca que compostos derivados desses núcleos heterocíclicos apresentam potencial para superar as limitações dos inibidores convencionais, graças à sua capacidade de interagir seletivamente com o VEGFR-2 e modular vias de resistência. Entre os achados, os derivados de pirazol e imidazol se destacam por sua afinidade superior e perfil de segurança promissor em estudos pré-clínicos. No entanto, os autores ressaltam que a transição desses compostos para a prática clínica ainda enfrenta desafios, como a otimização de propriedades farmacocinéticas e a validação de eficácia em modelos humanos.\n\nEmbora a revisão não tenha apresentado dados quantitativos específicos sobre eficácia ou segurança em humanos, ela reforça a importância de abordagens racionais no design de fármacos, integrando modelagem molecular e ensaios biológicos avançados. Os próximos passos incluem estudos clínicos de fase I para avaliar segurança e tolerabilidade, além das investigações sobre combinações terapêuticas para superar a resistência. Caso não sejam identificados, os autores não especificaram os principais obstáculos regulatórios previstos para essa classe de inibidores.\n\n---\n\n**In English**\n\nAngiogenesis is a key driver of tumor growth and metastatic spread, positioning vascular endothelial growth factor receptor-2 (VEGFR-2) as a critical therapeutic target in oncology. While first-generation inhibitors have achieved clinical success, their long-term limitations—such as off-target toxicities, suboptimal pharmacokinetic profiles, and the development of resistance—necessitate the development of next-generation agents. A 2025 review in the *Journal of Drug Targeting* examines recent progress in the rational design, synthesis, and biological evaluation of five-membered heterocyclic scaffolds, including thiadiazole, oxazole, thiazole, pyrrole, pyrazole, and imidazole, as potential VEGFR-2 inhibitors.\n\nThe study highlights that these heterocyclic compounds may overcome the shortcomings of conventional inhibitors by offering enhanced selectivity and the ability to modulate resistance pathways. Among the scaffolds, pyrazole and imidazole derivatives stand out for their superior binding affinity and promising safety profiles in preclinical studies. However, the authors emphasize that translating these compounds into clinical practice remains challenging, particularly regarding pharmacokinetic optimization and validation in human models.\n\nWhile the review does not provide quantitative efficacy or safety data in humans, it underscores the importance of rational drug design approaches, integrating molecular modeling and advanced biological assays. Future directions include Phase I clinical trials to assess safety and tolerability, as well as investigations into combination therapies to address resistance. The authors did not specify key regulatory hurdles for this class of inhibitors.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42677929",
-    "authors": [
-      {
-        "name": "Mohamed M Khalifa",
-        "affiliation": "Pharmaceutical Medicinal Chemistry &amp; Drug Design Department, Faculty of Pharmacy (Boys), Al-Azhar University, Nasr City, Egypt."
-      },
-      {
-        "name": "Ibtehal Nasser Salman",
-        "affiliation": "Department of Pharmacy, Alamal College for Specialized Medical Sciences, Karbala, Iraq."
-      },
-      {
-        "name": "Reyadh Jassem",
-        "affiliation": "Department of Pharmacy, Alamal College for Specialized Medical Sciences, Karbala, Iraq."
-      }
-    ],
-    "journal": "Future medicinal chemistry",
-    "publishedDate": "2026-09-01",
-    "fetchedDate": "2026-09-02",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "gene",
-      "drug",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
