@@ -1,5 +1,45 @@
 [
   {
+    "id": "pubmed-43046670",
+    "pmid": "43046670",
+    "doi": "10.7461/jcen.2026.E2026.06.011",
+    "title": "Mechanical thrombectomy with CEREGLIDE 71 Intermediate Catheter: A single-center post-market experience.",
+    "titlePt": "Mechanical thrombectomy with CEREGLIDE 71 Intermediate Catheter: A single-center post-market experience.",
+    "abstract": "To assess the efficacy and safety of the CEREGLIDE 71 Intermediate Catheter in a real-world clinical setting. This was a retrospective, single-center, post-market observational study. All consecutive patients with acute ischemic stroke (AIS) who underwent mechanical thrombectomy (MT) with CEREGLIDE 71 between October 2024 and September 2025 were included. The primary outcome was the rate of successful recanalization (final modified Thrombolysis in Cerebral Infarction [mTICI] &#x2265;2b). Secondary efficacy outcomes included complete revascularization (final mTICI &#x2265;2c), first-pass mTICI &#x2265;2c, and first-pass mTICI &#x2265;2b. Safety and clinical outcomes included device-related adverse events, such as vessel dissection, perforation, or catheter breakage, and good functional outcome at 90 days (modified Rankin Scale [mRS] score &#x2264;2). The subgroup of patients treated with a direct aspiration first-pass technique (ADAPT) as the first-line approach was also analyzed. A tot",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43046670",
+    "authors": [
+      {
+        "name": "Pietro Trombatore",
+        "affiliation": "Department of Diagnostic Imaging, Interventional Radiology and Neuroradiology, ARNAS Garibaldi, Catania, Italy. pietro.tr@outlook.it."
+      },
+      {
+        "name": "Simone Cottonaro",
+        "affiliation": "Department of Diagnostic Imaging, Interventional Radiology and Neuroradiology, ARNAS Garibaldi, Catania, Italy."
+      },
+      {
+        "name": "Antonio Ragusa",
+        "affiliation": "Department of Diagnostic Imaging, Interventional Radiology and Neuroradiology, ARNAS Garibaldi, Catania, Italy."
+      },
+      {
+        "name": "Alfio Cannella",
+        "affiliation": "Department of Diagnostic Imaging, Interventional Radiology and Neuroradiology, ARNAS Garibaldi, Catania, Italy."
+      }
+    ],
+    "journal": "Journal of cerebrovascular and endovascular neurosurgery",
+    "publishedDate": "2026-11-18",
+    "fetchedDate": "2026-11-18",
+    "category": "Neurologia",
+    "tags": [
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9pGB2a-2kFHot-a5c7dd73ffd805e0\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: f9d630cf-a7ba-462f-984d-4437daa77928)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43038566",
     "pmid": "43038566",
     "doi": "10.1001/jama.2026.25143",
@@ -8202,6 +8242,44 @@
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"p3cRPaD-2kFHot-a44383f6f87452af\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 142b052f-d8be-4e11-b741-7cd4ce61bcab)\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   },
   {
+    "id": "pubmed-42681987",
+    "pmid": "42681987",
+    "doi": "10.1097/MCO.0000000000001253",
+    "title": "Micronutrients in adult critically ill patients: lessons learned and the path toward precision.",
+    "titlePt": "Micronutrients in adult critically ill patients: lessons learned and the path toward precision.",
+    "abstract": "Despite strong biological plausibility, empiric high-dose micronutrient supplementation has failed to improve outcomes in critically ill patients. This review synthesizes evidence from the past 18&#x200a;months and outlines the necessary transition toward biomarker-guided precision nutrition. Recent evidence has further challenged routine high-dose micronutrient therapy. High-dose intravenous vitamin C failed to improve outcomes and was associated with potential harm in patients with sepsis, COVID-19, severe burns, and post-cardiac arrest syndrome. In contrast, a 2025 meta-analysis reported reduced short-term mortality and shorter ICU stay with vitamin D supplementation in patients on mechanical ventilation. Thiamine may shorten the duration of shock without affecting mortality. Observational studies suggest that carnitine deficiency is common during critical illness, and both deficiency and excess may be associated with adverse outcomes in critically ill patients. Selenium supplementa",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681987",
+    "authors": [
+      {
+        "name": "Christian Stoppe",
+        "affiliation": "Department of Anesthesiology, Intensive Care, Emergency and Pain Medicine, University Hospital Wuerzburg, Wuerzburg."
+      },
+      {
+        "name": "Kursat Gundogan",
+        "affiliation": "Department of Cardiac Anesthesiology and Intensive Care Medicine, Deutsches Herzzentrum der Charit&#xe9;, Berlin, Germany."
+      },
+      {
+        "name": "Stefano Marelli",
+        "affiliation": "Division of Medical Intensive Care, Department of Internal Medicine, Erciyes University Faculty of Medicine."
+      }
+    ],
+    "journal": "Current opinion in clinical nutrition and metabolic care",
+    "publishedDate": "2026-10-01",
+    "fetchedDate": "2026-11-18",
+    "category": "Infectologia",
+    "tags": [
+      "cardiac",
+      "sepsis",
+      "covid"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9pGjbS-2kFHot-a5c7e020bdd6a5d9\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: a7a137ae-341d-49cb-92e1-a52c75ade424)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42821840",
     "pmid": "42821840",
     "doi": "10.1212/CPJ.0000000000200669",
@@ -12235,92 +12313,6 @@
     ],
     "isHighlight": false,
     "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42446920",
-    "pmid": "42446920",
-    "doi": "10.1158/2643-3230.BCD-26-0186",
-    "title": "Safety and Clinical Outcomes of a First-in-Human Trial of Point-of-Care Manufactured Trispecific CAR T Cells Targeting CD19, CD20, and CD22.",
-    "titlePt": "Safety and Clinical Outcomes of a First-in-Human Trial of Point-of-Care Manufactured Trispecific CAR T Cells Targeting CD19, CD20, and CD22.",
-    "abstract": "Disease recurrence is the main cause of treatment failure after CD19-directed chimeric antigen receptor (CAR) T cells, often due to CD19 antigen loss, stability, and/or coverage. To overcome single-antigen escape, we evaluated a trispecific CAR targeting CD19, CD20, and CD22 with an OX40 costimulatory domain. Preclinical studies demonstrated potent, antigen-specific cytotoxicity in in vitro and in vivo lymphoma models. We then conducted a first-in-human phase I trial in patients with relapsed/refractory B-cell malignancies. Sixteen patients received infusions at a median vein-to-vein time of 7 days, at doses of 0.5 to 2 &#xd7; 106 cells/kg. No severe cytokine release syndrome or neurotoxicity occurred. The overall response rate was 50%, including complete responses in 83% of patients with lymphoma. The 1-year overall survival rate was 61%, with durable remissions observed in lymphoma. CAR T expansion did not correlate with dose or response. T-cell exhaustion in apheresis cells correlat",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm avanço no tratamento de cânceres hematológicos foi demonstrado em estudo pioneiro que avaliou a segurança e eficácia de células CAR T *trispecíficas* direcionadas a três antígenos simultaneamente — CD19, CD20 e CD22. Publicado no periódico *Blood Cancer Discovery*, o ensaio clínico de fase I, conduzido com células fabricadas à beira do leito (*point-of-care*), mostrou que a estratégia pode reduzir a recorrência de doenças causadas pela perda de expressão de um único antígeno-alvo, problema comum em terapias convencionais com CAR T anti-CD19. Os resultados indicam resposta global de 50%, com remissões completas em 83% dos pacientes com linfoma, além de ausência de eventos adversos graves como síndrome de liberação de citocinas (CRS) ou neurotoxicidade.\n\nOs pesquisadores recrutaram 16 pacientes com neoplasias de células B recidivadas ou refratárias, que receberam infusões em um tempo mediano de sete dias entre a coleta de células e a administração do produto — um intervalo consideravelmente reduzido em comparação a protocolos convencionais. As doses variaram de 0,5 a 2 milhões de células por quilo, sem correlação entre a expansão das células CAR T no organismo e a resposta clínica ou a dose administrada. A taxa de sobrevida global em um ano atingiu 61%, com remissões duradouras observadas especificamente nos casos de linfoma. Embora os dados de exaustão celular tenham sido correlacionados com células de aférese, o estudo não forneceu detalhes sobre o impacto desses achados na eficácia a longo prazo ou na segurança.\n\nA abordagem *trispecífica* representa uma estratégia promissora para superar a resistência observada em terapias direcionadas a um único antígeno, um desafio recorrente em doenças como leucemia linfoblástica aguda e linfomas. No entanto, limitações como o pequeno tamanho amostral e a ausência de grupo controle exigem cautela na interpretação dos resultados. Os próximos passos incluem estudos com coortes maiores e avaliação de estratégias para otimizar a expansão e persistência das células CAR T, além de investigar possíveis biomarcadores de resposta.\n\n---\n\n**English version**\n\nA breakthrough in the treatment of hematologic cancers has been demonstrated in a pioneering study evaluating the safety and efficacy of *trispecific* CAR T cells targeting three antigens simultaneously — CD19, CD20, and CD22. Published in *Blood Cancer Discovery*, the phase I clinical trial, conducted with point-of-care manufactured cells, suggests the strategy may reduce disease recurrence caused by loss of expression of a single antigen-target, a common issue in conventional anti-CD19 CAR T therapies. Results indicate an overall response rate of 50%, with complete remissions in 83% of lymphoma patients, alongside an absence of severe adverse events such as cytokine release syndrome (CRS) or neurotoxicity.\n\nResearchers enrolled 16 patients with relapsed or refractory B-cell malignancies, who received infusions within a median vein-to-vein time of seven days — a significantly reduced interval compared to conventional protocols. Doses ranged from 0.5 to 2 million cells per kilogram, with no correlation observed between CAR T cell expansion and clinical response or administered dose. The one-year overall survival rate reached 61%, with durable remissions specifically observed in lymphoma cases. While T-cell exhaustion data correlated with apheresis cells, the study did not provide details on the impact of these findings on long-term efficacy or safety.\n\nThe trispecific approach represents a promising strategy to overcome resistance seen in single-antigen targeted therapies, a recurring challenge in diseases such as acute lymphoblastic leukemia and lymphomas. However, limitations including the small sample size and the absence of a control group warrant caution in interpreting the results. Future steps include larger cohort studies and evaluation of strategies to optimize CAR T cell expansion and persistence, along with investigation into potential response biomarkers.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42446920",
-    "authors": [
-      {
-        "name": "Sumithira Vasu",
-        "affiliation": "Division of Hematology, The Ohio State University James Comprehensive Cancer Center and Solove Research Institute, Columbus, Ohio."
-      },
-      {
-        "name": "Nathan Denlinger",
-        "affiliation": "Division of Hematology, The Ohio State University James Comprehensive Cancer Center and Solove Research Institute, Columbus, Ohio."
-      },
-      {
-        "name": "No-Joon Song",
-        "affiliation": "Division of Medical Oncology, The Ohio State University James Comprehensive Cancer Center and Solove Research Institute, Columbus, Ohio."
-      },
-      {
-        "name": "Danielle Elsberry",
-        "affiliation": "Pelotonia Institute for Immuno-Oncology, The Ohio State University Comprehensive Cancer Center, Columbus, Ohio."
-      }
-    ],
-    "journal": "Blood cancer discovery",
-    "publishedDate": "2026-09-03",
-    "fetchedDate": "2026-09-03",
-    "category": "Oncologia",
-    "tags": [
-      "lymphoma",
-      "cytokine"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42520186",
-    "pmid": "42520186",
-    "doi": "10.1128/aac.01930-25",
-    "title": "Pharmacokinetics and safety of TBAJ-587, a novel antimycobacterial diarylquinoline, in healthy participants.",
-    "titlePt": "Pharmacokinetics and safety of TBAJ-587, a novel antimycobacterial diarylquinoline, in healthy participants.",
-    "abstract": "TBAJ-587 is a second-generation diarylquinoline with greater antimycobacterial activity and a potentially better safety profile than the first-generation bedaquiline. It is currently under development for the treatment of drug-susceptible and drug-resistant tuberculosis. A first-in-human trial of TBAJ-587, including single and multiple ascending oral doses and a dedicated food-effect cohort, was conducted in 92 healthy adults. Plasma exposures of TBAJ-587 were generally linear for AUCtau and slightly subproportional for Cmax, with the major circulating active metabolite, M3, remaining low relative to the parent. A high-fat meal increased the mean Cmax and AUClast 3.46- and 2.26-fold, respectively. TBAJ-587 accumulated with multiple dosing over the 28-day period, with mean accumulation ratios across the three tested doses ranging from 1.69 to 2.32 for Cmax and from 2.74 to 3.73 for AUCtau. However, steady-state conditions were not yet reached on day 28. Mean terminal half-lives after 28",
-    "journalisticSummary": "**TBAJ-587, nova diarilquinolina antimicobacteriana, mostra perfil farmacocinético promissor em estudo de primeira fase com voluntários saudáveis**\n\nUm estudo de primeira fase em humanos avaliou o perfil farmacocinético e a segurança do TBAJ-587, uma diarilquinolina de segunda geração com potencial superior ao bedaquilina — fármaco atualmente usado no tratamento da tuberculose — tanto em eficácia antimicobacteriana quanto em perfil de segurança. O ensaio clínico, conduzido com 92 adultos saudáveis, incluiu três componentes: administração de doses únicas e múltiplas ascendentes por via oral, além de uma coorte dedicada ao efeito da alimentação. Os resultados indicam que a exposição plasmática do TBAJ-587 foi linear para a área sob a curva (AUCtau) e ligeiramente subproporcional para a concentração máxima (Cmax), enquanto seu principal metabólito ativo, o M3, permaneceu em níveis baixos em relação ao composto original.\n\nA ingestão de uma refeição rica em gorduras aumentou significativamente a absorção do fármaco: a Cmax e a AUC do TBAJ-587 tiveram acréscimos médios de 3,46 e 2,26 vezes, respectivamente, em comparação ao estado de jejum. Além disso, o acúmulo do composto foi observado ao longo dos 28 dias de administração múltipla, com razões médias de acúmulo variando entre 1,69 e 2,32 para Cmax e entre 2,74 e 3,73 para AUCtau, conforme a dose testada. Contudo, o estudo não atingiu o estado de equilíbrio (steady-state) até o 28º dia, sugerindo que regimes terapêuticos mais prolongados ou ajustes posológicos podem ser necessários. A meia-vida terminal média após 28 dias não foi informada no resumo original.\n\nEmbora os achados sejam encorajadores e apoiem o desenvolvimento clínico do TBAJ-587 como uma alternativa potencial para o tratamento de tuberculose sensível e resistente a medicamentos, ainda não há dados suficientes para concluir sobre sua segurança em longo prazo ou eficácia em pacientes. Os próximos passos incluem estudos adicionais para determinar a posologia ótima, caracterizar completamente o perfil de acúmulo e avaliar a incidência de eventos adversos em populações específicas. A continuidade da pesquisa é fundamental para validar o potencial clínico dessa nova molécula frente a padrões terapêuticos estabelecidos.\n\n---\n\n**TBAJ-587, a novel antimycobacterial diarylquinoline, demonstrates promising pharmacokinetic profile in first-in-human study with healthy volunteers**\n\nA first-in-human clinical trial has evaluated the pharmacokinetic profile and safety of TBAJ-587, a second-generation diarylquinoline designed to offer improved antimycobacterial activity and potentially a better safety profile than bedaquiline, the current standard for tuberculosis treatment. Conducted with 92 healthy adults, the study comprised single and multiple ascending oral dose cohorts, along with a dedicated food-effect evaluation. Findings indicate that TBAJ-587 exhibited linear plasma exposure for area under the curve (AUCtau) and slightly subproportional increases in maximum concentration (Cmax), while its primary active metabolite, M3, remained at low levels relative to the parent compound.\n\nA high-fat meal significantly enhanced drug absorption, with mean increases of 3.46-fold in Cmax and 2.26-fold in AUC compared to fasting conditions. Multiple dosing over 28 days resulted in accumulation, with mean accumulation ratios ranging from 1.69 to 2.32 for Cmax and from 2.74 to 3.73 for AUCtau, depending on the dose. However, steady-state conditions were not achieved by day 28, suggesting that extended dosing or dose adjustments may be required. The mean terminal half-life at day 28 was not reported in the abstract.\n\nWhile these results are encouraging and support further clinical development of TBAJ-587 as a potential treatment option for drug-susceptible and drug-resistant tuberculosis, long-term safety and efficacy data in patient populations remain unavailable. Future research should focus on optimizing dosing regimens, fully characterizing accumulation profiles, and assessing adverse event incidence in relevant populations. Continued investigation is essential to validate the clinical potential of this novel compound against established therapeutic standards.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42520186",
-    "authors": [
-      {
-        "name": "Jerry Nedelman",
-        "affiliation": "Global Alliance for TB Drug Development, New York, New York, USA.486654https://ror.org/03ms7cf36"
-      },
-      {
-        "name": "Almari Conradie",
-        "affiliation": "Global Alliance for TB Drug Development, New York, New York, USA.486654https://ror.org/03ms7cf36"
-      },
-      {
-        "name": "Antonio Lombardi",
-        "affiliation": "Global Alliance for TB Drug Development, New York, New York, USA.486654https://ror.org/03ms7cf36"
-      },
-      {
-        "name": "Dean Hickman",
-        "affiliation": "Global Alliance for TB Drug Development, New York, New York, USA.486654https://ror.org/03ms7cf36"
-      }
-    ],
-    "journal": "Antimicrobial agents and chemotherapy",
-    "publishedDate": "2026-09-02",
-    "fetchedDate": "2026-09-03",
-    "category": "Farmacologia",
-    "tags": [
-      "bacterial",
-      "gene",
-      "drug",
-      "pharmacokinetics"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
