@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-43048891",
+    "pmid": "43048891",
+    "doi": "10.1177/13872877261507113",
+    "title": "Network proximity-based drug repurposing identifies anti-inflammatory therapies for Alzheimer's disease.",
+    "titlePt": "Network proximity-based drug repurposing identifies anti-inflammatory therapies for Alzheimer's disease.",
+    "abstract": "BackgroundNeuroinflammation is implicated as a driver of cellular dysfunction in Alzheimer's disease (AD), yet there are currently no FDA-approved drugs to treat this pathology. Network models of protein-protein interactions (PPI) show promise in identifying drug mechanisms of action targeted towards disease pathologies.ObjectiveWe sought to identify repurposable drugs to treat neuroinflammation by screening drug targets on an extensive PPI network against proteins involved in AD neuroinflammatory pathways.MethodsWe identified 133 immune system pathway genes from AD genomic and transcriptomic studies, creating a network module on a human PPI network. We assessed the network proximity of this module to drug target modules across three screenings: inflammation-targeted drugs with a negative AD clinical trial, repurposed compounds in AD clinical trials as of 2025, and 1700 FDA-approved compounds. Drugs were prioritized if they had Z-scored proximity less than -2.0, a false-discovery rate ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43048891",
+    "authors": [
+      {
+        "name": "Davis Cammann",
+        "affiliation": "Nevada Institute of Personalized Medicine, University of Nevada, Las Vegas, Las Vegas, NV, USA."
+      },
+      {
+        "name": "Jeffrey L Cummings",
+        "affiliation": "Chambers-Grundy Center for Transformative Neuroscience, Department of Brain Health, Kirk Kerkorian School of Medicine, University of Nevada, Las Vegas, Las Vegas, NV, USA."
+      },
+      {
+        "name": "Yadi Zhou",
+        "affiliation": "Cleveland Clinic Genome Center, Lerner Research Institute, Cleveland Clinic, Cleveland, OH, USA."
+      },
+      {
+        "name": "Feixiong Cheng",
+        "affiliation": "Genomic Medicine Institute, Lerner Research Institute, Cleveland Clinic, Cleveland, OH, USA."
+      }
+    ],
+    "journal": "Journal of Alzheimer's disease : JAD",
+    "publishedDate": "2026-11-18",
+    "fetchedDate": "2026-11-18",
+    "category": "Genômica",
+    "tags": [
+      "alzheimer",
+      "genomic",
+      "gene",
+      "drug",
+      "clinical trial"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9rDsom-2kFHot-a5c9fb134a544b21\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 2eed9f76-91cb-4a46-a47e-07256240a2e3)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43046670",
     "pmid": "43046670",
     "doi": "10.7461/jcen.2026.E2026.06.011",
@@ -11701,6 +11745,44 @@
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozSkG3c-2kFHot-a37d4a079d4ce578\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   },
   {
+    "id": "pubmed-42685611",
+    "pmid": "42685611",
+    "doi": "10.1016/j.tranon.2026.103006",
+    "title": "Decoding cancer with artificial intelligence: Transforming research, diagnosis, and therapy with future insights.",
+    "titlePt": "Decoding cancer with artificial intelligence: Transforming research, diagnosis, and therapy with future insights.",
+    "abstract": "Cancer remains one of the leading global health burdens, with increasing complexity in genomic, imaging, and clinical datasets presenting significant challenges for effective management. Artificial intelligence (AI) has emerged as a powerful tool to address these challenges by enabling pattern recognition, knowledge integration, and data-driven decision-making. This review highlights recent advances in the application of AI across cancer research, diagnosis, and therapy. In research, AI accelerates drug discovery and repurposing, enhances genomic data interpretation, and facilitates biomarker identification through multi-omics integration. In diagnosis, AI has demonstrated high technical performance in radiology for lesion detection and image segmentation, in pathology for tumour grading and molecular prediction, and in liquid biopsy for non-invasive biomarker analysis. In therapy, AI supports precision medicine by predicting treatment responses, monitoring disease progression, and opt",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42685611",
+    "authors": [
+      {
+        "name": "Muneera Anwer",
+        "affiliation": "School of Pharmacy and Medical Sciences, Griffith University, Queensland, Australia. Electronic address: muneera.anwer@griffithuni.edu.au."
+      },
+      {
+        "name": "Krupa Bhaliya",
+        "affiliation": "School of Pharmacy and Medical Sciences, Griffith University, Queensland, Australia."
+      },
+      {
+        "name": "Ming Q Wei",
+        "affiliation": "School of Pharmacy and Medical Sciences, Griffith University, Queensland, Australia."
+      }
+    ],
+    "journal": "Translational oncology",
+    "publishedDate": "2026-09-07",
+    "fetchedDate": "2026-11-18",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "genomic",
+      "drug"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9rDvDL-2kFHot-a5c9fb45e8ae0c7b\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 9af357c7-3f39-4846-b886-e366dec1aac9)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42705247",
     "pmid": "42705247",
     "doi": "10.1016/S2468-2667(26)00168-4",
@@ -12228,91 +12310,6 @@
     ],
     "isHighlight": true,
     "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42560020",
-    "pmid": "42560020",
-    "doi": "10.1111/dom.71067",
-    "title": "Real-World Effectiveness and Treatment Patterns of Tirzepatide in a Large UK Digital Health Cohort.",
-    "titlePt": "Real-World Effectiveness and Treatment Patterns of Tirzepatide in a Large UK Digital Health Cohort.",
-    "abstract": "Tirzepatide has demonstrated substantial weight-loss efficacy in clinical trials, but real-world evidence from routine digital prescribing remains limited. We conducted a retrospective cohort study of adults initiating tirzepatide for obesity via a UK digital prescribing service between March 2024 and July 2025. Linked order-level prescribing data and self-reported weights were analysed to estimate percentage weight change at 3, 6, 9, and 12&#x2009;months. Adherence was assessed using mean days between medication orders. A 6-month survey captured patient-reported outcomes including lifestyle changes and side effects. The primary endpoint was percentage weight change at 6&#x2009;months. Following analysis of 630&#x2009;545 eligible patients (80.3% female, mean BMI 36.1&#x2009;kg/m2 [SD 5.8]), mean weight loss in those with recorded weights was -13.5% (95% CI: -13.56 to -13.51) at 6&#x2009;months (n&#x2009;=&#x2009;270&#x2009;309) and -17.4% (95% CI: -17.5 to -17.3) at 12&#x2009;months (",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo retrospectivo de grande escala, publicado recentemente no *Diabetes, Obesity and Metabolism*, avaliou a eficácia real do tirzepatide no controle de peso em uma coorte britânica de pacientes com obesidade tratados por meio de um serviço digital de prescrição. Entre março de 2024 e julho de 2025, foram analisados dados de 630.545 adultos elegíveis, dos quais 80,3% eram mulheres, com idade média não informada e índice de massa corporal (IMC) médio de 36,1 kg/m² (desvio padrão de 5,8). A perda de peso média, aferida em pacientes com registros disponíveis, atingiu 13,5% (IC 95%: -13,56 a -13,51) em seis meses para 270.309 indivíduos e 17,4% (IC 95%: -17,5 a -17,3) em 12 meses para um subgrupo não especificado de participantes. A adesão ao tratamento, medida pelo intervalo médio entre as ordens de medicação, não foi detalhada no resumo analisado.\n\nOs dados, provenientes de um sistema integrado de prescrição digital e auto-relatos de peso, também incluíram uma avaliação de seis meses com desfechos relatados pelos pacientes, abrangendo mudanças no estilo de vida e efeitos adversos. Embora o estudo não tenha descrito a metodologia de linkage dos dados ou a taxa de resposta da pesquisa, os resultados reforçam a eficácia do tirzepatide em condições de vida real, alinhando-se a dados de ensaios clínicos anteriores. No entanto, limitações como a ausência de informações sobre comorbidades, uso concomitante de outros fármacos ou viés de seleção — comum em coortes digitais — devem ser consideradas na interpretação dos achados. Além disso, a ausência de um grupo controle impede a comparação direta com outras intervenções. Os autores destacam a necessidade de estudos prospectivos com acompanhamento prolongado para validar esses resultados em populações mais diversas e avaliar desfechos clínicos além da perda de peso, como melhora em marcadores metabólicos ou redução de eventos cardiovasculares.\n\n---\n\n**English version**\n\nA large-scale retrospective study published in *Diabetes, Obesity and Metabolism* assessed the real-world effectiveness of tirzepatide for weight management in a UK digital prescribing cohort. Between March 2024 and July 2025, data from 630,545 eligible adults were analyzed, with 80.3% being female, though mean age was not reported, and mean body mass index (BMI) was 36.1 kg/m² (standard deviation 5.8). Among patients with recorded weights, average weight loss reached 13.5% (95% CI: -13.56 to -13.51) at six months for 270,309 individuals and 17.4% (95% CI: -17.5 to -17.3) at 12 months for an unspecified subgroup. Medication adherence, measured as mean days between prescription orders, was not detailed in the abstract.\n\nThe dataset integrated digital prescribing records with self-reported weight measurements, supplemented by a six-month survey capturing patient-reported outcomes, including lifestyle changes and side effects. While the study did not specify the data linkage methodology or survey response rate, the findings corroborate tirzepatide’s efficacy in routine clinical settings, consistent with prior clinical trial data. However, limitations such as lack of data on comorbidities, concurrent medications, or selection bias—common in digital cohorts—should be considered when interpreting the results. Additionally, the absence of a control group precludes direct comparisons with other interventions. The authors emphasize the need for prospective studies with extended follow-up to validate these findings across more diverse populations and assess broader clinical outcomes, such as improvements in metabolic markers or reductions in cardiovascular events.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42560020",
-    "authors": [
-      {
-        "name": "Onayomi Rosenior-Patten",
-        "affiliation": "HeliosX Group, Leamington Spa, Warwickshire, UK."
-      },
-      {
-        "name": "Zoe Lees",
-        "affiliation": "HeliosX Group, Leamington Spa, Warwickshire, UK."
-      },
-      {
-        "name": "Rebecca Rowe",
-        "affiliation": "HeliosX Group, Leamington Spa, Warwickshire, UK."
-      },
-      {
-        "name": "Safia Hussain",
-        "affiliation": "HeliosX Group, Leamington Spa, Warwickshire, UK."
-      }
-    ],
-    "journal": "Diabetes, obesity &amp; metabolism",
-    "publishedDate": "2026-09-03",
-    "fetchedDate": "2026-09-03",
-    "category": "Farmacologia",
-    "tags": [
-      "clinical trial",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42521622",
-    "pmid": "42521622",
-    "doi": "10.1111/dom.71142",
-    "title": "GLP-1 Receptor Agonists and Risk of Skin Cancer in Adults With Type 2 Diabetes: A Target Trial Emulation.",
-    "titlePt": "GLP-1 Receptor Agonists and Risk of Skin Cancer in Adults With Type 2 Diabetes: A Target Trial Emulation.",
-    "abstract": "Existing evidence regarding the association between glucagon-like peptide-1 receptor agonists (GLP-1RAs) and risk of melanoma and non-melanoma skin cancer (NMSC) is inconclusive. This study aimed to assess the association between GLP-1RA initiation and risks of melanoma and NMSC versus sodium-glucose cotransporter 2 inhibitors (SGLT2is) and dipeptidyl peptidase 4 inhibitors (DPP4is) in adults with type 2 diabetes (T2D). Target trial emulation using TriNetX electronic health records (2014-2025). Adults with T2D initiating GLP-1RAs, SGLT2is or DPP4is were included. Outcomes were incident melanoma and NMSC over 3&#x2009;years. Propensity score matching and Cox models estimated hazard ratios (HRs). Sensitivity analyses included negative control outcome (NCO) calibration, a lag-period analysis and restriction to patients with obesity. After matching, the GLP-1RA versus SGLT2i cohort included 235&#x2009;797 pairs; the GLP-1RA versus DPP4i cohort included 153&#x2009;873 pairs. Mean follow-up ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recentemente publicado na revista *Diabetes, Obesity & Metabolism* investigou a relação entre o uso de agonistas do receptor de GLP-1 (GLP-1RAs) e o risco de câncer de pele em adultos com diabetes tipo 2 (T2D). A pesquisa, conduzida por meio de uma emulação de ensaio-alvo baseada em registros eletrônicos de saúde da plataforma TriNetX (2014–2025), comparou os desfechos de pacientes que iniciaram GLP-1RAs com aqueles que usaram inibidores de cotransportador de sódio-glicose 2 (SGLT2is) ou inibidores de dipeptidil peptidase 4 (DPP4is). O objetivo foi avaliar a incidência de melanoma e câncer de pele não melanoma (NMSC) ao longo de três anos.\n\nApós o pareamento por escore de propensão, a coorte GLP-1RA versus SGLT2i incluiu 235.797 pares, enquanto a comparação GLP-1RA versus DPP4i contou com 153.873 pares. Os modelos de Cox não demonstraram associação significativa entre o uso de GLP-1RAs e o risco aumentado de melanoma ou NMSC em comparação aos outros dois grupos. As análises de sensibilidade — incluindo calibração por desfecho negativo, período de latência e restrição a pacientes com obesidade — reforçaram esses achados. Os dados sugerem que, no horizonte temporal avaliado, os GLP-1RAs não elevam o risco de câncer de pele em relação aos SGLT2is ou DPP4is. No entanto, o estudo não aborda possíveis efeitos em períodos mais longos ou em subgrupos específicos não detalhados na análise original.\n\nOs resultados oferecem segurança adicional para a prescrição de GLP-1RAs em pacientes com T2D, especialmente aqueles com indicação prioritária por benefícios cardiovasculares ou metabólicos. Ainda assim, a ausência de dados sobre exposição cumulativa prolongada e a dependência de registros eletrônicos de saúde — passíveis de viés de codificação — limitam a generalização dos achados. Pesquisas futuras devem explorar desfechos em horizontes temporais estendidos e incluir populações com maior diversidade étnica ou genética, além de considerar interações com terapias adjuvantes.\n\n---\n\n**English version**\n\nA study published in *Diabetes, Obesity & Metabolism* examined the association between glucagon-like peptide-1 receptor agonists (GLP-1RAs) and skin cancer risk in adults with type 2 diabetes (T2D). Using a target trial emulation based on TriNetX electronic health records (2014–2025), researchers compared outcomes among patients initiating GLP-1RAs with those using sodium-glucose cotransporter 2 inhibitors (SGLT2is) or dipeptidyl peptidase 4 inhibitors (DPP4is). The primary endpoints were incident melanoma and non-melanoma skin cancer (NMSC) over a three-year follow-up period.\n\nAfter propensity score matching, the GLP-1RA versus SGLT2i cohort included 235,797 matched pairs, while the GLP-1RA versus DPP4i comparison comprised 153,873 pairs. Cox proportional hazard models found no significant increase in melanoma or NMSC risk associated with GLP-1RA use compared to either SGLT2is or DPP4is. Sensitivity analyses—including negative control outcome calibration, lag-period assessment, and restriction to patients with obesity—consistently supported these findings. The results suggest that, within the evaluated timeframe, GLP-1RAs do not elevate skin cancer risk relative to the comparator groups. However, the study does not address potential long-term effects or outcomes in unspecified subgroups.\n\nThese findings provide reassurance regarding the safety of GLP-1RA prescriptions in T2D patients, particularly those with high cardiovascular or metabolic risk. Nonetheless, limitations such as reliance on electronic health records—prone to coding biases—and the absence of data on prolonged cumulative exposure restrict the generalizability of the results. Future research should investigate extended follow-up periods, diverse patient populations (including ethnic and genetic variability), and potential interactions with adjunct therapies to validate these conclusions.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42521622",
-    "authors": [
-      {
-        "name": "Huilin Tang",
-        "affiliation": "The Center for Health AI and Synthesis of Evidence (CHASE), University of Pennsylvania, Philadelphia, Pennsylvania, USA."
-      },
-      {
-        "name": "Bingyu Zhang",
-        "affiliation": "Department of Biostatistics, Epidemiology, and Informatics, University of Pennsylvania Perelman School of Medicine, Philadelphia, Pennsylvania, USA."
-      },
-      {
-        "name": "Ying Lu",
-        "affiliation": "Center for Preventative Ophthalmology and Biostatistics, Department of Ophthalmology, University of Pennsylvania Perelman School of Medicine, Philadelphia, Pennsylvania, USA."
-      },
-      {
-        "name": "Ting Zhou",
-        "affiliation": "The Center for Health AI and Synthesis of Evidence (CHASE), University of Pennsylvania, Philadelphia, Pennsylvania, USA."
-      }
-    ],
-    "journal": "Diabetes, obesity &amp; metabolism",
-    "publishedDate": "2026-09-03",
-    "fetchedDate": "2026-09-03",
-    "category": "Endocrinologia",
-    "tags": [
-      "cancer",
-      "diabetes",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
