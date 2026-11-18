@@ -1,5 +1,126 @@
 [
   {
+    "id": "pubmed-42550414",
+    "pmid": "42550414",
+    "doi": "10.1007/s10157-026-02928-4",
+    "title": "Association of prior Angiotensin receptor-neprilysin inhibitor use with the initial eGFR dip after initiation of SGLT2 inhibitors in patients with chronic kidney disease.",
+    "titlePt": "Association of prior Angiotensin receptor-neprilysin inhibitor use with the initial eGFR dip after initiation of SGLT2 inhibitors in patients with chronic kidney disease.",
+    "abstract": "Sodium-glucose cotransporter 2 (SGLT2) inhibitors provide cardiorenal protection; however, a transient decline in estimated glomerular filtration rate (eGFR), known as the ''initial dip'', is frequently observed after initiation. Although this phenomenon reflects changes in intraglomerular hemodynamics, excessive decline may be associated with worsening renal function. Angiotensin receptor-neprilysin inhibitors (ARNIs) have demonstrated renal protective effects in heart failure, but their impact on the initial dip after SGLT2 inhibitor initiation remains unclear. We retrospectively evaluated the effect of prior ARNI use on the initial dip following SGLT2 inhibitor initiation in 157 patients with chronic kidney disease who newly started SGLT2 inhibitors between 2022 and 2025. Patients were classified into an ARNI group and an angiotensin receptor blocker (ARB) group. The primary outcome was the incidence of an initial dip, defined as a&#x2009;&#x2265;&#x2009;5% decline in eGFR after SGL",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42550414",
+    "authors": [
+      {
+        "name": "Yusuke Ushio",
+        "affiliation": "Department of Nephrology, Tokyo Women's Medical University, 8-1, Kawada-Cho, Shinjuku-Ku, Tokyo, Japan. ushio.yusuke@twmu.ac.jp."
+      },
+      {
+        "name": "Hiroshi Kataoka",
+        "affiliation": "Department of Nephrology, Tokyo Women's Medical University, 8-1, Kawada-Cho, Shinjuku-Ku, Tokyo, Japan."
+      },
+      {
+        "name": "Rina Takahashi",
+        "affiliation": "Department of Nephrology, Tokyo Women's Medical University, 8-1, Kawada-Cho, Shinjuku-Ku, Tokyo, Japan."
+      },
+      {
+        "name": "Momoko Seki",
+        "affiliation": "Department of Nephrology, Tokyo Women's Medical University, 8-1, Kawada-Cho, Shinjuku-Ku, Tokyo, Japan."
+      }
+    ],
+    "journal": "Clinical and experimental nephrology",
+    "publishedDate": "2026-11-17",
+    "fetchedDate": "2026-11-18",
+    "category": "Cardiologia",
+    "tags": [
+      "heart"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9kXmoh-2kFHot-a5c3d6a2ce615f02\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: efab7138-c30b-42b1-bbeb-719cb0463a95)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43043421",
+    "pmid": "43043421",
+    "doi": "10.1007/s00234-026-04270-8",
+    "title": "Carotid plaque morphology on computed tomography angiography associated with cervical recanalization strategy in acute ischemic stroke with anterior circulation tandem lesions.",
+    "titlePt": "Carotid plaque morphology on computed tomography angiography associated with cervical recanalization strategy in acute ischemic stroke with anterior circulation tandem lesions.",
+    "abstract": "To determine whether carotid plaque morphology on preprocedural computed tomography angiography (CTA) is associated with the cervical recanalization strategy used during endovascular treatment (EVT) of acute ischemic stroke caused by anterior circulation tandem atherosclerotic lesions. We retrospectively analyzed a prospective single-center database of consecutive adults treated with mechanical thrombectomy within 24&#xa0;h of last known well between January 2022 and February 2025. CTA features of the extracranial internal carotid artery lesion included plaque composition, occlusion-cap morphology, string sign, and calcification pattern (none, eggshell, or dystrophic). Patients were categorized according to cervical recanalization strategy: aspiration alone or percutaneous transluminal angioplasty with or without stenting (PTA&#xb1;stent). Multivariable logistic regression was used to identify factors independently associated with PTA&#xb1;stent. Seventy-nine patients were included (me",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43043421",
+    "authors": [
+      {
+        "name": "Juan Ignacio Garc&#xed;a Garc&#xed;a",
+        "affiliation": "Bellvitge University Hospital, Barcelona, Spain. juanignaciogarciarx@gmail.com."
+      },
+      {
+        "name": "Ana N&#xfa;&#xf1;ez Guill&#xe9;n",
+        "affiliation": "Bellvitge University Hospital, Barcelona, Spain."
+      },
+      {
+        "name": "Sonia Aixut Lorenzo",
+        "affiliation": "Bellvitge University Hospital, Barcelona, Spain."
+      },
+      {
+        "name": "Luc&#xed;a Aja Rodr&#xed;guez",
+        "affiliation": "Bellvitge University Hospital, Barcelona, Spain."
+      }
+    ],
+    "journal": "Neuroradiology",
+    "publishedDate": "2026-11-17",
+    "fetchedDate": "2026-11-18",
+    "category": "Neurologia",
+    "tags": [
+      "stroke",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9kY3wr-2kFHot-a5c3d7f629875f02\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: faeb86d3-2695-4a13-9267-ef450bf4fce9)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42862458",
+    "pmid": "42862458",
+    "doi": "10.1007/s12098-026-06484-3",
+    "title": "Partial Splenectomy as a Definitive or Interim Solution for Young Children with Transfusion-dependent Hemolytic Anemia: Long-term Results from a 15-Year Cohort.",
+    "titlePt": "Partial Splenectomy as a Definitive or Interim Solution for Young Children with Transfusion-dependent Hemolytic Anemia: Long-term Results from a 15-Year Cohort.",
+    "abstract": "To evaluate the long-term efficacy and safety of partial splenectomy (PS) as a definitive or interim spleen-preserving strategy in young children with transfusion-dependent congenital hemolytic anemia (HA). Patients with congenital HA who required frequent blood transfusions and underwent PS at the present center between 2010 and 2025 were included. The hemoglobin (Hb) level, reticulocyte count, and the need for transfusions (if any) during the follow-up period were noted. Ultrasonography of the splenic remnant was obtained at baseline, 1 mo, and 18 mo following the PS. Fourteen children (median age: 23 mo; range: 7-40) underwent PS by laparotomy (n&#x2009;=&#x2009;12) or laparoscopy (n&#x2009;=&#x2009;2). Median follow-up after PS was 9 y (IQR: 4.8-10.5). Following PS, 8/14 (57%) patients became transfusion-free, with a median Hb of 10.3&#xa0;g/dL at last follow-up. Five (36%) patients continued to require occasional transfusions and subsequently underwent total splenectomy after a me",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42862458",
+    "authors": [
+      {
+        "name": "Prema Menon",
+        "affiliation": "Department of Pediatric Surgery, Advanced Pediatrics Center, Postgraduate Institute of Medical Education and Research, Chandigarh, India."
+      },
+      {
+        "name": "Naga Anudeep Mylavarapu",
+        "affiliation": "Pediatric Hematology-Oncology Unit, Department of Pediatrics, Advanced Pediatrics Center, Postgraduate Institute of Medical Education and Research, Chandigarh, India."
+      },
+      {
+        "name": "Manu Jamwal",
+        "affiliation": "Department of Hematology, Postgraduate Institute of Medical Education and Research, Chandigarh, India."
+      },
+      {
+        "name": "Srinivasan Peyam",
+        "affiliation": "Pediatric Hematology-Oncology Unit, Department of Pediatrics, Advanced Pediatrics Center, Postgraduate Institute of Medical Education and Research, Chandigarh, India."
+      }
+    ],
+    "journal": "Indian journal of pediatrics",
+    "publishedDate": "2026-11-17",
+    "fetchedDate": "2026-11-18",
+    "category": "Pediatria",
+    "tags": [
+      "children"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9kYyfN-2kFHot-a5c3dc5f7c795f02\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 2417efb7-ef2e-4a12-8b54-2bfaee5d8089)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43041521",
     "pmid": "43041521",
     "doi": "10.3389/fimmu.2026.1993237",
@@ -12203,132 +12324,5 @@
     "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-41363715",
-    "pmid": "41363715",
-    "doi": "10.14309/ajg.0000000000003878",
-    "title": "Low Diastolic Blood Pressure and Risk of Ischemic Colitis in the Women's Health Initiative Cohort.",
-    "titlePt": "Low Diastolic Blood Pressure and Risk of Ischemic Colitis in the Women's Health Initiative Cohort.",
-    "abstract": "To identify risk and protective factors in older women for incidence of ischemic colitis (IC) and 30-day mortality. We conducted a prospective study of 100,825 women in the Women's Health Initiative, with an average of 13.1-year follow-up and extensive phenotypic and outcomes data in diverse race and ethnic groups. Lasso Cox regression selected variables related to incidence of IC from multiple domains (demographic, comorbidities, risk factors, biomarkers, psychosocial factors, and dietary factors). Cox regressions modelled the selected variables to obtain adjusted hazard ratios (aHRs) and 95% confidence intervals (CIs). The incidence rate of IC was twice as high among those with a history of cardiovascular disease (55.7 per 10,000 person-years) compared with those with no such history (27.3 per 10,000 person-years). After adjustment for multiple covariates, higher risk was associated with diastolic blood pressure below 90 mm Hg, using 2 or more types of antihypertensive medications co",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo prospectivo de longo prazo, publicado recentemente no *American Journal of Gastroenterology*, identificou uma associação significativa entre pressão arterial diastólica baixa e maior risco de colite isquêmica (CI) em mulheres na pós-menopausa. A pesquisa analisou dados de 100.825 participantes da *Women's Health Initiative*, com acompanhamento médio de 13,1 anos, abrangendo grupos racial e etnicamente diversos. Utilizando regressão de Cox ajustada para múltiplas covariáveis — incluindo comorbidades, biomarcadores e uso de medicamentos —, os autores encontraram que valores de pressão diastólica abaixo de 90 mmHg estão independentemente relacionados ao aumento do risco da doença.\n\nOs resultados mostraram que mulheres com histórico de doença cardiovascular apresentaram incidência de CI mais que o dobro (55,7 por 10.000 pessoas-ano) em comparação àquelas sem esse histórico (27,3 por 10.000 pessoas-ano). Além disso, o uso de dois ou mais tipos de antihipertensivos foi associado a um maior risco, sugerindo que a polifarmácia nesse contexto pode refletir uma condição subjacente mais grave ou descompensada. Embora o estudo não tenha detalhado mecanismos fisiopatológicos específicos, os pesquisadores destacam que a hipotensão diastólica pode comprometer a perfusão colônica, especialmente em indivíduos com aterosclerose preexistente.\n\nApesar da robustez metodológica, o trabalho apresenta limitações inerentes a estudos observacionais, como a impossibilidade de estabelecer relação causal. Fatores de confusão não mensurados, como estilo de vida ou exposição a medicamentos específicos, podem influenciar os achados. Os autores sugerem que futuras pesquisas devem explorar o papel da pressão arterial como marcador de risco modificável, bem como estratégias de monitoramento mais precisas para populações de alto risco. Para a prática clínica, os resultados reforçam a necessidade de atenção redobrada em mulheres com pressão diastólica persistentemente baixa, especialmente naquelas com doenças cardiovasculares prévias.\n\n---\n\n**English version**\n\nA long-term prospective study published in the *American Journal of Gastroenterology* has identified a significant association between low diastolic blood pressure (DBP) and an increased risk of ischemic colitis (IC) in postmenopausal women. The research analyzed data from 100,825 participants in the *Women's Health Initiative*, with an average follow-up of 13.1 years, encompassing diverse racial and ethnic groups. Using adjusted Cox regression models—accounting for comorbidities, biomarkers, medications, and other variables—the authors found that DBP below 90 mmHg was independently linked to a higher risk of IC.\n\nThe findings revealed that women with a history of cardiovascular disease (CVD) had more than double the incidence rate of IC (55.7 per 10,000 person-years) compared to those without CVD (27.3 per 10,000 person-years). Additionally, the use of two or more types of antihypertensive medications was associated with an elevated risk, suggesting that polypharmacy in this context may reflect underlying, severe, or inadequately controlled conditions. While the study did not explore specific pathophysiological mechanisms, researchers hypothesize that diastolic hypotension could impair colonic perfusion, particularly in individuals with preexisting atherosclerosis.\n\nDespite its methodological strengths, the study has inherent limitations common to observational designs, including the inability to establish causality. Unexamined confounders—such as lifestyle factors or exposure to specific drugs—may influence the results. The authors recommend further research to assess DBP as a modifiable risk marker and to develop more precise monitoring strategies for high-risk populations. Clinically, the findings underscore the importance of vigilance in women with persistently low diastolic blood pressure, especially those with preexisting cardiovascular conditions.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41363715",
-    "authors": [
-      {
-        "name": "Sylvia Wassertheil-Smoller",
-        "affiliation": "Department of Epidemiology and Population Health, Albert Einstein College of Medicine, Bronx, New York, USA."
-      },
-      {
-        "name": "Joseph C Larson",
-        "affiliation": "Division of Public Health Sciences, Fred Hutchinson Cancer Center, Seattle, Washington, USA."
-      },
-      {
-        "name": "Xionan Xue",
-        "affiliation": "Department of Epidemiology and Population Health, Albert Einstein College of Medicine, Bronx, New York, USA."
-      },
-      {
-        "name": "Ruby Greywoode",
-        "affiliation": "Division of Gastroenterology, Department of Medicine, Montefiore Medical Center, Bronx, New York, USA."
-      }
-    ],
-    "journal": "The American journal of gastroenterology",
-    "publishedDate": "2026-09-02",
-    "fetchedDate": "2026-09-02",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42683976",
-    "pmid": "42683976",
-    "doi": "10.1227/neu.0000000000004186",
-    "title": "Superlarge-Bore Versus Large-Bore Aspiration Catheters in Mechanical Thrombectomy: A Multicenter Propensity-Matched Analysis.",
-    "titlePt": "Superlarge-Bore Versus Large-Bore Aspiration Catheters in Mechanical Thrombectomy: A Multicenter Propensity-Matched Analysis.",
-    "abstract": "Aspiration catheters are an integral component of mechanical thrombectomy for acute ischemic stroke (AIS). Following early series demonstrating increasing procedural efficiency and improved outcomes with use of large-bore (LB) aspiration catheters, there is increased interest in the use of emerging superlarge-bore (SLB) catheters. We retrospectively analyzed AIS patients with large vessel occlusion treated at 34 international centers (2018-2025) using SLB or LB aspiration catheters on the first attempt. We used propensity score matching (1:6) to define a balanced cohort based on baseline and technical confounders between the catheter groups. Safety, efficacy, and technical outcomes were compared, with the primary outcome being the first pass effect (FPE). A total of 2032 patients treated with aspiration as the frontline technique were included (SLB n = 107; LB n = 1925). After propensity score matching (SLB n = 107; LB n = 642), there was no significant difference in FPE between the SL",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo multicêntrico retrospectivo, publicado no *Journal of Neurosurgery*, comparou a eficácia de cateteres de aspiração *superlarge-bore* (SLB) e *large-bore* (LB) em trombectomias mecânicas para acidente vascular cerebral isquêmico (AVCi) com oclusão de grande vaso. A análise incluiu dados de 34 centros internacionais entre 2018 e 2025, totalizando 2.032 pacientes tratados com aspiração como técnica inicial. Após pareamento por escore de propensão (1:6), o grupo SLB (n=107) foi comparado a um subgrupo pareado do grupo LB (n=642).\n\nOs resultados não demonstraram diferença significativa no *first pass effect* (FPE) entre os dois tipos de cateteres, indicando que SLB não ofereceu vantagem clínica imediata em relação a LB no primeiro procedimento. Dados sobre desfechos funcionais (escala de Rankin modificada em 90 dias) e complicações como hemorragia intracraniana não foram relatados no resumo avaliado. Os autores destacam que a eficiência técnica e a segurança dos dispositivos devem ser avaliadas em estudos prospectivos, considerando variáveis como localização do trombo e experiência do operador. A ausência de diferenças no FPE sugere que outros fatores, como técnica de aspiração ou dispositivos auxiliares, podem influenciar mais os resultados do que o diâmetro do cateter.\n\nA equipe conclui que, embora cateteres SLB sejam uma opção emergente, sua adoção não garante melhora imediata nos desfechos de trombectomia em comparação aos LB. São necessários estudos randomizados com amostras maiores para elucidar o impacto a longo prazo e identificar subgrupos de pacientes que possam se beneficiar desses dispositivos.\n\n---\n\n**English version**\n\nA multicenter retrospective study published in the *Journal of Neurosurgery* compared the efficacy of *superlarge-bore* (SLB) and *large-bore* (LB) aspiration catheters in mechanical thrombectomy for acute ischemic stroke (AIS) with large vessel occlusion. The analysis included data from 34 international centers between 2018 and 2025, encompassing 2,032 patients treated with aspiration as the initial technique. After propensity score matching (1:6), the SLB group (n=107) was compared to a matched subgroup of the LB group (n=642).\n\nThe findings showed no significant difference in the *first pass effect* (FPE) between the two catheter types, indicating that SLB did not provide an immediate clinical advantage over LB in the first procedure. Data on functional outcomes (modified Rankin Scale at 90 days) and complications such as intracranial hemorrhage were not reported in the reviewed summary. The authors emphasize that technical efficiency and device safety should be evaluated in prospective studies, considering variables like thrombus location and operator experience. The lack of difference in FPE suggests that other factors, such as aspiration technique or auxiliary devices, may influence results more than catheter diameter.\n\nThe team concludes that while SLB catheters are an emerging option, their adoption does not guarantee improved thrombectomy outcomes compared to LB. Larger randomized trials are needed to clarify long-term impacts and identify patient subgroups that may benefit from these devices.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42683976",
-    "authors": [
-      {
-        "name": "Ariana Chacon",
-        "affiliation": "Department of Neurosurgery, Emory University School of Medicine, Atlanta, Georgia, USA."
-      },
-      {
-        "name": "Ali M Alawieh",
-        "affiliation": "Department of Neurosurgery, Emory University School of Medicine, Atlanta, Georgia, USA."
-      },
-      {
-        "name": "Mustafa Motiwala",
-        "affiliation": "Department of Neurosurgery, University of Tennessee Health Science Center, Memphis, Tennessee, USA."
-      },
-      {
-        "name": "Dareen Hijazi",
-        "affiliation": "Semmes-Murphey Neurologic and Spine Institute, Memphis, Tennessee, USA."
-      }
-    ],
-    "journal": "Neurosurgery",
-    "publishedDate": "2026-09-02",
-    "fetchedDate": "2026-09-02",
-    "category": "Neurologia",
-    "tags": [
-      "stroke",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42678477",
-    "pmid": "42678477",
-    "doi": "10.1007/s11596-026-00245-1",
-    "title": "Targeting&#xa0;GLUTs in Cancer: Mechanisms, Combination Strategies, and Translational Challenges.",
-    "titlePt": "Targeting&#xa0;GLUTs in Cancer: Mechanisms, Combination Strategies, and Translational Challenges.",
-    "abstract": "Cancer cells exhibit metabolic reprogramming, most notably the Warburg effect, which underscores their heightened dependency on glucose uptake facilitated by glucose transporters (GLUTs). While targeting GLUTs holds promise for disrupting tumor metabolism, monotherapeutic inhibition often leads to compensatory resistance mechanisms, metabolic plasticity, and dose-limiting toxicity. This review comprehensively examines the rationale and mechanisms underlying combined strategies that integrate GLUT inhibitors with conventional chemotherapy, targeted therapy, immunotherapy, and radiotherapy. Such combinations exploit synthetic lethality, reverse immunosuppression, enhance DNA damage, and overcome adaptive resistance. We also discuss emerging approaches such as isoform-specific inhibitors, nanocarrier-based delivery, and artificial intelligence-guided combination design to improve selectivity and efficacy. Finally, we highlight key translational challenges and discuss how cross-disease ins",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42678477",
-    "authors": [
-      {
-        "name": "Mei-Na Shi",
-        "affiliation": "State Key Laboratory of Mechanism and Quality of Chinese Medicine and Faculty of Chinese Medicine, Macau University of Science and Technology, Macau SAR, 999078, China."
-      },
-      {
-        "name": "Dong-Fan Yang",
-        "affiliation": "Zhuhai MUST Science and Technology Research Institute, Macau University of Science and Technology, Hengqin Guangdong-Macao In-Depth Cooperation Zone, Zhuhai, 519099, China."
-      },
-      {
-        "name": "Tong Chu",
-        "affiliation": "State Key Laboratory of Mechanism and Quality of Chinese Medicine and Faculty of Chinese Medicine, Macau University of Science and Technology, Macau SAR, 999078, China."
-      },
-      {
-        "name": "Da-Yuan Zheng",
-        "affiliation": "Zhuhai MUST Science and Technology Research Institute, Macau University of Science and Technology, Hengqin Guangdong-Macao In-Depth Cooperation Zone, Zhuhai, 519099, China."
-      }
-    ],
-    "journal": "Current medical science",
-    "publishedDate": "2026-09-01",
-    "fetchedDate": "2026-11-17",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "chemotherapy",
-      "immunotherapy",
-      "dna"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9cxrP5-2kFHot-a5bbabd84eedbe4c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 837c11f8-0917-47cb-aefb-2d8612a3f5b0)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
