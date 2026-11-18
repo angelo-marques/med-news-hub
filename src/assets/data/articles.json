@@ -1,5 +1,172 @@
 [
   {
+    "id": "pubmed-43038566",
+    "pmid": "43038566",
+    "doi": "10.1001/jama.2026.25143",
+    "title": "A Plasma eMTBR-Tau Immunoassay for Detection of Advanced Insoluble Tau Pathology.",
+    "titlePt": "A Plasma eMTBR-Tau Immunoassay for Detection of Advanced Insoluble Tau Pathology.",
+    "abstract": "Blood biomarkers that reflect neurofibrillary tau burden, a defining hallmark of Alzheimer disease (AD), remain limited. Endogenously cleaved microtubule-binding region tau 243 (eMTBR-tau243) has shown promise when measured by mass spectrometry; a scalable immunoassay could broaden research access and support clinical evaluation. To determine whether plasma levels of eMTBR-tau measured by a novel immunoassay are associated with tau neurofibrillary tangle pathology defined by neuropathology and tau positron emission tomography (PET). This cross-sectional study included brain donors with antemortem plasma from 2 US autopsy cohorts, and individuals with plasma samples and tau PET from 2 imaging cohorts in Canada and Sweden, with visits between 2002 and 2025 depending on the cohort. Plasma eMTBR-tau measured with an immunoassay and eMTBR-tau243 measured with mass spectrometry. Plasma eMTBR-tau levels across neuropathologic Braak neurofibrillary tangle stages (I-VI, ranging from tangles con",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43038566",
+    "authors": [
+      {
+        "name": "Wagner S Brum",
+        "affiliation": "Banner Sun Health Research Institute, Sun City, Arizona."
+      },
+      {
+        "name": "Shorena Janelidze",
+        "affiliation": "ZRO Imaging, Gothenburg, Sweden."
+      },
+      {
+        "name": "Alpana Singh",
+        "affiliation": "Clinical Memory Research Unit, Department of Clinical Sciences Malm&#xf6;, Lund University, Lund, Sweden."
+      },
+      {
+        "name": "Nesrine Rahmouni",
+        "affiliation": "Banner Sun Health Research Institute, Sun City, Arizona."
+      }
+    ],
+    "journal": "JAMA",
+    "publishedDate": "2026-11-18",
+    "fetchedDate": "2026-11-18",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "alzheimer"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9oY4nG-2kFHot-a5c714df29efa1cf\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: f10eea19-2404-44f1-8327-89dd6f635f94)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43037989",
+    "pmid": "43037989",
+    "doi": "10.1001/jamaneurol.2026.4292",
+    "title": "Absolute Risk of Progression to Cognitive Impairment Based on Plasma Phosphorylated Tau 217, Age, Sex, and APOE &#x3b5;4.",
+    "titlePt": "Absolute Risk of Progression to Cognitive Impairment Based on Plasma Phosphorylated Tau 217, Age, Sex, and APOE &#x3b5;4.",
+    "abstract": "Alzheimer disease (AD) pathology can be detected years before symptom onset, but some individuals who are biomarker positive and cognitively unimpaired (CU) remain asymptomatic. To estimate 5- and 10-year absolute risks of mild cognitive impairment (MCI) and dementia using continuous plasma phosphorylated tau 217 (p-tau217) and p-tau217/amyloid &#x3b2; 42 (A&#x3b2;42). This cohort study included participants from the Mayo Clinic Study of Aging (MCSA) and the Alzheimer's Disease Neuroimaging Initiative (ADNI). Participants were CU individuals aged 60 to 90 years with baseline Fujirebio Lumipulse plasma p-tau217 measurements, APOE genotyping, and longitudinal clinical follow-up. The MCSA is a population-based longitudinal cohort of residents in Olmsted County, Minnesota; ADNI is a multicenter observational cohort. MCSA data were ascertained from October 2008 to September 2025; ADNI data from September 2005 to January 2026. Age, sex, APOE &#x3b5;4, p-tau217, and p-tau217/A&#x3b2;42. Trans",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43037989",
+    "authors": [
+      {
+        "name": "Alicia Algeciras-Schimnich",
+        "affiliation": "Mayo Clinic, Rochester, Minnesota."
+      },
+      {
+        "name": "Mingzhao Hu",
+        "affiliation": "Mayo Clinic, Rochester, Minnesota."
+      },
+      {
+        "name": "Stephen D Weigand",
+        "affiliation": "Mayo Clinic, Rochester, Minnesota."
+      },
+      {
+        "name": "Terry M Therneau",
+        "affiliation": "Mayo Clinic, Rochester, Minnesota."
+      }
+    ],
+    "journal": "JAMA neurology",
+    "publishedDate": "2026-11-18",
+    "fetchedDate": "2026-11-18",
+    "category": "Neurologia",
+    "tags": [
+      "alzheimer",
+      "dementia",
+      "cognitive"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9oY7Wd-2kFHot-a5c715187922a1f4\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: d4cd235a-ea20-4182-9eb6-f75e1fbddc14)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42962687",
+    "pmid": "42962687",
+    "doi": "10.1016/S2213-8587(26)00232-9",
+    "title": "Efficacy and safety of oral orforglipron in Japanese participants with obesity disease (ATTAIN-J): a double-blind, randomised, placebo-controlled, parallel-group, phase 3 trial.",
+    "titlePt": "Efficacy and safety of oral orforglipron in Japanese participants with obesity disease (ATTAIN-J): a double-blind, randomised, placebo-controlled, parallel-group, phase 3 trial.",
+    "abstract": "Orforglipron, a small-molecule, non-peptide, oral GLP-1 receptor agonist, has shown bodyweight reduction and cardiometabolic benefits in adults with obesity across phase 3 trials globally. We aimed to assess the efficacy and safety of orforglipron versus placebo for treating obesity disease in Japanese adults. ATTAIN-J was a double-blind, randomised, placebo-controlled, parallel-group, phase 3 trial conducted across 16 medical research centres and hospitals in Japan and included adults aged 18 years or older with a BMI between 27 kg/m2 and less than 35 kg/m2 and two or more obesity-related health disorders, or a BMI of 35 kg/m2 or higher and one or more obesity-related health disorder, with one or more of the obesity-related health disorders being hypertension, dyslipidaemia, or type 2 diabetes (targeted at about 25% of participants), consistent with Japanese indications for tirzepatide and semaglutide for obesity disease; and at least one unsuccessful dietary attempt to lose weight. P",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42962687",
+    "authors": [
+      {
+        "name": "Koutaro Yokote",
+        "affiliation": "Chiba University, Chiba, Japan."
+      },
+      {
+        "name": "Toshimasa Yamauchi",
+        "affiliation": "Department of Diabetes and Metabolic Diseases, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan."
+      },
+      {
+        "name": "Tomotaka Shingaki",
+        "affiliation": "Japan Drug Development and Medical Affairs, Eli Lilly Japan, Kobe, Japan. Electronic address: shingaki_tomotaka@lilly.com."
+      },
+      {
+        "name": "Rina Chin",
+        "affiliation": "Japan Drug Development and Medical Affairs, Eli Lilly Japan, Kobe, Japan."
+      }
+    ],
+    "journal": "The lancet. Diabetes &amp; endocrinology",
+    "publishedDate": "2026-11-17",
+    "fetchedDate": "2026-11-18",
+    "category": "Endocrinologia",
+    "tags": [
+      "hypertension",
+      "diabetes",
+      "metabolic",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9oYTyP-2kFHot-a5c716c74f6268e8\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: a5e30677-a837-4cb1-9feb-eeb04e168101)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42966051",
+    "pmid": "42966051",
+    "doi": "10.1016/j.ejmech.2026.119425",
+    "title": "Hydroxypyridinone scaffolds linking antimicrobial and anti-tyrosinase activity through metal chelation: An integrated medicinal chemistry review.",
+    "titlePt": "Hydroxypyridinone scaffolds linking antimicrobial and anti-tyrosinase activity through metal chelation: An integrated medicinal chemistry review.",
+    "abstract": "HOPOs, particularly 3-hydroxypyridin-4-one derivatives, are well-established metal-chelating agents that have attracted an intense interest in medicinal chemistry due to their various biological functions. Due to their ability to coordinate biologically important metal ions, especially Fe3 and Cu2, HOPO-based compounds are becoming promising tyrosinase inhibitors and antimicrobial agents. In this review, we will review hydroxypyridinone derivatives from 2010 to 2025, with a special focus on their anti-tyrosinase and antimicrobial activities, SAR and molecular docking studies, the development of new drugs and future drug-design strategies. We found that the 3-hydroxy-4-one pharmacophore is the key structural parameter of tyrosinase inhibitor and antimicrobial activity. For tyrosinase inhibition, keeping the metal-chelating core intact, moderate lipophilicity, N1-substitution and para-substituted aromatic groups greatly enhance activity. Several hybrid derivatives showed improved inhibit",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966051",
+    "authors": [
+      {
+        "name": "Leila Emami",
+        "affiliation": "Pharmaceutical Sciences Research Center, Shiraz University of Medical Sciences, Shiraz, Iran."
+      },
+      {
+        "name": "Sara Sadeghian",
+        "affiliation": "Department of Medicinal Chemistry, School of Pharmacy, Shiraz University of Medical Sciences, Shiraz, Iran."
+      },
+      {
+        "name": "Hossein Sadeghpour",
+        "affiliation": "Department of Medicinal Chemistry, School of Pharmacy, Shiraz University of Medical Sciences, Shiraz, Iran; Medicinal and Natural Products Chemistry Research Center, Shiraz University of Medical Sciences, Shiraz, Iran."
+      },
+      {
+        "name": "Hedeyeh Rohani",
+        "affiliation": "Student Research Committee, School of Pharmacy, Shiraz University of Medical Sciences, Shiraz, Iran."
+      }
+    ],
+    "journal": "European journal of medicinal chemistry",
+    "publishedDate": "2026-11-17",
+    "fetchedDate": "2026-11-18",
+    "category": "Infectologia",
+    "tags": [
+      "antimicrobial",
+      "drug"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9oYiBE-2kFHot-a5c717f1bb9568e8\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 52abb095-0e1e-47cf-bca4-f708fd54a1ab)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42550414",
     "pmid": "42550414",
     "doi": "10.1007/s10157-026-02928-4",
@@ -12154,174 +12321,6 @@
     ],
     "isHighlight": false,
     "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42556172",
-    "pmid": "42556172",
-    "doi": "10.1016/j.jcyt.2026.102898",
-    "title": "A scoping review of gene editing in clinical trials: identifying aspects of trial design to accelerate clinical adoption.",
-    "titlePt": "A scoping review of gene editing in clinical trials: identifying aspects of trial design to accelerate clinical adoption.",
-    "abstract": "Initial clinical trials of gene editing have recently emerged and generated significant interest in this promising therapy. A scoping review is needed to understand aspects of study design that may accelerate further clinical translation. A systematic search of published clinical trials was conducted to May 22, 2025. Twenty-nine published trials were identified for analysis (420 patients; median ages 6 months to 90 years). The most common gene editing technology used was CRISPR-Cas9 (23 studies, 79%). Hematopoietic cells were targeted most frequently, and leukemias and lymphomas were the most common clinical indications (8 studies; 27.5%), followed by hemoglobin disorders (6; 20.6%), solid tumors (6; 20.6%), rare genetic diseases (5; 17.2%), and others (4; 13.8%). All trials were early-phase (Phase I/II) with only 1 controlled study (29 patients). Six studies used in vivo approaches while all others performed gene editing ex vivo. Gene transfection was by electroporation (9 studies; 31",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm levantamento recente publicado no *Journal of Cytotherapy* mapeou os primeiros ensaios clínicos de edição gênica, revelando padrões e lacunas que podem influenciar a adoção acelerada dessa terapia promissora. O estudo, uma revisão de escopo conduzida até maio de 2025, analisou 29 ensaios clínicos publicados, envolvendo 420 pacientes com idades entre 6 meses e 90 anos. A tecnologia mais empregada foi o CRISPR-Cas9, presente em 79% dos estudos (23 casos), seguida por outras técnicas menos frequentes.\n\nOs alvos terapêuticos mais comuns foram células hematopoiéticas, com leucemias e linfomas representando 27,5% das indicações clínicas (8 estudos), seguidos por distúrbios de hemoglobina (20,6%), tumores sólidos (20,6%), doenças genéticas raras (17,2%) e outras condições (13,8%). Todos os ensaios eram de fases iniciais (I/II), com apenas um estudo controlado, envolvendo 29 pacientes. A maioria dos procedimentos (23 estudos) utilizou abordagens *ex vivo*, enquanto seis empregaram técnicas *in vivo*. A transfecção gênica foi majoritariamente realizada por eletroporação (31% dos casos), embora o método não tenha sido especificado em 48% dos estudos.\n\nEmbora os resultados confirmem o potencial da edição gênica como ferramenta terapêutica — especialmente em doenças oncológicas e hematológicas —, a ausência de estudos controlados e a heterogeneidade nos métodos de transfecção limitam conclusões robustas sobre eficácia e segurança. A predominância de fases iniciais reflete a ainda incipiente maturidade clínica da técnica, sugerindo que mais pesquisas são necessárias para padronizar protocolos e avaliar desfechos a longo prazo. Os próximos passos incluem a realização de ensaios randomizados e a uniformização de técnicas de entrega gênica, essenciais para a transposição dessa tecnologia da bancada para a prática clínica rotineira.\n\n---\n\n**English version**\n\nA recent scoping review published in *Journal of Cytotherapy* has mapped the early landscape of clinical trials in gene editing, highlighting design patterns and gaps that may shape the accelerated adoption of this promising therapy. Conducted up to May 2025, the study analyzed 29 published clinical trials involving 420 patients aged between 6 months and 90 years. The most commonly used technology was CRISPR-Cas9, employed in 79% of the studies (23 trials), with other gene-editing techniques used less frequently.\n\nHematopoietic cells were the most frequent target, with leukemias and lymphomas accounting for 27.5% of clinical indications (8 studies), followed by hemoglobin disorders (20.6%), solid tumors (20.6%), rare genetic diseases (17.2%), and other conditions (13.8%). All trials were in early phases (Phase I/II), with only one controlled study involving 29 patients. The majority of procedures (23 studies) used *ex vivo* approaches, while six employed *in vivo* techniques. Gene transfection was predominantly performed via electroporation in 31% of cases, though the method was unspecified in 48% of the studies.\n\nWhile the findings underscore the potential of gene editing as a therapeutic tool—particularly for oncological and hematological diseases—the lack of controlled studies and heterogeneity in transfection methods constrain robust conclusions regarding efficacy and safety. The predominance of early-phase trials reflects the field's still-nascent clinical maturity, indicating that further research is needed to standardize protocols and assess long-term outcomes. Future directions include the implementation of randomized trials and the harmonization of gene delivery techniques, critical steps for translating this technology from bench to routine clinical practice.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42556172",
-    "authors": [
-      {
-        "name": "Gabrielle Khare",
-        "affiliation": "Faculty of Medicine, University of Ottawa, Ottawa, Canada."
-      },
-      {
-        "name": "An Duong",
-        "affiliation": "Cancer Research Program, Ottawa Hospital Research Institute, Ottawa, Canada."
-      },
-      {
-        "name": "Justine Hanotaux",
-        "affiliation": "Stem Cells, Canadian Blood Services, Ottawa, Canada."
-      },
-      {
-        "name": "Risa Shorr",
-        "affiliation": "Information Services, The Ottawa Hospital, Ottawa, Canada."
-      }
-    ],
-    "journal": "Cytotherapy",
-    "publishedDate": "2026-09-02",
-    "fetchedDate": "2026-09-03",
-    "category": "Oncologia",
-    "tags": [
-      "tumor",
-      "leukemia",
-      "lymphoma",
-      "genetic",
-      "crispr"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42685611",
-    "pmid": "42685611",
-    "doi": "10.1016/j.tranon.2026.103006",
-    "title": "Decoding cancer with artificial intelligence: Transforming research, diagnosis, and therapy with future insights.",
-    "titlePt": "Decoding cancer with artificial intelligence: Transforming research, diagnosis, and therapy with future insights.",
-    "abstract": "Cancer remains one of the leading global health burdens, with increasing complexity in genomic, imaging, and clinical datasets presenting significant challenges for effective management. Artificial intelligence (AI) has emerged as a powerful tool to address these challenges by enabling pattern recognition, knowledge integration, and data-driven decision-making. This review highlights recent advances in the application of AI across cancer research, diagnosis, and therapy. In research, AI accelerates drug discovery and repurposing, enhances genomic data interpretation, and facilitates biomarker identification through multi-omics integration. In diagnosis, AI has demonstrated high technical performance in radiology for lesion detection and image segmentation, in pathology for tumour grading and molecular prediction, and in liquid biopsy for non-invasive biomarker analysis. In therapy, AI supports precision medicine by predicting treatment responses, monitoring disease progression, and opt",
-    "journalisticSummary": "A inteligência artificial (IA) tem se consolidado como uma ferramenta transformadora no enfrentamento do câncer, doença que permanece como um dos principais desafios de saúde global, com complexidade crescente em dados genômicos, de imagem e clínicos. Um estudo publicado no *Translational Oncology* (DOI: 10.1016/j.tranon.2026.103006) analisa como a IA está redefinindo a pesquisa, o diagnóstico e o tratamento oncológico, destacando avanços recentes em três frentes principais. Na pesquisa, a tecnologia acelera a descoberta e reposicionamento de fármacos, melhora a interpretação de dados genômicos e facilita a identificação de biomarcadores por meio da integração de multiômicas. No diagnóstico, a IA demonstra alto desempenho técnico em radiologia — com detecção de lesões e segmentação de imagens —, em patologia — para gradação tumoral e predição molecular — e em biópsias líquidas, onde permite análises não invasivas de biomarcadores. Na terapia, a IA apoia a medicina de precisão ao prever respostas ao tratamento, monitorar a progressão da doença e otimizar protocolos terapêuticos, embora o estudo não especifique casos clínicos ou ensaios prospectivos que validem tais aplicações em larga escala.\n\nApesar dos resultados promissores, os autores ressaltam limitações críticas, como a dependência de grandes volumes de dados de alta qualidade, vieses inerentes a conjuntos amostrais desbalanceados e a necessidade de padronização de protocolos para integração de múltiplas fontes de informação. Além disso, a reprodutibilidade dos modelos em cenários clínicos reais ainda requer validação robusta, especialmente em populações diversas e em contextos de saúde pública. Os próximos passos incluem o desenvolvimento de frameworks regulatórios para aprovação de ferramentas baseadas em IA, a expansão de estudos prospectivos multicêntricos e a colaboração interdisciplinar para superar barreiras técnicas e éticas. Embora o artigo não forneça métricas quantitativas detalhadas ou comparações diretas com métodos convencionais, ele reforça o potencial da IA como catalisador de inovações na oncologia, desde a bancada até o leito do paciente.\n\n---\n\nArtificial intelligence (AI) has emerged as a transformative tool in the fight against cancer, a disease that remains one of the leading global health burdens with increasingly complex genomic, imaging, and clinical datasets. A study published in *Translational Oncology* (DOI: 10.1016/j.tranon.2026.103006) examines how AI is reshaping cancer research, diagnosis, and therapy by highlighting recent advances across three key domains. In research, AI accelerates drug discovery and repurposing, enhances genomic data interpretation, and facilitates biomarker identification through multi-omics integration. In diagnosis, the technology demonstrates high technical performance in radiology—enabling lesion detection and image segmentation—pathology—supporting tumor grading and molecular prediction—and liquid biopsy, where it enables non-invasive biomarker analysis. In therapy, AI aids precision medicine by predicting treatment responses, monitoring disease progression, and optimizing therapeutic protocols, though the study does not specify clinical cases or prospective trials validating these applications at scale.\n\nWhile the findings are promising, the authors underscore critical limitations, including the reliance on large volumes of high-quality data, biases inherent in unbalanced datasets, and the need for standardized protocols to integrate diverse data sources. Additionally, the reproducibility of AI models in real-world clinical settings remains contingent on robust validation, particularly across diverse populations and public health contexts. Future directions include the development of regulatory frameworks for AI-based tools, the expansion of multicenter prospective studies, and interdisciplinary collaboration to address technical and ethical challenges. Although the paper does not provide detailed quantitative metrics or direct comparisons with conventional methods, it underscores AI’s potential as a catalyst for innovation in oncology, from bench to bedside.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42685611",
-    "authors": [
-      {
-        "name": "Muneera Anwer",
-        "affiliation": "School of Pharmacy and Medical Sciences, Griffith University, Queensland, Australia. Electronic address: muneera.anwer@griffithuni.edu.au."
-      },
-      {
-        "name": "Krupa Bhaliya",
-        "affiliation": "School of Pharmacy and Medical Sciences, Griffith University, Queensland, Australia."
-      },
-      {
-        "name": "Ming Q Wei",
-        "affiliation": "School of Pharmacy and Medical Sciences, Griffith University, Queensland, Australia."
-      }
-    ],
-    "journal": "Translational oncology",
-    "publishedDate": "2026-09-02",
-    "fetchedDate": "2026-09-03",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "genomic",
-      "drug"
-    ],
-    "isHighlight": false,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42498744",
-    "pmid": "42498744",
-    "doi": "10.1038/s41416-026-03522-x",
-    "title": "Chinese expert consensus on precision testing and molecular diagnosis of pancreatic cancer (2025).",
-    "titlePt": "Chinese expert consensus on precision testing and molecular diagnosis of pancreatic cancer (2025).",
-    "abstract": "This consensus by the CSCO Pancreatic Cancer Expert Committee establishes evidence-based guidelines for molecular testing in pancreatic ductal adenocarcinoma. It details recommendations for biomarkers (e.g., KRAS, BRCA, MSI), liquid biopsy, and precision imaging to direct targeted therapies and immunotherapy, aiming to standardize diagnosis and optimize individualized patient care. Pancreatic ductal adenocarcinoma (PDAC) is the most common pathological type of primary pancreatic malignancy, accounting for ~95% of cases and generally referred to as pancreatic cancer [1]. Its prognosis is extremely poor and its incidence continues to rise [2]. According to the most recent global cancer statistics, the incidence of pancreatic cancer ranks 12th among all cancers, and its mortality ranks 6th, making it one of the deadliest malignancies worldwide [3]. Approximately 57% of patients have metastatic disease at diagnosis and require systemic therapy, for which chemotherapy remains the standard f",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm consenso de especialistas chineses, publicado em 2025, estabelece diretrizes baseadas em evidências para testes moleculares em pacientes com adenocarcinoma ductal pancreático (PDAC), o tipo mais comum de câncer pancreático primário, responsável por cerca de 95% dos casos. O documento, elaborado pelo Comitê de Especialistas em Câncer Pancreático da Sociedade Chinesa de Oncologia Clínica (CSCO), padroniza a abordagem diagnóstica e terapêutica por meio da identificação de biomarcadores como KRAS, BRCA e instabilidade de microssatélites (MSI), além de recomendar o uso de biópsia líquida e técnicas de imagem de precisão para direcionar terapias-alvo e imunoterapia.\n\nO PDAC apresenta prognóstico extremamente reservado, com incidência crescente e mortalidade que ocupa a sexta posição entre todos os tipos de câncer globalmente. Segundo dados recentes, cerca de 57% dos pacientes são diagnosticados em estágio metastático, demandando terapia sistêmica, cuja principal opção ainda é a quimioterapia. Nesse contexto, a integração de testes moleculares surge como estratégia promissora para personalizar o tratamento, especialmente diante da limitada eficácia das abordagens convencionais. Embora o consenso não especifique critérios de implementação em diferentes sistemas de saúde, ele reforça a necessidade de protocolos padronizados para otimizar a estratificação de pacientes e o acesso a terapias direcionadas, como inibidores de PARP em casos com mutações BRCA ou imunoterápicos em tumores MSI-high.\n\nEntre as principais limitações destacadas estão a heterogeneidade biológica do PDAC, a variabilidade na disponibilidade de tecnologias avançadas em diferentes regiões e a escassez de dados prospectivos que validem o impacto clínico dessas estratégias em populações diversas. Os autores sugerem que estudos futuros devem priorizar a validação de biomarcadores em coortes multirregionais e o desenvolvimento de algoritmos preditivos para guiar a combinação de terapias. Além disso, a integração de dados clínicos, genômicos e radiômicos emerge como caminho para aprimorar a acurácia diagnóstica e terapêutica, embora ainda não haja consenso sobre os padrões ideais para sua implementação.\n\n---\n\n**English version**\n\nA 2025 expert consensus from China outlines evidence-based molecular testing guidelines for pancreatic ductal adenocarcinoma (PDAC), the most common primary pancreatic malignancy, accounting for approximately 95% of cases. Developed by the Chinese Society of Clinical Oncology (CSCO) Pancreatic Cancer Expert Committee, the consensus standardizes diagnostic and therapeutic approaches through the identification of key biomarkers such as KRAS, BRCA, and microsatellite instability (MSI), alongside recommendations for liquid biopsy and precision imaging to guide targeted therapies and immunotherapy.\n\nPDAC carries an exceptionally poor prognosis, with rising incidence and mortality ranking sixth globally. Recent data indicate that about 57% of patients are diagnosed with metastatic disease, necessitating systemic therapy where chemotherapy remains the standard. In this context, molecular testing integration emerges as a promising strategy to personalize treatment, particularly given the limited efficacy of conventional approaches. While the consensus does not specify implementation criteria across healthcare systems, it underscores the need for standardized protocols to optimize patient stratification and access to targeted therapies, such as PARP inhibitors in BRCA-mutated cases or immunotherapy for MSI-high tumors.\n\nKey limitations include the biological heterogeneity of PDAC, disparities in access to advanced technologies across regions, and the lack of prospective data validating the clinical impact of these strategies in diverse populations. The authors propose that future research prioritize biomarker validation in multi-regional cohorts and the development of predictive algorithms to guide therapy combinations. Additionally, the integration of clinical, genomic, and radiomic data is highlighted as a potential path to enhance diagnostic and therapeutic accuracy, though consensus on optimal implementation standards remains unresolved.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42498744",
-    "authors": [
-      {
-        "name": "Dan Cao",
-        "affiliation": "Division of Abdominal Tumor Multimodality Treatment, West China Hospital of Sichuan University, Chengdu, China."
-      },
-      {
-        "name": "Jianhui Wu",
-        "affiliation": "Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Department of Hepato-Pancreato-Biliary Surgery, Peking University Cancer Hospital and Institute, Beijing, China."
-      },
-      {
-        "name": "Jiujie Cui",
-        "affiliation": "Department of Oncology and State Key Laboratory of Systems Medicine for Cancer of Shanghai Cancer Institute, Renji Hospital, School of Medicine, Shanghai Jiaotong University, Shanghai, China."
-      },
-      {
-        "name": "Chen Xun",
-        "affiliation": "Hepatobiliary and Pancreatic Tumor Department, Nanjing Tianyinshan Hospital Affiliated to China Pharmaceutical University, Nanjing, China."
-      }
-    ],
-    "journal": "British journal of cancer",
-    "publishedDate": "2026-09-02",
-    "fetchedDate": "2026-09-02",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "carcinoma",
-      "chemotherapy",
-      "immunotherapy",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42681987",
-    "pmid": "42681987",
-    "doi": "10.1097/MCO.0000000000001253",
-    "title": "Micronutrients in adult critically ill patients: lessons learned and the path toward precision.",
-    "titlePt": "Micronutrients in adult critically ill patients: lessons learned and the path toward precision.",
-    "abstract": "Despite strong biological plausibility, empiric high-dose micronutrient supplementation has failed to improve outcomes in critically ill patients. This review synthesizes evidence from the past 18&#x200a;months and outlines the necessary transition toward biomarker-guided precision nutrition. Recent evidence has further challenged routine high-dose micronutrient therapy. High-dose intravenous vitamin C failed to improve outcomes and was associated with potential harm in patients with sepsis, COVID-19, severe burns, and post-cardiac arrest syndrome. In contrast, a 2025 meta-analysis reported reduced short-term mortality and shorter ICU stay with vitamin D supplementation in patients on mechanical ventilation. Thiamine may shorten the duration of shock without affecting mortality. Observational studies suggest that carnitine deficiency is common during critical illness, and both deficiency and excess may be associated with adverse outcomes in critically ill patients. Selenium supplementa",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm crescente conjunto de evidências tem demonstrado que a suplementação empírica de micronutrientes em altas doses não melhora os desfechos clínicos em pacientes adultos em estado crítico, desafiando práticas anteriormente estabelecidas. Uma revisão publicada recentemente no *PubMed* (DOI: 10.1097/MCO.0000000000001253) sintetiza dados dos últimos 18 meses e propõe uma transição rumo à nutrição de precisão guiada por biomarcadores. O estudo destaca que intervenções com doses elevadas de vitamina C intravenosa não apenas falharam em melhorar resultados como também foram associadas a potenciais danos em grupos como pacientes com sepse, COVID-19, queimaduras graves e síndrome pós-parada cardíaca.\n\nEm contrapartida, uma meta-análise de 2025 identificou benefícios significativos com a suplementação de vitamina D em pacientes sob ventilação mecânica, incluindo redução da mortalidade a curto prazo e menor tempo de internação na Unidade de Terapia Intensiva (UTI). Já a tiamina mostrou potencial para encurtar a duração do choque, embora sem impacto na mortalidade. Estudos observacionais sugerem que a deficiência de carnitina é frequente em pacientes críticos, e tanto a deficiência quanto o excesso desse nutriente podem estar relacionados a desfechos adversos. A suplementação de selênio, por sua vez, não foi abordada com detalhes no resumo analisado, o que limita conclusões sobre seu papel atual na prática clínica.\n\nA revisão reforça que a abordagem tradicional de suplementação indiscriminada deve ser substituída por estratégias personalizadas, baseadas em avaliações individuais de status nutricional. Os autores destacam a necessidade de mais pesquisas para validar protocolos de dosagem e identificar biomarcadores confiáveis que orientem a terapia. Enquanto isso, a prática clínica deve priorizar a individualização do tratamento, considerando os riscos e benefícios de cada intervenção à luz das evidências mais recentes.\n\n---\n\n**English version**\n\nA growing body of evidence has shown that high-dose empirical micronutrient supplementation does not improve clinical outcomes in critically ill adult patients, challenging previously established practices. A recent review published in *PubMed* (DOI: 10.1097/MCO.0000000000001253) synthesizes data from the past 18 months and advocates for a shift toward biomarker-guided precision nutrition. The study highlights that high-dose intravenous vitamin C not only failed to improve outcomes but was also associated with potential harm in patients with sepsis, COVID-19, severe burns, and post-cardiac arrest syndrome.\n\nIn contrast, a 2025 meta-analysis identified significant benefits with vitamin D supplementation in mechanically ventilated patients, including reduced short-term mortality and shorter ICU stays. Thiamine showed potential in shortening shock duration, though without an impact on mortality. Observational studies suggest that carnitine deficiency is common in critically ill patients, and both deficiency and excess may be linked to adverse outcomes. Selenium supplementation, however, was not addressed in detail in the analyzed abstract, limiting conclusions about its current role in clinical practice.\n\nThe review emphasizes that the traditional approach of indiscriminate supplementation should be replaced by personalized strategies based on individual nutritional status assessments. The authors stress the need for further research to validate dosing protocols and identify reliable biomarkers to guide therapy. In the meantime, clinical practice should prioritize individualized treatment, weighing the risks and benefits of each intervention in light of the latest evidence.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42681987",
-    "authors": [
-      {
-        "name": "Christian Stoppe",
-        "affiliation": "Department of Anesthesiology, Intensive Care, Emergency and Pain Medicine, University Hospital Wuerzburg, Wuerzburg."
-      },
-      {
-        "name": "Kursat Gundogan",
-        "affiliation": "Department of Cardiac Anesthesiology and Intensive Care Medicine, Deutsches Herzzentrum der Charit&#xe9;, Berlin, Germany."
-      },
-      {
-        "name": "Stefano Marelli",
-        "affiliation": "Division of Medical Intensive Care, Department of Internal Medicine, Erciyes University Faculty of Medicine."
-      }
-    ],
-    "journal": "Current opinion in clinical nutrition and metabolic care",
-    "publishedDate": "2026-09-02",
-    "fetchedDate": "2026-09-02",
-    "category": "Infectologia",
-    "tags": [
-      "cardiac",
-      "sepsis",
-      "covid"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
