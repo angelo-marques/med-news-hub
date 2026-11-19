@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42826809",
+    "pmid": "42826809",
+    "doi": "10.1016/j.jep.2026.122443",
+    "title": "Traditional Chinese medicine for Graves' disease: Clinical efficacy, pharmacological mechanisms, and challenges.",
+    "titlePt": "Traditional Chinese medicine for Graves' disease: Clinical efficacy, pharmacological mechanisms, and challenges.",
+    "abstract": "Graves' disease (GD) is a common autoimmune disorder affecting the thyroid gland and is the most common cause of hyperthyroidism and thyrotoxicosis. Given the limitations of current conventional antithyroid therapy for GD, including side effects and relapse concerns, exploring alternative therapeutic options, such as Traditional Chinese Medicine (TCM), is of clinical interest. TCM, with its advantages of multi-component, multi-target actions and relatively mild side effects, has become a promising alternative therapy for GD. This review aims to systematically discuss the clinical efficacy of Chinese herbal formulas, single herbs, and their isolated active constituents reported in the literature over the past two decades for the treatment of GD, summarize the molecular mechanisms of treatment, conduct a safety evaluation, clarify the potential advantages of TCM in GD therapy, and provide insights for future TCM-based GD treatment strategies. This review was conducted according to the PR",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42826809",
+    "authors": [
+      {
+        "name": "Luoxuan Su",
+        "affiliation": "School of Pharmacy, Department of Pharmacology, China Medical University, Shenyang, 110122, China."
+      },
+      {
+        "name": "Dan Guo",
+        "affiliation": "Department of Endocrinology and Metabolism, the Fourth Affiliated Hospital of China Medical University, Shenyang, 110032, China."
+      },
+      {
+        "name": "Benyu Su",
+        "affiliation": "School of Pharmacy, Department of Pharmacology, China Medical University, Shenyang, 110122, China."
+      },
+      {
+        "name": "Ziyue Zhao",
+        "affiliation": "School of Pharmacy, Department of Pharmacology, China Medical University, Shenyang, 110122, China."
+      }
+    ],
+    "journal": "Journal of ethnopharmacology",
+    "publishedDate": "2026-11-18",
+    "fetchedDate": "2026-11-19",
+    "category": "Imunologia",
+    "tags": [
+      "rna",
+      "therapeutic",
+      "immune",
+      "autoimmune",
+      "thyroid"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9t4HFN-2kFHot-a5cbf5edebd52f5e\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 364bcd65-e7a6-4145-a575-6f9fad085f74)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43048891",
     "pmid": "43048891",
     "doi": "10.1177/13872877261507113",
@@ -12275,38 +12319,6 @@
       "gene",
       "pediatric",
       "metabolic"
-    ],
-    "isHighlight": true,
-    "readTime": 6,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42481928",
-    "pmid": "42481928",
-    "doi": "10.1111/dom.71138",
-    "title": "Safety Signals of GLP-1 Receptor Agonists: A Multi-Method Pharmacovigilance Analysis of FAERS (2018-2025) With Sensitivity-Stratified Prioritisation, Notoriety-Bias Assessment, and Cross-Database Validation.",
-    "titlePt": "Safety Signals of GLP-1 Receptor Agonists: A Multi-Method Pharmacovigilance Analysis of FAERS (2018-2025) With Sensitivity-Stratified Prioritisation, Notoriety-Bias Assessment, and Cross-Database Validation.",
-    "abstract": "GLP-1 receptor agonists (GLP-1 RAs) are widely prescribed for type 2 diabetes and obesity, but their post-marketing safety profile-particularly psychiatric, vascular, neoplastic and rare ophthalmic events-remains incompletely characterised and is vulnerable to confounding by indication, secondary-suspect attribution and notoriety bias. We analysed 32 quarterly FAERS files (2018Q1-2025Q4): 288408 unique GLP-1 RA reports versus 11&#x2009;319&#x2009;150 non-GLP-1 RA reports. Disproportionality used four methods (reporting odds ratio [ROR]; proportional reporting ratio [PRR]; Bayesian Confidence Propagation Neural Network information component, lower 95% bound [BCPNN IC025]; Multi-item Gamma Poisson Shrinker empirical Bayes lower 5th-percentile bound [MGPS EB05]; signal&#x2009;=&#x2009;&#x2265;&#x2009;3 of 4). The top 30 ROR-ranked signals were stratified by primary-suspect (PS) sensitivity. Triangulation included active-comparator, intra-class psychiatric comparison, interrupted time-seri",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recém-publicado no *Diabetes, Obesity and Metabolism* analisou dados do *FDA Adverse Event Reporting System* (FAERS) para avaliar potenciais sinais de segurança associados aos agonistas do receptor de GLP-1 (GLP-1 RAs), amplamente prescritos para diabetes tipo 2 e obesidade. A pesquisa, que abrangeu 32 trimestres entre 2018 e 2025, comparou 288.408 relatos de eventos adversos relacionados a GLP-1 RAs com mais de 11 milhões de relatos não relacionados a esses fármacos. Utilizando quatro métodos de desproporcionalidade (ROR, PRR, BCPNN e MGPS) e uma abordagem de triangulação com comparadores ativos e análises intraclasse, os autores identificaram os 30 principais sinais de segurança, priorizados por sensibilidade de suspeita primária.\n\nOs achados destacam potenciais associações entre GLP-1 RAs e eventos psiquiátricos, vasculares, neoplásicos e oftalmológicos raros, embora a magnitude e a causalidade permaneçam incertas devido a vieses como *confounding by indication*, erro de atribuição secundária e viés de notoriedade. Entre os sinais mais robustos, destacam-se relatos de depressão, ansiedade, doenças vasculares periféricas e, em menor frequência, eventos oftalmológicos graves. A estratificação por sensibilidade reforçou a consistência de alguns achados, enquanto a validação cruzada com outras bases de dados buscou mitigar limitações inerentes a estudos observacionais.\n\nApesar das limitações inerentes a análises de farmacovigilância baseadas em dados espontâneos — como subnotificação, viés de seleção e falta de informações clínicas detalhadas —, o estudo oferece uma base para futuras investigações clínicas e regulatórias. Os autores recomendam que esses sinais sejam monitorados em ensaios randomizados e estudos de vida real, com ênfase em populações de alto risco e subgrupos específicos. Além disso, sugerem que a integração de dados de diferentes sistemas de farmacovigilância poderia aprimorar a detecção precoce de riscos raros, ainda não capturados em ensaios clínicos pré-comercialização.\n\n---\n\n**English version**\n\nA recent study published in *Diabetes, Obesity and Metabolism* analyzed *FDA Adverse Event Reporting System* (FAERS) data to assess potential safety signals associated with glucagon-like peptide-1 receptor agonists (GLP-1 RAs), widely prescribed for type 2 diabetes and obesity. The research, covering 32 quarters from 2018 to 2025, compared 288,408 adverse event reports linked to GLP-1 RAs with over 11 million non-GLP-1 RA reports. Using four disproportionality methods (ROR, PRR, BCPNN, and MGPS) and a triangulation approach with active comparators and intra-class analyses, the authors identified the top 30 safety signals, prioritized by primary-suspect sensitivity.\n\nKey findings suggest potential associations between GLP-1 RAs and psychiatric, vascular, neoplastic, and rare ophthalmic events, though the magnitude and causality remain uncertain due to biases such as *confounding by indication*, secondary-suspect attribution errors, and notoriety bias. Among the most robust signals were reports of depression, anxiety, peripheral vascular diseases, and, less frequently, severe ophthalmic events. Sensitivity stratification reinforced the consistency of some findings, while cross-database validation aimed to mitigate limitations inherent to observational pharmacovigilance studies.\n\nDespite the inherent limitations of spontaneous reporting systems—such as underreporting, selection bias, and lack of detailed clinical information—the study provides a foundation for future clinical and regulatory investigations. The authors recommend that these signals be monitored in randomized trials and real-world studies, with a focus on high-risk populations and specific subgroups. Additionally, they suggest that integrating data from multiple pharmacovigilance systems could enhance early detection of rare risks not yet captured in pre-marketing clinical trials.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42481928",
-    "authors": [
-      {
-        "name": "Shiyi Xu",
-        "affiliation": "Capital Medical University, Beijing, China."
-      }
-    ],
-    "journal": "Diabetes, obesity &amp; metabolism",
-    "publishedDate": "2026-09-03",
-    "fetchedDate": "2026-09-03",
-    "category": "Endocrinologia",
-    "tags": [
-      "neural",
-      "psychiatric",
-      "diabetes",
-      "obesity"
     ],
     "isHighlight": true,
     "readTime": 6,
