@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42636405",
+    "pmid": "42636405",
+    "doi": "10.1080/17843286.2026.2706157",
+    "title": "Mpox vaccination in Belgium: clinical guidance for implementation readiness.",
+    "titlePt": "Mpox vaccination in Belgium: clinical guidance for implementation readiness.",
+    "abstract": "Clade Ib monkeypox virus (MPXV) emerged in the Democratic Republic of Congo in 2023 with sustained sexual transmission and has since spread internationally, including to Europe. This review synthesises evidence on MVA-BN vaccine effectiveness, safety and durability to guide Belgian clinical practice. Narrative review of MVA-BN effectiveness studies, meta-analyses, immunogenicity data and safety surveillance from the 2022-2025 clade IIb outbreak response. Two-dose MVA-BN effectiveness against symptomatic mpox is approximately 82% (95% CI 72-92%), although these 2022 observational estimates may be inflated by concurrent behavioural risk reduction. Pooled single-dose effectiveness is 76%, but is lower in people living with HIV (34.9%) than in HIV-negative individuals (84.1%), underlining the importance of two-dose completion in immunocompromised populations. Neutralising antibodies wane within 5 to 7 months, yet clinical protection persists through memory B-cell and T-cell responses. MVA-",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636405",
+    "authors": [
+      {
+        "name": "Steven Callens",
+        "affiliation": "Department of Internal Medicine and Infectious Diseases, Ghent University Hospital, Ghent, Belgium."
+      },
+      {
+        "name": "Koen Blot",
+        "affiliation": "Department of Internal Medicine and Paediatrics, Faculty of Medicine and Health Sciences, Ghent University, Ghent, Belgium."
+      },
+      {
+        "name": "Marie-Ang&#xe9;lique De Scheerder",
+        "affiliation": "Department of Epidemiology and Public Health, Sciensano, Brussels, Belgium."
+      },
+      {
+        "name": "Agn&#xe8;s Libois",
+        "affiliation": "Faculty of Medicine and Health Sciences, Ghent University, Ghent, Belgium."
+      }
+    ],
+    "journal": "Acta clinica Belgica",
+    "publishedDate": "2026-11-19",
+    "fetchedDate": "2026-11-19",
+    "category": "Infectologia",
+    "tags": [
+      "hiv",
+      "rna",
+      "vaccine"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9z61sb-2kFHot-a5d277e23b1274dc\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: ae6d5d47-fbb6-477b-9776-579714717ee8)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43055660",
     "pmid": "43055660",
     "doi": "10.1177/14574969261499182",
@@ -12262,49 +12304,6 @@
     ],
     "isHighlight": true,
     "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42691047",
-    "pmid": "42691047",
-    "doi": "10.1371/journal.pone.0356205",
-    "title": "Nintedanib in the prevention of radiation-induced lung injury in patients with unresectable stage II-III NSCLC: A protocol for a randomized, multicenter, control group study.",
-    "titlePt": "Nintedanib in the prevention of radiation-induced lung injury in patients with unresectable stage II-III NSCLC: A protocol for a randomized, multicenter, control group study.",
-    "abstract": "Radiation-induced lung injury (RILI) is a common and dose-limiting complication in patients with non-small cell lung cancer (NSCLC) receiving radiotherapy, especially in combination with chemotherapy and/or immunotherapy. RILI encompasses acute radiation pneumonitis (RP) and chronic pulmonary fibrosis, significantly impacting patients' quality of life and treatment outcomes. Preclinical and clinical evidence suggests that nintedanib, a tyrosine kinase inhibitor approved for idiopathic pulmonary fibrosis (IPF), may have preventive effects against RILI due to shared fibrotic pathways. However, prospective data on its prophylactic use remain limited. This is a randomized, multicenter, unblinded, controlled trial designed to evaluate the efficacy and safety of nintedanib in preventing RILI. A total of 66 patients with unresectable stage II-III NSCLC scheduled to receive CCRT will be enrolled from three centers in China. Eligible participants will be randomized 1:1 to either the nintedanib ",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente delineia um ensaio clínico pioneiro para avaliar o potencial do nintedanibe na prevenção da lesão pulmonar induzida por radiação (LPIR) em pacientes com câncer de pulmão não pequenas células (CPNPC) em estágios II-III irressecáveis. Publicado na *PLOS ONE*, o protocolo randomizado, multicêntrico e não cego busca recrutar 66 participantes em três centros na China, submetidos a quimiorradioterapia concomitante (QRTc). A LPIR, que inclui pneumonite por radiação aguda e fibrose pulmonar crônica, representa um efeito colateral limitante da radioterapia, agravando a morbidade e comprometendo a continuidade do tratamento oncológico.\n\nO nintedanibe, um inibidor de tirosina quinase já aprovado para fibrose pulmonar idiopática (FPI), atua inibindo múltiplas vias fibróticas, como PDGFR, FGFR e VEGFR. Estudos pré-clínicos sugerem que sua ação anti-fibrótica poderia modular a resposta inflamatória e cicatricial desencadeada pela radiação. No entanto, até o momento, não há dados prospectivos robustos que comprovem sua eficácia profilática contra a LPIR em pacientes com CPNPC. O ensaio, com duração prevista para acompanhar os desfechos por até 12 meses após o término da radioterapia, dividirá os participantes igualmente entre o grupo que receberá nintedanibe (150 mg, duas vezes ao dia) e o grupo controle, que não receberá o fármaco.\n\nOs desfechos primários incluem a incidência e gravidade da pneumonite por radiação, avaliada por critérios clínicos e de imagem (TC de tórax), enquanto os secundários contemplam a progressão para fibrose pulmonar, função respiratória (espirometria) e toxicidade relacionada ao tratamento. Embora os resultados possam abrir caminho para uma estratégia farmacológica adjuvante na radioterapia torácica, o estudo apresenta limitações inerentes ao desenho não cego e ao número reduzido de participantes, o que pode restringir a generalização dos achados. Além disso, não foram informadas nos dados disponíveis as doses exatas de radiação ou regimes quimioterápicos empregados, fatores que influenciam diretamente a incidência de LPIR.\n\nOs próximos passos incluem a conclusão do recrutamento e a análise dos dados, cujos resultados poderão definir se o nintedanibe se tornará uma opção terapêutica para mitigar um dos principais desafios da radioterapia em câncer de pulmão. Caso positivo, o estudo reforçaria a hipótese de que alvos fibróticos compartilhados entre doenças distintas, como a FPI e a LPIR, possam ser explorados clinicamente para melhorar a qualidade de vida de pacientes oncológicos.\n\n---\n\n**English version**\n\nA recent study outlines a groundbreaking clinical trial to assess the potential of nintedanib in preventing radiation-induced lung injury (RILI) in patients with unresectable stage II-III non-small cell lung cancer (NSCLC). Published in *PLOS ONE*, the randomized, multicenter, unblinded protocol aims to enroll 66 participants across three centers in China undergoing concurrent chemoradiotherapy (cCRT). RILI, which includes acute radiation pneumonitis and chronic pulmonary fibrosis, remains a dose-limiting complication of radiotherapy, exacerbating morbidity and disrupting oncological treatment continuity.\n\nNintedanib, a tyrosine kinase inhibitor already approved for idiopathic pulmonary fibrosis (IPF), targets multiple fibrotic pathways, including PDGFR, FGFR, and VEGFR. Preclinical studies suggest its anti-fibrotic action may modulate the inflammatory and scarring responses triggered by radiation. However, robust prospective data on its prophylactic efficacy against RILI in NSCLC patients remain scarce. The trial, with an expected follow-up of up to 12 months post-radiotherapy, will randomly assign participants equally to receive nintedanib (150 mg twice daily) or no intervention.\n\nPrimary endpoints include the incidence and severity of radiation pneumonitis, assessed through clinical criteria and imaging (chest CT), while secondary outcomes cover progression to pulmonary fibrosis, respiratory function (spirometry), and treatment-related toxicity. While findings could pave the way for an adjunctive pharmacological strategy in thoracic radiotherapy, the study’s unblinded design and limited sample size may constrain the generalizability of results. Additionally, specific radiation doses or chemotherapy regimens were not disclosed in the available data—critical factors influencing RILI incidence.\n\nNext steps involve completing enrollment and data analysis, with results poised to determine whether nintedanib could become a therapeutic option to mitigate one of radiotherapy’s key challenges in lung cancer. If successful, the study would reinforce the hypothesis that shared fibrotic targets across distinct diseases, such as IPF and RILI, may be clinically exploited to improve quality of life in oncology patients.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42691047",
-    "authors": [
-      {
-        "name": "Ai Cui",
-        "affiliation": "Department of Pulmonary and Critical Care Medicine, Beijing Chao-Yang Hospital, Capital Medical University, Beijing, P.R. China."
-      },
-      {
-        "name": "Anhui Shi",
-        "affiliation": "Department of Respiratory and Critical Care Medicine, The First Hospital of Zhangjiakou, Zhangjiakou, Hebei, P.R. China."
-      },
-      {
-        "name": "Lei Deng",
-        "affiliation": "Department of Radiation Oncology, Beijing Cancer Hospital, Beijing, P.R. China."
-      },
-      {
-        "name": "Yanyan Sun",
-        "affiliation": "Department of Radiation Oncology, Cancer Hospital Chinese Academy of Medical Sciences, Beijing, P.R. China."
-      }
-    ],
-    "journal": "PloS one",
-    "publishedDate": "2026-09-03",
-    "fetchedDate": "2026-09-03",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "chemotherapy",
-      "immunotherapy"
-    ],
-    "isHighlight": true,
-    "readTime": 8,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
