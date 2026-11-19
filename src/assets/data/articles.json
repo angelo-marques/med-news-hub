@@ -1,5 +1,77 @@
 [
   {
+    "id": "pubmed-43055660",
+    "pmid": "43055660",
+    "doi": "10.1177/14574969261499182",
+    "title": "Median arcuate ligament syndrome: Current evidence and controversies-A narrative review.",
+    "titlePt": "Median arcuate ligament syndrome: Current evidence and controversies-A narrative review.",
+    "abstract": "Median arcuate ligament syndrome is a rare and controversial cause of chronic abdominal pain, attributed to extrinsic compression of the celiac artery by the median arcuate ligament. The 2025 European Society for Vascular Surgery guidelines consider median arcuate ligament syndrome a diagnosis of exclusion and recommend management in specialized multidisciplinary centers. Anatomical compression of the celiac artery has been recognized for over a century, but a clear clinicopathological entity remains disputed. Median arcuate ligament syndrome is rare, with an estimated incidence of about 1.3 (0.5-3.6) per 100,000 inhabitants in a recent Dutch population study. Patients, predominantly women, typically present with long-standing postprandial epigastric pain and, in most cases, weight loss, often after years of extensive investigations for more common gastrointestinal disorders. Both ischemic and neurogenic mechanisms have been proposed, and data support elements of each. Diagnostic work-",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43055660",
+    "authors": [
+      {
+        "name": "Syed Sajid Hussain Kazmi",
+        "affiliation": "Department of Vascular Surgery, Heart, Lung and Vascular Clinic, Oslo University Hospital, Ullev&#xe5;l, Norway."
+      },
+      {
+        "name": "Jonny Hisdal",
+        "affiliation": "Institute of Clinical Medicine, Faculty of Medicine, University of Oslo, Norway."
+      }
+    ],
+    "journal": "Scandinavian journal of surgery : SJS : official organ for the Finnish Surgical Society and the Scandinavian Surgical Society",
+    "publishedDate": "2026-11-19",
+    "fetchedDate": "2026-11-19",
+    "category": "Farmacologia",
+    "tags": [],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9yY2Wf-2kFHot-a5d1df81090d2592\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: b32b6d0c-4b8c-4be7-bc8d-26a4023a42fd)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43055592",
+    "pmid": "43055592",
+    "doi": "10.1097/PCC.0000000000004116",
+    "title": "Serum Renin As a Prognostic Biomarker in Children With Sepsis-Associated Acute Kidney Injury.",
+    "titlePt": "Serum Renin As a Prognostic Biomarker in Children With Sepsis-Associated Acute Kidney Injury.",
+    "abstract": "Renin-angiotensin-aldosterone system (RAAS) derangement contributes to acute kidney injury (AKI) and is associated with poor outcomes in critical illness. Serum renin, a clinically available biomarker of RAAS derangement, is associated with poor outcomes in critically ill adults and children. Renin has not been evaluated in children with sepsis-associated AKI (SA-AKI), either alone or in combination with other prognostic enrichment tools, including the recently derived pediatric sepsis-associated AKI (pSAKI) subphenotypes. Secondary analysis of a multicenter, prospective, observational study of pediatric septic shock. Ten U.S. PICUs from January 2002 to February 2025. Patients 0-18 years old with early SA-AKI (serum creatinine-based Kidney Disease: Improving Global Outcomes stage 1-3 on days 1-2 of admission) with residual day 1 serum available for renin measurement. None. Seven hundred eight patients were examined by renin tertiles. The highest renin tertile cohort (T3, &gt; 247 pg/mL",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43055592",
+    "authors": [
+      {
+        "name": "Imogen Clover-Brown",
+        "affiliation": "Division of Critical Care Medicine, Cincinnati Children's Hospital Medical Center, Cincinnati, OH."
+      },
+      {
+        "name": "Stephen W Standage",
+        "affiliation": "Division of Critical Care Medicine, Cincinnati Children's Hospital Medical Center, Cincinnati, OH."
+      },
+      {
+        "name": "Giovanni Ceschia",
+        "affiliation": "Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH."
+      },
+      {
+        "name": "Naomi Pode-Shakked",
+        "affiliation": "Pediatric Nephrology Unit, Department of Women's and Children's Health, University-Hospital of Padova, Padua, Italy."
+      }
+    ],
+    "journal": "Pediatric critical care medicine : a journal of the Society of Critical Care Medicine and the World Federation of Pediatric Intensive and Critical Care Societies",
+    "publishedDate": "2026-11-19",
+    "fetchedDate": "2026-11-19",
+    "category": "Pediatria",
+    "tags": [
+      "sepsis",
+      "pediatric",
+      "children"
+    ],
+    "isHighlight": false,
+    "readTime": 5,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9yYhSe-2kFHot-a5d1e2b39a744c35\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: b6ced16a-7d86-46bf-9fa1-348633d7906e)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42826809",
     "pmid": "42826809",
     "doi": "10.1016/j.jep.2026.122443",
@@ -12233,95 +12305,6 @@
     ],
     "isHighlight": true,
     "readTime": 8,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-42486926",
-    "pmid": "42486926",
-    "doi": "10.1007/s00125-026-06804-4",
-    "title": "pFIB scores for paediatric MASLD fibrosis are associated with risk of youth-onset type 2 diabetes in children with obesity.",
-    "titlePt": "pFIB scores for paediatric MASLD fibrosis are associated with risk of youth-onset type 2 diabetes in children with obesity.",
-    "abstract": "Youth-onset type 2 diabetes is an aggressive phenotype of metabolic disease, yet tools to identify children with obesity at highest short-term risk are limited. We evaluated whether the paediatric liver fibrosis risk scores (pFIB) pFIB-c and pFIB-6, originally developed for metabolic dysfunction-associated steatotic liver disease (MASLD) fibrosis risk stratification, identify individuals at increased risk of incident type 2 diabetes. A cohort study was conducted using the Swedish Childhood Obesity Treatment Register (BORIS, 2005-2020) linked with national registers, from which type 2 diabetes was ascertained. We included 4856 children with obesity (aged 12.0 years at baseline) and 23,758 general population comparators. The pFIB-c and pFIB-6 scores were calculated as published. Time-to-event analysis yielding HR was performed using Cox regression and flexible parametric survival models. Among children with obesity, 12.4% had a pFIB-6 &#x2265;4. A high pFIB-6 score increased the risk for",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nUm estudo recente publicado no *Diabetologia* destaca o potencial dos escores pFIB (pFIB-c e pFIB-6), originalmente desenvolvidos para estratificar o risco de fibrose hepática em crianças com doença hepática gordurosa associada à disfunção metabólica (MASLD), como ferramentas promissoras na identificação precoce de crianças obesas com maior probabilidade de desenvolver diabetes tipo 2 de início na juventude. A pesquisa, conduzida por meio do Swedish Childhood Obesity Treatment Register (BORIS, 2005-2020) em parceria com registros nacionais, analisou uma coorte de 4.856 crianças obesas (idade média de 12 anos no início do estudo) e 23.758 comparadores da população geral.\n\nOs resultados indicam que 12,4% das crianças obesas apresentavam um escore pFIB-6 ≥4, um limiar associado a um risco aumentado de diabetes tipo 2. Análises de tempo até o evento, utilizando modelos de regressão de Cox e de sobrevivência paramétrica flexível, revelaram que escores elevados de pFIB-6 estavam significativamente associados a um maior risco de incidência da doença, mesmo após ajustes para fatores de confusão como idade, sexo e índice de massa corporal (IMC). Embora o estudo não tenha detalhado a magnitude exata dos *hazard ratios* (HR), os autores sugerem que a ferramenta pode auxiliar clínicos na priorização de intervenções precoces, como mudanças no estilo de vida ou terapias direcionadas, em subgrupos de alto risco.\n\nApesar do avanço, os pesquisadores destacam limitações importantes. O estudo baseou-se em dados observacionais, o que impede a inferência de causalidade, e a generalização dos resultados pode ser limitada pela população sueca, predominantemente de origem europeia. Além disso, não foram fornecidos dados sobre a performance discriminativa dos escores (por exemplo, área sob a curva ROC) ou a comparação com outros biomarcadores já estabelecidos, como a hemoglobina glicada (HbA1c). Os próximos passos incluem validações em coortes diversificadas e a avaliação da integração do pFIB-6 em protocolos clínicos de triagem para diabetes tipo 2 em crianças obesas.\n\n---\n\n**English version**\n\nA recent study published in *Diabetologia* explores the potential of the paediatric liver fibrosis risk scores (pFIB-c and pFIB-6), originally designed to stratify fibrosis risk in children with metabolic dysfunction-associated steatotic liver disease (MASLD), as early indicators of type 2 diabetes risk in youth with obesity. Conducted using data from the Swedish Childhood Obesity Treatment Register (BORIS, 2005–2020) linked with national health records, the cohort study analyzed 4,856 children with obesity (mean age 12 years at baseline) and 23,758 general population comparators.\n\nThe findings show that 12.4% of children with obesity had a pFIB-6 score ≥4, a threshold associated with an elevated risk of developing youth-onset type 2 diabetes. Time-to-event analyses using Cox regression and flexible parametric survival models demonstrated that higher pFIB-6 scores were significantly associated with an increased risk of incident diabetes, even after adjusting for confounders such as age, sex, and body mass index (BMI). While the study did not specify the exact hazard ratios (HRs), the authors suggest that the score could help clinicians prioritize early interventions—such as lifestyle modifications or targeted therapies—in high-risk subgroups.\n\nHowever, key limitations must be considered. As an observational study, causal inferences cannot be drawn, and the generalizability of results may be constrained by the Swedish cohort, which is predominantly of European descent. Additionally, the study did not report the discriminative performance of the scores (e.g., area under the ROC curve) or compare them with established biomarkers like glycated hemoglobin (HbA1c). Future research should focus on validating the findings in diverse populations and assessing the integration of pFIB-6 into clinical screening protocols for youth-onset type 2 diabetes in children with obesity.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42486926",
-    "authors": [
-      {
-        "name": "Sander Lefere",
-        "affiliation": "Hepatology Research Unit, Department of Internal Medicine and Pediatrics, Ghent University, Ghent, Belgium."
-      },
-      {
-        "name": "Resthie R Putri",
-        "affiliation": "Liver Research Center Ghent, Ghent University Hospital, Ghent, Belgium."
-      },
-      {
-        "name": "Pernilla Danielsson",
-        "affiliation": "Department of Clinical Science, Intervention and Technology, Karolinska Institutet, Stockholm, Sweden."
-      },
-      {
-        "name": "Thomas Casswall",
-        "affiliation": "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
-      }
-    ],
-    "journal": "Diabetologia",
-    "publishedDate": "2026-09-03",
-    "fetchedDate": "2026-09-03",
-    "category": "Endocrinologia",
-    "tags": [
-      "gene",
-      "children",
-      "childhood",
-      "diabetes",
-      "metabolic"
-    ],
-    "isHighlight": true,
-    "readTime": 4,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
-  },
-  {
-    "id": "pubmed-40442036",
-    "pmid": "40442036",
-    "doi": "10.1177/08850666251340601",
-    "title": "Advancing Microcirculatory Therapies in Pediatric Sepsis: Current Opportunities and Future Directions.",
-    "titlePt": "Advancing Microcirculatory Therapies in Pediatric Sepsis: Current Opportunities and Future Directions.",
-    "abstract": "Microcirculatory dysfunction in pediatric sepsis is a key factor in the development of tissue hypoperfusion and multiple organ failure. Endothelial glycocalyx alteration, increased capillary permeability, and blood flow heterogeneity are common findings in these patients, suggesting that a microcirculation-targeted approach could improve clinical outcomes. In this context, strategies such as resuscitation with balanced solutions have been shown to minimize hyperchloremia and metabolic acidosis, reducing endothelial dysfunction and inflammatory activation. Likewise, correcting hypoalbuminemia has been associated with reduced glycocalyx degradation and improved vascular stability. The use of inotropes and inodilators has shown favorable effects on capillary perfusion and modulation of the inflammatory response, suggesting their potential to optimize tissue oxygenation in septic shock patients. Additionally, fresh frozen plasma may play a role in glycocalyx restoration and endothelial hom",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nA disfunção microcirculatória em crianças com sepse representa um fator crítico na progressão para hipoperfusão tecidual e falência múltipla de órgãos. Alterações no glicocálice endotelial, aumento da permeabilidade capilar e heterogeneidade do fluxo sanguíneo são achados frequentes nesses pacientes, indicando que abordagens direcionadas à microcirculação poderiam aprimorar os desfechos clínicos. Uma revisão publicada no *Journal of Intensive Care Medicine* (DOI: 10.1177/08850666251340601) analisa estratégias emergentes para reverter esses mecanismos fisiopatológicos.\n\nEntre as intervenções estudadas, a ressuscitação com soluções balanceadas se destaca por reduzir a hipercloremia e a acidose metabólica, minimizando assim a disfunção endotelial e a ativação inflamatória. A correção da hipoalbuminemia, por sua vez, tem sido associada à menor degradação do glicocálice e à melhora da estabilidade vascular. Além disso, o uso de inotrópicos e inodilatadores demonstrou efeitos favoráveis na perfusão capilar e na modulação da resposta inflamatória, sugerindo potencial para otimizar a oxigenação tecidual em casos de choque séptico. O plasma fresco congelado também emerge como uma terapia promissora na restauração do glicocálice e na promoção da homeostase endotelial, embora os mecanismos exatos e a magnitude do benefício ainda não tenham sido completamente elucidados.\n\nApesar dos avanços, as evidências permanecem limitadas por estudos predominantemente observacionais e pela heterogeneidade de protocolos clínicos. Ensaios randomizados controlados são necessários para validar o impacto dessas intervenções em desfechos como mortalidade, duração da ventilação mecânica e disfunção de órgãos. Adicionalmente, a integração de tecnologias de monitoramento microcirculatório não invasivo, como a microscopia intravital, poderia permitir uma abordagem mais personalizada e precoce no manejo da sepse pediátrica.\n\n---\n\n**English version**\n\nMicrocirculatory dysfunction in pediatric sepsis is a key driver of tissue hypoperfusion and multiple organ failure. Endothelial glycocalyx degradation, increased capillary permeability, and heterogeneous blood flow are hallmarks of this condition, underscoring the potential of microcirculation-targeted therapies to improve clinical outcomes. A recent review published in the *Journal of Intensive Care Medicine* (DOI: 10.1177/08850666251340601) explores current opportunities and future directions in this field.\n\nResuscitation with balanced crystalloid solutions has shown promise in reducing hyperchloremia and metabolic acidosis, thereby mitigating endothelial dysfunction and inflammatory activation. Correcting hypoalbuminemia has been linked to decreased glycocalyx degradation and enhanced vascular stability, while the use of inotropes and inodilators has demonstrated favorable effects on capillary perfusion and inflammatory modulation—suggesting a role in optimizing tissue oxygenation in septic shock. Fresh frozen plasma may also contribute to glycocalyx restoration and endothelial homeostasis, though the precise mechanisms and extent of benefit remain to be fully clarified.\n\nHowever, current evidence is constrained by predominantly observational studies and heterogeneous clinical protocols. Randomized controlled trials are urgently needed to assess the impact of these interventions on hard outcomes such as mortality, ventilator-free days, and organ dysfunction. Furthermore, the integration of non-invasive microcirculatory monitoring technologies, such as intravital microscopy, could enable earlier and more tailored therapeutic interventions in pediatric sepsis management.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40442036",
-    "authors": [
-      {
-        "name": "Carolina Casas",
-        "affiliation": "Department of Critical Care Medicine and Pediatrics, Universidad de La Sabana, Ch&#xed;a, Colombia."
-      },
-      {
-        "name": "Jaime Fern&#xe1;ndez-Sarmiento",
-        "affiliation": "Department of Critical Care Medicine and Pediatrics, Fundaci&#xf3;n Cardioinfantil-Instituto de Cardiolog&#xed;a, Bogot&#xe1;, Colombia."
-      },
-      {
-        "name": "Mauricio Sarta-Mantilla",
-        "affiliation": "Department of Critical Care Medicine and Pediatrics, Universidad de La Sabana, Ch&#xed;a, Colombia."
-      },
-      {
-        "name": "Hernando Mulett",
-        "affiliation": "Department of Critical Care Medicine and Pediatrics, Fundaci&#xf3;n Cardioinfantil-Instituto de Cardiolog&#xed;a, Bogot&#xe1;, Colombia."
-      }
-    ],
-    "journal": "Journal of intensive care medicine",
-    "publishedDate": "2026-09-03",
-    "fetchedDate": "2026-09-03",
-    "category": "Infectologia",
-    "tags": [
-      "sepsis",
-      "gene",
-      "pediatric",
-      "metabolic"
-    ],
-    "isHighlight": true,
-    "readTime": 6,
     "aiProcessed": true,
     "aiProvider": "Mistral"
   }
