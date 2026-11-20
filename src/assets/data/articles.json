@@ -1,5 +1,90 @@
 [
   {
+    "id": "pubmed-42720234",
+    "pmid": "42720234",
+    "doi": "10.1097/HPC.0000000000000438",
+    "title": "Effect of Influenza Vaccination on Major Cardiovascular Events and Mortality: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+    "titlePt": "Effect of Influenza Vaccination on Major Cardiovascular Events and Mortality: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+    "abstract": "Cardiovascular disease remains the leading global cause of mortality despite advances in preventive therapies. Influenza infection is increasingly recognized as a trigger for acute cardiovascular events, prompting interest in influenza vaccination as a potential cardioprotective intervention in high-risk patients. We aimed to conduct a systematic review and meta-analysis to evaluate the effect of influenza vaccination on cardiovascular outcomes in adults with established cardiovascular disease. PubMed, Embase, and Cochrane databases were systematically searched using relevant keywords from inception until October 2025. Seven studies were included after the final screening. Outcomes were reported as all-cause mortality, myocardial infarction, major adverse cardiovascular events, and heart failure-related hospitalization. Interstudy heterogeneity was assessed using I 2 and X 2 statistics. Statistical calculations were performed using Review Manager 5.4.1, with a P value of &lt;0.05 indic",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42720234",
+    "authors": [
+      {
+        "name": "Muhammad Waqar Shahid",
+        "affiliation": "From the Department of Medicine, Khyber Medical College, Peshawar, Pakistan."
+      },
+      {
+        "name": "Abdullah Hameed",
+        "affiliation": "Department of Medicine, Sahiwal medical college, Sahiwal, Pakistan."
+      },
+      {
+        "name": "Ayesha Naseem",
+        "affiliation": "From the Department of Medicine, Khyber Medical College, Peshawar, Pakistan."
+      },
+      {
+        "name": "Fatima Sajjad",
+        "affiliation": "From the Department of Medicine, Khyber Medical College, Peshawar, Pakistan."
+      }
+    ],
+    "journal": "Critical pathways in cardiology",
+    "publishedDate": "2026-11-20",
+    "fetchedDate": "2026-11-20",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiovascular",
+      "heart",
+      "myocardial",
+      "infection",
+      "gene"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pA7ckKf-2kFHot-a5da983eeb8e1566\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: de381f5c-f9b4-4b4a-b065-e8ab990d859b)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43061517",
+    "pmid": "43061517",
+    "doi": "10.3389/fendo.2026.1991493",
+    "title": "Cumulative metabolic syndrome components, inflammation, and chronic kidney disease: associations, mediation pathways and joint effects.",
+    "titlePt": "Cumulative metabolic syndrome components, inflammation, and chronic kidney disease: associations, mediation pathways and joint effects.",
+    "abstract": "Metabolic syndrome (MetS) and chronic kidney disease (CKD) are major health burdens, but the pathways linking cumulative MetS burden to CKD, especially via inflammation, remain unclear. This study investigated the associations of individual MetS components and their cumulative number with CKD, the mediating roles of pan-immune-inflammation value (PIV) and C-reactive protein (CRP), and the joint effects of these markers and the number of MetS components on CKD. Cross-sectional data were analyzed from 20,326 adults in Shanghai (2019-2025). MetS was defined by modified National Cholesterol Education Program Adult Treatment Panel III (NCEP-ATP III) criteria, with body mass index (BMI) substituting waist. Multivariable regression and mediation analyses were performed; PIV = neutrophil &#xd7; platelet &#xd7; monocyte/lymphocyte. Covariate-adjusted, each MetS component was significantly associated with CKD (odds ratios [ORs]: 1.21-2.04); elevated blood pressure and fasting glucose showed stro",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43061517",
+    "authors": [
+      {
+        "name": "Yiya Jiang",
+        "affiliation": "Department of General Practice and International Medical Center, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai,&#xa0;China."
+      },
+      {
+        "name": "Ling-Meng Wang",
+        "affiliation": "Department of Endocrine and Metabolic Diseases, Shanghai Institute of Endocrine and Metabolic Diseases, Shanghai National Clinical Research Center for Metabolic Diseases, Key Laboratory for Endocrine and Metabolic Diseases of the National Health Commission of the PR China, Shanghai National Center for Translational Medicine, Shanghai,&#xa0;China."
+      },
+      {
+        "name": "Kaiyu Cai",
+        "affiliation": "Department of Cardiovascular Medicine, Shanghai Institute of Hypertension, National Center for Translational Medicine, Shanghai, State Key Laboratory of Medical Genomics, Shanghai Key Laboratory of Hypertension, Shanghai,&#xa0;China."
+      },
+      {
+        "name": "Zi-Long Lu",
+        "affiliation": "Department of General Practice and International Medical Center, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai,&#xa0;China."
+      }
+    ],
+    "journal": "Frontiers in endocrinology",
+    "publishedDate": "2026-11-20",
+    "fetchedDate": "2026-11-20",
+    "category": "Imunologia",
+    "tags": [
+      "immune",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pA7dHLT-2kFHot-a5da9acaefb21566\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 73d0e008-a292-4990-9cad-46212ce91b5c)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43049195",
     "pmid": "43049195",
     "doi": "10.1001/jamaneurol.2026.4279",
@@ -12230,88 +12315,5 @@
     "readTime": 9,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pA5UcLj-2kFHot-a5d848eaea0e466c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: fd4a026f-fcdb-4ac9-ad81-28d4f3c824d1)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 402: {\"object\":\"error\",\"message\":\"You need a subscription to access this API.\",\"type\":\"billing_no_api_budget_configured\",\"param\":null,\"code\":\"2314\",\"raw_status_code\":402} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-39993596",
-    "pmid": "39993596",
-    "doi": "10.1016/j.jtct.2025.02.017",
-    "title": "Infections in Patients with Solid Tumors Undergoing Adoptive Cellular Therapy.",
-    "titlePt": "Infections in Patients with Solid Tumors Undergoing Adoptive Cellular Therapy.",
-    "abstract": "Adoptive cellular therapy (ACT) is an increasingly widely used treatment approach for malignancy. While infectious complications of ACT have been well described in patients with hematologic malignancies, limited data are available on the epidemiology of infections in patients with solid tumors. The purpose of this study was to describe the epidemiology of infections occurring within the first 180 days in adult patients with solid tumors treated with ACT and to identify risk factors predisposing these patients to infection. Data on 132 adult patients with solid tumors undergoing ACT between August 2014 and November 2021 at Memorial Sloan Kettering Cancer Center were collected. Infections were documented from the day of ACT infusion through day 180 postinfusion. Overall, 28 of 132 patients (21.2%) experienced 33 infections within the first 30 days of ACT, and 17 of 131 surviving patients (13%) were diagnosed with 24 infections between day 31 and day 180. Infection-related mortality was l",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/39993596",
-    "authors": [
-      {
-        "name": "Viswatej Avutu",
-        "affiliation": "Department of Medicine, Sarcoma Medical Oncology Service, Memorial Sloan Kettering Cancer Center, New York, NY; Department of Medicine, Weill Cornell Medical College, New York, NY. Electronic address: avutuv@mskcc.org."
-      },
-      {
-        "name": "Jumanah N Algazaq",
-        "affiliation": "Department of Medicine, Infectious Disease Service, Memorial Sloan Kettering Cancer Center, New York, NY."
-      },
-      {
-        "name": "Kenneth Seier",
-        "affiliation": "Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer Center, New York, NY."
-      },
-      {
-        "name": "Rhoena Desir-Camille",
-        "affiliation": "Department of Medicine, Sarcoma Medical Oncology Service, Memorial Sloan Kettering Cancer Center, New York, NY."
-      }
-    ],
-    "journal": "Transplantation and cellular therapy",
-    "publishedDate": "2026-09-04",
-    "fetchedDate": "2026-09-05",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "infection"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"oz2D2Qa-2kFHot-a362ce7b7fbfcb7a\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42697303",
-    "pmid": "42697303",
-    "doi": "10.1016/j.hrthm.2026.08.056",
-    "title": "Catheter Ablation of Atrial Arrhythmias After Orthotopic Heart Transplantation.",
-    "titlePt": "Catheter Ablation of Atrial Arrhythmias After Orthotopic Heart Transplantation.",
-    "abstract": "Orthotopic heart transplantation (OHT) creates a surgically altered electrophysiologic substrate defined by the suture-line scar, residual recipient atrial tissue, and autonomic denervation, that fundamentally alters the mechanisms, presentation, and management of atrial tachyarrhythmias. This narrative review synthesizes current evidence on the mechanisms, mapping strategies, procedural safety considerations, and outcomes of catheter ablation (CA) for atrial arrhythmias after OHT, based on a structured search of PubMed and Embase (1995-2025). Atrial flutter (AFL), particularly cavotricuspid isthmus (CTI)-dependent macro-reentry, is the dominant arrhythmia in stable OHT recipients. The ablation isthmus is anatomically redefined by suture lines rather than the native inferior vena cava, and CA achieves acute success rates exceeding 90% for CTI-dependent flutter, with a significant survival benefit over medical management alone (median 11.3 vs. 5.8 years; p = 0.026). Atrial fibrillation ",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42697303",
-    "authors": [
-      {
-        "name": "Deena Sukhon",
-        "affiliation": "Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas, TX. Electronic address: Deena.sukhon@UTsouthwestern.edu."
-      },
-      {
-        "name": "Nolan Shoukri",
-        "affiliation": "Department of Internal Medicine, Loyola University Medical Center, Maywood, IL."
-      },
-      {
-        "name": "Frans Serpa",
-        "affiliation": "Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas, TX."
-      },
-      {
-        "name": "Abhishek Deshmukh",
-        "affiliation": "Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN."
-      }
-    ],
-    "journal": "Heart rhythm",
-    "publishedDate": "2026-09-04",
-    "fetchedDate": "2026-09-05",
-    "category": "Cardiologia",
-    "tags": [
-      "heart",
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"oz2D9oT-2kFHot-a362cf172a70192c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
