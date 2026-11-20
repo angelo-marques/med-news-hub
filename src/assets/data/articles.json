@@ -12191,6 +12191,47 @@
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozBPHEJ-2kFHot-a36cb5deba55c9f2\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   },
   {
+    "id": "pubmed-42322070",
+    "pmid": "42322070",
+    "doi": "10.1111/ejh.70240",
+    "title": "Project Sickle Cure: A Prospective, International Observational Study of Hematopoietic Cell Transplantation for Sickle Cell Disease.",
+    "titlePt": "Project Sickle Cure: A Prospective, International Observational Study of Hematopoietic Cell Transplantation for Sickle Cell Disease.",
+    "abstract": "Sickle cell disease (SCD) is a chronic and life-limiting hemoglobin and systemic vascular disease. While over 1000 people have undergone hematopoietic cell transplantation (HCT) over the last 40&#x2009;years, long-term disease-specific and health-related quality of life data are lacking. The American Society of Hematology 2021 Guidelines for SCD emphasized the need for more detailed registry data to inform patients and providers with decision-making and practice recommendations. In January 2021, the Sickle Cell Transplant Advocacy and Research Alliance (STAR) launched Project Sickle Cure (PSC). This multi-center, prospective study of patients who have undergone HCT for SCD includes baseline demographics and SCD-specific post-HCT outcomes, serial neurocognitive testing, health-related quality of life measures, health equity evaluations, a neuroimaging bank, detailed evaluation of neurologic status pre- and post-transplant, and chronic pain evaluation. A biorepository is in the planning ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42322070",
+    "authors": [
+      {
+        "name": "Gregory M T Guilcher",
+        "affiliation": "Section of Pediatric Oncology/Transplant, Alberta Children's Hospital, Cumming School of Medicine, University of Calgary, Calgary, Canada."
+      },
+      {
+        "name": "Allistair Abraham",
+        "affiliation": "Center for Cancer and Immunology Research, CETI, Children's National Hospital, Washington, DC, USA."
+      },
+      {
+        "name": "Staci D Arnold",
+        "affiliation": "Aflac Cancer and Blood Center, Children's Healthcare of Atlanta and Emory University School of Medicine, Atlanta, Georgia, USA."
+      },
+      {
+        "name": "Christine Camacho-Bydume",
+        "affiliation": "Department of Pediatric Hematology/Oncology, Joseph M. Sanzari Children's Hospital, Hackensack University Medical Center, Hackensack, New Jersey, USA."
+      }
+    ],
+    "journal": "European journal of haematology",
+    "publishedDate": "2026-09-04",
+    "fetchedDate": "2026-11-20",
+    "category": "Neurologia",
+    "tags": [
+      "cognitive",
+      "rna"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pA5UcLj-2kFHot-a5d848eaea0e466c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: fd4a026f-fcdb-4ac9-ad81-28d4f3c824d1)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 402: {\"object\":\"error\",\"message\":\"You need a subscription to access this API.\",\"type\":\"billing_no_api_budget_configured\",\"param\":null,\"code\":\"2314\",\"raw_status_code\":402} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-39993596",
     "pmid": "39993596",
     "doi": "10.1016/j.jtct.2025.02.017",
@@ -12272,43 +12313,5 @@
     "readTime": 5,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"oz2D9oT-2kFHot-a362cf172a70192c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42693593",
-    "pmid": "42693593",
-    "doi": "10.1111/ajco.70176",
-    "title": "Comprehensive Genomic Profiling Timeliness Beyond Laboratory Turnaround Time: A Patient-Facing Pathway Analysis.",
-    "titlePt": "Comprehensive Genomic Profiling Timeliness Beyond Laboratory Turnaround Time: A Patient-Facing Pathway Analysis.",
-    "abstract": "We evaluated the timeliness of the patient-facing comprehensive genomic profiling (CGP) pathway by separating laboratory and post-laboratory intervals within an expert panel-mediated process, using direct disclosure of results to patients as the endpoint. This single-center retrospective study included adult CGP test episodes performed under government-funded cancer genomic medicine at a Japanese university hospital between October 2019 and November 2025. The primary outcome was patient-centered turnaround time (TAT), defined as the interval from informed consent to direct disclosure of the CGP result to the patient. Laboratory TAT and pathway intervals were summarized descriptively, and laboratory TAT was compared across assays. Among 882 CGP test episodes, median laboratory TAT was 14 days (interquartile range [IQR], 12-16) among 871 evaluable episodes. Among 828 evaluable episodes, median patient-centered TAT was 41 days (IQR 35-45). The laboratory analysis retained observed long in",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693593",
-    "authors": [
-      {
-        "name": "Shinya Kajiura",
-        "affiliation": "Department of Medical Oncology and Palliative Medicine, Toyama University Hospital, Toyama, Japan."
-      },
-      {
-        "name": "Naohiko Nakamura",
-        "affiliation": "Department of Medical Oncology and Palliative Medicine, Toyama University Hospital, Toyama, Japan."
-      },
-      {
-        "name": "Ryuji Hayashi",
-        "affiliation": "Department of Medical Oncology and Palliative Medicine, Toyama University Hospital, Toyama, Japan."
-      }
-    ],
-    "journal": "Asia-Pacific journal of clinical oncology",
-    "publishedDate": "2026-09-04",
-    "fetchedDate": "2026-09-04",
-    "category": "Genômica",
-    "tags": [
-      "cancer",
-      "genomic",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 5,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"oyvDUjP-2kFHot-a35c56f4a9ef5396\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
