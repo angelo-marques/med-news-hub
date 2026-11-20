@@ -1,5 +1,91 @@
 [
   {
+    "id": "pubmed-43049195",
+    "pmid": "43049195",
+    "doi": "10.1001/jamaneurol.2026.4279",
+    "title": "Digital Delivery of Apolipoprotein E Genotype and Phosphorylated Tau 217 Results: The eSMARTER Randomized Clinical Trial.",
+    "titlePt": "Digital Delivery of Apolipoprotein E Genotype and Phosphorylated Tau 217 Results: The eSMARTER Randomized Clinical Trial.",
+    "abstract": "Patients are increasingly learning Alzheimer disease (AD) genetic and biomarker results through electronic health portals. Evaluation of alternative scalable delivery models for return of AD risk information is needed to best support patient knowledge and psychological well-being. To determine whether a digital platform is comparable to clinician-mediated telehealth sessions for returning apolipoprotein E (APOE) genotype and plasma phosphorylated tau 217 (p-tau217) results on outcomes of knowledge and psychological well-being. The Evaluation of Self-Mediated Alternatives for Risk Testing Education and Return of Results (eSMARTER) study was a noninferiority trial of a digital platform compared to clinician-mediated return of APOE genotype and optional p-tau217 results. Enrollment was conducted October 2024 through February 2025. Follow-up was completed November 2025. This was a decentralized, fully remote trial taking place across the contiguous US. Eligible participants were aged 60 to",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43049195",
+    "authors": [
+      {
+        "name": "Jessica B Langbaum",
+        "affiliation": "Banner Alzheimer's Institute, Phoenix, Arizona."
+      },
+      {
+        "name": "Claire M Erickson",
+        "affiliation": "Banner Alzheimer's Institute, Phoenix, Arizona."
+      },
+      {
+        "name": "Carolyn M Langlois",
+        "affiliation": "Banner Alzheimer's Institute, Phoenix, Arizona."
+      },
+      {
+        "name": "Elisabeth M Wood",
+        "affiliation": "Department of Medicine, Division of Hematology-Oncology, University of Pennsylvania Perelman School of Medicine, Philadelphia."
+      }
+    ],
+    "journal": "JAMA neurology",
+    "publishedDate": "2026-11-20",
+    "fetchedDate": "2026-11-20",
+    "category": "Genômica",
+    "tags": [
+      "alzheimer",
+      "genetic",
+      "gene",
+      "rna",
+      "clinical trial"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pA4G7cb-2kFHot-a5d6f91d6bc4ed3b\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 6ca5681e-2f71-49f5-9b5f-92ffd6ce5cb1)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43058222",
+    "pmid": "43058222",
+    "doi": "10.1038/s41591-026-04783-y",
+    "title": "Multicenter characterization of enterocolitis associated with BCMA-directed CAR T cell therapy.",
+    "titlePt": "Multicenter characterization of enterocolitis associated with BCMA-directed CAR T cell therapy.",
+    "abstract": "Immune effector cell-associated enterocolitis (IEC-EC) is a delayed toxicity of ciltacabtagene autoleucel. The US Multiple Myeloma Immunotherapy Consortium retrospectively adjudicated 54 suspected cases from 8 institutions: 41 were IEC-EC (31 confirmed by anti-camelid variable heavy-chain immunohistochemistry, 10 probable). Through September 2025, cumulative incidence was 3.0% (39 of 1,308 ciltacabtagene autoleucel recipients; 95% CI 2.1-4.1%); 12-month competing-risk incidence was 3.0% (95% CI 2.1-4.1%). Median symptom onset was 75&#x2009;days after infusion. Grade &#x2265;3 diarrhea occurred in 85% (34 of 40 with diarrhea); 73% (30 of 41) required parenteral nutrition. Despite normal upper endoscopy in 41% (9 of 22), duodenal biopsies showed villous blunting, apoptotic bodies and a dense cytotoxic T cell infiltrate, CD4+ in 61% (19 of 31), CD8+ in 26% (8 of 31) and mixed in 13% (4 of 31). A dominant T cell clone was detected in 76% (13 of 17 tested). Delayed neurotoxicity co-occurred",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43058222",
+    "authors": [
+      {
+        "name": "Lekha Mikkilineni",
+        "affiliation": "Division of Blood and Marrow Transplantation and Cellular Therapy, Stanford University School of Medicine, Stanford, CA, USA. lekham@stanford.edu."
+      },
+      {
+        "name": "Mark P Hamilton",
+        "affiliation": "Department of Lymphoma and Myeloma, The University of Texas MD Anderson Cancer Center, Houston, TX, USA."
+      },
+      {
+        "name": "Alexandria Jensen",
+        "affiliation": "Quantitative Sciences Unit, Stanford University School of Medicine, Stanford, CA, USA."
+      },
+      {
+        "name": "Kenneth Jc Lim",
+        "affiliation": "Alfred Health, Melbourne, Victoria, Australia."
+      }
+    ],
+    "journal": "Nature medicine",
+    "publishedDate": "2026-11-19",
+    "fetchedDate": "2026-11-20",
+    "category": "Oncologia",
+    "tags": [
+      "immunotherapy",
+      "gene",
+      "immune"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pA4FyVm-2kFHot-a5d6f8732e674f1b\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 99cafe35-2eb3-4779-b60a-ecd066a3fe01)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42636405",
     "pmid": "42636405",
     "doi": "10.1080/17843286.2026.2706157",
@@ -12224,87 +12310,5 @@
     "readTime": 5,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"oyvDUjP-2kFHot-a35c56f4a9ef5396\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42322070",
-    "pmid": "42322070",
-    "doi": "10.1111/ejh.70240",
-    "title": "Project Sickle Cure: A Prospective, International Observational Study of Hematopoietic Cell Transplantation for Sickle Cell Disease.",
-    "titlePt": "Project Sickle Cure: A Prospective, International Observational Study of Hematopoietic Cell Transplantation for Sickle Cell Disease.",
-    "abstract": "Sickle cell disease (SCD) is a chronic and life-limiting hemoglobin and systemic vascular disease. While over 1000 people have undergone hematopoietic cell transplantation (HCT) over the last 40&#x2009;years, long-term disease-specific and health-related quality of life data are lacking. The American Society of Hematology 2021 Guidelines for SCD emphasized the need for more detailed registry data to inform patients and providers with decision-making and practice recommendations. In January 2021, the Sickle Cell Transplant Advocacy and Research Alliance (STAR) launched Project Sickle Cure (PSC). This multi-center, prospective study of patients who have undergone HCT for SCD includes baseline demographics and SCD-specific post-HCT outcomes, serial neurocognitive testing, health-related quality of life measures, health equity evaluations, a neuroimaging bank, detailed evaluation of neurologic status pre- and post-transplant, and chronic pain evaluation. A biorepository is in the planning ",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42322070",
-    "authors": [
-      {
-        "name": "Gregory M T Guilcher",
-        "affiliation": "Section of Pediatric Oncology/Transplant, Alberta Children's Hospital, Cumming School of Medicine, University of Calgary, Calgary, Canada."
-      },
-      {
-        "name": "Allistair Abraham",
-        "affiliation": "Center for Cancer and Immunology Research, CETI, Children's National Hospital, Washington, DC, USA."
-      },
-      {
-        "name": "Staci D Arnold",
-        "affiliation": "Aflac Cancer and Blood Center, Children's Healthcare of Atlanta and Emory University School of Medicine, Atlanta, Georgia, USA."
-      },
-      {
-        "name": "Christine Camacho-Bydume",
-        "affiliation": "Department of Pediatric Hematology/Oncology, Joseph M. Sanzari Children's Hospital, Hackensack University Medical Center, Hackensack, New Jersey, USA."
-      }
-    ],
-    "journal": "European journal of haematology",
-    "publishedDate": "2026-09-04",
-    "fetchedDate": "2026-09-04",
-    "category": "Neurologia",
-    "tags": [
-      "cognitive",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"oyvE9p1-2kFHot-a35c5a2a6fab252d\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42692950",
-    "pmid": "42692950",
-    "doi": "10.1080/21645515.2026.2721105",
-    "title": "HPV vaccine uptake in Pakistan: A qualitative study to identify barriers and facilitators before the first HPV national rollout.",
-    "titlePt": "HPV vaccine uptake in Pakistan: A qualitative study to identify barriers and facilitators before the first HPV national rollout.",
-    "abstract": "Although vaccines remain a mainstay tool for the prevention of infectious diseases, their efficacy, safety, and trust among the population remain controversial. For an effective rollout of the HPV vaccine in Pakistan, financial constraints, health system fragility, and complex cultural values should be kept in mind, and these should be apprehended as both facilitators and barriers, since these findings will help policymakers to design effective interventions and improve public trust. To explore barriers and motivators to HPV vaccine uptake in Pakistan, the study used a descriptive qualitative study design. It was conducted from February 2025 to August 2025 across districts of Northern Punjab and Southern Punjab. Inclusion of diverse stakeholders such as community workers/religious scholars, healthcare providers, teachers/school administrators, adolescent girls, and their parents/guardians allowed us a better understanding of multilevel influencers on HPV vaccine acceptance. Barriers to",
-    "journalisticSummary": "**Versão em português brasileiro**\n\nO estudo qualitativo recentemente publicado na *PubMed* (DOI: 10.1080/21645515.2026.2721105) investigou os fatores que influenciam a adesão à vacinação contra o papilomavírus humano (HPV) no Paquistão, um país onde a cobertura vacinal enfrenta desafios estruturais e culturais. Pesquisadores realizaram entrevistas e grupos focais entre fevereiro e agosto de 2025 em distritos do norte e sul de Punjab, incluindo atores-chave como profissionais de saúde, líderes religiosos, educadores, adolescentes e seus responsáveis. Os achados preliminares destacam que a fragilidade do sistema de saúde, restrições financeiras e valores socioculturais complexos atuam tanto como barreiras quanto como facilitadores na implementação da vacina, dependendo do contexto local.\n\nEntre os principais obstáculos identificados estão a desinformação sobre a segurança e eficácia da vacina, a relutância em vacinar adolescentes devido a crenças sobre sexualidade, e a falta de infraestrutura logística para distribuição em áreas rurais. Por outro lado, a participação de líderes comunitários e religiosos mostrou-se crucial para aumentar a confiança, enquanto programas educativos nas escolas foram apontados como estratégias promissoras para engajar jovens e famílias. O estudo não reportou dados quantitativos sobre taxas de cobertura vacinal, mas enfatiza a necessidade de políticas públicas que integrem abordagens culturais sensíveis e investimentos em sistemas de saúde resilientes.\n\nAs limitações incluem o caráter qualitativo da pesquisa, que não permite generalizações, e a ausência de informações sobre o impacto de campanhas governamentais prévias. Como próximos passos, os autores sugerem a realização de estudos longitudinais para avaliar a eficácia de intervenções específicas, além de parcerias com organizações não governamentais para ampliar o alcance da vacinação. Para o Paquistão, que planeja o lançamento nacional da vacina contra o HPV, os resultados reforçam a importância de estratégias adaptadas às realidades locais, combinando educação, confiança comunitária e fortalecimento da atenção primária.\n\n---\n\n**English version**\n\nA qualitative study published in *PubMed* (DOI: 10.1080/21645515.2026.2721105) examined the factors influencing human papillomavirus (HPV) vaccine uptake in Pakistan, a country grappling with structural and cultural barriers to immunization. Conducted between February and August 2025 across districts in Northern and Southern Punjab, the research engaged diverse stakeholders—healthcare providers, religious scholars, educators, adolescent girls, and their parents/guardians—through interviews and focus groups. Preliminary findings indicate that health system fragility, financial constraints, and sociocultural norms act as both barriers and facilitators, varying by local context.\n\nKey challenges include misinformation about vaccine safety and efficacy, resistance to vaccinating adolescents due to beliefs about sexuality, and logistical gaps in rural distribution. Conversely, the involvement of community and religious leaders emerged as a critical trust-building factor, while school-based education programs were identified as promising strategies to engage youth and families. The study did not report quantitative coverage data but underscores the need for culturally sensitive public policies and resilient health systems.\n\nLimitations include the qualitative nature of the research, which precludes broader generalizations, and the lack of information on prior government campaign impacts. Moving forward, the authors recommend longitudinal studies to assess the effectiveness of targeted interventions, alongside partnerships with nongovernmental organizations to expand vaccine reach. For Pakistan, which is preparing for the national rollout of the HPV vaccine, the findings highlight the necessity of tailored strategies that integrate education, community trust, and primary care strengthening.",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42692950",
-    "authors": [
-      {
-        "name": "Khola Noreen",
-        "affiliation": "Department of Community Medicine &amp; Public Health, Rawalpindi Medical University, Rawalpindi, Pakistan."
-      },
-      {
-        "name": "Samina Naeem Khalid",
-        "affiliation": "School of Public Health, Health Services Academy, Islamabad, Pakistan."
-      },
-      {
-        "name": "Mehreen Noor",
-        "affiliation": "Department of Community Medicine &amp; Public Health, Rawalpindi Medical University, Rawalpindi, Pakistan."
-      },
-      {
-        "name": "Saba Maryam",
-        "affiliation": "Department of Community Medicine &amp; Public Health, Rawalpindi Medical University, Rawalpindi, Pakistan."
-      }
-    ],
-    "journal": "Human vaccines &amp; immunotherapeutics",
-    "publishedDate": "2026-09-03",
-    "fetchedDate": "2026-09-04",
-    "category": "Imunologia",
-    "tags": [
-      "vaccine"
-    ],
-    "isHighlight": true,
-    "readTime": 7,
-    "aiProcessed": true,
-    "aiProvider": "Mistral"
   }
 ]
