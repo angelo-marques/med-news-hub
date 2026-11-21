@@ -1,5 +1,46 @@
 [
   {
+    "id": "pubmed-42402265",
+    "pmid": "42402265",
+    "doi": "10.1016/j.jhep.2026.06.025",
+    "title": "Durvalumab with gemcitabine-based chemotherapy regimens in advanced biliary tract cancer: Primary results from the phase IIIb TOURMALINE study.",
+    "titlePt": "Durvalumab with gemcitabine-based chemotherapy regimens in advanced biliary tract cancer: Primary results from the phase IIIb TOURMALINE study.",
+    "abstract": "TOPAZ-1 (NCT03875235) demonstrated improved overall survival (OS) with durvalumab plus gemcitabine and cisplatin vs. placebo plus gemcitabine and cisplatin, with a clinically manageable safety profile, in advanced biliary tract cancer (aBTC). The phase IIIb TOURMALINE study (NCT05771480) is evaluating the safety and efficacy of first-line durvalumab plus seven gemcitabine-based chemotherapy regimens in a close-to-real-world aBTC population, including participants with poor prognosis. Participants received intravenous durvalumab 1,500 mg (first infusion: 60 minutes; subsequent infusions: 30 minutes) plus investigator's choice of one of seven gemcitabine-based chemotherapy regimens. The primary endpoint was the incidence of Grade 3/4 adverse events (AEs) possibly related to treatment (PRAEs) within 6 months of the first durvalumab dose. Secondary endpoints included progression-free survival (PFS), OS, objective response rate (ORR), and safety. As of 17 September 2025, 142 participants (m",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42402265",
+    "authors": [
+      {
+        "name": "Do-Youn Oh",
+        "affiliation": "Division of Medical Oncology, Department of Internal Medicine, Seoul National University Hospital, Cancer Research Institute, Seoul National University College of Medicine; Integrated Major in Innovative Medical Science, Seoul National University Graduate School, Seoul, Republic of Korea. Electronic address: ohdoyoun@snu.ac.kr."
+      },
+      {
+        "name": "Masafumi Ikeda",
+        "affiliation": "Department of Hepatobiliary and Pancreatic Oncology, National Cancer Center Hospital East, Kashiwa, Japan."
+      },
+      {
+        "name": "Teresa Macarulla",
+        "affiliation": "Vall d'Hebron Institute of Oncology (VHIO), Vall d'Hebron University Hospital, Barcelona, Spain."
+      },
+      {
+        "name": "Aiwu Ruth He",
+        "affiliation": "Herbet Irving Comprehensive Cancer Center, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA."
+      }
+    ],
+    "journal": "Journal of hepatology",
+    "publishedDate": "2026-11-20",
+    "fetchedDate": "2026-11-21",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "chemotherapy"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pACt1gm-2kFHot-a5e0465d5d6eefe5\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 39b7cf66-5949-418f-a197-e9c10437ebaf)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42895436",
     "pmid": "42895436",
     "doi": "10.2337/db26-0337",
@@ -12276,47 +12317,5 @@
     "readTime": 8,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozBPdYJ-2kFHot-a36cb789bd80c9f2\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42700199",
-    "pmid": "42700199",
-    "doi": "10.1007/s40487-026-00459-2",
-    "title": "Real-World Testing Landscape and Costs of Companion Diagnostics and Comprehensive Genomic Profiling Across Nine Solid Tumors in Japan: A 10-Year Analysis.",
-    "titlePt": "Real-World Testing Landscape and Costs of Companion Diagnostics and Comprehensive Genomic Profiling Across Nine Solid Tumors in Japan: A 10-Year Analysis.",
-    "abstract": "This study aimed to examine utilization, testing sequences, and associated genomic testing costs of companion diagnostics (CDx) and comprehensive genomic profiling (CGP) among Japanese patients with nine representative solid tumors. This retrospective study used anonymized data, from Medical Data Vision Co., Ltd. (MDV; January 2015-March 2025) and JMDC Inc. (JMDC; January 2015-January 2025), for patients with solid tumors of nine cancer types who underwent CDx and/or CGP testing or received any cancer treatment. Patient demographics, distribution and testing sequences of CDx and CGP, and associated genomic testing costs per patient were evaluated. Proportions of CDx and CGP testing varied across nine cancer types. Most patients underwent CDx testing once or twice, although some cohorts, particularly with non-small cell lung cancer (NSCLC), were tested thrice or more. Biliary tract cancer demonstrated the highest proportions for CGP testing alone, and both CDx and CGP testing. For both ",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42700199",
-    "authors": [
-      {
-        "name": "Kuniko Sunami",
-        "affiliation": "Department of Laboratory Medicine, National Cancer Center Hospital, 5-1-1 Tsukiji, Chuo-Ku, Tokyo, 104-0045, Japan."
-      },
-      {
-        "name": "Sona-Sanae Aoyagi",
-        "affiliation": "Pfizer Japan Inc. Shinjuku Bunka Quint Bldg, 3-22-7, Yoyogi, Shibuya-Ku, Tokyo, 151-8589, Japan. Sanae.Aoyagi@pfizer.com."
-      },
-      {
-        "name": "Masashi Mikami",
-        "affiliation": "Pfizer Japan Inc. Shinjuku Bunka Quint Bldg, 3-22-7, Yoyogi, Shibuya-Ku, Tokyo, 151-8589, Japan."
-      },
-      {
-        "name": "Kanae Togo",
-        "affiliation": "Pfizer Japan Inc. Shinjuku Bunka Quint Bldg, 3-22-7, Yoyogi, Shibuya-Ku, Tokyo, 151-8589, Japan."
-      }
-    ],
-    "journal": "Oncology and therapy",
-    "publishedDate": "2026-09-05",
-    "fetchedDate": "2026-09-06",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "tumor",
-      "genomic"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozBPHEJ-2kFHot-a36cb5deba55c9f2\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
