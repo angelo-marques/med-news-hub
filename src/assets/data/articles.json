@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-42895436",
+    "pmid": "42895436",
+    "doi": "10.2337/db26-0337",
+    "title": "Amino Acid Profiles Distinguish Glycemic Phenotypes in Childhood and Predict 10-Year Risk of Dysglycemia in Young Adults: The BCAMS Study.",
+    "titlePt": "Amino Acid Profiles Distinguish Glycemic Phenotypes in Childhood and Predict 10-Year Risk of Dysglycemia in Young Adults: The BCAMS Study.",
+    "abstract": "Amino acid (AA) dysregulation has been associated with metabolic diseases. However, its potential as a childhood determinant of adult diabetes risk remains understudied, particularly among children with normoglycemia. Leveraging a 10-year follow-up cohort, we investigated whether AA profiles distinguished childhood glycemic phenotypes and predicted future diabetes risk. Among 947 children from the Beijing Children and Adolescents Metabolic Syndrome (BCAMS) study, participants were categorized as having normoglycemia with insulin sensitivity (NG-IS), normoglycemia with insulin resistance (NG-IR), or impaired fasting glucose (IFG), and plasma AA profiles were assessed by targeted metabolomics. At follow-up, 297 participants with baseline normoglycemia underwent a 2-h oral glucose tolerance test to assess incident dysglycemia, and five adipokines were measured. After adjusting for age, sex, and relevant covariates, distinct AA signatures were identified cross-sectionally across glycemic g",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895436",
+    "authors": [
+      {
+        "name": "Mengyu He",
+        "affiliation": "Department of Endocrinology, Peking Union Medical College Hospital, National Health Commission Key Laboratory of Endocrinology, Peking Union Medical College and Chinese Academy of Medical Sciences, Beijing, China."
+      },
+      {
+        "name": "Yu Li",
+        "affiliation": "Department of Endocrinology, Peking Union Medical College Hospital, National Health Commission Key Laboratory of Endocrinology, Peking Union Medical College and Chinese Academy of Medical Sciences, Beijing, China."
+      },
+      {
+        "name": "Xinghao Yi",
+        "affiliation": "Department of Endocrinology, Peking Union Medical College Hospital, National Health Commission Key Laboratory of Endocrinology, Peking Union Medical College and Chinese Academy of Medical Sciences, Beijing, China."
+      },
+      {
+        "name": "Danyang Li",
+        "affiliation": "Department of Endocrinology, Xuanwu Hospital, Capital Medical University, National Clinical Research Center for Geriatric Diseases, Beijing, China."
+      }
+    ],
+    "journal": "Diabetes",
+    "publishedDate": "2026-11-20",
+    "fetchedDate": "2026-11-21",
+    "category": "Endocrinologia",
+    "tags": [
+      "children",
+      "childhood",
+      "diabetes",
+      "insulin",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pA8mJ2o-2kFHot-a5dbd53d59ee4afe\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 69cdeb2e-bdef-4f52-8a70-5199a10af1b4)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42720234",
     "pmid": "42720234",
     "doi": "10.1097/HPC.0000000000000438",
@@ -12274,46 +12318,5 @@
     "readTime": 10,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozBPHEJ-2kFHot-a36cb5deba55c9f2\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42322070",
-    "pmid": "42322070",
-    "doi": "10.1111/ejh.70240",
-    "title": "Project Sickle Cure: A Prospective, International Observational Study of Hematopoietic Cell Transplantation for Sickle Cell Disease.",
-    "titlePt": "Project Sickle Cure: A Prospective, International Observational Study of Hematopoietic Cell Transplantation for Sickle Cell Disease.",
-    "abstract": "Sickle cell disease (SCD) is a chronic and life-limiting hemoglobin and systemic vascular disease. While over 1000 people have undergone hematopoietic cell transplantation (HCT) over the last 40&#x2009;years, long-term disease-specific and health-related quality of life data are lacking. The American Society of Hematology 2021 Guidelines for SCD emphasized the need for more detailed registry data to inform patients and providers with decision-making and practice recommendations. In January 2021, the Sickle Cell Transplant Advocacy and Research Alliance (STAR) launched Project Sickle Cure (PSC). This multi-center, prospective study of patients who have undergone HCT for SCD includes baseline demographics and SCD-specific post-HCT outcomes, serial neurocognitive testing, health-related quality of life measures, health equity evaluations, a neuroimaging bank, detailed evaluation of neurologic status pre- and post-transplant, and chronic pain evaluation. A biorepository is in the planning ",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42322070",
-    "authors": [
-      {
-        "name": "Gregory M T Guilcher",
-        "affiliation": "Section of Pediatric Oncology/Transplant, Alberta Children's Hospital, Cumming School of Medicine, University of Calgary, Calgary, Canada."
-      },
-      {
-        "name": "Allistair Abraham",
-        "affiliation": "Center for Cancer and Immunology Research, CETI, Children's National Hospital, Washington, DC, USA."
-      },
-      {
-        "name": "Staci D Arnold",
-        "affiliation": "Aflac Cancer and Blood Center, Children's Healthcare of Atlanta and Emory University School of Medicine, Atlanta, Georgia, USA."
-      },
-      {
-        "name": "Christine Camacho-Bydume",
-        "affiliation": "Department of Pediatric Hematology/Oncology, Joseph M. Sanzari Children's Hospital, Hackensack University Medical Center, Hackensack, New Jersey, USA."
-      }
-    ],
-    "journal": "European journal of haematology",
-    "publishedDate": "2026-09-04",
-    "fetchedDate": "2026-11-20",
-    "category": "Neurologia",
-    "tags": [
-      "cognitive",
-      "rna"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pA5UcLj-2kFHot-a5d848eaea0e466c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: fd4a026f-fcdb-4ac9-ad81-28d4f3c824d1)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 402: {\"object\":\"error\",\"message\":\"You need a subscription to access this API.\",\"type\":\"billing_no_api_budget_configured\",\"param\":null,\"code\":\"2314\",\"raw_status_code\":402} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
