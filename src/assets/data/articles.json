@@ -1,5 +1,48 @@
 [
   {
+    "id": "pubmed-43067256",
+    "pmid": "43067256",
+    "doi": "10.1016/j.ejca.2026.118183",
+    "title": "Clinicogenomic landscape of small cell carcinoma and identification of potentially actionable genomic alterations by comprehensive genomic profiling.",
+    "titlePt": "Clinicogenomic landscape of small cell carcinoma and identification of potentially actionable genomic alterations by comprehensive genomic profiling.",
+    "abstract": "Small cell carcinoma (SCC) is an aggressive malignancy that commonly arises in the lung and can develop in extrapulmonary organs. Although organ-specific genomic studies have been reported, the clinicogenomic landscape of SCC across primary sites remains poorly characterized. We conducted a nationwide Japanese clinicogenomic analysis to characterize recurrent and organ-specific molecular features and assess their potential therapeutic actionability in SCC. We obtained clinicogenomic data from the Center for Cancer Genomics and Advanced Therapeutics (C-CAT) database, and included patients with SCC who underwent comprehensive genomic profiling (CGP) between June 2019 and February 2025. Genomic alterations were annotated using OncoKB therapeutic evidence levels, and each patient was assigned to the highest level identified. Among 95,234 patients who underwent CGP, 615 (0.65%) had SCC, including 320 with small cell lung cancer (SCLC) and 295 with extrapulmonary SCC (EPSCC). TP53 (73.0%) an",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067256",
+    "authors": [
+      {
+        "name": "Yusuke Kunimatsu",
+        "affiliation": "Department of Cancer Genome Medical Center, Kyoto Prefectural University of Medicine, Kajii-cho, Kamigyo-ku, Kyoto, Japan; Department of Pulmonary Medicine, Graduate School of Medical Science, Kyoto Prefectural University of Medicine, Kajii-cho, Kamigyo-ku, Kyoto, Japan."
+      },
+      {
+        "name": "Masaki Ishida",
+        "affiliation": "Department of Cancer Genome Medical Center, Kyoto Prefectural University of Medicine, Kajii-cho, Kamigyo-ku, Kyoto, Japan; Department of Pulmonary Medicine, Graduate School of Medical Science, Kyoto Prefectural University of Medicine, Kajii-cho, Kamigyo-ku, Kyoto, Japan."
+      },
+      {
+        "name": "Masahiro Iwasaku",
+        "affiliation": "Department of Cancer Genome Medical Center, Kyoto Prefectural University of Medicine, Kajii-cho, Kamigyo-ku, Kyoto, Japan; Department of Pulmonary Medicine, Graduate School of Medical Science, Kyoto Prefectural University of Medicine, Kajii-cho, Kamigyo-ku, Kyoto, Japan. Electronic address: miwasaku@koto.kpu-m.ac.jp."
+      },
+      {
+        "name": "Nobutaka Kataoka",
+        "affiliation": "Department of Cancer Genome Medical Center, Kyoto Prefectural University of Medicine, Kajii-cho, Kamigyo-ku, Kyoto, Japan; Department of Pulmonary Medicine, Graduate School of Medical Science, Kyoto Prefectural University of Medicine, Kajii-cho, Kamigyo-ku, Kyoto, Japan."
+      }
+    ],
+    "journal": "European journal of cancer (Oxford, England : 1990)",
+    "publishedDate": "2026-11-21",
+    "fetchedDate": "2026-11-22",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "carcinoma",
+      "genomic",
+      "therapeutic"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pAKUqV8-2kFHot-a5e765f0e883acf4\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: b5dc9274-2d20-4594-8806-322f4e847f80)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42402265",
     "pmid": "42402265",
     "doi": "10.1016/j.jhep.2026.06.025",
@@ -12277,45 +12320,5 @@
     "readTime": 9,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozHdKmS-2kFHot-a3737274fddfcb9f\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42442671",
-    "pmid": "42442671",
-    "doi": "10.1016/j.jad.2026.122257",
-    "title": "Pooled analysis assessing the efficacy and safety of amphetamine derivative adjunctive therapy for bipolar depression.",
-    "titlePt": "Pooled analysis assessing the efficacy and safety of amphetamine derivative adjunctive therapy for bipolar depression.",
-    "abstract": "The bipolar pharmacopoeia targeting depression is significantly underdeveloped. Despite high rates of attention deficit symptoms, there has been inadequate investigation of stimulants as a treatment intervention for adults with bipolar depression. Data were pooled from two, 8-week, randomized, placebo-controlled trials of adjunctive mixed d-amphetamine/l-amphetamine salt (MAS) and lisdexamfetamine (LDX). The primary outcome measure was baseline-to-endpoint change in the Montgomery-Asberg Depression Rating Scale (MADRS). Secondary outcomes included treatment response and remission (50%MADRS reduction, MADRS&#xa0;&lt;&#xa0;10), and improvement as measured by the Clinical Global Impression for Bipolar Disorder (CGI-BP). The primary safety assessment was the Young Mania Rating Scale (YMRS). Fifty-seven bipolar [BD-I: n&#xa0;=&#xa0;23 (40.4%); BD-II: n&#xa0;=&#xa0;34 (59.6%); male: n&#xa0;=&#xa0;17 (29.8%); female: n&#xa0;=&#xa0;40 (70.2%); mean age&#xa0;=&#xa0;40.1&#xa0;&#xb1;&#xa0;11.3&#x",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42442671",
-    "authors": [
-      {
-        "name": "Mark A Frye",
-        "affiliation": "Department of Psychiatry &amp; Psychology, Mayo Clinic, Rochester, MN, USA. Electronic address: mfrye@mayo.edu."
-      },
-      {
-        "name": "Jorge A Sanchez-Ruiz",
-        "affiliation": "Department of Psychiatry &amp; Psychology, Mayo Clinic, Rochester, MN, USA."
-      },
-      {
-        "name": "Dina N Ali",
-        "affiliation": "Department of Psychiatry &amp; Psychology, Mayo Clinic, Rochester, MN, USA."
-      },
-      {
-        "name": "Nicolas Nunez",
-        "affiliation": "Department of Psychiatry, University of Utah, Salt Lake City, UT, USA."
-      }
-    ],
-    "journal": "Journal of affective disorders",
-    "publishedDate": "2026-09-06",
-    "fetchedDate": "2026-09-06",
-    "category": "Saúde Mental",
-    "tags": [
-      "depression"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozBPdYJ-2kFHot-a36cb789bd80c9f2\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
