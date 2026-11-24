@@ -1,5 +1,92 @@
 [
   {
+    "id": "pubmed-42925933",
+    "pmid": "42925933",
+    "doi": "10.1016/j.bbr.2026.116536",
+    "title": "Multimodal evidence associated with 20&#x202f;Hz rTMS in AD: neuroaxonal injury reduction, neural oscillatory rebalancing, and multilayer network integration.",
+    "titlePt": "Multimodal evidence associated with 20&#x202f;Hz rTMS in AD: neuroaxonal injury reduction, neural oscillatory rebalancing, and multilayer network integration.",
+    "abstract": "High-frequency repetitive transcranial magnetic stimulation (rTMS) has been demonstrated to enhance cognitive function in patients with Alzheimer's disease (AD), but the neurobiological mechanisms associated with neuroaxonal injury, neural oscillatory dynamics, and large-scale network reorganization remain unclear. In this study, we first conducted a randomized, sham-controlled trial with 16 patients with AD to evaluate the efficacy of DLPFC-targeted rTMS, followed by a single-arm multimodal cohort study of 30 patients to explore potential neurobiological mechanisms through cognitive assessments, blood biomarkers, EEG oscillatory activity, and multiplex brain network analysis. In Stage 1, the sham group showed no significant pre-post changes in MMSE or MoCA scores (MMSE: Z&#x202f;=&#x202f;-0.738, Cohen's r&#x202f;=&#x202f;0.26; MoCA: Z&#x202f;=&#x202f;-0.853, Cohen's r&#x202f;=&#x202f;0.30). The active rTMS group showed improvements in MMSE (Z&#x202f;=&#x202f;-2.124, Cohen's r&#x202f;=",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42925933",
+    "authors": [
+      {
+        "name": "Tian Wang",
+        "affiliation": "State Key Laboratory of Intelligent Power Distribution Equipment and System, School of Health Sciences and Biomedical Engineering, Hebei University of Technology, Tianjin, 300130, China; Tianjin Key Laboratory of Bioelectromagnetic Technology and Intelligent Health, School of Health Sciences and Biomedical Engineering, Hebei University of Technology, Tianjin, 300130, China."
+      },
+      {
+        "name": "Yong Ji",
+        "affiliation": "Department of Neurology, Tianjin Huanhu Hospital, Tianjin, 300202, China; Tianjin Key Laboratory of Cerebral Vascular and Neurodegenerative Diseases, Tianjin Dementia Institute, Tianjin, 300202, China."
+      },
+      {
+        "name": "Shuai Liu",
+        "affiliation": "Department of Neurology, Tianjin Huanhu Hospital, Tianjin, 300202, China; Tianjin Key Laboratory of Cerebral Vascular and Neurodegenerative Diseases, Tianjin Dementia Institute, Tianjin, 300202, China."
+      },
+      {
+        "name": "Hao Wu",
+        "affiliation": "Department of Neurology, Tianjin Huanhu Hospital, Tianjin, 300202, China; Tianjin Key Laboratory of Cerebral Vascular and Neurodegenerative Diseases, Tianjin Dementia Institute, Tianjin, 300202, China."
+      }
+    ],
+    "journal": "Behavioural brain research",
+    "publishedDate": "2026-11-23",
+    "fetchedDate": "2026-11-24",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "neural",
+      "alzheimer",
+      "cognitive"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pAYx2nC-2kFHot-a5f5ef24dec0ff09\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: bb0d60ec-d7be-41be-b3f2-aa5f5b22f1b7)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42678477",
+    "pmid": "42678477",
+    "doi": "10.1007/s11596-026-00245-1",
+    "title": "Targeting&#xa0;GLUTs in Cancer: Mechanisms, Combination Strategies, and Translational Challenges.",
+    "titlePt": "Targeting&#xa0;GLUTs in Cancer: Mechanisms, Combination Strategies, and Translational Challenges.",
+    "abstract": "Cancer cells exhibit metabolic reprogramming, most notably the Warburg effect, which underscores their heightened dependency on glucose uptake facilitated by glucose transporters (GLUTs). While targeting GLUTs holds promise for disrupting tumor metabolism, monotherapeutic inhibition often leads to compensatory resistance mechanisms, metabolic plasticity, and dose-limiting toxicity. This review comprehensively examines the rationale and mechanisms underlying combined strategies that integrate GLUT inhibitors with conventional chemotherapy, targeted therapy, immunotherapy, and radiotherapy. Such combinations exploit synthetic lethality, reverse immunosuppression, enhance DNA damage, and overcome adaptive resistance. We also discuss emerging approaches such as isoform-specific inhibitors, nanocarrier-based delivery, and artificial intelligence-guided combination design to improve selectivity and efficacy. Finally, we highlight key translational challenges and discuss how cross-disease ins",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42678477",
+    "authors": [
+      {
+        "name": "Mei-Na Shi",
+        "affiliation": "State Key Laboratory of Mechanism and Quality of Chinese Medicine and Faculty of Chinese Medicine, Macau University of Science and Technology, Macau SAR, 999078, China."
+      },
+      {
+        "name": "Dong-Fan Yang",
+        "affiliation": "Zhuhai MUST Science and Technology Research Institute, Macau University of Science and Technology, Hengqin Guangdong-Macao In-Depth Cooperation Zone, Zhuhai, 519099, China."
+      },
+      {
+        "name": "Tong Chu",
+        "affiliation": "State Key Laboratory of Mechanism and Quality of Chinese Medicine and Faculty of Chinese Medicine, Macau University of Science and Technology, Macau SAR, 999078, China."
+      },
+      {
+        "name": "Da-Yuan Zheng",
+        "affiliation": "Zhuhai MUST Science and Technology Research Institute, Macau University of Science and Technology, Hengqin Guangdong-Macao In-Depth Cooperation Zone, Zhuhai, 519099, China."
+      }
+    ],
+    "journal": "Current medical science",
+    "publishedDate": "2026-11-23",
+    "fetchedDate": "2026-11-24",
+    "category": "Oncologia",
+    "tags": [
+      "cancer",
+      "tumor",
+      "chemotherapy",
+      "immunotherapy",
+      "dna"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pAYxxfQ-2kFHot-a5f5f391e9d6ff03\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: cd8ec270-3085-4fb7-ad3d-23ed2f117816)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43067256",
     "pmid": "43067256",
     "doi": "10.1016/j.ejca.2026.118183",
@@ -12238,87 +12325,5 @@
     "readTime": 6,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9rDvDL-2kFHot-a5c9fb45e8ae0c7b\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 9af357c7-3f39-4846-b886-e366dec1aac9)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42705247",
-    "pmid": "42705247",
-    "doi": "10.1016/S2468-2667(26)00168-4",
-    "title": "Global, regional, and national prevalence of second-hand smoke and attributable disease burden in 204 countries and territories, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
-    "titlePt": "Global, regional, and national prevalence of second-hand smoke and attributable disease burden in 204 countries and territories, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
-    "abstract": "Second-hand smoke (SHS) exposure remains a major source of morbidity and mortality among non-smokers. This study presents the first dedicated Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) publication to systematically quantify SHS prevalence and evaluate its effect as a global risk factor across a broader range of outcomes. Using the GBD 2023 comparative risk assessment framework, we estimated SHS exposure prevalence and attributable disease burden across 204 countries and territories from 1990 to 2023, stratified by age and sex. Exposure estimates were derived by synthesising population-based surveys and household composition data through spatiotemporal Gaussian process regression. Relative risks for nine health outcomes, now including asthma, were estimated using the Burden of Proof methodology, and applied to calculate attributable deaths and disability-adjusted life-years (DALYs). In 2023, an estimated 2&#xb7;71 billion (95% UI 2&#xb7;44-3&#xb7;02) people worldw",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42705247",
-    "authors": [
-      {
-        "name": "Luisa S Flor",
-        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA; Department of Health Metrics Sciences, School of Medicine, University of Washington, Seattle, WA, USA."
-      },
-      {
-        "name": "Jason A Anderson",
-        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA."
-      },
-      {
-        "name": "Brooks W Morgan",
-        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA."
-      },
-      {
-        "name": "Marie Ng",
-        "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA; NUS-IHME Global Burden of Disease Research Centre, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore."
-      }
-    ],
-    "journal": "The Lancet. Public health",
-    "publishedDate": "2026-09-07",
-    "fetchedDate": "2026-09-08",
-    "category": "Farmacologia",
-    "tags": [],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozSkkJP-2kFHot-a37d4c59d977b2dc\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42600214",
-    "pmid": "42600214",
-    "doi": "10.1016/j.pscychresns.2026.112303",
-    "title": "Neuroimaging anxious children and adolescents before and after cognitive behavioral therapy: a systematic review.",
-    "titlePt": "Neuroimaging anxious children and adolescents before and after cognitive behavioral therapy: a systematic review.",
-    "abstract": "This systematic review investigates brain changes in youths with anxiety disorders following cognitive behavioral therapy (CBT) and neural markers that predict CBT responses. We conducted a systematic search using the electronic databases PubMed, Web of Science, and ProQuest. The inclusion deadline was set to October 27, 2025. We included fifteen peer-reviewed neuroimaging studies that examined the effects of CBT in youths under 19 years old with a primary clinical diagnosis of an anxiety disorder based on DSM-5 criteria. Although the existing literature is marked by substantial diversity in methods and outcomes, task-related neural response in the anterior cingulate cortex (ACC, 2/8, 25.0%), insula (1/8, 12.5%) increased from pre to post CBT and these changes were further correlated with clinical symptom improvements. Moreover, CBT outcomes were predicted by pre-treatment activity or connectivity in the ACC and amygdala (3/13, 23.0%). A smaller proportion of studies (2/13, 15.3%) foun",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42600214",
-    "authors": [
-      {
-        "name": "Oana-Georgiana Munteanu-Forij",
-        "affiliation": "Doctoral School Evidence-Based Psychological Assessment and Interventions, Babe&#x219;-Bolyai University, Cluj-Napoca, Romania; Clinic of Pediatric Psychiatry and Addiction, Clinical Emergency Hospital for Children, 54C M&#x103;n&#x103;&#x219;tur Road, 400372 Cluj-Napoca, Romania."
-      },
-      {
-        "name": "Costina-Ruxandra Poetar",
-        "affiliation": "Department of Clinical Psychology and Psychotherapy, Babe&#x219;-Bolyai University, Cluj-Napoca, Romania; The International Institute for the Advanced Studies of Psychotherapy and Applied Mental Health, Babe&#x219;-Bolyai University, Cluj-Napoca, Romania."
-      },
-      {
-        "name": "Ondrej Zika",
-        "affiliation": "Department of Clinical Psychology and Psychotherapy, Babe&#x219;-Bolyai University, Cluj-Napoca, Romania; Centre for Psychiatry Research, Department of Clinical Neuroscience, Karolinska Institutet, SE-11364, Stockholm, Sweden; University of Bielefeld, Biological Psychology and Cognitive Neuroscience, Bielefeld, Germany; School of Psychology, University College Dublin, Stillorgan Road, Dublin 4, D04 F6X4, Dublin, Ireland."
-      },
-      {
-        "name": "Elena Predescu",
-        "affiliation": "Department of Neuroscience, Psychiatry and Pediatric Psychiatry, \"Iuliu Hatieganu\" University of Medicine and Pharmacy, 54C M&#x103;n&#x103;&#x219;tur Road, 400372 Cluj-Napoca, Romania."
-      }
-    ],
-    "journal": "Psychiatry research. Neuroimaging",
-    "publishedDate": "2026-09-06",
-    "fetchedDate": "2026-09-07",
-    "category": "Neurologia",
-    "tags": [
-      "brain",
-      "neural",
-      "cognitive",
-      "anxiety",
-      "children"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozHdKmS-2kFHot-a3737274fddfcb9f\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
