@@ -1,5 +1,49 @@
 [
   {
+    "id": "pubmed-43072811",
+    "pmid": "43072811",
+    "doi": "10.1111/bph.70749",
+    "title": "Targeting estrogen receptor signalling for the management of insulin resistance: From hormones to herbal modulators.",
+    "titlePt": "Targeting estrogen receptor signalling for the management of insulin resistance: From hormones to herbal modulators.",
+    "abstract": "Estrogen exerts a critical influence on metabolic health by modulating insulin signalling pathways via its receptors (ER&#x3b1;, ER&#x3b2; and the G protein-coupled oestrogen receptor [GPER]). Estrogen decline, as seen postmenopausally or in polycystic ovary syndrome (PCOS), is strongly associated with insulin resistance and the pathogenesis of Type 2 diabetes. The beneficial metabolic actions of estrogen, including enhanced insulin sensitivity, are mediated through mechanisms such as AMP-activated protein kinase (AMPK) activation, promotion of GLUT4 translocation, and suppression of inflammatory pathways. Conversely, decreased estrogen levels contribute to adipose tissue accumulation, mitochondrial dysfunction and exacerbated insulin resistance. Current pharmacological interventions, including hormone replacement therapy (HRT) and selective estrogen receptor modulators (SERMs), can ameliorate insulin resistance but are accompanied by ongoing debate concerning their cardiovascular safe",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43072811",
+    "authors": [
+      {
+        "name": "Ying Zang",
+        "affiliation": "State Key Laboratory of Mechanism and Quality of Chinese Medicine, University of Macau, Taipa, China."
+      },
+      {
+        "name": "Fuhan Zhang",
+        "affiliation": "Institute of Chinese Medical Sciences, University of Macau, Taipa, China."
+      },
+      {
+        "name": "Lizhen Wu",
+        "affiliation": "Department of Pathology, Zhongshan Hospital (Xiamen), Fudan University, Xiamen, China."
+      },
+      {
+        "name": "Zeye Tan",
+        "affiliation": "Hengqin Research &amp; Development Centre, Shandong Hanfang Pharmaceutical Co., Ltd., Guangdong-Macao In-Depth Cooperation Zone in Hengqin, Zhuhai, China."
+      }
+    ],
+    "journal": "British journal of pharmacology",
+    "publishedDate": "2026-11-23",
+    "fetchedDate": "2026-11-24",
+    "category": "Endocrinologia",
+    "tags": [
+      "cardiovascular",
+      "gene",
+      "diabetes",
+      "insulin",
+      "hormone"
+    ],
+    "isHighlight": false,
+    "readTime": 10,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pAZ7t1G-2kFHot-a5f61e0ebcdf1289\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 2aec7391-b821-4b9b-9982-db8276e12d25)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42925933",
     "pmid": "42925933",
     "doi": "10.1016/j.bbr.2026.116536",
@@ -12287,43 +12331,5 @@
     "readTime": 11,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozSkG3c-2kFHot-a37d4a079d4ce578\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42685611",
-    "pmid": "42685611",
-    "doi": "10.1016/j.tranon.2026.103006",
-    "title": "Decoding cancer with artificial intelligence: Transforming research, diagnosis, and therapy with future insights.",
-    "titlePt": "Decoding cancer with artificial intelligence: Transforming research, diagnosis, and therapy with future insights.",
-    "abstract": "Cancer remains one of the leading global health burdens, with increasing complexity in genomic, imaging, and clinical datasets presenting significant challenges for effective management. Artificial intelligence (AI) has emerged as a powerful tool to address these challenges by enabling pattern recognition, knowledge integration, and data-driven decision-making. This review highlights recent advances in the application of AI across cancer research, diagnosis, and therapy. In research, AI accelerates drug discovery and repurposing, enhances genomic data interpretation, and facilitates biomarker identification through multi-omics integration. In diagnosis, AI has demonstrated high technical performance in radiology for lesion detection and image segmentation, in pathology for tumour grading and molecular prediction, and in liquid biopsy for non-invasive biomarker analysis. In therapy, AI supports precision medicine by predicting treatment responses, monitoring disease progression, and opt",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42685611",
-    "authors": [
-      {
-        "name": "Muneera Anwer",
-        "affiliation": "School of Pharmacy and Medical Sciences, Griffith University, Queensland, Australia. Electronic address: muneera.anwer@griffithuni.edu.au."
-      },
-      {
-        "name": "Krupa Bhaliya",
-        "affiliation": "School of Pharmacy and Medical Sciences, Griffith University, Queensland, Australia."
-      },
-      {
-        "name": "Ming Q Wei",
-        "affiliation": "School of Pharmacy and Medical Sciences, Griffith University, Queensland, Australia."
-      }
-    ],
-    "journal": "Translational oncology",
-    "publishedDate": "2026-09-07",
-    "fetchedDate": "2026-11-18",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "genomic",
-      "drug"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"p9rDvDL-2kFHot-a5c9fb45e8ae0c7b\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 9af357c7-3f39-4846-b886-e366dec1aac9)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
