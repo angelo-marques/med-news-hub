@@ -1,5 +1,90 @@
 [
   {
+    "id": "pubmed-42104583",
+    "pmid": "42104583",
+    "doi": "10.1080/1028415X.2026.2667467",
+    "title": "Global prevalence of metabolic syndrome in patients with epilepsy: a systematic review and meta-analysis.",
+    "titlePt": "Global prevalence of metabolic syndrome in patients with epilepsy: a systematic review and meta-analysis.",
+    "abstract": "This study aimed to standardize the global prevalence of metabolic syndrome (MetS) in patients with epilepsy. Several databases including PubMed, Scopus, Web of Science, Embase, Science Direct, and Google Scholar were thoroughly searched. Studies up to 2025 on MetS prevalence in people with epilepsy were included. The search covered cross-sectional, cohort, and case-control studies in English that reported MetS prevalence in this group. Statistical analysis was performed using Comprehensive Meta-Analysis software (Version 2). The I&#xb2; statistic was used to assess heterogeneity across studies, and the random-effects model was applied for data analysis. Analysis of 24 findings from 18 studies estimated that the overall prevalence of (MetS) in people with epilepsy was 29.6% (95% CI: 25.7%-33.9%). Further analysis showed that the highest prevalence of MetS in epilepsy patients was in studies conducted in South America, with a prevalence of 42.4% (95% CI: 37.8%-47.0%). The only study tha",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42104583",
+    "authors": [
+      {
+        "name": "Pegah Heidarian",
+        "affiliation": "Student Research Committee, Kermanshah University of Medical Sciences, Kermanshah, Iran."
+      },
+      {
+        "name": "Amir Jalali",
+        "affiliation": "Substance Abuse Prevention Research Center, Research Institute for Health, Kermanshah University of Medical Sciences, Kermanshah, Iran."
+      },
+      {
+        "name": "Mohsen Kazeminia",
+        "affiliation": "Student Research Committee, Kermanshah University of Medical Sciences, Kermanshah, Iran."
+      },
+      {
+        "name": "Narges Sadeghi",
+        "affiliation": "Student Research Committee, Kermanshah University of Medical Sciences, Kermanshah, Iran."
+      }
+    ],
+    "journal": "Nutritional neuroscience",
+    "publishedDate": "2026-11-25",
+    "fetchedDate": "2026-11-25",
+    "category": "Genômica",
+    "tags": [
+      "gene",
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pAiqiV3-2kFHot-a6009be06b79d133\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: e0aabbe4-5669-4fcb-9392-55d76a5445e0)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 402: {\"object\":\"error\",\"message\":\"You need a subscription to access this API.\",\"type\":\"billing_no_api_budget_configured\",\"param\":null,\"code\":\"2314\",\"raw_status_code\":402} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42981809",
+    "pmid": "42981809",
+    "doi": "10.1016/j.drup.2026.101497",
+    "title": "Calibrating public genome archives for AMR surveillance: Four decades of redundancy-aware phylogenomics of pandemic Escherichia coli ST131.",
+    "titlePt": "Calibrating public genome archives for AMR surveillance: Four decades of redundancy-aware phylogenomics of pandemic Escherichia coli ST131.",
+    "abstract": "Escherichia coli sequence type (ST)131 is a globally disseminated multidrug-resistant pathogen, yet public genome collections are skewed by uneven sampling and repeated sequencing of genetically near-identical isolates. Rather than another reconstruction of ST131 evolution, we quantified redundancy, reassessed population structure, and tested how sampling bias affects estimates of phylogenetic diversity, clade-specific dating, and fluoroquinolone-resistance-associated diversification. EnteroBase core-genome multilocus sequence typing (cgMLST) hierarchical clustering was used to reduce redundancy among 16,713 public ST131 complex genomes. Representative public genomes were combined with 390 unpublished New Zealand ST131 surveillance genomes from 1999 to 2019. Clade-specific phylogenetic and temporal analyses were performed for Clades A, B, and C, with sensitivity analyses using stricter cgMLST clustering and phylogenetic-diversity-guided subsampling. Public genomes were highly redundant",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42981809",
+    "authors": [
+      {
+        "name": "Rhys T White",
+        "affiliation": "New Zealand Institute for Public Health and Forensic Science, Health Security, Porirua 5022, New Zealand. Electronic address: rhys.white@phfscience.nz."
+      },
+      {
+        "name": "Patrick J Biggs",
+        "affiliation": "Massey University, mEpiLab, T&#x101;wharau Ora, School of Veterinary Science, Palmerston North 4474, New Zealand; Massey University, School of Food Technology and Natural Sciences, Palmerston North 4410, New Zealand; Massey University, New Zealand Food Safety Science and Research Centre, Palmerston North 4410, New Zealand."
+      },
+      {
+        "name": "Sara A Burgess",
+        "affiliation": "Massey University, mEpiLab, T&#x101;wharau Ora, School of Veterinary Science, Palmerston North 4474, New Zealand."
+      },
+      {
+        "name": "Rose M Collis",
+        "affiliation": "Bioeconomy Science Institute, Food Systems Integrity, Hopkirk Research Institute, Palmerston North 4474, New Zealand."
+      }
+    ],
+    "journal": "Drug resistance updates : reviews and commentaries in antimicrobial and anticancer chemotherapy",
+    "publishedDate": "2026-11-24",
+    "fetchedDate": "2026-11-25",
+    "category": "Genômica",
+    "tags": [
+      "hiv",
+      "genomic",
+      "genetic",
+      "gene",
+      "sequencing"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pAiqwEx-2kFHot-a6009cecab99ad0e\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 1aabadeb-517a-4bf3-8e20-f0aef51edf62)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 402: {\"object\":\"error\",\"message\":\"You need a subscription to access this API.\",\"type\":\"billing_no_api_budget_configured\",\"param\":null,\"code\":\"2314\",\"raw_status_code\":402} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42377449",
     "pmid": "42377449",
     "doi": "10.1007/s00062-026-01695-9",
@@ -12252,80 +12337,5 @@
     "readTime": 10,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozYJKiN-2kFHot-a383482b9903e9ec\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42709394",
-    "pmid": "42709394",
-    "doi": "10.1007/s12013-026-02157-2",
-    "title": "Necrosis by Sodium Overload: Mechanisms, Pathophysiological Roles, and Therapeutic Prospects of a Novel Form of Regulated Cell Death.",
-    "titlePt": "Necrosis by Sodium Overload: Mechanisms, Pathophysiological Roles, and Therapeutic Prospects of a Novel Form of Regulated Cell Death.",
-    "abstract": "Sodium ion (Na&#x207a;), the predominant cation in the extracellular space, is essential for maintaining fundamental cellular activities via preservation of the transmembrane Na&#x207a; gradient. While intracellular Ca&#xb2;&#x207a; overload has long been recognized as the core driver of cell injury and death, accumulating evidence indicates that Na&#x207a; overload, defined as abnormal intracellular Na&#x207a; accumulation, may act as an independent trigger of irreversible cellular damage, rather than merely a preceding event or concomitant phenomenon of Ca&#xb2;&#x207a; overload. In 2025, the term Necrosis by Na&#x207a; Overload (NECSO) was first coined to describe a novel form of regulated necrosis directly triggered by sustained and excessive Na&#x207a; influx, which is primarily mediated by the transient receptor potential melastatin 4 (TRPM4) channel. Distinct from apoptosis and other established forms of regulated cell death, NECSO is characterized by early cellular and organell",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42709394",
-    "authors": [
-      {
-        "name": "Teng Qi",
-        "affiliation": "The Chinese University of Hong Kong, Shenzhen, Shenzhen, 518172, Guangdong, China."
-      },
-      {
-        "name": "Pei-Lin Xie",
-        "affiliation": "The Chinese University of Hong Kong, Shenzhen, Shenzhen, 518172, Guangdong, China."
-      },
-      {
-        "name": "Ting-Xuan Huang",
-        "affiliation": "School of Medicine, Northwest University, Xi'an, 710069, Shaanxi, China."
-      },
-      {
-        "name": "Jin-Suo Xiao",
-        "affiliation": "School of Medicine, Northwest University, Xi'an, 710069, Shaanxi, China."
-      }
-    ],
-    "journal": "Cell biochemistry and biophysics",
-    "publishedDate": "2026-09-08",
-    "fetchedDate": "2026-09-08",
-    "category": "Farmacologia",
-    "tags": [
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozWz5kg-2kFHot-a381dcffbcf1ff48\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42709250",
-    "pmid": "42709250",
-    "doi": "10.1007/s10072-026-09364-y",
-    "title": "Cross-disease protein aggregate interactions in neurodegeneration: from molecular mechanisms to therapeutic strategies.",
-    "titlePt": "Cross-disease protein aggregate interactions in neurodegeneration: from molecular mechanisms to therapeutic strategies.",
-    "abstract": "Neurodegenerative diseases have traditionally been classified by their predominant protein pathology. However, accumulating evidence reveals extensive molecular cross-talk between distinct pathological proteins, particularly in Alzheimer's disease (AD). This review examines cross-disease protein interactions and their implications for diagnosis and treatment. We systematically reviewed peer-reviewed literature published between 2020 and 2025, complemented by seminal earlier studies, examining molecular mechanisms of protein cross-seeding, clinical evidence of co-pathology, and emerging therapeutic strategies. Cross-seeding between amyloid-&#x3b2; (A&#x3b2;), tau, &#x3b1;-synuclein, and TDP-43 has been demonstrated in vitro and in vivo. Harmonized autopsy studies reveal that 91% of individuals over 80 years harbor multiple neuropathologies. Co-pathology accelerates cognitive decline and complicates biomarker interpretation. Anti-amyloid immunotherapies lecanemab and donanemab demonstrat",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42709250",
-    "authors": [
-      {
-        "name": "Wenqi Yang",
-        "affiliation": "Key Laboratory of Health Ministry in Congenital Malformation, Affiliated Shengjing Hospital of China Medical University, Shenyang, 110004, Liaoning, China."
-      },
-      {
-        "name": "Yan Lu",
-        "affiliation": "Key Laboratory of Health Ministry in Congenital Malformation, Affiliated Shengjing Hospital of China Medical University, Shenyang, 110004, Liaoning, China. luy1@sj-hospital.org."
-      }
-    ],
-    "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
-    "publishedDate": "2026-09-08",
-    "fetchedDate": "2026-09-08",
-    "category": "Neurologia",
-    "tags": [
-      "alzheimer",
-      "cognitive",
-      "gene",
-      "therapeutic"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozWJDMV-2kFHot-a3811f15998c6a42\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
