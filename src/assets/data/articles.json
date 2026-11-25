@@ -1,5 +1,45 @@
 [
   {
+    "id": "pubmed-42377449",
+    "pmid": "42377449",
+    "doi": "10.1007/s00062-026-01695-9",
+    "title": "Can Dual-Energy CT Be Easily Adopted in Clinical Practice for Predicting Hemorrhagic Complications?",
+    "titlePt": "Can Dual-Energy CT Be Easily Adopted in Clinical Practice for Predicting Hemorrhagic Complications?",
+    "abstract": "Hemorrhagic transformation after endovascular thrombectomy (EVT) for acute ischemic stroke is associated with poor outcomes. Dual-energy CT (DECT) iodine maps may predict hemorrhagic transformation. Therefore, we investigated the predictive value of DECT for hemorrhagic complications and evaluated whether DECT can be adopted in clinical practice. We retrospectively analyzed 306 patients with anterior circulation stroke who underwent DECT after EVT (July 2017-March 2025). Maximal ROI values were measured bilaterally, and an ipsilateral-to-contralateral ratio was calculated. Analyses were focused on DECT within 1&#x202f;h and DECT between 2-3&#x202f;h after EVT. The association between the ROI ratio and hemorrhagic complications was evaluated using multivariable logistic regression. Predictive performance of DECT for any hemorrhage and parenchymal hematoma (PH) on follow-up MRI was assessed using AUC, sensitivity, specificity, and accuracy. Mean age was 70.3 years; 85.6% achieved success",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42377449",
+    "authors": [
+      {
+        "name": "Kyubong Lee",
+        "affiliation": "Korea University Guro Hospital, Korea University College of Medicine, Seoul, Korea, Republic of."
+      },
+      {
+        "name": "Jung Hoon Han",
+        "affiliation": "Eulji University School of Medicine, Uijeongbu, Korea, Republic of."
+      },
+      {
+        "name": "Keon-Joo Lee",
+        "affiliation": "Korea University Guro Hospital, Korea University College of Medicine, Seoul, Korea, Republic of."
+      },
+      {
+        "name": "Chi Kyung Kim",
+        "affiliation": "Korea University Guro Hospital, Korea University College of Medicine, Seoul, Korea, Republic of."
+      }
+    ],
+    "journal": "Clinical neuroradiology",
+    "publishedDate": "2026-11-24",
+    "fetchedDate": "2026-11-25",
+    "category": "Neurologia",
+    "tags": [
+      "stroke"
+    ],
+    "isHighlight": false,
+    "readTime": 8,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pAgSLRd-2kFHot-a5fe03f0884605fd\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 7974159e-fdbd-47d4-be4e-49a2afca89eb)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43072811",
     "pmid": "43072811",
     "doi": "10.1111/bph.70749",
@@ -12287,49 +12327,5 @@
     "readTime": 11,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozWJDMV-2kFHot-a3811f15998c6a42\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42557233",
-    "pmid": "42557233",
-    "doi": "10.1111/bju.70403",
-    "title": "Response evaluation of neoadjuvant therapy in MIBC: clinical trial-derived evidence to guide practice.",
-    "titlePt": "Response evaluation of neoadjuvant therapy in MIBC: clinical trial-derived evidence to guide practice.",
-    "abstract": "To review how response to neoadjuvant therapy (NAT) is assessed in clinical trials of muscle-invasive bladder cancer (MIBC), and to determine whether trial-derived evidence can inform response evaluation in contemporary practice. We searched PubMed, Embase and ClinicalTrials.gov through August 2025 for randomised controlled trials (RCTs) of neoadjuvant chemotherapy, chemo-immunotherapy or immunotherapy in non-metastatic MIBC (cT2-T4a N0-1 M0), and for prospective single-arm chemo-immunotherapy or immunotherapy trials. We extracted data on imaging modality and coverage, endoscopic and biomarker-based assessment, timing, correlation with final pathology and diagnostic accuracy. Given heterogeneity in definitions and reporting, no meta-analysis was performed. We identified 22 studies, including 14 RCTs. Most incorporated response evaluation, yet methods differed widely. Computed tomography (CT) was the most frequent modality in RCTs, whereas bladder magnetic resonance imaging (MRI) predom",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42557233",
-    "authors": [
-      {
-        "name": "Roberto Contieri",
-        "affiliation": "Department of Urology, Istituto Nazionale Tumori di Napoli, IRCCS 'G. Pascale', Naples, Italy."
-      },
-      {
-        "name": "Bas W G van Rhijn",
-        "affiliation": "Department of Surgical Oncology (Urology), Netherlands Cancer Institute, Amsterdam, The Netherlands."
-      },
-      {
-        "name": "Richard Cathomas",
-        "affiliation": "Department of Urology, Leiden University Medical Centre, Leiden, The Netherlands."
-      },
-      {
-        "name": "Anja Lorch",
-        "affiliation": "Department of Urology, Caritas St. Josef Medical Centre, University of Regensburg, Regensburg, Germany."
-      }
-    ],
-    "journal": "BJU international",
-    "publishedDate": "2026-09-08",
-    "fetchedDate": "2026-09-08",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "chemotherapy",
-      "immunotherapy",
-      "gene",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 11,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozSkG3c-2kFHot-a37d4a079d4ce578\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
