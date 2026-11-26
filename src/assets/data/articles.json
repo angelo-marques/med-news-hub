@@ -1,5 +1,87 @@
 [
   {
+    "id": "pubmed-43083888",
+    "pmid": "43083888",
+    "doi": "10.1007/s00210-026-06082-2",
+    "title": "Zinc supplementation in adults with sepsis and septic shock: a double-blind randomized trial.",
+    "titlePt": "Zinc supplementation in adults with sepsis and septic shock: a double-blind randomized trial.",
+    "abstract": "Sepsis and septic shock remain major causes of morbidity and mortality in intensive care units (ICUs). Zinc deficiency is common in critically ill patients and may contribute to immune dysregulation, inflammation, and organ dysfunction. However, evidence regarding zinc supplementation in sepsis remains limited. This study aims to evaluate the clinical effects of early oral zinc supplementation in adults with sepsis or septic shock and low serum zinc concentrations. In this prospective, double-blind, randomized controlled trial, 60 adults with Sepsis-3 sepsis or septic shock and low serum zinc concentrations were randomized (1:1) to receive oral zinc sulfate (50 mg elemental zinc daily) or matching placebo until ICU discharge&#xa0;or death. The primary outcome was total hospital length of stay (LOS). Secondary outcomes included in-hospital mortality, ICU LOS, vasopressor duration, acute kidney injury, need for renal replacement therapy, duration of invasive mechanical ventilation, infla",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43083888",
+    "authors": [
+      {
+        "name": "Navid Esmaeilzadeh Shahri",
+        "affiliation": "Department of Clinical Pharmacy, School of Pharmacy, Shiraz University of Medical Sciences, Shiraz, Iran."
+      },
+      {
+        "name": "Laleh Mahmoudi",
+        "affiliation": "Department of Clinical Pharmacy, School of Pharmacy, Shiraz University of Medical Sciences, Shiraz, Iran. formaluse@yahoo.com."
+      },
+      {
+        "name": "Mohammad Javad Fallahi",
+        "affiliation": "Department of Pulmonary and Critical Care, Shiraz University of Medical Sciences, Shiraz, Iran."
+      },
+      {
+        "name": "Seyedeh Nadia Tabatabaeifar",
+        "affiliation": "Internal Medicine Department, School of Medicine, Shiraz University of Medical Sciences, Shiraz, Iran."
+      }
+    ],
+    "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+    "publishedDate": "2026-11-25",
+    "fetchedDate": "2026-11-26",
+    "category": "Infectologia",
+    "tags": [
+      "sepsis",
+      "immune"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pAp531E-2kFHot-a60640bb3e9eb87a\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 3c0d3ca5-353a-4453-b5eb-139a9dd37b5f)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 402: {\"object\":\"error\",\"message\":\"You need a subscription to access this API.\",\"type\":\"billing_no_api_budget_configured\",\"param\":null,\"code\":\"2314\",\"raw_status_code\":402} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42532978",
+    "pmid": "42532978",
+    "doi": "10.1002/bcp.70713",
+    "title": "Efficacy of roxadustat for anaemia in kidney transplant recipients and its drug-drug interaction with tacrolimus: A retrospective cohort study.",
+    "titlePt": "Efficacy of roxadustat for anaemia in kidney transplant recipients and its drug-drug interaction with tacrolimus: A retrospective cohort study.",
+    "abstract": "Post-transplant anaemia is common in kidney transplant recipients (KTRs). Roxadustat is a novel renal anaemia therapy, but its efficacy, safety and interaction with tacrolimus (TAC) in KTRs require further investigation. We conducted a retrospective single-centre cohort study of 145 KTRs with post-transplant anaemia (PTA) (March 2021 to March 2025), stratified by treatment into recombinant human erythropoietin (rhEPO, n&#x2009;=&#x2009;73) and roxadustat (ROX, n&#x2009;=&#x2009;72) groups. Endpoints included haemoglobin (Hb) changes, treatment response rates, liver and kidney function markers and TAC pharmacokinetics (trough concentration [C0], dose [D] and C0/D ratio) at 1, 3 and 6&#x2009;months. For both groups, at all follow-up points, Hb levels increased significantly from baseline (all P&#x2009;&lt;&#x2009;.05). At 6&#x2009;months, compared to the rhEPO group, the ROX group showed a significantly higher treatment response rate (&#x2206;Hb&#x2009;&gt;&#x2009;10&#x2009;g/L: 94.44% v",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532978",
+    "authors": [
+      {
+        "name": "Haoran Qin",
+        "affiliation": "Department of Pharmacy, The Third Affiliated Hospital of Soochow University, Changzhou, China."
+      },
+      {
+        "name": "Qing Qian",
+        "affiliation": "Department of Pharmacy, The Third Affiliated Hospital of Soochow University, Changzhou, China."
+      },
+      {
+        "name": "Jiahao Xu",
+        "affiliation": "Department of Pharmacy, The First People's Hospital of Changzhou, Changzhou, China."
+      },
+      {
+        "name": "Yi Xu",
+        "affiliation": "Department of Pharmacy, The Third Affiliated Hospital of Soochow University, Changzhou, China."
+      }
+    ],
+    "journal": "British journal of clinical pharmacology",
+    "publishedDate": "2026-11-25",
+    "fetchedDate": "2026-11-26",
+    "category": "Farmacologia",
+    "tags": [
+      "drug",
+      "pharmacokinetics"
+    ],
+    "isHighlight": false,
+    "readTime": 11,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pAp589C-2kFHot-a60641272cd4dc14\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: f0edfa7d-ad67-440c-bb45-484c0d865dc8)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 402: {\"object\":\"error\",\"message\":\"You need a subscription to access this API.\",\"type\":\"billing_no_api_budget_configured\",\"param\":null,\"code\":\"2314\",\"raw_status_code\":402} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42104583",
     "pmid": "42104583",
     "doi": "10.1080/1028415X.2026.2667467",
@@ -12251,91 +12333,5 @@
     "readTime": 8,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozaSw8P-2kFHot-a38599bf696819ca\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42501951",
-    "pmid": "42501951",
-    "doi": "10.1016/j.ahj.2026.107544",
-    "title": "Rationale, design, and experiences from the vanguard phase of the bariatric surgery for the reduction of cardiovascular events (BRAVE) trial.",
-    "titlePt": "Rationale, design, and experiences from the vanguard phase of the bariatric surgery for the reduction of cardiovascular events (BRAVE) trial.",
-    "abstract": "Observational studies suggest that metabolic/bariatric surgery (MBS) reduces mortality and major adverse cardiovascular events in patients with obesity, but adequately powered randomized trials (RCTs) are lacking. The Bariatric Surgery for the Reduction of Cardiovascular Events (BRAVE) trial was designed to address this evidence gap. BRAVE is an investigator-initiated, multi-center, open-label RCT with blinded endpoint adjudication comparing MBS vs guideline-based medical weight management (MWM) in adults with obesity and high-risk cardiovascular disease (CVD). Eligible participants have a body-mass index &#x2265;35 kg/m&#xb2; or &#x2265;30 kg/m&#xb2; with type 2 diabetes or age &gt;55 years, and prior myocardial infarction (MI), coronary intervention, heart failure (HF), atrial fibrillation (AF) with elevated CHA&#x2082;DS&#x2082;-VASc score, cerebrovascular disease, or peripheral arterial disease. Participants are randomized 1:1 to MBS (sleeve gastrectomy, Roux-en-Y gastric bypass, o",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501951",
-    "authors": [
-      {
-        "name": "Jorge A Wong",
-        "affiliation": "Population Health Research Institute, Hamilton, Ontario, Canada; Faculty of Health Sciences, McMaster University, Hamilton, Ontario, Canada. Electronic address: wongjas@mcmaster.ca."
-      },
-      {
-        "name": "David Conen",
-        "affiliation": "Population Health Research Institute, Hamilton, Ontario, Canada; Faculty of Health Sciences, McMaster University, Hamilton, Ontario, Canada."
-      },
-      {
-        "name": "Aristithes Doumouras",
-        "affiliation": "Faculty of Health Sciences, McMaster University, Hamilton, Ontario, Canada; Department of Surgery, St. Joseph's Healthcare, Hamilton, Ontario, Canada."
-      },
-      {
-        "name": "Emma Van Reekum",
-        "affiliation": "Population Health Research Institute, Hamilton, Ontario, Canada; Faculty of Health Sciences, McMaster University, Hamilton, Ontario, Canada."
-      }
-    ],
-    "journal": "American heart journal",
-    "publishedDate": "2026-09-08",
-    "fetchedDate": "2026-09-09",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "heart",
-      "myocardial",
-      "atrial",
-      "coronary"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozYJ1Ro-2kFHot-a38346ab6c1876f2\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42575111",
-    "pmid": "42575111",
-    "doi": "10.1016/S2213-8587(26)00133-6",
-    "title": "Efficacy and safety of once-weekly semaglutide 2&#xb7;4 mg in Chinese adults with overweight or obesity (STEP 12): a randomised, double-blind, placebo-controlled, multicentre, phase 3b trial.",
-    "titlePt": "Efficacy and safety of once-weekly semaglutide 2&#xb7;4 mg in Chinese adults with overweight or obesity (STEP 12): a randomised, double-blind, placebo-controlled, multicentre, phase 3b trial.",
-    "abstract": "Semaglutide 2&#xb7;4 mg is a GLP-1 receptor agonist that reduces bodyweight, and provides other cardiometabolic benefits, among people with a BMI at least 30 kg/m2 or at least 27 kg/m2 and with weight-related comorbidities. This trial aimed to evaluate the efficacy, tolerability, and safety of semaglutide 2&#xb7;4 mg in adults from mainland China and Taiwan with overweight or obesity according to locally defined, BMI thresholds. This completed randomised, double-blind, placebo-controlled, multicentre, two-armed, parallel-group, phase 3b trial (STEP 12) was conducted at 19 sites across mainland China and Taiwan. Adults with a BMI of 24-&lt;28 kg/m2 and at least one weight-related comorbidity, or a BMI of 28-&lt;30 kg/m2, with or without type 2 diabetes, were randomly assigned (2:1) to once-weekly subcutaneous semaglutide 2&#xb7;4 mg or placebo, plus lifestyle intervention, for 44 weeks. Randomisation was performed by the study sponsor using the Randomisation Trial Supplies Management Sy",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42575111",
-    "authors": [
-      {
-        "name": "Lixin Guo",
-        "affiliation": "Department of Endocrinology, Beijing Hospital, National Center of Gerontology, Institute of Geriatric Medicine, Chinese Academy of Medical Sciences, Beijing, China. Electronic address: guolixin3234@bjhmoh.cn."
-      },
-      {
-        "name": "Xiaolei Bao",
-        "affiliation": "Novo Nordisk (China) Pharmaceuticals, Beijing, China."
-      },
-      {
-        "name": "Kuo-Chin Huang",
-        "affiliation": "Department of Family Medicine, National Taiwan University Hospital, Taipei, Taiwan."
-      },
-      {
-        "name": "Kristoffer Jensen Kolnes",
-        "affiliation": "Novo Nordisk A/S, S&#xf8;borg, Denmark."
-      }
-    ],
-    "journal": "The lancet. Diabetes &amp; endocrinology",
-    "publishedDate": "2026-09-08",
-    "fetchedDate": "2026-09-09",
-    "category": "Endocrinologia",
-    "tags": [
-      "diabetes",
-      "metabolic",
-      "obesity"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozYJKiN-2kFHot-a383482b9903e9ec\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
