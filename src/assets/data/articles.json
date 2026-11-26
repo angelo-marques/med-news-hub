@@ -1,5 +1,259 @@
 [
   {
+    "id": "pubmed-43094163",
+    "pmid": "43094163",
+    "doi": "10.1111/inm.70410",
+    "title": "Effectiveness of Psychosocial Interventions to Promote Mental Health and Psychological Well-Being Among Older Persons With Depression and Anxiety: Systematic Review.",
+    "titlePt": "Effectiveness of Psychosocial Interventions to Promote Mental Health and Psychological Well-Being Among Older Persons With Depression and Anxiety: Systematic Review.",
+    "abstract": "Depression and anxiety are among the most common mental health problems experienced by older persons. Despite several studies advocating psychosocial treatment for depression and anxiety, little is known about evidence of the effectiveness of psychosocial intervention to promote mental health and psychological well-being among older persons with depression and anxiety. The objective of this review is to explore and examine the effectiveness of psychosocial interventions designed to promote mental health and psychological well-being among older persons with depression and anxiety. We searched and included articles published from 2015 to December 18, 2025, in five databases, including PubMed, ProQuest, Scopus, EBSCOhost, and Google Scholar. The Mixed Method Appraisal Tool (MMAT-18) was used for quality appraisal of the included studies. Due to the heterogeneity of intervention types and outcome measures, as well as the lack of sufficient reported numerical data, we didn't conduct a meta-",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43094163",
+    "authors": [
+      {
+        "name": "Endashaw Habtamu Bayu",
+        "affiliation": "School of Health, Faculty of Medicine and Health, University of New England, Armidale, New South Wales, Australia."
+      },
+      {
+        "name": "Natasha Hawkins",
+        "affiliation": "Department of Psychiatry, College of Medicine and Health Sciences, Dilla University, Dilla, Ethiopia."
+      },
+      {
+        "name": "Kim Usher",
+        "affiliation": "School of Health, Faculty of Medicine and Health, University of New England, Armidale, New South Wales, Australia."
+      },
+      {
+        "name": "Md Shahidul Islam",
+        "affiliation": "School of Health, Faculty of Medicine and Health, University of New England, Armidale, New South Wales, Australia."
+      }
+    ],
+    "journal": "International journal of mental health nursing",
+    "publishedDate": "2026-11-26",
+    "fetchedDate": "2026-11-26",
+    "category": "Saúde Mental",
+    "tags": [
+      "gene",
+      "mental health",
+      "depression",
+      "anxiety",
+      "psychological"
+    ],
+    "isHighlight": false,
+    "readTime": 4,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pAsHKnH-2kFHot-a609b81d8ecb4c92\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 1da28567-18e1-494e-98ad-6a9929b7d0b9)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 402: {\"object\":\"error\",\"message\":\"You need a subscription to access this API.\",\"type\":\"billing_no_api_budget_configured\",\"param\":null,\"code\":\"2314\",\"raw_status_code\":402} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43093334",
+    "pmid": "43093334",
+    "doi": "10.3390/ph19111749",
+    "title": "RepurposeAD: Knowledge Graph-Guided LLM Reasoning for Alzheimer's Drug Repurposing.",
+    "titlePt": "RepurposeAD: Knowledge Graph-Guided LLM Reasoning for Alzheimer's Drug Repurposing.",
+    "abstract": "Background/Objectives: Alzheimer's disease (AD) drug development continues to suffer from high late-stage attrition and narrow mechanistic diversity, which makes the systematic repurposing of approved compounds an urgent priority. Existing computational repurposing methods operate on fragmented biomedical knowledge, rarely integrate transcriptomic and pharmacological evidence within a single reasoning process, and provide little of the mechanistic transparency required for clinical translation. This paper presents RepurposeAD, a knowledge graph-guided large language model (LLM) reasoning framework that identifies and ranks repurposed candidates for AD. Methods: RepurposeAD constructs a unified AD-centric knowledge graph from protein interaction networks, drug-target databases, clinical trial registries, and transcriptomic signatures, linking genetic risk loci, amyloid and tau pathway nodes, neuroinflammatory mediators, and established therapeutic mechanisms. A constrained multi-hop pat",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43093334",
+    "authors": [
+      {
+        "name": "Shahidur Rahoman Sohag",
+        "affiliation": "College of Graduate and Professional Studies, Trine University, Angola, IN 46703, USA."
+      },
+      {
+        "name": "Syed Murtoza Mushrul Pasha",
+        "affiliation": "College of Computer Science, Chongqing University, Chongqing 400044, China."
+      },
+      {
+        "name": "Hossny Ghanem",
+        "affiliation": "Department of Computer Science, Faculty of Computing and Information Technology-Rabigh, King Abdulaziz University Rabigh, Jeddah 21589, Saudi Arabia."
+      },
+      {
+        "name": "Anas W Abulfaraj",
+        "affiliation": "Department of Information Systems, Faculty of Computing and Information Technology, King Abdulaziz University, Rabigh 21911, Saudi Arabia."
+      }
+    ],
+    "journal": "Pharmaceuticals (Basel, Switzerland)",
+    "publishedDate": "2026-11-26",
+    "fetchedDate": "2026-11-26",
+    "category": "Farmacologia",
+    "tags": [
+      "alzheimer",
+      "genetic",
+      "gene",
+      "drug",
+      "clinical trial"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pAsHNs5-2kFHot-a609b85e592d4bce\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: bdf054fc-8b3d-4caa-be43-cfcdca4564ad)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 402: {\"object\":\"error\",\"message\":\"You need a subscription to access this API.\",\"type\":\"billing_no_api_budget_configured\",\"param\":null,\"code\":\"2314\",\"raw_status_code\":402} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43085566",
+    "pmid": "43085566",
+    "doi": "10.1016/j.athoracsur.2026.10.065",
+    "title": "Impact of Glucagon-Like Peptide-1 Receptor Agonist Treatment on Post-Operative Atrial Fibrillation.",
+    "titlePt": "Impact of Glucagon-Like Peptide-1 Receptor Agonist Treatment on Post-Operative Atrial Fibrillation.",
+    "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists have demonstrated cardiovascular benefits with anti-inflammatory and anti-arrhythmic properties. This study aimed to evaluate the association of GLP-1 use with postoperative atrial fibrillation and mortality in patients undergoing cardiac surgery. This was a retrospective cohort study of patients undergoing elective cardiac surgery from 2010 to 2025. Patients were stratified into GLP-1 users and non-users. Patients with a history of atrial fibrillation (AF), concurrent MAZE procedure, and prior cardioversions or ablations were excluded. The primary outcome was incidence of new onset postoperative AF within 30 days. Secondary outcomes included AF-related readmissions and all-cause mortality. Multivariable adjusted regression models were used to compare POAF incidence and time-to-event secondary outcomes. A total of 8,672 patients were included. The 411 GLP-1 users were younger with higher BMI and HbA1c and were more likely to have diabet",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43085566",
+    "authors": [
+      {
+        "name": "Irsa Hasan",
+        "affiliation": "Department of Cardiothoracic Surgery, Division of Cardiac Surgery, University of Pittsburgh, Pittsburgh, Pennsylvania, USA; Heart and Vascular Institute, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA; Department of Epidemiology, University of Pittsburgh, School of Public Health, Pittsburgh, Pennsylvania, USA; Department of Anesthesia, University of Pittsburgh, Pittsburgh, Pennsylvania, USA. Electronic address: hasanis@upmc.edu."
+      },
+      {
+        "name": "Lily G Bessette",
+        "affiliation": "Department of Cardiothoracic Surgery, Division of Cardiac Surgery, University of Pittsburgh, Pittsburgh, Pennsylvania, USA; Heart and Vascular Institute, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA; Department of Epidemiology, University of Pittsburgh, School of Public Health, Pittsburgh, Pennsylvania, USA; Department of Anesthesia, University of Pittsburgh, Pittsburgh, Pennsylvania, USA."
+      },
+      {
+        "name": "Xander Jacquemyn",
+        "affiliation": "Department of Cardiothoracic Surgery, Division of Cardiac Surgery, University of Pittsburgh, Pittsburgh, Pennsylvania, USA; Heart and Vascular Institute, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA; Department of Epidemiology, University of Pittsburgh, School of Public Health, Pittsburgh, Pennsylvania, USA; Department of Anesthesia, University of Pittsburgh, Pittsburgh, Pennsylvania, USA."
+      },
+      {
+        "name": "Takuya Ogami",
+        "affiliation": "Department of Cardiothoracic Surgery, Division of Cardiac Surgery, University of Pittsburgh, Pittsburgh, Pennsylvania, USA; Heart and Vascular Institute, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA; Department of Epidemiology, University of Pittsburgh, School of Public Health, Pittsburgh, Pennsylvania, USA; Department of Anesthesia, University of Pittsburgh, Pittsburgh, Pennsylvania, USA."
+      }
+    ],
+    "journal": "The Annals of thoracic surgery",
+    "publishedDate": "2026-11-25",
+    "fetchedDate": "2026-11-26",
+    "category": "Cardiologia",
+    "tags": [
+      "cardiac",
+      "cardiovascular",
+      "atrial"
+    ],
+    "isHighlight": false,
+    "readTime": 7,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pAsGKWh-2kFHot-a609b3545a684c99\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: ce7d4952-ee4e-4cb4-b5f1-4fe631e97268)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 402: {\"object\":\"error\",\"message\":\"You need a subscription to access this API.\",\"type\":\"billing_no_api_budget_configured\",\"param\":null,\"code\":\"2314\",\"raw_status_code\":402} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43080012",
+    "pmid": "43080012",
+    "doi": "10.1002/jcsm.70428",
+    "title": "Sarcopenia Assessment in Patients Post Metabolic Surgery With Suboptimal Weight Loss and Outcomes of Subsequent Liraglutide 3.0&#x2009;mg.",
+    "titlePt": "Sarcopenia Assessment in Patients Post Metabolic Surgery With Suboptimal Weight Loss and Outcomes of Subsequent Liraglutide 3.0&#x2009;mg.",
+    "abstract": "Sarcopenia risk in post-metabolic surgery populations and in patients subsequently treated with Glucagon-like peptide-1 (GLP-1) RA raises clinical concern due to potential long-term risks of muscle atrophy, frailty and disability. The aims of secondary data analysis from the BARI-OPTIMISE trial were to determine prevalence of baseline sarcopenia risk and examine the effects of 24&#x2009;weeks of liraglutide 3.0&#x2009;mg versus placebo in patients with suboptimal weight loss (WL) post primary metabolic/bariatric surgery (MBS) (sleeve gastrectomy and Roux-en-Y Gastric Bypass) with a poor GLP-1 response. Forty-three patients (46.4&#x2009;&#xb1;&#x2009;9.8&#x2009;years, BMI: 42.9&#x2009;&#xb1;&#x2009;7.37&#x2009;kg/m2)&#x2009;&#x2265;&#x2009;12&#x2009;months post-MBS with suboptimal WL were given liraglutide 3.0&#x2009;mg (n&#x2009;=&#x2009;22), or placebo (n&#x2009;=&#x2009;21) adjunct to lifestyle intervention (500-kcal daily deficit) for 24&#x2009;weeks. DEXA measures for appendicular ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43080012",
+    "authors": [
+      {
+        "name": "Chloe Stanley",
+        "affiliation": "Centre for Obesity Research, University College London, London, UK."
+      },
+      {
+        "name": "Adrian Slee",
+        "affiliation": "NIHR University College London Hospital Biomedical Research Centre, London, UK."
+      },
+      {
+        "name": "Friedrich C Jassil",
+        "affiliation": "Division of Medicine, University College London, London, UK."
+      },
+      {
+        "name": "Rachel Batterham",
+        "affiliation": "Centre for Obesity Research, University College London, London, UK."
+      }
+    ],
+    "journal": "Journal of cachexia, sarcopenia and muscle",
+    "publishedDate": "2026-11-25",
+    "fetchedDate": "2026-11-26",
+    "category": "Endocrinologia",
+    "tags": [
+      "metabolic"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pAsGffq-2kFHot-a609b4fc2f814c99\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 7a766358-9bc5-47bb-90a4-9f711f3896e0)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 402: {\"object\":\"error\",\"message\":\"You need a subscription to access this API.\",\"type\":\"billing_no_api_budget_configured\",\"param\":null,\"code\":\"2314\",\"raw_status_code\":402} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-43085571",
+    "pmid": "43085571",
+    "doi": "10.1016/j.ijid.2026.109268",
+    "title": "Immunogenicity and safety of a live-attenuated varicella vaccine in healthy individuals aged &#x2265;13 years in China: a phase 3, randomized, double-blind, active-controlled, non-inferiority trial.",
+    "titlePt": "Immunogenicity and safety of a live-attenuated varicella vaccine in healthy individuals aged &#x2265;13 years in China: a phase 3, randomized, double-blind, active-controlled, non-inferiority trial.",
+    "abstract": "This phase 3, randomized, double-blind, active-controlled, non-inferiority trial compared test and control varicella vaccines (VarVs) in healthy participants aged &#x2265;13 years without prior varicella vaccination or disease. Conducted at a single center in China (July 2023-March 2024), 1,600 eligible participants were stratified by age (13-17 vs. &#x2265;18 years) and randomized 1:1:1:1 to receive test or control VarV on 0- and 4-week or 0- and 8-week schedule. Primary endpoints were seroconversion rate (SR) difference and geometric mean titer (GMT) ratio at 42 days post-full immunization. Non-inferiority required the lower bound of two-sided 95% CI for SR difference &gt;-5.00% and for GMT ratio &gt;0.67. Primary safety endpoint was incidence of adverse reaction (AR) within 28 days after either dose. In per-protocol population (n =1,444), test VarV was non-inferior to control VarV for SR (difference 3.97%, 95% CI 0.75%, 7.18%) and GMT (ratio 1.20, 95% CI 1.09, 1.33). Local ARs were ",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43085571",
+    "authors": [
+      {
+        "name": "Rong Tang",
+        "affiliation": "Jiangsu Provincial Center for Disease Control and Prevention (Jiangsu Provincial Academy of Preventive Medicine), Nanjing, China."
+      },
+      {
+        "name": "Yun Zhao",
+        "affiliation": "Shanghai Rongsheng Biotech Co., Ltd., Shanghai, China."
+      },
+      {
+        "name": "Zhen Chen",
+        "affiliation": "National Institutes for Food and Drug Control, Beijing, China."
+      },
+      {
+        "name": "Jingxin Li",
+        "affiliation": "School of Public Health, National Vaccine Innovation Platform, Nanjing Medical University, Nanjing, China."
+      }
+    ],
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "publishedDate": "2026-11-25",
+    "fetchedDate": "2026-11-26",
+    "category": "Imunologia",
+    "tags": [
+      "vaccine"
+    ],
+    "isHighlight": false,
+    "readTime": 9,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pAsHBZD-2kFHot-a609b7709a494bce\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: c90c1204-d914-463f-a0d0-42debd085fa1)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 402: {\"object\":\"error\",\"message\":\"You need a subscription to access this API.\",\"type\":\"billing_no_api_budget_configured\",\"param\":null,\"code\":\"2314\",\"raw_status_code\":402} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
+    "id": "pubmed-42381270",
+    "pmid": "42381270",
+    "doi": "10.1016/j.biopsych.2025.09.020",
+    "title": "Impact of Transcranial Direct Current Stimulation-Induced Electric Fields on Slowing Cognitive Decline in Older Adults With Mild Cognitive Impairment or Remitted Major Depressive Disorder: An Analysis of the PACt-MD Randomized Clinical Trial.",
+    "titlePt": "Impact of Transcranial Direct Current Stimulation-Induced Electric Fields on Slowing Cognitive Decline in Older Adults With Mild Cognitive Impairment or Remitted Major Depressive Disorder: An Analysis of the PACt-MD Randomized Clinical Trial.",
+    "abstract": "Mild cognitive impairment and remitted major depressive disorder increase the risk of dementia. The PACt-MD (Prevention of Alzheimer's Dementia With Cognitive Remediation Plus Transcranial Direct Current Stimulation in Mild Cognitive Impairment and Depression) trial (NCT02386670) has shown that combined cognitive remediation (CR) and transcranial direct current stimulation (tDCS) improve cognitive outcomes by targeting executive function and presumably leveraging neurophysiological mechanisms. Our study investigated whether the magnitude of electric fields (EFs) induced by tDCS in the dorsolateral prefrontal cortex (DLPFC) predicted cognitive response in PACt-MD participants. Data from the 143 PACt-MD participants (mean [SD] age = 71.8 [6.34] years) who received active CR+tDCS and had brain magnetic resonance imaging (MRI) were analyzed. EFs were estimated using individual MRI with tDCS electrode placement at Fz (anode) and Iz (cathode). Participants were split into high- and low-EF gr",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42381270",
+    "authors": [
+      {
+        "name": "Mina Mirjalili",
+        "affiliation": "Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, Ontario, Canada."
+      },
+      {
+        "name": "Heather Brooks",
+        "affiliation": "Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, Ontario, Canada."
+      },
+      {
+        "name": "Clement Ma",
+        "affiliation": "Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, Ontario, Canada; Division of Biostatistics, Dalla Lana School of Public Health, University of Toronto, Toronto, Ontario, Canada."
+      },
+      {
+        "name": "Alina Lee",
+        "affiliation": "Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, Ontario, Canada."
+      }
+    ],
+    "journal": "Biological psychiatry",
+    "publishedDate": "2026-11-25",
+    "fetchedDate": "2026-11-26",
+    "category": "Neurologia",
+    "tags": [
+      "brain",
+      "alzheimer",
+      "dementia",
+      "cognitive",
+      "clinical trial"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pAsHEWw-2kFHot-a609b7aed8374c92\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 2c4a1373-cc89-45e0-950c-b9710c85316d)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 402: {\"object\":\"error\",\"message\":\"You need a subscription to access this API.\",\"type\":\"billing_no_api_budget_configured\",\"param\":null,\"code\":\"2314\",\"raw_status_code\":402} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43083888",
     "pmid": "43083888",
     "doi": "10.1007/s00210-026-06082-2",
@@ -12074,264 +12328,5 @@
     "readTime": 7,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozqfcGq-2kFHot-a396065a0ec1a682\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-41706060",
-    "pmid": "41706060",
-    "doi": "10.1016/j.jacc.2025.12.032",
-    "title": "Polygenic Risk Based Detection and Treatment of Subclinical Coronary Atherosclerosis in the PROACT Clinical Trials.",
-    "titlePt": "Polygenic Risk Based Detection and Treatment of Subclinical Coronary Atherosclerosis in the PROACT Clinical Trials.",
-    "abstract": "Coronary artery disease (CAD) polygenic risk scores (PRS) may identify individuals at elevated genetic risk \"flying under the radar\" in contemporary practice. The aims of the PROACT (Polygenic Risk Based Detection and Treatment of Subclinical Coronary Atherosclerosis) trials are to prospectively identify these individuals, quantify subclinical coronary plaque, and slow its progression with pharmacologic interventions. The aim of this study is to report interim feasibility and implementation findings from PROACT, a genotype-first, biobank-enabled trial, characterizing eligibility yield, callback engagement, and subclinical coronary atherosclerosis on coronary computed tomographic angiography among individuals with high CAD PRS. Within a hospital-based biobank, adults 40 to 75 years of age with high CAD PRS, without cardiovascular disease, and not on lipid-lowering therapy were invited. The authors characterize 2,495 eligible individuals with high CAD PRS, report on the feasibility and e",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41706060",
-    "authors": [
-      {
-        "name": "Roukoz Abou-Karam",
-        "affiliation": "Cardiovascular Research Center, Department of Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, USA; Cardiovascular Disease Initiative, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA."
-      },
-      {
-        "name": "Min Seo Kim",
-        "affiliation": "Cardiovascular Research Center, Department of Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, USA; Cardiovascular Disease Initiative, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA."
-      },
-      {
-        "name": "So Mi Jemma Cho",
-        "affiliation": "Cardiovascular Research Center, Department of Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, USA; Cardiovascular Disease Initiative, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA."
-      },
-      {
-        "name": "Fouad Bitar",
-        "affiliation": "Cardiovascular Research Center, Department of Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, USA; Cardiovascular Disease Initiative, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA."
-      }
-    ],
-    "journal": "Journal of the American College of Cardiology",
-    "publishedDate": "2026-09-09",
-    "fetchedDate": "2026-09-11",
-    "category": "Cardiologia",
-    "tags": [
-      "cardiovascular",
-      "coronary",
-      "genetic",
-      "gene",
-      "clinical trial"
-    ],
-    "isHighlight": false,
-    "readTime": 9,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozqfi4Y-2kFHot-a39606d3ebc2a682\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42541895",
-    "pmid": "42541895",
-    "doi": "10.1016/j.currproblcancer.2026.101328",
-    "title": "Blinatumomab versus chemotherapy in pediatric B-ALL: A meta-analysis of randomized trials in relapsed and high-risk frontline disease.",
-    "titlePt": "Blinatumomab versus chemotherapy in pediatric B-ALL: A meta-analysis of randomized trials in relapsed and high-risk frontline disease.",
-    "abstract": "B-cell acute lymphoblastic leukemia (B-ALL) is the most common pediatric cancer, comprising almost 25 % of childhood malignancies. Despite advances in chemotherapy, relapse remains a major cause of treatment failure, particularly in high-risk patients. Blinatumomab, a CD19-directed bispecific T-cell engager, approved for relapsed/refractory and measurable residual disease (MRD)-positive B-ALL, but its benefit in pediatric patients at increased risk of relapse remains uncertain. To evaluate whether adding blinatumomab to chemotherapy improves survival and MRD outcomes in pediatric patients with relapsed/refractory or high-risk frontline B-ALL. We searched PubMed, EMBASE, and Cochrane Library through March 2025, following PRISMA 2020 guidelines. Randomized controlled trials (RCTs) evaluating blinatumomab versus chemotherapy in pediatric B-ALL patients at increased risk of relapse. Primary outcomes were disease-free survival (DFS). Overall survival (OS), MRD, and adverse effects were also",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42541895",
-    "authors": [
-      {
-        "name": "Adeena Musheer",
-        "affiliation": "Department of Medicine, Dow Medical College, Pakistan."
-      },
-      {
-        "name": "Muhammad Shaheer Mannan",
-        "affiliation": "Department of Internal Medicine, Marshfield Clinic, Marshfield, WI, USA."
-      },
-      {
-        "name": "Muhammad Waqas Khan",
-        "affiliation": "Department of Internal Medicine, Medical University of South Carolina, SC, USA. Electronic address: khanmuha@musc.edu."
-      },
-      {
-        "name": "Ayesha Junaid",
-        "affiliation": "Department of Medicine, Dow Medical College, Pakistan."
-      }
-    ],
-    "journal": "Current problems in cancer",
-    "publishedDate": "2026-09-09",
-    "fetchedDate": "2026-09-11",
-    "category": "Oncologia",
-    "tags": [
-      "cancer",
-      "leukemia",
-      "chemotherapy",
-      "pediatric",
-      "childhood"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozqgMpm-2kFHot-a39609edbb991e0f\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42716687",
-    "pmid": "42716687",
-    "doi": "10.1136/bmjopen-2026-118786",
-    "title": "Ebetsu Active Future Study (EAFS): cognitive function and physical and mental health in elderly residents of Ebetsu City, Japan - cohort profile.",
-    "titlePt": "Ebetsu Active Future Study (EAFS): cognitive function and physical and mental health in elderly residents of Ebetsu City, Japan - cohort profile.",
-    "abstract": "Ebetsu Active Future Study (EAFS) conducts comprehensive annual surveys of individuals who are independent in activities of daily living (ADLs) to track age-related physical and mental changes. These surveys include a variety of assessments such as cognitive function tests, physical function tests, blood tests, self-administered questionnaires about lifestyle and health, and interviews regarding medical and family history. In addition, serum, plasma and DNA samples from these assessments are stored at -80&#xb0;C to facilitate future analyses and accommodate the potential addition of new measurement items. The purposes of this study are: (1) to identify potential blood-based biomarkers applicable to the detection of various types of mild cognitive impairment (MCI), (2) to explore diet-based strategies for preventing MCI and the progression of dementia, (3) to examine the relationship between urban characteristics, individual attributes and healthy life expectancy in Ebetsu City and (4) ",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716687",
-    "authors": [
-      {
-        "name": "Hiroyo Kagami-Katsuyama",
-        "affiliation": "Department of Medical Management and Informatics, Hokkaido Information University, Ebetsu, Japan."
-      },
-      {
-        "name": "Naohito Ito",
-        "affiliation": "Department of Medical Management and Informatics, Hokkaido Information University, Ebetsu, Japan."
-      },
-      {
-        "name": "Makoto Hazama",
-        "affiliation": "Department of Medical Management and Informatics, Hokkaido Information University, Ebetsu, Japan."
-      },
-      {
-        "name": "Nobuyuki Toya",
-        "affiliation": "Department of Medical Management and Informatics, Hokkaido Information University, Ebetsu, Japan."
-      }
-    ],
-    "journal": "BMJ open",
-    "publishedDate": "2026-09-09",
-    "fetchedDate": "2026-09-10",
-    "category": "Neurologia",
-    "tags": [
-      "dementia",
-      "cognitive",
-      "dna",
-      "mental health"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozfsuLN-2kFHot-a38b7618ed24a20c\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42716078",
-    "pmid": "42716078",
-    "doi": "10.1016/S1474-4422(26)00313-3",
-    "title": "Plasma phosphorylated tau 217 concentrations, APOE genotype, and timing of cognitive impairment in individuals across diverse racial and ethnic groups: a pooled analysis of prospective cohort studies.",
-    "titlePt": "Plasma phosphorylated tau 217 concentrations, APOE genotype, and timing of cognitive impairment in individuals across diverse racial and ethnic groups: a pooled analysis of prospective cohort studies.",
-    "abstract": "Plasma tau phosphorylated at threonine 217 (p-tau217), a biomarker of Alzheimer's disease neuropathological changes, can increase before overt symptoms occur. However, individuals with similar p-tau217 concentrations but different genetic backgrounds might differ in their risk or timing of cognitive decline. We aimed to determine whether APOE genotype provides additional prognostic information beyond plasma p-tau217 concentration for estimating the risk and timing of cognitive impairment. We did a pooled analysis of participant-level data from seven multi-ethnic prospective cohorts of older adults, including individuals with no cognitive impairment at increased risk of dementia and individuals with mild cognitive impairment or dementia, recruited through academic research centres and community-based settings in Canada, Dominican Republic, and USA. Data were collected from 1992 to 2025. This study included data from participants with plasma p-tau217 measurements, clinical cognitive stat",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42716078",
-    "authors": [
-      {
-        "name": "Yuexuan Xu",
-        "affiliation": "Taub Institute for Research on Alzheimer's Disease and the Aging Brain, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA; G H Sergievsky Center, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
-      },
-      {
-        "name": "Tamil Iniyan Gunasekaran",
-        "affiliation": "Taub Institute for Research on Alzheimer's Disease and the Aging Brain, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA; G H Sergievsky Center, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
-      },
-      {
-        "name": "Yian Gu",
-        "affiliation": "Taub Institute for Research on Alzheimer's Disease and the Aging Brain, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA; G H Sergievsky Center, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA; Department of Neurology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
-      },
-      {
-        "name": "Dolly Reyes-Dumeyer",
-        "affiliation": "Taub Institute for Research on Alzheimer's Disease and the Aging Brain, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA; G H Sergievsky Center, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA."
-      }
-    ],
-    "journal": "The Lancet. Neurology",
-    "publishedDate": "2026-09-09",
-    "fetchedDate": "2026-09-10",
-    "category": "Neurologia",
-    "tags": [
-      "alzheimer",
-      "dementia",
-      "cognitive",
-      "genetic",
-      "gene"
-    ],
-    "isHighlight": false,
-    "readTime": 7,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozfswuX-2kFHot-a38b764dcb88acdb\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42391695",
-    "pmid": "42391695",
-    "doi": "10.1016/j.talanta.2026.130187",
-    "title": "Mapping the analytical toolbox for next-generation adjuvant immunology: A bibliometric analysis of characterization techniques and emerging trends (2006-2025).",
-    "titlePt": "Mapping the analytical toolbox for next-generation adjuvant immunology: A bibliometric analysis of characterization techniques and emerging trends (2006-2025).",
-    "abstract": "This study presents a comprehensive bibliometric analysis of next-generation immunomodulatory adjuvants (NIAs) and advanced immune characterisation research from 2006 to 2025, aiming to delineate the global landscape, thematic structure, and emerging frontiers in adjuvant immunology. A total of 8637 unique publications retrieved from the Web of Science Core Collection and Scopus were analysed using bibliometric, network, and co-occurrence approaches. The results show a sharp surge in research output since 2020, driven by mRNA-lipid nanoparticle vaccine development, with the United States and China emerging as dual global research hubs. Publications are distributed across five disciplinary domains centred on general/vaccine immunology, and institutional collaboration forms three major clusters dominated by the U.S., China, and Europe-Oceania respectively. Co-citation and keyword analyses reveal lipid nanoparticle/cGAS-STING signalling and mRNA vaccine/COVID-19 as the core mechanistic an",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42391695",
-    "authors": [
-      {
-        "name": "Lan Deng",
-        "affiliation": "Hematology Department, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, China."
-      },
-      {
-        "name": "Hongli Zhang",
-        "affiliation": "Hospital Infection Prevention and Control Management, The Third Affiliated Hospital of Southern Medical University, Guangdong, China."
-      },
-      {
-        "name": "Wanpei Liang",
-        "affiliation": "Foshan Clinical Technology Innovation Base of Traditional Chinese Medicine for Integrated Traditional Chinese and Western Medicine in Cancer Prevention and Treatment, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China; Key Laboratory of Tumor Microenvironment Regulation of Guangdong Higher Education Institutes, Southern Medical University, Guangdong, China; Foshan Engineering Technology Research Center of Molecular Medicine, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China; Shunde Regional Medical Research Center, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China."
-      },
-      {
-        "name": "Liming Zeng",
-        "affiliation": "Foshan Clinical Technology Innovation Base of Traditional Chinese Medicine for Integrated Traditional Chinese and Western Medicine in Cancer Prevention and Treatment, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China; Key Laboratory of Tumor Microenvironment Regulation of Guangdong Higher Education Institutes, Southern Medical University, Guangdong, China; Foshan Engineering Technology Research Center of Molecular Medicine, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China; Shunde Regional Medical Research Center, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China."
-      }
-    ],
-    "journal": "Talanta",
-    "publishedDate": "2026-09-09",
-    "fetchedDate": "2026-09-09",
-    "category": "Imunologia",
-    "tags": [
-      "covid",
-      "gene",
-      "rna",
-      "immune",
-      "immunology"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozcf79F-2kFHot-a387fc4c7b598075\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42710700",
-    "pmid": "42710700",
-    "doi": "10.1016/j.jstrokecerebrovasdis.2026.108744",
-    "title": "Carotid Revascularization is Associated with Reduced Recurrence in Symptomatic Carotid Web.",
-    "titlePt": "Carotid Revascularization is Associated with Reduced Recurrence in Symptomatic Carotid Web.",
-    "abstract": "Carotid artery web is a rare and underrecognized cause of ischemic stroke. Current literature emphasizes their underdiagnosis and association with high recurrence rates despite medical management. We report a single-center experience of carotid revascularization in patients with ischemic stroke and ipsilateral carotid webs. This retrospective case series includes 20 patients who presented with acute strokes attributed to ipsilateral carotid webs and subsequently underwent carotid revascularization at a Comprehensive Stroke Center between January 2015 and December 2025. Data on demographics, clinical presentation, and imaging findings were collected via chart review. Descriptive statistics summarize patient characteristics and outcomes. Twenty patients with ischemic stroke and ipsilateral carotid artery web underwent carotid revascularization. The median age was 54 years (IQR: 45-62), and 70% were female. Median NIHSS was 9 (IQR: 5-15). Fifteen (75%) underwent mechanical thrombectomy an",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42710700",
-    "authors": [
-      {
-        "name": "Skylar Lewis",
-        "affiliation": "Department of Neurology, Brown University. Electronic address: slewis7@brownhealth.org."
-      },
-      {
-        "name": "Joshua Feler",
-        "affiliation": "Department of Neurosurgery, Brown University."
-      },
-      {
-        "name": "Dylan Wolman",
-        "affiliation": "Department of Neurosurgery, Brown University."
-      },
-      {
-        "name": "Radmehr Torabi",
-        "affiliation": "Department of Neurosurgery, Brown University."
-      }
-    ],
-    "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
-    "publishedDate": "2026-09-08",
-    "fetchedDate": "2026-09-09",
-    "category": "Neurologia",
-    "tags": [
-      "stroke"
-    ],
-    "isHighlight": false,
-    "readTime": 8,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozaSw8P-2kFHot-a38599bf696819ca\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
