@@ -1,5 +1,47 @@
 [
   {
+    "id": "pubmed-42772010",
+    "pmid": "42772010",
+    "doi": "10.1016/j.aprim.2026.103609",
+    "title": "[Effectiveness of interventions in schools for the prevention and reduction of childhood obesity and overweight: A systematic review and meta-analysis].",
+    "titlePt": "[Effectiveness of interventions in schools for the prevention and reduction of childhood obesity and overweight: A systematic review and meta-analysis].",
+    "abstract": "To synthesize evidence on the effectiveness of school-based program strategies aimed at reducing the prevalence of childhood obesity and overweight. Systematic review and meta-analysis following the PRISMA guidelines. PubMed, SciELO, Embase, Cuiden, ScienceDirect, Dialnet, IBECS and Web of Science STUDY SELECTION: Empirical studies published between January 1, 2010, and June 1, 2025, conducted in school-aged children in Spain, were included if they evaluated interventions implemented in the school setting and provided complete data on obesity and/or overweight before and after the intervention. Studies conducted outside Spain, non-school-based interventions, and documents without sufficient data for analysis were excluded. Screening was performed in two phases: title/abstract and full text. Data were extracted on study characteristics, sample size, participants' age, type of intervention, assessment instruments, prevalence of obesity and/or overweight before and after the intervention,",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42772010",
+    "authors": [
+      {
+        "name": "F&#xe1;tima M&#xe9;ndez-L&#xf3;pez",
+        "affiliation": "Grupo Aragones de Investigaci&#xf3;n en Atenci&#xf3;n Primaria, Instituto de Investigaci&#xf3;n Sanitaria de Arag&#xf3;n (IIS Arag&#xf3;n), Zaragoza, Espa&#xf1;a; Departamento de Fisiatr&#xed;a y Enfermer&#xed;a, Facultad de Ciencias de la Salud, Universidad de Zaragoza, Zaragoza, Espa&#xf1;a; Red de Investigaci&#xf3;n en Cronicidad, Atenci&#xf3;n Primaria y Promoci&#xf3;n de la Salud (RICAPPS) RD24/0005/0004, Instituto de Salud Carlos III, Madrid, Espa&#xf1;a."
+      },
+      {
+        "name": "Alejandra Aguilar-Latorre",
+        "affiliation": "Grupo Aragones de Investigaci&#xf3;n en Atenci&#xf3;n Primaria, Instituto de Investigaci&#xf3;n Sanitaria de Arag&#xf3;n (IIS Arag&#xf3;n), Zaragoza, Espa&#xf1;a; Red de Investigaci&#xf3;n en Cronicidad, Atenci&#xf3;n Primaria y Promoci&#xf3;n de la Salud (RICAPPS) RD24/0005/0004, Instituto de Salud Carlos III, Madrid, Espa&#xf1;a; Departamento de Psicolog&#xed;a y Sociolog&#xed;a, Universidad de Zaragoza, Zaragoza, Espa&#xf1;a. Electronic address: aaguilar@unizar.es."
+      },
+      {
+        "name": "Carmen Vicente-Garc&#xed;a",
+        "affiliation": "Grupo Aragones de Investigaci&#xf3;n en Atenci&#xf3;n Primaria, Instituto de Investigaci&#xf3;n Sanitaria de Arag&#xf3;n (IIS Arag&#xf3;n), Zaragoza, Espa&#xf1;a."
+      },
+      {
+        "name": "Ana Gast&#xf3;n-Faci",
+        "affiliation": "Grupo Aragones de Investigaci&#xf3;n en Atenci&#xf3;n Primaria, Instituto de Investigaci&#xf3;n Sanitaria de Arag&#xf3;n (IIS Arag&#xf3;n), Zaragoza, Espa&#xf1;a; Red de Investigaci&#xf3;n en Cronicidad, Atenci&#xf3;n Primaria y Promoci&#xf3;n de la Salud (RICAPPS) RD24/0005/0004, Instituto de Salud Carlos III, Madrid, Espa&#xf1;a; Centro de Salud Utebo, Servicio Aragon&#xe9;s de Salud (SALUD), Zaragoza, Espa&#xf1;a."
+      }
+    ],
+    "journal": "Atencion primaria",
+    "publishedDate": "2026-11-26",
+    "fetchedDate": "2026-11-27",
+    "category": "Pediatria",
+    "tags": [
+      "children",
+      "childhood",
+      "obesity"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pAxaWzx-2kFHot-a60f6f6c78dfa1ef\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 2f2c9356-b275-4b58-981d-77953c93a1d5)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 402: {\"object\":\"error\",\"message\":\"You need a subscription to access this API.\",\"type\":\"billing_no_api_budget_configured\",\"param\":null,\"code\":\"2314\",\"raw_status_code\":402} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-43094163",
     "pmid": "43094163",
     "doi": "10.1111/inm.70410",
@@ -12287,49 +12329,5 @@
     "readTime": 10,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozp9icB-2kFHot-a39463afbcaa6d41\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42391695",
-    "pmid": "42391695",
-    "doi": "10.1016/j.talanta.2026.130187",
-    "title": "Mapping the analytical toolbox for next-generation adjuvant immunology: A bibliometric analysis of characterization techniques and emerging trends (2006-2025).",
-    "titlePt": "Mapping the analytical toolbox for next-generation adjuvant immunology: A bibliometric analysis of characterization techniques and emerging trends (2006-2025).",
-    "abstract": "This study presents a comprehensive bibliometric analysis of next-generation immunomodulatory adjuvants (NIAs) and advanced immune characterisation research from 2006 to 2025, aiming to delineate the global landscape, thematic structure, and emerging frontiers in adjuvant immunology. A total of 8637 unique publications retrieved from the Web of Science Core Collection and Scopus were analysed using bibliometric, network, and co-occurrence approaches. The results show a sharp surge in research output since 2020, driven by mRNA-lipid nanoparticle vaccine development, with the United States and China emerging as dual global research hubs. Publications are distributed across five disciplinary domains centred on general/vaccine immunology, and institutional collaboration forms three major clusters dominated by the U.S., China, and Europe-Oceania respectively. Co-citation and keyword analyses reveal lipid nanoparticle/cGAS-STING signalling and mRNA vaccine/COVID-19 as the core mechanistic an",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42391695",
-    "authors": [
-      {
-        "name": "Lan Deng",
-        "affiliation": "Hematology Department, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, China."
-      },
-      {
-        "name": "Hongli Zhang",
-        "affiliation": "Hospital Infection Prevention and Control Management, The Third Affiliated Hospital of Southern Medical University, Guangdong, China."
-      },
-      {
-        "name": "Wanpei Liang",
-        "affiliation": "Foshan Clinical Technology Innovation Base of Traditional Chinese Medicine for Integrated Traditional Chinese and Western Medicine in Cancer Prevention and Treatment, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China; Key Laboratory of Tumor Microenvironment Regulation of Guangdong Higher Education Institutes, Southern Medical University, Guangdong, China; Foshan Engineering Technology Research Center of Molecular Medicine, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China; Shunde Regional Medical Research Center, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China."
-      },
-      {
-        "name": "Liming Zeng",
-        "affiliation": "Foshan Clinical Technology Innovation Base of Traditional Chinese Medicine for Integrated Traditional Chinese and Western Medicine in Cancer Prevention and Treatment, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China; Key Laboratory of Tumor Microenvironment Regulation of Guangdong Higher Education Institutes, Southern Medical University, Guangdong, China; Foshan Engineering Technology Research Center of Molecular Medicine, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China; Shunde Regional Medical Research Center, The Eighth Affiliated Hospital, Southern Medical University (The First People's Hospital of Shunde), Foshan, Guangdong, China."
-      }
-    ],
-    "journal": "Talanta",
-    "publishedDate": "2026-09-09",
-    "fetchedDate": "2026-11-26",
-    "category": "Imunologia",
-    "tags": [
-      "covid",
-      "gene",
-      "rna",
-      "immune",
-      "immunology"
-    ],
-    "isHighlight": false,
-    "readTime": 6,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pAskC4R-2kFHot-a60a381848e3570f\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 3546d983-7c4d-4e7f-8a33-28e9603b0d53)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 402: {\"object\":\"error\",\"message\":\"You need a subscription to access this API.\",\"type\":\"billing_no_api_budget_configured\",\"param\":null,\"code\":\"2314\",\"raw_status_code\":402} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
