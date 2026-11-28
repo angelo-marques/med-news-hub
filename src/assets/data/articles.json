@@ -1,5 +1,45 @@
 [
   {
+    "id": "pubmed-43102121",
+    "pmid": "43102121",
+    "doi": "10.1002/jfa2.70241",
+    "title": "Prevention of Lower Limb Reamputation in People With Diabetes: A Scoping Review and Evidence Synthesis.",
+    "titlePt": "Prevention of Lower Limb Reamputation in People With Diabetes: A Scoping Review and Evidence Synthesis.",
+    "abstract": "Lower limb reamputation among people living with diabetes remains a major global health concern; up to 37% experience reamputation within five years. Despite 85% of diabetes-related amputations being preventable, long-term strategies to preserve limb function after an initial amputation are insufficiently addressed in current practice and research. The primary aim of this review was to identify the medical and rehabilitative interventions designed to prevent lower limb reamputation in people with diabetes. To support this aim, the review also examined (i) risk factors and outcomes associated with these interventions, and (ii) the methodological quality of existing evidence, with the overall goal of (iii) informing future research and clinical practice. This scoping review followed Arksey and O'Malley's framework with methodological refinements from the Joanna Briggs Institute (JBI). A systematic search of five electronic databases and grey literature sources was conducted up to Februar",
+    "imagePlaceholder": true,
+    "source": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43102121",
+    "authors": [
+      {
+        "name": "Nouf Alharbi",
+        "affiliation": "School of Health Sciences, University of Southampton, Southampton, UK."
+      },
+      {
+        "name": "Liudi Jiang",
+        "affiliation": "Faculty of Medical Rehabilitation Sciences, King Abdulaziz University, Jeddah, Saudi Arabia."
+      },
+      {
+        "name": "Leire Ambrosio",
+        "affiliation": "School of Engineering, University of Southampton, Southampton, UK."
+      },
+      {
+        "name": "Lindsey Cherry",
+        "affiliation": "School of Health Sciences, University of Southampton, Southampton, UK."
+      }
+    ],
+    "journal": "Journal of foot and ankle research",
+    "publishedDate": "2026-11-27",
+    "fetchedDate": "2026-11-28",
+    "category": "Endocrinologia",
+    "tags": [
+      "diabetes"
+    ],
+    "isHighlight": false,
+    "readTime": 6,
+    "aiProcessed": false,
+    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"deepseek/deepseek-r1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models\",\"code\":404},\"user_id\": | Together: HTTP 401: {\n  \"id\": \"pB4E1oy-2kFHot-a61587727ed39200\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: f068c57b-5c05-426e-8e7c-d5495b240d65)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 402: {\"object\":\"error\",\"message\":\"You need a subscription to access this API.\",\"type\":\"billing_no_api_budget_configured\",\"param\":null,\"code\":\"2314\",\"raw_status_code\":402} | SiliconFlow: HTTP 401: {\"code\":30014,\"data\":null,\"message\":\"Token is invalid.\"} | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
+  },
+  {
     "id": "pubmed-42772010",
     "pmid": "42772010",
     "doi": "10.1016/j.aprim.2026.103609",
@@ -12289,45 +12329,5 @@
     "readTime": 9,
     "aiProcessed": false,
     "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozp9fzw-2kFHot-a3946378cf4c8ad4\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
-  },
-  {
-    "id": "pubmed-42722542",
-    "pmid": "42722542",
-    "doi": "10.1016/j.hlc.2026.04.125",
-    "title": "Pulsed Field Ablation for Atrial Fibrillation in Australia: A Large Tertiary Centre Analysis.",
-    "titlePt": "Pulsed Field Ablation for Atrial Fibrillation in Australia: A Large Tertiary Centre Analysis.",
-    "abstract": "Pulsed field ablation (PFA) is increasingly used for catheter ablation of atrial fibrillation (AF). Limited real-world data exists regarding safety and efficacy of PFA in Australia. We conducted a retrospective analysis of consecutive patients undergoing de novo PFA for paroxysmal or persistent AF at a large tertiary centre using a pentaspline catheter (FARAPULSE, Boston Scientific) from 2022 to 2025. Baseline demographics, procedural characteristics, procedural complications, clinical outcomes and repeat procedures were collected. Arrhythmia recurrence was defined as &gt;30 seconds of AF, atrial flutter or atrial tachycardia at follow-up with no blanking period. Overall, 564 consecutive patients (median age 64 years, 35% female) underwent de novo PFA for AF during the study period. Most patients had paroxysmal AF (63%). Pulmonary vein (PV) isolation was performed in 563 of 564 patients; posterior wall (PW) isolation was performed in 41% and superior vena cava ablation in 3%. Median to",
-    "imagePlaceholder": true,
-    "source": "PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42722542",
-    "authors": [
-      {
-        "name": "Francis J Ha",
-        "affiliation": "Victorian Heart Institute and Victorian Heart Hospital, Monash University, Clayton, Vic, Australia. Electronic address: francis.j.ha@gmail.com."
-      },
-      {
-        "name": "Duron Prinsloo",
-        "affiliation": "Victorian Heart Institute and Victorian Heart Hospital, Monash University, Clayton, Vic, Australia."
-      },
-      {
-        "name": "Edwin Xu",
-        "affiliation": "Victorian Heart Institute and Victorian Heart Hospital, Monash University, Clayton, Vic, Australia."
-      },
-      {
-        "name": "Hui Chen Han",
-        "affiliation": "Victorian Heart Institute and Victorian Heart Hospital, Monash University, Clayton, Vic, Australia."
-      }
-    ],
-    "journal": "Heart, lung &amp; circulation",
-    "publishedDate": "2026-09-10",
-    "fetchedDate": "2026-09-11",
-    "category": "Cardiologia",
-    "tags": [
-      "atrial"
-    ],
-    "isHighlight": false,
-    "readTime": 10,
-    "aiProcessed": false,
-    "aiProcessingError": "Gemini: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvemen | Groq: HTTP 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n | OpenRouter: HTTP 404: {\"error\":{\"message\":\"This model is unavailable for free. The paid version is available now - use this slug instead: deepseek/deepseek-r1\",\"code\":404},\"user_id\":\"user_3CMaOAX2Bha9ztzdwkLkDsv3WHO\"} | Together: HTTP 401: {\n  \"id\": \"ozp9icB-2kFHot-a39463afbcaa6d41\",\n  \"error\": {\n    \"message\": \"Invalid API key provided. You can find your API key at https://api.together.ai/settings/api-keys.\",\n    \"type\": \"invalid_reque | DeepSeek: HTTP 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}} | Mistral: HTTP 429: {\"object\":\"error\",\"message\":\"Rate limit exceeded\",\"type\":\"rate_limited\",\"param\":null,\"code\":\"1300\",\"raw_status_code\":429} | SiliconFlow: HTTP 401: \"Api key is invalid\" | Anthropic: HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i | OpenAI: HTTP 429: {\n    \"error\": {\n        \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n        \"type\": \"insufficient"
   }
 ]
